@@ -1,8 +1,34 @@
 import InflectionTable from './InflectionTable';
+import { fetchWordData } from '../pages/Api';
+import { useState, useEffect } from 'react';
 
 
 
-const WordDataComponent = ({ wordData }: { wordData: any[][][] }) => {
+interface WordDataComponentProps {
+  wordData: any[][][];
+  setWordData: React.Dispatch<React.SetStateAction<any[][][]>>;
+}
+
+const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) => {
+
+
+  const handleWordClick = async (word: string, index: number) => {
+    console.log(`Clicked word: ${word}`);
+    console.log(`Index: ${index}`);
+    fetchWordData(word).then(data => {
+      console.log(data);  
+      setWordData(prevWordData => {
+        // Create a copy of the previous state
+        const newData = [...prevWordData];
+        // Insert the new data at index + 1
+        newData.splice(index + 1, 0, ...data);
+        console.log(newData);
+        return newData;
+      });
+    });
+  }
+  
+
   return (
     <>
       {wordData && wordData.map((entry, index) => {
@@ -49,11 +75,35 @@ const WordDataComponent = ({ wordData }: { wordData: any[][][] }) => {
               
                           <InflectionTable inflection_wordsIAST={entry[3]} rowcolstitles={entry[2]} />     
                           <div>
+
                             Vocabulary entries:
-                              {entry[6].map((item, index) => (  
-                                        <p key={index} dangerouslySetInnerHTML={{ __html: item.replace(/<s>(.*?)<\/s>/g, '<span style="font-style:italic; color: teal;">$1</span>') }} />
-                                    ))}
-                                </div>
+
+                              {entry[6].map((item: string, index: number) => (  
+                                <p key={index}>
+                                  {item.split(/<s>(.*?)<\/s>/g).map((segment: string, i: number) => {
+                                    if (i % 2 === 1) { // the words inside <s> and </s> are at odd indices
+                                      const cleanedSegment = segment.replace(/<[^>]*>/g, '');
+                                      return cleanedSegment.split(/(\s(?=\w)|—(?=\w)|-(?=\w))/).map((word: string, j: number) => (
+                                        <span
+                                          key={j}
+                                          style={{fontStyle: 'italic', color: 'teal'}}
+                                          onClick={() => handleWordClick(word, index)}
+                                        >
+                                          {word}
+                                        </span>
+                                      ));
+                                    } else {
+                                      const cleanedSegment = segment.replace(/<[^>]*>/g, '');
+                                      return cleanedSegment;
+
+                                    }
+                                  })}
+                                </p>
+                              ))}
+
+
+
+                          </div>
                             
                             <hr />
                             
@@ -84,6 +134,8 @@ const WordDataComponent = ({ wordData }: { wordData: any[][][] }) => {
   };
 
 export default WordDataComponent;
+
+
 
 
 

@@ -71,7 +71,7 @@ export function HomePage() {
     }
   }, [words]);
 
-  const [wordData, setWordData] = useState([]);
+  const [wordData, setWordData] = useState<any[][][]>([]);
 
   useEffect(() => {
     if (selectedWord) {
@@ -176,7 +176,7 @@ export function HomePage() {
         </Grid.Col>
   
         <Grid.Col span={6} style={{ marginTop: '100px', maxHeight: '100vh', paddingLeft: '50px', paddingRight: '80px', overflowY: 'auto' }}>
-             <WordDataComponent wordData={wordData}/>
+             <WordDataComponent wordData={wordData} setWordData={setWordData}/>
         </Grid.Col>
       </Grid>
     </div>
