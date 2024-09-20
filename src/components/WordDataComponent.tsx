@@ -38,7 +38,7 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
             <div>
               <h1 className="text-xl" style={{fontFamily:"Garamond", fontWeight:"bold"}}>{entry[0]}</h1>
               {entry[0] !== entry[5] && <p style={{fontFamily:"Garamond"}}>{entry[5]}</p>}
-              {entry[0] !== entry[4] && <p><span style={{fontFamily:"Garamond"}}>from:</span> <span style={{fontFamily:"Garamond", fontStyle: "italic"}}>{entry[4]}</span></p>}
+              {entry[0] !== entry[4] && <p><span style={{fontFamily:"Garamond"}}>from:</span> <span style={{fontFamily:"Garamond", fontStyle: "italic", fontWeight:"bold"}}>{entry[4]}</span></p>}
               <p>{entry[1]}</p>
               {entry[2] && entry[2].map((inflection, index) => {
                 let caseAbbr = inflection[0];
@@ -83,7 +83,7 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
                                   {item.split(/<s>(.*?)<\/s>/g).map((segment: string, i: number) => {
                                     if (i % 2 === 1) { // the words inside <s> and </s> are at odd indices
                                       const cleanedSegment = segment.replace(/<[^>]*>/g, '');
-                                      return cleanedSegment.split(/(\s(?=\w)|—(?=\w)|-(?=\w))/).map((word: string, j: number) => (
+                                      return cleanedSegment.split(/(\s(?=\w)|—(?=\w)|-(?=\w)|\/(?=\w))/).map((word: string, j: number) => (
                                         <span
                                           key={j}
                                           style={{fontStyle: 'italic', color: 'teal'}}
@@ -100,14 +100,9 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
                                   })}
                                 </p>
                               ))}
-
-
-
-                          </div>
-                            
-                            <hr />
-                            
-          </div>
+                          </div>  
+                        <hr />
+                  </div>
           );
         } else if (entry.length === 3) {
           return(
@@ -116,9 +111,28 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
               <p>{entry[1]}</p>
               <div>
                 Vocabulary entries:
-                {entry[2].map((item, index) => (
-                  <p key={index} dangerouslySetInnerHTML={{ __html: item.replace(/<s>(.*?)<\/s>/g, '<span style="font-style:italic; color: teal;">$1</span>') }} />
-                ))}
+                {entry[2].map((item: string, index: number) => (  
+                                <p key={index}>
+                                  {item.split(/<s>(.*?)<\/s>/g).map((segment: string, i: number) => {
+                                    if (i % 2 === 1) { // the words inside <s> and </s> are at odd indices
+                                      const cleanedSegment = segment.replace(/<[^>]*>/g, '');
+                                      return cleanedSegment.split(/(\s(?=\w)|—(?=\w)|-(?=\w))/).map((word: string, j: number) => (
+                                        <span
+                                          key={j}
+                                          style={{fontStyle: 'italic', color: 'teal'}}
+                                          onClick={() => handleWordClick(word, index)}
+                                        >
+                                          {word}
+                                        </span>
+                                      ));
+                                    } else {
+                                      const cleanedSegment = segment.replace(/<[^>]*>/g, '');
+                                      return cleanedSegment;
+
+                                    }
+                                  })}
+                                </p>
+                 ))}
               </div>
               <hr />
             </div>    

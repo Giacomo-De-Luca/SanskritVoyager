@@ -26,6 +26,28 @@ const WordDataComponent = ({ entry }: { entry: any[][] }) => {
         console.error('Failed to fetch dictionary entry');
       }
     };
+    export async function fetchWordData(word : string) {
+      console.log('Posting word to API:', word);  // Print the word
+  
+      try {
+          const response = await fetch('http://127.0.0.1:5000/process', {
+              method: 'POST',
+              headers: { 
+                  'Content-Type': 'text/plain'
+              },
+              body: word
+          });
+  
+          if (!response.ok) {
+              throw new Error(`HTTP error! status: ${response.status}`);
+          }
+  
+          const data = await response.json();
+          return data;
+      } catch (error) {
+          console.error('Error:', error);
+      }
+  }
 
 
 
@@ -74,6 +96,7 @@ const WordDataComponent = ({ entry }: { entry: any[][] }) => {
           
                       <InflectionTable inflection_wordsIAST={entry[3]} rowcolstitles={entry[2]} />     
                       <div>
+
                         Vocabulary entries:
                         {entry[6].map((item: string, index: number) => (  
                               <p key={index}>
@@ -94,7 +117,9 @@ const WordDataComponent = ({ entry }: { entry: any[][] }) => {
                                 })}
                               </p>
                             ))}
-                            </div>
+
+                            
+                        </div>
                         
                         <hr />
                         

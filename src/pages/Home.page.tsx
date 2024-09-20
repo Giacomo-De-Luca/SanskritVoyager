@@ -3,13 +3,15 @@ import { ActionToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle'
 import { Select, MultiSelect, Grid, Textarea, Button, Loader } from '@mantine/core';
 import { FileInput } from '@mantine/core';
 import {  ComboboxItem, Container } from '@mantine/core';
-import { useDisclosure } from '@mantine/hooks';
+import { useDisclosure, useDebouncedState } from '@mantine/hooks';
 import WordDataComponent from '@/components/WordDataComponent';
 import { fetchWordData, transliterateText, handleTranslate } from './Api';
 import { HeaderSimple } from '@/components/HeaderSimple';
 import { HeaderSearch } from '@/components/HeaderSearch';
 import { NavbarSimple } from '@/components/NavbarSimple';
 import { IconVocabularyOff } from '@tabler/icons-react';
+import { IconClipboardCheck, IconCopy, IconClipboard} from '@tabler/icons-react';
+import classes from './Home.module.css';
 
 
 interface Translation {
@@ -18,16 +20,18 @@ interface Translation {
 }
 
 
+
 export function HomePage() {
 
   const [text, setText] = useState('');
   const [value, setValue] = useState<ComboboxItem | null>({ value: 'IAST', label: 'IAST' });  
-  const [textTranslit, setTextTranslit] = useState('');
+  const [textTranslit, setTextTranslit] = useDebouncedState('', 200);
   const [translatedText, setTranslatedText] = useState<Translation[]>([]);
   const [loading, setLoading] = useState(false);
-
-
-  const [selectedWord, setSelectedWord] = useState('');
+ 
+  const [ selectedWord, setSelectedWord] = useState('');
+  const [ bookTitle, setBookTitle ] = useState<ComboboxItem | null>({ value: '', label: '' });
+  const [ bookText, setBookText ] = useState({});
 
 
   const handleTransliteration = async (inputText: string, newValue?: any) => {
@@ -63,6 +67,50 @@ export function HomePage() {
     </p>
   ));
 
+  const clickable_book_words = Object.values(bookText).map((section, sectionIndex) => {
+    const sutraLines = typeof section.sutra_text === 'string' ? section.sutra_text.split('\n') : [];
+    const commentaryLines = typeof section.commentary_text === 'string' ? section.commentary_text.split('\n') : [];
+  
+    return (
+      <div key={sectionIndex}>
+        <h2>Section {sectionIndex + 1}</h2>
+        {sutraLines.map((line, lineIndex) => (
+          <p key={lineIndex}>
+            {line.split(/\s+|\+/).map((word, wordIndex) => {
+              const trimmedWord = word.trim();
+              return (
+                <span
+                  key={wordIndex}
+                  onClick={() => setSelectedWord(trimmedWord)}
+                  style={{ color: selectedWord === trimmedWord ? 'orange' : 'inherit' }}
+                >
+                  {word + ' '}
+                </span>
+              );
+            })}
+          </p>
+        ))}
+        <h3>Commentary</h3>
+        {commentaryLines.map((line, lineIndex) => (
+          <p key={lineIndex}>
+            {line.split(/\s+|\+/).map((word, wordIndex) => {
+              const trimmedWord = word.trim();
+              return (
+                <span
+                  key={wordIndex}
+                  onClick={() => setSelectedWord(trimmedWord)}
+                  style={{ color: selectedWord === trimmedWord ? 'orange' : 'inherit' }}
+                >
+                  {word + ' '}
+                </span>
+              );
+            })}
+          </p>
+        ))}
+      </div>
+    );
+  });
+
 
   // If there is only one word, set it as the selected word
   useEffect(() => {
@@ -70,6 +118,22 @@ export function HomePage() {
       setSelectedWord(words[0].trim());
     }
   }, [words]);
+
+  useEffect(() => {
+
+    const fetchData = async () => {
+      try {
+        const response = await import(`../books/${bookTitle?.value}.json`);
+        setBookText(response.default);
+        console.log(response.default);
+      } catch (error) {
+        console.error("Error loading JSON file:", error);
+      }
+    };
+
+    fetchData();
+  }, [bookTitle?.value]);
+
 
   const [wordData, setWordData] = useState<any[][][]>([]);
 
@@ -102,6 +166,18 @@ export function HomePage() {
             handleTransliteration(text, option);
           }}
         style={{ width: '100%', paddingTop: 50, paddingBottom: 16, }}
+      />
+      <Select 
+        data={['Goraksataka', 'Ratnavali', 'Boja'].map((item) => ({ value: item, label: item }))}
+        value={value ? value.value : ''}
+        label="Select a book to import"
+        placeholder="Pick a book to import"
+        onChange={(_value, option) => 
+          {
+            setBookTitle(option);
+            console.log(option); 
+          }}
+        style={{ width: '100%', paddingTop: 5, paddingBottom: 16, }}
       />
 
       <Textarea 
@@ -138,7 +214,8 @@ export function HomePage() {
       loaderProps={{ type: 'dots' }}
       style={{
         width: '100%',
-        backgroundColor: 'transparent',    
+        backgroundColor: 'transparent',   
+        color: 'light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-10)',
       }}      
       >
         {loading ? 'Loading...' : 'Translate'}
@@ -150,7 +227,10 @@ export function HomePage() {
     <div style={{ flex: '1 1 80%' }}>
       <Grid  gutter="lg" style={{ }}>
         <Grid.Col span={6} style={{ marginTop: '100px', paddingLeft: '200px', paddingRight: '50px' , overflow: 'auto',  whiteSpace: 'normal' }}>
-          <div>{clickable_words}</div>         
+          <div>{clickable_words}</div>    
+          <div>
+            {clickable_book_words}
+          </div>     
           <div>
           {translatedText.length > 0 &&translatedText.map((item, index) => (
             <div key={index}>
