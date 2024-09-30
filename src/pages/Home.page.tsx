@@ -53,7 +53,7 @@ export function HomePage() {
   const lines = textTranslit ? textTranslit.split('\n') : [];
   const clickable_words = lines.map((line, lineIndex) => (
     <p key={lineIndex}>
-      {line.split(/\s+|\+/).map((word, wordIndex) => {
+      {line.split(/\s+|\+/).map((word: string, wordIndex: number) => {
         const trimmedWord = word.trim();
         return (
           <span
@@ -67,49 +67,6 @@ export function HomePage() {
     </p>
   ));
 
-  const clickable_book_words = Object.values(bookText).map((section, sectionIndex) => {
-    const sutraLines = typeof section.sutra_text === 'string' ? section.sutra_text.split('\n') : [];
-    const commentaryLines = typeof section.commentary_text === 'string' ? section.commentary_text.split('\n') : [];
-  
-    return (
-      <div key={sectionIndex}>
-        <h2>Section {sectionIndex + 1}</h2>
-        {sutraLines.map((line, lineIndex) => (
-          <p key={lineIndex}>
-            {line.split(/\s+|\+/).map((word, wordIndex) => {
-              const trimmedWord = word.trim();
-              return (
-                <span
-                  key={wordIndex}
-                  onClick={() => setSelectedWord(trimmedWord)}
-                  style={{ color: selectedWord === trimmedWord ? 'orange' : 'inherit' }}
-                >
-                  {word + ' '}
-                </span>
-              );
-            })}
-          </p>
-        ))}
-        <h3>Commentary</h3>
-        {commentaryLines.map((line, lineIndex) => (
-          <p key={lineIndex}>
-            {line.split(/\s+|\+/).map((word, wordIndex) => {
-              const trimmedWord = word.trim();
-              return (
-                <span
-                  key={wordIndex}
-                  onClick={() => setSelectedWord(trimmedWord)}
-                  style={{ color: selectedWord === trimmedWord ? 'orange' : 'inherit' }}
-                >
-                  {word + ' '}
-                </span>
-              );
-            })}
-          </p>
-        ))}
-      </div>
-    );
-  });
 
 
   // If there is only one word, set it as the selected word
@@ -229,7 +186,6 @@ export function HomePage() {
         <Grid.Col span={6} style={{ marginTop: '100px', paddingLeft: '200px', paddingRight: '50px' , overflow: 'auto',  whiteSpace: 'normal' }}>
           <div>{clickable_words}</div>    
           <div>
-            {clickable_book_words}
           </div>     
           <div>
           {translatedText.length > 0 &&translatedText.map((item, index) => (
