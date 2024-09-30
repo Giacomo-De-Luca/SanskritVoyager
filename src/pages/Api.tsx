@@ -23,7 +23,7 @@ export async function fetchWordData(word : string) {
 
 export async function transliterateText(inputText: string, value: any) {
     if (inputText && value) {
-      const response = await fetch('http://127.0.0.1:5000/transliterate', {
+      const response = await fetch('https://anotherappsanskrit-a97b5bbe04aa.herokuapp.com/transliterate', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
