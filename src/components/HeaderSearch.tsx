@@ -3,13 +3,15 @@ import { useDisclosure } from '@mantine/hooks';
 import { IconSearch } from '@tabler/icons-react';
 import classes from './HeaderSearch.module.css';
 import { ActionToggle } from './ColorSchemeToggle/ColorSchemeToggle';
+import { UiSwitch } from './UiSwitch';
+export { UiSwitch } from './UiSwitch';
 
 const links = [
   { link: '/documentation', label: 'Documentation' },
   { link: '/about', label: 'About' },
 ];
 
-export function HeaderSearch() {
+export function HeaderSearch({ onToggleNavbar }: { onToggleNavbar: () => void }) {
   const [opened, { toggle }] = useDisclosure(false);
 
   const items = links.map((link) => (
@@ -29,6 +31,7 @@ export function HeaderSearch() {
         <Group>
           <Burger opened={opened} onClick={toggle} size="sm" hiddenFrom="sm" />
           <ActionToggle />
+          <UiSwitch onToggle={onToggleNavbar} />
         </Group>
 
         <Group>
