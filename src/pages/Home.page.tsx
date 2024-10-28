@@ -6,7 +6,6 @@ import {  ComboboxItem, Container } from '@mantine/core';
 import { useDisclosure, useDebouncedState } from '@mantine/hooks';
 import WordDataComponent from '@/components/WordDataComponent';
 import { fetchWordData, transliterateText, handleTranslate } from './Api';
-import { HeaderSimple } from '@/components/HeaderSimple';
 import { HeaderSearch } from '@/components/HeaderSearch';
 import { NavbarSimple } from '@/components/NavbarSimple';
 import { IconVocabularyOff } from '@tabler/icons-react';
@@ -21,35 +20,41 @@ interface Translation {
   Sanskrit: string;
 }
 
-
-
 export function HomePage() {
 
+  // input text into the textarea
   const [text, setText] = useState('');
+  // output translitteration scheme
   const [value, setValue] = useState<ComboboxItem | null>({ value: 'IAST', label: 'IAST' });  
+  // transliterated text
   const [textTranslit, setTextTranslit] = useDebouncedState('', 200);
+  // translated text
   const [translatedText, setTranslatedText] = useState<Translation[]>([]);
+  // loading state for the translation 
   const [loading, setLoading] = useState(false);
- 
+  // selected word to analyse
   const [ selectedWord, setSelectedWord] = useState('');
+  // selected book title in the combobox
   const [ bookTitle, setBookTitle ] = useState<ComboboxItem | null>({ value: '', label: '' });
+  // retrieved book text
   const [ bookText, setBookText ] = useState({});
-
+  // navbar visibility
   const [isNavbarVisible, setIsNavbarVisible] = useState(true);
 
+  // toggle navbar visibility
   const toggleNavbar = () => {
     setIsNavbarVisible(prevState => !prevState);
   };
 
-
-
-  const handleTransliteration = async (inputText: string, newValue?: any) => {
+  // transliterate the input text using the API 
+  const handleTransliteration = async (inputText: string, newValue?: string) => {
     const selectedValue = newValue || value;
-    const processedText = await transliterateText(inputText, selectedValue);
-    setTextTranslit(processedText);
-    console.log(processedText);
+    const transliteratedText = await transliterateText(inputText, selectedValue);
+    setTextTranslit(transliteratedText);
+    console.log(transliteratedText);
   };
 
+  // update the translated text using the API
   const updateTranslate = async (inputText: string) => {
     setLoading(true);
     const response = await handleTranslate(inputText);
@@ -57,9 +62,24 @@ export function HomePage() {
     setLoading(false);
   };
 
-  
+  // split the text into words
   const words = textTranslit ? textTranslit.split(/\s+|\\+/) : [];
-  const lines = textTranslit ? textTranslit.split('\n') : [];
+
+  // should split correctly the text into lines after '|' characters or newlines, while keeping the '|' characters. In case of '||' it should add an empty line.
+  const lines = textTranslit ? textTranslit.split(/(\|)|\n/).reduce((acc, part) => {
+    if (part === '|') {
+      if (acc[acc.length - 1].endsWith('|')) {
+        acc.push('');
+      } else {
+        acc[acc.length - 1] += '|';
+      }
+    } else if (part !== undefined && part !== '') {
+      acc.push(part);
+    }
+    return acc;
+  }, ['']) : [];
+
+  
   const clickable_words = lines.map((line, lineIndex) => (
     <p key={lineIndex}>
       {line.split(/\s+|\+/).map((word, wordIndex) => {
@@ -75,7 +95,6 @@ export function HomePage() {
       })}
     </p>
   ));
-
 
 
   // If there is only one word, set it as the selected word
@@ -115,7 +134,7 @@ export function HomePage() {
 
   return (
     <>
-      <HeaderSearch onToggleNavbar={toggleNavbar} />
+      <HeaderSearch onSearch={setSelectedWord} onToggleNavbar={toggleNavbar} />
 
     <div style={{ display: 'flex' }}>
     <div style={{ flex: '0 0 15%', minWidth: '300px' }}>

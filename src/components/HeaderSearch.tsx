@@ -11,7 +11,7 @@ const links = [
   { link: '/about', label: 'About' },
 ];
 
-export function HeaderSearch({ onToggleNavbar }: { onToggleNavbar: () => void }) {
+export function HeaderSearch({ onToggleNavbar, onSearch }: { onSearch: (query: string) => void, onToggleNavbar: () => void }) {
   const [opened, { toggle }] = useDisclosure(false);
 
   const items = links.map((link) => (
@@ -42,8 +42,10 @@ export function HeaderSearch({ onToggleNavbar }: { onToggleNavbar: () => void })
             className={classes.search}
             placeholder="Search"
             leftSection={<IconSearch style={{ width: rem(16), height: rem(16) }} stroke={1.5} />}
-            data={['React', 'Angular', 'Vue', 'Next.js', 'Riot.js', 'Svelte', 'Blitz.js']}
+            data={['Sanskrit', 'Angular', 'Vue', 'Next.js', 'Riot.js', 'Svelte', 'Blitz.js']}
             visibleFrom="xs"
+            onChange={(value) => onSearch(value)}
+
           />
         </Group>
       </div>
