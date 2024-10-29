@@ -3,6 +3,8 @@ import { createTheme, rem, virtualColor } from '@mantine/core';
 export const theme = createTheme({
 
 
+  fontFamily: 'Palatino, serif',
+
 
   fontSizes: {
     xs: rem(11),
