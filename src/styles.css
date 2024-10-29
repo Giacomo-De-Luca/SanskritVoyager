@@ -1,6 +1,9 @@
 /* For light mode */
 :root[data-mantine-color-scheme="light"] {
-    --mantine-color-body: #fefdf9 !important;
+    --mantine-color-body: #f9f8f1 !important;
+    --mantine-color-white: #fefdf9 !important; /* Add this line for white color */
+
+    
   }
   /*
   #f9f8f1
