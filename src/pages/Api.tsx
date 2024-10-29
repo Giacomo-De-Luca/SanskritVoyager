@@ -2,7 +2,7 @@ export async function fetchWordData(word : string) {
     console.log('Posting word to API:', word);  // Print the word
 
     try {
-        const response = await fetch('http://127.0.0.1:5000/process', {
+        const response = await fetch('https://api.yogasutratrees.com/process', {
             method: 'POST',
             headers: { 
                 'Content-Type': 'text/plain'
@@ -23,7 +23,7 @@ export async function fetchWordData(word : string) {
 
 export async function transliterateText(inputText: string, value: any) {
     if (inputText && value) {
-      const response = await fetch('http://127.0.0.1:5000/transliterate', {
+      const response = await fetch('https://api.yogasutratrees.com/transliterate', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -48,7 +48,7 @@ export async function transliterateText(inputText: string, value: any) {
 
   export async function handleTranslate(inputText: string) {
     
-    const response = await fetch('http://127.0.0.1:5000/translate', {
+    const response = await fetch('https://api.yogasutratrees.com/translate', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

@@ -82,7 +82,7 @@ export function HomePage() {
   
   const clickable_words = lines.map((line, lineIndex) => (
     <p key={lineIndex}>
-      {line.split(/\s+|\+/).map((word, wordIndex) => {
+      {line.split(/\s+|\+/).map((word: string, wordIndex: number) => {
         const trimmedWord = word.trim();
         return (
           <span
