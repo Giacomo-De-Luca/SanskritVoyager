@@ -26,6 +26,8 @@ export function HomePage() {
   const [text, setText] = useState('');
   // output translitteration scheme
   const [value, setValue] = useState<ComboboxItem | null>({ value: 'IAST', label: 'IAST' });  
+  const [scheme, setScheme] = useState('IAST');  
+
   // transliterated text
   const [textTranslit, setTextTranslit] = useDebouncedState('', 200);
   // translated text
@@ -48,7 +50,7 @@ export function HomePage() {
 
   // transliterate the input text using the API 
   const handleTransliteration = async (inputText: string, newValue?: string) => {
-    const selectedValue = newValue || value;
+    const selectedValue = newValue || scheme;
     const transliteratedText = await transliterateText(inputText, selectedValue);
     setTextTranslit(transliteratedText);
     console.log(transliteratedText);
@@ -147,9 +149,12 @@ export function HomePage() {
           placeholder="Pick Translitteration Scheme, default is IAST"
           onChange={(_value, option) => 
             {
+              const tempscheme = value ? value.value : 'IAST';
+              setScheme(tempscheme);
               setValue(option);
               console.log(option); 
-              handleTransliteration(text, option);
+
+              handleTransliteration(text, _value ?? undefined);
             }}
           style={{ width: '100%', paddingTop: 50, paddingBottom: 16, }}
         />

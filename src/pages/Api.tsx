@@ -21,7 +21,7 @@ export async function fetchWordData(word : string) {
     }
 }
 
-export async function transliterateText(inputText: string, value: any) {
+export async function transliterateText(inputText: string, value: string) {
     if (inputText && value) {
       const response = await fetch('https://api.yogasutratrees.com/transliterate', {
         method: 'POST',
@@ -30,7 +30,7 @@ export async function transliterateText(inputText: string, value: any) {
         },
         body: JSON.stringify({
           text: inputText,
-          transliteration_scheme: value.value,
+          transliteration_scheme: value,
         }),
       });
   
