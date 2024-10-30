@@ -27,7 +27,10 @@ export const theme = createTheme({
       dark: 'pink',
       light: 'cyan',
     }),
-  }
+  },
+  
+  headings: { fontFamily: 'Futura, sans-serif' },
+
 
   /** Put your mantine theme override here */
 });

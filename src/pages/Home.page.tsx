@@ -136,7 +136,11 @@ export function HomePage() {
 
   return (
     <>
-      <HeaderSearch onSearch={setSelectedWord} onToggleNavbar={toggleNavbar} />
+      <HeaderSearch
+        onSearch={setSelectedWord}
+        onToggleNavbar={toggleNavbar}
+        isNavbarVisible={isNavbarVisible} // Add the missing isNavbarVisible prop
+      />
 
     <div style={{ display: 'flex' }}>
     <div style={{ flex: '0 0 15%', minWidth: '300px' }}>
@@ -261,4 +265,3 @@ export function HomePage() {
     </>
   );
 }
-

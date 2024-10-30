@@ -11,8 +11,8 @@ const links = [
   { link: '/about', label: 'About' },
 ];
 
-export function HeaderSearch({ onToggleNavbar, onSearch }: { onSearch: (query: string) => void, onToggleNavbar: () => void }) {
-  const [opened, { toggle }] = useDisclosure(false);
+export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { onSearch: (query: string) => void, onToggleNavbar: () => void, isNavbarVisible: boolean }) {
+  const [opened, { toggle }] = useDisclosure(isNavbarVisible);
 
   const items = links.map((link) => (
     <a
@@ -29,7 +29,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch }: { onSearch: (query: s
     <header className={classes.header}>
       <div className={classes.inner}>
         <Group>
-          <Burger opened={opened} onClick={toggle} size="sm" hiddenFrom="sm" />
+        <Burger opened={opened} onClick={() => { toggle(); onToggleNavbar(); }} size="sm" hiddenFrom="sm" />
           <ActionToggle />
           <UiSwitch onToggle={onToggleNavbar} />
         </Group>

@@ -36,8 +36,13 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
         if (entry.length === 7) {
           return (
             <div>
-              <h1 className="text-xl" style={{fontFamily:"Garamond", fontWeight:"bold"}}>{entry[0]}</h1>
-              {entry[0] !== entry[5] && <p style={{fontFamily:"Garamond"}}>{entry[5]}</p>}
+              <h1 className="text-xl" style={{  
+                fontFamily: "Optima, sans-serif", 
+                // textTransform: "uppercase",
+                fontWeight: "bold"}}>
+                {entry[0]}
+              </h1>
+              {entry[0] !== entry[5] && <p style={{fontFamily:"Optima"}}>{entry[5]}</p>}
               {entry[0] !== entry[4] && <p><span style={{fontFamily:"Garamond"}}>from:</span> <span style={{fontFamily:"Garamond", fontStyle: "italic", fontWeight:"bold"}}>{entry[4]}</span></p>}
               <p>{entry[1]}</p>
               {entry[2] && entry[2].map((inflection, index) => {
