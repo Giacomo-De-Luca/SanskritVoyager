@@ -78,7 +78,7 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
                 );
               })}
               
-                          <InflectionTable inflection_wordsIAST={entry[3]} rowcolstitles={entry[2]} />     
+                          <InflectionTable inflection_wordsIAST={entry[3]} rowcolstitles={entry[2]}  useColor={true}/>     
                           <div>
 
                             Vocabulary entries:
