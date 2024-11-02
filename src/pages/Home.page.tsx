@@ -14,6 +14,9 @@ import classes from './Home.module.css';
 import { UiSwitch } from '@/components/HeaderSearch';
 import { DictionarySelector } from '@/components/DictionarySelect';
 import { ClickableBookWords } from '@/components/ClickableBookWords';
+import Orientation from 'react-native-orientation-locker';
+
+Orientation.lockToLandscape();
 
 interface Translation {
   English: string;
@@ -29,7 +32,7 @@ export function HomePage() {
   const [scheme, setScheme] = useState('IAST');  
 
   // transliterated text
-  const [textTranslit, setTextTranslit] = useDebouncedState('', 200);
+  const [textTranslit, setTextTranslit] = useDebouncedState('', 800);
   // translated text
   const [translatedText, setTranslatedText] = useState<Translation[]>([]);
   // loading state for the translation 
@@ -143,125 +146,130 @@ export function HomePage() {
       />
 
     <div style={{ display: 'flex' }}>
-    <div style={{ flex: '0 0 15%', minWidth: '300px' }}>
-    {isNavbarVisible && (
-      <NavbarSimple>
-        <Select
-          data={['IAST', 'DEVANAGARI', 'ITRANS', 'HK', 'SLP1', 'WX', 'Kolkata'].map((item) => ({ value: item, label: item }))}
-          value={value ? value.value : 'IAST'}
-          label="Select Translitteration Scheme"
-          placeholder="Pick Translitteration Scheme, default is IAST"
-          onChange={(_value, option) => 
-            {
-              const tempscheme = value ? value.value : 'IAST';
-              setScheme(tempscheme);
-              setValue(option);
-              console.log(option); 
+      <div style={{ flex: '0 0 15%', minWidth: '300px' }}>
+      {isNavbarVisible && (
+        <NavbarSimple>
+          <Select
+            data={['IAST', 'DEVANAGARI', 'ITRANS', 'HK', 'SLP1', 'WX', 'Kolkata'].map((item) => ({ value: item, label: item }))}
+            value={value ? value.value : 'IAST'}
+            label="Select Translitteration Scheme"
+            placeholder="Pick Translitteration Scheme, default is IAST"
+            onChange={(_value, option) => 
+              {
+                const tempscheme = value ? value.value : 'IAST';
+                setScheme(tempscheme);
+                setValue(option);
+                console.log(option); 
 
-              handleTransliteration(text, _value ?? undefined);
-            }}
-          style={{ width: '100%', paddingTop: 50, paddingBottom: 16, }}
-        />
-        
-      <DictionarySelector />
-
-        <Select 
-          data={['Goraksataka', 'Ratnavali', 'Boja'].map((item) => ({ value: item, label: item }))}
-          value={value ? value.value : ''}
-          label="Select a book to import"
-          placeholder="Pick a book to import"
-          onChange={(_value, option) => 
-            {
-              setBookTitle(option);
-              console.log(option); 
-            }}
-          style={{ width: '100%', paddingTop: 5, paddingBottom: 16, }}
-        />
-
-        <Textarea 
-          value={text}
-          onChange={(event) => {
-            const newText = event.currentTarget.value;
-            setText(newText);
-            handleTransliteration(newText);
-          }}
-          onPaste={(event) => {
-            // Prevent the default paste action
-            event.preventDefault();
-
-            // Get the pasted data from the clipboard
-            const pastedData = event.clipboardData.getData('text');
-        
-            // Update the text state and call transliterateText
-            setText(pastedData);
-            handleTransliteration(pastedData);
-          }}
-          label="Write Text Here"
-          description="Copy and paste text here to transliterate it."
-          placeholder={"Write text here to transliterate it." + '\n' + "A single word is automatically searched."}
-          style={{ width: '100%', paddingBottom: 16, }}
-          autosize
-          minRows={4}
-          maxRows={6}
-        />
-
-        <Button 
-        leftSection={<IconVocabularyOff size={14} />}
-        onClick={() => updateTranslate(text)} 
-        loading={loading} 
-        loaderProps={{ type: 'dots' }}
-        style={{
-          width: '100%',
-          backgroundColor: 'transparent',   
-          color: 'light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-10)',
-        }}      
-        >
-          {loading ? 'Loading...' : 'Translate'}
-        </Button>
-
-      </NavbarSimple>
-    )}
-    </div>
-
-    <div style={{ flex: '1 1 80%' }}>
-      <Grid  gutter="lg" style={{ }}>
-        <Grid.Col span={6} style={{ marginTop: '100px', paddingLeft: '200px', paddingRight: '50px' , overflow: 'auto',  whiteSpace: 'normal' }}>
-          <div>{clickable_words}</div>    
-          <ClickableBookWords
-            bookText={bookText}
-            selectedWord={selectedWord}
-            setSelectedWord={setSelectedWord}
+                handleTransliteration(text, _value ?? undefined);
+              }}
+            style={{ width: '100%', paddingTop: 50, paddingBottom: 16, }}
           />
-          <div>
-          {translatedText.length > 0 &&translatedText.map((item, index) => (
-            <div key={index}>
-              <p style={{ color: 'darkgrey' }}>
-                {item.Sanskrit.split(/\s+|\+/).map((word, wordIndex) => {
-                  const trimmedWord = word.trim();
-                  return (
-                    <span
-                      key={wordIndex}
-                      onClick={() => setSelectedWord(trimmedWord)}
-                      style={{ color: selectedWord === trimmedWord ? 'orange' : 'inherit' }}
-                    >
-                      {word + ' '}
-                    </span>
-                  );
-                })}
-              </p>
-              <p> {item.English}</p>
-            </div>
-          ))}
-          </div>
+          
+        <DictionarySelector />
 
-        </Grid.Col>
-  
-        <Grid.Col span={6} style={{ marginTop: '100px', maxHeight: '100vh', paddingLeft: '50px', paddingRight: '80px', overflowY: 'auto' }}>
-             <WordDataComponent wordData={wordData} setWordData={setWordData}/>
-        </Grid.Col>
-      </Grid>
-    </div>
+          <Select 
+            data={['Goraksataka', 'Ratnavali', 'Boja'].map((item) => ({ value: item, label: item }))}
+            value={value ? value.value : ''}
+            label="Select a book to import"
+            placeholder="Pick a book to import"
+            onChange={(_value, option) => 
+              {
+                setBookTitle(option);
+                console.log(option); 
+              }}
+            style={{ width: '100%', paddingTop: 5, paddingBottom: 16, }}
+          />
+
+          <Textarea 
+            value={text}
+            autoCapitalize="off"
+            onChange={(event) => {
+              const newText = event.currentTarget.value;
+              setText(newText);
+              handleTransliteration(newText);
+            }}
+            onPaste={(event) => {
+              // Prevent the default paste action
+              event.preventDefault();
+
+              // Get the pasted data from the clipboard
+              const pastedData = event.clipboardData.getData('text');
+          
+              // Update the text state and call transliterateText
+              setText(pastedData);
+              handleTransliteration(pastedData);
+            }}
+            label="Write Text Here"
+            description="Copy and paste text here to transliterate it."
+            placeholder={"Write text here to transliterate it." + '\n' + "A single word is automatically searched."}
+            style={{ width: '100%', paddingBottom: 16, }}
+            autosize
+            minRows={4}
+            maxRows={6}
+          />
+
+          <Button 
+          leftSection={<IconVocabularyOff size={14} />}
+          onClick={() => updateTranslate(text)} 
+          loading={loading} 
+          loaderProps={{ type: 'dots' }}
+          style={{
+            width: '100%',
+            backgroundColor: 'transparent',   
+            color: 'light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-10)',
+          }}      
+          >
+            {loading ? 'Loading...' : 'Translate'}
+          </Button>
+
+        </NavbarSimple>
+      )}
+      </div>
+
+      <div style={{ flex: isNavbarVisible ? '1 1 80%' : '1 1 100%' }}>
+        <Grid  gutter="lg" style={{ }}>
+          <Grid.Col span={6} style={{ marginTop: '100px', paddingLeft: '200px', paddingRight: '50px' , overflow: 'auto',  whiteSpace: 'normal' }}>
+            <div>{clickable_words}</div>    
+            <ClickableBookWords
+              bookText={bookText}
+              selectedWord={selectedWord}
+              setSelectedWord={setSelectedWord}
+            />
+            <div>
+            {translatedText.length > 0 &&translatedText.map((item, index) => (
+              <div key={index}>
+                <p style={{ color: 'darkgrey' }}>
+                  {item.Sanskrit.split(/\s+|\+/).map((word, wordIndex) => {
+                    const trimmedWord = word.trim();
+                    return (
+                      <span
+                        key={wordIndex}
+                        onClick={() => setSelectedWord(trimmedWord)}
+                        style={{ color: selectedWord === trimmedWord ? 'orange' : 'inherit' }}
+                      >
+                        {word + ' '}
+                      </span>
+                    );
+                  })}
+                </p>
+                <p> {item.English}</p>
+              </div>
+            ))}
+            </div>
+
+          </Grid.Col>
+    
+          <Grid.Col span={6} style={{ marginTop: '100px', maxHeight: '100vh', paddingLeft: '50px', paddingRight: '80px', overflowY: 'auto' }}>
+              <WordDataComponent wordData={wordData} setWordData={setWordData}/>
+          </Grid.Col>
+        </Grid>
+      </div>
     </div>
     </>
   );
 }
+
+
+
+
