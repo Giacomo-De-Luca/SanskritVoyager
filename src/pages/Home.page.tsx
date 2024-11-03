@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { ActionToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle';
 import { Select, MultiSelect, Grid, Textarea, Button, Loader } from '@mantine/core';
 import { FileInput } from '@mantine/core';
-import {  ComboboxItem, Container } from '@mantine/core';
+import {  ComboboxItem, Container, lighten, darken } from '@mantine/core';
 import { useDisclosure, useDebouncedState } from '@mantine/hooks';
 import WordDataComponent from '@/components/WordDataComponent';
 import { fetchWordData, transliterateText, handleTranslate } from './Api';
@@ -32,7 +32,7 @@ export function HomePage() {
   const [scheme, setScheme] = useState('IAST');  
 
   // transliterated text
-  const [textTranslit, setTextTranslit] = useDebouncedState('', 800);
+  const [textTranslit, setTextTranslit] = useDebouncedState('', 100);
   // translated text
   const [translatedText, setTranslatedText] = useState<Translation[]>([]);
   // loading state for the translation 
@@ -146,7 +146,7 @@ export function HomePage() {
       />
 
     <div style={{ display: 'flex' }}>
-      <div style={{ flex: '0 0 15%', minWidth: '300px' }}>
+      <div style={{ flex: '0 0 15%', minWidth: isNavbarVisible? '300px': '100px' }}>
       {isNavbarVisible && (
         <NavbarSimple>
           <Select
@@ -229,7 +229,12 @@ export function HomePage() {
 
       <div style={{ flex: isNavbarVisible ? '1 1 80%' : '1 1 100%' }}>
         <Grid  gutter="lg" style={{ }}>
-          <Grid.Col span={6} style={{ marginTop: '100px', paddingLeft: '200px', paddingRight: '50px' , overflow: 'auto',  whiteSpace: 'normal' }}>
+          <Grid.Col span={6} style={{ marginTop: '100px', 
+              paddingLeft: isNavbarVisible ? '200px' : '0px', // Adjust based on navbar visibility
+              paddingRight: '50px' , 
+              transition: 'padding-left 0.3s ease',
+              overflow: 'auto',  
+              whiteSpace: 'normal' }}>
             <div>{clickable_words}</div>    
             <ClickableBookWords
               bookText={bookText}
@@ -260,7 +265,13 @@ export function HomePage() {
 
           </Grid.Col>
     
-          <Grid.Col span={6} style={{ marginTop: '100px', maxHeight: '100vh', paddingLeft: '50px', paddingRight: '80px', overflowY: 'auto' }}>
+          <Grid.Col span={6} style={{ marginTop: '100px', 
+                                      maxHeight: '100vh', 
+                                      paddingLeft: isNavbarVisible ? '50px' : '0px', // Adjust based on navbar visibility
+                                      paddingRight: '80px', 
+                                      transition: 'padding-left 0.3s ease', // Add smooth transition
+                                      // backgroundColor: darken('var(--mantine-color-body)', 0.1), // Makes background 10% lighter
+                                      overflowY: 'auto' }}>
               <WordDataComponent wordData={wordData} setWordData={setWordData}/>
           </Grid.Col>
         </Grid>

@@ -1,0 +1,76 @@
+.wordComponents {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: var(--mantine-font-size-sm);
+    color: light-dark(var(--mantine-color-pink-2), var(--mantine-color-pink-2));
+    padding: var(--mantine-spacing-xs) var(--mantine-spacing-sm);
+    border-radius: var(--mantine-radius-sm);
+    font-weight: 400;
+}
+
+
+
+
+
+  .word-display {
+    max-width: 32rem;
+    padding: 2rem;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .word-display > * + * {
+    margin-top: 1.5rem;
+  }
+  
+.main-word {
+    font-family: 'Crimson Pro', serif;
+    font-size: 2.5rem;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.5rem;
+}
+  
+  .pronunciation {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 1.25rem;
+    color: var(--mantine-color-gray-6);
+    margin-bottom: 1.5rem;
+  }
+  
+  .etymologySection {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+  }
+  
+.etymologyLabel {
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--mantine-color-gray-5);
+    font-family: 'Inter', sans-serif;
+}
+  
+.etymologyTerm {
+    font-family: 'Crimson Pro', serif;
+    font-size: 1.125rem;
+    font-style: italic;
+}
+  
+  .grammar-section {
+    padding-top: 1rem;
+    border-top: 1px solid var(--mantine-color-gray-2);
+  }
+  
+  .grammar-main {
+    font-size: 1rem;
+    color: var(--mantine-color-gray-7);
+    margin-bottom: 0.75rem;
+  }
+  
+  .grammar-detail {
+    font-size: 0.875rem;
+    font-style: italic;
+    color: var(--mantine-color-gray-6);
+  }
