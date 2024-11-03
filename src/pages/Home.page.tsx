@@ -268,7 +268,7 @@ export function HomePage() {
           <Grid.Col span={6} style={{ marginTop: '100px', 
                                       maxHeight: '100vh', 
                                       paddingLeft: isNavbarVisible ? '50px' : '0px', // Adjust based on navbar visibility
-                                      paddingRight: '80px', 
+                                      paddingRight: isNavbarVisible ? '80px' : '120px',
                                       transition: 'padding-left 0.3s ease', // Add smooth transition
                                       // backgroundColor: darken('var(--mantine-color-body)', 0.1), // Makes background 10% lighter
                                       overflowY: 'auto' }}>

@@ -43,13 +43,15 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
               </h1>
 
               {entry[0] !== entry[5] && <p className={classes.pronunciation}                 >
-              { entry[5] + '/' }</p>}
+              { entry[5] }</p>}
 
               {entry[0] !== entry[4] && <p className={classes.etymologySection}  >
                 <span className={classes.etymologyLabel}>from:</span> 
                 <span className={classes.etymologyTerm}>{entry[4]}</span></p>}
 
-              <p className="grammar-section">{entry[1]}</p>
+              <p className={classes.grammarSection}>
+              <div className={classes.grammarMain}>{entry[1]}</div>
+              </p>
 
               {entry[2] && entry[2].map((inflection, index) => {
                 let caseAbbr = inflection[0];
@@ -77,7 +79,7 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
                 }
 
                 return (
-                  <span key={index} style={{fontFamily:"Garamond", fontStyle: "italic"}}>
+                  <span key={index} className={classes.grammarDetail}>
                     {caseFull}, {numberFull}
                     {index < entry[2].length - 1 && ' or '}
                   </span>
@@ -87,7 +89,7 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
                           <InflectionTable inflection_wordsIAST={entry[3]} rowcolstitles={entry[2]}  useColor={true}/>     
                           <div>
 
-                          <h4> Vocabulary entries: </h4> 
+                          <h4 className={classes.vocabularySection}> Vocabulary entries: </h4> 
 
                               {entry[6].map((item: string, index: number) => (  
                                 <p key={index}>

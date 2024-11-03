@@ -12,65 +12,75 @@
 
 
 
-
-  .word-display {
+.word-display {
     max-width: 32rem;
     padding: 2rem;
     font-family: 'Inter', sans-serif;
-  }
-  
+}
+
   .word-display > * + * {
     margin-top: 1.5rem;
-  }
+}
   
-.main-word {
-    font-family: 'Crimson Pro', serif;
+.mainWord {
+    font-family: 'Optima', sans-serif;
     font-size: 2.5rem;
     font-weight: 500;
     letter-spacing: -0.02em;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0rem;
 }
-  
-  .pronunciation {
+
+.pronunciation {
     font-family: 'JetBrains Mono', monospace;
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     color: var(--mantine-color-gray-6);
-    margin-bottom: 1.5rem;
-  }
-  
-  .etymologySection {
+    margin-bottom: 1rem;
+}
+
+.etymologySection {
     display: flex;
     align-items: baseline;
     gap: 0.5rem;
-  }
-  
+}
+
 .etymologyLabel {
-    font-size: 0.875rem;
+    font-size: 0.7rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     color: var(--mantine-color-gray-5);
     font-family: 'Inter', sans-serif;
 }
-  
+
 .etymologyTerm {
-    font-family: 'Crimson Pro', serif;
+    font-family: 'Optima', sans-serif;
     font-size: 1.125rem;
     font-style: italic;
 }
-  
-  .grammar-section {
+
+.grammarSection {
     padding-top: 1rem;
-    border-top: 1px solid var(--mantine-color-gray-2);
-  }
-  
-  .grammar-main {
+    border-top: 1px solid light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-7))
+    }
+
+.grammarMain {
     font-size: 1rem;
-    color: var(--mantine-color-gray-7);
+    color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-4));
     margin-bottom: 0.75rem;
-  }
-  
-  .grammar-detail {
+    /* font-family: 'Optima', sans-serif; */
+    
+}
+
+.grammarDetail {
     font-size: 0.875rem;
     font-style: italic;
-    color: var(--mantine-color-gray-6);
-  }
+    color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-5));
+    font-family: 'Optima', sans-serif;
+    font-weight: 500;
+
+}
+
+
+.vocabularySection {
+    padding-top: 1rem;
+    font-family: 'Optima', sans-serif;
+}
