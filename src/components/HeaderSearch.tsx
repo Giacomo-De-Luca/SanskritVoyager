@@ -42,9 +42,10 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
             className={classes.search}
             placeholder="Search"
             leftSection={<IconSearch style={{ width: rem(16), height: rem(16) }} stroke={1.5} />}
-            data={['Sanskrit', 'Angular', 'Vue', 'Next.js', 'Riot.js', 'Svelte', 'Blitz.js']}
-            visibleFrom="xs"
+            data={['yoga', 'yogena', 'deva', 'pratiprasava']}
+            //visibleFrom="xs"
             onChange={(value) => onSearch(value)}
+            autoCapitalize="off"
 
           />
         </Group>

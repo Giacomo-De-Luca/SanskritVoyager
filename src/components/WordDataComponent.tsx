@@ -80,11 +80,19 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
 
                 return (
                   <span key={index} className={classes.grammarDetail}>
-                    {caseFull}, {numberFull}
-                    {index < entry[2].length - 1 && ' or '}
+                    {entry[3].length > 1 && (
+                      console.log("test entry3", entry[3]),
+                      <>
+                        {caseFull}, {numberFull}
+                        {index < entry[2].length - 1 && ' or '}
+                      </>
+                    )}
                   </span>
                 );
               })}
+
+
+
               
                           <InflectionTable inflection_wordsIAST={entry[3]} rowcolstitles={entry[2]}  useColor={true}/>     
                           <div>

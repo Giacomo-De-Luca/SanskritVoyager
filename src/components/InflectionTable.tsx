@@ -13,7 +13,8 @@ const InflectionTable = ({ inflection_wordsIAST, rowcolstitles, useColor = false
   }
 
   if (inflection_wordsIAST.length <= 1) {
-    return <b>indeclinable</b>;
+    return 
+     // <b> </b>;
   }
 
   let rowtitles = ["First", "Second", "Third"];

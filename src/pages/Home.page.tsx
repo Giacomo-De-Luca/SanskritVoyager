@@ -10,7 +10,7 @@ import { HeaderSearch } from '@/components/HeaderSearch';
 import { NavbarSimple } from '@/components/NavbarSimple';
 import { IconVocabularyOff } from '@tabler/icons-react';
 import { IconClipboardCheck, IconCopy, IconClipboard} from '@tabler/icons-react';
-import classes from './Home.module.css';
+import classes from './HomePage.module.css';
 import { UiSwitch } from '@/components/HeaderSearch';
 import { DictionarySelector } from '@/components/DictionarySelect';
 import { ClickableBookWords } from '@/components/ClickableBookWords';
@@ -146,7 +146,7 @@ export function HomePage() {
       />
 
     <div style={{ display: 'flex' }}>
-      <div style={{ flex: '0 0 15%', minWidth: isNavbarVisible? '300px': '100px' }}>
+      <div style={{ flex: '0 0 15%', minWidth: isNavbarVisible? '400px': '100px' }}>
       {isNavbarVisible && (
         <NavbarSimple>
           <Select
@@ -228,44 +228,74 @@ export function HomePage() {
       </div>
 
       <div style={{ flex: isNavbarVisible ? '1 1 80%' : '1 1 100%' }}>
-        <Grid  gutter="lg" style={{ }}>
-          <Grid.Col span={6} style={{ marginTop: '100px', 
-              paddingLeft: isNavbarVisible ? '200px' : '0px', // Adjust based on navbar visibility
-              paddingRight: '50px' , 
+        <Grid  gutter="lg" style={{ 
+          display: 'flex', 
+          flexWrap: 'wrap', 
+          justifyContent: 'left', 
+          // padding: '0 50px', 
+          transition: 'padding-left 0.3s ease', // Add smooth transition
+         }}>
+
+          <Grid.Col span={6}
+            className={classes.noScroll}
+            style={{
+              marginTop: '100px',
+              paddingLeft: isNavbarVisible ? '150px' : '0px',
+              paddingRight: '50px',
               transition: 'padding-left 0.3s ease',
-              overflow: 'auto',  
-              whiteSpace: 'normal' }}>
-            <div>{clickable_words}</div>    
-            <ClickableBookWords
-              bookText={bookText}
-              selectedWord={selectedWord}
-              setSelectedWord={setSelectedWord}
-            />
-            <div>
-            {translatedText.length > 0 &&translatedText.map((item, index) => (
-              <div key={index}>
-                <p style={{ color: 'darkgrey' }}>
-                  {item.Sanskrit.split(/\s+|\+/).map((word, wordIndex) => {
-                    const trimmedWord = word.trim();
-                    return (
-                      <span
-                        key={wordIndex}
-                        onClick={() => setSelectedWord(trimmedWord)}
-                        style={{ color: selectedWord === trimmedWord ? 'orange' : 'inherit' }}
-                      >
-                        {word + ' '}
-                      </span>
-                    );
-                  })}
-                </p>
-                <p> {item.English}</p>
+              overflowY: 'auto',
+              maxHeight: '100vh',
+              whiteSpace: 'normal', // Allows text to wrap
+              wordWrap: 'break-word', // Breaks long words if needed
+            }}
+            >
+            <div
+              className={classes.noScroll}
+              style={{
+                maxHeight: '100vh',
+                overflowY: 'auto',
+                display: 'flex',
+                flexWrap: 'wrap', // Ensures content wraps within the flex container
+                justifyContent: 'left',
+                wordWrap: 'break-word',
+                maxWidth: '100%',
+                whiteSpace: 'normal', // Ensures text wraps onto the next line
+              }}
+              
+              >{clickable_words}</div>    
+              <ClickableBookWords
+                bookText={bookText}
+                selectedWord={selectedWord}
+                setSelectedWord={setSelectedWord}
+              />
+              <div>
+              {translatedText.length > 0 &&translatedText.map((item, index) => (
+                <div key={index}>
+                  <p style={{ color: 'darkgrey' }}>
+                    {item.Sanskrit.split(/\s+|\+/).map((word, wordIndex) => {
+                      const trimmedWord = word.trim();
+                      return (
+                        <span
+                          key={wordIndex}
+                          onClick={() => setSelectedWord(trimmedWord)}
+                          style={{ color: selectedWord === trimmedWord ? 'orange' : 'inherit' }}
+                        >
+                          {word + ' '}
+                        </span>
+                      );
+                    })}
+                  </p>
+                  <p> {item.English}</p>
+                </div>
+              ))}
               </div>
-            ))}
-            </div>
 
           </Grid.Col>
     
-          <Grid.Col span={6} style={{ marginTop: '100px', 
+          <Grid.Col span={6} 
+          
+          className={classes.noScroll} 
+          style={{ marginTop: '100px', 
                                       maxHeight: '100vh', 
                                       paddingLeft: isNavbarVisible ? '50px' : '0px', // Adjust based on navbar visibility
                                       paddingRight: isNavbarVisible ? '80px' : '120px',

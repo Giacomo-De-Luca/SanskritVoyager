@@ -6,7 +6,8 @@
   flex-direction: column;
   border-right: rem(1px) solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
   position: fixed;
-  /* background-color: light-dark(var(--mantine-color-gray-1), var(--mantine-color-dark-8)); */
+  z-index: 500;
+  background-color: var(--mantine-color-body); 
 }
 
 .navbarMain {
