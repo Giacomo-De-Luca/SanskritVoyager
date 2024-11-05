@@ -71,31 +71,36 @@ export function HomePage() {
   const words = textTranslit ? textTranslit.split(/\s+|\\+/) : [];
 
   // should split correctly the text into lines after '|' characters or newlines, while keeping the '|' characters. In case of '||' it should add an empty line.
+  
+  console.log(textTranslit);
   const lines: string[] = textTranslit
-  ? textTranslit
-      .split(/(\|\||\|)/)
-      .reduce((acc: string[], part: string) => {
-        const lastIndex = acc.length - 1;
+  ? textTranslit.split(/(\|\||\|)/).reduce((acc: string[], part: string) => {
+      const lastIndex = acc.length - 1;
 
-        // Handle double pipe "||" by adding a newline
-        if (part === '||') {
-          if (lastIndex >= 0) {
-            acc[lastIndex] += '||'; // Append || to the current line
+      switch (part) {
+        case '||':
+          // Add a double pipe, then start a new line
+          if (lastIndex >= 0) acc[lastIndex] += '||';
+          acc.push(''); // Start a new line after ||
+          break;
+        case '|':
+          // Append single pipe to the current line without starting a new line
+          if (lastIndex >= 0) acc[lastIndex] += '|';
+          break;
+        default:
+          // Append non-empty parts to the current line
+          if (part) {
+            if (lastIndex >= 0 && acc[lastIndex] !== '') {
+              acc[lastIndex] += part;
+            } else {
+              acc.push(part);
+            }
           }
-          acc.push(''); // Insert an empty line after ||
-        } 
-        // Handle single pipe "|" by appending it without adding new lines
-        else if (part === '|') {
-          if (lastIndex >= 0) {
-            acc[lastIndex] += '|'; // Append | to the current line
-          }
-        } 
-        // Add non-empty text segments without trimming to avoid altering spacing
-        else if (part) {
-          acc.push(part);
-        }
-        return acc;
-      }, [] as string[])
+          break;
+      }
+
+      return acc;
+    }, [])
   : [];
 
   
@@ -274,8 +279,8 @@ export function HomePage() {
             className={classes.noScroll}
             style={{
               marginTop: '120px',
-              paddingLeft: isNavbarVisible ? '140px' : '0px',
-              paddingRight: isNavbarVisible ? '50px': '180px',  
+              paddingLeft: isNavbarVisible ? '100px' : '0px',
+              paddingRight: isNavbarVisible ? '100px': '200px',  
               transition: 'padding-left 0.3s ease',
               overflowY: 'auto',
               flexWrap: 'wrap',
@@ -332,7 +337,7 @@ export function HomePage() {
           style={{                    marginTop: '80px', 
                                       maxHeight: '100vh', 
                                       paddingLeft: isNavbarVisible ? '50px' : '0px', // Adjust based on navbar visibility
-                                      paddingRight: isNavbarVisible ? '80px' : '120px',
+                                      paddingRight: isNavbarVisible ? '80px' : '140px',
                                       transition: 'padding-left 0.3s ease', // Add smooth transition
                                       // backgroundColor: darken('var(--mantine-color-body)', 0.1), // Makes background 10% lighter
                                       overflowY: 'auto' }}>

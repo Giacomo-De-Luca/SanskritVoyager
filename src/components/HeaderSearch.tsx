@@ -29,7 +29,6 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
     <header className={classes.header}>
       <div className={classes.inner}>
         <Group>
-        <Burger opened={opened} onClick={() => { toggle(); onToggleNavbar(); }} size="sm" hiddenFrom="sm" />
           <ActionToggle />
           <UiSwitch onToggle={onToggleNavbar} />
         </Group>

@@ -20,5 +20,5 @@ export function UiSwitch({ onToggle: onToggle }: { onToggle: () => void }) {
     />
   );
 
-  return <Switch size="md" color="dark.1" onLabel={checkIcon} offLabel={closedIcon} onChange={onToggle}  visibleFrom="m"/>;
+  return <Switch size="md" color="dark.1" onLabel={checkIcon} offLabel={closedIcon} onChange={onToggle} />;
 }

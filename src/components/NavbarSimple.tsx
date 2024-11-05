@@ -20,7 +20,11 @@ const data = [
 
 interface NavbarSimpleProps {
     children?: ReactNode;
+    
   }
+  
+
+
   
   export function NavbarSimple({ children }: NavbarSimpleProps) {
     const [active, setActive] = useState('Billing');
@@ -65,3 +69,5 @@ interface NavbarSimpleProps {
     </nav>
   );
 }
+
+
