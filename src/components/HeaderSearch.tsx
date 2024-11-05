@@ -40,7 +40,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
           </Group>
           <Autocomplete
             className={classes.search}
-            placeholder="Search"
+            placeholder="Search for words here."
             leftSection={<IconSearch style={{ width: rem(16), height: rem(16) }} stroke={1.5} />}
             data={['yoga', 'yogena', 'deva', 'pratiprasava']}
             //visibleFrom="xs"

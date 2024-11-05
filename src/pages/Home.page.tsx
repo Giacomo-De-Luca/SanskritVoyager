@@ -146,7 +146,7 @@ export function HomePage() {
       />
 
     <div style={{ display: 'flex' }}>
-      <div style={{ flex: '0 0 15%', minWidth: isNavbarVisible? '400px': '100px' }}>
+      <div style={{ flex: '0 0 15%', minWidth: isNavbarVisible? '400px': '0px' }}>
       {isNavbarVisible && (
         <NavbarSimple>
           <Select
@@ -239,7 +239,7 @@ export function HomePage() {
           <Grid.Col span={6}
             className={classes.noScroll}
             style={{
-              marginTop: '100px',
+              marginTop: '0px',
               paddingLeft: isNavbarVisible ? '150px' : '0px',
               paddingRight: '50px',
               transition: 'padding-left 0.3s ease',
@@ -291,9 +291,9 @@ export function HomePage() {
               </div>
 
           </Grid.Col>
-    
+        {text !== '' ? (        
           <Grid.Col span={6} 
-          
+  
           className={classes.noScroll} 
           style={{ marginTop: '100px', 
                                       maxHeight: '100vh', 
@@ -303,7 +303,21 @@ export function HomePage() {
                                       // backgroundColor: darken('var(--mantine-color-body)', 0.1), // Makes background 10% lighter
                                       overflowY: 'auto' }}>
               <WordDataComponent wordData={wordData} setWordData={setWordData}/>
-          </Grid.Col>
+          </Grid.Col> ) : (
+                    <Grid.Col span={12} 
+  
+                    className={classes.noScroll} 
+                    style={{ marginTop: '100px', 
+                                                maxHeight: '100vh', 
+                                                paddingLeft: isNavbarVisible ? '0px' : '0px', // Adjust based on navbar visibility
+                                                paddingRight: isNavbarVisible ? '80px' : '120px',
+                                                transition: 'padding-left 0.3s ease', // Add smooth transition
+                                                // backgroundColor: darken('var(--mantine-color-body)', 0.1), // Makes background 10% lighter
+                                                overflowY: 'auto' }}>
+                        <WordDataComponent wordData={wordData} setWordData={setWordData}/>
+                    </Grid.Col>
+        )}
+       
         </Grid>
       </div>
     </div>
