@@ -71,22 +71,36 @@ export function HomePage() {
   const words = textTranslit ? textTranslit.split(/\s+|\\+/) : [];
 
   // should split correctly the text into lines after '|' characters or newlines, while keeping the '|' characters. In case of '||' it should add an empty line.
-  const lines = textTranslit ? textTranslit.split(/(\|)|\n/).reduce((acc, part) => {
-    if (part === '|') {
-      if (acc[acc.length - 1].endsWith('|')) {
-        acc.push('');
-      } else {
-        acc[acc.length - 1] += '|';
-      }
-    } else if (part !== undefined && part !== '') {
-      acc.push(part);
-    }
-    return acc;
-  }, ['']) : [];
+  const lines: string[] = textTranslit
+  ? textTranslit
+      .split(/(\|\||\|)/)
+      .reduce((acc: string[], part: string) => {
+        const lastIndex = acc.length - 1;
+
+        // Handle double pipe "||" by adding a newline
+        if (part === '||') {
+          if (lastIndex >= 0) {
+            acc[lastIndex] += '||'; // Append || to the current line
+          }
+          acc.push(''); // Insert an empty line after ||
+        } 
+        // Handle single pipe "|" by appending it without adding new lines
+        else if (part === '|') {
+          if (lastIndex >= 0) {
+            acc[lastIndex] += '|'; // Append | to the current line
+          }
+        } 
+        // Add non-empty text segments without trimming to avoid altering spacing
+        else if (part) {
+          acc.push(part);
+        }
+        return acc;
+      }, [] as string[])
+  : [];
 
   
   const clickable_words = lines.map((line, lineIndex) => (
-    <p key={lineIndex}>
+    <p key={lineIndex} >
       {line.split(/\s+|\+/).map((word: string, wordIndex: number) => {
         const trimmedWord = word.trim();
         return (
@@ -125,7 +139,27 @@ export function HomePage() {
   }, [bookTitle?.value]);
 
 
-  const [wordData, setWordData] = useState<any[][][]>([]);
+    // Define types for the different entry structures
+  type InflectionEntry = [string, string]; // [caseAbbr, numberAbbr]
+  type LongEntry = [
+    string,  // entry[0] - word
+    string,  // entry[1] - grammar
+    InflectionEntry[],  // entry[2] - inflections
+    string[],  // entry[3] - inflection_wordsIAST
+    string,  // entry[4] - etymology
+    string,  // entry[5] - pronunciation
+    string[]  // entry[6] - vocabulary entries
+  ];
+
+  type ShortEntry = [
+    string,  // entry[0] - word
+    string,  // entry[1] - unknown/unused
+    string[]  // entry[2] - vocabulary entries
+  ];
+
+  type WordEntry = LongEntry | ShortEntry;
+
+  const [wordData, setWordData] = useState<WordEntry[]>([]);
 
   useEffect(() => {
     if (selectedWord) {
@@ -239,11 +273,12 @@ export function HomePage() {
           <Grid.Col span={6}
             className={classes.noScroll}
             style={{
-              marginTop: '0px',
-              paddingLeft: isNavbarVisible ? '150px' : '0px',
-              paddingRight: '50px',
+              marginTop: '120px',
+              paddingLeft: isNavbarVisible ? '140px' : '0px',
+              paddingRight: isNavbarVisible ? '50px': '180px',  
               transition: 'padding-left 0.3s ease',
               overflowY: 'auto',
+              flexWrap: 'wrap',
               maxHeight: '100vh',
               whiteSpace: 'normal', // Allows text to wrap
               wordWrap: 'break-word', // Breaks long words if needed
@@ -254,7 +289,6 @@ export function HomePage() {
               style={{
                 maxHeight: '100vh',
                 overflowY: 'auto',
-                display: 'flex',
                 flexWrap: 'wrap', // Ensures content wraps within the flex container
                 justifyContent: 'left',
                 wordWrap: 'break-word',
@@ -295,7 +329,7 @@ export function HomePage() {
           <Grid.Col span={6} 
   
           className={classes.noScroll} 
-          style={{ marginTop: '100px', 
+          style={{                    marginTop: '80px', 
                                       maxHeight: '100vh', 
                                       paddingLeft: isNavbarVisible ? '50px' : '0px', // Adjust based on navbar visibility
                                       paddingRight: isNavbarVisible ? '80px' : '120px',
@@ -307,10 +341,10 @@ export function HomePage() {
                     <Grid.Col span={12} 
   
                     className={classes.noScroll} 
-                    style={{ marginTop: '100px', 
+                    style={{                    marginTop: '0px', 
                                                 maxHeight: '100vh', 
-                                                paddingLeft: isNavbarVisible ? '0px' : '0px', // Adjust based on navbar visibility
-                                                paddingRight: isNavbarVisible ? '80px' : '120px',
+                                                paddingLeft: isNavbarVisible ? '300px' : '0px', // Adjust based on navbar visibility
+                                                paddingRight: isNavbarVisible ? '350px' : '120px',
                                                 transition: 'padding-left 0.3s ease', // Add smooth transition
                                                 // backgroundColor: darken('var(--mantine-color-body)', 0.1), // Makes background 10% lighter
                                                 overflowY: 'auto' }}>

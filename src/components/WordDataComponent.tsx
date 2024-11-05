@@ -4,56 +4,85 @@ import { useState, useEffect } from 'react';
 
 import classes from './WordDataComponent.module.css';
 
+// Define types for the different entry structures
+type InflectionEntry = [string, string]; // [caseAbbr, numberAbbr]
+type LongEntry = [
+  string,  // entry[0] - word
+  string,  // entry[1] - grammar
+  InflectionEntry[],  // entry[2] - inflections
+  string[],  // entry[3] - inflection_wordsIAST
+  string,  // entry[4] - etymology
+  string,  // entry[5] - pronunciation
+  string[]  // entry[6] - vocabulary entries
+];
+
+type ShortEntry = [
+  string,  // entry[0] - word
+  string,  // entry[1] - unknown/unused
+  string[]  // entry[2] - vocabulary entries
+];
+
+type WordEntry = LongEntry | ShortEntry;
 
 interface WordDataComponentProps {
-  wordData: any[][][];
-  setWordData: React.Dispatch<React.SetStateAction<any[][][]>>;
+  wordData: WordEntry[];
+  setWordData: React.Dispatch<React.SetStateAction<WordEntry[]>>;
 }
 
 const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) => {
-
-
   const handleWordClick = async (word: string, index: number) => {
     console.log(`Clicked word: ${word}`);
     console.log(`Index: ${index}`);
     fetchWordData(word).then(data => {
       console.log(data);  
       setWordData(prevWordData => {
-        // Create a copy of the previous state
         const newData = [...prevWordData];
-        // Insert the new data at index + 1
         newData.splice(index + 1, 0, ...data);
         console.log(newData);
         return newData;
       });
     });
   }
-  
+
+  // Function to check if the word has appeared before in the list
+  const hasWordAppearedBefore = (currentWord: string, currentIndex: number) => {
+    return wordData.some((entry, index) => 
+      index < currentIndex && entry[0] === currentWord
+    );
+  };
 
   return (
     <>
       {wordData && wordData.map((entry, index) => {
         console.log(entry[2]);
         if (entry.length === 7) {
+          const longEntry = entry as LongEntry;
+          const shouldShowVocabulary = !hasWordAppearedBefore(longEntry[0], index);
+          
           return (
             <div>
-
-              <h1 className={classes.mainWord} >
-                {entry[0]}
+              <h1 className={classes.mainWord}>
+                {longEntry[0]}
               </h1>
 
-              {entry[0] !== entry[5] && <p className={classes.pronunciation}                 >
-              { entry[5] }</p>}
+              {longEntry[0] !== longEntry[5] && 
+                <p className={classes.pronunciation}>
+                  {longEntry[5]}
+                </p>
+              }
 
-              {entry[0] !== entry[4] && <p className={classes.etymologySection}  >
-                <span className={classes.etymologyLabel}>from:</span> 
-                <span className={classes.etymologyTerm}>{entry[4]}</span></p>}
+              {longEntry[0] !== longEntry[4] && 
+                <p className={classes.etymologySection}>
+                  <span className={classes.etymologyLabel}>from:</span> 
+                  <span className={classes.etymologyTerm}>{longEntry[4]}</span>
+                </p>
+              }
 
               <p className={classes.grammarSection}>
-              <div className={classes.grammarMain}>{entry[1]}</div>
+                <div className={classes.grammarMain}>{longEntry[1]}</div>
               </p>
 
-              {entry[2] && entry[2].map((inflection, index) => {
+              {longEntry[2] && longEntry[2].map((inflection, index) => {
                 let caseAbbr = inflection[0];
                 let numberAbbr = inflection[1];
 
@@ -80,81 +109,87 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
 
                 return (
                   <span key={index} className={classes.grammarDetail}>
-                    {entry[3].length > 1 && (
-                      console.log("test entry3", entry[3]),
+                    {longEntry[3].length > 1 && (
                       <>
                         {caseFull}, {numberFull}
-                        {index < entry[2].length - 1 && ' or '}
+                        {index < longEntry[2].length - 1 && ' or '}
                       </>
                     )}
                   </span>
                 );
               })}
 
+              <InflectionTable 
+                inflection_wordsIAST={longEntry[3]} 
+                rowcolstitles={longEntry[2]}  
+                useColor={true}
+              />     
 
-
-              
-                          <InflectionTable inflection_wordsIAST={entry[3]} rowcolstitles={entry[2]}  useColor={true}/>     
-                          <div>
-
-                          <h4 className={classes.vocabularySection}> Vocabulary entries: </h4> 
-
-                              {entry[6].map((item: string, index: number) => (  
-                                <p key={index}>
-                                  {item.split(/<s>(.*?)<\/s>/g).map((segment: string, i: number) => {
-                                    if (i % 2 === 1) { // the words inside <s> and </s> are at odd indices
-                                      const cleanedSegment = segment.replace(/<[^>]*>/g, '');
-                                      return cleanedSegment.split(/(\s(?=\w)|—(?=\w)|-(?=\w)|\/(?=\w))/).map((word: string, j: number) => (
-                                        <span
-                                          key={j}
-                                          style={{fontStyle: 'italic', color: 'teal'}}
-                                          onClick={() => handleWordClick(word, index)}
-                                        >
-                                          {word}
-                                        </span>
-                                      ));
-                                    } else {
-                                      const cleanedSegment = segment.replace(/<[^>]*>/g, '');
-                                      return cleanedSegment;
-
-                                    }
-                                  })}
-                                </p>
-                              ))}
-                          </div>  
-                        <hr />
-                  </div>
+              {shouldShowVocabulary && (
+                <div>
+                  <h4 className={classes.vocabularySection}>Vocabulary entries:</h4> 
+                  {longEntry[6].map((item: string, index: number) => (  
+                    <p key={index}>
+                      {item.split(/<s>(.*?)<\/s>/g).map((segment: string, i: number) => {
+                        if (i % 2 === 1) {
+                          const cleanedSegment = segment.replace(/<[^>]*>/g, '');
+                          return cleanedSegment.split(/(\s(?=\w)|—(?=\w)|-(?=\w)|\/(?=\w))/).map((word: string, j: number) => (
+                            <span
+                              key={j}
+                              style={{fontStyle: 'italic', color: 'teal'}}
+                              onClick={() => handleWordClick(word, index)}
+                            >
+                              {word}
+                            </span>
+                          ));
+                        } else {
+                          const cleanedSegment = segment.replace(/<[^>]*>/g, '');
+                          return cleanedSegment;
+                        }
+                      })}
+                    </p>
+                  ))}
+                </div>
+              )}
+              <hr />
+            </div>
           );
         } else if (entry.length === 3) {
+          const shortEntry = entry as ShortEntry;
+          const shouldShowVocabulary = !hasWordAppearedBefore(shortEntry[0], index);
+
           return(
             <div>
-              <h1 className="text-xl" style={{fontFamily:"Garamond", fontWeight:"bold"}}>{entry[0]}</h1>
+              <h1 className="text-xl" style={{fontFamily:"Garamond", fontWeight:"bold"}}>
+                {shortEntry[0]}
+              </h1>
             
-              <div>
-                <h4> Vocabulary entries: </h4>
-                {entry[2].map((item: string, index: number) => (  
-                                <p key={index}>
-                                  {item.split(/<s>(.*?)<\/s>/g).map((segment: string, i: number) => {
-                                    if (i % 2 === 1) { // the words inside <s> and </s> are at odd indices
-                                      const cleanedSegment = segment.replace(/<[^>]*>/g, '');
-                                      return cleanedSegment.split(/(\s(?=\w)|—(?=\w)|-(?=\w))/).map((word: string, j: number) => (
-                                        <span
-                                          key={j}
-                                          style={{fontStyle: 'italic', color: 'teal'}}
-                                          onClick={() => handleWordClick(word, index)}
-                                        >
-                                          {word}
-                                        </span>
-                                      ));
-                                    } else {
-                                      const cleanedSegment = segment.replace(/<[^>]*>/g, '');
-                                      return cleanedSegment;
-
-                                    }
-                                  })}
-                                </p>
-                 ))}
-              </div>
+              {shouldShowVocabulary && (
+                <div>
+                  <h4>Vocabulary entries:</h4>
+                  {shortEntry[2].map((item: string, index: number) => (  
+                    <p key={index}>
+                      {item.split(/<s>(.*?)<\/s>/g).map((segment: string, i: number) => {
+                        if (i % 2 === 1) {
+                          const cleanedSegment = segment.replace(/<[^>]*>/g, '');
+                          return cleanedSegment.split(/(\s(?=\w)|—(?=\w)|-(?=\w))/).map((word: string, j: number) => (
+                            <span
+                              key={j}
+                              style={{fontStyle: 'italic', color: 'teal'}}
+                              onClick={() => handleWordClick(word, index)}
+                            >
+                              {word}
+                            </span>
+                          ));
+                        } else {
+                          const cleanedSegment = segment.replace(/<[^>]*>/g, '');
+                          return cleanedSegment;
+                        }
+                      })}
+                    </p>
+                  ))}
+                </div>
+              )}
               <hr />
             </div>    
           );
@@ -165,23 +200,6 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
       })}        
     </>
   );
-    
-  };
+};
 
 export default WordDataComponent;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
