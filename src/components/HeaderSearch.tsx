@@ -24,7 +24,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
 
   useEffect(() => {
     // Fetch the JSON data
-    fetch('/src/resources/MWKeysOnly.json')
+    fetch('/resources/MWKeysOnly.json')
       .then((response) => response.json())
       .then((data) => {
         setEntries(data);
