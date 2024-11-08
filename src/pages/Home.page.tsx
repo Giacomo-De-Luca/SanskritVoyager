@@ -3,7 +3,7 @@ import { ActionToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle'
 import { Select, MultiSelect, Grid, Textarea, Button, Loader } from '@mantine/core';
 import { FileInput } from '@mantine/core';
 import {  ComboboxItem, Container, lighten, darken } from '@mantine/core';
-import { useDisclosure, useDebouncedState } from '@mantine/hooks';
+import { useDisclosure, useDebouncedState, useMediaQuery } from '@mantine/hooks';
 import WordDataComponent from '@/components/WordDataComponent';
 import { fetchWordData, transliterateText, handleTranslate } from './Api';
 import { HeaderSearch } from '@/components/HeaderSearch';
@@ -43,8 +43,11 @@ export function HomePage() {
   const [ bookTitle, setBookTitle ] = useState<ComboboxItem | null>({ value: '', label: '' });
   // retrieved book text
   const [ bookText, setBookText ] = useState({});
+
+  const isMobile = useMediaQuery('(max-width: 768px)');
+
   // navbar visibility
-  const [isNavbarVisible, setIsNavbarVisible] = useState(true);
+  const [isNavbarVisible, setIsNavbarVisible] = useState(!isMobile);
 
   // toggle navbar visibility
   const toggleNavbar = () => {
