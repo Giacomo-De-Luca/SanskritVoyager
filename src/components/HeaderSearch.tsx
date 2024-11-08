@@ -64,7 +64,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
           </Group>
           <Autocomplete
             className={classes.search}
-            placeholder="Search for words here."
+            placeholder="Search any word."
             leftSection={<IconSearch style={{ width: rem(16), height: rem(16) }} stroke={1.5} />}
             data={entries}
             //visibleFrom="xs"
@@ -73,7 +73,6 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
             limit={50}
             withScrollArea={true}
             styles={{ dropdown: { maxHeight: 200, overflowY: 'auto' } }}
-            mt="md"
 
           />
         </Group>
