@@ -18,3 +18,49 @@
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
+
+.wordInfoFull{
+
+  @media (max-width: 600px) {
+    width: 100vw; /* 100% of the viewport width */
+    padding-right: 0px;
+  }
+}
+
+.wordInfoHalf{
+
+  @media (max-width: 600px) {
+    margin-top: 0px;
+    padding-right: 0px !important;
+
+  }
+}
+
+
+
+.navbarBox {
+
+  flex: '0 0 15%';
+
+  @media (max-width: 600px) {
+    flex: '0 0 5%'; /* 100% of the viewport width */
+  }
+
+    
+  
+}
+
+.textDisplay {
+
+  margin-top: '40px';
+
+
+  
+
+  @media (max-width: 600px) {
+    margin-top: 40px;
+  }
+
+
+
+}

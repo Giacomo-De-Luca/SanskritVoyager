@@ -185,7 +185,11 @@ export function HomePage() {
       />
 
     <div style={{ display: 'flex' }}>
-      <div style={{ flex: '0 0 15%', minWidth: isNavbarVisible? '400px': '0px' }}>
+      <div 
+
+      className={classes.navbarBox}
+      style={{ flex: '0 0 15%', 
+                    minWidth: isNavbarVisible? '400px': '0px' }}>
       {isNavbarVisible && (
         <NavbarSimple>
           <Select
@@ -276,9 +280,8 @@ export function HomePage() {
          }}>
 
           <Grid.Col span={6}
-            className={classes.noScroll}
+            className={`${classes.noScroll} ${classes.textDisplay}`}
             style={{
-              marginTop: '120px',
               paddingLeft: isNavbarVisible ? '100px' : '0px',
               paddingRight: isNavbarVisible ? '100px': '200px',  
               transition: 'padding-left 0.3s ease',
@@ -333,7 +336,7 @@ export function HomePage() {
         {text !== '' ? (        
           <Grid.Col span={6} 
   
-          className={classes.noScroll} 
+          className={`${classes.noScroll} ${classes.wordInfoHalf}`}
           style={{                    marginTop: '80px', 
                                       maxHeight: '100vh', 
                                       paddingLeft: isNavbarVisible ? '50px' : '0px', // Adjust based on navbar visibility
@@ -345,14 +348,10 @@ export function HomePage() {
           </Grid.Col> ) : (
                     <Grid.Col span={12} 
   
-                    className={classes.noScroll} 
-                    style={{                    marginTop: '0px', 
-                                                maxHeight: '100vh', 
+                    className={`${classes.noScroll} ${classes.wordInfoFull}`}
+                    style={{                  
                                                 paddingLeft: isNavbarVisible ? '300px' : '0px', // Adjust based on navbar visibility
-                                                paddingRight: isNavbarVisible ? '350px' : '120px',
-                                                transition: 'padding-left 0.3s ease', // Add smooth transition
-                                                // backgroundColor: darken('var(--mantine-color-body)', 0.1), // Makes background 10% lighter
-                                                overflowY: 'auto' }}>
+                                                paddingRight: isNavbarVisible ? '350px' : '120px', }}>
                         <WordDataComponent wordData={wordData} setWordData={setWordData}/>
                     </Grid.Col>
         )}
