@@ -1,6 +1,15 @@
 .navbar {
   height: 100vh;
+
+  /* Media query for small viewports */
+  @media (max-width: 600px) {
+    height: 100vh; /* 100% of the viewport height */
+  }
   width: rem(350px);
+
+  @media (max-width: 600px) {
+    width: 100vw; /* 100% of the viewport width */
+  }
   padding: var(--mantine-spacing-md);
   display: flex;
   flex-direction: column;

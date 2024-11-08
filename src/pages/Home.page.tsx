@@ -298,7 +298,7 @@ export function HomePage() {
                 justifyContent: 'left',
                 wordWrap: 'break-word',
                 maxWidth: '100%',
-                whiteSpace: 'normal', // Ensures text wraps onto the next line
+                whiteSpace: 'pre-wrap', // Ensures text wraps onto the next line
               }}
               
               >{clickable_words}</div>    
