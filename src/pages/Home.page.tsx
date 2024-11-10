@@ -45,6 +45,7 @@ export function HomePage() {
   const [ bookText, setBookText ] = useState({});
 
   const isMobile = useMediaQuery('(max-width: 768px)');
+  const [hoveredWord, setHoveredWord] = useState<string | null>(null);
 
   // navbar visibility
   const [isNavbarVisible, setIsNavbarVisible] = useState(!isMobile);
@@ -76,35 +77,47 @@ export function HomePage() {
   // should split correctly the text into lines after '|' characters or newlines, while keeping the '|' characters. In case of '||' it should add an empty line.
   
   console.log(textTranslit);
-  const lines: string[] = textTranslit
-  ? textTranslit.split(/(\|\||\|)/).reduce((acc: string[], part: string) => {
-      const lastIndex = acc.length - 1;
-
-      switch (part) {
-        case '||':
-          // Add a double pipe, then start a new line
-          if (lastIndex >= 0) acc[lastIndex] += '||';
-          acc.push(''); // Start a new line after ||
-          break;
-        case '|':
-          // Append single pipe to the current line without starting a new line
-          if (lastIndex >= 0) acc[lastIndex] += '|';
-          break;
-        default:
-          // Append non-empty parts to the current line
-          if (part) {
-            if (lastIndex >= 0 && acc[lastIndex] !== '') {
-              acc[lastIndex] += part;
-            } else {
-              acc.push(part);
-            }
-          }
-          break;
+  const lines = [];
+  if (textTranslit) {
+    let currentLine = '';
+    const textLines = textTranslit.split('\n');
+    
+    for (const line of textLines) {
+      const segments = line.split(/(\|\|.*?\|\||[\|])/);
+      
+      for (const segment of segments) {
+        // Check for the pattern '|| XX ||' where XX is up to two non-space characters
+        if (segment.match(/^\|\|\s*[^\s]{1,2}\s*\|\|$/)) {
+          currentLine += segment;
+          lines.push(currentLine);
+          currentLine = '';
+          lines.push(''); // Add empty line after the pattern
+        }
+        // Check for double pipes
+        else if (segment === '||') {
+          currentLine += segment;
+          lines.push(currentLine);
+          currentLine = '';
+        }
+        // Check for single pipe
+        else if (segment === '|') {
+          currentLine += segment;
+          lines.push(currentLine);
+          currentLine = '';
+        }
+        // Regular text
+        else if (segment.trim()) {
+          currentLine += segment;
+        }
       }
-
-      return acc;
-    }, [])
-  : [];
+      
+      // Push any remaining content in currentLine
+      if (currentLine.trim()) {
+        lines.push(currentLine);
+        currentLine = '';
+      }
+    }
+  }
 
   
   const clickable_words = lines.map((line, lineIndex) => (
@@ -115,7 +128,15 @@ export function HomePage() {
           <span
             key={wordIndex}
             onClick={() => setSelectedWord(trimmedWord)}
-            style={{ color: selectedWord === trimmedWord ? 'orange' : 'inherit' }}          >
+            onMouseEnter={() => setHoveredWord(trimmedWord)}
+            onMouseLeave={() => setHoveredWord(null)}
+
+            style={{ 
+              color: selectedWord === trimmedWord ? 'orange' : 'inherit',
+              borderBottom: hoveredWord === trimmedWord ? '1px solid gray' : 'none',
+              // Remove the duplicate color property
+              ...(hoveredWord === trimmedWord ? { color: 'gray' } : {}),
+            }}          >
             {word + ' '}
           </span>
         );
@@ -215,7 +236,7 @@ export function HomePage() {
         <DictionarySelector />
 
           <Select 
-            data={['Goraksataka', 'Ratnavali', 'Boja'].map((item) => ({ value: item, label: item }))}
+            data={['Goraksataka', 'Ratnavali', 'Boja', 'Test'].map((item) => ({ value: item, label: item }))}
             value={value ? value.value : ''}
             label="Select a book to import"
             placeholder="Pick a book to import"
@@ -285,26 +306,30 @@ export function HomePage() {
           <Grid.Col span={6}
             className={`${classes.noScroll} ${classes.textDisplay}`}
             style={{
+              marginTop: '120px', 
+              maxHeight: '100vh', 
               paddingLeft: isNavbarVisible ? '100px' : '0px',
-              paddingRight: isNavbarVisible ? '100px': '200px',  
+              paddingRight: isNavbarVisible ? '100px': '40px',  
               transition: 'padding-left 0.3s ease',
               overflowY: 'auto',
               flexWrap: 'wrap',
-              maxHeight: '100vh',
               whiteSpace: 'normal', // Allows text to wrap
               wordWrap: 'break-word', // Breaks long words if needed
             }}
             >
             <div
-              className={classes.noScroll}
+              className={`${classes.noScroll} ${classes.textClickable}`}
               style={{
-                maxHeight: '100vh',
                 overflowY: 'auto',
                 flexWrap: 'wrap', // Ensures content wraps within the flex container
                 justifyContent: 'left',
                 wordWrap: 'break-word',
                 maxWidth: '100%',
                 whiteSpace: 'pre-wrap', // Ensures text wraps onto the next line
+                cursor: 'pointer',
+                lineHeight: '1.6',
+                
+                
               }}
               
               >{clickable_words}</div>    
@@ -343,7 +368,7 @@ export function HomePage() {
           style={{                    marginTop: '80px', 
                                       maxHeight: '100vh', 
                                       paddingLeft: isNavbarVisible ? '50px' : '0px', // Adjust based on navbar visibility
-                                      paddingRight: isNavbarVisible ? '80px' : '140px',
+                                      paddingRight: isNavbarVisible ? '80px' : '40px',
                                       transition: 'padding-left 0.3s ease', // Add smooth transition
                                       // backgroundColor: darken('var(--mantine-color-body)', 0.1), // Makes background 10% lighter
                                       overflowY: 'auto' }}>
@@ -360,7 +385,10 @@ export function HomePage() {
         )}
        
         </Grid>
+
       </div>
+      <div style={{ flex: '0 0 7%', }}> 
+        </div>
     </div>
     </>
   );
