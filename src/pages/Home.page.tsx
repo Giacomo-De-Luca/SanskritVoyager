@@ -83,26 +83,20 @@ export function HomePage() {
     const textLines = textTranslit.split('\n');
     
     for (const line of textLines) {
-      const segments = line.split(/(\|\|.*?\|\||[\|])/);
+      // First check for || XX || pattern, then for || and |
+      const segments = line.split(/((?:\|\|\s*[^\s]{1,2}\s*\|\||\|\||[\|]))/);
       
       for (const segment of segments) {
-        // Check for the pattern '|| XX ||' where XX is up to two non-space characters
-        if (segment.match(/^\|\|\s*[^\s]{1,2}\s*\|\|$/)) {
+        if (segment === '||') {
           currentLine += segment;
-          lines.push(currentLine);
+          lines.push(currentLine.trimStart());
           currentLine = '';
-          lines.push(''); // Add empty line after the pattern
-        }
-        // Check for double pipes
-        else if (segment === '||') {
-          currentLine += segment;
-          lines.push(currentLine);
-          currentLine = '';
+          lines.push(''); // Add empty line after
         }
         // Check for single pipe
         else if (segment === '|') {
           currentLine += segment;
-          lines.push(currentLine);
+          lines.push(currentLine.trimStart());
           currentLine = '';
         }
         // Regular text
@@ -113,12 +107,11 @@ export function HomePage() {
       
       // Push any remaining content in currentLine
       if (currentLine.trim()) {
-        lines.push(currentLine);
+        lines.push(currentLine.trimStart());
         currentLine = '';
       }
     }
   }
-
   
   const clickable_words = lines.map((line, lineIndex) => (
     <p key={lineIndex} >
