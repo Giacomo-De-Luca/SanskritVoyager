@@ -68,7 +68,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
           </Group>
 
         <Group>
-          <Group ml={50} gap={5} className={classes.links} visibleFrom="sm">
+          <Group ml={10} gap={5} className={classes.links} visibleFrom="sm">
             {items}
           </Group>
           <Autocomplete

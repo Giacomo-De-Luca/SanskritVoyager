@@ -55,4 +55,6 @@
   width: 30px;
   height: 30px;
   color: light-dark(var(--mantine-color-gray-9), var(--mantine-color-dark-0));
+  stroke: 1.5;
+  
 }
