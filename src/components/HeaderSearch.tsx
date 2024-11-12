@@ -1,4 +1,4 @@
-import { Autocomplete, Group, Burger, rem, OptionsFilter, ComboboxItem } from '@mantine/core';
+import { Autocomplete, Group, Burger, rem, OptionsFilter, ComboboxItem, Image } from '@mantine/core';
 import { useDisclosure, useDebouncedState } from '@mantine/hooks';
 import { IconSearch } from '@tabler/icons-react';
 import classes from './HeaderSearch.module.css';
@@ -6,7 +6,7 @@ import { ActionToggle } from './ColorSchemeToggle/ColorSchemeToggle';
 import { UiSwitch } from './UiSwitch';
 export { UiSwitch } from './UiSwitch';
 import React, { useState, useEffect } from 'react';
-
+import favicon from '../favicon.svg';
 
 
 const links = [
@@ -56,6 +56,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
         <Group>
           <ActionToggle />
           <UiSwitch onToggle={onToggleNavbar} />
+          <Image src={favicon} alt="Logo" width={30} height={30} />
         </Group>
 
         <Group>

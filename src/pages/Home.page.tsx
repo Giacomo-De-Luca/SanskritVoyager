@@ -126,7 +126,7 @@ export function HomePage() {
 
             style={{ 
               color: selectedWord === trimmedWord ? 'orange' : 'inherit',
-              borderBottom: hoveredWord === trimmedWord ? '1px solid gray' : 'none',
+              // borderBottom: hoveredWord === trimmedWord ? '1px solid gray' : 'none',
               // Remove the duplicate color property
               ...(hoveredWord === trimmedWord ? { color: 'gray' } : {}),
             }}          >
@@ -137,6 +137,8 @@ export function HomePage() {
     </p>
   ));
 
+
+  
 
   // If there is only one word, set it as the selected word
   useEffect(() => {
@@ -205,7 +207,7 @@ export function HomePage() {
       <div 
 
       className={classes.navbarBox}
-      style={{ flex: '0 0 15%', 
+      style={{ flex: '0 0 10%', 
                     minWidth: isNavbarVisible? '400px': '0px' }}>
       {isNavbarVisible && (
         <NavbarSimple>
@@ -302,7 +304,7 @@ export function HomePage() {
               marginTop: '120px', 
               maxHeight: '100vh', 
               paddingLeft: isNavbarVisible ? '100px' : '0px',
-              paddingRight: isNavbarVisible ? '100px': '40px',  
+              paddingRight: isNavbarVisible ? '100px': '120px',  
               transition: 'padding-left 0.3s ease',
               overflowY: 'auto',
               flexWrap: 'wrap',
