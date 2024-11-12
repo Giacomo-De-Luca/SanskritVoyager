@@ -8,7 +8,7 @@ export { UiSwitch } from './UiSwitch';
 import React, { useState, useEffect } from 'react';
 import faviconlight from '../faviconlight.svg';
 import favicondark from '../favicondark.svg';
-import '../icons/icomoonfont/style.css';
+
 
 const links = [
   { link: '/documentation', label: 'Documentation' },
