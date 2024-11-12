@@ -50,3 +50,9 @@
     background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-dark-6));
   }
 }
+
+.logoSanskrit {
+  width: 30px;
+  height: 30px;
+  color: light-dark(var(--mantine-color-gray-9), var(--mantine-color-dark-0));
+}

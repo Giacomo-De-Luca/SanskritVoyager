@@ -1,4 +1,4 @@
-import { Autocomplete, Group, Burger, rem, OptionsFilter, ComboboxItem, Image } from '@mantine/core';
+import { Autocomplete, Group, Burger, rem, OptionsFilter, ComboboxItem, Image, useMantineColorScheme } from '@mantine/core';
 import { useDisclosure, useDebouncedState } from '@mantine/hooks';
 import { IconSearch } from '@tabler/icons-react';
 import classes from './HeaderSearch.module.css';
@@ -6,8 +6,9 @@ import { ActionToggle } from './ColorSchemeToggle/ColorSchemeToggle';
 import { UiSwitch } from './UiSwitch';
 export { UiSwitch } from './UiSwitch';
 import React, { useState, useEffect } from 'react';
-import favicon from '../favicon.svg';
-
+import faviconlight from '../faviconlight.svg';
+import favicondark from '../favicondark.svg';
+import '../icons/icomoonfont/style.css';
 
 const links = [
   { link: '/documentation', label: 'Documentation' },
@@ -19,6 +20,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
   const [entries, setEntries] = useState([]);
   const [filteredData, setFilteredData] = useState<string[]>([]);
   const [value, setValue] = useDebouncedState('', 600);
+  const { colorScheme } = useMantineColorScheme();
 
 
 
@@ -56,8 +58,14 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
         <Group>
           <ActionToggle />
           <UiSwitch onToggle={onToggleNavbar} />
-          <Image src={favicon} alt="Logo" width={30} height={30} />
-        </Group>
+          <Image 
+            src={colorScheme === 'dark' ? favicondark : faviconlight}
+            alt="Logo" 
+            width={30} 
+            height={30} 
+            className={classes.logo}
+          />
+          </Group>
 
         <Group>
           <Group ml={50} gap={5} className={classes.links} visibleFrom="sm">

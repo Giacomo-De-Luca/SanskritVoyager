@@ -22,3 +22,17 @@
     display: block;
   }
 }
+
+@media (max-width: 600px) {
+  .actionIcon {
+    size: 16px;
+  }
+  .icon {
+    width: 16px;
+    height: 16px;
+  }
+  .search {
+    width: 100%;
+  }
+
+}
