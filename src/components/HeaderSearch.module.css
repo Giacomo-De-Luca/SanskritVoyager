@@ -10,6 +10,24 @@
   z-index: 1000;
 }
 
+.header-group {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* Adjust the gap as needed */
+}
+
+@media (max-width: 600px) {
+  .header-group {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .header-group img {
+    width: 20px; /* Adjust the size for mobile */
+    height: 20px; /* Adjust the size for mobile */
+  }
+}
+
 
 .inner {
   height: rem(56px);
