@@ -216,6 +216,7 @@ export function HomePage() {
             value={value ? value.value : 'IAST'}
             label="Select Translitteration Scheme"
             placeholder="Pick Translitteration Scheme, default is IAST"
+            disabled
             onChange={(_value, option) => 
               {
                 const tempscheme = value ? value.value : 'IAST';
