@@ -61,13 +61,11 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
           <Image 
             src={colorScheme === 'dark' ? favicondark : faviconlight}
             alt="Logo" 
-            width={25} 
-            height={25} 
+            width={30} 
+            height={30} 
             className={classes.logo}
           />
-
-        </Group>
-
+          </Group>
 
         <Group className={classes.groupContainer}>
           <Group grow preventGrowOverflow={false} wrap="nowrap" gap={5} className={classes.links} visibleFrom="sm">
