@@ -5,6 +5,7 @@ export function DictionarySelector() {
     <MultiSelect
       label="Dictionary"
       description="Select dictionaries"
+      disabled
       placeholder="Default dictionary is Monier-Williams"
       data={[
         {

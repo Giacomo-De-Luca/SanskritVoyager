@@ -58,16 +58,17 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
         <Group>
           <ActionToggle />
           <UiSwitch onToggle={onToggleNavbar} />
-          <Image 
+
+        </Group>
+        <Image 
             src={colorScheme === 'dark' ? favicondark : faviconlight}
             alt="Logo" 
             width={30} 
             height={30} 
             className={classes.logo}
-          />
-          </Group>
+        />
 
-        <Group>
+        <Group className={classes.groupContainer}>
           <Group grow preventGrowOverflow={false} wrap="nowrap" gap={5} className={classes.links} visibleFrom="sm">
             {items}
           </Group>
@@ -76,7 +77,6 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
             placeholder="Search any word."
             leftSection={<IconSearch style={{ width: rem(16), height: rem(16) }} stroke={1.5} />}
             data={entries}
-            //visibleFrom="xs"
             onChange={setValue}
             autoCapitalize="off"
             limit={50}
