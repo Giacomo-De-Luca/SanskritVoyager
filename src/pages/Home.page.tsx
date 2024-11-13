@@ -73,6 +73,7 @@ export function HomePage() {
 
   // split the text into words
   const words = textTranslit ? textTranslit.split(/\s+|\\+/) : [];
+  console.log('Original textTranslit:', textTranslit);
 
   // should split correctly the text into lines after '|' characters or newlines, while keeping the '|' characters. In case of '||' it should add an empty line.
   
