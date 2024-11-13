@@ -235,6 +235,7 @@ export function HomePage() {
             value={value ? value.value : ''}
             label="Select a book to import"
             placeholder="Pick a book to import"
+            disabled
             onChange={(_value, option) => 
               {
                 setBookTitle(option);
@@ -275,6 +276,7 @@ export function HomePage() {
           leftSection={<IconVocabularyOff size={14} />}
           onClick={() => updateTranslate(text)} 
           loading={loading} 
+          disabled
           loaderProps={{ type: 'dots' }}
           style={{
             width: '100%',

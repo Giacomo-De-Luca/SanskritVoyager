@@ -59,3 +59,10 @@
   stroke: 1.5;
   
 }
+
+@media (max-width: 800px) {
+  .logo {
+    width: 20px;
+    height: 20px;
+  }
+}
