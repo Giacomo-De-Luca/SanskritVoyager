@@ -166,7 +166,7 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
             
               {shouldShowVocabulary && (
                 <div>
-                  <h4>Vocabulary entries:</h4>
+                  <h4 className= {classes.vocabularyEntry}>Vocabulary entries:</h4>
                   {shortEntry[2].map((item: string, index: number) => (  
                     <p key={index}>
                       {item.split(/<s>(.*?)<\/s>/g).map((segment: string, i: number) => {
