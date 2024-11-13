@@ -58,15 +58,16 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
         <Group>
           <ActionToggle />
           <UiSwitch onToggle={onToggleNavbar} />
-
-        </Group>
-        <Image 
+          <Image 
             src={colorScheme === 'dark' ? favicondark : faviconlight}
             alt="Logo" 
-            width={30} 
-            height={30} 
+            width={25} 
+            height={25} 
             className={classes.logo}
-        />
+          />
+
+        </Group>
+
 
         <Group className={classes.groupContainer}>
           <Group grow preventGrowOverflow={false} wrap="nowrap" gap={5} className={classes.links} visibleFrom="sm">
