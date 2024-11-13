@@ -34,6 +34,8 @@ interface NavbarSimpleProps {
       className={classes.link}
       data-active={item.label === active || undefined}
       href={item.link}
+      align-items: center
+
       key={item.label}
       onClick={(event) => {
         event.preventDefault();

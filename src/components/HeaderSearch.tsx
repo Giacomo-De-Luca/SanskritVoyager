@@ -67,7 +67,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
           />
           </Group>
 
-        <Group className={classes.groupContainer}>
+        <Group grow preventGrowOverflow={false} wrap="nowrap" className={classes.groupContainer}>
           <Group grow preventGrowOverflow={false} wrap="nowrap" gap={5} className={classes.links} visibleFrom="sm">
             {items}
           </Group>
