@@ -28,6 +28,10 @@
   }
 }
 
+.search {
+  min-width: 250px;
+}
+
 
 .inner {
   height: rem(56px);
