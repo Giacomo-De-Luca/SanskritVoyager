@@ -12,7 +12,7 @@ import favicondark from '../favicondark.svg';
 
 const links = [
   { link: '/documentation', label: 'Documentation' },
-  { link: '/about', label: 'About' },
+  // { link: '/about', label: 'About' },
 ];
 
 export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { onSearch: (query: string) => void, onToggleNavbar: () => void, isNavbarVisible: boolean }) {
