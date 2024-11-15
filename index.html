@@ -2,15 +2,28 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" 
-          type="image/png" 
-          href="faviconbackground.png" 
-          />
+    <!-- Light Mode Favicon -->
+    <link
+      rel="icon"
+      href="/src/faviconlight.svg"
+      type="image/svg+xml"
+      media="(prefers-color-scheme: light)"
+    />
+    <!-- Dark Mode Favicon -->
+    <link
+      rel="icon"
+      href="/src/favicondark.svg"
+      type="image/svg+xml"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Default Favicon -->
+    <link rel="icon" href="/src/faviconbackground.png" type="image/png" />
     <meta
       name="viewport"
       content="minimum-scale=1, initial-scale=1, width=device-width, user-scalable=no"
     />
     <title>Sanskrit Magic Reader</title>
+    <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <div id="root"></div>

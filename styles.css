@@ -7,3 +7,29 @@
       --mantine-color-body: #333;
     }
   }
+
+
+/* Default favicon */
+@media (prefers-color-scheme: light) {
+  :root {
+    --favicon: url('/src/faviconlight.svg');
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --favicon: url('/src/favicondark.svg');
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  link[rel="icon"] {
+    content: var(--favicon);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  link[rel="icon"] {
+    content: var(--favicon);
+  }
+}
