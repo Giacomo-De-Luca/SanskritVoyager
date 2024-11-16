@@ -160,13 +160,13 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
 
           return(
             <div>
-              <h1 className="text-xl" style={{fontFamily:"Garamond", fontWeight:"bold"}}>
+              <h1 className={classes.mainWord}>
                 {shortEntry[0]}
               </h1>
             
               {shouldShowVocabulary && (
                 <div>
-                  <h4 className= {classes.vocabularyEntry}>Vocabulary entries:</h4>
+                  <h4 className={classes.vocabularySection}>Vocabulary entries:</h4> 
                   {shortEntry[2].map((item: string, index: number) => (  
                     <p key={index}>
                       {item.split(/<s>(.*?)<\/s>/g).map((segment: string, i: number) => {
