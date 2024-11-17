@@ -313,18 +313,20 @@ export function HomePage() {
 
   return (
     <>
-      <HeaderSearch
+
+      
+      <HeaderSearch   // header search component
         onSearch={setSelectedWord}
         onToggleNavbar={toggleNavbar}
         isNavbarVisible={isNavbarVisible} // Add the missing isNavbarVisible prop
       />
 
-    <div style={{ display: 'flex' }}>
-      <div 
-
-      className={classes.navbarBox}
-      style={{ flex: '0 0 10%', 
-                    minWidth: isNavbarVisible? '400px': '0px' }}>
+    <div style={{ display: 'flex' }}>  
+      <div // navbar component
+        className={classes.navbarBox}
+        style={{ flex: '0 0 10%', 
+                  minWidth: isNavbarVisible? '400px': '0px' }}
+        >
       {isNavbarVisible && (
         <NavbarSimple>
           <Select
@@ -406,17 +408,24 @@ export function HomePage() {
         </NavbarSimple>
       )}
       </div>
+
+
       <div style={{ 
       flex: isNavbarVisible ? '1 1 80%' : '1 1 100%',
       paddingLeft: isMobile ? '16px' : undefined,
       paddingRight: isMobile ? '16px' : undefined
-    }}>
-      <Grid gutter="lg" style={{ 
-        display: 'flex', 
-        flexDirection: isMobile ? 'column' : 'row',
-        flexWrap: 'wrap', 
-        justifyContent: 'left',
-        transition: 'padding-left 0.3s ease',
+      }}>
+
+
+      <Grid 
+          gutter="lg" 
+          className={classes.wholeGrid}
+          style={{ 
+            display: 'flex', 
+            flexDirection: isMobile ? 'column' : 'row',
+            flexWrap: 'wrap', 
+            justifyContent: 'left',
+            transition: 'padding-left 0.3s ease',
       }}>
         <Grid.Col 
           span={isMobile ? 12 : 6}
@@ -424,25 +433,22 @@ export function HomePage() {
           style={{
             marginTop: isMobile ? '20px' : '120px',
             maxHeight: isMobile ? '50vh' : '100vh',
-            maxWidth: isMobile ? '100vh' : '50vh',
+            width: isMobile ? '100%' : '50vw', // Changed maxWidth to width
             paddingLeft: isMobile ? '0' : (isNavbarVisible ? '100px' : '0px'),
             paddingRight: isMobile ? '0' : (isNavbarVisible ? '100px' : '120px'),
             transition: 'padding-left 0.3s ease',
             overflowY: 'auto',
-            flexWrap: 'wrap',
-            whiteSpace: 'normal',
-            wordWrap: 'break-word',
+            overflowX: 'hidden', // Added to prevent horizontal scroll
           }}
         >
           <div
             className={`${classes.noScroll} ${classes.textClickable}`}
             style={{
               overflowY: 'auto',
-              flexWrap: 'wrap',
-              justifyContent: 'left',
-              wordWrap: 'break-word',
-              maxWidth: '100%',
-              whiteSpace: 'pre-wrap',
+              overflowX: 'hidden', // Added to prevent horizontal scroll
+              width: '100%', // Changed from maxWidth
+              wordBreak: 'break-word', // Added to ensure words break
+              whiteSpace: 'normal', // Changed from pre-wrap
               cursor: 'pointer',
               lineHeight: '1.6',
             }}
@@ -450,30 +456,33 @@ export function HomePage() {
             {clickable_words}
           </div>
           
-          <ClickableBookWords
-            bookText={bookText}
-            selectedWord={selectedWord}
-            setSelectedWord={setSelectedWord}
-          />
-          
-          <div>
+          {/* Update the translated text container */}
+          <div style={{ width: '100%' }}> {/* Added width constraint */}
             {translatedText.length > 0 && translatedText.map((item, index) => (
-              <div key={index}>
-                <p style={{ color: 'darkgrey' }}>
+              <div key={index} style={{ width: '100%' }}> {/* Added width constraint */}
+                <p style={{ 
+                  color: 'darkgrey',
+                  width: '100%', // Added width constraint
+                  wordBreak: 'break-word' // Added to ensure words break
+                }}>
                   {item.Sanskrit.split(/\s+|\+/).map((word, wordIndex) => {
                     const trimmedWord = word.trim();
                     return (
                       <span
                         key={wordIndex}
                         onClick={() => setSelectedWord(trimmedWord)}
-                        style={{ color: selectedWord === trimmedWord ? 'orange' : 'inherit' }}
+                        style={{ 
+                          color: selectedWord === trimmedWord ? 'orange' : 'inherit',
+                          display: 'inline-block', // Added to help with word wrapping
+                          wordBreak: 'break-word' // Added to ensure words break
+                        }}
                       >
                         {word + ' '}
                       </span>
                     );
                   })}
                 </p>
-                <p>{item.English}</p>
+                <p style={{ wordBreak: 'break-word' }}>{item.English}</p>
               </div>
             ))}
           </div>
@@ -518,6 +527,8 @@ export function HomePage() {
     </>
   );
 }
+
+
 
 
 
