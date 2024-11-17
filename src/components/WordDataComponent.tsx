@@ -61,7 +61,7 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
           
           return (
             <div>
-              <h1 className={classes.mainWord}>
+              <h1 className={classes.mainWord} data-word={longEntry[0]}>
                 {longEntry[0]}
               </h1>
 
@@ -160,7 +160,7 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
 
           return(
             <div>
-              <h1 className={classes.mainWord}>
+              <h1 className={classes.mainWord} data-word={shortEntry[0]}>
                 {shortEntry[0]}
               </h1>
             

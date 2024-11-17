@@ -29,8 +29,8 @@ export function HomePage() {
   const [text, setText] = useState('');
   // output translitteration scheme
   const [value, setValue] = useState<ComboboxItem | null>({ value: 'IAST', label: 'IAST' });  
+  // translitteration scheme
   const [scheme, setScheme] = useState('IAST');  
-
   // transliterated text
   const [textTranslit, setTextTranslit] = useDebouncedState('', 100);
   // translated text
@@ -44,7 +44,19 @@ export function HomePage() {
   // retrieved book text
   const [ bookText, setBookText ] = useState({});
 
+
+
+  // reduce array for the clickable links to wordData
+  type GroupedEntries = {
+    [key: string]: WordEntry[];
+  };
+  
+  // Add loading state
+  const [isLoadingWordData, setIsLoadingWordData] = useState(false);
+  
+
   const isMobile = useMediaQuery('(max-width: 768px)');
+  const isTablet = useMediaQuery('(max-width: 992px)');
   const [hoveredWord, setHoveredWord] = useState<string | null>(null);
 
   // navbar visibility
@@ -113,33 +125,137 @@ export function HomePage() {
       }
     }
   }
-  
-  const clickable_words = lines.map((line, lineIndex) => (
-    <p key={lineIndex} >
-      {line.split(/\s+|\+/).map((word: string, wordIndex: number) => {
-        const trimmedWord = word.trim();
-        return (
-          <span
-            key={wordIndex}
-            onClick={() => setSelectedWord(trimmedWord)}
-            onMouseEnter={() => setHoveredWord(trimmedWord)}
-            onMouseLeave={() => setHoveredWord(null)}
+  const [clickedWord, setClickedWord] = useState<string | null>(null);
+  const [wordData, setWordData] = useState<WordEntry[]>([]);
 
-            style={{ 
-              color: selectedWord === trimmedWord ? 'orange' : 'inherit',
-              // borderBottom: hoveredWord === trimmedWord ? '1px solid gray' : 'none',
-              // Remove the duplicate color property
-              ...(hoveredWord === trimmedWord ? { color: 'gray' } : {}),
-            }}          >
-            {word + ' '}
-          </span>
-        );
-      })}
-    </p>
-  ));
+  // Add this state at the component level
+  const [clickedAdditionalWord, setClickedAdditionalWord] = useState<string | null>(null);
 
+  // Modified effect with more robust scrolling logic
+  useEffect(() => {
+    if (clickedAdditionalWord) {
+      // First try with querySelector
+      let element = document.querySelector(`h1[data-word="${clickedAdditionalWord}"]`);
+      
+      // If not found, try finding all h1s and match by content
+      if (!element) {
+        const allH1s = document.querySelectorAll('h1');
+        for (const h1 of allH1s) {
+          if (h1.textContent?.trim() === clickedAdditionalWord) {
+            element = h1;
+            break;
+          }
+        }
+      }
 
-  
+      if (element) {
+        console.log('Found element:', element);
+        // Add a small delay to ensure DOM is ready
+        setTimeout(() => {
+          element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          // Optionally highlight the scrolled element temporarily
+        }, 100);
+      } else {
+        console.log('Element not found for word:', clickedAdditionalWord);
+      }
+      setClickedAdditionalWord(null); // Reset after attempting to scroll
+    }
+  }, [clickedAdditionalWord]);
+
+  const clickable_words = lines.map((line, lineIndex) => {
+    const words = line.split(/\s+|\+/);
+    const hasClickedWord = words.some(word => word.trim() === clickedWord);
+
+    return (
+      <div key={lineIndex} style={{ marginBottom: '8px' }}>
+      <p>
+        {words.map((word: string, wordIndex: number) => {
+          const trimmedWord = word.trim();
+          return (
+            <span
+              key={wordIndex}
+              onClick={async () => {
+                setSelectedWord(trimmedWord);
+                setClickedWord(trimmedWord);
+                setIsLoadingWordData(true);
+                console.log(`Clicked word: ${trimmedWord}`);
+                
+                try {
+                  const data = await fetchWordData(trimmedWord);
+                  setWordData(data);
+                } finally {
+                  setIsLoadingWordData(false);
+                }
+              }}
+              onMouseEnter={() => setHoveredWord(trimmedWord)}
+              onMouseLeave={() => setHoveredWord(null)}
+              style={{ 
+                color: selectedWord === trimmedWord ? 'orange' : 'inherit',
+                ...(hoveredWord === trimmedWord ? { color: 'gray' } : {}),
+                cursor: 'pointer',
+              }}
+            >
+              {word + ' '}
+            </span>
+          );
+        })}
+      </p>
+      {hasClickedWord && (
+        <p style={{ paddingLeft: '16px', color: '#666', marginTop: '4px' }}>
+          {isLoadingWordData ? (
+          <div className= {classes.loaderContainer}>
+            <Loader type="dots" size="sm" color='rgba(191, 191, 191, 1)' />
+          </div>
+          ) : (
+            wordData.length > 0 && (() => {
+              const groupedEntries = wordData.reduce<GroupedEntries>((acc, entry) => {
+                const key = entry[4] || 'default';
+                if (!acc[key]) {
+                  acc[key] = [];
+                }
+                acc[key].push(entry);
+                return acc;
+              }, {});
+
+              return Object.entries(groupedEntries).map(([originalWord, entries], groupIndex) => {
+                const uniqueWords = Array.from(new Set(entries.map(entry => entry[0])));
+                
+                return (
+                  <span key={groupIndex} style={{ marginRight: '8px' }}>
+                    {uniqueWords.map((word, wordIndex) => (
+                      <>
+                        <span
+                          key={wordIndex}
+                          className= {classes.additionalWord}
+                          onClick={async () => {
+                            console.log('Clicked additional word:', word);
+                            setClickedAdditionalWord(word);
+                            
+                          }}
+                          style={{
+                            cursor: 'pointer',
+                            whiteSpace: 'nowrap', // Prevent line breaks within words
+                                                      
+                            marginRight: wordIndex < uniqueWords.length - 1 ? '4px' : '0',
+                          }}
+                        >
+                          {word}
+                        </span>
+                        {wordIndex < uniqueWords.length - 1 && (
+                          <span style={{ margin: '0 4px', color: '#666' }}>|</span>
+                        )}
+                      </>
+                    ))}
+                  </span>
+                );
+              });
+            })()
+          )}
+        </p>
+      )}
+    </div>
+  );
+});
 
   // If there is only one word, set it as the selected word
   useEffect(() => {
@@ -178,13 +294,12 @@ export function HomePage() {
 
   type ShortEntry = [
     string,  // entry[0] - word
-    string,  // entry[1] - unknown/unused
+    string,  // entry[1] - components
     string[]  // entry[2] - vocabulary entries
   ];
 
   type WordEntry = LongEntry | ShortEntry;
 
-  const [wordData, setWordData] = useState<WordEntry[]>([]);
 
   useEffect(() => {
     if (selectedWord) {
@@ -291,98 +406,110 @@ export function HomePage() {
         </NavbarSimple>
       )}
       </div>
-
-      <div style={{ flex: isNavbarVisible ? '1 1 80%' : '1 1 100%' }}>
-        <Grid  gutter="lg" style={{ 
-          display: 'flex', 
-          flexWrap: 'wrap', 
-          justifyContent: 'left', 
-          // padding: '0 50px', 
-          transition: 'padding-left 0.3s ease', // Add smooth transition
-         }}>
-
-          <Grid.Col span={6}
-            className={`${classes.noScroll} ${classes.textDisplay}`}
+      <div style={{ 
+      flex: isNavbarVisible ? '1 1 80%' : '1 1 100%',
+      paddingLeft: isMobile ? '16px' : undefined,
+      paddingRight: isMobile ? '16px' : undefined
+    }}>
+      <Grid gutter="lg" style={{ 
+        display: 'flex', 
+        flexDirection: isMobile ? 'column' : 'row',
+        flexWrap: 'wrap', 
+        justifyContent: 'left',
+        transition: 'padding-left 0.3s ease',
+      }}>
+        <Grid.Col 
+          span={isMobile ? 12 : 6}
+          className={`${classes.noScroll} ${classes.textDisplay}`}
+          style={{
+            marginTop: isMobile ? '20px' : '120px',
+            maxHeight: isMobile ? '50vh' : '100vh',
+            maxWidth: isMobile ? '100vh' : '50vh',
+            paddingLeft: isMobile ? '0' : (isNavbarVisible ? '100px' : '0px'),
+            paddingRight: isMobile ? '0' : (isNavbarVisible ? '100px' : '120px'),
+            transition: 'padding-left 0.3s ease',
+            overflowY: 'auto',
+            flexWrap: 'wrap',
+            whiteSpace: 'normal',
+            wordWrap: 'break-word',
+          }}
+        >
+          <div
+            className={`${classes.noScroll} ${classes.textClickable}`}
             style={{
-              marginTop: '120px', 
-              maxHeight: '100vh', 
-              paddingLeft: isNavbarVisible ? '100px' : '0px',
-              paddingRight: isNavbarVisible ? '100px': '120px',  
-              transition: 'padding-left 0.3s ease',
               overflowY: 'auto',
               flexWrap: 'wrap',
-              whiteSpace: 'normal', // Allows text to wrap
-              wordWrap: 'break-word', // Breaks long words if needed
+              justifyContent: 'left',
+              wordWrap: 'break-word',
+              maxWidth: '100%',
+              whiteSpace: 'pre-wrap',
+              cursor: 'pointer',
+              lineHeight: '1.6',
             }}
-            >
-            <div
-              className={`${classes.noScroll} ${classes.textClickable}`}
-              style={{
-                overflowY: 'auto',
-                flexWrap: 'wrap', // Ensures content wraps within the flex container
-                justifyContent: 'left',
-                wordWrap: 'break-word',
-                maxWidth: '100%',
-                whiteSpace: 'pre-wrap', // Ensures text wraps onto the next line
-                cursor: 'pointer',
-                lineHeight: '1.6',
-                
-                
-              }}
-              
-              >{clickable_words}</div>    
-              <ClickableBookWords
-                bookText={bookText}
-                selectedWord={selectedWord}
-                setSelectedWord={setSelectedWord}
-              />
-              <div>
-              {translatedText.length > 0 &&translatedText.map((item, index) => (
-                <div key={index}>
-                  <p style={{ color: 'darkgrey' }}>
-                    {item.Sanskrit.split(/\s+|\+/).map((word, wordIndex) => {
-                      const trimmedWord = word.trim();
-                      return (
-                        <span
-                          key={wordIndex}
-                          onClick={() => setSelectedWord(trimmedWord)}
-                          style={{ color: selectedWord === trimmedWord ? 'orange' : 'inherit' }}
-                        >
-                          {word + ' '}
-                        </span>
-                      );
-                    })}
-                  </p>
-                  <p> {item.English}</p>
-                </div>
-              ))}
+          >
+            {clickable_words}
+          </div>
+          
+          <ClickableBookWords
+            bookText={bookText}
+            selectedWord={selectedWord}
+            setSelectedWord={setSelectedWord}
+          />
+          
+          <div>
+            {translatedText.length > 0 && translatedText.map((item, index) => (
+              <div key={index}>
+                <p style={{ color: 'darkgrey' }}>
+                  {item.Sanskrit.split(/\s+|\+/).map((word, wordIndex) => {
+                    const trimmedWord = word.trim();
+                    return (
+                      <span
+                        key={wordIndex}
+                        onClick={() => setSelectedWord(trimmedWord)}
+                        style={{ color: selectedWord === trimmedWord ? 'orange' : 'inherit' }}
+                      >
+                        {word + ' '}
+                      </span>
+                    );
+                  })}
+                </p>
+                <p>{item.English}</p>
               </div>
+            ))}
+          </div>
+        </Grid.Col>
 
+        {text !== '' ? (
+          <Grid.Col 
+            span={isMobile ? 12 : 6}
+            className={`${classes.noScroll} ${classes.wordInfoHalf}`}
+            style={{
+              marginTop: isMobile ? '20px' : '80px',
+              maxHeight: isMobile ? '50vh' : '100vh',
+              maxWidth: isMobile ? '100vh' : '50vh',
+              paddingLeft: isMobile ? '0' : (isNavbarVisible ? '50px' : '0px'),
+              paddingRight: isMobile ? '0' : (isNavbarVisible ? '80px' : '40px'),
+              transition: 'padding-left 0.3s ease',
+              overflowY: 'auto'
+            }}
+          >
+            <WordDataComponent wordData={wordData} setWordData={setWordData} />
           </Grid.Col>
-        {text !== '' ? (        
-          <Grid.Col span={6} 
-  
-          className={`${classes.noScroll} ${classes.wordInfoHalf}`}
-          style={{                    marginTop: '80px', 
-                                      maxHeight: '100vh', 
-                                      paddingLeft: isNavbarVisible ? '50px' : '0px', // Adjust based on navbar visibility
-                                      paddingRight: isNavbarVisible ? '80px' : '40px',
-                                      transition: 'padding-left 0.3s ease', // Add smooth transition
-                                      // backgroundColor: darken('var(--mantine-color-body)', 0.1), // Makes background 10% lighter
-                                      overflowY: 'auto' }}>
-              <WordDataComponent wordData={wordData} setWordData={setWordData}/>
-          </Grid.Col> ) : (
-                    <Grid.Col span={12} 
-  
-                    className={`${classes.noScroll} ${classes.wordInfoFull}`}
-                    style={{                  
-                                                paddingLeft: isNavbarVisible ? '300px' : '0px', // Adjust based on navbar visibility
-                                                paddingRight: isNavbarVisible ? '350px' : '120px', }}>
-                        <WordDataComponent wordData={wordData} setWordData={setWordData}/>
-                    </Grid.Col>
+        ) : (
+          <Grid.Col 
+            span={12}
+            className={`${classes.noScroll} ${classes.wordInfoFull}`}
+            style={{
+              paddingLeft: isMobile ? '16px' : (isNavbarVisible ? '300px' : '0px'),
+              paddingRight: isMobile ? '16px' : (isNavbarVisible ? '350px' : '120px'),
+            }}
+          >
+            <WordDataComponent wordData={wordData} setWordData={setWordData} />
+          </Grid.Col>
         )}
-       
-        </Grid>
+      </Grid>
+   
+  
 
       </div>
       <div style={{ flex: '0 0 7%', }}> 
