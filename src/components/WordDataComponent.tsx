@@ -27,9 +27,10 @@ type WordEntry = LongEntry | ShortEntry;
 interface WordDataComponentProps {
   wordData: WordEntry[];
   setWordData: React.Dispatch<React.SetStateAction<WordEntry[]>>;
+  isMobile: boolean | undefined;
 }
 
-const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) => {
+const WordDataComponent = ({ wordData, setWordData, isMobile }: WordDataComponentProps) => {
   const handleWordClick = async (word: string, index: number) => {
     console.log(`Clicked word: ${word}`);
     console.log(`Index: ${index}`);
@@ -118,12 +119,13 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
                   </span>
                 );
               })}
-
-              <InflectionTable 
-                inflection_wordsIAST={longEntry[3]} 
-                rowcolstitles={longEntry[2]}  
-                useColor={true}
-              />     
+              {!isMobile && (
+                <InflectionTable 
+                  inflection_wordsIAST={longEntry[3]} 
+                  rowcolstitles={longEntry[2]}  
+                  useColor={true}
+                />
+              )}
 
               {shouldShowVocabulary && (
                 <div>
@@ -159,7 +161,12 @@ const WordDataComponent = ({ wordData, setWordData }: WordDataComponentProps) =>
           const shouldShowVocabulary = !hasWordAppearedBefore(shortEntry[0], index);
 
           return(
-            <div>
+            <div 
+              style={{ 
+                wordBreak: 'break-word', // Added to ensure words break
+                whiteSpace: 'normal', // Changed from pre-wrap
+              }}
+            >
               <h1 className={classes.mainWord} data-word={shortEntry[0]}>
                 {shortEntry[0]}
               </h1>

@@ -56,14 +56,20 @@ export function HomePage() {
   
 
   const isMobile = useMediaQuery('(max-width: 768px)');
-  const isTablet = useMediaQuery('(max-width: 992px)');
+  const isTablet = useMediaQuery('(max-width: 1040px)');
+
+  console.log('isMobile:', isMobile);
+  console.log('isTablet:', isTablet);
   const [hoveredWord, setHoveredWord] = useState<string | null>(null);
 
   // navbar visibility
   const [isNavbarVisible, setIsNavbarVisible] = useState(!isMobile);
+  console.log('isNavbarVisible:', isNavbarVisible);
+
 
   // toggle navbar visibility
   const toggleNavbar = () => {
+    
     setIsNavbarVisible(prevState => !prevState);
   };
 
@@ -72,7 +78,6 @@ export function HomePage() {
     const selectedValue = newValue || scheme;
     const transliteratedText = await transliterateText(inputText, selectedValue);
     setTextTranslit(transliteratedText);
-    console.log(transliteratedText);
   };
 
   // update the translated text using the API
@@ -83,13 +88,13 @@ export function HomePage() {
     setLoading(false);
   };
 
+  const shouldUseColumn = isMobile || (isTablet && isNavbarVisible);
+
   // split the text into words
   const words = textTranslit ? textTranslit.split(/\s+|\\+/) : [];
-  console.log('Original textTranslit:', textTranslit);
 
   // should split correctly the text into lines after '|' characters or newlines, while keeping the '|' characters. In case of '||' it should add an empty line.
   
-  console.log(textTranslit);
   const lines = [];
   if (textTranslit) {
     let currentLine = '';
@@ -149,7 +154,6 @@ export function HomePage() {
       }
 
       if (element) {
-        console.log('Found element:', element);
         // Add a small delay to ensure DOM is ready
         setTimeout(() => {
           element.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -178,7 +182,6 @@ export function HomePage() {
                 setSelectedWord(trimmedWord);
                 setClickedWord(trimmedWord);
                 setIsLoadingWordData(true);
-                console.log(`Clicked word: ${trimmedWord}`);
                 
                 try {
                   const data = await fetchWordData(trimmedWord);
@@ -228,7 +231,6 @@ export function HomePage() {
                           key={wordIndex}
                           className= {classes.additionalWord}
                           onClick={async () => {
-                            console.log('Clicked additional word:', word);
                             setClickedAdditionalWord(word);
                             
                           }}
@@ -305,7 +307,6 @@ export function HomePage() {
     if (selectedWord) {
       fetchWordData(selectedWord).then(data => {
         setWordData(data);
-        console.log(data);  // Log the data here
       });
     }
   }, [selectedWord]);
@@ -324,7 +325,7 @@ export function HomePage() {
     <div style={{ display: 'flex' }}>  
       <div // navbar component
         className={classes.navbarBox}
-        style={{ flex: '0 0 10%', 
+        style={{ flex: isMobile? '0 0 3%' : '0 0 7%', 
                   minWidth: isNavbarVisible? '400px': '0px' }}
         >
       {isNavbarVisible && (
@@ -339,7 +340,6 @@ export function HomePage() {
                 const tempscheme = value ? value.value : 'IAST';
                 setScheme(tempscheme);
                 setValue(option);
-                console.log(option); 
 
                 handleTransliteration(text, _value ?? undefined);
               }}
@@ -357,7 +357,6 @@ export function HomePage() {
             onChange={(_value, option) => 
               {
                 setBookTitle(option);
-                console.log(option); 
               }}
             style={{ width: '100%', paddingTop: 5, paddingBottom: 16, }}
           />
@@ -417,41 +416,56 @@ export function HomePage() {
       }}>
 
 
+
+            
+
       <Grid 
-          gutter="lg" 
-          className={classes.wholeGrid}
-          style={{ 
-            display: 'flex', 
-            flexDirection: isMobile ? 'column' : 'row',
-            flexWrap: 'wrap', 
-            justifyContent: 'left',
-            transition: 'padding-left 0.3s ease',
-      }}>
+        gutter= {isTablet ? "lg" : 'xl'}
+        className={classes.wholeGrid}
+        justify="space-around"
+        align="stretch"
+        style={{ 
+          display: 'flex', 
+          flexDirection: shouldUseColumn ? 'column' : 'row',
+          flexWrap: 'wrap', 
+          justifyContent: 'left',
+          transition: 'padding-left 0.3s ease',
+          width: '100%', // Ensure grid doesn't exceed viewport
+          maxWidth: '100vw', // Prevent horizontal scroll
+          
+     
+        }}
+      >
         <Grid.Col 
           span={isMobile ? 12 : 6}
           className={`${classes.noScroll} ${classes.textDisplay}`}
           style={{
             marginTop: isMobile ? '20px' : '120px',
             maxHeight: isMobile ? '50vh' : '100vh',
-            width: isMobile ? '100%' : '50vw', // Changed maxWidth to width
-            paddingLeft: isMobile ? '0' : (isNavbarVisible ? '100px' : '0px'),
-            paddingRight: isMobile ? '0' : (isNavbarVisible ? '100px' : '120px'),
+            width: isMobile ? '100%' : '50%',  // Changed to percentage
+            paddingLeft: isTablet ? '0' : (isNavbarVisible ? '100px' : '0px'),
+            paddingRight: isTablet ? '40px' : (isNavbarVisible ? '100px' : '120px'),
             transition: 'padding-left 0.3s ease',
             overflowY: 'auto',
-            overflowX: 'hidden', // Added to prevent horizontal scroll
+            overflowX: 'hidden',
+            borderBottom: isMobile? '1px solid lightgray' : 'none',
+
           }}
         >
+      
           <div
             className={`${classes.noScroll} ${classes.textClickable}`}
             style={{
               overflowY: 'auto',
               overflowX: 'hidden', // Added to prevent horizontal scroll
               width: '100%', // Changed from maxWidth
+              maxWidth: '100vw', // Added to prevent horizontal scroll
               wordBreak: 'break-word', // Added to ensure words break
               whiteSpace: 'normal', // Changed from pre-wrap
               cursor: 'pointer',
               lineHeight: '1.6',
             }}
+            
           >
             {clickable_words}
           </div>
@@ -486,7 +500,7 @@ export function HomePage() {
               </div>
             ))}
           </div>
-        </Grid.Col>
+          </Grid.Col>
 
         {text !== '' ? (
           <Grid.Col 
@@ -495,30 +509,31 @@ export function HomePage() {
             style={{
               marginTop: isMobile ? '20px' : '80px',
               maxHeight: isMobile ? '50vh' : '100vh',
-              maxWidth: isMobile ? '100vh' : '50vh',
+              width: isMobile ? '100%' : '50%',  // Changed to percentage
               paddingLeft: isMobile ? '0' : (isNavbarVisible ? '50px' : '0px'),
               paddingRight: isMobile ? '0' : (isNavbarVisible ? '80px' : '40px'),
               transition: 'padding-left 0.3s ease',
-              overflowY: 'auto'
+              overflowY: 'auto',
+
             }}
           >
-            <WordDataComponent wordData={wordData} setWordData={setWordData} />
+            <WordDataComponent wordData={wordData} setWordData={setWordData} isMobile={isMobile} />
           </Grid.Col>
         ) : (
           <Grid.Col 
             span={12}
             className={`${classes.noScroll} ${classes.wordInfoFull}`}
             style={{
+              width: '100%',  // Added explicit width
               paddingLeft: isMobile ? '16px' : (isNavbarVisible ? '300px' : '0px'),
               paddingRight: isMobile ? '16px' : (isNavbarVisible ? '350px' : '120px'),
             }}
           >
-            <WordDataComponent wordData={wordData} setWordData={setWordData} />
+            <WordDataComponent wordData={wordData} setWordData={setWordData} isMobile={isMobile} />
           </Grid.Col>
         )}
       </Grid>
-   
-  
+        
 
       </div>
       <div style={{ flex: '0 0 7%', }}> 
