@@ -325,7 +325,7 @@ export function HomePage() {
     <div style={{ display: 'flex' }}>  
       <div // navbar component
         className={classes.navbarBox}
-        style={{ flex: isMobile? '0 0 3%' : '0 0 7%', 
+        style={{ flex: isMobile? '0 0 10%' : '0 0 10%', 
                   minWidth: isNavbarVisible? '400px': '0px' }}
         >
       {isNavbarVisible && (
@@ -444,7 +444,7 @@ export function HomePage() {
             maxHeight: isMobile ? '50vh' : '100vh',
             width: isMobile ? '100%' : '50%',  // Changed to percentage
             paddingLeft: isTablet ? '0' : (isNavbarVisible ? '100px' : '0px'),
-            paddingRight: isTablet ? '40px' : (isNavbarVisible ? '100px' : '120px'),
+            paddingRight: isMobile? '0px' : isTablet ? '40px' : (isNavbarVisible ? '100px' : '120px'),
             transition: 'padding-left 0.3s ease',
             overflowY: 'auto',
             overflowX: 'hidden',
