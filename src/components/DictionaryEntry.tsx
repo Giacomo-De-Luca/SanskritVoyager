@@ -80,7 +80,7 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
         if (content[i + 1] === '/') {
           if (buffer) {
             if (currentTag === 's') {
-              const words = buffer.split(/(\s+)/);
+              const words = buffer.split(/(\s+|—|-(?=\w))/);
               words.forEach((word, wordIndex) => {
                 if (word.trim()) {
                   const classNames = [classes.dictSanskrit];
@@ -156,3 +156,4 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
 }
 
 export default DictionaryEntry;
+

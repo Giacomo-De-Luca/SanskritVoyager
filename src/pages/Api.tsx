@@ -18,7 +18,9 @@ export async function fetchWordData(word : string) {
         return data;
     } catch (error) {
         console.error('Error:', error);
+        return [];
     }
+    
 }
 
 export async function transliterateText(inputText: string, value: string) {

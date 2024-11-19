@@ -36,6 +36,10 @@ const WordDataComponent = ({ wordData, setWordData, isMobile }: WordDataComponen
     console.log(`Clicked word: ${word}`);
     console.log(`Index: ${index}`);
     fetchWordData(word).then(data => {
+      if (!Array.isArray(data)) {
+        console.error('Fetched data is not an array:', data);
+        return; // Prevent further processing
+      }
       console.log(data);  
       setWordData(prevWordData => {
         const newData = [...prevWordData];

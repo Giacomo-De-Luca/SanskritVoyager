@@ -76,7 +76,7 @@
 
 /* Additional utility classes */
 .dictParenthetical {
-    color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-4));
+    color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
 }
 
 .dictReference {
@@ -91,7 +91,7 @@
 
 .dictAbbreviation {
     font-style: normal;
-    color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-3));
+    color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
 }
 
 
