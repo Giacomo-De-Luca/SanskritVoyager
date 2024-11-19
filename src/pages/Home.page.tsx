@@ -325,7 +325,7 @@ export function HomePage() {
     <div style={{ display: 'flex' }}>  
       <div // navbar component
         className={classes.navbarBox}
-        style={{ flex: isMobile? '0 0 10%' : '0 0 10%', 
+        style={{ flex: isMobile? '0 0 9%' : '0 0 10%', 
                   minWidth: isNavbarVisible? '400px': '0px' }}
         >
       {isNavbarVisible && (

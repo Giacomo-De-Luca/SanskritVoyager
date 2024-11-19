@@ -1,0 +1,132 @@
+/* DictionaryEntry.css */
+.dictEntry {
+  
+  max-width: 800px;
+  margin-bottom: 10px; 
+  
+  /*
+   font-family: "Brill", "Gentium Plus", serif;
+     line-height: 1.5;
+       margin: 1em 0;
+    #c64242;
+    #2c5282;
+    */
+
+}
+
+
+
+
+.dictHeadword {
+  color: #2c5282;
+  font-weight: 600;
+}
+
+.dictGrammar {
+  font-style: italic;
+  color: #ac3e3e;
+  margin: 0 0.3em;
+}
+
+.dictSource {
+  font-style: normal;
+  color: #2c5282;
+  
+}
+
+.dictEtymology {
+  font-style: italic;
+  color: #666;
+}
+
+.dictDefinition {
+  color: #000;
+}
+
+.dictAuthor {
+    
+
+    color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-2));
+
+}
+
+.dictGreek {
+  
+  color: #2c5282;
+}
+
+.dictLanguage {
+
+    color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-2));
+    font-weight: 600; 
+    font-size: 14;
+
+}
+
+
+.dictSanskrit {
+  font-style: italic;
+  color: teal;
+  cursor: pointer;
+}
+
+.dictSanskrit:hover {
+  text-decoration: underline;
+}
+
+/* Additional utility classes */
+.dictParenthetical {
+    color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-4));
+}
+
+.dictReference {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.dictCompound {
+  font-style: italic;
+  color: #2c5282;
+}
+
+.dictAbbreviation {
+    font-style: normal;
+    color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-3));
+}
+
+
+  /* If you need to handle nested combinations 
+  .dictParenthetical.dictSanskrit,
+  .dictParenthetical.dictEtymology,
+  .dictParenthetical.dictGrammar {
+    color: #666;
+    
+    font-style: italic;
+  }
+
+bel colore:
+color: rgb(118, 38, 231);
+
+  Preserve other styles like italics */
+
+.dictParenthetical.dictSanskrit {
+
+    font-style: italic;
+    color: teal;
+    cursor: pointer;
+}
+
+
+.dictParenthetical.dictSource {
+    font-style: normal;
+    color: #2c5282;
+    
+    /*
+    color: #c64242;*/
+  }
+
+  .dictParenthetical.dictGrammar{
+    font-style: italic;
+    color: #ac3e3e;
+    margin: 0 0.3em;
+  }

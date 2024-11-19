@@ -1,6 +1,7 @@
 import InflectionTable from './InflectionTable';
 import { fetchWordData } from '../pages/Api';
 import { useState, useEffect } from 'react';
+import DictionaryEntry from './DictionaryEntry';
 
 import classes from './WordDataComponent.module.css';
 
@@ -131,25 +132,11 @@ const WordDataComponent = ({ wordData, setWordData, isMobile }: WordDataComponen
                 <div>
                   <h4 className={classes.vocabularySection}>Vocabulary entries:</h4> 
                   {longEntry[6].map((item: string, index: number) => (  
-                    <p key={index}>
-                      {item.split(/<s>(.*?)<\/s>/g).map((segment: string, i: number) => {
-                        if (i % 2 === 1) {
-                          const cleanedSegment = segment.replace(/<[^>]*>/g, '');
-                          return cleanedSegment.split(/(\s(?=\w)|—(?=\w)|-(?=\w)|\/(?=\w))/).map((word: string, j: number) => (
-                            <span
-                              key={j}
-                              style={{fontStyle: 'italic', color: 'teal'}}
-                              onClick={() => handleWordClick(word, index)}
-                            >
-                              {word}
-                            </span>
-                          ));
-                        } else {
-                          const cleanedSegment = segment.replace(/<[^>]*>/g, '');
-                          return cleanedSegment;
-                        }
-                      })}
-                    </p>
+                    <DictionaryEntry 
+                    key={index}
+                    entry={item}
+                    onWordClick={handleWordClick}
+                  />
                   ))}
                 </div>
               )}
