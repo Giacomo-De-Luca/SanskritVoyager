@@ -43,11 +43,10 @@
   color: #000;
 }
 
-.dictAuthor {
+.dictName {
     
-
-    color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-2));
-
+    color: #83358f;
+    cursor: pointer;
 }
 
 .dictGreek {
@@ -70,13 +69,29 @@
   cursor: pointer;
 }
 
+.dictGrammar.dictSanskrit {
+    font-style: italic;
+    color: teal;
+    cursor: pointer;
+  }
+
 .dictSanskrit:hover {
   text-decoration: underline;
 }
 
+.dictName:hover {
+    text-decoration: underline;
+  }
+
+
+  .dictParenthetical.dictAbbreviation {
+    color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-3));
+}
+
+
 /* Additional utility classes */
 .dictParenthetical {
-    color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
+    color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-3));
 }
 
 .dictReference {
@@ -91,7 +106,7 @@
 
 .dictAbbreviation {
     font-style: normal;
-    color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
+    color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-3));
 }
 
 
@@ -129,4 +144,21 @@ color: rgb(118, 38, 231);
     font-style: italic;
     color: #ac3e3e;
     margin: 0 0.3em;
+  }
+
+  .dictParenthetical.dictName {
+
+
+    
+    color: #83358f;
+    cursor: pointer;
+    
+    
+  }
+
+
+  .dictGrammar.dictParenthetical.dictSanskrit {
+    font-style: italic;
+    color: teal;
+    cursor: pointer;
   }

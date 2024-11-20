@@ -1,4 +1,3 @@
-// DictionaryEntry.tsx
 import classes from './DictionaryEntry.module.css';
 
 interface DictionaryEntryProps {
@@ -10,30 +9,11 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
   const processContent = (content: string) => {
     content = content.replace(/&amp;c\./g, '&c.');
 
-    let currentTag = '';
     let buffer = '';
     const result = [];
     let index = 0;
     let inParentheses = false;
-
-    const createStyledSpan = (text: string, tagName: string) => {
-      const className = getClassName(tagName);
-      const classNames = [];
-      
-      if (className) classNames.push(classes[className]);
-      if (inParentheses) classNames.push(classes.dictParenthetical);
-      
-      if (classNames.length === 0) return text;
-
-      return (
-        <span 
-          key={index++} 
-          className={classNames.join(' ')}
-        >
-          {text}
-        </span>
-      );
-    };
+    const tagStack: string[] = [];
 
     const getClassName = (tag: string): string => {
       switch (tag) {
@@ -44,87 +24,123 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
         case 'etym': return 'dictEtymology';
         case 'def': return 'dictDefinition';
         case 's': return 'dictSanskrit';
-        case 's1': return 'dictAuthor';
+        case 's1': return 'dictName';
         case 'gk': return 'dictGreek';
         case 'lang': return 'dictLanguage';
         default: return '';
       }
     };
 
+    const createStyledSpan = (text: string) => {
+      if (!text) return null;
+
+      const appliedClasses = tagStack
+        .map(tag => classes[getClassName(tag)])
+        .filter(Boolean);
+
+      if (inParentheses) {
+        appliedClasses.push(classes.dictParenthetical);
+      }
+
+      // Handle both 's' and 's1' tags with clickable words
+      if (tagStack.includes('s') || tagStack.includes('s1')) {
+        const isName = tagStack.includes('s1');
+        
+        // Split text into words only for Sanskrit terms, keep names as whole
+        const textParts: string[] = isName 
+          ? [text] 
+          : text.split(/(\s+|—|-(?=\w))/);
+
+        return textParts.map((word, wordIndex) => {
+          if (!word.trim()) return word;
+
+          // Order classes with the most specific last
+          const orderedClasses = [
+            ...appliedClasses.filter(cls => 
+              cls !== classes.dictSanskrit && 
+              cls !== classes.dictName
+            ),
+            isName ? classes.dictName : classes.dictSanskrit
+          ].filter(Boolean).join(' ');
+
+          return (
+            <span
+              key={`${index}-${wordIndex}`}
+              className={orderedClasses}
+              onClick={() => onWordClick?.(
+                isName ? word.toLowerCase() : word,
+                index
+              )}
+            >
+              {word}
+            </span>
+          );
+        });
+      }
+
+      if (appliedClasses.length === 0) return text;
+
+      const orderedClasses = appliedClasses.join(' ');
+
+      return (
+        <span 
+          key={index++} 
+          className={orderedClasses}
+        >
+          {text}
+        </span>
+      );
+    };
+
     for (let i = 0; i < content.length; i++) {
       if (content[i] === '(') {
         if (buffer) {
-          if (currentTag) {
-            result.push(createStyledSpan(buffer, currentTag));
-          } else {
-            result.push(buffer);
-          }
+          result.push(createStyledSpan(buffer));
           buffer = '';
         }
         inParentheses = true;
         buffer = '(';
       } else if (content[i] === ')') {
         buffer += ')';
-        if (currentTag) {
-          result.push(createStyledSpan(buffer, currentTag));
-        } else {
-          result.push(
-            <span key={index++} className={classes.dictParenthetical}>
-              {buffer}
-            </span>
-          );
-        }
+        result.push(createStyledSpan(buffer));
         buffer = '';
         inParentheses = false;
       } else if (content[i] === '<') {
         if (content[i + 1] === '/') {
+          // Closing tag
           if (buffer) {
-            if (currentTag === 's') {
-              const words = buffer.split(/(\s+|—|-(?=\w))/);
-              words.forEach((word, wordIndex) => {
-                if (word.trim()) {
-                  const classNames = [classes.dictSanskrit];
-                  if (inParentheses) classNames.push(classes.dictParenthetical);
-                  result.push(
-                    <span
-                      key={`${index}-${wordIndex}`}
-                      className={classNames.join(' ')}
-                      onClick={() => onWordClick?.(word, index)}
-                    >
-                      {word}
-                    </span>
-                  );
-                } else {
-                  result.push(word);
-                }
-              });
-            } else {
-              result.push(createStyledSpan(buffer, currentTag));
-            }
-            buffer = '';
-          }
-          while (content[i] !== '>') i++;
-          currentTag = '';
-        } else {
-          if (buffer && !currentTag) {
-            if (inParentheses) {
-              result.push(
-                <span key={index++} className={classes.dictParenthetical}>
-                  {buffer}
-                </span>
-              );
-            } else {
-              result.push(buffer);
-            }
+            result.push(createStyledSpan(buffer));
             buffer = '';
           }
           let tagName = '';
-          i++;
+          i += 2; // Skip </
           while (content[i] !== '>' && i < content.length) {
             tagName += content[i];
-
             i++;
-          }   currentTag = tagName;
+          }
+          // Remove the last matching tag from the stack
+          const lastIndex = tagStack.lastIndexOf(tagName);
+          if (lastIndex !== -1) {
+            tagStack.splice(lastIndex, 1);
+          }
+        } else {
+          // Opening tag
+          if (buffer) {
+            result.push(createStyledSpan(buffer));
+            buffer = '';
+          }
+          let tagName = '';
+          i++; // Skip <
+          while (content[i] !== '>' && i < content.length) {
+            if (content[i] === ' ') break; // Stop at first space to handle attributes
+            tagName += content[i];
+            i++;
+          }
+          // Skip any attributes
+          while (content[i] !== '>' && i < content.length) {
+            i++;
+          }
+          tagStack.push(tagName);
         }
       } else {
         buffer += content[i];
@@ -132,17 +148,7 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
     }
 
     if (buffer) {
-      if (currentTag) {
-        result.push(createStyledSpan(buffer, currentTag));
-      } else if (inParentheses) {
-        result.push(
-          <span key={index++} className={classes.dictParenthetical}>
-            {buffer}
-          </span>
-        );
-      } else {
-        result.push(buffer);
-      }
+      result.push(createStyledSpan(buffer));
     }
 
     return result;
@@ -156,4 +162,3 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
 }
 
 export default DictionaryEntry;
-
