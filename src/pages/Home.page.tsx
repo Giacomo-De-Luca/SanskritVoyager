@@ -43,7 +43,8 @@ export function HomePage() {
   const [ bookTitle, setBookTitle ] = useState<ComboboxItem | null>({ value: '', label: '' });
   // retrieved book text
   const [ bookText, setBookText ] = useState({});
-
+  
+  const isTextEmpty = text === "" ? true : false;
 
 
   // reduce array for the clickable links to wordData
@@ -396,7 +397,6 @@ export function HomePage() {
           loaderProps={{ type: 'dots' }}
           style={{
             width: '100%',
-            backgroundColor: 'transparent',   
           }}      
           >
             {'Start Reading'}
@@ -450,7 +450,9 @@ export function HomePage() {
             overflowY: 'auto',
             overflowX: 'hidden',
             borderBottom: isMobile? '1px solid lightgray' : 'none',
+            minHeight: isMobile ? (isTextEmpty ? '0vh' : '50vh') : '100vh',              
 
+            
           }}
         >
       
@@ -511,7 +513,7 @@ export function HomePage() {
             className={`${classes.noScroll} ${classes.wordInfoHalf}`}
             style={{
               marginTop: isMobile ? '20px' : '80px',
-              maxHeight: isMobile ? '80vh' : '100vh',
+              maxHeight: isMobile ? (isTextEmpty ? '100vh' : '50vh') : '100vh',              
               width: isMobile ? '100%' : '50%',  // Changed to percentage
               paddingLeft: isMobile ? '0' : (isNavbarVisible ? '50px' : '0px'),
               paddingRight: isMobile ? '0' : (isNavbarVisible ? '80px' : '40px'),

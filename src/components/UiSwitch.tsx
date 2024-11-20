@@ -1,5 +1,5 @@
 import { Switch, useMantineTheme, rem } from '@mantine/core';
-import { IconEyeCheck, IconEyeClosed} from '@tabler/icons-react';
+import { IconEyeCheck, IconEyeClosed, IconSquareRoundedLetterX, IconX, IconMenu2, IconMenuOrder, IconChevronCompactLeft, IconChevronLeft, IconChevronCompactRight} from '@tabler/icons-react';
 import classes from './UiSwitch.module.css';
 import { useMediaQuery } from '@mantine/hooks';
 
@@ -8,7 +8,7 @@ export function UiSwitch({ onToggle: onToggle }: { onToggle: () => void }) {
   const isMobile = useMediaQuery('(max-width: 755px)');
 
   const checkIcon = (
-    <IconEyeCheck
+    <IconChevronCompactLeft
       className={classes.iconEyeCheck}
       style={{ width: rem(16), height: rem(16) }}
       stroke={2.5}
@@ -16,7 +16,7 @@ export function UiSwitch({ onToggle: onToggle }: { onToggle: () => void }) {
   );
 
   const closedIcon = (
-    <IconEyeClosed
+    <IconChevronCompactRight
       className={classes.iconEyeClosed}
       style={{ width: rem(16), height: rem(16) }}
       stroke={2.5}

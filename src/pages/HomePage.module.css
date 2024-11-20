@@ -38,12 +38,15 @@
 
 .readingButton {
   color: light-dark(var(--mantine-color-gray-9), var(--mantine-color-dark-1));
+  background-color: transparent;
 
 }
 
 
 .readingButton:hover {
-  color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-dark-4)); /* Adjust the colors as needed */
+  color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-dark-3)); /* Adjust the colors as needed */
+  background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-dark-6));
+
 }
 
 

@@ -51,6 +51,12 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
     onSearch(value);
   }, [value, onSearch]);
 
+  const handleKeyDown = (event: React.KeyboardEvent<HTMLInputElement>) => {
+    if (event.key === 'Enter' && isNavbarVisible) {
+      onToggleNavbar();
+    }
+  };
+
 
   return (
     <header className={classes.header}>
@@ -63,8 +69,9 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
             height={30} 
             className={classes.logo}
           />
-          <UiSwitch onToggle={onToggleNavbar} />
           <ActionToggle />
+          <UiSwitch onToggle={onToggleNavbar} />
+          
           
           
           </Group>
@@ -83,6 +90,8 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
             limit={50}
             withScrollArea={true}
             styles={{ dropdown: { maxHeight: 200, overflowY: 'auto' } }}
+            onKeyDown={handleKeyDown} // Add the onKeyDown event handler
+
 
           />
         </Group>
