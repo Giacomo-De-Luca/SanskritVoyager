@@ -56,8 +56,6 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
     <header className={classes.header}>
       <div className={classes.inner}>
         <Group>
-          <ActionToggle />
-          <UiSwitch onToggle={onToggleNavbar} />
           <Image 
             src={colorScheme === 'dark' ? favicondark : faviconlight}
             alt="Logo" 
@@ -65,6 +63,10 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
             height={30} 
             className={classes.logo}
           />
+          <UiSwitch onToggle={onToggleNavbar} />
+          <ActionToggle />
+          
+          
           </Group>
 
         <Group grow preventGrowOverflow={false} wrap="nowrap" className={classes.groupContainer}>

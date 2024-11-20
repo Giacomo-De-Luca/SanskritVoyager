@@ -1,13 +1,15 @@
 .navbar {
   height: 100vh;
+  transition: min-width 0.5s ease; /* Adjust the duration and easing as needed */
+
 
   /* Media query for small viewports */
-  @media (max-width: 600px) {
+  @media (max-width: 700px) {
     height: 100vh; /* 100% of the viewport height */
   }
   width: rem(350px);
 
-  @media (max-width: 600px) {
+  @media (max-width: 700px) {
     width: 100vw; /* 100% of the viewport width */
   }
   padding: var(--mantine-spacing-md);
