@@ -464,6 +464,7 @@ export function HomePage() {
               whiteSpace: 'normal', // Changed from pre-wrap
               cursor: 'pointer',
               lineHeight: '1.6',
+              paddingTop: isMobile ? '50px' : '0px',  // Added to ensure padding
             }}
             
           >
