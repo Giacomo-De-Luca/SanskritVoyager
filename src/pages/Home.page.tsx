@@ -364,7 +364,7 @@ export function HomePage() {
           <Textarea 
             value={text}
             autoCapitalize="off"
-            onChange={(event) => {
+            onInput={(event) => {
               const newText = event.currentTarget.value;
               setText(newText);
               handleTransliteration(newText);
@@ -390,19 +390,19 @@ export function HomePage() {
           />
 
           <Button 
+          className= {classes.readingButton}
           leftSection={<IconVocabularyOff size={14} />}
-          onClick={() => updateTranslate(text)} 
-          loading={loading} 
-          disabled
+          onClick={() => setIsNavbarVisible(false)} 
           loaderProps={{ type: 'dots' }}
           style={{
             width: '100%',
             backgroundColor: 'transparent',   
-            color: 'light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-10)',
           }}      
           >
-            {loading ? 'Loading...' : 'Translate'}
+            {'Start Reading'}
           </Button>
+
+          
 
         </NavbarSimple>
       )}
@@ -509,7 +509,7 @@ export function HomePage() {
             className={`${classes.noScroll} ${classes.wordInfoHalf}`}
             style={{
               marginTop: isMobile ? '20px' : '80px',
-              maxHeight: isMobile ? '50vh' : '100vh',
+              maxHeight: isMobile ? '0vh' : '100vh',
               width: isMobile ? '100%' : '50%',  // Changed to percentage
               paddingLeft: isMobile ? '0' : (isNavbarVisible ? '50px' : '0px'),
               paddingRight: isMobile ? '0' : (isNavbarVisible ? '80px' : '40px'),

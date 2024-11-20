@@ -36,11 +36,24 @@
   }
 }
 
+.readingButton {
+  color: light-dark(var(--mantine-color-gray-9), var(--mantine-color-dark-1));
+
+}
+
+
+.readingButton:hover {
+  color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-dark-4)); /* Adjust the colors as needed */
+}
+
+
 
 
 .navbarBox {
 
   flex: '0 0 15%';
+  transition: min-width 0.5s ease; /* Adjust the duration and easing as needed */
+
 
   @media (max-width: 600px) {
     flex: '0 0 5%'; /* 100% of the viewport width */
