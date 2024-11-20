@@ -8,7 +8,7 @@ export function UiSwitch({ onToggle: onToggle }: { onToggle: () => void }) {
   const isMobile = useMediaQuery('(max-width: 755px)');
 
   const checkIcon = (
-    <IconChevronCompactLeft
+    <IconChevronCompactRight
       className={classes.iconEyeCheck}
       style={{ width: rem(16), height: rem(16) }}
       stroke={2.5}
@@ -16,7 +16,7 @@ export function UiSwitch({ onToggle: onToggle }: { onToggle: () => void }) {
   );
 
   const closedIcon = (
-    <IconChevronCompactRight
+    <IconChevronCompactLeft
       className={classes.iconEyeClosed}
       style={{ width: rem(16), height: rem(16) }}
       stroke={2.5}
