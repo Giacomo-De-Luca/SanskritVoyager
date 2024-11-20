@@ -71,4 +71,31 @@ export async function transliterateText(inputText: string, value: string) {
     
   }
 
+  export async function processNew(text : string, dictionary_names: string[]) {
+    console.log('Posting word to API:', text, "With dictionary:", dictionary_names);  
+
+    try {
+        const response = await fetch('https://api.yogasutratrees.com/process_new', {
+            method: 'POST',
+            headers: { 
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+              text: text,
+              dictionary_names: dictionary_names,
+            }),
+        });
+
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        console.error('Error:', error);
+        return [];
+    }
+    
+}
   

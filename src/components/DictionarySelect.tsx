@@ -1,18 +1,32 @@
 import { MultiSelect } from '@mantine/core';
+import { useState } from 'react';
 
-export function DictionarySelector() {
+interface DictionarySelectProps {
+  selectedDictionaries: string[];
+  setSelectedDictionaries: React.Dispatch<React.SetStateAction<string[]>>;
+}
+
+const DictionarySelectComponent = ({
+  selectedDictionaries,
+  setSelectedDictionaries,
+}: DictionarySelectProps) => {
+  const handleChange = (values: string[]) => {
+    setSelectedDictionaries(values); // Directly update the parent state
+    console.log(values)
+
+  };
+
   return (
     <MultiSelect
       label="Dictionary"
       description="Select dictionaries"
-      disabled
-      placeholder="Default dictionary is Monier-Williams"
+      placeholder="Select dictionaries"
       data={[
         {
           group: 'Sanskrit-English',
           items: [
-            { value: 'MW', label: 'Monier-Williams' },
-            { value: 'AP', label: 'Apte' }
+            { value: 'mw', label: 'Monier-Williams' },
+            { value: 'ap90', label: 'Apte' }
           ]
         },
         {
@@ -30,6 +44,10 @@ export function DictionarySelector() {
           ]
         }
       ]}
+      value={selectedDictionaries} // Bind the parent state
+      onChange={handleChange} // Update state on change
     />
   );
-}
+};
+
+export default DictionarySelectComponent;

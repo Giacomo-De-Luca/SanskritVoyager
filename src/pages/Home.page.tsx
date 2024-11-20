@@ -12,7 +12,7 @@ import { IconVocabularyOff } from '@tabler/icons-react';
 import { IconClipboardCheck, IconCopy, IconClipboard} from '@tabler/icons-react';
 import classes from './HomePage.module.css';
 import { UiSwitch } from '@/components/HeaderSearch';
-import { DictionarySelector } from '@/components/DictionarySelect';
+import DictionarySelectComponent from '@/components/DictionarySelect';
 import { ClickableBookWords } from '@/components/ClickableBookWords';
 import Orientation from 'react-native-orientation-locker';
 
@@ -43,6 +43,8 @@ export function HomePage() {
   const [ bookTitle, setBookTitle ] = useState<ComboboxItem | null>({ value: '', label: '' });
   // retrieved book text
   const [ bookText, setBookText ] = useState({});
+  // dictionary selected
+  const [ selectedDictionaries, setSelectedDictionaries ] = useState<string[]>([]);
   
   const isTextEmpty = text === "" ? true : false;
 
@@ -320,7 +322,7 @@ export function HomePage() {
       <HeaderSearch   // header search component
         onSearch={setSelectedWord}
         onToggleNavbar={toggleNavbar}
-        isModile={isMobile}
+        isMobile={isMobile}
         isNavbarVisible={isNavbarVisible} // Add the missing isNavbarVisible prop
       />
 
@@ -348,7 +350,11 @@ export function HomePage() {
             style={{ width: '100%', paddingTop: 50, paddingBottom: 16, }}
           />
           
-        <DictionarySelector />
+        <DictionarySelectComponent 
+          selectedDictionaries = {selectedDictionaries}
+          setSelectedDictionaries = {setSelectedDictionaries}
+          
+         />
 
           <Select 
             data={['Goraksataka', 'Ratnavali', 'Boja', 'Test'].map((item) => ({ value: item, label: item }))}

@@ -15,7 +15,7 @@ const links = [
   { link: '/about', label: 'About' },
 ];
 
-export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobile  }: { onSearch: (query: string) => void, onToggleNavbar: () => void, isNavbarVisible: boolean, isMobile: boolean }) {
+export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobile  }: { onSearch: (query: string) => void, onToggleNavbar: () => void, isNavbarVisible: boolean, isMobile: boolean | undefined }) {
   const [opened, { toggle }] = useDisclosure(isNavbarVisible);
   const [entries, setEntries] = useState([]);
   const [filteredData, setFilteredData] = useState<string[]>([]);
