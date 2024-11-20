@@ -432,6 +432,7 @@ export function HomePage() {
           transition: 'padding-left 0.3s ease',
           width: '100%', // Ensure grid doesn't exceed viewport
           maxWidth: '100vw', // Prevent horizontal scroll
+          maxHeight: '100vh', // Added to prevent vertical overflow
           
      
         }}
@@ -464,6 +465,8 @@ export function HomePage() {
               whiteSpace: 'normal', // Changed from pre-wrap
               cursor: 'pointer',
               lineHeight: '1.6',
+              paddingTop: isMobile ? '50px' : '0px',  // Added to ensure padding
+
             }}
             
           >
@@ -508,7 +511,7 @@ export function HomePage() {
             className={`${classes.noScroll} ${classes.wordInfoHalf}`}
             style={{
               marginTop: isMobile ? '20px' : '80px',
-              maxHeight: isMobile ? '50vh' : '100vh',
+              maxHeight: isMobile ? '80vh' : '100vh',
               width: isMobile ? '100%' : '50%',  // Changed to percentage
               paddingLeft: isMobile ? '0' : (isNavbarVisible ? '50px' : '0px'),
               paddingRight: isMobile ? '0' : (isNavbarVisible ? '80px' : '40px'),
