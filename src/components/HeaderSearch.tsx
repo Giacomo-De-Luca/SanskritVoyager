@@ -15,7 +15,7 @@ const links = [
   { link: '/about', label: 'About' },
 ];
 
-export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { onSearch: (query: string) => void, onToggleNavbar: () => void, isNavbarVisible: boolean }) {
+export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobile  }: { onSearch: (query: string) => void, onToggleNavbar: () => void, isNavbarVisible: boolean, isMobile: boolean }) {
   const [opened, { toggle }] = useDisclosure(isNavbarVisible);
   const [entries, setEntries] = useState([]);
   const [filteredData, setFilteredData] = useState<string[]>([]);
@@ -52,8 +52,10 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible  }: { o
   }, [value, onSearch]);
 
   const handleKeyDown = (event: React.KeyboardEvent<HTMLInputElement>) => {
-    if (event.key === 'Enter' && isNavbarVisible) {
-      onToggleNavbar();
+    if (event.key === 'Enter' && isNavbarVisible && isMobile) {
+      setTimeout(() => {
+        onToggleNavbar();
+      }, 400); // Adjust the delay time (in milliseconds) as needed
     }
   };
 

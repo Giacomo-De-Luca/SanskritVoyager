@@ -320,6 +320,7 @@ export function HomePage() {
       <HeaderSearch   // header search component
         onSearch={setSelectedWord}
         onToggleNavbar={toggleNavbar}
+        isModile={isMobile}
         isNavbarVisible={isNavbarVisible} // Add the missing isNavbarVisible prop
       />
 
@@ -450,7 +451,7 @@ export function HomePage() {
             overflowY: 'auto',
             overflowX: 'hidden',
             borderBottom: isMobile? '1px solid lightgray' : 'none',
-            minHeight: isMobile ? (isTextEmpty ? '0vh' : '50vh') : '100vh',              
+            minHeight: isMobile ? (isTextEmpty ? '0vh' : '50vh') : '0vh',              
 
             
           }}
