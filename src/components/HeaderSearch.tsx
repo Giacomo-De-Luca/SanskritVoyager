@@ -22,6 +22,8 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
   const [value, setValue] = useDebouncedState('', 600);
   const { colorScheme } = useMantineColorScheme();
 
+  
+
 
 
   useEffect(() => {
@@ -64,6 +66,10 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
     <header className={classes.header}>
       <div className={classes.inner}>
         <Group>
+
+          <Burger opened={opened} onClick={() => { toggle(); onToggleNavbar(); }} 
+          size={isMobile ? "sm" : "md" } />
+          <ActionToggle />
           <Image 
             src={colorScheme === 'dark' ? favicondark : faviconlight}
             alt="Logo" 
@@ -71,8 +77,9 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
             height={30} 
             className={classes.logo}
           />
-          <ActionToggle />
-          <UiSwitch onToggle={onToggleNavbar} />
+          
+          
+        
           
           
           
