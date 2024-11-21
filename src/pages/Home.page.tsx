@@ -15,6 +15,9 @@ import { UiSwitch } from '@/components/HeaderSearch';
 import DictionarySelectComponent from '@/components/DictionarySelect';
 import { ClickableBookWords } from '@/components/ClickableBookWords';
 import Orientation from 'react-native-orientation-locker';
+import BookSelect from '@/components/BookSelect';
+import  ClickableSimpleBooks  from '@/components/ClickableSimpleBooks';
+
 
 Orientation.lockToLandscape();
 
@@ -40,9 +43,16 @@ export function HomePage() {
   // selected word to analyse
   const [ selectedWord, setSelectedWord] = useState('');
   // selected book title in the combobox
-  const [ bookTitle, setBookTitle ] = useState<ComboboxItem | null>({ value: '', label: '' });
+  const [ bookTitle, setBookTitle ] = useState<string | null>(null);
+
   // retrieved book text
-  const [ bookText, setBookText ] = useState({});
+  interface BookText {
+    title?: string;
+    body?: string;
+  }
+  
+  const [bookText, setBookText] = useState<BookText>({});
+  
   // dictionary selected
   const [ selectedDictionaries, setSelectedDictionaries ] = useState<string[]>([]);
   
@@ -270,20 +280,7 @@ export function HomePage() {
     }
   }, [words]);
 
-  useEffect(() => {
-
-    const fetchData = async () => {
-      try {
-        const response = await import(`../books/${bookTitle?.value}.json`);
-        setBookText(response.default);
-        console.log(response.default);
-      } catch (error) {
-        console.error("Error loading JSON file:", error);
-      }
-    };
-
-    fetchData();
-  }, [bookTitle?.value]);
+  
 
 
     // Define types for the different entry structures
@@ -316,6 +313,23 @@ export function HomePage() {
     }
   }, [selectedWord]);
 
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await fetch(`src/books/${bookTitle}.json`);
+        if (!response.ok) {
+          throw new Error(`Failed to fetch: ${response.status}`);
+        }
+        const data = await response.json();
+        setBookText(data);
+        console.log(data);
+      } catch (error) {
+        console.error("Error loading JSON file:", error);
+      }
+    };
+  
+    fetchData();
+  }, [bookTitle]);
 
   return (
     <>
@@ -358,18 +372,14 @@ export function HomePage() {
           
          />
 
-          <Select 
-            data={['Goraksataka', 'Ratnavali', 'Boja', 'Test'].map((item) => ({ value: item, label: item }))}
-            value={value ? value.value : ''}
-            label="Select a book to import"
-            placeholder="Pick a book to import"
-            disabled
-            onChange={(_value, option) => 
-              {
-                setBookTitle(option);
-              }}
-            style={{ width: '100%', paddingTop: 5, paddingBottom: 16, }}
-          />
+
+
+         <BookSelect
+          setBookTitle={setBookTitle}
+          bookTitle={bookTitle}
+         />
+
+
 
           <Textarea 
             value={text}
@@ -482,6 +492,11 @@ export function HomePage() {
             
           >
             {clickable_words}
+            <ClickableSimpleBooks
+              bookText={bookText}
+              selectedWord={selectedWord}
+              setSelectedWord={setSelectedWord}
+            />
           </div>
           
           {/* Update the translated text container */}
@@ -516,7 +531,7 @@ export function HomePage() {
           </div>
           </Grid.Col>
 
-        {text !== '' ? (
+        {text !== '' || bookTitle !== null ? (
           <Grid.Col 
             span={isMobile ? 12 : 6}
             className={`${classes.noScroll} ${classes.wordInfoHalf}`}
