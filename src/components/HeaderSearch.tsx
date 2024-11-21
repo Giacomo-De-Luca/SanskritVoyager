@@ -54,7 +54,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
   }, [value, onSearch]);
 
   const handleKeyDown = (event: React.KeyboardEvent<HTMLInputElement>) => {
-    if (event.key === 'Enter' || event.keyCode === 13 && isNavbarVisible && isMobile) {
+    if (event.key === 'Enter' && isNavbarVisible && isMobile || event.keyCode === 13 && isNavbarVisible && isMobile) {
       setTimeout(() => {
         onToggleNavbar();
       }, 400); // Adjust the delay time (in milliseconds) as needed
