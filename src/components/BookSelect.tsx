@@ -6,6 +6,14 @@ interface BookSelectProps {
     bookTitle: string | null;
 }
 
+function capitalizeWords(string: string) {
+  return string.split(' ').map(word =>
+    word.charAt(0).toUpperCase() + word.slice(1)
+  ).join(' ')
+}
+
+
+
 function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
   const [bookTitlesList, setBookTitlesList] = useState<{ value: string; label: string }[]>([]);
 
@@ -26,7 +34,8 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
         // Map the array of strings into the desired format
         const formattedData = data.map((title: string) => ({
           value: title,
-          label: title,
+          label: capitalizeWords(title.replace(/^sa/, '').replace(/^ta/, '').replace(/_/g, ' ')), // Replace initial "sa" and underscores with spaces, then convert to CamelCase
+
         }));
         console.log('Formatted data:', formattedData); // Debugging statement
         setBookTitlesList(formattedData);
@@ -46,7 +55,7 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
       data={bookTitlesList}
       value={bookTitle}
       label="Select a book to import"
-      placeholder="Pick a book to import2"
+      placeholder="Pick a book to import"
       searchable
       nothingFoundMessage="Nothing found..."
       onChange={selectBook}
