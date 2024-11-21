@@ -13,7 +13,7 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
 
   useEffect(() => {
     // Fetch titles from titles.json
-    fetch('/src/books/titles.json') // Adjust the path as needed
+    fetch('/public/resources/books/titles.json') // Adjust the path as needed
       .then((response) => {
         console.log('Fetch response:', response); // Debugging statement
         if (!response.ok) {
