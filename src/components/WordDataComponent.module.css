@@ -19,7 +19,27 @@
   .word-display > * + * {
     margin-top: 1.5rem;
 }
+
+.dictName {
+    font-family: 'Optima', sans-serif;
+    font-size: 1.125em;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    margin-bottom: 1rem;
+    text-indent: 10%; /* Indent the first line by 10% of the containing block's width */
+
+}
   
+.wordName {
+    font-family: 'Optima', sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    margin-bottom: 1rem;
+    font-weight: 500;
+    text-decoration: underline;
+    
+}
 .mainWord {
     font-family: 'Noto Sans', sans-serif;
     font-size: 2.5rem;

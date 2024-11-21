@@ -5,7 +5,7 @@ import { FileInput } from '@mantine/core';
 import {  ComboboxItem, Container, lighten, darken } from '@mantine/core';
 import { useDisclosure, useDebouncedState, useMediaQuery } from '@mantine/hooks';
 import WordDataComponent from '@/components/WordDataComponent';
-import { fetchWordData, transliterateText, handleTranslate } from './Api';
+import { fetchWordData, fetchMultidictData, transliterateText, handleTranslate } from './Api';
 import { HeaderSearch } from '@/components/HeaderSearch';
 import { NavbarSimple } from '@/components/NavbarSimple';
 import { IconVocabularyOff } from '@tabler/icons-react';
@@ -187,7 +187,8 @@ export function HomePage() {
                 setIsLoadingWordData(true);
                 
                 try {
-                  const data = await fetchWordData(trimmedWord);
+                  const data = await fetchMultidictData(trimmedWord, selectedDictionaries);
+                  console.log(data);
                   setWordData(data);
                 } finally {
                   setIsLoadingWordData(false);
@@ -294,13 +295,13 @@ export function HomePage() {
     string[],  // entry[3] - inflection_wordsIAST
     string,  // entry[4] - etymology
     string,  // entry[5] - pronunciation
-    string[]  // entry[6] - vocabulary entries
+    { [dictionaryName: string]: { [wordName: string]: string[] } }  // entry[6] - vocabulary entries
   ];
 
   type ShortEntry = [
     string,  // entry[0] - word
     string,  // entry[1] - components
-    string[]  // entry[2] - vocabulary entries
+    { [dictionaryName: string]: { [wordName: string]: string[] } }  // entry[6] - vocabulary entries
   ];
 
   type WordEntry = LongEntry | ShortEntry;
@@ -308,7 +309,8 @@ export function HomePage() {
 
   useEffect(() => {
     if (selectedWord) {
-      fetchWordData(selectedWord).then(data => {
+      fetchMultidictData(selectedWord, selectedDictionaries).then(data => {
+        console.log(data);
         setWordData(data);
       });
     }

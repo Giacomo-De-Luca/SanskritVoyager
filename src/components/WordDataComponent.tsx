@@ -14,13 +14,13 @@ type LongEntry = [
   string[],  // entry[3] - inflection_wordsIAST
   string,  // entry[4] - etymology
   string,  // entry[5] - pronunciation
-  string[]  // entry[6] - vocabulary entries
+  { [dictionaryName: string]: { [wordName: string]: string[] } }  // entry[6] - vocabulary entries
 ];
 
 type ShortEntry = [
   string,  // entry[0] - word
   string,  // entry[1] - unknown/unused
-  string[]  // entry[2] - vocabulary entries
+  { [dictionaryName: string]: { [wordName: string]: string[] } }  // entry[6] - vocabulary entries
 ];
 
 type WordEntry = LongEntry | ShortEntry;
@@ -135,13 +135,31 @@ const WordDataComponent = ({ wordData, setWordData, isMobile }: WordDataComponen
               {shouldShowVocabulary && (
                 <div>
                   <h4 className={classes.vocabularySection}>Vocabulary entries:</h4> 
-                  {longEntry[6].map((item: string, index: number) => (  
-                    <DictionaryEntry 
-                    key={index}
-                    entry={item}
-                    onWordClick={handleWordClick}
-                  />
-                  ))}
+                  <div>
+                    {Object.entries(longEntry[6]).map(([dictionaryName, words]) => (
+                      <div key={dictionaryName}>
+                        {/* Render dictionary name */}
+                        <h3 className= {classes.dictName}>{dictionaryName}</h3>
+                        {Object.entries(words).map(([wordName, entries]) => (
+                          <div key={wordName}>
+                            {/* Render word name */}
+                            <div 
+                              className={classes.wordName}
+                            >{wordName}</div>
+                            {/* Render each entry for the word */}
+                            {entries.map((entry, index) => (
+                              <DictionaryEntry 
+                                key={`${dictionaryName}-${wordName}-${index}`}
+                                entry={entry}
+                                onWordClick={handleWordClick}
+                              />
+                            ))}
+                          </div>
+                        ))}
+                      </div>
+                    ))}
+                  </div>
+
                 </div>
               )}
               <hr />
@@ -165,13 +183,28 @@ const WordDataComponent = ({ wordData, setWordData, isMobile }: WordDataComponen
               {shouldShowVocabulary && (
                 <div>
                   <h4 className={classes.vocabularySection}>Vocabulary entries:</h4> 
-                  {shortEntry[2].map((item: string, index: number) => (  
-                    <DictionaryEntry 
-                    key={index}
-                    entry={item}
-                    onWordClick={handleWordClick}
-                  />
-                  ))}
+                  {Object.entries(shortEntry[2]).map(([dictionaryName, words]) => (
+                    <div key={dictionaryName}>
+                    {/* Render dictionary name */}
+                    <h3 className= {classes.dictName}>{dictionaryName}</h3>
+                    {Object.entries(words).map(([wordName, entries]) => (
+                      <div key={wordName}>
+                        {/* Render word name */}
+                        <div 
+                          className={classes.wordName}
+                        >{wordName}</div>
+                          {/* Render each entry for the word */}
+                          {entries.map((entry, index) => (
+                            <DictionaryEntry 
+                              key={`${dictionaryName}-${wordName}-${index}`}
+                              entry={entry}
+                              onWordClick={handleWordClick}
+                          />
+                    ))}
+        </div>
+      ))}
+    </div>
+  ))}
                 </div>
               )}
               <hr />

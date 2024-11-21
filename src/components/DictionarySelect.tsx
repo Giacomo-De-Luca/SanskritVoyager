@@ -25,24 +25,18 @@ const DictionarySelectComponent = ({
         {
           group: 'Sanskrit-English',
           items: [
-            { value: 'mw', label: 'Monier-Williams' },
-            { value: 'ap90', label: 'Apte' }
+            { value: 'mw', label: '	Monier-Williams Sanskrit-English Dictionary' },
+            { value: 'ap90', label: 'Apte Practical Sanskrit-English Dictionary' }
           ]
         },
         {
-          group: 'Sanskrit-Sanskrit',
+          group: 'Sanskrit-German',
           items: [
-            { value: 'express', label: 'Express Dictionary' },
-            { value: 'django', label: 'Django Dictionary' }
+            { value: 'gra', label: 'Grassmann Wörterbuch zum Rig Veda' },
+
           ]
         },
-        {
-          group: 'English-Sanskrit',
-          items: [
-            { value: 'again', label: 'again' },
-            { value: 'atest', label: 'A test' }
-          ]
-        }
+        
       ]}
       value={selectedDictionaries} // Bind the parent state
       onChange={handleChange} // Update state on change

@@ -71,7 +71,7 @@ export async function transliterateText(inputText: string, value: string) {
     
   }
 
-  export async function processNew(text : string, dictionary_names: string[]) {
+  export async function fetchMultidictData(text : string, dictionary_names: string[]) {
     console.log('Posting word to API:', text, "With dictionary:", dictionary_names);  
 
     try {

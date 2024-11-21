@@ -27,6 +27,9 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
         case 's1': return 'dictName';
         case 'gk': return 'dictGreek';
         case 'lang': return 'dictLanguage';
+        case 'i': return 'dictItalic';
+        case 'b': return 'dictBold';
+        case 'div': return 'dictDivision';
         default: return '';
       }
     };
