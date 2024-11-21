@@ -36,6 +36,13 @@ const DictionarySelectComponent = ({
 
           ]
         },
+        {
+          group: 'Specialized Dictionaries',
+          items: [
+            { value: 'bhs', label: 'Edgerton Buddhist Hybrid Sanskrit Dictionary' },
+
+          ]
+        },
         
       ]}
       value={selectedDictionaries} // Bind the parent state
