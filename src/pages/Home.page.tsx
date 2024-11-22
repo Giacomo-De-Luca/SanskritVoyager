@@ -145,7 +145,6 @@ export function HomePage() {
   }
   const [clickedWord, setClickedWord] = useState<string | null>(null);
   const [wordData, setWordData] = useState<WordEntry[]>([]);
-
   // Add this state at the component level
   const [clickedAdditionalWord, setClickedAdditionalWord] = useState<string | null>(null);
 
@@ -496,6 +495,16 @@ export function HomePage() {
               bookText={bookText}
               selectedWord={selectedWord}
               setSelectedWord={setSelectedWord}
+              clickedWord={clickedWord}
+              setClickedWord={setClickedWord}
+              setIsLoadingWordData={setIsLoadingWordData}
+              setWordData={setWordData}
+              wordData={wordData}
+              setClickedAdditionalWord={setClickedAdditionalWord}
+              selectedDictionaries={selectedDictionaries}
+
+
+
             />
           </div>
           
@@ -546,7 +555,7 @@ export function HomePage() {
 
             }}
           >
-            <WordDataComponent wordData={wordData} setWordData={setWordData} isMobile={isMobile} />
+            <WordDataComponent wordData={wordData} setWordData={setWordData} selectedDictionaries={selectedDictionaries} isMobile={isMobile} />
           </Grid.Col>
         ) : (
           <Grid.Col 
@@ -558,7 +567,7 @@ export function HomePage() {
               paddingRight: isMobile ? '16px' : (isNavbarVisible ? '350px' : '120px'),
             }}
           >
-            <WordDataComponent wordData={wordData} setWordData={setWordData} isMobile={isMobile} />
+            <WordDataComponent wordData={wordData} setWordData={setWordData} selectedDictionaries={selectedDictionaries} isMobile={isMobile} />
           </Grid.Col>
         )}
       </Grid>

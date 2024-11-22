@@ -2,8 +2,10 @@ import InflectionTable from './InflectionTable';
 import { fetchWordData } from '../pages/Api';
 import { useState, useEffect } from 'react';
 import DictionaryEntry from './DictionaryEntry';
+import { Text, Divider, Title } from '@mantine/core';
 
 import classes from './WordDataComponent.module.css';
+
 
 // Define types for the different entry structures
 type InflectionEntry = [string, string]; // [caseAbbr, numberAbbr]
@@ -26,12 +28,13 @@ type ShortEntry = [
 type WordEntry = LongEntry | ShortEntry;
 
 interface WordDataComponentProps {
+  selectedDictionaries: string[];
   wordData: WordEntry[];
   setWordData: React.Dispatch<React.SetStateAction<WordEntry[]>>;
   isMobile: boolean | undefined;
 }
 
-const WordDataComponent = ({ wordData, setWordData, isMobile }: WordDataComponentProps) => {
+const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionaries }: WordDataComponentProps) => {
   const handleWordClick = async (word: string, index: number) => {
     console.log(`Clicked word: ${word}`);
     console.log(`Index: ${index}`);
@@ -64,9 +67,15 @@ const WordDataComponent = ({ wordData, setWordData, isMobile }: WordDataComponen
         if (entry.length === 7) {
           const longEntry = entry as LongEntry;
           const shouldShowVocabulary = !hasWordAppearedBefore(longEntry[0], index);
+
+          // Process dictionary entries, filtering out empty dictionaries
+          const processedDictionaries = Object.entries(longEntry[6])
+            .filter(([_, words]) => 
+              Object.entries(words).some(([_, entries]) => entries.length > 0)
+            );
           
           return (
-            <div>
+            <div key={index}>
               <h1 className={classes.mainWord} data-word={longEntry[0]}>
                 {longEntry[0]}
               </h1>
@@ -134,12 +143,18 @@ const WordDataComponent = ({ wordData, setWordData, isMobile }: WordDataComponen
 
               {shouldShowVocabulary && (
                 <div>
-                  <h4 className={classes.vocabularySection}>Vocabulary entries:</h4> 
+                  <Title order={4} className={classes.vocabularySection}>
+                    Vocabulary entries:
+                  </Title> 
                   <div>
                     {Object.entries(longEntry[6]).map(([dictionaryName, words]) => (
                       <div key={dictionaryName}>
                         {/* Render dictionary name */}
-                        <h3 className= {classes.dictName}>{dictionaryName}</h3>
+                        {processedDictionaries.length > 1 && (
+                            <Title order={3} className={classes.dictName}>
+                              {dictionaryName}
+                            </Title>
+                          )}
                         {Object.entries(words).map(([wordName, entries]) => (
                           <div key={wordName}>
                             {/* Render word name */}
