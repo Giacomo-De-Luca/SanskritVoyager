@@ -13,7 +13,6 @@ import { IconClipboardCheck, IconCopy, IconClipboard} from '@tabler/icons-react'
 import classes from './HomePage.module.css';
 import { UiSwitch } from '@/components/HeaderSearch';
 import DictionarySelectComponent from '@/components/DictionarySelect';
-import { ClickableBookWords } from '@/components/ClickableBookWords';
 import Orientation from 'react-native-orientation-locker';
 import BookSelect from '@/components/BookSelect';
 import  ClickableSimpleBooks  from '@/components/ClickableSimpleBooks';
@@ -497,11 +496,12 @@ export function HomePage() {
               setSelectedWord={setSelectedWord}
               clickedWord={clickedWord}
               setClickedWord={setClickedWord}
-              setIsLoadingWordData={setIsLoadingWordData}
               setWordData={setWordData}
               wordData={wordData}
               setClickedAdditionalWord={setClickedAdditionalWord}
               selectedDictionaries={selectedDictionaries}
+              hoveredWord = {hoveredWord}
+              setHoveredWord = {setHoveredWord}
 
 
 

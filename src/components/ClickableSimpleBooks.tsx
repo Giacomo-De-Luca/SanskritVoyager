@@ -19,14 +19,12 @@ interface ClickableSimpleBooksProps {
   setSelectedWord: (word: string) => void;
   clickedWord: string | null;
   setClickedWord: React.Dispatch<React.SetStateAction<string | null>>
-  setIsLoadingDebug: React.Dispatch<React.SetStateAction<boolean>>
   setWordData: (data: any) => void;
   wordData: WordEntry[];
   setClickedAdditionalWord: (word: string) => void;
   selectedDictionaries: string[];
   hoveredWord: string | null;
   setHoveredWord: React.Dispatch<React.SetStateAction<string | null>>
-  isLoadingDebug: boolean;
 }
 
 type GroupedEntries = {
@@ -59,14 +57,12 @@ const ClickableSimpleBooks = ({
   setSelectedWord,
   clickedWord,
   setClickedWord,
-  setIsLoadingDebug,
   setWordData,
   wordData,
   setClickedAdditionalWord,
   selectedDictionaries,
   hoveredWord,
   setHoveredWord,
-  isLoadingDebug,
 }: ClickableSimpleBooksProps) => {
   const stripXMLTags = (text: string) => {
     return text.replace(/<[^>]*>/g, '');
