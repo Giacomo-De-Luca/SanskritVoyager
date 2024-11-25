@@ -68,7 +68,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
         <Group>
           
 
-          <Burger opened={!opened} onClick={() => { toggle(); onToggleNavbar(); }} 
+          <Burger opened={opened} onClick={() => { toggle(); onToggleNavbar(); }} 
           size={isMobile ? "sm" : "md" } />
           <ActionToggle />
           <Image 
