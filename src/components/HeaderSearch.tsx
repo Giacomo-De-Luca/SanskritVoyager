@@ -66,6 +66,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
     <header className={classes.header}>
       <div className={classes.inner}>
         <Group>
+          
 
           <Burger opened={opened} onClick={() => { toggle(); onToggleNavbar(); }} 
           size={isMobile ? "sm" : "md" } />
@@ -96,6 +97,8 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
             data={entries}
             onChange={setValue}
             autoCapitalize="off"
+            autoCorrect="off"
+            spellCheck={false} 
             limit={50}
             withScrollArea={true}
             styles={{ dropdown: { maxHeight: 200, overflowY: 'auto' } }}

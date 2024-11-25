@@ -383,6 +383,8 @@ export function HomePage() {
           <Textarea 
             value={text}
             autoCapitalize="off"
+            autoCorrect="off"
+            spellCheck={false} 
             onInput={(event) => {
               const newText = event.currentTarget.value;
               setText(newText);
