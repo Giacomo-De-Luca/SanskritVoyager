@@ -1,5 +1,7 @@
 import { createTheme, rem, virtualColor } from '@mantine/core';
 
+import './Optima/Optima.css';
+
 export const theme = createTheme({
 
 
@@ -29,7 +31,7 @@ export const theme = createTheme({
     }),
   },
   
-  headings: { fontFamily: 'Futura, sans-serif' },
+  headings: { fontFamily: 'OptimaTest, serif' },
 
 
   /** Put your mantine theme override here */

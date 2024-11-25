@@ -91,7 +91,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
           </Group>
           <Autocomplete
             className={classes.search}
-            placeholder="Search any word."
+            placeholder="Search Sanskrit words."
             leftSection={<IconSearch style={{ width: rem(16), height: rem(16) }} stroke={1.5} />}
             data={entries}
             onChange={setValue}

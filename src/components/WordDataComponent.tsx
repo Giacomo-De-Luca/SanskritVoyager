@@ -34,6 +34,19 @@ interface WordDataComponentProps {
   isMobile: boolean | undefined;
 }
 
+type DictionaryLabels = {
+  [key: string]: string;
+};
+
+
+const dictionaryLabels: DictionaryLabels = {
+  mw: 'Monier-Williams Sanskrit-English Dictionary',
+  ap90: 'Apte Practical Sanskrit-English Dictionary',
+  gra: 'Grassmann Wörterbuch zum Rig Veda',
+  bhs: 'Edgerton Buddhist Hybrid Sanskrit Dictionary',
+};
+
+
 const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionaries }: WordDataComponentProps) => {
   const handleWordClick = async (word: string, index: number) => {
     console.log(`Clicked word: ${word}`);
@@ -143,24 +156,26 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
 
               {shouldShowVocabulary && (
                 <div>
-                  <Title order={4} className={classes.vocabularySection}>
+                  <p className={classes.vocabularySection}>
                     Vocabulary entries:
-                  </Title> 
+                  </p> 
                   <div>
                     {Object.entries(longEntry[6]).map(([dictionaryName, words]) => (
                       <div key={dictionaryName}>
                         {/* Render dictionary name */}
                         {processedDictionaries.length > 1 && (
-                            <Title order={3} className={classes.dictName}>
-                              {dictionaryName}
-                            </Title>
+                            <Text className={classes.dictName}>
+                                {dictionaryLabels[dictionaryName] || dictionaryName}:
+                            </Text>
                           )}
                         {Object.entries(words).map(([wordName, entries]) => (
                           <div key={wordName}>
                             {/* Render word name */}
                             <div 
                               className={classes.wordName}
-                            >{wordName}</div>
+                            >
+                              {wordName}:
+                              </div>
                             {/* Render each entry for the word */}
                             {entries.map((entry, index) => (
                               <DictionaryEntry 
@@ -184,6 +199,13 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
           const shortEntry = entry as ShortEntry;
           const shouldShowVocabulary = !hasWordAppearedBefore(shortEntry[0], index);
 
+          // Process dictionary entries, filtering out empty dictionaries
+          const processedDictionaries = Object.entries(shortEntry[2])
+            .filter(([_, words]) => 
+              Object.entries(words).some(([_, entries]) => entries.length > 0)
+            );
+          
+
           return(
             <div 
               style={{ 
@@ -199,9 +221,15 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                 <div>
                   <h4 className={classes.vocabularySection}>Vocabulary entries:</h4> 
                   {Object.entries(shortEntry[2]).map(([dictionaryName, words]) => (
-                    <div key={dictionaryName}>
-                    {/* Render dictionary name */}
-                    <h3 className= {classes.dictName}>{dictionaryName}</h3>
+                      <div key={dictionaryName}>
+                        {/* Render dictionary name */}
+                        {processedDictionaries.length > 1 && (
+                            <Text className={classes.dictName}>
+                                {dictionaryLabels[dictionaryName] || dictionaryName}:
+                            </Text>
+                          )}
+
+
                     {Object.entries(words).map(([wordName, entries]) => (
                       <div key={wordName}>
                         {/* Render word name */}

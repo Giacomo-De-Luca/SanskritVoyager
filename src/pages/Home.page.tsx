@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { ActionToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle';
-import { Select, MultiSelect, Grid, Textarea, Button, Loader } from '@mantine/core';
+import { Select, MultiSelect, Grid, Textarea, Button, Loader, Text } from '@mantine/core';
 import { FileInput } from '@mantine/core';
 import {  ComboboxItem, Container, lighten, darken } from '@mantine/core';
 import { useDisclosure, useDebouncedState, useMediaQuery } from '@mantine/hooks';
@@ -55,7 +55,8 @@ export function HomePage() {
   // dictionary selected
   const [ selectedDictionaries, setSelectedDictionaries ] = useState<string[]>([]);
   
-  const isTextEmpty = text === "" ? true : false;
+  const isTextEmpty = text === "" && Object.keys(bookText).length === 0;
+  console.log('isTextEmpty:', isTextEmpty);
 
 
   // reduce array for the clickable links to wordData
@@ -343,7 +344,7 @@ export function HomePage() {
     <div style={{ display: 'flex' }}>  
       <div // navbar component
         className={classes.navbarBox}
-        style={{ flex: isMobile? '0 0 9%' : '0 0 10%', 
+        style={{ flex: isMobile? '0 0 8%' : '0 0 10%', 
                   minWidth: isNavbarVisible? '400px': '0px' }}
         >
       {isNavbarVisible && (
@@ -466,9 +467,8 @@ export function HomePage() {
             transition: 'padding-left 0.3s ease',
             overflowY: 'auto',
             overflowX: 'hidden',
-            borderBottom: isMobile? '1px solid lightgray' : 'none',
+            borderBottom: isMobile && !isTextEmpty ? '1px solid lightgray' : 'none',
             minHeight: isMobile ? (isTextEmpty ? '0vh' : '50vh') : '0vh',              
-
             
           }}
         >
@@ -574,7 +574,7 @@ export function HomePage() {
         
 
       </div>
-      <div style={{ flex: '0 0 7%', }}> 
+      <div style={{ flex: isMobile ? '0 0 6%' : '0 0 7%' }}> 
         </div>
     </div>
     </>

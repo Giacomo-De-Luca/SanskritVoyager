@@ -12,8 +12,7 @@ const DictionarySelectComponent = ({
 }: DictionarySelectProps) => {
   const handleChange = (values: string[]) => {
     setSelectedDictionaries(values); // Directly update the parent state
-    console.log(values)
-
+    console.log(values);
   };
 
   return (
@@ -25,7 +24,7 @@ const DictionarySelectComponent = ({
         {
           group: 'Sanskrit-English',
           items: [
-            { value: 'mw', label: '	Monier-Williams Sanskrit-English Dictionary' },
+            { value: 'mw', label: 'Monier-Williams Sanskrit-English Dictionary' },
             { value: 'ap90', label: 'Apte Practical Sanskrit-English Dictionary' }
           ]
         },
@@ -33,24 +32,26 @@ const DictionarySelectComponent = ({
           group: 'Sanskrit-German',
           items: [
             { value: 'gra', label: 'Grassmann Wörterbuch zum Rig Veda' },
-
           ]
         },
         {
           group: 'Specialized Dictionaries',
           items: [
             { value: 'bhs', label: 'Edgerton Buddhist Hybrid Sanskrit Dictionary' },
-
           ]
         },
-        
       ]}
       value={selectedDictionaries} // Bind the parent state
       onChange={handleChange} // Update state on change
-      style={{ width: '100%', 
-                paddingTop: '20px', 
-                paddingBottom: '0px' }}
-
+      style={{ width: '100%', paddingTop: '20px', paddingBottom: '0px' }}
+      styles={{
+        input: {
+          display: 'flex',
+          alignItems: 'center', // Center the placeholder text vertically
+          height: 'auto', // Ensure the height is auto to adjust to content
+          width: '100%', // Ensure the width is 100% to fill the container
+        },
+      }}
     />
   );
 };
