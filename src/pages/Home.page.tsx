@@ -487,6 +487,7 @@ export function HomePage() {
               cursor: 'pointer',
               lineHeight: '1.6',
               paddingTop: isMobile ? '50px' : '0px',  // Added to ensure padding
+              maxHeight: isMobile ? (isTextEmpty ? '0vh' : '50vh') : '100vh', // Added to prevent vertical overflow
 
             }}
             
@@ -504,7 +505,7 @@ export function HomePage() {
               selectedDictionaries={selectedDictionaries}
               hoveredWord = {hoveredWord}
               setHoveredWord = {setHoveredWord}
-
+             
 
 
             />

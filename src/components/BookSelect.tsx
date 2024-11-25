@@ -34,7 +34,7 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
         // Map the array of strings into the desired format
         const formattedData = data.map((title: string) => ({
           value: title,
-          label: capitalizeWords(title.replace(/^sa/, '').replace(/^ta/, '').replace(/_/g, ' ')), // Replace initial "sa" and underscores with spaces, then convert to CamelCase
+          label: capitalizeWords(title.replace(/^sa/, '').replace(/^ta/, '').replace(/_/g, ' ').replace(/-/g, ' ')), // Replace initial "sa" and underscores with spaces, then convert to CamelCase
 
         }));
         console.log('Formatted data:', formattedData); // Debugging statement
