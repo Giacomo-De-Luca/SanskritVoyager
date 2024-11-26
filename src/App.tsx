@@ -9,7 +9,7 @@ import { theme } from './theme';
 export default function App() {
   return (
     <MantineProvider theme={theme} 
-    //defaultColorScheme="dark"
+    defaultColorScheme="light"
     >
       <Router />
     </MantineProvider>
