@@ -470,7 +470,7 @@ export function HomePage() {
             overflowY: 'auto',
             overflowX: 'hidden',
             borderBottom: isMobile && !isTextEmpty ? '1px solid lightgray' : 'none',
-            minHeight: isMobile ? (isTextEmpty ? '0vh' : '50vh') : '0vh',              
+            minHeight: isMobile ? (isTextEmpty ? '0vh' : '45vh') : '0vh',              
             
           }}
         >
@@ -488,8 +488,6 @@ export function HomePage() {
               lineHeight: '1.6',
               paddingTop: isMobile ? '50px' : '0px',  // Added to ensure padding
               maxHeight: isMobile ? (isTextEmpty ? '0vh' : '50vh') : '100vh', // Added to prevent vertical overflow
-              minHeight: isMobile ? (isTextEmpty ? '0vh' : '50vh') : '0vh',              
-
 
             }}
             
@@ -557,7 +555,6 @@ export function HomePage() {
               paddingRight: isMobile ? '0' : (isNavbarVisible ? '80px' : '40px'),
               transition: 'padding-left 0.3s ease',
               overflowY: 'auto',
-              minHeight: '50vh', // Added to prevent vertical overflow
 
             }}
           >
