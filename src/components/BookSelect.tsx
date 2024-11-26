@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Select } from '@mantine/core'; // Ensure you import Select from your UI library
+import { Select, ComboboxItem, OptionsFilter } from '@mantine/core'; // Ensure you import Select from your UI library
 
 interface BookSelectProps {
     setBookTitle: (value: string | null) => void;
@@ -12,12 +12,23 @@ function capitalizeWords(string: string) {
   ).join(' ')
 }
 
+const removeDiacritics = (str: string | null) => {
+  if (str === null) {
+    return '';
+  }
+  return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+};
 
+const optionsFilter: OptionsFilter = ({ options, search }) => {
+  const normalizedSearch = removeDiacritics(search.toLowerCase().trim());
+  return (options as ComboboxItem[]).filter((option) => {
+    const normalizedValue = removeDiacritics(option.value.toLowerCase().trim());
+    return normalizedValue.includes(normalizedSearch);
+  });
+};
 
 function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
-  const [bookTitlesList, setBookTitlesList] = useState<{ value: string; label: string }[]>([]);
-
-  console.log("bookTitle", bookTitle)
+  const [bookTitlesList, setBookTitlesList] = useState<{ value: string; label: string; original: string }[]>([]);
 
   useEffect(() => {
     // Fetch titles from titles.json
@@ -33,9 +44,9 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
         console.log('Fetched data:', data); // Debugging statement
         // Map the array of strings into the desired format
         const formattedData = data.map((title: string) => ({
-          value: title,
+          value: removeDiacritics(title.replace(/_/g, ' ').replace(/-/g, ' ')),
           label: capitalizeWords(title.replace(/^sa/, '').replace(/^ta/, '').replace(/_/g, ' ').replace(/-/g, ' ')), // Replace initial "sa" and underscores with spaces, then convert to CamelCase
-
+          original: title
         }));
         console.log('Formatted data:', formattedData); // Debugging statement
         setBookTitlesList(formattedData);
@@ -46,19 +57,22 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
   }, []);
 
   const selectBook = (value: string | null) => {
-    setBookTitle(value); // Directly update the parent state
-    console.log('Selected book title:', value); // Debugging statement
+    const selectedBook = bookTitlesList.find(book => book.value === value);
+    const originalValue = selectedBook ? selectedBook.original : null;
+    setBookTitle(originalValue); // Directly update the parent state with the original value
+    console.log('Selected book title:', originalValue); // Debugging statement
   };
 
   return (
     <Select
-      data={bookTitlesList}
+      data={bookTitlesList.map(({ value, label }) => ({ value, label }))}
       value={bookTitle}
       label="Select a book to import"
       placeholder="Pick a book to import"
       searchable
       nothingFoundMessage="Nothing found..."
       onChange={selectBook}
+      filter={optionsFilter}
       style={{ width: '100%', paddingTop: 5, paddingBottom: 16 }}
     />
   );
