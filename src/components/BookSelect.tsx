@@ -29,6 +29,7 @@ const optionsFilter: OptionsFilter = ({ options, search }) => {
 
 function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
   const [bookTitlesList, setBookTitlesList] = useState<{ value: string; label: string; original: string }[]>([]);
+  const [selectedValue, setSelectedValue] = useState<string | null>(null);
 
   useEffect(() => {
     // Fetch titles from titles.json
@@ -60,13 +61,14 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
     const selectedBook = bookTitlesList.find(book => book.value === value);
     const originalValue = selectedBook ? selectedBook.original : null;
     setBookTitle(originalValue); // Directly update the parent state with the original value
+    setSelectedValue(value); // Update the local state with the transformed value
     console.log('Selected book title:', originalValue); // Debugging statement
   };
 
   return (
     <Select
       data={bookTitlesList.map(({ value, label }) => ({ value, label }))}
-      value={bookTitle}
+      value={selectedValue}
       label="Select a book to import"
       placeholder="Pick a book to import"
       searchable
@@ -74,6 +76,8 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
       onChange={selectBook}
       filter={optionsFilter}
       style={{ width: '100%', paddingTop: 5, paddingBottom: 16 }}
+      autoCorrect="off"
+      spellCheck={false} 
     />
   );
 }
