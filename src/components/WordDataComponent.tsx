@@ -170,13 +170,13 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                           )}
                         {Object.entries(words).map(([wordName, entries]) => (
                           <div key={wordName}>
-                            {/* Render word name */}
+                            {/* Render word name 
                             <div 
                               className={classes.wordName}
                             >
                               {wordName}:
                               </div>
-                            {/* Render each entry for the word */}
+                             Render each entry for the word */}
                             {entries.map((entry, index) => (
                               <DictionaryEntry 
                                 key={`${dictionaryName}-${wordName}-${index}`}
@@ -232,11 +232,11 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
 
                     {Object.entries(words).map(([wordName, entries]) => (
                       <div key={wordName}>
-                        {/* Render word name */}
+                        {/* Render word name 
                         <div 
                           className={classes.wordName}
                         >{wordName}</div>
-                          {/* Render each entry for the word */}
+                           Render each entry for the word */}
                           {entries.map((entry, index) => (
                             <DictionaryEntry 
                               key={`${dictionaryName}-${wordName}-${index}`}
