@@ -69,7 +69,7 @@ export function HomePage() {
   
 
   const isMobile = useMediaQuery('(max-width: 768px)');
-  const isTablet = useMediaQuery('(max-width: 1040px)');
+  const isTablet = useMediaQuery('(max-width: 1340px)');
 
   console.log('isMobile:', isMobile);
   console.log('isTablet:', isTablet);
