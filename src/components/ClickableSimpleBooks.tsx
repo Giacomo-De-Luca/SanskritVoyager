@@ -75,6 +75,7 @@ const ClickableSimpleBooks = ({
   const stripXMLTags = (text: string) => {
     return text.replace(/<[^>]*>/g, '')
     .replace(/[A-Za-z]+_(\d+\.\d+) /g, ' $1 ')
+    .replace(/[A-Za-z]+_(\d+)/g, ' $1 ')
     .replace(/\//g, '|');
   };
 
