@@ -1,6 +1,8 @@
 import { createTheme, rem, virtualColor } from '@mantine/core';
 
 import './Optima/Optima.css';
+import './LinuxBiolinum/LinuxBiolinum.css';
+import './LibertinusSans/LibertinusSans.css';
 
 export const theme = createTheme({
 
@@ -31,7 +33,7 @@ export const theme = createTheme({
     }),
   },
   
-  headings: { fontFamily: 'OptimaTest, serif' },
+  headings: { fontFamily: 'LibertinusSans, sans serif' },
 
 
   /** Put your mantine theme override here */

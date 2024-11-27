@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'LinuxBiolinum';
+    src: url('./LinBiolinum_R.otf') format('opentype');
+    font-weight: 400; /* Medium */
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'LinuxBiolinum';
+    src: url('./LinBiolinum_RI.otf') format('opentype');
+    font-weight: 400; /* Medium Italic */
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: 'LinuxBiolinum';
+    src: url('./LinBiolinum_RB.otf') format('opentype');
+    font-weight: 600; /* Regular (Roman) */
+    font-style: normal;
+  }

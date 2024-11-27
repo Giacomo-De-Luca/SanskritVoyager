@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'LibertinusSans';
+    src: url('./LibertinusSans-Regular.woff2') format('woff2');
+    font-weight: 400; /* Regular */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LibertinusSans';
+    src: url('./LibertinusSans-Italic.woff2') format('woff2');
+    font-weight: 400; /* Regular Italic */
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'LibertinusSans';
+    src: url('./LibertinusSans-Bold.woff2') format('woff2');
+    font-weight: 600; /* Bold */
+    font-style: normal;
+}
