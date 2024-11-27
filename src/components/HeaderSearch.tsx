@@ -10,6 +10,24 @@ import faviconlight from '../faviconlight.svg';
 import favicondark from '../favicondark.svg';
 
 
+
+
+const removeDiacritics = (str: string | null) => {
+  if (str === null) {
+    return '';
+  }
+  return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+};
+
+const optionsFilter: OptionsFilter = ({ options, search }) => {
+  const normalizedSearch = removeDiacritics(search.toLowerCase().trim());
+  return (options as ComboboxItem[]).filter((option) => {
+    const normalizedValue = removeDiacritics(option.value.toLowerCase().trim());
+    return normalizedValue.includes(normalizedSearch);
+  });
+};
+
+
 const links = [
   { link: '/documentation', label: 'Documentation' },
   { link: '/about', label: 'About' },
@@ -21,6 +39,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
   const [filteredData, setFilteredData] = useState<string[]>([]);
   const [value, setValue] = useDebouncedState('', 600);
   const { colorScheme } = useMantineColorScheme();
+  const [decomposedWordList, setDecomposedWordList] = useState<{ value: string, label: string }[]>([]);
 
   
 
@@ -32,9 +51,15 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
       .then((response) => response.json())
       .then((data) => {
         setEntries(data);
+        const no_diacritics = data.map((entry: string) => ({
+          value: removeDiacritics(entry),
+          label: entry,
+        }));
+        setDecomposedWordList(no_diacritics);
+        
         console.log('First 10 entries:', data.slice(0, 10));
-      })    
-  .catch((error) => console.error('Error fetching JSON data:', error));
+      })
+      .catch((error) => console.error('Error fetching JSON data:', error));
   }, []);
 
   
@@ -61,6 +86,19 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
     }
   };
 
+  const selectEntries = (value: string ) => {
+    let selectedEntries = decomposedWordList.filter(entry => entry.value === value);
+
+      // If no entries are found and value contains "sh", replace "sh" with "s" and filter again
+    if (selectedEntries.length === 0 && value.includes('sh')) {
+      const modifiedValue = value.replace(/sh/g, 's');
+      selectedEntries = decomposedWordList.filter(entry => entry.value === modifiedValue);
+    }
+
+    const originalValue = selectedEntries.length > 0 ? selectedEntries.map(entry => entry.label).join(' ') : value;
+    setValue(originalValue); // Directly update the parent state with the concatenated original values
+    console.log('Selected nondecomposedquery:', originalValue); // Debugging statement
+  };
 
   return (
     <header className={classes.header}>
@@ -95,7 +133,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
             placeholder="Search Sanskrit words."
             leftSection={<IconSearch style={{ width: rem(16), height: rem(16) }} stroke={1.5} />}
             data={entries}
-            onChange={setValue}
+            onChange={selectEntries}
             autoCapitalize="off"
             autoCorrect="off"
             spellCheck={false} 
