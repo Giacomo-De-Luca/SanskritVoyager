@@ -105,7 +105,7 @@
 .vocabularySection {
     padding-top: 0.3rem;
     font-family: 'LibertinusSans', sans-serif;
-    font-size: 18;
+    font-size: 1.2rem;
     font-weight: 500;
     color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-3));
 
