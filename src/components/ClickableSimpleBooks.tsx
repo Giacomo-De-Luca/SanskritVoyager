@@ -73,7 +73,9 @@ const ClickableSimpleBooks = ({
   setHoveredWord,
 }: ClickableSimpleBooksProps) => {
   const stripXMLTags = (text: string) => {
-    return text.replace(/<[^>]*>/g, '');
+    return text.replace(/<[^>]*>/g, '')
+    .replace(/[A-Za-z]+_(\d+\.\d+) /g, ' $1 ')
+    .replace(/\//g, '|');
   };
 
   const [isLoadingDebug, setIsLoadingDebug] = useState(false);
@@ -118,7 +120,8 @@ const ClickableSimpleBooks = ({
 
     const section = sections[sectionIndex];
     const sutraLines =
-      typeof section === 'string' ? stripXMLTags(section).split('\n') : [];
+      typeof section === 'string' 
+        ? stripXMLTags(section).split('\n') : [];
 
     for (let lineIndex = 0; lineIndex < sutraLines.length; lineIndex++) {
       if (linesRendered >= visibleLines) {
