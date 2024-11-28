@@ -156,9 +156,9 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
 
               {shouldShowVocabulary && (
                 <div>
-                  <p className={classes.vocabularySection}>
+                  <div className={classes.vocabularySection}>
                     Vocabulary entries:
-                  </p> 
+                  </div> 
                   <div>
                     {Object.entries(longEntry[6]).map(([dictionaryName, words]) => (
                       <div key={dictionaryName}>

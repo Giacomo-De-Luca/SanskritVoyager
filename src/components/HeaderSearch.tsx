@@ -5,7 +5,7 @@ import classes from './HeaderSearch.module.css';
 import { ActionToggle } from './ColorSchemeToggle/ColorSchemeToggle';
 import { UiSwitch } from './UiSwitch';
 export { UiSwitch } from './UiSwitch';
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import faviconlight from '../faviconlight.svg';
 import favicondark from '../favicondark.svg';
 
@@ -78,10 +78,16 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
     onSearch(value);
   }, [value, onSearch]);
 
+  const inputRef = useRef<HTMLInputElement>(null);
+
+
   const handleKeyDown = (event: React.KeyboardEvent<HTMLInputElement>) => {
     if (event.key === 'Enter' && isNavbarVisible && isMobile || event.keyCode === 13 && isNavbarVisible && isMobile) {
       setTimeout(() => {
         onToggleNavbar();
+        if (inputRef.current) {
+          inputRef.current.blur(); // Blur the input field
+        }
       }, 400); // Adjust the delay time (in milliseconds) as needed
     }
   };

@@ -13,7 +13,9 @@ import {
   Button,
   Loader,
   Text,
+  
 } from '@mantine/core';
+import { useScrollIntoView } from '@mantine/hooks';
 import classes from './ClickableSimpleBooks.module.css';
 
 interface BookText {
@@ -114,6 +116,21 @@ const ClickableSimpleBooks = ({
 
   const sections = Object.values(bookText);
 
+  const groupEntries = (data: typeof wordData) => {
+    const groupedEntries: GroupedEntries = {};
+    for (const entry of data) {
+      const key = entry[4] || 'default';
+      if (!groupedEntries[key]) {
+        groupedEntries[key] = [];
+      }
+      groupedEntries[key].push(entry);
+    }
+    return groupedEntries;
+  };
+
+  
+
+
   for (let sectionIndex = 0; sectionIndex < sections.length; sectionIndex++) {
     if (linesRendered >= visibleLines) {
       break;
@@ -180,18 +197,7 @@ const ClickableSimpleBooks = ({
               ) : (
                 wordData.length > 0 &&
                 (() => {
-                  const groupedEntries = wordData.reduce<GroupedEntries>(
-                    (acc, entry) => {
-                      const key = entry[4] || 'default';
-                      if (!acc[key]) {
-                        acc[key] = [];
-                      }
-                      acc[key].push(entry);
-                      return acc;
-                    },
-                    {}
-                  );
-
+                  const groupedEntries = groupEntries(wordData);
                   return Object.entries(groupedEntries).map(
                     ([originalWord, entries], groupIndex) => {
                       const uniqueWords = Array.from(
@@ -199,7 +205,10 @@ const ClickableSimpleBooks = ({
                       );
 
                       return (
-                        <span key={groupIndex} style={{ marginRight: '8px' }}>
+                        <span 
+                          key={groupIndex} 
+                          style={{ marginRight: '8px' }}
+                        >
                           {uniqueWords.map((word, wordIndex) => (
                             <React.Fragment key={wordIndex}>
                               <span

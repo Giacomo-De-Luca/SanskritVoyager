@@ -13,12 +13,10 @@ import { IconClipboardCheck, IconCopy, IconClipboard} from '@tabler/icons-react'
 import classes from './HomePage.module.css';
 import { UiSwitch } from '@/components/HeaderSearch';
 import DictionarySelectComponent from '@/components/DictionarySelect';
-import Orientation from 'react-native-orientation-locker';
 import BookSelect from '@/components/BookSelect';
 import  ClickableSimpleBooks  from '@/components/ClickableSimpleBooks';
 
 
-Orientation.lockToLandscape();
 
 interface Translation {
   English: string;
@@ -461,7 +459,7 @@ export function HomePage() {
           span={isMobile ? 12 : 6}
           className={`${classes.noScroll} ${classes.textDisplay}`}
           style={{
-            marginTop: isMobile ? '20px' : '120px',
+            marginTop: isMobile ? '20px' : '100px',
             maxHeight: isMobile ? '50vh' : '100vh',
             width: isMobile ? '100%' : '50%',  // Changed to percentage
             paddingLeft: isTablet ? '0' : (isNavbarVisible ? '100px' : '0px'),
@@ -566,8 +564,8 @@ export function HomePage() {
             className={`${classes.noScroll} ${classes.wordInfoFull}`}
             style={{
               width: '100%',  // Added explicit width
-              paddingLeft: isMobile ? '16px' : (isNavbarVisible ? '300px' : '0px'),
-              paddingRight: isMobile ? '16px' : (isNavbarVisible ? '350px' : '120px'),
+              paddingLeft: isMobile ? '16px' : (isNavbarVisible ? '17vw' : '22vw'),
+              paddingRight: isMobile ? '16px' : (isNavbarVisible ? '15vw' : '20vw'),
             }}
           >
             <WordDataComponent wordData={wordData} setWordData={setWordData} selectedDictionaries={selectedDictionaries} isMobile={isMobile} />
@@ -577,7 +575,7 @@ export function HomePage() {
         
 
       </div>
-      <div style={{ flex: isMobile ? '0 0 6%' : '0 0 7%' }}> 
+      <div style={{ flex: isMobile ? '0 0 6%' : '0 0 8%' }}> 
         </div>
     </div>
     </>
