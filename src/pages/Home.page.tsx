@@ -101,6 +101,10 @@ export function HomePage() {
 
   const shouldUseColumn = isMobile || (isTablet && isNavbarVisible);
 
+
+  // here starts what should be a separate component
+  // make a separate component for the clickable words in the text
+
   // split the text into words
   const words = textTranslit ? textTranslit.split(/\s+|\\+/) : [];
 
@@ -175,6 +179,7 @@ export function HomePage() {
       setClickedAdditionalWord(null); // Reset after attempting to scroll
     }
   }, [clickedAdditionalWord]);
+
 
   const clickable_words = lines.map((line, lineIndex) => {
     const words = line.split(/\s+|\+/);
@@ -269,6 +274,7 @@ export function HomePage() {
     </div>
   );
 });
+
 
   // If there is only one word, set it as the selected word
   useEffect(() => {
@@ -455,6 +461,7 @@ export function HomePage() {
      
         }}
       >
+        {text !== '' || bookTitle !== null ? (
         <Grid.Col 
           span={isMobile ? 12 : 6}
           className={`${classes.noScroll} ${classes.textDisplay}`}
@@ -540,7 +547,8 @@ export function HomePage() {
             ))}
           </div>
           </Grid.Col>
-
+        ) : ("")
+        }
         {text !== '' || bookTitle !== null ? (
           <Grid.Col 
             span={isMobile ? 12 : 6}
@@ -566,6 +574,7 @@ export function HomePage() {
               width: '100%',  // Added explicit width
               paddingLeft: isMobile ? '16px' : (isNavbarVisible ? '17vw' : '22vw'),
               paddingRight: isMobile ? '16px' : (isNavbarVisible ? '15vw' : '20vw'),
+              marginTop: '60px',
             }}
           >
             <WordDataComponent wordData={wordData} setWordData={setWordData} selectedDictionaries={selectedDictionaries} isMobile={isMobile} />
