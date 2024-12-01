@@ -96,15 +96,15 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
     };
 
     for (let i = 0; i < content.length; i++) {
-      if (content[i] === '(') {
+      if (content[i] === '(' || content[i] === '{') {
         if (buffer) {
           result.push(createStyledSpan(buffer));
           buffer = '';
         }
         inParentheses = true;
-        buffer = '(';
-      } else if (content[i] === ')') {
-        buffer += ')';
+        buffer = content[i]; // Start buffer with the current opening bracket
+      } else if (content[i] === ')' || content[i] === '}') {
+        buffer += content[i]; // Add the current closing bracket to the buffer
         result.push(createStyledSpan(buffer));
         buffer = '';
         inParentheses = false;

@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { ActionToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle';
-import { Select, MultiSelect, Grid, Textarea, Button, Loader, Text } from '@mantine/core';
+import { Select, MultiSelect, Grid, Textarea, Button, Loader, Text, Stack } from '@mantine/core';
 import { FileInput } from '@mantine/core';
 import {  ComboboxItem, Container, lighten, darken } from '@mantine/core';
 import { useDisclosure, useDebouncedState, useMediaQuery } from '@mantine/hooks';
@@ -353,11 +353,16 @@ export function HomePage() {
         >
       {isNavbarVisible && (
         <NavbarSimple>
+
+        <Stack  
+          gap="3px"
+          justify="flex-start"
+          >
           <Select
             data={['IAST', 'DEVANAGARI', 'ITRANS', 'HK', 'SLP1', 'WX', 'Kolkata'].map((item) => ({ value: item, label: item }))}
             value={value ? value.value : 'IAST'}
-            label="Select Translitteration Scheme"
-            placeholder="Pick Translitteration Scheme, default is IAST"
+            label="Select Transliteration Scheme"
+            placeholder="Pick Transliteration Scheme, default is IAST"
             onChange={(_value, option) => 
               {
                 const tempscheme = value ? value.value : 'IAST';
@@ -366,7 +371,7 @@ export function HomePage() {
 
                 handleTransliteration(text, _value ?? undefined);
               }}
-            style={{ width: '100%', paddingTop: 50, paddingBottom: 16, }}
+            style={{ width: '100%', paddingTop: 80, }}
           />
           
         <DictionarySelectComponent 
@@ -375,13 +380,11 @@ export function HomePage() {
           
          />
 
-
-
          <BookSelect
           setBookTitle={setBookTitle}
           bookTitle={bookTitle}
          />
-
+        </Stack>
 
 
           <Textarea 
@@ -407,11 +410,11 @@ export function HomePage() {
             }}
             label="Write Text Here"
             description="Copy and paste text here to transliterate it."
-            placeholder={"Write text here to transliterate it." + '\n' + "A single word is automatically searched."}
-            style={{ width: '100%', paddingBottom: 16, }}
+            placeholder={"Write text here to transliterate it." + '\n' + "A single word is automatically searched." + '\n' + "Click on a word to analyse it."}
+            style={{ width: '100%', paddingBottom: 16, paddingTop: '0px' }}
             autosize
-            minRows={4}
-            maxRows={6}
+            minRows={6}
+            maxRows={8}
           />
 
           <Button 

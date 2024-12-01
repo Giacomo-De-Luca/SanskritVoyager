@@ -43,7 +43,7 @@ const DictionarySelectComponent = ({
       ]}
       value={selectedDictionaries} // Bind the parent state
       onChange={handleChange} // Update state on change
-      style={{ width: '100%', paddingTop: '20px', paddingBottom: '0px' }}
+      style={{ width: '100%', paddingTop: '0px', paddingBottom: '0px' }}
       styles={{
         input: {
           display: 'flex',
