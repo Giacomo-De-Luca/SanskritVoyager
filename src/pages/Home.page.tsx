@@ -65,7 +65,7 @@ export function HomePage() {
   // Add loading state
   const [isLoadingWordData, setIsLoadingWordData] = useState(false);
   
-
+  const isSmallMobile = useMediaQuery('(max-height: 724px)');
   const isMobile = useMediaQuery('(max-width: 768px)');
   const isTablet = useMediaQuery('(max-width: 1340px)');
 
@@ -356,7 +356,7 @@ export function HomePage() {
 
         <Stack  
           gap="3px"
-          justify="flex-start"
+          justify="flex-end"
           >
           <Select
             data={['IAST', 'DEVANAGARI', 'ITRANS', 'HK', 'SLP1', 'WX', 'Kolkata'].map((item) => ({ value: item, label: item }))}
@@ -371,7 +371,8 @@ export function HomePage() {
 
                 handleTransliteration(text, _value ?? undefined);
               }}
-            style={{ width: '100%', paddingTop: 80, }}
+            style={{ width: '100%', 
+                     paddingTop: isSmallMobile? '30px': '60px', }}
           />
           
         <DictionarySelectComponent 
@@ -410,7 +411,7 @@ export function HomePage() {
             }}
             label="Write Text Here"
             description="Copy and paste text here to transliterate it."
-            placeholder={"Write text here to transliterate it." + '\n' + "A single word is automatically searched." + '\n' + "Click on a word to analyse it."}
+            placeholder={"Write text here to transliterate it." + '\n' + "A single word is automatically searched." + '\n' + "Analyse words on click."}
             style={{ width: '100%', paddingBottom: 16, paddingTop: '0px' }}
             autosize
             minRows={6}
