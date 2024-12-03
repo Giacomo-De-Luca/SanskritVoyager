@@ -1,4 +1,3501 @@
 {
-  "title": "sa_māṇḍūkyopaniṣatkārikā",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n    <div>\n<lg>\n<l>bahiḥprajño vibhuḥ viśvo hy antaḥprajñas tu taijasaḥ /</l>\n<l>ghanaprajñaḥ tathā prājña eka eva tridhā smṛtaḥ // MandUpK_1.1 //</l>\n</lg>\n\n<lg>\n<l>dakṣiṇākṣimukhe viśvo manasy antas tu taijasaḥ /</l>\n<l>ākāśe ca hṛdi prājñas tridhā dehe vyavasthitaḥ // MandUpK_1.2 //</l>\n</lg>\n\n<lg>\n<l>viśvaḥ hi sthūlabhuṅ nityaṃ taijasaḥ praviviktabhuk /</l>\n<l>ānandabhuk tathā prājñastridhā bhogaṃ nibodhata // MandUpK_1.3 //</l>\n</lg>\n\n<lg>\n<l>sthūlaṃ tarpayate viśvaṃ praviviktaṃ tu taijasam /</l>\n<l>ānandaś ca tathā prājñaṃ tridhā tṛptiṃ nibodhata // MandUpK_1.4 //</l>\n</lg>\n\n<lg>\n<l>triṣu dhāmasu yadbhojyaṃ bhoktā yaś ca prakīrtitaḥ /</l>\n<l>vadaitadubhayaṃ yas tu sa bhuñjāno na lipyate // MandUpK_1.5 //</l>\n</lg>\n\n<lg>\n<l>prabhavaḥ sarvabhāvānāṃ satām iti viniścayaḥ /</l>\n<l>sarvaṃ janayati prāṇaś ceto 'ṃśūn puruṣaḥ pṛthak // MandUpK_1.6 //</l>\n</lg>\n\n<lg>\n<l>vibhūtiṃ prasavaṃ tv anye manyante sṛṣṭicintakāḥ /</l>\n<l>svapnamāyāsarūpeti sṛṣṭir anyaiḥ vikalpitā // MandUpK_1.7 //</l>\n</lg>\n\n<lg>\n<l>icchāmātraṃ prabhoḥ sṛṣṭir iti sṛṣṭau viniścitāḥ /</l>\n<l>kālāt prasūtiṃ bhūtānāṃ manyante kālacintakāḥ // MandUpK_1.8 //</l>\n</lg>\n\n<lg>\n<l>bhogārthaṃ sṛṣṭir iti anye krīḍārtham iti cāpare /</l>\n<l>devasyaiṣa svabhāvo 'yam āptakāmasya kā spṛhā // MandUpK_1.9 //</l>\n</lg>\n\n<lg>\n<l>nivṛtteḥ sarvaduḥkhānām īśānaḥ prabhur avyayaḥ /</l>\n<l>advaitaḥ sarvabhāvānāṃ devās turyo vibhuḥ smṛtaḥ // MandUpK_1.10 //</l>\n</lg>\n\n<lg>\n<l>kāryakāraṇabaddhau tāv iṣyete viśvataijasau /</l>\n<l>prājñaḥ kāraṇabaddhas tu dvau tau turye na sidhyataḥ // MandUpK_1.11 //</l>\n</lg>\n\n<lg>\n<l>nātmānaṃ na parāś caiva na satyaṃ na api cānṛtam /</l>\n<l>prājñaḥ kiñcana saṃvetti turyaṃ tat sarvadṛk sadā // MandUpK_1.12 //</l>\n</lg>\n\n<lg>\n<l>dvaitasyāgrahaṇaṃ tulyam ubhayoḥ prājñaturyayoḥ /</l>\n<l>bījanidrāyutaḥ prājñaḥ sā ca turye na vidyate // MandUpK_1.13 //</l>\n</lg>\n\n<lg>\n<l>svapnanidrāyutāv ādyau prājñas tv asvapnanidrayā /</l>\n<l>na nidrāṃ naiva ca svapnaṃ turye paśyanti niścitaḥ // MandUpK_1.14 //</l>\n</lg>\n\n<lg>\n<l>anyathā gṛhṇataḥ svapno nidrā tattvam ajānataḥ /</l>\n<l>viparyāse tayoḥ kṣīṇe turīyaṃ padam aśnute // MandUpK_1.15 //</l>\n</lg>\n\n<lg>\n<l>anādimāyayā supto yadā jīvaḥ prabudhyate /</l>\n<l>ajam anidram asvapnam advaitaṃ budhyate tadā // MandUpK_1.16 //</l>\n</lg>\n\n<lg>\n<l>prapañco yadi vidyeta nivarteta na saṃśayaḥ /</l>\n<l>māyāmātram idaṃ dvaitam advaitaṃ paramārthataḥ // MandUpK_1.17 //</l>\n</lg>\n\n<lg>\n<l>vikalpo vinivarteta kalpito yadi kenacit /</l>\n<l>upadeśād ayaṃ vādo jñāte dvaitaṃ na vidyate // MandUpK_1.18 //</l>\n</lg>\n\n<lg>\n<l>viśvasyātvavivakṣāyām ādisāmānyam utkṛṣṭam /</l>\n<l>mātrāsaṃpratipattau syād āptisāmānyam eva ca // MandUpK_1.19 //</l>\n</lg>\n\n<lg>\n<l>taijasasyotvavijñāna utkarṣo dṛśyate sphuṭam /</l>\n<l>mātrāsaṃpratipattau syād ubhayatvaṃ tathā vidham // MandUpK_1.20 //</l>\n</lg>\n\n<lg>\n<l>makārabhāve prājñasya mānasām anyam utkaṭam /</l>\n<l>mātrāsaṃpratipattau tu layasāmānyam eva ca // MandUpK_1.21 //</l>\n</lg>\n\n<lg>\n<l>triṣu dhāmasu yat tulyaṃ sāmānyaṃ vetti niścitaḥ /</l>\n<l>sa pūjyaḥ sarvabhūtānāṃ vandyaś caiva mahāmuniḥ // MandUpK_1.22 //</l>\n</lg>\n\n<lg>\n<l>akāro nayate viśvam ukāraś cāpi taijasam /</l>\n<l>makāraś ca punaḥ prājñaṃ nāmātre vidyate gatiḥ // MandUpK_1.23 //</l>\n</lg>\n\n<lg>\n<l>oṃkāraṃ pādaśo vidyāt pādā mātrā na saṃśayaḥ /</l>\n<l>oṃkāraṃ pādaśo jñātvā na kiñcid api cintayet // MandUpK_1.24 //</l>\n</lg>\n\n<lg>\n<l>yuñjīta praṇave cetaḥ praṇavo brahma nirbhayam /</l>\n<l>praṇave nityayuktasya na bhayaṃ vidyate kvacit // MandUpK_1.25 //</l>\n</lg>\n\n<lg>\n<l>praṇavo hy aparaṃ brahma praṇavaś ca paraḥ smṛtaḥ /</l>\n<l>apūrvo 'nantaro 'bāhyo 'naparaḥ praṇavo 'vyayaḥ // MandUpK_1.26 //</l>\n</lg>\n\n<lg>\n<l>sarvasya praṇavo hy ādir madhyam antas tathaiva ca /</l>\n<l>evaṃ hi praṇavaṃ jñātvā vyaśnute tad anantaram // MandUpK_1.27 //</l>\n</lg>\n\n<lg>\n<l>praṇavaṃ hīśvaraṃ vidyāt sarvasya hṛdi saṃsthitam /</l>\n<l>sarvavyāpinam oṃkāraṃ matvā dhīro na śocati // MandUpK_1.28 //</l>\n</lg>\n\n<lg>\n<l>amātro 'nantamātraś ca dvaitasyopaśamaḥ śivaḥ /</l>\n<l>oṃkāro vidito yena sa munir netāro janaḥ // MandUpK_1.29 //</l>\n</lg>\n\n</div>\n<div>\n\n<lg>\n<l>vaitathyaṃ sarvabhāvānāṃ svapna āhur manīṣiṇaḥ /</l>\n<l>antaḥsthānāt tu bhāvānāṃ saṃvṛtatvena hetunā // MandUpK_2.1 //</l>\n</lg>\n\n<lg>\n<l>adīrghatvāc ca kālasya gatvā deśān na paśyati /</l>\n<l>pratibuddhaś ca vai sarvas tasmin deśe na vidyate // MandUpK_2.2 //</l>\n</lg>\n\n<lg>\n<l>abhāvaś ca rathādīnāṃ śrūyate nyāyapūrvakam /</l>\n<l>vaitathyaṃ tena vai prāptaṃ svapna āhuḥ prakāśitam // MandUpK_2.3 //</l>\n</lg>\n\n<lg>\n<l>antasthānāt tu bhedānāṃ tasmāj jāgarite smṛtam /</l>\n<l>yathā tatra tathā svapne saṃvṛtatvena bhidyate // MandUpK_2.4 //</l>\n</lg>\n\n<lg>\n<l>svapnajāgaritasthāne hy ekam āhur manīṣiṇaḥ /</l>\n<l>bhedānāṃ hi samatvena prasiddhenaiva hetunā // MandUpK_2.5 //</l>\n</lg>\n\n<lg>\n<l>ādāvante ca yan nāsti vartamāne 'pi tat tathā /</l>\n<l>vitathaiḥ sadṛśāḥ santo 'vitathā iva lakṣitāḥ // MandUpK_2.6 //</l>\n</lg>\n\n<lg>\n<l>saprayojanatā teṣāṃ svapne vipratipadyate /</l>\n<l>tasmād ādyantavatvena mithyaiva khalu te smṛtāḥ // MandUpK_2.7 //</l>\n</lg>\n\n<lg>\n<l>apūrvaṃ sthānidharmo hi yathā svarganivāsinām /</l>\n<l>tānayaṃ prekṣate gatvā yathaiveha suśikṣitaḥ // MandUpK_2.8 //</l>\n</lg>\n\n<lg>\n<l>svapnavṛttāv api tv antaś cetasā kalpitaṃ tv asat /</l>\n<l>bahiś cetogṛhītaṃ sad dṛṣṭaṃ vaitathyam etayoḥ // MandUpK_2.9 //</l>\n</lg>\n\n<lg>\n<l>jāgradvṛttāvapi tv antaś cetasā kalpitaṃ tv asat /</l>\n<l>bahiścetogṛhītaṃ sad yuktaṃ vaitathyam etayoḥ // MandUpK_2.10 //</l>\n</lg>\n\n<lg>\n<l>ubhayor api vaitathyaṃ bhedānāṃ sthānayor yadi /</l>\n<l>ka etān budhyate bhedān ko vai teṣāṃ vikalpakaḥ // MandUpK_2.11 //</l>\n</lg>\n\n<lg>\n<l>kalpayaty ātmanātmānam ātmā devaḥ svamāyayā /</l>\n<l>sa eva budhyate bhedān iti vedāntaniścayaḥ // MandUpK_2.12 //</l>\n</lg>\n\n<lg>\n<l>vikaroty aparān bhāvān antaścitte vyavasthitān /</l>\n<l>niyatāṃś ca bahiścitta evaṃ kalpayate prabhuḥ // MandUpK_2.13 //</l>\n</lg>\n\n<lg>\n<l>cittakālā hi ye 'ntas tu dvayakālāś ca ye bahiḥ /</l>\n<l>kalpitā eva te sarve viśeṣo nānyahetukaḥ // MandUpK_2.14 //</l>\n</lg>\n\n<lg>\n<l>avyaktā eva ye 'ntas tu sphuṭā eva ca ye bahiḥ /</l>\n<l>kalpitā eva te sarve viśeṣas tv indriyāntare // MandUpK_2.15 //</l>\n</lg>\n\n<lg>\n<l>jīvaṃ kalpayate pūrvaṃ vaco bhāvān pṛthagvidhān /</l>\n<l>bāhyān ādhyātmikāṃś caiva yathāvidyas tathāsmṛtiḥ // MandUpK_2.16 //</l>\n</lg>\n\n<lg>\n<l>aniścitā yathā rajjur andhakāre vikalpitā /</l>\n<l>sarpadhārādibhir bhāvais tadvad ātmā vikalpitaḥ // MandUpK_2.17 //</l>\n</lg>\n\n<lg>\n<l>niścitāyāṃ yathā rajjvāṃ vikalpo vinivartate /</l>\n<l>rajjur eveti cādvaitaṃ tadvad ātmaviniścayaḥ // MandUpK_2.18 //</l>\n</lg>\n\n<lg>\n<l>prāṇādibhir anantaiś ca bhāvair etair vikalpitaḥ /</l>\n<l>māyaiṣā tasya devasya yayā saṃmohitaḥ svayam // MandUpK_2.19 //</l>\n</lg>\n\n<lg>\n<l>prāṇa iti prāṇavido bhūtānīti ca tadvidaḥ /</l>\n<l>guṇā iti guṇavidas tattvānīti ca tadvidaḥ // MandUpK_2.20 //</l>\n</lg>\n\n<lg>\n<l>pādā iti pādavido viṣayā iti ca tadvidaḥ /</l>\n<l>lokā iti lokavido devā iti ca tadvidaḥ // MandUpK_2.21 //</l>\n</lg>\n\n<lg>\n<l>vedā iti vedavido yajñā iti ca tadvidaḥ /</l>\n<l>bhokteti ca bhoktṛvido bhojyam iti ca tadvidaḥ // MandUpK_2. 22 //</l>\n</lg>\n\n<lg>\n<l>sūkṣma iti sūkṣmavidaḥ sthūla iti ca tadvidaḥ /</l>\n<l>mūrta iti mūrtavido 'mūrta iti ca tadvidaḥ // MandUpK_2.23 //</l>\n</lg>\n\n<lg>\n<l>kāla iti kālavido diśa iti ca tadvidaḥ /</l>\n<l>vādā iti vādavido bhuvanānīti tadvidaḥ // MandUpK_2.24 //</l>\n</lg>\n\n<lg>\n<l>mana iti manovido buddhir iti ca tadvidaḥ /</l>\n<l>cittam iti cittavido dharmādharmau ca tadvidaḥ // MandUpK_2.25 //</l>\n</lg>\n\n<lg>\n<l>pañcaviṃśaka ity eke ṣaḍviśa iti cāpare /</l>\n<l>ekatriṃśaka ity āhur ananta iti cāpare // MandUpK_2.26 //</l>\n</lg>\n\n<lg>\n<l>lokāṃl lokavidaḥ prāhur āśramā iti tadvidaḥ /</l>\n<l>strīpuṃnapuṃsakaṃ laiṅgāḥ parāparam athāpare // MandUpK_2.27 //</l>\n</lg>\n\n<lg>\n<l>sṛṣṭir iti sṛṣṭivido laya iti ca tadvidaḥ /</l>\n<l>sthitir iti sthitividaḥ sarve ceha tu sarvadā // MandUpK_2.28 //</l>\n</lg>\n\n<lg>\n<l>yaṃ bhāvaṃ darśayed yasya taṃ bhāvaṃ sa tu paśyati /</l>\n<l>taṃ cāvati sa bhūtvāsau tadgrahaḥ samupaiti tam // MandUpK_2.29 //</l>\n</lg>\n\n<lg>\n<l>etair eṣo 'pṛthagbhāvaiḥ pṛthag eveti lakṣitaḥ /</l>\n<l>evaṃ yo veda tattvena kalpayet so 'viśaṅkitaḥ // MandUpK_2.30 //</l>\n</lg>\n\n<lg>\n<l>svapnamāye yathā dṛṣṭaṃ gandharvanagaraṃ yathā /</l>\n<l>tathā viśvam idaṃ dṛṣṭaṃ vedānteṣu vicakṣaṇaiḥ // MandUpK_2.31 //</l>\n</lg>\n\n<lg>\n<l>na nirodho na cotpattir na baddho na ca sādhakaḥ /</l>\n<l>na mumukṣur na vai mukta ity eṣā paramārthatā // MandUpK_2.32 //</l>\n</lg>\n\n<lg>\n<l>bhāvair asadbhir evāyam advayena ca kalpitaḥ /</l>\n<l>bhāvā apy advayenaiva tasmād advayatā śivā // MandUpK_2.33 //</l>\n</lg>\n\n<lg>\n<l>nātmabhāvena nānedaṃ na svenāpi kathañcana /</l>\n<l>na pṛthaṅ nāpṛthak kiñcid iti tattvavido viduḥ // MandUpK_2.34 //</l>\n</lg>\n\n<lg>\n<l>vītarāgabhayakrodhair munibhir vedapāragaiḥ /</l>\n<l>nirvikalpo hy ayaṃ dṛṣṭaḥ prapañcopaśamo 'dvayaḥ // MandUpK_2.35 //</l>\n</lg>\n\n<lg>\n<l>tasmād evaṃ viditvainam advaite yojayet smṛtim /</l>\n<l>advaitaṃ samanuprāpya jaḍavallokam ācaret // MandUpK_2.36 //</l>\n</lg>\n\n<lg>\n<l>niḥstutir nirnamaskāro niḥsvadhākāra eva ca /</l>\n<l>calācalaniketaś ca yatir yādṛcchiko bhavet // MandUpK_2.37 //</l>\n</lg>\n\n<lg>\n<l>tattvam ādhyātmikaṃ dṛṣṭvā tattvaṃ dṛṣṭvā tu bāhyataḥ /</l>\n<l>tattvībhūtas tadārāmas tattvād apracyuto bhavet // MandUpK_2.38 //</l>\n</lg>\n\n</div>\n<div>\n\n<lg>\n<l>upāsanāśrito dharmo jāte brahmaṇi vartate /</l>\n<l>prāgutpatter ajaṃ sarvaṃ tenāsau kṛpaṇaḥ smṛtaḥ // MandUpK_3.1 //</l>\n</lg>\n\n<lg>\n<l>ato vakṣyāmy akārpaṇyam ajāti samatāṃ gatam /</l>\n<l>yathā na jāyate kiñcij jāyamānaṃ samantataḥ // MandUpK_3.2 //</l>\n</lg>\n\n<lg>\n<l>ātmā hy ākāśavajjīvair ghaṭākāśair ivoditaḥ /</l>\n<l>ghaṭādivac ca saṃghātair jātāv etan nidarśanam // MandUpK_3.3 //</l>\n</lg>\n\n<lg>\n<l>ghaṭādiṣu pralīneṣu ghaṭākāśādayo yathā /</l>\n<l>ākāśe saṃpralīyante tadvaj jīvā ihātmani // MandUpK_3.4 //</l>\n</lg>\n\n<lg>\n<l>yathaikasmin ghāṭākāśe rajodhūmādibhir yute /</l>\n<l>na sarve saṃprayujyante tadvaj jīvāḥ sukhādibhiḥ // MandUpK_3.5 //</l>\n</lg>\n\n<lg>\n<l>rūpakāryasamākhyāś ca bhidyante tatra tatra vai /</l>\n<l>ākāśasya na bhedo 'sti tadvaj jīveṣu nirṇayaḥ // MandUpK_3.6 //</l>\n</lg>\n\n<lg>\n<l>nākāśasya ghaṭākāśo vikārāvayavau yathā /</l>\n<l>naivātmanaḥ sadā jīvo vikārāvayavau tathā // MandUpK_3.7 //</l>\n</lg>\n\n<lg>\n<l>yathā bhavati bālānāṃ gaganaṃ malinaṃ malaiḥ /</l>\n<l>tathā bhavaty abuddhānām ātmāpi malino malaiḥ // MandUpK_3.8 //</l>\n</lg>\n\n<lg>\n<l>maraṇe saṃbhave caiva gatyāgamanayor api /</l>\n<l>sthitau sarvaśarīreṣu ākāśenāvilakṣaṇaḥ // MandUpK_3.9 //</l>\n</lg>\n\n<lg>\n<l>saṃghātāḥ svapnavat sarve ātmamāyāvisarjitāḥ /</l>\n<l>ādhikye sarvasāmye vā nopapattir hi vidyate // MandUpK_3.10 //</l>\n</lg>\n\n<lg>\n<l>rasādayo hi ye kośā vyākhyātās taittirīyake /</l>\n<l>teṣām ātmā paro jīvaḥ khaṃ yathā saṃprakāśitaḥ // MandUpK_3.11 //</l>\n</lg>\n\n<lg>\n<l>dvayor dvayor madhujñāne paraṃ brahma prakāśitam /</l>\n<l>pṛthivyāmudare caiva yathākāśaḥ prakāśitaḥ // MandUpK_3.12 //</l>\n</lg>\n\n<lg>\n<l>jīvātmanor ananyatvam abhedena praśasyate /</l>\n<l>nānātvaṃ nindyate yac ca tad evaṃ hi samañjasam // MandUpK_3.13 //</l>\n</lg>\n\n<lg>\n<l>jīvātmanoḥ pṛthaktvaṃ yat prāgutpatteḥ prakīrtitam /</l>\n<l>bhaviṣyadvṛtyā gauṇaṃ tan mukhyatvaṃ hi na yujyate // MandUpK_3.14 //</l>\n</lg>\n\n<lg>\n<l>mṛllohavisphuliṅgādyaiḥ sṛṣṭir yā coditānyathā /</l>\n<l>upāyaḥ so 'vatārāya nāsti bhedaḥ kathañcana // MandUpK_3.15 //</l>\n</lg>\n\n<lg>\n<l>āśramāstrividhā hīnamadhyamotkṛṣṭadṛṣṭayaḥ /</l>\n<l>upāsanopadiṣṭeyaṃ tadartham anukampayā // MandUpK_3.16 //</l>\n</lg>\n\n<lg>\n<l>svasiddhāntavyavasthāsu dvaitino niścitā dṛḍham /</l>\n<l>parasparaṃ virudhyante tairayaṃ na virudhyate // MandUpK_3.17 //</l>\n</lg>\n\n<lg>\n<l>advaitaṃ paramārtho hi dvaitaṃ tadbheda ucyate /</l>\n<l>teṣām ubhayathā dvaitaṃ tenāyaṃ na viruddhyate // MandUpK_3.18 //</l>\n</lg>\n\n<lg>\n<l>māyayā bhidyate hy etan nānyathājaṃ kathañcana /</l>\n<l>tattvato bhidyamāne hi martyatām amṛtaṃ vrajet // MandUpK_3.19 //</l>\n</lg>\n\n<lg>\n<l>ajātasyaiva bhāvasya jātim icchanti vādinaḥ /</l>\n<l>ajāto hy amṛto bhāvo martyatāṃ katham eṣyati // MandUpK_3.20 //</l>\n</lg>\n\n<lg>\n<l>na bhavaty amṛtaṃ martyaṃ na martyam amṛtaṃ tathā /</l>\n<l>prakṛter anyathābhāvo na kathañcid bhaviṣyati // MandUpK_3.21 //</l>\n</lg>\n\n<lg>\n<l>svabhāvenāmṛto yasya bhāvo gacchati martyatām /</l>\n<l>kṛtakenāmṛtas tasya kathaṃ sthāsyati niścalaḥ // MandUpK_3.22 //</l>\n</lg>\n\n<lg>\n<l>bhūtato 'bhūtato vāpi sṛjyamāne samā śrutiḥ /</l>\n<l>niścitaṃ yuktiyuktaṃ ca yat tad bhavati netarat // MandUpK_3.23 //</l>\n</lg>\n\n<lg>\n<l>neha nāneti cāmnāyād indro māyābhir ity api /</l>\n<l>ajāyamāno bahudhā māyayā jāyate tu saḥ // MandUpK_3.24 //</l>\n</lg>\n\n<lg>\n<l>saṃbhūter apavādāc ca saṃbhavaḥ pratiṣidhyate /</l>\n<l>ko nv enaṃ janayed iti kāraṇaṃ pratiṣidhyate // MandUpK_3.25 //</l>\n</lg>\n\n<lg>\n<l>sa eṣa neti netīti vyākhyātaṃ nihnute yataḥ /</l>\n<l>sarvam agrāhyabhāvena hetunājaṃ prakāśate // MandUpK_3.26 //</l>\n</lg>\n\n<lg>\n<l>sato hi māyayā janma yujyate na tu tattvataḥ /</l>\n<l>tattvato jāyate yasya jātaṃ tasya hi jāyate // MandUpK_3.27 //</l>\n</lg>\n\n<lg>\n<l>asato māyayā janma tattvato naiva yujyate /</l>\n<l>vandhyāputro na tattvena māyayā vāpi jāyate // MandUpK_3.28 //</l>\n</lg>\n\n<lg>\n<l>yathā svapne dvayābhāsaṃ spandate māyayā manaḥ /</l>\n<l>tathā jāgraddvayābhāsaṃ spandate māyayā manaḥ // MandUpK_3.29 //</l>\n</lg>\n\n<lg>\n<l>advayaṃ ca dvayābhāsaṃ manaḥ svapne na saṃśayaḥ /</l>\n<l>advayaṃ ca dvayābhāsaṃ tathā jāgran na saṃśayaḥ // MandUpK_3.30 //</l>\n</lg>\n\n<lg>\n<l>manodṛśyam idaṃ dvaitaṃ yat kiñcit sacarācaram /</l>\n<l>manaso hy amanībhāve dvaitaṃ naivopalabhyate // MandUpK_3.31 //</l>\n</lg>\n\n<lg>\n<l>ātmasatyānubodhena na saṃkalpayate yadā /</l>\n<l>amanastāṃ tadā yāti grāhyābhāve tadagraham // MandUpK_3.32 //</l>\n</lg>\n\n<lg>\n<l>akalpamajaṃ jñānaṃ jñeyābhinnaṃ pracakṣate /</l>\n<l>brahma jñeyam ajaṃ nityam ajenājaṃ vibudhyate // MandUpK_3.33 //</l>\n</lg>\n\n<lg>\n<l>nigṛhītasya manaso nirvikalpasya dhīmataḥ /</l>\n<l>pracāraḥ sa tu vijñeyaḥ suṣupte 'nyo na tatsamaḥ // MandUpK_3.34 //</l>\n</lg>\n\n<lg>\n<l>līyate hi suṣupte tan nigṛhītaṃ na līyate /</l>\n<l>tad eva nirbhayaṃ brahma jñānalokaṃ samantataḥ // MandUpK_3.35 //</l>\n</lg>\n\n<lg>\n<l>ajam anindram asvapnam anāmakam arūpakam /</l>\n<l>sakṛdvibhātaṃ sarvajñaṃ nopacāraḥ kathañcana // MandUpK_3.36 //</l>\n</lg>\n\n<lg>\n<l>sarvābhilāpavigataḥ sarvacintāsamutthitaḥ /</l>\n<l>supraśāntaḥ sakṛjjyotiḥ samādhir acalo 'bhayaḥ // MandUpK_3.37 //</l>\n</lg>\n\n<lg>\n<l>graho na tatra notsargaś cintā yatra na vidyate /</l>\n<l>ātmasaṃsthaṃ tadā jñānam ajāti samatāṃ gatam // MandUpK_3.38 //</l>\n</lg>\n\n<lg>\n<l>asparśayogo vai nāma durdarśaḥ sarvayogibhiḥ /</l>\n<l>yogino bibhyati hy asmād abhaye bhayadarśinaḥ // MandUpK_3.39 //</l>\n</lg>\n\n<lg>\n<l>manaso nigrahāyattam abhayaṃ sarvayoginām /</l>\n<l>duḥkhakṣayaḥ prabodhaś cāpy akṣayā śāntir eva ca // MandUpK_3.40 //</l>\n</lg>\n\n<lg>\n<l>utseka udadher yadvat kuśāgreṇaikabindunā /</l>\n<l>manaso nigrahas tadvad bhaved aparikhedataḥ // MandUpK_3.41 //</l>\n</lg>\n\n<lg>\n<l>upāyena nigṛhṇīyād vikṣiptaṃ kāmabhogayoḥ /</l>\n<l>suprasannaṃ laye caiva yathā kāmo layas tathā // MandUpK_3.42 //</l>\n</lg>\n\n<lg>\n<l>duḥkhaṃ sarvam anusmṛtya kāmabhogān nivartayet /</l>\n<l>ajaṃ sarvamanusmṛtya jātaṃ naiva tu paśyati // MandUpK_3.43 //</l>\n</lg>\n\n<lg>\n<l>laye saṃbodhayec cittaṃ vikṣiptaṃ śamayet punaḥ /</l>\n<l>sakaṣāyaṃ vijānīyāt samaprāptaṃ na cālayet // MandUpK_3.44 //</l>\n</lg>\n\n<lg>\n<l>nāsvādayet sukhaṃ tatra niḥsaṅgaḥ prajñayā bhavet /</l>\n<l>niścalaṃ niścarac cittam ekīkuryāt prayatnataḥ // MandUpK_3.45 //</l>\n</lg>\n\n<lg>\n<l>yadā na līyate cittaṃ na ca vikṣipyate punaḥ /</l>\n<l>aniṅganam anābhāsaṃ niṣpannaṃ brahma tat tadā // MandUpK_3.46 //</l>\n</lg>\n\n<lg>\n<l>svasthaṃ śāntaṃ sanirvāṇam akathyaṃ sukham uttamam /</l>\n<l>ajam ajena jñeyena sarvajñaṃ paricakṣate // MandUpK_3.47 //</l>\n</lg>\n\n<lg>\n<l>na kaścij jāyate jīvaḥ saṃbhavo 'sya na vidyate /</l>\n<l>etat tad uttamaṃ satyaṃ yatra kiñcin na jāyate // MandUpK_3.48 //</l>\n</lg>\n\n</div>\n<div>\n\n<lg>\n<l>jñānenākāśakalpena dharmānyo gaganopamān /</l>\n<l>jñeyābhinnena saṃbuddhas taṃ vande dvipadāṃ varam // MandUpK_4.1 //</l>\n</lg>\n\n<lg>\n<l>asparśayogo vai nāma sarvasattvasukho hitaḥ /</l>\n<l>avivādo 'viruddhaś ca deśitas taṃ namāmy aham // MandUpK_4.2 //</l>\n</lg>\n\n<lg>\n<l>bhūtasya jātim icchanti vādinaḥ kecid eva hi /</l>\n<l>abhūtasyāpare dhīrā vivadantaḥ parasparam // MandUpK_4.3 //</l>\n</lg>\n\n<lg>\n<l>bhūtaṃ na jāyate kiñcid abhūtaṃ naiva jāyate /</l>\n<l>vivadanto 'dvayā hy evam ajātiṃ khyāpayanti te // MandUpK_4.4 //</l>\n</lg>\n\n<lg>\n<l>khyāpyamānām ajātiṃ tair anumodāmahe vayam /</l>\n<l>vivadāmo na taiḥ sārdham avivādaṃ nibodhata // MandUpK_4.5 //</l>\n</lg>\n\n<lg>\n<l>ajātasyaiva dharmasya jātim icchanti vādinaḥ /</l>\n<l>ajāto hy amṛto dharmo martyatāṃ katham eṣyati // MandUpK_4.6 //</l>\n</lg>\n\n<lg>\n<l>na bhavaty amṛtaṃ martyaṃ na martyam amṛtaṃ tathā /</l>\n<l>prakṛter anyathābhāvo na kathañcid bhaviṣyati // MandUpK_4.7 //</l>\n</lg>\n\n<lg>\n<l>svabhāvenāmṛto yasya dharmo gacchati martyatām /</l>\n<l>kṛtakenāmṛtas tasya kathaṃ sthāsyati niścalaḥ // MandUpK_4.8 //</l>\n</lg>\n\n<lg>\n<l>sāṃsiddhikī svābhāvikī sahajā akṛtā ca yā /</l>\n<l>prakṛtiḥ seti vijñeyā svabhāvaṃ na jahāti yā // MandUpK_4.9 //</l>\n</lg>\n\n<lg>\n<l>jarāmaraṇanirmuktāḥ sarve dharmāḥ svabhāvataḥ /</l>\n<l>jarāmaraṇam icchantaś cyavante tanmanīṣayā // MandUpK_4.10 //</l>\n</lg>\n\n<lg>\n<l>kāraṇaṃ yasya vai kāryaṃ kāraṇaṃ tasya jāyate /</l>\n<l>jāyamānaṃ katham ajaṃ bhinnaṃ nityaṃ kathaṃ ca tat // MandUpK_4.11 //</l>\n</lg>\n\n<lg>\n<l>kāraṇād yady ananyatvam ataḥ kāryam ajaṃ yadi /</l>\n<l>jāyamānād dhi vai kāryāt kāraṇaṃ te kathaṃ dhruvam // MandUpK_4.12 //</l>\n</lg>\n\n<lg>\n<l>ajād vai jāyate yasya dṛṣṭāntas tasya nāsti vai /</l>\n<l>jātāc ca jāyāmānasya na vyavasthā prasajyate // MandUpK_4.13 //</l>\n</lg>\n\n<lg>\n<l>hetor ādiḥ phalaṃ yeṣām ādir hetuḥ phalasya ca /</l>\n<l>hetoḥ phalasya cānādiḥ kathaṃ tair upavarṇyate // MandUpK_4.14 //</l>\n</lg>\n\n<lg>\n<l>hetor ādiḥ phalaṃ yeṣām ādir hetuḥ kalasya ca /</l>\n<l>tathā janma bhavet teṣāṃ putrāj janma pitur yathā // MandUpK_4.15 //</l>\n</lg>\n\n<lg>\n<l>saṃbhave hetuphalayor eṣitavyaḥ kramas tvayā /</l>\n<l>yugapatsaṃbhave yasmād asaṃbandho viṣāṇavat // MandUpK_4.16 //</l>\n</lg>\n\n<lg>\n<l>phalād utpadyamānaḥ san na te hetuḥ prasidhyati /</l>\n<l>aprasiddhaḥ kathaṃ hetuḥ phalam utpādayiṣyati // MandUpK_4.17 //</l>\n</lg>\n\n<lg>\n<l>yadi hetoḥ phalāt siddhiḥ phalasiddhiś ca hetutaḥ /</l>\n<l>katarat pūrvaniṣpannaṃ yasya siddhir apekṣayā // MandUpK_4.18 //</l>\n</lg>\n\n<lg>\n<l>aśaktir aparijñānaṃ kramakopo 'tha vā punaḥ /</l>\n<l>evaṃ hi sarvathā buddhair ajātiḥ paridīpitā // MandUpK_4.19 //</l>\n</lg>\n\n<lg>\n<l>bījāṅkurākhyo dṛṣṭāntaḥ sadā sādhyasamo hi sa /</l>\n<l>na hi sādhyasamo hetuḥ siddhau sādhyasya yujyate // MandUpK_4.20 //</l>\n</lg>\n\n<lg>\n<l>pūrvāparāparijñānam ajāteḥ paridīpakam /</l>\n<l>jāyamānād dhi vai dharmāt kathaṃ pūrvaṃ na gṛhyate // MandUpK_4.21 //</l>\n</lg>\n\n<lg>\n<l>svato vā parato vāpi na kiñcid vastu jāyate /</l>\n<l>sad asat sadasad vāpi na kiñcid vastu jāyate // MandUpK_4.22 //</l>\n</lg>\n\n<lg>\n<l>hetur na jāyate 'nādeḥ phalaṃ cāpi svabhāvataḥ /</l>\n<l>ādir na vidyate yasya tasya hy ādir na vidyate // MandUpK_4.23 //</l>\n</lg>\n\n<lg>\n<l>prajñapteḥ sanimittatvam anyathā dvayanāśataḥ /</l>\n<l>saṃkleśasyopalabdheś ca paratantrāstitā matā // MandUpK_4.24 //</l>\n</lg>\n\n<lg>\n<l>prajñapteḥ sanimittatvam iṣyate yuktidarśanāt /</l>\n<l>nimittasyānimittatvam iṣyate bhūtadarśanāt // MandUpK_4.25 //</l>\n</lg>\n\n<lg>\n<l>cittaṃ na saṃspṛśaty arthaṃ nārthābhāsaṃ tathaiva ca /</l>\n<l>abhūto hi yataś cārtho nārthābhāsas tataḥ pṛthak // MandUpK_4.26 //</l>\n</lg>\n\n<lg>\n<l>nimittaṃ na sadā cittaṃ saṃspṛśaty adhvasu triṣu /</l>\n<l>animitto viparyāsaḥ kathaṃ tasya bhaviṣyati // MandUpK_4.27 //</l>\n</lg>\n\n<lg>\n<l>tasmān na jāyate cittaṃ cittadṛśyaṃ na jāyate /</l>\n<l>tasya paśyanti ye jātiṃ khe vai paśyanti te padam // MandUpK_4.28 //</l>\n</lg>\n\n<lg>\n<l>ajātaṃ jāyate yasmād ajātiḥ prakṛtis tataḥ /</l>\n<l>prakṛter anyathābhāvo na kathañcid bhaviṣyati // MandUpK_4.29 //</l>\n</lg>\n\n<lg>\n<l>anāder antavattvaṃ ca saṃsārasya na setsyati /</l>\n<l>anantatā cādimato mokṣasya na bhaviṣyati // MandUpK_4.30 //</l>\n</lg>\n\n<lg>\n<l>ādāvante ca yan nāsti vartamāne 'pi tat tathā /</l>\n<l>vitathaiḥ sadṛśāḥ santo 'vitathā iva lakṣitāḥ // MandUpK_4.31 //</l>\n</lg>\n\n<lg>\n<l>saprayojanatā teṣāṃ svapne vipratipadyate /</l>\n<l>tasmād ādyantavattvena mithyaiva khalu te smṛtāḥ // MandUpK_4.32 //</l>\n</lg>\n\n<lg>\n<l>sarve dharmā mṛṣā svapne kāyasyāntanidarśanāt /</l>\n<l>saṃvṛtte 'smin pradeśe vai bhūtānāṃ darśanaṃ kutaḥ // MandUpK_4.33 //</l>\n</lg>\n\n<lg>\n<l>na yuktaṃ darśanaṃ gatvā kālasyāniyamād gatau /</l>\n<l>pratibuddhaś ca vai sarvas tasmin deśe na vidyate // MandUpK_4.34 //</l>\n</lg>\n\n<lg>\n<l>mitrādyaiḥ saha saṃmantrya saṃbuddhau na prapadyate /</l>\n<l>gṛhītaṃ cāpi yat kiñcit pratibuddho na paśyati // MandUpK_4.35 //</l>\n</lg>\n\n<lg>\n<l>svapne cāvastukaḥ kāyaḥ pṛthag anyasya darśanāt /</l>\n<l>yathā kāyas tathā sarvaṃ cittadṛśyam avastukam // MandUpK_4.36 //</l>\n</lg>\n\n<lg>\n<l>grahaṇāj jāgaritavat taddhetuḥ svapna iṣyate /</l>\n<l>tad dhetutvāt tu tasyaiva sajjāgaritam iṣyate // MandUpK_4.37 //</l>\n</lg>\n\n<lg>\n<l>utpādasyāprasiddhatvād ajaṃ sarvam udāhṛtam /</l>\n<l>na ca bhūtād abhūtasya saṃbhavo 'sti kathañcana // MandUpK_4.38 //</l>\n</lg>\n\n<lg>\n<l>asaj jāgarite dṛṣṭvā svapne paśyati tanmayaḥ /</l>\n<l>asatsvapne 'pi dṛṣṭvā ca pratibuddhau na paśyati // MandUpK_4.39 //</l>\n</lg>\n\n<lg>\n<l>nāsty asaddhetukam asat sadasaddhetukaṃ tathā /</l>\n<l>sac ca saddhetukaṃ nāsti saddhetukam asat kutaḥ // MandUpK_4.40 //</l>\n</lg>\n\n<lg>\n<l>viparyāsād yathā jāgrad acintyān bhūtavat spṛśet /</l>\n<l>tathā svapne viparyāsād dharmāṃs tatraiva paśyati // MandUpK_4.41 //</l>\n</lg>\n\n<lg>\n<l>upalambhāt samācārād asti vastutvavādinām /</l>\n<l>jātis tu deśitā buddhair ajātes trasatāṃ sadā // MandUpK_4.42 //</l>\n</lg>\n\n<lg>\n<l>ajātes trasatāṃ teṣām upalambhād viyanti ye /</l>\n<l>jātidoṣā na setsyanti doṣo 'py alpo bhaviṣyati // MandUpK_4.43 //</l>\n</lg>\n\n<lg>\n<l>upalambhāt samācārān māyāhastī yathocyate /</l>\n<l>upalambhāt samācārād asti vastu tathocyate // MandUpK_4.44 //</l>\n</lg>\n\n<lg>\n<l>jātyābhāsaṃ calābhāsaṃ vastvābhāsaṃ tathaiva ca /</l>\n<l>ajācalam avastutvaṃ vijñānaṃ śāntam advayam // MandUpK_4.45 //</l>\n</lg>\n\n<lg>\n<l>evaṃ na jāyate cittam evaṃ dharmā ajāḥ smṛtāḥ /</l>\n<l>evam eva vijānanto na patanti viparyaye // MandUpK_4.46 //</l>\n</lg>\n\n<lg>\n<l>ṛjuvakrādikābhāsam alātaspanditaṃ yathā /</l>\n<l>grahaṇagrāhakābhāsaṃ vijñānaspanditaṃ tathā // MandUpK_4.47 //</l>\n</lg>\n\n<lg>\n<l>aspandamānam alātam anābhāsam ajaṃ yathā /</l>\n<l>aspandamānaṃ vijñānam anābhāsam ajaṃ tathā // MandUpK_4.48 //</l>\n</lg>\n\n<lg>\n<l>alāte spandamāne vai nābhāsā anyato bhuvaḥ /</l>\n<l>na tato 'nyatra nispandān nālātaṃ praviśanti te // MandUpK_4.49 //</l>\n</lg>\n\n<lg>\n<l>na nirgatā alātāt te dravyatvābhāvayogataḥ /</l>\n<l>vijñāne 'pi tathaiva syur ābhāsasyāviśeṣataḥ // MandUpK_4.50 //</l>\n</lg>\n\n<lg>\n<l>vijñāne spandamāne vai nābhāsā anyatobhuvaḥ /</l>\n<l>na tato 'nyatra nispandān na vijñānaṃ viśanti te // MandUpK_4.51 //</l>\n</lg>\n\n<lg>\n<l>na nirgatās te vijñānād dravyatvābhāvayogataḥ /</l>\n<l>kāryakāraṇatābhāvād yato 'cintyāḥ sadaiva te // MandUpK_4.52 //</l>\n</lg>\n\n<lg>\n<l>dravyaṃ dravyasya hetuḥ syād anyad anyasya caiva hi /</l>\n<l>dravyatvam anyabhāvo vā dharmāṇāṃ nopapadyate // MandUpK_4.53 //</l>\n</lg>\n\n<lg>\n<l>evaṃ na cittajā dharmāś cittaṃ vāpi na dharmajam /</l>\n<l>evaṃ hetuphalājātiṃ praviśanti manīṣiṇaḥ // MandUpK_4.54 //</l>\n</lg>\n\n<lg>\n<l>yāvad dhetuphalāveśas tāvad dhetuphalodbhavaḥ /</l>\n<l>kṣīṇe hetuphalāveśe nāsti hetuphalodbhavaḥ // MandUpK_4.55 //</l>\n</lg>\n\n<lg>\n<l>yāvad dhetuphalāveśaḥ saṃsāras tāvadāyataḥ /</l>\n<l>kṣīṇe hetuphalāveśe saṃsāraṃ na prapadyate // MandUpK_4.56 //</l>\n</lg>\n\n<lg>\n<l>saṃvṛtyā jāyate sarvaṃ śāśvataṃ nāsti tena vai /</l>\n<l>sadbhāvena hy ajaṃ sarvam ucchedas tena nāsti vai // MandUpK_4.57 //</l>\n</lg>\n\n<lg>\n<l>dharmā ya iti jāyante jāyante te na tattvataḥ /</l>\n<l>janma māyopamaṃ teṣāṃ sā ca māyā na vidyate // MandUpK_4.58 //</l>\n</lg>\n\n<lg>\n<l>yathā māyāmayād bījāj jāyate tanmayoṅkuraḥ /</l>\n<l>nāsau nityo na cocchedī tadvad dharmeṣu yojanā // MandUpK_4.59 //</l>\n</lg>\n\n<lg>\n<l>nājeṣu sarvadharmeṣu śāśvatāśāśvatābhidhā /</l>\n<l>yatra varṇā na vartante vivekas tatra nocyate // MandUpK_4.60 //</l>\n</lg>\n\n<lg>\n<l>yathā svapne dvayābhāsaṃ cittaṃ calati māyayā /</l>\n<l>tathā jāgrad dvayābhāsaṃ cittaṃ calati māyayā // MandUpK_4.61 //</l>\n</lg>\n\n<lg>\n<l>advayaṃ ca dvayābhāsaṃ cittaṃ svapne na saṃśayaḥ /</l>\n<l>advayaṃ ca dvayābhāsaṃ tathā jāgran na saṃśayaḥ // MandUpK_4.62 //</l>\n</lg>\n\n<lg>\n<l>svapnadṛk pracaran svapne dikṣu vai daśasu sthitān /</l>\n<l>aṇḍajān svedajān vāpi jīvān paśyati yān sadā // MandUpK_4.63 //</l>\n</lg>\n\n<lg>\n<l>svapnadṛkcittadṛśyās te na vidyante tataḥ pṛthak /</l>\n<l>tathā tad dṛśyam evedaṃ svapnadṛkcittam iṣyate // MandUpK_4.64 //</l>\n</lg>\n\n<lg>\n<l>carañ jāgarite jāgrad dikṣu vai daśasu sthitān /</l>\n<l>aṇḍajān svedajān vāpi jīvān paśyati yān sadā // MandUpK_4.65 //</l>\n</lg>\n\n<lg>\n<l>jāgrac cittekṣaṇīyās te na vidyante tataḥ pṛthak /</l>\n<l>tathā tad dṛśyam evedaṃ jāgrataś cittam iṣyate // MandUpK_4.66 //</l>\n</lg>\n\n<lg>\n<l>ubhe hy anyonyadṛśye te kiṃ tad astīti cocyate /</l>\n<l>lakṣaṇāśūnyam ubhayaṃ tan mate naiva gṛhyate // MandUpK_4.67 //</l>\n</lg>\n\n<lg>\n<l>yathā svapnamayo jīvo jāyate mriyate 'pi ca /</l>\n<l>tathā jīvā amī sarve bhavanti na bhavanti ca // MandUpK_4.68 //</l>\n</lg>\n\n<lg>\n<l>yathā māyāmayo jīvo jāyate mriyate 'pi ca /</l>\n<l>tathā jīvā amī sarve bhavanti na bhavanti ca // MandUpK_4.69 //</l>\n</lg>\n\n<lg>\n<l>yathā nirmitako jīvo jāyate mriyate 'pi ca /</l>\n<l>tathā jīvā amī sarve bhavanti na bhavanti ca // MandUpK_4.70 //</l>\n</lg>\n\n<lg>\n<l>na kaścij jāyate jīvaḥ saṃbhavo 'sya na vidyate /</l>\n<l>etat tad uttamaṃ satyaṃ yatra kiñcin na jāyate // MandUpK_4.71 //</l>\n</lg>\n\n<lg>\n<l>cittaspandikam evedaṃ grāhyagrāhakavad dvayam /</l>\n<l>cittaṃ nirviṣayaṃ nityam asaṅgaṃ tena kīrtitam // MandUpK_4.72 //</l>\n</lg>\n\n<lg>\n<l>yo 'sti kalpitasaṃvṛtyā paramārthena nāsty asau /</l>\n<l>paratantrābhisaṃvṛtyā syān nāsti paramārthataḥ // MandUpK_4.73 //</l>\n</lg>\n\n<lg>\n<l>ajaḥ kalpitasaṃvṛtyā paramārthena nāpy ajaḥ /</l>\n<l>paratantrādiniṣpattyā saṃvṛtyā jāyate tu saḥ // MandUpK_4.74 //</l>\n</lg>\n\n<lg>\n<l>abhūtābhiniveśo 'sti dvayaṃ tatra na vidyate /</l>\n<l>dvayābhāvaṃ sa buddhvaiva nirnimitto na jāyate // MandUpK_4.75 //</l>\n</lg>\n\n<lg>\n<l>yadā na labhate hetūn uttamādhamamadhyamān /</l>\n<l>tadā na jāyate cittaṃ hetvabhāve phalaṃ kutaḥ // MandUpK_4.76 //</l>\n</lg>\n\n<lg>\n<l>animittasya cittasya yānutpattiḥ samādvayā /</l>\n<l>ajātasyaiva sarvasya cittadṛśyaṃ hi tadyataḥ // MandUpK_4.77 //</l>\n</lg>\n\n<lg>\n<l>buddhvā nimittatāṃ satyāṃ hetuṃ pṛthag anāpnuvan /</l>\n<l>vītaśokaṃ tathākāmam abhayaṃ padam aśnute // MandUpK_4.78 //</l>\n</lg>\n\n<lg>\n<l>abhūtābhiniveśād dhi sadṛśe tat pravartate /</l>\n<l>vastvabhāvaṃ sa budhvaiva niḥsaṅgaṃ vinivartate // MandUpK_4.79 //</l>\n</lg>\n\n<lg>\n<l>nivṛttasyāpravṛttasya niścalā hi tathā sthitiḥ /</l>\n<l>viṣayaḥ sa hi buddhānāṃ tat sāmyam ajam advayam // MandUpK_4.80 //</l>\n</lg>\n\n<lg>\n<l>ajam anidram asvapnaṃ prabhātaṃ bhavati svayam /</l>\n<l>sakṛdvibhāto hy evaiṣa dharma dhātusvabhāvataḥ // MandUpK_4.81 //</l>\n</lg>\n\n<lg>\n<l>sukham āvriyate nityaṃ duḥkhaṃ vivriyate sadā /</l>\n<l>yasya kasya ca dharmasya graheṇa bhagavān asau // MandUpK_4.82 //</l>\n</lg>\n\n<lg>\n<l>asti nāsty asti nāstīti nāsti nāstīti vā punaḥ /</l>\n<l>calasthirobhayābhāvair āvṛṇotye va bāliśaḥ // MandUpK_4.83 //</l>\n</lg>\n\n<lg>\n<l>koṭhyaś catasra etās tu grahair yāsāṃ sadā vṛtaḥ /</l>\n<l>bhagavān ābhir aspṛṣṭo yena dṛṣṭaḥ sa sarvadṛk // MandUpK_4.84 //</l>\n</lg>\n\n<lg>\n<l>prāpya sarvajñatāṃ kṛtsnāṃ brāhmaṇyaṃ padam advayam /</l>\n<l>anāpannādimadhyāntaṃ kim ataḥ param īhate // MandUpK_4.85 //</l>\n</lg>\n\n<lg>\n<l>viprāṇāṃ vinayo hy eṣa śamaḥ prākṛta ucyate /</l>\n<l>damaḥ prakṛtidāntatvād evaṃ vidvāñ śamaṃ vrajet // MandUpK_4.86 //</l>\n</lg>\n\n<lg>\n<l>savastu sopalambhaṃ ca dvayaṃ laukikam iṣyate /</l>\n<l>avastu sopalambhaṃ ca śuddhaṃ laukikam iṣyate // MandUpK_4.87 //</l>\n</lg>\n\n<lg>\n<l>avastv anupalambhaṃ ca lokottaram iti smṛtam /</l>\n<l>jñānaṃ jñeyaṃ ca vijñeyaṃ sadā buddhaiḥ prakīrtitam // MandUpK_4.88 //</l>\n</lg>\n\n<lg>\n<l>jñāne ca trividhe jñeye krameṇa vidite svayam /</l>\n<l>sarvajñatā hi sarvatra bhavatīha mahādhiyaḥ // MandUpK_4.89 //</l>\n</lg>\n\n<lg>\n<l>heyajñeyāpyapākyāni vijñeyāny agrayāṇataḥ /</l>\n<l>teṣām anyatra vijñeyād upalambhas triṣu smṛtaḥ // MandUpK_4.90 //</l>\n</lg>\n\n<lg>\n<l>prakṛtyākāśavaj jñeyāḥ sarve dharmā anādayaḥ /</l>\n<l>vidyate na hi nānātvaṃ teṣāṃ kvacana kiñcanaḥ // MandUpK_4.91 //</l>\n</lg>\n\n<lg>\n<l>ādibuddhāḥ prakṛtyaiva sarve dharmāḥ suniścitāḥ /</l>\n<l>yasyaivaṃ bhavati kṣāntiḥ so 'mṛtatvāya kalpate // MandUpK_4.92 //</l>\n</lg>\n\n<lg>\n<l>ādiśāntā hy anutpannāḥ prakṛtyaiva sunirvṛtāḥ /</l>\n<l>sarve dharmāḥ samābhinnā ajaṃ sāmyaṃ viśāradam // MandUpK_4.93 //</l>\n</lg>\n\n<lg>\n<l>vaiśāradyaṃ tu vai nāsti bhede vicaratāṃ sadā /</l>\n<l>bhedanimnāḥ pṛthagvādās tasmāt te kṛpaṇāḥ smṛtāḥ // MandUpK_4.94 //</l>\n</lg>\n\n<lg>\n<l>aje sāmye tu ye kecid bhaviṣyanti suniścitāḥ /</l>\n<l>te hi loke mahājñānās tac ca loko na gāhate // MandUpK_4.95 //</l>\n</lg>\n\n<lg>\n<l>ajeṣv ajam asaṃkrāntaṃ dharmeṣu jñānam iṣyate /</l>\n<l>yato na kramate jñānam asaṅgaṃ tena kīrtitam // MandUpK_4.96 //</l>\n</lg>\n\n<lg>\n<l>aṇumātre 'pi vaidharmye jāyamāne 'vipaścitaḥ /</l>\n<l>asaṅgatā sadā nāsti kimutāvaraṇacyutiḥ // MandUpK_4.97 //</l>\n</lg>\n\n<lg>\n<l>alabdhāvaraṇāḥ sarve dharmāḥ prakṛtinirmalāḥ /</l>\n<l>ādau buddhās tathā muktā budhyanta iti nāyakāḥ // MandUpK_4.98 //</l>\n</lg>\n\n<lg>\n<l>kramate na hi buddhasya jñānaṃ dharmeṣu tāyinaḥ /</l>\n<l>sarve dharmās tathā jñānaṃ naitad buddhena bhāṣitam // MandUpK_4.99 //</l>\n</lg>\n\n<lg>\n<l>durdarśam atigambhīram ajaṃ sāmyaṃ viśāradam /</l>\n<l>buddhvā padam anānātvaṃ namaskurmo yathābalam // MandUpK_4.100 //</l>\n</lg>\n\n  </div>\n</body>\n\n"
+  "file_title": "māṇḍūkyopaniṣatkārikā",
+  "file_title_normal": "mandukyopanisatkarika",
+  "metadata": {
+    "original_title": "Māṇḍūkyopaniṣatkārikā (also known as Gauḍapādakārikā, Māṇḍūkyakārikā or Āgamaśāstra)",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Sansknet Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Sansknet Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bahiḥprajño vibhuḥ viśvo hy antaḥprajñas tu taijasaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ghanaprajñaḥ tathā prājña eka eva tridhā smṛtaḥ // MandUpK_1.1 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dakṣiṇākṣimukhe viśvo manasy antas tu taijasaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ākāśe ca hṛdi prājñas tridhā dehe vyavasthitaḥ // MandUpK_1.2 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "viśvaḥ hi sthūlabhuṅ nityaṃ taijasaḥ praviviktabhuk /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ānandabhuk tathā prājñastridhā bhogaṃ nibodhata // MandUpK_1.3 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sthūlaṃ tarpayate viśvaṃ praviviktaṃ tu taijasam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ānandaś ca tathā prājñaṃ tridhā tṛptiṃ nibodhata // MandUpK_1.4 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "triṣu dhāmasu yadbhojyaṃ bhoktā yaś ca prakīrtitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vadaitadubhayaṃ yas tu sa bhuñjāno na lipyate // MandUpK_1.5 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prabhavaḥ sarvabhāvānāṃ satām iti viniścayaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvaṃ janayati prāṇaś ceto 'ṃśūn puruṣaḥ pṛthak // MandUpK_1.6 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vibhūtiṃ prasavaṃ tv anye manyante sṛṣṭicintakāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svapnamāyāsarūpeti sṛṣṭir anyaiḥ vikalpitā // MandUpK_1.7 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "icchāmātraṃ prabhoḥ sṛṣṭir iti sṛṣṭau viniścitāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kālāt prasūtiṃ bhūtānāṃ manyante kālacintakāḥ // MandUpK_1.8 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhogārthaṃ sṛṣṭir iti anye krīḍārtham iti cāpare /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "devasyaiṣa svabhāvo 'yam āptakāmasya kā spṛhā // MandUpK_1.9 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nivṛtteḥ sarvaduḥkhānām īśānaḥ prabhur avyayaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "advaitaḥ sarvabhāvānāṃ devās turyo vibhuḥ smṛtaḥ // MandUpK_1.10 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāryakāraṇabaddhau tāv iṣyete viśvataijasau /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prājñaḥ kāraṇabaddhas tu dvau tau turye na sidhyataḥ // MandUpK_1.11 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nātmānaṃ na parāś caiva na satyaṃ na api cānṛtam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prājñaḥ kiñcana saṃvetti turyaṃ tat sarvadṛk sadā // MandUpK_1.12 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dvaitasyāgrahaṇaṃ tulyam ubhayoḥ prājñaturyayoḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bījanidrāyutaḥ prājñaḥ sā ca turye na vidyate // MandUpK_1.13 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svapnanidrāyutāv ādyau prājñas tv asvapnanidrayā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na nidrāṃ naiva ca svapnaṃ turye paśyanti niścitaḥ // MandUpK_1.14 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "anyathā gṛhṇataḥ svapno nidrā tattvam ajānataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "viparyāse tayoḥ kṣīṇe turīyaṃ padam aśnute // MandUpK_1.15 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "anādimāyayā supto yadā jīvaḥ prabudhyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajam anidram asvapnam advaitaṃ budhyate tadā // MandUpK_1.16 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prapañco yadi vidyeta nivarteta na saṃśayaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "māyāmātram idaṃ dvaitam advaitaṃ paramārthataḥ // MandUpK_1.17 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vikalpo vinivarteta kalpito yadi kenacit /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "upadeśād ayaṃ vādo jñāte dvaitaṃ na vidyate // MandUpK_1.18 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "viśvasyātvavivakṣāyām ādisāmānyam utkṛṣṭam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mātrāsaṃpratipattau syād āptisāmānyam eva ca // MandUpK_1.19 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "taijasasyotvavijñāna utkarṣo dṛśyate sphuṭam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mātrāsaṃpratipattau syād ubhayatvaṃ tathā vidham // MandUpK_1.20 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "makārabhāve prājñasya mānasām anyam utkaṭam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mātrāsaṃpratipattau tu layasāmānyam eva ca // MandUpK_1.21 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "triṣu dhāmasu yat tulyaṃ sāmānyaṃ vetti niścitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sa pūjyaḥ sarvabhūtānāṃ vandyaś caiva mahāmuniḥ // MandUpK_1.22 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "akāro nayate viśvam ukāraś cāpi taijasam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "makāraś ca punaḥ prājñaṃ nāmātre vidyate gatiḥ // MandUpK_1.23 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "oṃkāraṃ pādaśo vidyāt pādā mātrā na saṃśayaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "oṃkāraṃ pādaśo jñātvā na kiñcid api cintayet // MandUpK_1.24 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yuñjīta praṇave cetaḥ praṇavo brahma nirbhayam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "praṇave nityayuktasya na bhayaṃ vidyate kvacit // MandUpK_1.25 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "praṇavo hy aparaṃ brahma praṇavaś ca paraḥ smṛtaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "apūrvo 'nantaro 'bāhyo 'naparaḥ praṇavo 'vyayaḥ // MandUpK_1.26 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvasya praṇavo hy ādir madhyam antas tathaiva ca /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "evaṃ hi praṇavaṃ jñātvā vyaśnute tad anantaram // MandUpK_1.27 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "praṇavaṃ hīśvaraṃ vidyāt sarvasya hṛdi saṃsthitam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvavyāpinam oṃkāraṃ matvā dhīro na śocati // MandUpK_1.28 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "amātro 'nantamātraś ca dvaitasyopaśamaḥ śivaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "oṃkāro vidito yena sa munir netāro janaḥ // MandUpK_1.29 //"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vaitathyaṃ sarvabhāvānāṃ svapna āhur manīṣiṇaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "antaḥsthānāt tu bhāvānāṃ saṃvṛtatvena hetunā // MandUpK_2.1 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "adīrghatvāc ca kālasya gatvā deśān na paśyati /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pratibuddhaś ca vai sarvas tasmin deśe na vidyate // MandUpK_2.2 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "abhāvaś ca rathādīnāṃ śrūyate nyāyapūrvakam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vaitathyaṃ tena vai prāptaṃ svapna āhuḥ prakāśitam // MandUpK_2.3 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "antasthānāt tu bhedānāṃ tasmāj jāgarite smṛtam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yathā tatra tathā svapne saṃvṛtatvena bhidyate // MandUpK_2.4 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svapnajāgaritasthāne hy ekam āhur manīṣiṇaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhedānāṃ hi samatvena prasiddhenaiva hetunā // MandUpK_2.5 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ādāvante ca yan nāsti vartamāne 'pi tat tathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vitathaiḥ sadṛśāḥ santo 'vitathā iva lakṣitāḥ // MandUpK_2.6 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saprayojanatā teṣāṃ svapne vipratipadyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasmād ādyantavatvena mithyaiva khalu te smṛtāḥ // MandUpK_2.7 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "apūrvaṃ sthānidharmo hi yathā svarganivāsinām /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tānayaṃ prekṣate gatvā yathaiveha suśikṣitaḥ // MandUpK_2.8 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svapnavṛttāv api tv antaś cetasā kalpitaṃ tv asat /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bahiś cetogṛhītaṃ sad dṛṣṭaṃ vaitathyam etayoḥ // MandUpK_2.9 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jāgradvṛttāvapi tv antaś cetasā kalpitaṃ tv asat /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bahiścetogṛhītaṃ sad yuktaṃ vaitathyam etayoḥ // MandUpK_2.10 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ubhayor api vaitathyaṃ bhedānāṃ sthānayor yadi /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ka etān budhyate bhedān ko vai teṣāṃ vikalpakaḥ // MandUpK_2.11 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kalpayaty ātmanātmānam ātmā devaḥ svamāyayā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sa eva budhyate bhedān iti vedāntaniścayaḥ // MandUpK_2.12 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vikaroty aparān bhāvān antaścitte vyavasthitān /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "niyatāṃś ca bahiścitta evaṃ kalpayate prabhuḥ // MandUpK_2.13 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "cittakālā hi ye 'ntas tu dvayakālāś ca ye bahiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kalpitā eva te sarve viśeṣo nānyahetukaḥ // MandUpK_2.14 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "avyaktā eva ye 'ntas tu sphuṭā eva ca ye bahiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kalpitā eva te sarve viśeṣas tv indriyāntare // MandUpK_2.15 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jīvaṃ kalpayate pūrvaṃ vaco bhāvān pṛthagvidhān /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bāhyān ādhyātmikāṃś caiva yathāvidyas tathāsmṛtiḥ // MandUpK_2.16 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aniścitā yathā rajjur andhakāre vikalpitā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarpadhārādibhir bhāvais tadvad ātmā vikalpitaḥ // MandUpK_2.17 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "niścitāyāṃ yathā rajjvāṃ vikalpo vinivartate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rajjur eveti cādvaitaṃ tadvad ātmaviniścayaḥ // MandUpK_2.18 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prāṇādibhir anantaiś ca bhāvair etair vikalpitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "māyaiṣā tasya devasya yayā saṃmohitaḥ svayam // MandUpK_2.19 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prāṇa iti prāṇavido bhūtānīti ca tadvidaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "guṇā iti guṇavidas tattvānīti ca tadvidaḥ // MandUpK_2.20 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pādā iti pādavido viṣayā iti ca tadvidaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "lokā iti lokavido devā iti ca tadvidaḥ // MandUpK_2.21 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vedā iti vedavido yajñā iti ca tadvidaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhokteti ca bhoktṛvido bhojyam iti ca tadvidaḥ // MandUpK_2. 22 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sūkṣma iti sūkṣmavidaḥ sthūla iti ca tadvidaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mūrta iti mūrtavido 'mūrta iti ca tadvidaḥ // MandUpK_2.23 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāla iti kālavido diśa iti ca tadvidaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vādā iti vādavido bhuvanānīti tadvidaḥ // MandUpK_2.24 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mana iti manovido buddhir iti ca tadvidaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "cittam iti cittavido dharmādharmau ca tadvidaḥ // MandUpK_2.25 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pañcaviṃśaka ity eke ṣaḍviśa iti cāpare /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ekatriṃśaka ity āhur ananta iti cāpare // MandUpK_2.26 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "lokāṃl lokavidaḥ prāhur āśramā iti tadvidaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "strīpuṃnapuṃsakaṃ laiṅgāḥ parāparam athāpare // MandUpK_2.27 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sṛṣṭir iti sṛṣṭivido laya iti ca tadvidaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sthitir iti sthitividaḥ sarve ceha tu sarvadā // MandUpK_2.28 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yaṃ bhāvaṃ darśayed yasya taṃ bhāvaṃ sa tu paśyati /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "taṃ cāvati sa bhūtvāsau tadgrahaḥ samupaiti tam // MandUpK_2.29 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "etair eṣo 'pṛthagbhāvaiḥ pṛthag eveti lakṣitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "evaṃ yo veda tattvena kalpayet so 'viśaṅkitaḥ // MandUpK_2.30 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svapnamāye yathā dṛṣṭaṃ gandharvanagaraṃ yathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tathā viśvam idaṃ dṛṣṭaṃ vedānteṣu vicakṣaṇaiḥ // MandUpK_2.31 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na nirodho na cotpattir na baddho na ca sādhakaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na mumukṣur na vai mukta ity eṣā paramārthatā // MandUpK_2.32 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhāvair asadbhir evāyam advayena ca kalpitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhāvā apy advayenaiva tasmād advayatā śivā // MandUpK_2.33 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nātmabhāvena nānedaṃ na svenāpi kathañcana /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na pṛthaṅ nāpṛthak kiñcid iti tattvavido viduḥ // MandUpK_2.34 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vītarāgabhayakrodhair munibhir vedapāragaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nirvikalpo hy ayaṃ dṛṣṭaḥ prapañcopaśamo 'dvayaḥ // MandUpK_2.35 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasmād evaṃ viditvainam advaite yojayet smṛtim /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "advaitaṃ samanuprāpya jaḍavallokam ācaret // MandUpK_2.36 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "niḥstutir nirnamaskāro niḥsvadhākāra eva ca /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "calācalaniketaś ca yatir yādṛcchiko bhavet // MandUpK_2.37 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tattvam ādhyātmikaṃ dṛṣṭvā tattvaṃ dṛṣṭvā tu bāhyataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tattvībhūtas tadārāmas tattvād apracyuto bhavet // MandUpK_2.38 //"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "upāsanāśrito dharmo jāte brahmaṇi vartate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prāgutpatter ajaṃ sarvaṃ tenāsau kṛpaṇaḥ smṛtaḥ // MandUpK_3.1 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ato vakṣyāmy akārpaṇyam ajāti samatāṃ gatam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yathā na jāyate kiñcij jāyamānaṃ samantataḥ // MandUpK_3.2 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ātmā hy ākāśavajjīvair ghaṭākāśair ivoditaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ghaṭādivac ca saṃghātair jātāv etan nidarśanam // MandUpK_3.3 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ghaṭādiṣu pralīneṣu ghaṭākāśādayo yathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ākāśe saṃpralīyante tadvaj jīvā ihātmani // MandUpK_3.4 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yathaikasmin ghāṭākāśe rajodhūmādibhir yute /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na sarve saṃprayujyante tadvaj jīvāḥ sukhādibhiḥ // MandUpK_3.5 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rūpakāryasamākhyāś ca bhidyante tatra tatra vai /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ākāśasya na bhedo 'sti tadvaj jīveṣu nirṇayaḥ // MandUpK_3.6 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nākāśasya ghaṭākāśo vikārāvayavau yathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "naivātmanaḥ sadā jīvo vikārāvayavau tathā // MandUpK_3.7 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yathā bhavati bālānāṃ gaganaṃ malinaṃ malaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tathā bhavaty abuddhānām ātmāpi malino malaiḥ // MandUpK_3.8 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "maraṇe saṃbhave caiva gatyāgamanayor api /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sthitau sarvaśarīreṣu ākāśenāvilakṣaṇaḥ // MandUpK_3.9 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃghātāḥ svapnavat sarve ātmamāyāvisarjitāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ādhikye sarvasāmye vā nopapattir hi vidyate // MandUpK_3.10 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rasādayo hi ye kośā vyākhyātās taittirīyake /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "teṣām ātmā paro jīvaḥ khaṃ yathā saṃprakāśitaḥ // MandUpK_3.11 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dvayor dvayor madhujñāne paraṃ brahma prakāśitam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pṛthivyāmudare caiva yathākāśaḥ prakāśitaḥ // MandUpK_3.12 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jīvātmanor ananyatvam abhedena praśasyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nānātvaṃ nindyate yac ca tad evaṃ hi samañjasam // MandUpK_3.13 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jīvātmanoḥ pṛthaktvaṃ yat prāgutpatteḥ prakīrtitam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhaviṣyadvṛtyā gauṇaṃ tan mukhyatvaṃ hi na yujyate // MandUpK_3.14 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mṛllohavisphuliṅgādyaiḥ sṛṣṭir yā coditānyathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "upāyaḥ so 'vatārāya nāsti bhedaḥ kathañcana // MandUpK_3.15 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "āśramāstrividhā hīnamadhyamotkṛṣṭadṛṣṭayaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "upāsanopadiṣṭeyaṃ tadartham anukampayā // MandUpK_3.16 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svasiddhāntavyavasthāsu dvaitino niścitā dṛḍham /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "parasparaṃ virudhyante tairayaṃ na virudhyate // MandUpK_3.17 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "advaitaṃ paramārtho hi dvaitaṃ tadbheda ucyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "teṣām ubhayathā dvaitaṃ tenāyaṃ na viruddhyate // MandUpK_3.18 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "māyayā bhidyate hy etan nānyathājaṃ kathañcana /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tattvato bhidyamāne hi martyatām amṛtaṃ vrajet // MandUpK_3.19 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajātasyaiva bhāvasya jātim icchanti vādinaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajāto hy amṛto bhāvo martyatāṃ katham eṣyati // MandUpK_3.20 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na bhavaty amṛtaṃ martyaṃ na martyam amṛtaṃ tathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prakṛter anyathābhāvo na kathañcid bhaviṣyati // MandUpK_3.21 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svabhāvenāmṛto yasya bhāvo gacchati martyatām /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kṛtakenāmṛtas tasya kathaṃ sthāsyati niścalaḥ // MandUpK_3.22 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhūtato 'bhūtato vāpi sṛjyamāne samā śrutiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "niścitaṃ yuktiyuktaṃ ca yat tad bhavati netarat // MandUpK_3.23 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "neha nāneti cāmnāyād indro māyābhir ity api /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajāyamāno bahudhā māyayā jāyate tu saḥ // MandUpK_3.24 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃbhūter apavādāc ca saṃbhavaḥ pratiṣidhyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ko nv enaṃ janayed iti kāraṇaṃ pratiṣidhyate // MandUpK_3.25 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sa eṣa neti netīti vyākhyātaṃ nihnute yataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvam agrāhyabhāvena hetunājaṃ prakāśate // MandUpK_3.26 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sato hi māyayā janma yujyate na tu tattvataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tattvato jāyate yasya jātaṃ tasya hi jāyate // MandUpK_3.27 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asato māyayā janma tattvato naiva yujyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vandhyāputro na tattvena māyayā vāpi jāyate // MandUpK_3.28 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yathā svapne dvayābhāsaṃ spandate māyayā manaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tathā jāgraddvayābhāsaṃ spandate māyayā manaḥ // MandUpK_3.29 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "advayaṃ ca dvayābhāsaṃ manaḥ svapne na saṃśayaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "advayaṃ ca dvayābhāsaṃ tathā jāgran na saṃśayaḥ // MandUpK_3.30 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "manodṛśyam idaṃ dvaitaṃ yat kiñcit sacarācaram /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "manaso hy amanībhāve dvaitaṃ naivopalabhyate // MandUpK_3.31 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ātmasatyānubodhena na saṃkalpayate yadā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "amanastāṃ tadā yāti grāhyābhāve tadagraham // MandUpK_3.32 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "akalpamajaṃ jñānaṃ jñeyābhinnaṃ pracakṣate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "brahma jñeyam ajaṃ nityam ajenājaṃ vibudhyate // MandUpK_3.33 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nigṛhītasya manaso nirvikalpasya dhīmataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pracāraḥ sa tu vijñeyaḥ suṣupte 'nyo na tatsamaḥ // MandUpK_3.34 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "līyate hi suṣupte tan nigṛhītaṃ na līyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tad eva nirbhayaṃ brahma jñānalokaṃ samantataḥ // MandUpK_3.35 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajam anindram asvapnam anāmakam arūpakam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sakṛdvibhātaṃ sarvajñaṃ nopacāraḥ kathañcana // MandUpK_3.36 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvābhilāpavigataḥ sarvacintāsamutthitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "supraśāntaḥ sakṛjjyotiḥ samādhir acalo 'bhayaḥ // MandUpK_3.37 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "graho na tatra notsargaś cintā yatra na vidyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ātmasaṃsthaṃ tadā jñānam ajāti samatāṃ gatam // MandUpK_3.38 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asparśayogo vai nāma durdarśaḥ sarvayogibhiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yogino bibhyati hy asmād abhaye bhayadarśinaḥ // MandUpK_3.39 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "manaso nigrahāyattam abhayaṃ sarvayoginām /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "duḥkhakṣayaḥ prabodhaś cāpy akṣayā śāntir eva ca // MandUpK_3.40 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "utseka udadher yadvat kuśāgreṇaikabindunā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "manaso nigrahas tadvad bhaved aparikhedataḥ // MandUpK_3.41 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "upāyena nigṛhṇīyād vikṣiptaṃ kāmabhogayoḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "suprasannaṃ laye caiva yathā kāmo layas tathā // MandUpK_3.42 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "duḥkhaṃ sarvam anusmṛtya kāmabhogān nivartayet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajaṃ sarvamanusmṛtya jātaṃ naiva tu paśyati // MandUpK_3.43 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "laye saṃbodhayec cittaṃ vikṣiptaṃ śamayet punaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sakaṣāyaṃ vijānīyāt samaprāptaṃ na cālayet // MandUpK_3.44 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nāsvādayet sukhaṃ tatra niḥsaṅgaḥ prajñayā bhavet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "niścalaṃ niścarac cittam ekīkuryāt prayatnataḥ // MandUpK_3.45 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yadā na līyate cittaṃ na ca vikṣipyate punaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aniṅganam anābhāsaṃ niṣpannaṃ brahma tat tadā // MandUpK_3.46 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svasthaṃ śāntaṃ sanirvāṇam akathyaṃ sukham uttamam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajam ajena jñeyena sarvajñaṃ paricakṣate // MandUpK_3.47 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na kaścij jāyate jīvaḥ saṃbhavo 'sya na vidyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "etat tad uttamaṃ satyaṃ yatra kiñcin na jāyate // MandUpK_3.48 //"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jñānenākāśakalpena dharmānyo gaganopamān /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jñeyābhinnena saṃbuddhas taṃ vande dvipadāṃ varam // MandUpK_4.1 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asparśayogo vai nāma sarvasattvasukho hitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "avivādo 'viruddhaś ca deśitas taṃ namāmy aham // MandUpK_4.2 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhūtasya jātim icchanti vādinaḥ kecid eva hi /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "abhūtasyāpare dhīrā vivadantaḥ parasparam // MandUpK_4.3 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhūtaṃ na jāyate kiñcid abhūtaṃ naiva jāyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vivadanto 'dvayā hy evam ajātiṃ khyāpayanti te // MandUpK_4.4 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "khyāpyamānām ajātiṃ tair anumodāmahe vayam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vivadāmo na taiḥ sārdham avivādaṃ nibodhata // MandUpK_4.5 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajātasyaiva dharmasya jātim icchanti vādinaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajāto hy amṛto dharmo martyatāṃ katham eṣyati // MandUpK_4.6 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na bhavaty amṛtaṃ martyaṃ na martyam amṛtaṃ tathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prakṛter anyathābhāvo na kathañcid bhaviṣyati // MandUpK_4.7 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svabhāvenāmṛto yasya dharmo gacchati martyatām /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kṛtakenāmṛtas tasya kathaṃ sthāsyati niścalaḥ // MandUpK_4.8 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sāṃsiddhikī svābhāvikī sahajā akṛtā ca yā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prakṛtiḥ seti vijñeyā svabhāvaṃ na jahāti yā // MandUpK_4.9 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jarāmaraṇanirmuktāḥ sarve dharmāḥ svabhāvataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jarāmaraṇam icchantaś cyavante tanmanīṣayā // MandUpK_4.10 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāraṇaṃ yasya vai kāryaṃ kāraṇaṃ tasya jāyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jāyamānaṃ katham ajaṃ bhinnaṃ nityaṃ kathaṃ ca tat // MandUpK_4.11 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāraṇād yady ananyatvam ataḥ kāryam ajaṃ yadi /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jāyamānād dhi vai kāryāt kāraṇaṃ te kathaṃ dhruvam // MandUpK_4.12 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajād vai jāyate yasya dṛṣṭāntas tasya nāsti vai /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jātāc ca jāyāmānasya na vyavasthā prasajyate // MandUpK_4.13 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "hetor ādiḥ phalaṃ yeṣām ādir hetuḥ phalasya ca /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "hetoḥ phalasya cānādiḥ kathaṃ tair upavarṇyate // MandUpK_4.14 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "hetor ādiḥ phalaṃ yeṣām ādir hetuḥ kalasya ca /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tathā janma bhavet teṣāṃ putrāj janma pitur yathā // MandUpK_4.15 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃbhave hetuphalayor eṣitavyaḥ kramas tvayā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yugapatsaṃbhave yasmād asaṃbandho viṣāṇavat // MandUpK_4.16 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "phalād utpadyamānaḥ san na te hetuḥ prasidhyati /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aprasiddhaḥ kathaṃ hetuḥ phalam utpādayiṣyati // MandUpK_4.17 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yadi hetoḥ phalāt siddhiḥ phalasiddhiś ca hetutaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "katarat pūrvaniṣpannaṃ yasya siddhir apekṣayā // MandUpK_4.18 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aśaktir aparijñānaṃ kramakopo 'tha vā punaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "evaṃ hi sarvathā buddhair ajātiḥ paridīpitā // MandUpK_4.19 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bījāṅkurākhyo dṛṣṭāntaḥ sadā sādhyasamo hi sa /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na hi sādhyasamo hetuḥ siddhau sādhyasya yujyate // MandUpK_4.20 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pūrvāparāparijñānam ajāteḥ paridīpakam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jāyamānād dhi vai dharmāt kathaṃ pūrvaṃ na gṛhyate // MandUpK_4.21 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svato vā parato vāpi na kiñcid vastu jāyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sad asat sadasad vāpi na kiñcid vastu jāyate // MandUpK_4.22 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "hetur na jāyate 'nādeḥ phalaṃ cāpi svabhāvataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ādir na vidyate yasya tasya hy ādir na vidyate // MandUpK_4.23 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prajñapteḥ sanimittatvam anyathā dvayanāśataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃkleśasyopalabdheś ca paratantrāstitā matā // MandUpK_4.24 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prajñapteḥ sanimittatvam iṣyate yuktidarśanāt /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nimittasyānimittatvam iṣyate bhūtadarśanāt // MandUpK_4.25 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "cittaṃ na saṃspṛśaty arthaṃ nārthābhāsaṃ tathaiva ca /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "abhūto hi yataś cārtho nārthābhāsas tataḥ pṛthak // MandUpK_4.26 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nimittaṃ na sadā cittaṃ saṃspṛśaty adhvasu triṣu /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "animitto viparyāsaḥ kathaṃ tasya bhaviṣyati // MandUpK_4.27 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasmān na jāyate cittaṃ cittadṛśyaṃ na jāyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasya paśyanti ye jātiṃ khe vai paśyanti te padam // MandUpK_4.28 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajātaṃ jāyate yasmād ajātiḥ prakṛtis tataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prakṛter anyathābhāvo na kathañcid bhaviṣyati // MandUpK_4.29 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "anāder antavattvaṃ ca saṃsārasya na setsyati /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "anantatā cādimato mokṣasya na bhaviṣyati // MandUpK_4.30 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ādāvante ca yan nāsti vartamāne 'pi tat tathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vitathaiḥ sadṛśāḥ santo 'vitathā iva lakṣitāḥ // MandUpK_4.31 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saprayojanatā teṣāṃ svapne vipratipadyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasmād ādyantavattvena mithyaiva khalu te smṛtāḥ // MandUpK_4.32 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarve dharmā mṛṣā svapne kāyasyāntanidarśanāt /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃvṛtte 'smin pradeśe vai bhūtānāṃ darśanaṃ kutaḥ // MandUpK_4.33 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na yuktaṃ darśanaṃ gatvā kālasyāniyamād gatau /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pratibuddhaś ca vai sarvas tasmin deśe na vidyate // MandUpK_4.34 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mitrādyaiḥ saha saṃmantrya saṃbuddhau na prapadyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gṛhītaṃ cāpi yat kiñcit pratibuddho na paśyati // MandUpK_4.35 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svapne cāvastukaḥ kāyaḥ pṛthag anyasya darśanāt /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yathā kāyas tathā sarvaṃ cittadṛśyam avastukam // MandUpK_4.36 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "grahaṇāj jāgaritavat taddhetuḥ svapna iṣyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tad dhetutvāt tu tasyaiva sajjāgaritam iṣyate // MandUpK_4.37 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "utpādasyāprasiddhatvād ajaṃ sarvam udāhṛtam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na ca bhūtād abhūtasya saṃbhavo 'sti kathañcana // MandUpK_4.38 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asaj jāgarite dṛṣṭvā svapne paśyati tanmayaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asatsvapne 'pi dṛṣṭvā ca pratibuddhau na paśyati // MandUpK_4.39 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nāsty asaddhetukam asat sadasaddhetukaṃ tathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sac ca saddhetukaṃ nāsti saddhetukam asat kutaḥ // MandUpK_4.40 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "viparyāsād yathā jāgrad acintyān bhūtavat spṛśet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tathā svapne viparyāsād dharmāṃs tatraiva paśyati // MandUpK_4.41 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "upalambhāt samācārād asti vastutvavādinām /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jātis tu deśitā buddhair ajātes trasatāṃ sadā // MandUpK_4.42 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajātes trasatāṃ teṣām upalambhād viyanti ye /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jātidoṣā na setsyanti doṣo 'py alpo bhaviṣyati // MandUpK_4.43 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "upalambhāt samācārān māyāhastī yathocyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "upalambhāt samācārād asti vastu tathocyate // MandUpK_4.44 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jātyābhāsaṃ calābhāsaṃ vastvābhāsaṃ tathaiva ca /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajācalam avastutvaṃ vijñānaṃ śāntam advayam // MandUpK_4.45 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "evaṃ na jāyate cittam evaṃ dharmā ajāḥ smṛtāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "evam eva vijānanto na patanti viparyaye // MandUpK_4.46 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ṛjuvakrādikābhāsam alātaspanditaṃ yathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "grahaṇagrāhakābhāsaṃ vijñānaspanditaṃ tathā // MandUpK_4.47 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aspandamānam alātam anābhāsam ajaṃ yathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aspandamānaṃ vijñānam anābhāsam ajaṃ tathā // MandUpK_4.48 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "alāte spandamāne vai nābhāsā anyato bhuvaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na tato 'nyatra nispandān nālātaṃ praviśanti te // MandUpK_4.49 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na nirgatā alātāt te dravyatvābhāvayogataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vijñāne 'pi tathaiva syur ābhāsasyāviśeṣataḥ // MandUpK_4.50 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vijñāne spandamāne vai nābhāsā anyatobhuvaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na tato 'nyatra nispandān na vijñānaṃ viśanti te // MandUpK_4.51 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na nirgatās te vijñānād dravyatvābhāvayogataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāryakāraṇatābhāvād yato 'cintyāḥ sadaiva te // MandUpK_4.52 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dravyaṃ dravyasya hetuḥ syād anyad anyasya caiva hi /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dravyatvam anyabhāvo vā dharmāṇāṃ nopapadyate // MandUpK_4.53 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "evaṃ na cittajā dharmāś cittaṃ vāpi na dharmajam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "evaṃ hetuphalājātiṃ praviśanti manīṣiṇaḥ // MandUpK_4.54 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yāvad dhetuphalāveśas tāvad dhetuphalodbhavaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kṣīṇe hetuphalāveśe nāsti hetuphalodbhavaḥ // MandUpK_4.55 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yāvad dhetuphalāveśaḥ saṃsāras tāvadāyataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kṣīṇe hetuphalāveśe saṃsāraṃ na prapadyate // MandUpK_4.56 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃvṛtyā jāyate sarvaṃ śāśvataṃ nāsti tena vai /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sadbhāvena hy ajaṃ sarvam ucchedas tena nāsti vai // MandUpK_4.57 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dharmā ya iti jāyante jāyante te na tattvataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "janma māyopamaṃ teṣāṃ sā ca māyā na vidyate // MandUpK_4.58 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yathā māyāmayād bījāj jāyate tanmayoṅkuraḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nāsau nityo na cocchedī tadvad dharmeṣu yojanā // MandUpK_4.59 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nājeṣu sarvadharmeṣu śāśvatāśāśvatābhidhā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yatra varṇā na vartante vivekas tatra nocyate // MandUpK_4.60 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yathā svapne dvayābhāsaṃ cittaṃ calati māyayā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tathā jāgrad dvayābhāsaṃ cittaṃ calati māyayā // MandUpK_4.61 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "advayaṃ ca dvayābhāsaṃ cittaṃ svapne na saṃśayaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "advayaṃ ca dvayābhāsaṃ tathā jāgran na saṃśayaḥ // MandUpK_4.62 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svapnadṛk pracaran svapne dikṣu vai daśasu sthitān /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aṇḍajān svedajān vāpi jīvān paśyati yān sadā // MandUpK_4.63 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svapnadṛkcittadṛśyās te na vidyante tataḥ pṛthak /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tathā tad dṛśyam evedaṃ svapnadṛkcittam iṣyate // MandUpK_4.64 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "carañ jāgarite jāgrad dikṣu vai daśasu sthitān /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aṇḍajān svedajān vāpi jīvān paśyati yān sadā // MandUpK_4.65 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jāgrac cittekṣaṇīyās te na vidyante tataḥ pṛthak /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tathā tad dṛśyam evedaṃ jāgrataś cittam iṣyate // MandUpK_4.66 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ubhe hy anyonyadṛśye te kiṃ tad astīti cocyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "lakṣaṇāśūnyam ubhayaṃ tan mate naiva gṛhyate // MandUpK_4.67 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yathā svapnamayo jīvo jāyate mriyate 'pi ca /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tathā jīvā amī sarve bhavanti na bhavanti ca // MandUpK_4.68 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yathā māyāmayo jīvo jāyate mriyate 'pi ca /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tathā jīvā amī sarve bhavanti na bhavanti ca // MandUpK_4.69 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yathā nirmitako jīvo jāyate mriyate 'pi ca /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tathā jīvā amī sarve bhavanti na bhavanti ca // MandUpK_4.70 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na kaścij jāyate jīvaḥ saṃbhavo 'sya na vidyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "etat tad uttamaṃ satyaṃ yatra kiñcin na jāyate // MandUpK_4.71 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "cittaspandikam evedaṃ grāhyagrāhakavad dvayam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "cittaṃ nirviṣayaṃ nityam asaṅgaṃ tena kīrtitam // MandUpK_4.72 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yo 'sti kalpitasaṃvṛtyā paramārthena nāsty asau /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "paratantrābhisaṃvṛtyā syān nāsti paramārthataḥ // MandUpK_4.73 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajaḥ kalpitasaṃvṛtyā paramārthena nāpy ajaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "paratantrādiniṣpattyā saṃvṛtyā jāyate tu saḥ // MandUpK_4.74 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "abhūtābhiniveśo 'sti dvayaṃ tatra na vidyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dvayābhāvaṃ sa buddhvaiva nirnimitto na jāyate // MandUpK_4.75 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yadā na labhate hetūn uttamādhamamadhyamān /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tadā na jāyate cittaṃ hetvabhāve phalaṃ kutaḥ // MandUpK_4.76 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "animittasya cittasya yānutpattiḥ samādvayā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajātasyaiva sarvasya cittadṛśyaṃ hi tadyataḥ // MandUpK_4.77 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "buddhvā nimittatāṃ satyāṃ hetuṃ pṛthag anāpnuvan /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vītaśokaṃ tathākāmam abhayaṃ padam aśnute // MandUpK_4.78 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "abhūtābhiniveśād dhi sadṛśe tat pravartate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vastvabhāvaṃ sa budhvaiva niḥsaṅgaṃ vinivartate // MandUpK_4.79 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nivṛttasyāpravṛttasya niścalā hi tathā sthitiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "viṣayaḥ sa hi buddhānāṃ tat sāmyam ajam advayam // MandUpK_4.80 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajam anidram asvapnaṃ prabhātaṃ bhavati svayam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sakṛdvibhāto hy evaiṣa dharma dhātusvabhāvataḥ // MandUpK_4.81 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sukham āvriyate nityaṃ duḥkhaṃ vivriyate sadā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yasya kasya ca dharmasya graheṇa bhagavān asau // MandUpK_4.82 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asti nāsty asti nāstīti nāsti nāstīti vā punaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "calasthirobhayābhāvair āvṛṇotye va bāliśaḥ // MandUpK_4.83 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "koṭhyaś catasra etās tu grahair yāsāṃ sadā vṛtaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhagavān ābhir aspṛṣṭo yena dṛṣṭaḥ sa sarvadṛk // MandUpK_4.84 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prāpya sarvajñatāṃ kṛtsnāṃ brāhmaṇyaṃ padam advayam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "anāpannādimadhyāntaṃ kim ataḥ param īhate // MandUpK_4.85 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "viprāṇāṃ vinayo hy eṣa śamaḥ prākṛta ucyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "damaḥ prakṛtidāntatvād evaṃ vidvāñ śamaṃ vrajet // MandUpK_4.86 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "savastu sopalambhaṃ ca dvayaṃ laukikam iṣyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "avastu sopalambhaṃ ca śuddhaṃ laukikam iṣyate // MandUpK_4.87 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "avastv anupalambhaṃ ca lokottaram iti smṛtam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jñānaṃ jñeyaṃ ca vijñeyaṃ sadā buddhaiḥ prakīrtitam // MandUpK_4.88 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jñāne ca trividhe jñeye krameṇa vidite svayam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvajñatā hi sarvatra bhavatīha mahādhiyaḥ // MandUpK_4.89 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "heyajñeyāpyapākyāni vijñeyāny agrayāṇataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "teṣām anyatra vijñeyād upalambhas triṣu smṛtaḥ // MandUpK_4.90 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prakṛtyākāśavaj jñeyāḥ sarve dharmā anādayaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vidyate na hi nānātvaṃ teṣāṃ kvacana kiñcanaḥ // MandUpK_4.91 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ādibuddhāḥ prakṛtyaiva sarve dharmāḥ suniścitāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yasyaivaṃ bhavati kṣāntiḥ so 'mṛtatvāya kalpate // MandUpK_4.92 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ādiśāntā hy anutpannāḥ prakṛtyaiva sunirvṛtāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarve dharmāḥ samābhinnā ajaṃ sāmyaṃ viśāradam // MandUpK_4.93 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vaiśāradyaṃ tu vai nāsti bhede vicaratāṃ sadā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhedanimnāḥ pṛthagvādās tasmāt te kṛpaṇāḥ smṛtāḥ // MandUpK_4.94 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aje sāmye tu ye kecid bhaviṣyanti suniścitāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "te hi loke mahājñānās tac ca loko na gāhate // MandUpK_4.95 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajeṣv ajam asaṃkrāntaṃ dharmeṣu jñānam iṣyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yato na kramate jñānam asaṅgaṃ tena kīrtitam // MandUpK_4.96 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aṇumātre 'pi vaidharmye jāyamāne 'vipaścitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asaṅgatā sadā nāsti kimutāvaraṇacyutiḥ // MandUpK_4.97 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "alabdhāvaraṇāḥ sarve dharmāḥ prakṛtinirmalāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ādau buddhās tathā muktā budhyanta iti nāyakāḥ // MandUpK_4.98 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kramate na hi buddhasya jñānaṃ dharmeṣu tāyinaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarve dharmās tathā jñānaṃ naitad buddhena bhāṣitam // MandUpK_4.99 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "durdarśam atigambhīram ajaṃ sāmyaṃ viśāradam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "buddhvā padam anānātvaṃ namaskurmo yathābalam // MandUpK_4.100 //"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

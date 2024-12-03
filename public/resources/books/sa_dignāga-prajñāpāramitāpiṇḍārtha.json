@@ -1,4 +1,991 @@
 {
-  "title": "sa_dignāga-prajñāpāramitāpiṇḍārtha",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Ācāryadignāgaviracitaḥ</p>\n\n<p>Prajñāpāramitāpiṇḍārthaḥ (Pppa)</p>\n\n<p>/ namaḥ prajñāpāramitāyai //</p>\n\n<lg>\n<l>prajñāparamitā jñānamadvayaṃ sā tathāgataḥ /</l>\n<l>sādhyā tādarthyayogena tācchabdyaṃ granthamārgayoḥ // Pppa_1 //</l>\n</lg>\n\n<lg>\n<l>āśrayaścādhikāraśca karma bhāvanayā saha /</l>\n<l>prabhedo liṅgamāpacca sānuśaṃsamudāhṛtam // Pppa_2 //</l>\n</lg>\n\n<lg>\n<l>śradvāvatāṃ pravṛtyaṅgaṃ śāstā parṣacca sākṣiṇī /</l>\n<l>deśakālau ca nirdiṣṭau svaprāmāṇyaprasiddhaye // Pppa_3 //</l>\n</lg>\n\n<lg>\n<l>saṅgītikartā loke hi deśakālopalakṣitam /</l>\n<l>sasākṣikaṃ vadan vaktā prāmāṇyamadhigacchati // Pppa_4 //</l>\n</lg>\n\n<lg>\n<l>sarvaṃ caitannipātātmaśravaṇādeḥ prakīrtanam /</l>\n<l>prāsaṅgikaṃ tu evārthā mukhyā dvātriṃśadeva hi // Pppa_5 //</l>\n</lg>\n\n<lg>\n<l>prabhedaḥ ṣoḍaśākāraḥ śūnyatāyā yathākramam /</l>\n<l>nirdiṣṭo 'ṣṭāsahastrayā sa vijñeyo 'nyāpadeśataḥ // Pppa_6 //</l>\n</lg>\n\n<lg>\n<l>itthamaṣṭasahasrīyamanyūnārthairyathoditaiḥ /</l>\n<l>granthasaṅkṣepa iṣṭo 'tra ta evārthā yathoditāḥ // Pppa_7 //</l>\n</lg>\n\n<lg>\n<l>bodhisattvaṃ na paśyāmītyuktavāṃstattvato muniḥ /</l>\n<l>bhoktādhyātmikavastūnāṃ kathitā tena śūnyatā // Pppa_8 //</l>\n</lg>\n\n<lg>\n<l>rūpaṃ rūpasvabhāvena śūnyamityuktitaḥ punaḥ /</l>\n<l>bāhyānyāyatanānīha bhojyāni pratiṣiddhavān // Pppa_9 //</l>\n</lg>\n\n<lg>\n<l>rūpādyabhāve taddehapratiṣṭhālakṣaṇakṣatiḥ /</l>\n<l>gatārthā yena taddṛṣṭaṃ tadādhyātmikamityasat // Pppa_10 //</l>\n</lg>\n\n<lg>\n<l>ādhyātmikānāṃ śūnyatve prakṛterapi śūnyatā /</l>\n<l>vijñānarūpaṃ gotraṃ hi kṛpāprajñātmakaṃ matam // Pppa_11 //</l>\n</lg>\n\n<lg>\n<l>notpanno na niruddho vā sattva ityādinā sphuṭam /</l>\n<l>sattvasaṃsārayoḥ kāmaṃ darśitā tena śūnyatā // Pppa_12 //</l>\n</lg>\n\n<lg>\n<l>buddhadharmāṃstathā bodhisattvadharmānna paśyati /</l>\n<l>ityādinā vinirdiṣṭā śūnyā daśabalādayaḥ // Pppa_13 //</l>\n</lg>\n\n<lg>\n<l>prati prati yato dharmāḥ kalpitā iti kīrtitam /</l>\n<l>tato na paramārtho 'sti dharmāṇāmiti coktavān // Pppa_14 //</l>\n</lg>\n\n<lg>\n<l>ātmādidṛṣṭerucchedaṃ mahatyā prakaroti yat /</l>\n<l>tataḥ pudgalanairātmyaṃ bhagavān sarvathā jagau // Pppa_15 //</l>\n</lg>\n\n<lg>\n<l>sarvadharmā anutpannā iti kīrtayatā tathā /</l>\n<l>kathitaṃ dharmanairātmyaṃ sarvathā tattvavedinā // Pppa_16 //</l>\n</lg>\n\n<lg>\n<l>sāvadyaniravadyānāmavṛddhiparihāṇitaḥ /</l>\n<l>saṃskṛtāsaṃskṛtānāṃ ca kuśalānāṃ nirākṛtiḥ // Pppa_17 //</l>\n</lg>\n\n<lg>\n<l>kuśalānāṃ ca śūnyatve tadgatā akṣatā tathā /</l>\n<l>kalpitaiveti bhedānāṃ śūnyatāyāḥ sa saṅgrahaḥ // Pppa_18 //</l>\n</lg>\n\n<lg>\n<l>daśabhiścittavikṣepaiścittaṃ vikṣiptamanyataḥ /</l>\n<l>yogyaṃ bhavati bālānāṃ nādvayajñānasādhane // Pppa_19 //</l>\n</lg>\n\n<lg>\n<l>tānapākartumanyonyaṃ vipakṣapratipakṣataḥ /</l>\n<l>prajñāpāramitāgranthaste ca sampiṇḍaya darśitāḥ // Pppa_20 //</l>\n</lg>\n\n<lg>\n<l>yadāha bodhisattvaḥ sannityabhāvaprakalpanā /</l>\n<l>vikṣepaṃ vikṣipan śāstā sāṃvṛtaskandhadarśanāt // Pppa_21 //</l>\n</lg>\n\n<lg>\n<l>etenāṣṭasahasryādāvādivākyātprabhṛtyapi /</l>\n<l>ā samāpterniṣeddhavyā vidhinābhāvakalpanā // Pppa_22 //</l>\n</lg>\n\n<lg>\n<l>hetuvākyāni naitāni kṛtyamātraṃ tu sūcyate /</l>\n<l>brahmajālādisūtreṣu jñeyāḥ sarvatra yuktayaḥ // Pppa_23 //</l>\n</lg>\n\n<lg>\n<l>bodhisattvaṃ na paśyāmi ahamityādi vistaraiḥ /</l>\n<l>nirākaroti bhagavān bhāvasaṅkalpavibhramam // Pppa_24 //</l>\n</lg>\n\n<lg>\n<l>yanna paśyati nāmāpi gocaraṃ[na] kriyāṃ tathā /</l>\n<l>skandhāṃśca sarvatastena bodhisattvaṃ na paśyati // Pppa_25 //</l>\n</lg>\n\n<lg>\n<l>kalpitasya niṣedho 'yamiti saṅgrahadarśanam /</l>\n<l>sarvo jñeyatayārūḍha ākāraḥ kalpito matau // Pppa_26 //</l>\n</lg>\n\n<lg>\n<l>prajñāpāramitāyāṃ hi trīn samāśritya deśanā /</l>\n<l>kalpitaṃ paratantraṃ ca pariniṣpannameva ca // Pppa_27 //</l>\n</lg>\n\n<lg>\n<l>nāstītyādipadaiḥ sarvaṃ kalpitaṃ vinivāryate /</l>\n<l>māyopamādidṛṣṭāntaiḥ paratantrasya deśanā // Pppa_28 //</l>\n</lg>\n\n<lg>\n<l>caturdhā vyavadānena pariniṣpannakīrtanam /</l>\n<l>prajñāpāramitāyāṃ hi nānyā buddhasya deśanā // Pppa_29 //</l>\n</lg>\n\n<lg>\n<l>daśasaṅkalpavikṣepavipakṣe deśanākrame /</l>\n<l>trayāṇāmiha boddhavyaṃ samastavyastakīrtanam // Pppa_30 //</l>\n</lg>\n\n<lg>\n<l>yathādivākye niṣpannaparatantraparikalpitaiḥ /</l>\n<l>abhāvakalpanārūpavikṣepavinivāraṇam // Pppa_31 //</l>\n</lg>\n\n<lg>\n<l>tena buddhaṃ tathā bodhiṃ na paśyāmīti vācakaiḥ /</l>\n<l>ā samāpteriha jñeyā kalpitānāṃ nirākṛtiḥ // Pppa_32 //</l>\n</lg>\n\n<lg>\n<l>śūnye rūpe svabhāvena samāropaḥ kva kena vā /</l>\n<l>ityanyeṣvapi vākyeṣu boddhavyaṃ tannivāraṇam // Pppa_33 //</l>\n</lg>\n\n<lg>\n<l>na hi śūnyatayā śūnyamiti vākyaṃ vinirdiśan /</l>\n<l>apavādavikalpānāṃ nirāsaṃ sarvathoktavān // Pppa_34 //</l>\n</lg>\n\n<lg>\n<l>māyopamastathā buddhaḥ sa svapnopama ityapi /</l>\n<l>ayameva kramo jñeyo vijñairvākyāntareṣvapi // Pppa_35 //</l>\n</lg>\n\n<lg>\n<l>sāmānādhikaraṇyena prokto māyopamo jinaḥ /</l>\n<l>māyopamādiśabdaiśca paratantro nigadyate // Pppa_36 //</l>\n</lg>\n\n<lg>\n<l>pṛthagjanānāṃ yajjñānaṃ prakṛtivyavadānikam /</l>\n<l>uktaṃ tadbuddhaśabdena bodhisattvo yathā jinaḥ // Pppa_37 //</l>\n</lg>\n\n<lg>\n<l>nijaṃ svarūpaṃ pracchādya tadavidyāvaśīkṛtam /</l>\n<l>māyāvadanyathā bhāti phalaṃ svapnam ivojhati // Pppa_38 //</l>\n</lg>\n\n<lg>\n<l>advayasyānyathākhyātau phale vāpyapavādinām /</l>\n<l>apavādavikalpānāmapavādo 'yamucyate // Pppa_39 //</l>\n</lg>\n\n<lg>\n<l>na rūpaṃ śūnyatā yuktā parasparavirodhataḥ /</l>\n<l>nīrūpā śūnyatā nāmarūpamākārasaṅgatam // Pppa_40 //</l>\n</lg>\n\n<lg>\n<l>ityekatvavikalpasya bāddhā(dhyā?)nānātvakalpanam(nā?) /</l>\n<l>ruṇāddhi nānyattadrūpaṃ śūnyatāyāṃ kathañcana // Pppa_41 //</l>\n</lg>\n\n<lg>\n<l>asadeva yataḥ khyāti tadavidyāvinirmitam /</l>\n<l>asatkhyāpanaśaktyaiva sāvidyeti nigadyate // Pppa_42 //</l>\n</lg>\n\n<lg>\n<l>idamevocyate rūpaṃ prajñāpāramiteti ca /</l>\n<l>advayaṃ dvayamevaitadvikalpadvayabādhanam // Pppa_43 //</l>\n</lg>\n\n<lg>\n<l>yuktiṃ cāha viśuddhatvāttathā cānupalambhataḥ /</l>\n<l>bhāvābhāvavirodhācca nānātvamapi paśyati // Pppa_44 //</l>\n</lg>\n\n<lg>\n<l>nāmamātramidaṃ rūpaṃ tattvato hyasvabhāvakam /</l>\n<l>tatsvabhāvavikalpānāmavakāśaṃ nirasyati // Pppa_45 //</l>\n</lg>\n\n<lg>\n<l>rūpaṃ rūpasvabhāvena śūnyaṃ yatprathamoditam /</l>\n<l>tatsvabhāvasamāropasaṅkalpapratiṣedhanam // Pppa_46 //</l>\n</lg>\n\n<lg>\n<l>notpādaṃ na nirodhaṃ ca dharmāṇāṃ paśyatīti yat /</l>\n<l>bhagavānāha, tadvayastā tadviśeṣasya kalpanā // Pppa_47 //</l>\n</lg>\n\n<lg>\n<l>kṛtrimaṃ nāma vācyāśca dharmāste kalpitā yataḥ /</l>\n<l>śabdārthayorna sambandhastena svābhāviko mataḥ // Pppa_48 //</l>\n</lg>\n\n<lg>\n<l>bāhyārthābhiniveśastu bhrāntyā bālasya jṛmbhate /</l>\n<l>tathaiva vyavahāro 'yaṃ tvatrārtho 'sti kaścana // Pppa_49 //</l>\n</lg>\n\n<lg>\n<l>atra tena yathā nāma kalpyate na tathāsti tat /</l>\n<l>vācyaṃ vastu tato niṣṭhā yathānāmārthakalpanā // Pppa_50 //</l>\n</lg>\n\n<lg>\n<l>prajñāpāramitā buddho bodhisattvo 'pi vā tathā /</l>\n<l>nāmamātramiti prāha vyasan satyārthakalpanam // Pppa_51 //</l>\n</lg>\n\n<lg>\n<l>śabdārthapratiṣedho 'yaṃ na vastu vinivāryate /</l>\n<l>evamanyeṣvapi jñeyo vākyeṣvarthaviniścayaḥ // Pppa_52 //</l>\n</lg>\n\n<lg>\n<l>naivopalabhate samyak sarvanāmāni tattvavit /</l>\n<l>yathārthatvena tenedaṃ na dhvanervinivāraṇam // Pppa_53 //</l>\n</lg>\n\n<lg>\n<l>subhūtistu dvayaṃ vyasan śabdaṃ śabdārthameva ca /</l>\n<l>bodhisattvasya no nāma paśyāmīti sa uktavān // Pppa_54 //</l>\n</lg>\n\n<lg>\n<l>prajñāpāramitāvākyaṃ nāsti yanneyatā gatam /</l>\n<l>ūhyāstu kevalaṃ te 'rthā[stadevaṃ]sūkṣmayā dhiyā // Pppa_55 //</l>\n</lg>\n\n<lg>\n<l>prakrāntārthatiraskāro yā cārthāntarakalpanā /</l>\n<l>prajñāpāramitāyāṃ hi proktā sā prativarṇikā // Pppa_56 //</l>\n</lg>\n\n<lg>\n<l>etāvānarthasaṅkṣepaḥ prajñāpāramitāśrayaḥ /</l>\n<l>āvartya(rta?)te sa evārthaḥ punararthāntarāśritaḥ // Pppa_57 //</l>\n</lg>\n\n<lg>\n<l>prajñāpāramitāṃ samyak saṅgṛhyāṣṭasahasrikām /</l>\n<l>yatpuṇyamāptaṃ tenāstu prajñāpāramito janaḥ // Pppa_58 //</l>\n</lg>\n\n<p>prajñāpāramitāpiṇḍārthasaṅgrahaḥ samāptaḥ /</p>\n\n<p>kṛtirācāryadignāgapādānām //</p>\n\n  </body>\n\n"
+  "file_title": "dignāga-prajñāpāramitāpiṇḍārtha",
+  "file_title_normal": "dignaga-prajnaparamitapindartha",
+  "metadata": {
+    "original_title": "Prajñāpāramitāpiṇḍārtha",
+    "author": "Dignāga",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Ācāryadignāgaviracitaḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Prajñāpāramitāpiṇḍārthaḥ (Pppa)"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "/ namaḥ prajñāpāramitāyai //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāparamitā jñānamadvayaṃ sā tathāgataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sādhyā tādarthyayogena tācchabdyaṃ granthamārgayoḥ // Pppa_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āśrayaścādhikāraśca karma bhāvanayā saha /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prabhedo liṅgamāpacca sānuśaṃsamudāhṛtam // Pppa_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śradvāvatāṃ pravṛtyaṅgaṃ śāstā parṣacca sākṣiṇī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "deśakālau ca nirdiṣṭau svaprāmāṇyaprasiddhaye // Pppa_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṅgītikartā loke hi deśakālopalakṣitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sasākṣikaṃ vadan vaktā prāmāṇyamadhigacchati // Pppa_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvaṃ caitannipātātmaśravaṇādeḥ prakīrtanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāsaṅgikaṃ tu evārthā mukhyā dvātriṃśadeva hi // Pppa_5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prabhedaḥ ṣoḍaśākāraḥ śūnyatāyā yathākramam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirdiṣṭo 'ṣṭāsahastrayā sa vijñeyo 'nyāpadeśataḥ // Pppa_6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "itthamaṣṭasahasrīyamanyūnārthairyathoditaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "granthasaṅkṣepa iṣṭo 'tra ta evārthā yathoditāḥ // Pppa_7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhisattvaṃ na paśyāmītyuktavāṃstattvato muniḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhoktādhyātmikavastūnāṃ kathitā tena śūnyatā // Pppa_8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpaṃ rūpasvabhāvena śūnyamityuktitaḥ punaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bāhyānyāyatanānīha bhojyāni pratiṣiddhavān // Pppa_9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpādyabhāve taddehapratiṣṭhālakṣaṇakṣatiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gatārthā yena taddṛṣṭaṃ tadādhyātmikamityasat // Pppa_10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādhyātmikānāṃ śūnyatve prakṛterapi śūnyatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñānarūpaṃ gotraṃ hi kṛpāprajñātmakaṃ matam // Pppa_11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "notpanno na niruddho vā sattva ityādinā sphuṭam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sattvasaṃsārayoḥ kāmaṃ darśitā tena śūnyatā // Pppa_12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhadharmāṃstathā bodhisattvadharmānna paśyati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ityādinā vinirdiṣṭā śūnyā daśabalādayaḥ // Pppa_13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prati prati yato dharmāḥ kalpitā iti kīrtitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tato na paramārtho 'sti dharmāṇāmiti coktavān // Pppa_14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmādidṛṣṭerucchedaṃ mahatyā prakaroti yat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tataḥ pudgalanairātmyaṃ bhagavān sarvathā jagau // Pppa_15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvadharmā anutpannā iti kīrtayatā tathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kathitaṃ dharmanairātmyaṃ sarvathā tattvavedinā // Pppa_16 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāvadyaniravadyānāmavṛddhiparihāṇitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃskṛtāsaṃskṛtānāṃ ca kuśalānāṃ nirākṛtiḥ // Pppa_17 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kuśalānāṃ ca śūnyatve tadgatā akṣatā tathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalpitaiveti bhedānāṃ śūnyatāyāḥ sa saṅgrahaḥ // Pppa_18 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "daśabhiścittavikṣepaiścittaṃ vikṣiptamanyataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yogyaṃ bhavati bālānāṃ nādvayajñānasādhane // Pppa_19 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tānapākartumanyonyaṃ vipakṣapratipakṣataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāpāramitāgranthaste ca sampiṇḍaya darśitāḥ // Pppa_20 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadāha bodhisattvaḥ sannityabhāvaprakalpanā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vikṣepaṃ vikṣipan śāstā sāṃvṛtaskandhadarśanāt // Pppa_21 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etenāṣṭasahasryādāvādivākyātprabhṛtyapi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ā samāpterniṣeddhavyā vidhinābhāvakalpanā // Pppa_22 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hetuvākyāni naitāni kṛtyamātraṃ tu sūcyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "brahmajālādisūtreṣu jñeyāḥ sarvatra yuktayaḥ // Pppa_23 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhisattvaṃ na paśyāmi ahamityādi vistaraiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirākaroti bhagavān bhāvasaṅkalpavibhramam // Pppa_24 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yanna paśyati nāmāpi gocaraṃ[na] kriyāṃ tathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "skandhāṃśca sarvatastena bodhisattvaṃ na paśyati // Pppa_25 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalpitasya niṣedho 'yamiti saṅgrahadarśanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvo jñeyatayārūḍha ākāraḥ kalpito matau // Pppa_26 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāpāramitāyāṃ hi trīn samāśritya deśanā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalpitaṃ paratantraṃ ca pariniṣpannameva ca // Pppa_27 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāstītyādipadaiḥ sarvaṃ kalpitaṃ vinivāryate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyopamādidṛṣṭāntaiḥ paratantrasya deśanā // Pppa_28 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturdhā vyavadānena pariniṣpannakīrtanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāpāramitāyāṃ hi nānyā buddhasya deśanā // Pppa_29 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "daśasaṅkalpavikṣepavipakṣe deśanākrame /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trayāṇāmiha boddhavyaṃ samastavyastakīrtanam // Pppa_30 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathādivākye niṣpannaparatantraparikalpitaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhāvakalpanārūpavikṣepavinivāraṇam // Pppa_31 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tena buddhaṃ tathā bodhiṃ na paśyāmīti vācakaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ā samāpteriha jñeyā kalpitānāṃ nirākṛtiḥ // Pppa_32 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnye rūpe svabhāvena samāropaḥ kva kena vā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ityanyeṣvapi vākyeṣu boddhavyaṃ tannivāraṇam // Pppa_33 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na hi śūnyatayā śūnyamiti vākyaṃ vinirdiśan /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apavādavikalpānāṃ nirāsaṃ sarvathoktavān // Pppa_34 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyopamastathā buddhaḥ sa svapnopama ityapi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ayameva kramo jñeyo vijñairvākyāntareṣvapi // Pppa_35 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāmānādhikaraṇyena prokto māyopamo jinaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyopamādiśabdaiśca paratantro nigadyate // Pppa_36 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pṛthagjanānāṃ yajjñānaṃ prakṛtivyavadānikam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uktaṃ tadbuddhaśabdena bodhisattvo yathā jinaḥ // Pppa_37 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nijaṃ svarūpaṃ pracchādya tadavidyāvaśīkṛtam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyāvadanyathā bhāti phalaṃ svapnam ivojhati // Pppa_38 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "advayasyānyathākhyātau phale vāpyapavādinām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apavādavikalpānāmapavādo 'yamucyate // Pppa_39 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na rūpaṃ śūnyatā yuktā parasparavirodhataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nīrūpā śūnyatā nāmarūpamākārasaṅgatam // Pppa_40 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ityekatvavikalpasya bāddhā(dhyā?)nānātvakalpanam(nā?) /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ruṇāddhi nānyattadrūpaṃ śūnyatāyāṃ kathañcana // Pppa_41 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asadeva yataḥ khyāti tadavidyāvinirmitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asatkhyāpanaśaktyaiva sāvidyeti nigadyate // Pppa_42 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "idamevocyate rūpaṃ prajñāpāramiteti ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "advayaṃ dvayamevaitadvikalpadvayabādhanam // Pppa_43 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yuktiṃ cāha viśuddhatvāttathā cānupalambhataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvābhāvavirodhācca nānātvamapi paśyati // Pppa_44 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāmamātramidaṃ rūpaṃ tattvato hyasvabhāvakam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatsvabhāvavikalpānāmavakāśaṃ nirasyati // Pppa_45 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpaṃ rūpasvabhāvena śūnyaṃ yatprathamoditam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatsvabhāvasamāropasaṅkalpapratiṣedhanam // Pppa_46 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "notpādaṃ na nirodhaṃ ca dharmāṇāṃ paśyatīti yat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhagavānāha, tadvayastā tadviśeṣasya kalpanā // Pppa_47 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtrimaṃ nāma vācyāśca dharmāste kalpitā yataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śabdārthayorna sambandhastena svābhāviko mataḥ // Pppa_48 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bāhyārthābhiniveśastu bhrāntyā bālasya jṛmbhate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathaiva vyavahāro 'yaṃ tvatrārtho 'sti kaścana // Pppa_49 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atra tena yathā nāma kalpyate na tathāsti tat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vācyaṃ vastu tato niṣṭhā yathānāmārthakalpanā // Pppa_50 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāpāramitā buddho bodhisattvo 'pi vā tathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāmamātramiti prāha vyasan satyārthakalpanam // Pppa_51 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śabdārthapratiṣedho 'yaṃ na vastu vinivāryate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evamanyeṣvapi jñeyo vākyeṣvarthaviniścayaḥ // Pppa_52 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "naivopalabhate samyak sarvanāmāni tattvavit /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathārthatvena tenedaṃ na dhvanervinivāraṇam // Pppa_53 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "subhūtistu dvayaṃ vyasan śabdaṃ śabdārthameva ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhisattvasya no nāma paśyāmīti sa uktavān // Pppa_54 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāpāramitāvākyaṃ nāsti yanneyatā gatam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ūhyāstu kevalaṃ te 'rthā[stadevaṃ]sūkṣmayā dhiyā // Pppa_55 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prakrāntārthatiraskāro yā cārthāntarakalpanā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāpāramitāyāṃ hi proktā sā prativarṇikā // Pppa_56 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etāvānarthasaṅkṣepaḥ prajñāpāramitāśrayaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āvartya(rta?)te sa evārthaḥ punararthāntarāśritaḥ // Pppa_57 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāpāramitāṃ samyak saṅgṛhyāṣṭasahasrikām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yatpuṇyamāptaṃ tenāstu prajñāpāramito janaḥ // Pppa_58 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "prajñāpāramitāpiṇḍārthasaṅgrahaḥ samāptaḥ /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kṛtirācāryadignāgapādānām //"
+    }
+  ]
 }

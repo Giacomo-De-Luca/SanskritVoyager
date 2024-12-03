@@ -1,4 +1,2987 @@
 {
-  "title": "sa_nāropa-sekoddeśa",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Sekoddeśaḥ</p>\n\n<p>om namaḥ kālacakrāya</p>\n\n<lg>\n<l>sucandra āha -</l>\n<l>sekaḥ saptavidhaḥ śāstastrividho 'nuttarastathā /</l>\n<l>laukikottarasiddhyarthaṃ saṃkṣepāt kathayasva me // Sekod_1 //</l>\n</lg>\n\n<lg>\n<l>bhagavānāha -</l>\n<l>śṛṇu sucandra sekārthaṃ saptadhā trividhaṃ param /</l>\n<l>nāḍīsaṃcāramāyāmamuddeśāt kathayāmi te // Sekoddeśa_2 //</l>\n</lg>\n\n<lg>\n<l>uddeśastrividhastantre nirdeśastrividho bhavet /</l>\n<l>pratyuddeśo mahoddeśaḥ pratinirdeśako 'paraḥ // Sekoddeśa_3 //</l>\n</lg>\n\n<lg>\n<l>uddeśa eva nirdeśastantrasaṃgītirucyate /</l>\n<l>pratyuddeśaśca nirdeśaḥ pañjikā padabhañjikā // Sekoddeśa_4 //</l>\n</lg>\n\n<lg>\n<l>mahoddeśaśca nirdeśaṣṭīkā sarvārthasūcikā /</l>\n<l>abhijñālābhibhiḥ sā tu kartavyā naiva paṇḍitaiḥ // Sekoddeśa_5 //</l>\n</lg>\n\n<lg>\n<l>evaṃ ṣaṭkoṭibhiḥ śuddhaṃ vajrayogaiścaturvidhaiḥ /</l>\n<l>catuḥsambodhibhiḥ skandhadhātvāyatanaṣaṭkulaiḥ // Sekoddeśa_6 //</l>\n</lg>\n\n<lg>\n<l>paṭalaiḥ pañcabhiḥ śuddhaṃ lokadhātvādikairmataiḥ /</l>\n<l>satyābhyāmādibuddhaṃ syāt kālacakrābhidhānakam // Sekoddeśa_7 //</l>\n</lg>\n\n<lg>\n<l>ādau saptābhiṣeko yo bālānāmavatāraṇam /</l>\n<l>trividho lokasaṃvṛtyā caturthaḥ paramārthataḥ // Sekoddeśa_8 //</l>\n</lg>\n\n<lg>\n<l>satyadvayena dharmāṇāṃ deśanā vajriṇo mama /</l>\n<l>lokasaṃvṛtisatyena satyena paramārthataḥ // Sekoddeśa_9 //</l>\n</lg>\n\n<lg>\n<l>udakaṃ mukuṭaḥ paṭṭo vajraghaṇṭā mahāvratam /</l>\n<l>nāmānujñāsamāyuktaḥ sekaḥ saptavidho nṛpa // Sekoddeśa_10 //</l>\n</lg>\n\n<lg>\n<l>kāyavākcittasaṃśuddhirabhiṣekadvayaṃ dvayam /</l>\n<l>anujñā jñānaśuddhiḥ syādanyā dhātvādiśuddhitaḥ // Sekoddeśa_11 //</l>\n</lg>\n\n<lg>\n<l>udakaṃ dhātusaṃśuddhirmaulī skandhaviśodhanam /</l>\n<l>paṭṭaḥ pāramitāśuddhirvajraghaṇṭā mahākṣaram // Sekoddeśa_12 //</l>\n</lg>\n\n<lg>\n<l>buddhabhāṣā na vicchinnā arkendvekatraśodhanam /</l>\n<l>viṣayendriyasaṃśuddhiḥ syādvajravratamacyutam // Sekoddeśa_13 //</l>\n</lg>\n\n<lg>\n<l>nāma maitryādiśuddhiḥ syādanujñā buddhaśodhanam /</l>\n<l>ete sapta sekā deyā vartayitvā tu maṇḍalam // Sekoddeśa_14 //</l>\n</lg>\n\n<lg>\n<l>kumbho guhyābhiṣekaśca prajñājñānābhidhānakaḥ /</l>\n<l>punareva mahāprajñā tasyā jñānābhidhānakaḥ // Sekoddeśa_15 //</l>\n</lg>\n\n<lg>\n<l>kṣaraḥ kṣarastataḥ spando niḥspandaśca tato 'paraḥ /</l>\n<l>kāyavākcittasaṃśuddhyā abhiṣekatrayaṃ kramāt // Sekoddeśa_16 //</l>\n</lg>\n\n<lg>\n<l>caturtho jñānasaṃśuddhiḥ kāyavākcittaśodhakaḥ /</l>\n<l>bālaḥ prauḍhastathā vṛddhaścaturthastu prajāpatiḥ // Sekoddeśa_17 //</l>\n</lg>\n\n<lg>\n<l>prajñāstanāṅgasaṃsparśād bodhicittacyutaṃ sukham /</l>\n<l>payodharābhiṣiktaḥ sa bālaḥ prāptaṃ yataḥ sukham // Sekoddeśa_18 //</l>\n</lg>\n\n<lg>\n<l>guhyāsphālāccirājjātaṃ bodhicittacyutaṃ sukham /</l>\n<l>prauḍho guhyābhiṣiktaḥ sa guhyāt prāptaṃ yataḥ sukham // Sekoddeśa_19 //</l>\n</lg>\n\n<lg>\n<l>guhyāsphālāccirājjātaṃ vajrāgre spandataḥ sukham /</l>\n<l>prajñājñānābhiṣiktaḥ sa vṛddhaḥ spandaṃ gato yataḥ // Sekoddeśa_20 //</l>\n</lg>\n\n<lg>\n<l>mahāmudrānurāgādyajjātaṃ niḥspandataḥ sukham /</l>\n<l>mahāprajñābhiṣiktaḥ sa yato niḥspandatāṃ gataḥ // Sekoddeśa_21 //</l>\n</lg>\n\n<lg>\n<l>prajāpatiḥ sa vijñeyo janakaḥ sarvatāyinām /</l>\n<l>vajrasattvo mahāsattvo bodhisattvo 'dvayo 'kṣaraḥ // Sekoddeśa_22 //</l>\n</lg>\n\n<lg>\n<l>asau samayasattvaḥ syādvajrayogaścaturvidhaḥ /</l>\n<l>kālacakra iha khyāto yogināṃ muktidāyakaḥ // Sekoddeśa_23 //</l>\n</lg>\n\n<lg>\n<l>asyaiva sādhanaṃ kuryāt pratibhāsairacintitaiḥ /</l>\n<l>dhūmādibhirnimittaistaiḥ prajñābimbairnabhaḥsamaiḥ // Sekoddeśa_24 //</l>\n</lg>\n\n<lg>\n<l>astināstivyatikrāntaiḥ pratyayārthaiḥ svacetasaḥ /</l>\n<l>paramāṇurajaḥsaṃdohaiḥ sarvataḥ parivarjitaiḥ // Sekoddeśa_25 //</l>\n</lg>\n\n<lg>\n<l>dhūmamarīcikhadyotadīpajvālendubhāskaraiḥ /</l>\n<l>tamaḥ kalā mahābindurviśvabimbaṃ prabhāsvaram // Sekoddeśa_26 //</l>\n</lg>\n\n<lg>\n<l>pihitāpihitanetrābhyāṃ śūnye yannānukalpitam /</l>\n<l>dṛśyate svapnavad bimbaṃ tad bimbaṃ bhāvayet sadā // Sekoddeśa_27 //</l>\n</lg>\n\n<lg>\n<l>abhāve bhāvanā bimbe yogināṃ sā na bhāvanā /</l>\n<l>bhāvo 'bhāvo na cittasya bimbe 'kalpitadarśanāt // Sekoddeśa_28 //</l>\n</lg>\n\n<lg>\n<l>pratisenāṃ yathādarśe kumārī paśyedavastujām /</l>\n<l>atītānāgataṃ dharmaṃ tattvayogyambare tathā // Sekoddeśa_29 //</l>\n</lg>\n\n<lg>\n<l>asyā bhāvo na bhāvaḥ syādvastuśūnyārthadarśanāt /</l>\n<l>vastuno 'bhāvato 'rtho 'sti māyāsvapnendrajālavat // Sekoddeśa_30 //</l>\n</lg>\n\n<lg>\n<l>asati dharmiṇi hyeṣa dharmotpādaḥ pradṛśyate /</l>\n<l>cintāmaṇirivānantasattvāśāparipūrakaḥ // Sekoddeśa_31 //</l>\n</lg>\n\n<lg>\n<l>adṛṣṭaṃ pratisenāyāṃ kumārī caurādi paśyati /</l>\n<l>tat prādeśikanetrābhyāṃ gatvā paśyanti sādhakāḥ // Sekoddeśa_32 //</l>\n</lg>\n\n<lg>\n<l>yadi paśyati sadrūpaṃ svamukhaṃ kiṃ na paśyati /</l>\n<l>yadi paśyatyasadrūpaṃ śaśaśṛṅgaṃ kathaṃ na ca // Sekoddeśa_33 //</l>\n</lg>\n\n<lg>\n<l>na paśyatyanyacakṣurbhyāṃ svacakṣurbhyāṃ na paśyati /</l>\n<l>dṛśyamānamajātaṃ tat kumāryā jātakaṃ yathā // Sekoddeśa_34 //</l>\n</lg>\n\n<lg>\n<l>dṛṣṭe bimbe tataḥ kuryāt prāṇāyāmaṃ nirantaram /</l>\n<l>urdhvādhastriṣu nāḍīṣu kāyavākcittarodhanāt // Sekoddeśa_35 //</l>\n</lg>\n\n<lg>\n<l>candrārkarāhuviṇmūtraśukramārgapravāhiṣu /</l>\n<l>toyāgniśūnyabhūvāyujñānadhātukajātiṣu // Sekoddeśa_36 //</l>\n</lg>\n\n<lg>\n<l>candrasūryataminyo yāḥ kāyavākcittanāḍikāḥ /</l>\n<l>viṇmūtraśukravāhinyaḥ prāṇe 'pāne krameṇa tāḥ // Sekoddeśa_37 //</l>\n</lg>\n\n<p><hi rend='it'>candraḥ kāya</hi> upāyasya prajñāyā vāgdivākaraḥ /\nprajñākāyastu viṇ<hi rend='it'>nāḍī virbhorvāṅmūtravā</hi>hinī // Sekoddeśa_38 //</p>\n\n<lg>\n<l>urdhvādhaścittanāḍyau dve taminīśukravāhinyau /</l>\n<l>taminī cittamupāyasya prajñāyāḥ śukravāhinī // Sekoddeśa_39 //</l>\n</lg>\n\n<lg>\n<l>ūrdhvādhaḥ ṣaṭkulaṃ hyetat kāyavākcittayogataḥ /</l>\n<l>prajñopāyāṅgabhāvena saṃsthitaṃ sarvadehinām // Sekoddeśa_40 //</l>\n</lg>\n\n<p>ariṣṭaṃ kāyavāṅnāḍyorūrdhvā<hi rend='it'>dho '</hi>dhikamārutaiḥ /\n<l>taminīśukravāhinyorutpattimaraṇasthitiḥ // Sekoddeśa_41 //</l></p>\n\n<lg>\n<l>utpāde mṛtyukāle ca maithune śukravāhinī /</l>\n<l>taminī ca vahatyūrdhve saṃkrāntau viṣuve raveḥ // Sekoddeśa_42 //</l>\n</lg>\n\n<p>lagnodayābhisaṃdhau ca viṣuvaṃ vahati madhye /\n<hi rend='it'>ṣaṭpañcāśat</hi>sapādañca śvāsocchvāsaṃ narādhipa // Sekoddeśa_43 //</p>\n\n<lg>\n<l>adhikān pañcasaptatyā ṣaṭśatāṃśca divāniśam /</l>\n<l>ekaviṃśatsahasrāṃśca ṣaṭśatairadhikāṃśca yān // Sekoddeśa_44 //</l>\n</lg>\n\n<lg>\n<l>vāmā ca dakṣiṇā nāḍī vahatyūnānanena tān /</l>\n<l>satripakṣitrivarṣāṇi śatavarṣe hi madhyamā // Sekoddeśa_45 //</l>\n</lg>\n\n<lg>\n<l>vāmā savyordhve candrārkau lalaneḍā piṅgalāparā /</l>\n<l>toyatejaḥsvabhāvinyau padmadhṛgratnadhṛṅmate // Sekoddeśa_46 //</l>\n</lg>\n\n<p>adho viṇmūtravāhinyau pṛthvīvāyusvarūpake /\nmadhyanāḍī ca vāmā ca<hi rend='it'>cakradhṛk khaḍgadhṛṅmate</hi> // Sekoddeśa_47 //</p>\n\n<p>ūrdhvādho madhyamā savyā rāhuśukrapravāhinī /\nśūnya<hi rend='it'>jñānasvabhā</hi>vinyau vajradhṛgvajradhṛṅmate // Sekoddeśa_48 //</p>\n\n<lg>\n<l>viṇnāḍī candramārgeṇa raviṇā mūtravāhinī /</l>\n<l>jātau mṛtyau viṣuve rāge rāhuṇā śukravāhinī // Sekoddeśa_49 //</l>\n</lg>\n\n<lg>\n<l>yā nābhyūrdhve 'vadhūtī sā suṣumnā tamovāhinī /</l>\n<l>yādhaḥ khagamukhā sā ca śaṅkhinī śukravāhinī // Sekoddeśa_50 //</l>\n</lg>\n\n<lg>\n<l>nābhyabje hṛdaye kaṇṭhe lalāṭoṣṇīṣapaṅkaje /</l>\n<l>bhūtoyāgnimarucchūnyaṃ saṃhāreṇa pravāhinī // Sekoddeśa_51 //</l>\n</lg>\n\n<p>nirgacchantī viśantī<hi rend='it'>sā</hi>sṛṣṭinā viśati kṣitau /\n<l>karṇikāt karṇikāmadhye 'vadhūtyā gatirāgatiḥ // Sekoddeśa_52 //</l></p>\n\n<lg>\n<l>nābhau guhye ca maṇyabje kāyavākcittavāhinī /</l>\n<l>nirgacchantī viśantī sā saṃhārasṛṣṭirūpiṇī // Sekoddeśa_53 //</l>\n</lg>\n\n<lg>\n<l>śaṅkhinī sarvajantūnāmapānānilavāhikā /</l>\n<l>eṣā strīṇāṃ sukhācchukraṃ ṛtau raktapravāhinī // Sekoddeśa_54 //</l>\n</lg>\n\n<p>prajñopāyāṅgabhāvena ūrdhve savyāvasavyayoḥ /\nadho viṇmūtravāhasya rajaḥśukra<hi rend='it'>pravāhayoḥ</hi> // Sekoddeśa_55 //</p>\n\n<p>caṇḍālī rajaso vāhāt khagamukhā śukravāhataḥ /\nūdhve ṛtau smṛ<hi rend='it'>tā strīṇāṃ ḍombī puṃ</hi>so 'vadhūtikā // Sekoddeśa_56 //</p>\n\n<p>vijñānādyaṃ sadā vāme nāḍyāṃ maṇḍala<hi rend='it'>pañcakam /\nbhūmyādi</hi>dakṣiṇe nāḍyāṃ madhye vahati ṣaṣṭhamam // Sekoddeśa_57 //</p>\n\n<lg>\n<l>nābhipadmadale ṣaṣṭi maṇḍalāni yathākramam /</l>\n<l>vāme ca dakṣiṇe lagne meṣādye vṛṣabhādike // Sekoddeśa_58 //</l>\n</lg>\n\n<p>mūle v<hi rend='it'>āme tataḥ savya ūrdhve</hi>madhye <hi rend='it'>'</hi>nilaḥ kramāt /\n<l>ekaikamaṇḍalaṃ daṇḍādbhūmyādyaṃ nāsarandhrayoḥ // Sekoddeśa_59 //</l></p>\n\n<lg>\n<l>nāḍikā vahati śvāsān saṣaṣṭitriśatān kramāt /</l>\n<l>aṣṭādaśaśataśvāsānnāḍyaḥ pañca vahanti tān // Sekoddeśa_60 //</l>\n</lg>\n\n<lg>\n<l>ṣaṣṭi nāḍyo divārātraṃ maṇḍalānīti dehataḥ /</l>\n<l>dalamadhye tataḥ pūrve savye vāme 'pare kramāt // Sekoddeśa_61 //</l>\n</lg>\n\n<lg>\n<l>ākāśādyaṃ sadā vāme bhūmyādyaṃ dakṣiṇe 'parāt /</l>\n<l>vijñānādibhavo vāme saṃhāraḥ kṣmādi dakṣiṇe // Sekoddeśa_62 //</l>\n</lg>\n\n<lg>\n<l>apare pūrve dharā vāyuḥ prajñopāyaḥ parasparam /</l>\n<l>aṅguṣṭhānāmikādvābhyāṃ yato vaktre 'bhiṣiñcanam // Sekoddeśa_63 //</l>\n</lg>\n\n<lg>\n<l>savye vāme havistoyaṃ prajñopāyaḥ parasparam /</l>\n<l>madhyamātarjanīdvābhyāṃ yataḥ khaḍgo bhaviṣyati // Sekoddeśa_64 //</l>\n</lg>\n\n<lg>\n<l>ardhacandrākṛtirmudrā daṃṣṭrā kartī kanīyasī /</l>\n<l>śūnyamakṣaramūrdhvādhaḥ prajñopāyaḥ parasparam // Sekoddeśa_65 //</l>\n</lg>\n\n<lg>\n<l>daśamaṇḍalasaṃyoge aṅgulīnāṃ parasparam /</l>\n<l>karatale puṭite mūrdhni ekaśūkaṃ sakartikam // Sekoddeśa_66 //</l>\n</lg>\n\n<lg>\n<l>viṣuvattanmadhye nāḍyāṃ sṛṣṭisaṃhārakārakam /</l>\n<l>skandhadhātutrivajrāṇāmekatvaṃ madhyamāgatau // Sekoddeśa_67 //</l>\n</lg>\n\n<lg>\n<l>candrārkanāḍikāruddhe ruddhā viṇmūtranāḍikāḥ /</l>\n<l>rāhunāḍīvi(ni)ruddhe syādruddhādhaḥ śukravāhinī // Sekoddeśa_68 //</l>\n</lg>\n\n<lg>\n<l>mukte muktā bhavantyetāḥ sṛṣṭisaṃhārakārikāḥ /</l>\n<l>saṃcāra eṣa nāḍīnāṃ prāṇāpānatrimārgataḥ // Sekoddeśa_69 //</l>\n</lg>\n\n<p>vāmāyāṃ dakṣiṇāyāṃ vā pravahatyadhiko <hi rend='it'>'</hi>nilaḥ /\nekarātraṃ tathā pañca trivarṣairmara<hi rend='it'>ṇaṃ</hi>tataḥ // Sekoddeśa_70 //</p>\n\n<lg>\n<l>pañca diktithayo viṃśati tattvānyekottaraṃ kramāt /</l>\n<l>trayastriṃśaddinārohaḥ ariṣṭaṃ dakṣiṇe ravau // Sekoddeśa_71 //</l>\n</lg>\n\n<lg>\n<l>tridvyekasamakairmāsaiḥ ṣaṭtriyugmendubhirdinaiḥ /</l>\n<l>tithidikpañcaguṇadvyekairāyurgacchati dehinām // Sekoddeśa_72 //</l>\n</lg>\n\n<p>mūlādekottareṇa syādvāme candrasya rohaṇam /\n<hi rend='it'>dinairmāsairdinairmāsais</hi>tridināni dvimāsakau // Sekoddeśa_73 //</p>\n\n<lg>\n<l>dine 'riṣṭaṃ śubhe māse vṛddhihānistatastayoḥ /</l>\n<l>madhyamārohaṇaṃ mṛtyoḥ śatābdaparipūrṇataḥ // Sekoddeśa_74 //</l>\n</lg>\n\n<lg>\n<l>samaviṣamadinaistasya janmajāto 'tha maṇḍalaiḥ /</l>\n<l>rohaṇaṃ savyavāme ca pakṣadvayavināśanāt // Sekoddeśa_75 //</l>\n</lg>\n\n<p>anyathā maraṇaṃ na syā<hi rend='it'>t pakṣadvayasya</hi>saṃsthiteḥ /\nsavyāvasavyasaṃcārā<hi rend='it'>ta</hi> pañcamaṇḍalavāhataḥ // Sekoddeśa_76 //</p>\n\n<p>ariṣṭalakṣaṇaṃ jñātvā prāṇaṃ bindau niveśayet /\navadhūtīpadamāśritya<hi rend='it'>bhāvayet</hi>paramākṣaram // Sekoddeśa_77 //</p>\n\n<lg>\n<l>vajrotthānaṃ sadā kuryāccandrārkagatibhañjanāt /</l>\n<l>anyathā nāvadhūtyaṅge viśati prāṇamārutaḥ // Sekoddeśa_78 //</l>\n</lg>\n\n<lg>\n<l>apāno 'dhaśca śaṅkhinyāṃ maraṇaṃ tadaveśataḥ /</l>\n<l>ariṣṭavañcanaṃ hyetadānandairyogināṃ bhavet // Sekoddeśa_79 //</l>\n</lg>\n\n<lg>\n<l>śukrāgamanamānandamuṣṇīṣādūrṇṇāpaṅkaje /</l>\n<l>kaṇṭhe hṛdi paramānandaṃ viramānandaṃ tato bhavet // Sekoddeśa_80 //</l>\n</lg>\n\n<lg>\n<l>vividhaṃ ramaṇaṃ nābhau guhyapadme yadāgatam /</l>\n<l>guhyādvajramaṇiṃ yāvat sahajānandamacyutam // Sekoddeśa_81 //</l>\n</lg>\n\n<lg>\n<l>apratiṣṭhitanirvāṇaṃ mahārāgo 'kṣaraḥ prabhuḥ /</l>\n<l>virāgādyaccyutaṃ saukhyaṃ tannirvāṇaṃ pratiṣṭhitam // Sekoddeśa_82 //</l>\n</lg>\n\n<lg>\n<l>śukrendūdaya uṣṇīṣe pūrṇā guhye saroruhe /</l>\n<l>kalā ṣoḍaśamā yā sā maṇipadme vajramūrdhagā // Sekoddeśa_83 //</l>\n</lg>\n\n<lg>\n<l>tadūrdhvaṃ cyutikālaḥ syāt kṛṣṇapratipadāgame /</l>\n<l>ravistūrṇāpadaṃ yāti amāvasyāṃ virāgataḥ // Sekoddeśa_84 //</l>\n</lg>\n\n<lg>\n<l>kalā ṣoḍaśamā tasya uṣṇīṣakamale gatā /</l>\n<l>naṣṭacandra ihākhyāto viraktī rāgasaukhyataḥ // Sekoddeśa_85 //</l>\n</lg>\n\n<lg>\n<l>adhaścandrāmṛtaṃ yāti maraṇe sarvadehinām /</l>\n<l>ūrdhve sūryarajo rāhuvijñānaṃ bhāvalakṣaṇe // Sekoddeśa_86 //</l>\n</lg>\n\n<lg>\n<l>ataścandrāmṛtasyordhve kartavyaṃ gamanaṃ nṛpa /</l>\n<l>adho 'rkarajaso rāhuvijñānasyākṣare sukhe // Sekoddeśa_87 //</l>\n</lg>\n\n<lg>\n<l>ūrṇṇābje sarvabuddhānāṃ candrāmṛtasya pūrṇimā /</l>\n<l>amārkarajaso guhye kaloṣṇīṣe maṇau tayoḥ // Sekoddeśa_88 //</l>\n</lg>\n\n<lg>\n<l>iti vajrapadaṃ śāsturviparītaṃ sarvadehinām /</l>\n<l>apratiṣṭhitanirvāṇādviparītaṃ yānti dhātavaḥ // Sekoddeśa_89 //</l>\n</lg>\n\n<p>maṇau cittaṃ<hi rend='it'>ca</hi>guhye vākkāyo nābhau mahāsukhāt /\n<l>dharmasambhoganirmāṇāḥ śuddhakāyāt spharantyamī // Sekoddeśa_90 //</l></p>\n\n<p>adhopāyasya rājendra prajñā<hi rend='it'>yā</hi>ūrdhvato bhavet /\n<l>lalāṭe kāyavajramasyā grīvahṛnnābhipaṅkaje // Sekoddeśa_91 //</l></p>\n\n<lg>\n<l>vākcittajñānavajrāṇi nirmāṇādyāt spharantyamī /</l>\n<l>spharaṇaṃ skandhadhātūnāṃ nirāvaraṇataḥ sukhāt // Sekoddeśa_92 //</l>\n</lg>\n\n<lg>\n<l>karmamudrāsamāpattyā jñānamudrāvalambanaiḥ /</l>\n<l>mahāmudraikayogena vṛddhiṃ yāti tadakṣaram // Sekoddeśa_93 //</l>\n</lg>\n\n<lg>\n<l>vṛddhasya na ca syāt vṛddhiḥ kṣīṇasya kṣīṇatā na ca /</l>\n<l>astaṃgatasya nāstamanamuditasyodayaṃ na hi // Sekoddeśa_94 //</l>\n</lg>\n\n<lg>\n<l>na prakāśaḥ prakāśasya pihitaṃ pihitasya na /</l>\n<l>jātasyaiva na janma syān mṛtasya maraṇaṃ na ca // Sekoddeśa_95 //</l>\n</lg>\n\n<lg>\n<l>muktasya na ca muktiḥ syādasthitasya ca cāsthitiḥ /</l>\n<l>abhāvo na hyabhāvasya bhāvo bhāvasya naiva ca // Sekoddeśa_96 //</l>\n</lg>\n\n<lg>\n<l>kṣarasyāpi kṣaro na syādakṣarasya na cākṣaraḥ /</l>\n<l>svabhāvābhāvadharmāṇāṃ māyotpādaḥ kṣayastathā // Sekoddeśa_97 //</l>\n</lg>\n\n<lg>\n<l>na kṣayaṃ yānti bhūtāni na jāyante svabhāvataḥ /</l>\n<l>niḥsvabhāvamidaṃ viśvaṃ bhāvābhāvaikalakṣaṇam // Sekoddeśa_98 //</l>\n</lg>\n\n<lg>\n<l>svaprajñāliṅgitaṃ cittaṃ padme vajramaṇau gatam /</l>\n<l>tatra candragataspando niḥspandākṣarabhāvanā // Sekoddeśa_99 //</l>\n</lg>\n\n<lg>\n<l>kāyavākcittanāḍīṣu kāyavākcittabhāvanā /</l>\n<l>samāhārastrivajrāṇāṃ śaṅkhinyāṃ jñānabhāvanā // Sekoddeśa_100 //</l>\n</lg>\n\n<lg>\n<l>prajñārāgadrutānāṃ ca bindūnāṃ śirasaḥ kramāt /</l>\n<l>pūrṇāpadaṃ praviṣṭānāṃ bandhanaṃ paramārthataḥ // Sekoddeśa_101 //</l>\n</lg>\n\n<p>yathoditaḥ kramāccandraḥ kalābhiryāti pūrṇatām /\nvāsanāharaṇaṃ pūrṇā<hi rend='it'>na</hi>candracchedo na pūraṇam // Sekoddeśa_102 //</p>\n\n<p>tathoditaṃ kramājjñānaṃ bhūmibhiryāti pūrṇatām /\nkleśādyāharaṇaṃ pūrṇā<hi rend='it'>na</hi>jñānacchedo na pūraṇam // Sekoddeśa_103 //</p>\n\n<lg>\n<l>yathā madhyaśaśāṅkena pūrṇāyāṃ na sthiraḥ śaśī /</l>\n<l>saṃsāravāsanāṅkena tathā cittaṃ sukhe 'kṣare // Sekoddeśa_104 //</l>\n</lg>\n\n<p>utpattiḥ pralayaḥ pakṣaḥ<hi rend='it'>śuklaḥ</hi>kṛṣṇaḥ pratiṣṭhitaḥ /\n<l>tayormadhye tu yā pūrṇā sā pūrṇā na pratiṣṭhitā // Sekoddeśa_105 //</l></p>\n\n<lg>\n<l>ekakṣaṇābhisambuddhaṃ pūrṇāyāṃ niścalaṃ bhavet /</l>\n<l>yadā vajramaṇau citaṃ tat sarvakṣaṇapūrakam // Sekoddeśa_106 //</l>\n</lg>\n\n<lg>\n<l>na sthitiḥ śuklapakṣe 'sya gamanaṃ nāsite kvacit /</l>\n<l>pakṣadvayasya madhyasthaṃ pūrṇāyāṃ gatamadvayam // Sekoddeśa_107 //</l>\n</lg>\n\n<p>uṣṇīṣādudayaṃ tasya pūrṇā vajramaṇau bhavet /\nsavirāgāt kalāhāni<hi rend='it'>r</hi>vajrāddhāneḥ prapūrṇatā // Sekoddeśa_108 //</p>\n\n<lg>\n<l>uṣṇīse hyudayo bhūyaḥ pūrṇā vajramaṇau punaḥ /</l>\n<l>savirāgāt kalāhānirjñānahānirna dehinām // Sekoddeśa_109 //</l>\n</lg>\n\n<p>mahāsukhasvabhāvo <hi rend='it'>'</hi>sya pūrṇāśabdena gīyate /\n<l>anyabhāvāntaraṃ sarvaṃ sṛṣṭisaṃhārahetukam // Sekoddeśa_110 //</l></p>\n\n<lg>\n<l>bhavādgacchati nirvāṇaṃ tasmādeti punarbhavam /</l>\n<l>svapakṣābhyāṃ yathāṃ candro 'yanābhyāṃ bhāskaro yathā // Sekoddeśa_111 //</l>\n</lg>\n\n<lg>\n<l>pūrṇāyāṃ niścalasyāsya bhūmibhiḥ paripūrṇatā /</l>\n<l>dvyayutadvyaṣṭaśataiḥ śvāsairakṣarakṣaṇabhakṣitaiḥ // Sekoddeśa_112 //</l>\n</lg>\n\n<lg>\n<l>pakṣadvayaṃ vyatikramya bhūmibhiḥ paripūritam /</l>\n<l>dvādaśākārasatyārthaṃ ṣoḍaśākāramakṣaram // Sekoddeśa_113 //</l>\n</lg>\n\n<lg>\n<l>bhūmibhirdvādaśākāraṃ pūritaṃ paramādvayam /</l>\n<l>kalābhiḥ pūritaṃ cittaṃ ṣoḍaśākāramakṣaram // Sekoddeśa_114 //</l>\n</lg>\n\n<lg>\n<l>ekārthamadvayaṃ dharmaṃ paramārthamavinaśvaram /</l>\n<l>pūrṇāvasthāṃ gataṃ cittaṃ āsamantāt prapūritam // Sekoddeśa_115 //</l>\n</lg>\n\n<p>virāgādimahārāgaṃ vajrānaṅgaṃ mahākṣaram /\nparipūrṇamasaṃkliṣṭaṃ pakṣadvaya<hi rend='it'>sya</hi>vāsanaiḥ // Sekoddeśa_116 //</p>\n\n<p>yathā nadyudakaṃ viṣṭaṃ samudre tatpayaḥsamam /\ntathā bhāvasamūho 'yamakṣare tatsamo <hi rend='it'>'</hi>kṣaraḥ // Sekoddeśa_117 //</p>\n\n<p>yathā dhātusamūho <hi rend='it'>'</hi>yaṃ rasatvaṃ yāti bhakṣitaḥ /\n<l>bījairbījasva bhāvaṃ ca phalakāle mānavarjitam // Sekoddeśa_118 //</l></p>\n\n<lg>\n<l>evaṃ bhāvasamūho 'pi paramākṣarabhakṣitaḥ /</l>\n<l>paramākṣaratāṃ yāti sarvākārasvarūpadhṛk // Sekoddeśa_119 //</l>\n</lg>\n\n<lg>\n<l>na daṃśe vedanāṃ vetti nānyatra cāpi daṣṭakaḥ /</l>\n<l>na viṣayānindriyadvāraiḥ pūrṇāvasthāṃ viṣe gate // Sekoddeśa_120 //</l>\n</lg>\n\n<lg>\n<l>evaṃ na ca maṇau yogī nānyatra vetti satsukham /</l>\n<l>na viṣayānindriyadvāraiścitte pūrṇakalāṃ gate // Sekoddeśa_121 //</l>\n</lg>\n\n<lg>\n<l>yathā lohaikadeśe 'pi saṃsthito hi mahārasaḥ /</l>\n<l>lohaṃ tīvrāgnisaṃtaptaṃ vedhayedāsamantataḥ // Sekoddeśa_122 //</l>\n</lg>\n\n<lg>\n<l>tethaivaikapradeśe 'pi saṃsthitaṃ sukhamakṣaram /</l>\n<l>cittaṃ kāmāgnisaṃtaptaṃ vedhayedāsamantataḥ // Sekoddeśa_123 //</l>\n</lg>\n\n<lg>\n<l>yathā ca viddhalohānāṃ naiva malo bhavet kvacit /</l>\n<l>tathā ca viddhacittānāṃ na vāsanā bhavet kvacit // Sekoddeśa_124 //</l>\n</lg>\n\n<lg>\n<l>hematvaṃ hi gataṃ lohamagninā nirmalaṃ bhavet /</l>\n<l>bhūyo bhūyastathā cittaṃ nirmalaṃ rāgavahninā // Sekoddeśa_125 //</l>\n</lg>\n\n<lg>\n<l>yathā mahāmaṇisparśādyāti śīlā pradīptatām /</l>\n<l>tathākṣarasukhasparśāt sukhatāṃ cittameti vai // Sekoddeśa_126 //</l>\n</lg>\n\n<lg>\n<l>kimatra bahunoktena lokasaṃvṛtisatyataḥ /</l>\n<l>avitarkyo rasasadbhāvo lohasyāvedhanaṃ prati // Sekoddeśa_127 //</l>\n</lg>\n\n<lg>\n<l>vitarkyo jñānasadbhāvaḥ kiṃ punaḥ paramārthataḥ /</l>\n<l>malāgantukaliptasya cittasyāvedhanaṃ prati // Sekoddeśa_128 //</l>\n</lg>\n\n<lg>\n<l>nāgantuko malaścitte na cittāccirakālikaḥ /</l>\n<l>na cittena vinā jāto na citte saṃsthito 'vyayaḥ // Sekoddeśa_129 //</l>\n</lg>\n\n<lg>\n<l>yadyāgantuka eva syāccittaṃ prāgamalaṃ tadā /</l>\n<l>cirakālī yadā cittāttasyaiva sambhavaḥ kutaḥ // Sekoddeśa_130 //</l>\n</lg>\n\n<lg>\n<l>yadi cittaṃ vinā jātastadā khakusumaṃ yathā /</l>\n<l>yadi sthitaḥ sadā citte na naśyet sarvatastadā // Sekoddeśa_131 //</l>\n</lg>\n\n<lg>\n<l>tāmrasya kālimā yadvadrasayogena naśyati /</l>\n<l>na tasya sattvatā naśyennirmalatvena yā sthitā // Sekoddeśa_132 //</l>\n</lg>\n\n<lg>\n<l>tadvaccittamalaḥ śūnyatāyogena praṇaśyati /</l>\n<l>na tasya jñānatā naśyennirmalatvena yā sthitā // Sekoddeśa_133 //</l>\n</lg>\n\n<lg>\n<l>rasaviddho yathā loho na punarlohatāṃ vrajet /</l>\n<l>sukhaviddhaṃ tathā cittaṃ na punarduḥkhatāṃ vrajet // Sekoddeśa_134 //</l>\n</lg>\n\n<lg>\n<l>na virāgāt paraṃ pāpaṃ na puṇyaṃ sukhataḥ param /</l>\n<l>ato 'kṣarasukhe cittaṃ veśanīyaṃ sadā nṛpa // Sekoddeśa_135 //</l>\n</lg>\n\n<lg>\n<l>vaktuṃ na śakyate saukhyaṃ kumāryā surataṃ vinā /</l>\n<l>yauvane surataṃ prāpya svato vetti mahāsukham // Sekoddeśa_136 //</l>\n</lg>\n\n<lg>\n<l>evaṃ na śakyate vaktuṃ samādhirahitaiḥ sukham /</l>\n<l>samādhāvakṣaraṃ prāpya svato vindanti yoginaḥ // Sekoddeśa_137 //</l>\n</lg>\n\n<lg>\n<l>akṣarajasukhajñāne sarvajñairapi śaṃkyate /</l>\n<l>tathā kvacinna kartavyo virāgo manaso 'sukhāt // Sekoddeśa_138 //</l>\n</lg>\n\n<lg>\n<l>cyutervirāgasaṃbhūtirvirāgādduḥkhasaṃbhavaḥ /</l>\n<l>duḥkhāddhātukṣayaḥ puṃsāṃ kṣayān mṛtyuriti smṛtaḥ // Sekoddeśa_139 //</l>\n</lg>\n\n<lg>\n<l>mṛtyoḥ punarbhavasteṣāṃ bhavān mṛtyuścyutiḥ punaḥ /</l>\n<l>evaṃ virāgasaṃbhūteḥ sattvānāṃ nānyathā bhavaḥ // Sekoddeśa_140 //</l>\n</lg>\n\n<lg>\n<l>tasmāt sarvaprayatnena cyutirāgaṃ vivarjayet /</l>\n<l>yenākṣarasukhaṃ yāti yogī saṃsārabandhanāt // Sekoddeśa_141 //</l>\n</lg>\n\n<lg>\n<l>kāmuko 'pi virāgānna kāmaśāstraṃ samīhate /</l>\n<l>mayokte kiṃ punastantre yogī duḥkhaṃ samīhate // Sekoddeśa_142 //</l>\n</lg>\n\n<lg>\n<l>śukrākṣarasvabhāvena sādhayet paramākṣaram /</l>\n<l>ādhāre cyutimāpanne ādheyasya virāgatā // Sekoddeśa_143 //</l>\n</lg>\n\n<lg>\n<l>ādhārādheyasaṃbandho yāvannākṣaratāṃ vrajet /</l>\n<l>cittamakṣaratāprāptaṃ nādhārādheyalakṣaṇam // Sekoddeśa_144 //</l>\n</lg>\n\n<lg>\n<l>akṣarodbhavakāyasya ūrṇṇācakragatasya tu /</l>\n<l>ālikālisamāyogo hūṃkāro neṣyate nṛpa // Sekoddeśa_145 //</l>\n</lg>\n\n<lg>\n<l>bimbaṃ śūnyodbhavaṃ hetuḥ phalamakṣarajaṃ sukham /</l>\n<l>phalena mudrito heturhetunā mudritaṃ phalam // Sekoddeśa_146 //</l>\n</lg>\n\n<lg>\n<l>śūnyatā bimbadhṛgghetuḥ karuṇākṣaradhṛk phalam /</l>\n<l>śūnyatākaruṇābhinnaṃ bodhicittaṃ tadacyutam // Sekoddeśa_147 //</l>\n</lg>\n\n<lg>\n<l>nirvāṇarahitaṃ bimbaṃ saṃsārātītamakṣaram /</l>\n<l>śāścatocchedanirmuttastatoryogo 'dvayo 'paraḥ // Sekoddeśa_148 //</l>\n</lg>\n\n<lg>\n<l>abhāvo nāsti bimbasya abhāvodbhūtalakṣaṇāt /</l>\n<l>bhāvo nāstyakṣarasyāpi bhāvasambhūtalakṣaṇāt // Sekoddeśa_149 //</l>\n</lg>\n\n<lg>\n<l>bhāvābhāvasamāyogo vajrayogo 'dvayo 'paraḥ /</l>\n<l>rūpārūpavinirmuktaḥ pratiseneva darpaṇe // Sekoddeśa_150 //</l>\n</lg>\n\n<lg>\n<l>bimbaṃ na bhavamāyāti nāpi nirvāṇamakṣaram /</l>\n<l>anyonyāliṅgitaṃ śāntaṃ napuṃsakapadaṃ param // Sekoddeśa_151 //</l>\n</lg>\n\n<lg>\n<l>prajñāhetorajātatvāt prajñāhetūdbhavaṃ phalam /</l>\n<l>prajñāhetorajātatvāt prajñājātaṃ na hetujam // Sekoddeśa_152 //</l>\n</lg>\n\n<lg>\n<l>ato na hetujaṃ jñānaṃ prajñājñānamanuttaram /</l>\n<l>phalena hetunānyonyaṃ na parasparamudraṇam // Sekoddeśa_153 //</l>\n</lg>\n\n<lg>\n<l>hetuḥ phalaṃ ca yat sarvaṃ tat pratītyasamudbhavam /</l>\n<l>anyonyamudritaṃ bimbaṃ notpannaṃ na ca nirvṛtam // Sekoddeśa_154 //</l>\n</lg>\n\n<lg>\n<l>prajñā cātyantanirvṛtā utpannaśca paro 'kṣaraḥ /</l>\n<l>hetuphalavinirmuktirna parasparamudraṇam // Sekoddeśa_155 //</l>\n</lg>\n\n<lg>\n<l>ajātasyāniruddhasya yajjñeyasyeha darśanam /</l>\n<l>tat svacittasya nānyasya bāhyajñeyavibhāgataḥ // Sekoddeśa_156 //</l>\n</lg>\n\n<lg>\n<l>ato na cātmanātmānaṃ mudrituṃ śakyate kvacit /</l>\n<l>kiṃ chinatti mahākhaḍga ātmānamātmadhārayā // Sekoddeśa_157 //</l>\n</lg>\n\n<lg>\n<l>bandhyāduhitṛsaṃgena svapne saukhyaṃ yathā bhavet /</l>\n<l>gaganodbhavabimbena sevitena tathātmanaḥ // Sekoddeśa_158 //</l>\n</lg>\n\n<lg>\n<l>na prajñā nāpyupāyo 'sau sahajaḥ prajñayā saha /</l>\n<l>āpūrṇaścaiva saukhyena sarvāvaraṇavarjitaḥ // Sekoddeśa_159 //</l>\n</lg>\n\n<lg>\n<l>ākāśavannirāvaraṇo viṣayendriyavarjitaḥ /</l>\n<l>sarvataḥ sarvabhūtastha acchedyo bhedavarjitaḥ // Sekoddeśa_160 //</l>\n</lg>\n\n<lg>\n<l>svayambhūrvajrasattvo 'sau mahārthaḥ paramākṣaraḥ /</l>\n<l>mahārāgo mahāsattvaḥ sarvasattvaratiṃkaraḥ // Sekoddeśa_161 //</l>\n</lg>\n\n<lg>\n<l>bodhisattvo mahādveṣaḥ kleśakṣayī mahāripuḥ /</l>\n<l>samayasattvo mahāmoho mūḍhadhīmohasūdanaḥ // Sekoddeśa_162 //</l>\n</lg>\n\n<lg>\n<l>vajrayogo mahākrodhaḥ kruddhamāramahāripuḥ /</l>\n<l>kālacakro mahālobhaḥ kṣaralobhaniṣūdanaḥ // Sekoddeśa_163 //</l>\n</lg>\n\n<lg>\n<l>vajramabhedyamityāha mahārthaṃ bhagavāniha /</l>\n<l>sattvaṃ tribhavasyaikatā taduktaṃ paramākṣaram // Sekoddeśa_164 //</l>\n</lg>\n\n<lg>\n<l>paramākṣarasukhāpūrṇo bhūmibhiḥ paripūritaḥ /</l>\n<l>mahārāgo mahāsattvaḥ sarvasattvaratiṃkaraḥ // Sekoddeśa_165 //</l>\n</lg>\n\n<lg>\n<l>bodhau vyavasthitaḥ sattvo bodhisattvastato 'calaḥ /</l>\n<l>kleśādidveṣasaṃghānāṃ mahādveṣo mahāripuḥ // Sekoddeśa_166 //</l>\n</lg>\n\n<lg>\n<l>samayaścandrāmṛtaṃ śukramacyutistasya bhakṣaṇam /</l>\n<l>samayasattvo 'nayā vṛttyā mūḍhadhīmohasūdanaḥ // Sekoddeśa_167 //</l>\n</lg>\n\n<lg>\n<l>ekatvaṃ sarvavajrāṇāṃ prajñākāyākṣaraiḥ saha /</l>\n<l>mahākrodho mahāśatrurmārāṇāṃ krodharūpiṇām // Sekoddeśa_168 //</l>\n</lg>\n\n<lg>\n<l>mahākṣarasukhopāyāt sattvārthaṃ na tyajet kvacit /</l>\n<l>sattvān moktuṃ mahālobhaḥ kṣaralobhaniṣūdanaḥ // Sekoddeśa_169 //</l>\n</lg>\n\n<lg>\n<l>ete hyuktāḥ ṣaḍākārā akṣarajñānavedanā /</l>\n<l>vijñānarūpasaṃskārasaṃjñāḥ skandhakulāni te // Sekoddeśa_170 //</l>\n</lg>\n\n<lg>\n<l>jñānāgnyambarapṛthivīvāyūdakā yathākramam /</l>\n<l>manaścakṣuḥśrutikāyanāsajihvāstathaiva ca // Sekoddeśa_171 //</l>\n</lg>\n\n<lg>\n<l>śabdarasadharmadhātukagandhaspraṣṭavyarūpiṇaḥ /</l>\n<l>krodharāṭ ṣaṇmukho bhīmaḥ ṣaṭkulaiḥ pariśodhitaḥ // Sekoddeśa_172 //</l>\n</lg>\n\n<lg>\n<l>kāyaguhyendriyacittaṃ trividhaṃ maṇḍalaṃ sadā /</l>\n<l>prajñopāyatrivajrāṇāṃ jāyate vajrasattvatā // Sekoddeśa_173 //</l>\n</lg>\n\n<lg>\n<l>idaṃ sekasya sādhanaṃ paramākṣarasādhanam /</l>\n<l>nāḍīkulasamāyuktamuddeśāccandra bhāṣitam // Sekoddeśa_174 //</l>\n</lg>\n\n<p><hi rend='it'>iti śrīsekoddeśaḥ samāptaḥ</hi></p>\n\n  </body>\n\n"
+  "file_title": "nāropa-sekoddeśa",
+  "file_title_normal": "naropa-sekoddesa",
+  "metadata": {
+    "original_title": "Sekoddeśa",
+    "author": "Nāropa",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Raniero Gnoli in: Orofino, Giacomella: Sekoddeśa : a critical edition of the Tibetan translations, with an appendix by Raniero Gnoli \"On the Sanskrit text\". Roma : Ist. Italiano per il Medio ed Estremo Oriente, 1994 (Serie orientale Roma, 72)"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Sekoddeśaḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "om namaḥ kālacakrāya"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sucandra āha -"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sekaḥ saptavidhaḥ śāstastrividho 'nuttarastathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "laukikottarasiddhyarthaṃ saṃkṣepāt kathayasva me // Sekod_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhagavānāha -"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śṛṇu sucandra sekārthaṃ saptadhā trividhaṃ param /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāḍīsaṃcāramāyāmamuddeśāt kathayāmi te // Sekoddeśa_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uddeśastrividhastantre nirdeśastrividho bhavet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyuddeśo mahoddeśaḥ pratinirdeśako 'paraḥ // Sekoddeśa_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uddeśa eva nirdeśastantrasaṃgītirucyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyuddeśaśca nirdeśaḥ pañjikā padabhañjikā // Sekoddeśa_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahoddeśaśca nirdeśaṣṭīkā sarvārthasūcikā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhijñālābhibhiḥ sā tu kartavyā naiva paṇḍitaiḥ // Sekoddeśa_5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ ṣaṭkoṭibhiḥ śuddhaṃ vajrayogaiścaturvidhaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "catuḥsambodhibhiḥ skandhadhātvāyatanaṣaṭkulaiḥ // Sekoddeśa_6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paṭalaiḥ pañcabhiḥ śuddhaṃ lokadhātvādikairmataiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "satyābhyāmādibuddhaṃ syāt kālacakrābhidhānakam // Sekoddeśa_7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādau saptābhiṣeko yo bālānāmavatāraṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trividho lokasaṃvṛtyā caturthaḥ paramārthataḥ // Sekoddeśa_8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "satyadvayena dharmāṇāṃ deśanā vajriṇo mama /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lokasaṃvṛtisatyena satyena paramārthataḥ // Sekoddeśa_9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "udakaṃ mukuṭaḥ paṭṭo vajraghaṇṭā mahāvratam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāmānujñāsamāyuktaḥ sekaḥ saptavidho nṛpa // Sekoddeśa_10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāyavākcittasaṃśuddhirabhiṣekadvayaṃ dvayam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anujñā jñānaśuddhiḥ syādanyā dhātvādiśuddhitaḥ // Sekoddeśa_11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "udakaṃ dhātusaṃśuddhirmaulī skandhaviśodhanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paṭṭaḥ pāramitāśuddhirvajraghaṇṭā mahākṣaram // Sekoddeśa_12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhabhāṣā na vicchinnā arkendvekatraśodhanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣayendriyasaṃśuddhiḥ syādvajravratamacyutam // Sekoddeśa_13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāma maitryādiśuddhiḥ syādanujñā buddhaśodhanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ete sapta sekā deyā vartayitvā tu maṇḍalam // Sekoddeśa_14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kumbho guhyābhiṣekaśca prajñājñānābhidhānakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "punareva mahāprajñā tasyā jñānābhidhānakaḥ // Sekoddeśa_15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣaraḥ kṣarastataḥ spando niḥspandaśca tato 'paraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāyavākcittasaṃśuddhyā abhiṣekatrayaṃ kramāt // Sekoddeśa_16 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturtho jñānasaṃśuddhiḥ kāyavākcittaśodhakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bālaḥ prauḍhastathā vṛddhaścaturthastu prajāpatiḥ // Sekoddeśa_17 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāstanāṅgasaṃsparśād bodhicittacyutaṃ sukham /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "payodharābhiṣiktaḥ sa bālaḥ prāptaṃ yataḥ sukham // Sekoddeśa_18 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guhyāsphālāccirājjātaṃ bodhicittacyutaṃ sukham /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prauḍho guhyābhiṣiktaḥ sa guhyāt prāptaṃ yataḥ sukham // Sekoddeśa_19 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guhyāsphālāccirājjātaṃ vajrāgre spandataḥ sukham /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñājñānābhiṣiktaḥ sa vṛddhaḥ spandaṃ gato yataḥ // Sekoddeśa_20 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahāmudrānurāgādyajjātaṃ niḥspandataḥ sukham /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahāprajñābhiṣiktaḥ sa yato niḥspandatāṃ gataḥ // Sekoddeśa_21 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajāpatiḥ sa vijñeyo janakaḥ sarvatāyinām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vajrasattvo mahāsattvo bodhisattvo 'dvayo 'kṣaraḥ // Sekoddeśa_22 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asau samayasattvaḥ syādvajrayogaścaturvidhaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kālacakra iha khyāto yogināṃ muktidāyakaḥ // Sekoddeśa_23 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asyaiva sādhanaṃ kuryāt pratibhāsairacintitaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhūmādibhirnimittaistaiḥ prajñābimbairnabhaḥsamaiḥ // Sekoddeśa_24 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "astināstivyatikrāntaiḥ pratyayārthaiḥ svacetasaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paramāṇurajaḥsaṃdohaiḥ sarvataḥ parivarjitaiḥ // Sekoddeśa_25 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhūmamarīcikhadyotadīpajvālendubhāskaraiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tamaḥ kalā mahābindurviśvabimbaṃ prabhāsvaram // Sekoddeśa_26 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pihitāpihitanetrābhyāṃ śūnye yannānukalpitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛśyate svapnavad bimbaṃ tad bimbaṃ bhāvayet sadā // Sekoddeśa_27 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhāve bhāvanā bimbe yogināṃ sā na bhāvanā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvo 'bhāvo na cittasya bimbe 'kalpitadarśanāt // Sekoddeśa_28 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratisenāṃ yathādarśe kumārī paśyedavastujām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atītānāgataṃ dharmaṃ tattvayogyambare tathā // Sekoddeśa_29 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asyā bhāvo na bhāvaḥ syādvastuśūnyārthadarśanāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vastuno 'bhāvato 'rtho 'sti māyāsvapnendrajālavat // Sekoddeśa_30 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asati dharmiṇi hyeṣa dharmotpādaḥ pradṛśyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cintāmaṇirivānantasattvāśāparipūrakaḥ // Sekoddeśa_31 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adṛṣṭaṃ pratisenāyāṃ kumārī caurādi paśyati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tat prādeśikanetrābhyāṃ gatvā paśyanti sādhakāḥ // Sekoddeśa_32 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadi paśyati sadrūpaṃ svamukhaṃ kiṃ na paśyati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadi paśyatyasadrūpaṃ śaśaśṛṅgaṃ kathaṃ na ca // Sekoddeśa_33 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na paśyatyanyacakṣurbhyāṃ svacakṣurbhyāṃ na paśyati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛśyamānamajātaṃ tat kumāryā jātakaṃ yathā // Sekoddeśa_34 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛṣṭe bimbe tataḥ kuryāt prāṇāyāmaṃ nirantaram /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "urdhvādhastriṣu nāḍīṣu kāyavākcittarodhanāt // Sekoddeśa_35 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "candrārkarāhuviṇmūtraśukramārgapravāhiṣu /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "toyāgniśūnyabhūvāyujñānadhātukajātiṣu // Sekoddeśa_36 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "candrasūryataminyo yāḥ kāyavākcittanāḍikāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṇmūtraśukravāhinyaḥ prāṇe 'pāne krameṇa tāḥ // Sekoddeśa_37 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "candraḥ kāya"
+        },
+        {
+          "tag": "text",
+          "text": "upāyasya prajñāyā vāgdivākaraḥ /\nprajñākāyastu viṇ"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "nāḍī virbhorvāṅmūtravā"
+        },
+        {
+          "tag": "text",
+          "text": "hinī // Sekoddeśa_38 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "urdhvādhaścittanāḍyau dve taminīśukravāhinyau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "taminī cittamupāyasya prajñāyāḥ śukravāhinī // Sekoddeśa_39 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ūrdhvādhaḥ ṣaṭkulaṃ hyetat kāyavākcittayogataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñopāyāṅgabhāvena saṃsthitaṃ sarvadehinām // Sekoddeśa_40 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ariṣṭaṃ kāyavāṅnāḍyorūrdhvā",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "dho '"
+        },
+        {
+          "tag": "text",
+          "text": "dhikamārutaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "taminīśukravāhinyorutpattimaraṇasthitiḥ // Sekoddeśa_41 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utpāde mṛtyukāle ca maithune śukravāhinī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "taminī ca vahatyūrdhve saṃkrāntau viṣuve raveḥ // Sekoddeśa_42 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "lagnodayābhisaṃdhau ca viṣuvaṃ vahati madhye /",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ṣaṭpañcāśat"
+        },
+        {
+          "tag": "text",
+          "text": "sapādañca śvāsocchvāsaṃ narādhipa // Sekoddeśa_43 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adhikān pañcasaptatyā ṣaṭśatāṃśca divāniśam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekaviṃśatsahasrāṃśca ṣaṭśatairadhikāṃśca yān // Sekoddeśa_44 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāmā ca dakṣiṇā nāḍī vahatyūnānanena tān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "satripakṣitrivarṣāṇi śatavarṣe hi madhyamā // Sekoddeśa_45 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāmā savyordhve candrārkau lalaneḍā piṅgalāparā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "toyatejaḥsvabhāvinyau padmadhṛgratnadhṛṅmate // Sekoddeśa_46 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "adho viṇmūtravāhinyau pṛthvīvāyusvarūpake /\nmadhyanāḍī ca vāmā ca",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "cakradhṛk khaḍgadhṛṅmate"
+        },
+        {
+          "tag": "text",
+          "text": "// Sekoddeśa_47 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ūrdhvādho madhyamā savyā rāhuśukrapravāhinī /\nśūnya",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "jñānasvabhā"
+        },
+        {
+          "tag": "text",
+          "text": "vinyau vajradhṛgvajradhṛṅmate // Sekoddeśa_48 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṇnāḍī candramārgeṇa raviṇā mūtravāhinī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jātau mṛtyau viṣuve rāge rāhuṇā śukravāhinī // Sekoddeśa_49 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yā nābhyūrdhve 'vadhūtī sā suṣumnā tamovāhinī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yādhaḥ khagamukhā sā ca śaṅkhinī śukravāhinī // Sekoddeśa_50 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nābhyabje hṛdaye kaṇṭhe lalāṭoṣṇīṣapaṅkaje /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūtoyāgnimarucchūnyaṃ saṃhāreṇa pravāhinī // Sekoddeśa_51 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "nirgacchantī viśantī",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "sā"
+        },
+        {
+          "tag": "text",
+          "text": "sṛṣṭinā viśati kṣitau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karṇikāt karṇikāmadhye 'vadhūtyā gatirāgatiḥ // Sekoddeśa_52 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nābhau guhye ca maṇyabje kāyavākcittavāhinī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirgacchantī viśantī sā saṃhārasṛṣṭirūpiṇī // Sekoddeśa_53 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śaṅkhinī sarvajantūnāmapānānilavāhikā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eṣā strīṇāṃ sukhācchukraṃ ṛtau raktapravāhinī // Sekoddeśa_54 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "prajñopāyāṅgabhāvena ūrdhve savyāvasavyayoḥ /\nadho viṇmūtravāhasya rajaḥśukra",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "pravāhayoḥ"
+        },
+        {
+          "tag": "text",
+          "text": "// Sekoddeśa_55 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "caṇḍālī rajaso vāhāt khagamukhā śukravāhataḥ /\nūdhve ṛtau smṛ",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "tā strīṇāṃ ḍombī puṃ"
+        },
+        {
+          "tag": "text",
+          "text": "so 'vadhūtikā // Sekoddeśa_56 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "vijñānādyaṃ sadā vāme nāḍyāṃ maṇḍala",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "pañcakam /\nbhūmyādi"
+        },
+        {
+          "tag": "text",
+          "text": "dakṣiṇe nāḍyāṃ madhye vahati ṣaṣṭhamam // Sekoddeśa_57 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nābhipadmadale ṣaṣṭi maṇḍalāni yathākramam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāme ca dakṣiṇe lagne meṣādye vṛṣabhādike // Sekoddeśa_58 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "mūle v",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "āme tataḥ savya ūrdhve"
+        },
+        {
+          "tag": "text",
+          "text": "madhye"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "'"
+        },
+        {
+          "tag": "text",
+          "text": "nilaḥ kramāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekaikamaṇḍalaṃ daṇḍādbhūmyādyaṃ nāsarandhrayoḥ // Sekoddeśa_59 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāḍikā vahati śvāsān saṣaṣṭitriśatān kramāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṣṭādaśaśataśvāsānnāḍyaḥ pañca vahanti tān // Sekoddeśa_60 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṣaṣṭi nāḍyo divārātraṃ maṇḍalānīti dehataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dalamadhye tataḥ pūrve savye vāme 'pare kramāt // Sekoddeśa_61 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ākāśādyaṃ sadā vāme bhūmyādyaṃ dakṣiṇe 'parāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñānādibhavo vāme saṃhāraḥ kṣmādi dakṣiṇe // Sekoddeśa_62 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apare pūrve dharā vāyuḥ prajñopāyaḥ parasparam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṅguṣṭhānāmikādvābhyāṃ yato vaktre 'bhiṣiñcanam // Sekoddeśa_63 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "savye vāme havistoyaṃ prajñopāyaḥ parasparam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "madhyamātarjanīdvābhyāṃ yataḥ khaḍgo bhaviṣyati // Sekoddeśa_64 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ardhacandrākṛtirmudrā daṃṣṭrā kartī kanīyasī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyamakṣaramūrdhvādhaḥ prajñopāyaḥ parasparam // Sekoddeśa_65 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "daśamaṇḍalasaṃyoge aṅgulīnāṃ parasparam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karatale puṭite mūrdhni ekaśūkaṃ sakartikam // Sekoddeśa_66 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣuvattanmadhye nāḍyāṃ sṛṣṭisaṃhārakārakam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "skandhadhātutrivajrāṇāmekatvaṃ madhyamāgatau // Sekoddeśa_67 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "candrārkanāḍikāruddhe ruddhā viṇmūtranāḍikāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rāhunāḍīvi(ni)ruddhe syādruddhādhaḥ śukravāhinī // Sekoddeśa_68 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mukte muktā bhavantyetāḥ sṛṣṭisaṃhārakārikāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃcāra eṣa nāḍīnāṃ prāṇāpānatrimārgataḥ // Sekoddeśa_69 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "vāmāyāṃ dakṣiṇāyāṃ vā pravahatyadhiko",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "'"
+        },
+        {
+          "tag": "text",
+          "text": "nilaḥ /\nekarātraṃ tathā pañca trivarṣairmara"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ṇaṃ"
+        },
+        {
+          "tag": "text",
+          "text": "tataḥ // Sekoddeśa_70 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pañca diktithayo viṃśati tattvānyekottaraṃ kramāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trayastriṃśaddinārohaḥ ariṣṭaṃ dakṣiṇe ravau // Sekoddeśa_71 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tridvyekasamakairmāsaiḥ ṣaṭtriyugmendubhirdinaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tithidikpañcaguṇadvyekairāyurgacchati dehinām // Sekoddeśa_72 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "mūlādekottareṇa syādvāme candrasya rohaṇam /",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "dinairmāsairdinairmāsais"
+        },
+        {
+          "tag": "text",
+          "text": "tridināni dvimāsakau // Sekoddeśa_73 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dine 'riṣṭaṃ śubhe māse vṛddhihānistatastayoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "madhyamārohaṇaṃ mṛtyoḥ śatābdaparipūrṇataḥ // Sekoddeśa_74 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samaviṣamadinaistasya janmajāto 'tha maṇḍalaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rohaṇaṃ savyavāme ca pakṣadvayavināśanāt // Sekoddeśa_75 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "anyathā maraṇaṃ na syā",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "t pakṣadvayasya"
+        },
+        {
+          "tag": "text",
+          "text": "saṃsthiteḥ /\nsavyāvasavyasaṃcārā"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ta"
+        },
+        {
+          "tag": "text",
+          "text": "pañcamaṇḍalavāhataḥ // Sekoddeśa_76 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ariṣṭalakṣaṇaṃ jñātvā prāṇaṃ bindau niveśayet /\navadhūtīpadamāśritya",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "bhāvayet"
+        },
+        {
+          "tag": "text",
+          "text": "paramākṣaram // Sekoddeśa_77 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vajrotthānaṃ sadā kuryāccandrārkagatibhañjanāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anyathā nāvadhūtyaṅge viśati prāṇamārutaḥ // Sekoddeśa_78 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apāno 'dhaśca śaṅkhinyāṃ maraṇaṃ tadaveśataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ariṣṭavañcanaṃ hyetadānandairyogināṃ bhavet // Sekoddeśa_79 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śukrāgamanamānandamuṣṇīṣādūrṇṇāpaṅkaje /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kaṇṭhe hṛdi paramānandaṃ viramānandaṃ tato bhavet // Sekoddeśa_80 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vividhaṃ ramaṇaṃ nābhau guhyapadme yadāgatam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guhyādvajramaṇiṃ yāvat sahajānandamacyutam // Sekoddeśa_81 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apratiṣṭhitanirvāṇaṃ mahārāgo 'kṣaraḥ prabhuḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "virāgādyaccyutaṃ saukhyaṃ tannirvāṇaṃ pratiṣṭhitam // Sekoddeśa_82 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śukrendūdaya uṣṇīṣe pūrṇā guhye saroruhe /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalā ṣoḍaśamā yā sā maṇipadme vajramūrdhagā // Sekoddeśa_83 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadūrdhvaṃ cyutikālaḥ syāt kṛṣṇapratipadāgame /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ravistūrṇāpadaṃ yāti amāvasyāṃ virāgataḥ // Sekoddeśa_84 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalā ṣoḍaśamā tasya uṣṇīṣakamale gatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "naṣṭacandra ihākhyāto viraktī rāgasaukhyataḥ // Sekoddeśa_85 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adhaścandrāmṛtaṃ yāti maraṇe sarvadehinām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ūrdhve sūryarajo rāhuvijñānaṃ bhāvalakṣaṇe // Sekoddeśa_86 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ataścandrāmṛtasyordhve kartavyaṃ gamanaṃ nṛpa /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adho 'rkarajaso rāhuvijñānasyākṣare sukhe // Sekoddeśa_87 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ūrṇṇābje sarvabuddhānāṃ candrāmṛtasya pūrṇimā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "amārkarajaso guhye kaloṣṇīṣe maṇau tayoḥ // Sekoddeśa_88 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti vajrapadaṃ śāsturviparītaṃ sarvadehinām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apratiṣṭhitanirvāṇādviparītaṃ yānti dhātavaḥ // Sekoddeśa_89 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "maṇau cittaṃ",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ca"
+        },
+        {
+          "tag": "text",
+          "text": "guhye vākkāyo nābhau mahāsukhāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmasambhoganirmāṇāḥ śuddhakāyāt spharantyamī // Sekoddeśa_90 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "adhopāyasya rājendra prajñā",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "yā"
+        },
+        {
+          "tag": "text",
+          "text": "ūrdhvato bhavet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lalāṭe kāyavajramasyā grīvahṛnnābhipaṅkaje // Sekoddeśa_91 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vākcittajñānavajrāṇi nirmāṇādyāt spharantyamī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "spharaṇaṃ skandhadhātūnāṃ nirāvaraṇataḥ sukhāt // Sekoddeśa_92 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmamudrāsamāpattyā jñānamudrāvalambanaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahāmudraikayogena vṛddhiṃ yāti tadakṣaram // Sekoddeśa_93 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vṛddhasya na ca syāt vṛddhiḥ kṣīṇasya kṣīṇatā na ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "astaṃgatasya nāstamanamuditasyodayaṃ na hi // Sekoddeśa_94 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na prakāśaḥ prakāśasya pihitaṃ pihitasya na /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jātasyaiva na janma syān mṛtasya maraṇaṃ na ca // Sekoddeśa_95 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "muktasya na ca muktiḥ syādasthitasya ca cāsthitiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhāvo na hyabhāvasya bhāvo bhāvasya naiva ca // Sekoddeśa_96 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣarasyāpi kṣaro na syādakṣarasya na cākṣaraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svabhāvābhāvadharmāṇāṃ māyotpādaḥ kṣayastathā // Sekoddeśa_97 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na kṣayaṃ yānti bhūtāni na jāyante svabhāvataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niḥsvabhāvamidaṃ viśvaṃ bhāvābhāvaikalakṣaṇam // Sekoddeśa_98 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svaprajñāliṅgitaṃ cittaṃ padme vajramaṇau gatam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatra candragataspando niḥspandākṣarabhāvanā // Sekoddeśa_99 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāyavākcittanāḍīṣu kāyavākcittabhāvanā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samāhārastrivajrāṇāṃ śaṅkhinyāṃ jñānabhāvanā // Sekoddeśa_100 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñārāgadrutānāṃ ca bindūnāṃ śirasaḥ kramāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pūrṇāpadaṃ praviṣṭānāṃ bandhanaṃ paramārthataḥ // Sekoddeśa_101 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "yathoditaḥ kramāccandraḥ kalābhiryāti pūrṇatām /\nvāsanāharaṇaṃ pūrṇā",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "na"
+        },
+        {
+          "tag": "text",
+          "text": "candracchedo na pūraṇam // Sekoddeśa_102 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "tathoditaṃ kramājjñānaṃ bhūmibhiryāti pūrṇatām /\nkleśādyāharaṇaṃ pūrṇā",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "na"
+        },
+        {
+          "tag": "text",
+          "text": "jñānacchedo na pūraṇam // Sekoddeśa_103 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā madhyaśaśāṅkena pūrṇāyāṃ na sthiraḥ śaśī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃsāravāsanāṅkena tathā cittaṃ sukhe 'kṣare // Sekoddeśa_104 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "utpattiḥ pralayaḥ pakṣaḥ",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "śuklaḥ"
+        },
+        {
+          "tag": "text",
+          "text": "kṛṣṇaḥ pratiṣṭhitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tayormadhye tu yā pūrṇā sā pūrṇā na pratiṣṭhitā // Sekoddeśa_105 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekakṣaṇābhisambuddhaṃ pūrṇāyāṃ niścalaṃ bhavet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadā vajramaṇau citaṃ tat sarvakṣaṇapūrakam // Sekoddeśa_106 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na sthitiḥ śuklapakṣe 'sya gamanaṃ nāsite kvacit /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pakṣadvayasya madhyasthaṃ pūrṇāyāṃ gatamadvayam // Sekoddeśa_107 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "uṣṇīṣādudayaṃ tasya pūrṇā vajramaṇau bhavet /\nsavirāgāt kalāhāni",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "r"
+        },
+        {
+          "tag": "text",
+          "text": "vajrāddhāneḥ prapūrṇatā // Sekoddeśa_108 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uṣṇīse hyudayo bhūyaḥ pūrṇā vajramaṇau punaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "savirāgāt kalāhānirjñānahānirna dehinām // Sekoddeśa_109 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "mahāsukhasvabhāvo",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "'"
+        },
+        {
+          "tag": "text",
+          "text": "sya pūrṇāśabdena gīyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anyabhāvāntaraṃ sarvaṃ sṛṣṭisaṃhārahetukam // Sekoddeśa_110 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhavādgacchati nirvāṇaṃ tasmādeti punarbhavam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svapakṣābhyāṃ yathāṃ candro 'yanābhyāṃ bhāskaro yathā // Sekoddeśa_111 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pūrṇāyāṃ niścalasyāsya bhūmibhiḥ paripūrṇatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvyayutadvyaṣṭaśataiḥ śvāsairakṣarakṣaṇabhakṣitaiḥ // Sekoddeśa_112 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pakṣadvayaṃ vyatikramya bhūmibhiḥ paripūritam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvādaśākārasatyārthaṃ ṣoḍaśākāramakṣaram // Sekoddeśa_113 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūmibhirdvādaśākāraṃ pūritaṃ paramādvayam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalābhiḥ pūritaṃ cittaṃ ṣoḍaśākāramakṣaram // Sekoddeśa_114 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekārthamadvayaṃ dharmaṃ paramārthamavinaśvaram /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pūrṇāvasthāṃ gataṃ cittaṃ āsamantāt prapūritam // Sekoddeśa_115 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "virāgādimahārāgaṃ vajrānaṅgaṃ mahākṣaram /\nparipūrṇamasaṃkliṣṭaṃ pakṣadvaya",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "sya"
+        },
+        {
+          "tag": "text",
+          "text": "vāsanaiḥ // Sekoddeśa_116 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "yathā nadyudakaṃ viṣṭaṃ samudre tatpayaḥsamam /\ntathā bhāvasamūho 'yamakṣare tatsamo",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "'"
+        },
+        {
+          "tag": "text",
+          "text": "kṣaraḥ // Sekoddeśa_117 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "yathā dhātusamūho",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "'"
+        },
+        {
+          "tag": "text",
+          "text": "yaṃ rasatvaṃ yāti bhakṣitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bījairbījasva bhāvaṃ ca phalakāle mānavarjitam // Sekoddeśa_118 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ bhāvasamūho 'pi paramākṣarabhakṣitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paramākṣaratāṃ yāti sarvākārasvarūpadhṛk // Sekoddeśa_119 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na daṃśe vedanāṃ vetti nānyatra cāpi daṣṭakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na viṣayānindriyadvāraiḥ pūrṇāvasthāṃ viṣe gate // Sekoddeśa_120 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ na ca maṇau yogī nānyatra vetti satsukham /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na viṣayānindriyadvāraiścitte pūrṇakalāṃ gate // Sekoddeśa_121 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā lohaikadeśe 'pi saṃsthito hi mahārasaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lohaṃ tīvrāgnisaṃtaptaṃ vedhayedāsamantataḥ // Sekoddeśa_122 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tethaivaikapradeśe 'pi saṃsthitaṃ sukhamakṣaram /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cittaṃ kāmāgnisaṃtaptaṃ vedhayedāsamantataḥ // Sekoddeśa_123 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā ca viddhalohānāṃ naiva malo bhavet kvacit /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā ca viddhacittānāṃ na vāsanā bhavet kvacit // Sekoddeśa_124 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hematvaṃ hi gataṃ lohamagninā nirmalaṃ bhavet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūyo bhūyastathā cittaṃ nirmalaṃ rāgavahninā // Sekoddeśa_125 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā mahāmaṇisparśādyāti śīlā pradīptatām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathākṣarasukhasparśāt sukhatāṃ cittameti vai // Sekoddeśa_126 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kimatra bahunoktena lokasaṃvṛtisatyataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avitarkyo rasasadbhāvo lohasyāvedhanaṃ prati // Sekoddeśa_127 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vitarkyo jñānasadbhāvaḥ kiṃ punaḥ paramārthataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "malāgantukaliptasya cittasyāvedhanaṃ prati // Sekoddeśa_128 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāgantuko malaścitte na cittāccirakālikaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na cittena vinā jāto na citte saṃsthito 'vyayaḥ // Sekoddeśa_129 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadyāgantuka eva syāccittaṃ prāgamalaṃ tadā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cirakālī yadā cittāttasyaiva sambhavaḥ kutaḥ // Sekoddeśa_130 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadi cittaṃ vinā jātastadā khakusumaṃ yathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadi sthitaḥ sadā citte na naśyet sarvatastadā // Sekoddeśa_131 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tāmrasya kālimā yadvadrasayogena naśyati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na tasya sattvatā naśyennirmalatvena yā sthitā // Sekoddeśa_132 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvaccittamalaḥ śūnyatāyogena praṇaśyati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na tasya jñānatā naśyennirmalatvena yā sthitā // Sekoddeśa_133 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rasaviddho yathā loho na punarlohatāṃ vrajet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sukhaviddhaṃ tathā cittaṃ na punarduḥkhatāṃ vrajet // Sekoddeśa_134 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na virāgāt paraṃ pāpaṃ na puṇyaṃ sukhataḥ param /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ato 'kṣarasukhe cittaṃ veśanīyaṃ sadā nṛpa // Sekoddeśa_135 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vaktuṃ na śakyate saukhyaṃ kumāryā surataṃ vinā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yauvane surataṃ prāpya svato vetti mahāsukham // Sekoddeśa_136 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ na śakyate vaktuṃ samādhirahitaiḥ sukham /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samādhāvakṣaraṃ prāpya svato vindanti yoginaḥ // Sekoddeśa_137 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "akṣarajasukhajñāne sarvajñairapi śaṃkyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā kvacinna kartavyo virāgo manaso 'sukhāt // Sekoddeśa_138 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cyutervirāgasaṃbhūtirvirāgādduḥkhasaṃbhavaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "duḥkhāddhātukṣayaḥ puṃsāṃ kṣayān mṛtyuriti smṛtaḥ // Sekoddeśa_139 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛtyoḥ punarbhavasteṣāṃ bhavān mṛtyuścyutiḥ punaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ virāgasaṃbhūteḥ sattvānāṃ nānyathā bhavaḥ // Sekoddeśa_140 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmāt sarvaprayatnena cyutirāgaṃ vivarjayet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yenākṣarasukhaṃ yāti yogī saṃsārabandhanāt // Sekoddeśa_141 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāmuko 'pi virāgānna kāmaśāstraṃ samīhate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mayokte kiṃ punastantre yogī duḥkhaṃ samīhate // Sekoddeśa_142 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śukrākṣarasvabhāvena sādhayet paramākṣaram /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādhāre cyutimāpanne ādheyasya virāgatā // Sekoddeśa_143 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādhārādheyasaṃbandho yāvannākṣaratāṃ vrajet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cittamakṣaratāprāptaṃ nādhārādheyalakṣaṇam // Sekoddeśa_144 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "akṣarodbhavakāyasya ūrṇṇācakragatasya tu /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ālikālisamāyogo hūṃkāro neṣyate nṛpa // Sekoddeśa_145 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bimbaṃ śūnyodbhavaṃ hetuḥ phalamakṣarajaṃ sukham /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "phalena mudrito heturhetunā mudritaṃ phalam // Sekoddeśa_146 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyatā bimbadhṛgghetuḥ karuṇākṣaradhṛk phalam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyatākaruṇābhinnaṃ bodhicittaṃ tadacyutam // Sekoddeśa_147 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirvāṇarahitaṃ bimbaṃ saṃsārātītamakṣaram /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śāścatocchedanirmuttastatoryogo 'dvayo 'paraḥ // Sekoddeśa_148 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhāvo nāsti bimbasya abhāvodbhūtalakṣaṇāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvo nāstyakṣarasyāpi bhāvasambhūtalakṣaṇāt // Sekoddeśa_149 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvābhāvasamāyogo vajrayogo 'dvayo 'paraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpārūpavinirmuktaḥ pratiseneva darpaṇe // Sekoddeśa_150 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bimbaṃ na bhavamāyāti nāpi nirvāṇamakṣaram /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anyonyāliṅgitaṃ śāntaṃ napuṃsakapadaṃ param // Sekoddeśa_151 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāhetorajātatvāt prajñāhetūdbhavaṃ phalam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāhetorajātatvāt prajñājātaṃ na hetujam // Sekoddeśa_152 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ato na hetujaṃ jñānaṃ prajñājñānamanuttaram /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "phalena hetunānyonyaṃ na parasparamudraṇam // Sekoddeśa_153 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hetuḥ phalaṃ ca yat sarvaṃ tat pratītyasamudbhavam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anyonyamudritaṃ bimbaṃ notpannaṃ na ca nirvṛtam // Sekoddeśa_154 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñā cātyantanirvṛtā utpannaśca paro 'kṣaraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hetuphalavinirmuktirna parasparamudraṇam // Sekoddeśa_155 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ajātasyāniruddhasya yajjñeyasyeha darśanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tat svacittasya nānyasya bāhyajñeyavibhāgataḥ // Sekoddeśa_156 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ato na cātmanātmānaṃ mudrituṃ śakyate kvacit /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kiṃ chinatti mahākhaḍga ātmānamātmadhārayā // Sekoddeśa_157 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bandhyāduhitṛsaṃgena svapne saukhyaṃ yathā bhavet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gaganodbhavabimbena sevitena tathātmanaḥ // Sekoddeśa_158 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na prajñā nāpyupāyo 'sau sahajaḥ prajñayā saha /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āpūrṇaścaiva saukhyena sarvāvaraṇavarjitaḥ // Sekoddeśa_159 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ākāśavannirāvaraṇo viṣayendriyavarjitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvataḥ sarvabhūtastha acchedyo bhedavarjitaḥ // Sekoddeśa_160 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svayambhūrvajrasattvo 'sau mahārthaḥ paramākṣaraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahārāgo mahāsattvaḥ sarvasattvaratiṃkaraḥ // Sekoddeśa_161 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhisattvo mahādveṣaḥ kleśakṣayī mahāripuḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samayasattvo mahāmoho mūḍhadhīmohasūdanaḥ // Sekoddeśa_162 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vajrayogo mahākrodhaḥ kruddhamāramahāripuḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kālacakro mahālobhaḥ kṣaralobhaniṣūdanaḥ // Sekoddeśa_163 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vajramabhedyamityāha mahārthaṃ bhagavāniha /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sattvaṃ tribhavasyaikatā taduktaṃ paramākṣaram // Sekoddeśa_164 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paramākṣarasukhāpūrṇo bhūmibhiḥ paripūritaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahārāgo mahāsattvaḥ sarvasattvaratiṃkaraḥ // Sekoddeśa_165 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhau vyavasthitaḥ sattvo bodhisattvastato 'calaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kleśādidveṣasaṃghānāṃ mahādveṣo mahāripuḥ // Sekoddeśa_166 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samayaścandrāmṛtaṃ śukramacyutistasya bhakṣaṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samayasattvo 'nayā vṛttyā mūḍhadhīmohasūdanaḥ // Sekoddeśa_167 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekatvaṃ sarvavajrāṇāṃ prajñākāyākṣaraiḥ saha /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahākrodho mahāśatrurmārāṇāṃ krodharūpiṇām // Sekoddeśa_168 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahākṣarasukhopāyāt sattvārthaṃ na tyajet kvacit /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sattvān moktuṃ mahālobhaḥ kṣaralobhaniṣūdanaḥ // Sekoddeśa_169 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ete hyuktāḥ ṣaḍākārā akṣarajñānavedanā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñānarūpasaṃskārasaṃjñāḥ skandhakulāni te // Sekoddeśa_170 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānāgnyambarapṛthivīvāyūdakā yathākramam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "manaścakṣuḥśrutikāyanāsajihvāstathaiva ca // Sekoddeśa_171 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śabdarasadharmadhātukagandhaspraṣṭavyarūpiṇaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "krodharāṭ ṣaṇmukho bhīmaḥ ṣaṭkulaiḥ pariśodhitaḥ // Sekoddeśa_172 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāyaguhyendriyacittaṃ trividhaṃ maṇḍalaṃ sadā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñopāyatrivajrāṇāṃ jāyate vajrasattvatā // Sekoddeśa_173 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "idaṃ sekasya sādhanaṃ paramākṣarasādhanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāḍīkulasamāyuktamuddeśāccandra bhāṣitam // Sekoddeśa_174 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "iti śrīsekoddeśaḥ samāptaḥ"
+        }
+      ]
+    }
+  ]
 }

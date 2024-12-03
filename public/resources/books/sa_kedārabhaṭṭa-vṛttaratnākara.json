@@ -1,4 +1,1956 @@
 {
-  "title": "sa_kedārabhaṭṭa-vṛttaratnākara",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n<div>\n<p>[śrīḥ]</p>\n\n<p>[vṛttaratnākaraḥ]</p>\n\n<p>prathamo 'dhyāyaḥ</p>\n\n<lg>\n<l>sukhasantānasiddhyarthaṃ natvā brahmā 'cyutā 'rcitam /</l>\n<l>gaurīvināyakopetaṃ śaṅkaraṃ lokaśaṅkaram // KedV_1.1 //</l>\n</lg>\n\n<lg>\n<l>vedārthaśaivaśāstrajñaḥ pavyeko 'bhūd lokaśaṅkaram /</l>\n<l>tasya putro 'sti kedāraḥ śivapādārcane rataḥ // KedV_1.2 //</l>\n</lg>\n\n<lg>\n<l>tenedaṃ kriyate chando lakṣyalakṣaṇasaṃyutam /</l>\n<l>vṛttaratnākaraṃ nāma bālānāṃ sukhasiddhye // KedV_1.3 //</l>\n</lg>\n\n<lg>\n<l>piṅgalādibhrācāryairyaduktaṃ laukikaṃ dvidhā /</l>\n<l>mātrāvarṇavibhedena cchandastadiha kathyate // KedV_1.4 //</l>\n</lg>\n\n<lg>\n<l>ṣaḍadhyāyanibaddhasya cchandaso 'sya parisphuṭam /</l>\n<l>pramāṇamapi vijñeyaṃ ṣaḍtriṃśadadhikaṃ śatam // KedV_1.5 //</l>\n</lg>\n\n<lg>\n<l>myarastajabhnagairlāntairebhirdaśabhirakṣaraiḥ /</l>\n<l>samastaṃ vāṅmayaṃ vyāptaṃ trailokyamiva viṣṇunā // KedV_1.6 //</l>\n</lg>\n\n<lg>\n<l>sarvagurmo mukhāntarlau yarāvantagalau satau /</l>\n<l>gmadhyādyau jmau trilo no 'ṣṭau bhavantyatra gaṇāstrikāḥ // KedV_1.7 //</l>\n</lg>\n\n<lg>\n<l>jñeyāḥ sarvāntamadhyādiguravo 'tra catuṣkalāḥ /</l>\n<l>gaṇāścaturlaghūpetāḥ pañcāryādiṣu saṃsthitāḥ // KedV_1.8 //</l>\n</lg>\n\n<lg>\n<l>sānusvāro visargānto dīrgho yuktaparaśca yaḥ /</l>\n<l>vā pādānte tvasau gvakro jñeyo 'nyo mātriko lṛjuḥ // KedV_1.9 //</l>\n</lg>\n\n<lg>\n<l>pādādāviha varṇasya saṃyogaḥ kramasaṃjñakaḥ /</l>\n<l>puraḥsthitena tena syāllaghutā 'pi kvacid guroḥ // KedV_1.10 //</l>\n</lg>\n\n<lg>\n<l>taruṇaṃ sarṣapaśākaṃ navaudanaṃ picchilāni ca dadhīni /</l>\n<l>alpavyayena sundari (!) grāmyajano miṣṭamiśnāti // KedV_1.11 //</l>\n</lg>\n\n<lg>\n<l>abdhibhūtarasādīnāṃ jñeyāḥ saṃjñāstu lokataḥ /</l>\n<l>jñeyaḥ pādaścaturthāśo yatirvicchedasaṃjñitaḥ // KedV_1.12 //</l>\n</lg>\n\n<lg>\n<l>yuksamaṃ viṣamaṃ cālūksthānaṃ sadbhirnigadyate /</l>\n<l>samamardhasamaṃ vṛttaṃ viṣamaṃ ca tathāparam // KedV_1.13 //</l>\n</lg>\n\n<lg>\n<l>aṅghrayo yasya catvārastulyalakṣaṇalakṣitāḥ /</l>\n<l>tacchandaḥśāstratattvajñāḥ samaṃ vṛttaṃ pracakṣate // KedV_1.14 //</l>\n</lg>\n\n<lg>\n<l>prathamāṅghrisamo yasya tṛtīyaścaraṇo bhavet /</l>\n<l>dvitīyasturyavadvṛttaṃ tadardhasamamucyate // KedV_1.15 //</l>\n</lg>\n\n<lg>\n<l>yasya pādacatuṣke 'pi lakṣma bhinnaṃ parasparam /</l>\n<l>tadāhurviṣamaṃ vṛttaṃ chandaḥśāstraviśāradāḥ // KedV_1.16 //</l>\n</lg>\n\n<lg>\n<l>ārabhyaikākṣārātpādādekaikakṣaravaddhitaiḥ /</l>\n<l>pṛthakchando bhavetpādairyāvatṣaḍviṃśatiṃ gatam // KedV_1.17 //</l>\n</lg>\n\n<lg>\n<l>tadūrdhvaṃ caṇḍavṛṣṭyādidaṇḍakāḥ parikīrtitāḥ /</l>\n<l>śeṣaṃ gāthāstribhiḥ ṣaḍbhiścaraṇaiścopalakṣitāḥ // KedV_1.18 //</l>\n</lg>\n\n<lg>\n<l>uktā 'tyuktā tathā madhyā pratiṣṭhā 'nyā supūrvikā /</l>\n<l>gāyatryuṣṇiganuṣṭup ca bṛhatī paṅktireva ca // KedV_1.19 //</l>\n</lg>\n\n<lg>\n<l>triṣṭup ca jagatī caiva tathā 'tijagatī matā /</l>\n<l>śakvarī sā 'tipūrvā syādaṣṭyatyaṣṭī tataḥ smṛte // KedV_1.20 //</l>\n</lg>\n\n<lg>\n<l>dhṛtiścā 'tidhṛtiścaiva krṭiḥ prakṛtirākṛtiḥ /</l>\n<l>vikṛtiḥ saṅkṛtiścaiva tathā 'tikṛtirutkṛtiḥ // KedV_1.21 //</l>\n</lg>\n\n<lg>\n<l>ityuktāśchandasāṃ saṃjñāḥ kramato vacmi sāmpratam /</l>\n<l>lakṣaṇaṃ sarvavṛttānāṃ mātrāvṛttā 'nupūrvakam // KedV_1.22 //</l>\n</lg>\n\n<p>iti śrīkedārabhaṭṭaviracite vṛttaratnākare saṃjñābhidhāno nāma prathamo 'dhyāyaḥ /</p>\n\n</div>\n<div>\n\n<p>dvitīyo 'dhyāyaḥ</p>\n\n<p>[ āryā-prakaraṇam (1-7) ]</p>\n\n<lg>\n<l>lakṣmaitatsapta gaṇā gopetā bhavati neha viṣame jaḥ /</l>\n<l>ṣaṣṭho 'yaṃ nalaghū vā prathame 'rdhe niyatamāryāyāḥ // KedV_2.1 //</l>\n</lg>\n\n<lg>\n<l>ṣaṣthe dvitīyalātparake nle mukhalācca sayatipadaniyamaḥ /</l>\n<l>carame 'rdhe pañcake tasmādiha bhavati ṣaṣṭho laḥ // KedV_2.2 //</l>\n</lg>\n\n<lg>\n<l>triṣvaṅkeṣu pādo dalayorādyeṣu dṛśyate yasyāḥ /</l>\n<l>pathyeti nāma tasyāḥ prakīrtitaṃ nāgarājena // KedV_2.3 //</l>\n</lg>\n\n<p>saṃlaṅghya gaṇatrayamādimaṃ śakalayordvayorbhavati pādaḥ / [saṃ(anunāsika)-laṅghya]\n<l>yasyāstāṃ piṅgalanāgo vipulāmiti samākhyāti // KedV_2.4 //</l></p>\n\n<lg>\n<l>ubhayārdhayorjakārau dvitīyaturyau gamadhyagau tasyāḥ /</l>\n<l>capaleti nāma tasyā prakīrtitaṃ nāgarājena // KedV_2.5 //</l>\n</lg>\n\n<lg>\n<l>ādyaṃ dalaṃ samastaṃ bhajeya lakṣma capalāgataṃ yasyāḥ /</l>\n<l>śeṣe pūrvajalakṣmā mukhacapalāsoditā muninā // KedV_2.6 //</l>\n</lg>\n\n<lg>\n<l>prākpratipāditamardhe prathame prathametare ca capalāyāḥ /</l>\n<l>lakṣmāśrayate soktā viśuddhadhībhirjaghanacapalā // KedV_2.7 //</l>\n</lg>\n\n<p>[ gīti-prakaraṇam (8-11) ]</p>\n\n<lg>\n<l>āryāorathamadaloktaṃ yadi kathamapi lakṣaṇaṃ bhavedubhayoḥ /</l>\n<l>dalayoḥ krṭayatiśobhāṃ tāṃ gītiṃ gītavānbhujaṅgeśaḥ // KedV_2.8 //</l>\n</lg>\n\n<lg>\n<l>āryādvitīyake 'rdhe yadgaditaṃ lakṣaṇaṃ tatsyāt /</l>\n<l>yadyubhayorapi dalayorupagītiṃ tā munirbrūte // KedV_2.9 //</l>\n</lg>\n\n<lg>\n<l>āryāśakaladvitayaṃ vyatyayaracitaṃ bhavedyasyāḥ /</l>\n<l>sodgītiḥ kila gaditā tadvadyatyaṃśabhedasaṃyuktā // KedV_2.10 //</l>\n</lg>\n\n<lg>\n<l>āryāpūrvārdhaṃ yadi guruṇaikenādhikena nidhane yuktam /</l>\n<l>itarattadvannikhilaṃ bhavati yadīyamarddhamuditāryāgītiḥ // KedV_2.11 //</l>\n</lg>\n\n<p>[ vaitālīya-prakaraṇam (12-20) ]</p>\n\n<lg>\n<l>ṣaḍviṣame 'ṣṭau same kalāstāśca same syurno nirantarāḥ /</l>\n<l>na samātra parāśritā kalā vaitālīye 'nte ralā guruḥ // KedV_2.12 //</l>\n</lg>\n\n<l>paryante ryau tathaiva śeṣamaupacchandasikaṃ sudhībhiruktam // KedV_2.13 //</l>\n\n<l>āpātalikā kathiteyaṃ bhādgurukāvatha pūrvavadanyat // KedV_2.14 //</l>\n\n<l>tṛtīyayugdakṣiṇāntikā samastapādeṣu dvitīyalaḥ // KedV_2.15 //</l>\n\n<l>udīcyavṛttirdvitīyalaḥ sakto 'greṇa bhavedayugmayoḥ // KedV_2.16 //</l>\n\n<l>pūrveṇa yuto 'tha pañcamaḥ prācyavṛttiruditeti yugmayoḥ // KedV_2.17 //</l>\n\n<l>yadā samāvojayugmakau pūrvayorbhavati tatpravṛttakam // KedV_2.18 //</l>\n\n<l>asya yugmaracitā 'parāntikā // KedV_2.19 //</l>\n\n<l>ayugbhavā cāruhāsinī // KedV_2.20 //</l>\n\n<p>[ vaktra-prakaraṇam (21-30) ]</p>\n\n<l>vaktraṃ nādyānnasau syātāmabdheryo 'nuṣṭubhi khyātam // KedV_2.21 //</l>\n\n<l>yujorjena saridbhartuḥ pathyāvaktraṃ prakīrtitam // KedV_2.22 //</l>\n\n<l>ojayorjena vāridhestadeva viparītādi // KedV_2.23 //</l>\n\n<l>capalāvaktramayujornakāraśvetpayorāśeḥ // KedV_2.24 //</l>\n\n<l>yasyā laḥ saptamo yugme sā yugmavipulā matā // KedV_2.25 //</l>\n\n<l>sautavasyā 'khileṣvapi // KedV_2.26 //</l>\n\n<l>bhenā 'bdhito bhādvipulā // KedV_2.27 //</l>\n\n<l>itthamanyā raścaturthāt // KedV_2.28 //</l>\n\n<l>no 'mbudheścennavipulā // KedV_2.29 //</l>\n\n<l>to 'bdhestatpūrvānyā bhavet // KedV_2.30 //</l>\n\n<p>[ mātrāsamaka-prakaraṇam (31-38) ]</p>\n\n<l>dviguṇitavasuladhuracaladhṛtiriti // KedV_2.31 //</l>\n\n<l>mātrāsamakaṃ navamo lgāntam // KedV_2.32 //</l>\n\n<l>jo nlāvathāmbudherviślokaḥ // KedV_2.33 //</l>\n\n<l>tadyugalādvānavāsikā syāt // KedV_2.34 //</l>\n\n<l>bāṇāṣṭanavasu yadi laścitā // KedV_2.35 //</l>\n\n<l>upacitrā navame parayukte // KedV_2.36 //</l>\n\n<lg>\n<l>yadatītakṛtavividhalakṣmayutairmātrāsamādipādaiḥ kalitam /</l>\n<l>aniyatavṛttaparimāṇayuktaṃ prathitaṃ jagatsu pādākulakam // KedV_2.37 //</l>\n</lg>\n\n<lg>\n<l>vṛttasya lā vinā varṇairgā varṇā gurubhistathā /</l>\n<l>guruvo lairdale nityaṃ pramāṇamiti niścitam // KedV_2.38 //</l>\n</lg>\n\n<lg>\n<l>śikhiguṇitadaśalaghuracitamapagatalaghuyugalamaparamidamakhilam /</l>\n<l>saguru śakalayugalakamapi suparighaṭitalalitapadavitati bhavati śikhā // KedV_2.39 //</l>\n</lg>\n\n<lg>\n<l>vinimayavinihitaśakalayugalakalitapadavitativiracitaguṇanicayā /</l>\n<l>śrutisukhakṛdiyamapi jagati ñi jaśira upagatavati sati bhavati khajā // KedV_2.40 //</l>\n</lg>\n\n<lg>\n<l>aṣṭāvardhe gā dvayabhyastā yasyāḥ sā 'naṅgakrīḍoktā /</l>\n<l>dalamaparamapi vasuguṇitasalilanidhilaghu kaviracitaṃ padavitati bhavati // KedV_2.41 //</l>\n</lg>\n\n<l>triguṇanavalaghuraṃvasitigururitidalayugakṛtatanuratirucirā // KedV_2.42 //</l>\n\n<p>iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ vṛttaratnākaravyākhyāyāṃ\nmātrāvṛttādhikāro nāma dvitīyo 'dhyāyaḥ //</p>\n\n</div>\n<div>\n\n<p>tṛtīyo 'dhyāyaḥ</p>\n\n<l>guḥ śtrīḥ // KedV_3.1 //</l>\n\n<l>gau strī // KedV_3.2 //</l>\n\n<l>mo nārī // KedV_3.3 //</l>\n\n<l>ro mṛgī // KedV_3.4 //</l>\n\n<l>mgau cetkanyā // KedV_3.5 //</l>\n\n<l>mgau giti paṅktiḥ // KedV_3.6 //</l>\n\n<l>tyau stastanumadhyā // KedV_3.7 //</l>\n\n<l>śaśivadanā nyau // KedV_3.8 //</l>\n\n<l>vidyullekhā mo maḥ // KedV_3.9 //</l>\n\n<l>tsā cedvasumatī // KedV_3.10 //</l>\n\n<l>msau gaḥ syānmadalekhāḥ // KedV_3.11 //</l>\n\n<l>bhau giti citrapadā gaḥ // KedV_3.12 //</l>\n\n<l>mo mo go go vidyunmālā // KedV_3.13 //</l>\n\n<l>māṇavakaṃ bhāttalagā // KedV_3.14 //</l>\n\n<l>mnau gau haṃsarutametat // KedV_3.15 //</l>\n\n<l>rjau samānikā galau ca // KedV_3.16 //</l>\n\n<l>pramāṇikā jarau lagau // KedV_3.17 //</l>\n\n<l>vitānamābhyāṃ yadanyat // KedV_3.18 //</l>\n\n<l>rāmnasāviha halamukhī // KedV_3.19 //</l>\n\n<l>bhujagaśiśubhṛtāṃ nau maḥ // KedV_3.20 //</l>\n\n<l>msā jgau śuddhavirāḍidaṃ matam // KedV_3.21 //</l>\n\n<l>mnau jgau ceti paṇavanāmakam // KedV_3.22 //</l>\n\n<l>rjau ragau mayūrasāriṇī syāt // KedV_3.23 //</l>\n\n<l>bhmau sagayuktau rukmavatīyam // KedV_3.24 //</l>\n\n<l>mattā jñeyā mabhasagayuktā // KedV_3.25 //</l>\n\n<l>narajagaurbhavenmanoramā // KedV_3.26 //</l>\n\n<l>tjau jo guruṇeyamupasthitā // KedV_3.27 //</l>\n\n<l>syādindravajrā yadi tau jagau gaḥ // KedV_3.28 //</l>\n\n<l>upendravajrā jatajāstato gau // KedV_3.29 //</l>\n\n<l>pādau yadīyāvupajātayastāḥ // KedV_3.30 //</l>\n\n<l>smaranti jātiṣvidameva nāma me // KedV_3.31 //</l>\n\n<l>najajalagairgaditā sumukhī // KedV_3.32 //</l>\n\n<l>dodhakavṛttamidaṃ bhabhabhādgau // KedV_3.33 //</l>\n\n<l>śālinyuktā mtau tagau go 'bdhilokaiḥ // KedV_3.34 //</l>\n\n<l>vātormīyaṃ kathitā mbhau tagau gaḥ // KedV_3.35 //</l>\n\n<l>vāṇarasaiḥ syādbhatanagagaiḥ śrīḥ // KedV_3.36 //</l>\n\n<l>mbhau nlau gaḥ syād bhramaravilasitam // KedV_3.37 //</l>\n\n<l>rānnarāviha rathoddhatā lagau // KedV_3.38 //</l>\n\n<l>svāgateti ranabhādguruyugmam // KedV_3.39 //</l>\n\n<l>nanaralagururacitā vṛntā // KedV_3.40 //</l>\n\n<l>nanaramagurubhiśca bhadrikā // KedV_3.41 //</l>\n\n<l>śyenikā rajau ralau gururpadā // KedV_3.42 //</l>\n\n<l>mauktikamālā yadi bhatanādgau // KedV_3.43 //</l>\n\n<l>upasthitamidaṃ jsau tādgakārau // KedV_3.44 //</l>\n\n<l>candravartma nigadanti ranabhasaiḥ // KedV_3.45 //</l>\n\n<l>jatau tu vaṃśasthamudīritaṃ jarau // KedV_3.46 //</l>\n\n<l>syādindravaṃśā tatajai rasaṃyutaiḥ // KedV_3.47 //</l>\n\n<l>iha toṭakamambudhisaiḥ prathitam // KedV_3.48 //</l>\n\n<l>drutavilambitamāha nabhau bharau // KedV_3.49 //</l>\n\n<l>minuśaraviratirnau myau puṭo 'yam // KedV_3.50 //</l>\n\n<l>pramuditavadanā bhavennau ca rau // KedV_3.51 //</l>\n\n<l>nayasahitau nyau kusumavacitrā // KedV_3.52 //</l>\n\n<l>rasairjasajasā jaloddhatagatiḥ // KedV_3.53 //</l>\n\n<l>caturjagaṇaṃ vada mauktikadāma // KedV_3.54 //</l>\n\n<l>bhujaṅgaprayātaṃ bhavedyaiścatubhiḥ // KedV_3.55 //</l>\n\n<l>raiścaturbhiryutā sragviṇī sammatā // KedV_3.56 //</l>\n\n<l>bhuvi bhavennabhajaraiḥ priyaṃvadā // KedV_3.57 //</l>\n\n<l>tyau tyau maṇimālā cchinnā guhavaktraiḥ // KedV_3.58 //</l>\n\n<l>dhīrairabhāṇi lalitā tabhaujarau // KedV_3.59 //</l>\n\n<l>pramitākṣarā sajasasairuditā // KedV_3.60 //</l>\n\n<l>nanabharasahitā mahitojjvalā // KedV_3.61 //</l>\n\n<l>pañcāśvaiśchinnā vaiśyadevī mamau yau // KedV_3.62 //</l>\n\n<l>abdhyaṣṭābhirjaladharamālā mbhau smau // KedV_3.63 //</l>\n\n<l>iha navamālikā najabhayaiḥ syāt // KedV_3.64 //</l>\n\n<l>svaraśaraviratirnanau rau prabhā // KedV_3.65 //</l>\n\n<l>bhavati najāvatha mālatī jarau // KedV_3.66 //</l>\n\n<l>jabhau jarau vadati pañcāmaram // KedV_3.67 //</l>\n\n<l>abhinavatāmarasaṃ najajādyaḥ // KedV_3.68 //</l>\n\n<l>turagarasayatirnau tatau gaḥ kṣamā // KedV_3.69 //</l>\n\n<l>mnau jrau gastridaśayatiḥ praharṣiṇīam // KedV_3.70 //</l>\n\n<l>caturgrahairatirucirā jabhasjagāḥ // KedV_3.71 //</l>\n\n<l>vedai randhrairmtau yasagā mattamayūram // KedV_3.72 //</l>\n\n<l>( upasthitamidaṃ jsau tsau sagurukaṃ cet ) // KedV_3.73 //</l>\n\n<l>sajasā jagau bhavati mañjubhāṣiṇī // KedV_3.74 //</l>\n\n<l>nanatatagurubhiścandrikāśvartubhiḥ // KedV_3.75 //</l>\n\n<l>mtau nsau gāvakṣagrahaviratisambādhā // KedV_3.76 //</l>\n\n<l>nanarasalaghugaiḥ svarairaparājitā // KedV_3.77 //</l>\n\n<l>nanabhanalaghugaiḥ praharaṇakalitā // KedV_3.78 //</l>\n\n<l>uktā vasantatilakā tabhajā jagau gaḥ // KedV_3.79 //</l>\n\n<l>siṃhonnateyamuditā munikāśyapena // KedV_3.80 //</l>\n\n<l>uddharṣiṇīyamuditā munisaitavena // KedV_3.81 //</l>\n\n<l>induvadanā bhajasanaiḥ saguruyugmaiḥ // KedV_3.82 //</l>\n\n<l>dviḥsaptacchidalolā msau mbhau gau caraṇe cet // KedV_3.83 //</l>\n\n<l>dvihatahayalaghuratha giti śaśikalā // KedV_3.84 //</l>\n\n<l>sragiti bhavati rasanavakayatiriyam // KedV_3.85 //</l>\n\n<l>vasuhayayatiriha maṇiguṇanikaraḥ // KedV_3.86 //</l>\n\n<l>nanamayayayuteyaṃ mālinī bhogilokaiḥ // KedV_3.87 //</l>\n\n<l>bhavati najau bhajau rasahitau prabhadrakam // KedV_3.88 //</l>\n\n<l>sajanā nayau śaradaśayatiriyamelā // KedV_3.89 //</l>\n\n<l>mrau myau yāntau bhavetāṃ saptāṣṭabhiścandralekhā // KedV_3.90 //</l>\n\n<l>bhratrinagaiḥ svarātkhamṛṣabhagajavilasitam // KedV_3.91 //</l>\n\n<l>najabhajaraiḥ sadā bhavati vāṇinī gayuktaiḥ // KedV_3.92 //</l>\n\n<l>rasai rudraiśchinnā yamanasabhalā gaḥ śikhariṇī // KedV_3.93 //</l>\n\n<l>jasau jasayalā vasugrahayatiśca pṛthvī guruḥ // KedV_3.94 //</l>\n\n<l>diṅmuni vaṃśapatrapatitaṃ bharanabhanalagaiḥ // KedV_3.95 //</l>\n\n<l>rasayugahayairnsau mrau slau gau yadā hariṇī tadā // KedV_3.96 //</l>\n\n<l>mandākrāntā jaladhiṣaḍagairmbhaunatau tād guru cet // KedV_3.97 //</l>\n\n<l>hayadaśabhirnajau bhajajalā guru narkuṭakam // KedV_3.98 //</l>\n\n<l>muniguhakārṃavaiḥ kṛtayati vada kokilakam // KedV_3.99 //</l>\n\n<l>syād bhūtartvaśvaiḥ kusumitalatāvellitā mtau nayau yau // KedV_3.100 //</l>\n\n<l>sūryāśvairmasajastatāḥ saguravaḥ śārdūlavikrīḍitam // KedV_3.101 //</l>\n\n<l>jñeyā saptāśvaṣaḍbhrmarabhanayayutā bhlo gaḥ suvadanā // KedV_3.102 //</l>\n\n<l>trī rajau galau bhavedihedṛśena lakṣaṇena vṛttanāma // KedV_3.103 //</l>\n\n<l>mrabhnairyānāṃ trayeṇa trimuniyatiyutā sragdharā kīrtiteyam // KedV_3.104 //</l>\n\n<l>bhrau naranā ranāvatha gururdigarkaviramaṃ hi bhadrakamiti // KedV_3.105 //</l>\n\n<l>yadiha najau bhajau bhjabhalagāstadaśvalalitaṃ harārkayatimam // KedV_3.106 //</l>\n\n<l>matākrīḍā mau tnau nau nalgiti bhavati vasuśaradaśayatiyutā // KedV_3.107 //</l>\n\n<l>bhūtamuninairyatiriha bhatanāḥ sbhau bhanayāśca yadi bhavati tanvī // KedV_3.108 //</l>\n\n<l>krauñjapadā bhamau smau nananā ngāviṣaśaravasumuniviratiriha bhavet // KedV_3.109 //</l>\n\n<l>vasvīśāśvacchedopetaṃ mamatanayuganarasalagairbhujaṅgavijṛmbhitam // KedV_3.110 //</l>\n\n<l>mo nāḥ ṣaṭ sagagiti yadi navarasarasaśarayatiyutamapavāhākhyam // KedV_3.111 //</l>\n\n<l>yadi ha nayugalaṃ tataḥ saptarephā stadā caṇḍavṛṣṭiprapāto bhaveddaṇḍakaḥ // KedV_3.112 //</l>\n\n<l>praticaraṇavivṛddharephāḥ syurṇārṇavavyālajīmūtalīlākaroddāmaśaṅkhādayaḥ // KedV_3.113 //</l>\n\n<l>pracitakasamabhidho dhīradhībhiḥ smṛtodaṇḍako nadvayāduttaraiḥ saptabhiryaiḥ // KedV_3.114 //</l>\n\n<p>iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ\nvṛttaratnākaravyākhyāyāṃ samavṛttādhyāyastṛtīyaḥ //</p>\n\n</div>\n<div>\n\n<p>caturtho 'dhyāyaḥ</p>\n\n<l>viṣame yadi sau salagā dale bhau yuji bhād gurukāvupacitram // KedV_4.1 //</l>\n\n<l>bhatrayamojagataṃ guruṇī cedyuji ca najau jyayutā drutamadhyā // KedV_4.2 //</l>\n\n<l>sayugātsagurū viṣame cedbhāviha vegavatī yuji bhādgau // KedV_4.3 //</l>\n\n<l>oje taparau jarau guruścenmasau jgaugbhadravirāṅ bhavedanoje // KedV_4.4 //</l>\n\n<l>asame sajo saguruyuktau ketumatī same bharanagādgaḥ // KedV_4.5 //</l>\n\n<l>ākhyānakīṃ tau jagurū ga oje jatāvanoje jagurū guruścet // KedV_4.6 //</l>\n\n<l>jatau jagau go viṣame same cettau jgau ga eṣā viparītapūrvā // KedV_4.7 //</l>\n\n<l>sayugātsalaghū viṣame gururyuji nabhau bharakau hariṇaplutā // KedV_4.8 //</l>\n\n<l>ayuji nanaralā guruḥ samenjamaparavaktramidaṃ tato jarau // KedV_4.9 //</l>\n\n<l>ayuji nayugarephato yakāro yuji ca najau jaragāśca puṣpitāgrā // KedV_4.10 //</l>\n\n<lg>\n<l>vadantyaparavaktrākhyaṃ vaitālīyaṃ vipaścitaḥ /</l>\n<l>puṣpatāgrābhidhaṃ kecidaupacchandasikaṃ tathā // KedV_4.11 //</l>\n</lg>\n\n<l>syāayugmake rajau rayau same cejjarau jarau gururyavātparā matīyam // KedV_4.12 //</l>\n\n<p>iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ\nvṛttaratnākaravyākhyāyāmardhasamādhyāyaścaturthaḥ //</p>\n\n</div>\n<div>\n\n<p>pañcamo 'dhyāyaḥ</p>\n\n<p>[padacaturūrdhva-prakaraṇam (1-5)]</p>\n\n<p>mukhavādo 'ṣṭabhirvarṇaiḥ pare syurmakarālayaiḥ kramād vṛddhaiḥ //</p>\n\n<p>satataṃ yasya vicitraiḥ pādaiḥ sampannasaundaryaṃ\n<l>taduditamamalamatibhiḥ padacaturūrdhvābhidhaṃ vṛttam // KedV_5.1 //</l></p>\n\n<p>prathamamuditavṛtte viracitaviṣamacaraṇabhāji //</p>\n\n<p>gurukayugalanidhana iha sahita āṅā\n<l>laghuviratapadavitatiyatiriti bhavati pīḍaḥ // KedV_5.2 //</l></p>\n\n<lg>\n<l>prathamamitaracaraṇasamutthaṃ śrayati sa yadi lakṣma /</l>\n<l>itaraditaragatitamapi yadi ca turyaṃ</l>\n<l>caraṇayugalakamiti kalikā sā // KedV_5.3 //</l>\n</lg>\n\n<lg>\n<l>dviguruyutasamalacaraṇāntā mukhacaraṇagatamanubhavati ca tṛtīyaḥ /</l>\n<l>aparamiha lakṣma prakṛtamakhilamapi yadidamanubhavati lavalī sā // KedV_5.4 //</l>\n</lg>\n\n<lg>\n<l>prathamadhivasati yadi turyaṃ, caramacaraṇapadamavasitaguruyugmam /</l>\n<l>nikhilamaparamuparigatamiti lalitapadayuktā, tadidamamṛtadhārā // KedV_5.5 //</l>\n</lg>\n\n<p>[udgatā-prakaraṇam (6-8)]</p>\n\n<lg>\n<l>sajādime salaghukau ca nasajagurukairathodgatā /</l>\n<l>tryaṅghrigatabhanajalā gayutāḥ sajasā agau caraṇamekataḥ paṭhet // KedV_5.6 //</l>\n</lg>\n\n<lg>\n<l>caraṇatrayaṃ vrajati lakṣma yadi sakalamudgatāgatam /</l>\n<l>nā bhagau bhavati saurabhakaṃ caraṇe yadīha bhavatastṛtīyake // KedV_5.7 //</l>\n</lg>\n\n<lg>\n<l>nayugaṃ sakārayugalaṃ ca bhavati caraṇe tṛtīyake /</l>\n<l>taduditamurumatibhirlalitaṃ yadi śeṣamasya khalu pūrvatulyakam // KedV_5.8 //</l>\n</lg>\n\n<p>[upasthitapracupita-prakaraṇam (9-11)]</p>\n\n<lg>\n<l>msau jbhau gau prathamāṅghrirekataḥ pṛthaganyattritayaṃ sanajaragāstato nanau saḥ /</l>\n<l>trinaparikalitajayau pracupitamidamuditamupasthitapūrvam // KedV_5.9 //</l>\n</lg>\n\n<lg>\n<l>nau pāde 'tha tṛtīyake sanau nasayuktau prathamāṅghrikṛtayatistu vardhamānam /</l>\n<l>tritayamaparamapi pūrvasadṛśamiha bhavati pratatamatibhiriti gaditaṃ laghu vṛttam // KedV_5.10 //</l>\n</lg>\n\n<p>prathame ca viratirārṣabhaṃ bruvanti //</p>\n\n<l>tacchuddhavirāṭ puraḥ sthitaṃ tritayamaparamapi yadi pūrvasamaṃ syāt // KedV_5.11 //</l>\n\n<lg>\n<l>viṣamākṣarapādaṃ vā pādairasamaṃ daśadhrmavat /</l>\n<l>yacchando noktamatra gātheti tatsūribhiḥ proktam // KedV_5.12 //</l>\n</lg>\n\n<p>iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ vṛttaratnākaravyākhyāyāṃ\npañcamo 'dhyāyaḥ //</p>\n\n</div>\n<div>\n\n<p>ṣaṣṭho 'dhyāyaḥ</p>\n\n<p>[prastāraḥ]</p>\n\n<lg>\n<l>prastāro naṣṭamuddiṣṭamekadvayādilagakriyā /</l>\n<l>saṅkhyānamadhvayogaśca ṣaḍete pratyayāḥ smṛtāḥ // KedV_6.1 //</l>\n</lg>\n\n<lg>\n<l>pāde sarvagurāvādyāllaghuṃ nyasya guroradhaḥ /</l>\n<l>yathopari tathā śeṣaṃ bhūyaḥ kuryādamuṃ vidhim // KedV_6.2 //</l>\n</lg>\n\n<lg>\n<l>ūne dadyād gurūneva yāvatsarvalaghurbhavet /</l>\n<l>prastāro 'yaṃ samākhyātaśchandovicitivedibhiḥ // KedV_6.3 //</l>\n</lg>\n\n<p>[naṣṭam]</p>\n\n<p>naṣṭasya yo bhavedaṅkastasyārdhe 'rdhe same ca laḥ //</p>\n\n<l>viṣame caikamādhāya syādardhe 'rdhe gurubhavet // KedV_6.4 //</l>\n\n<p>[uddiṣṭam]</p>\n\n<lg>\n<l>uddiṣṭaṃ dviguṇānādyāduparyaṅkānsamālikhet /</l>\n<l>laghusthā ye ca tatrāṅkāstaiḥ saikairmiśritairbhavet // KedV_6.5 //</l>\n</lg>\n\n<p>[ekadvayādilagakriyā]</p>\n\n<lg>\n<l>varṇānvṛttabhavānsaikānauttarādharyataḥ sthitān /</l>\n<l>ekādikramataścaitānuparyupari nikṣipet // KedV_6.6 //</l>\n</lg>\n\n<lg>\n<l>upāntyato nivarteta tyajannekaikamūrdhvataḥ /</l>\n<l>uparyādyād gurorekamekadvyādilagakriyā // KedV_6.7 //</l>\n</lg>\n\n<p>[saṅkhyānam]</p>\n\n<lg>\n<l>lagakriyāṅkasandohe bhavetsaṅkhyā vimiśrite /</l>\n<l>uddiṣṭāṅkasamāhāraḥ saikā vā janayedimām // KedV_6.8 //</l>\n</lg>\n\n<p>[adhvayogaḥ]</p>\n\n<p>saṅkhyaiva dviguṇaikonā sadbhiradhvā prakīrtitaḥ //</p>\n\n<l>vṛttasyāṅgulikā vyāptiradhaḥ kuryāttathāṅgulim // KedV_6.9 //</l>\n\n<lg>\n<l>vaṃśe 'bhūtkaśyapasya prakaṭaguṇagaṇaḥ śaivasiddhāntavettā</l>\n<l>vipraḥ pavyekanāmā vimalataramatirvedatattvārthabodhe /</l>\n<l>kedārastasya sūnuḥ śivacaraṇayugārādhanaikāgracittaśchandastenābhirāmaṃ</l>\n<l>vṛttaratnākarākhyam // KedV_6.10 //</l>\n</lg>\n\n<p>iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ vṛttaratnākaravyākhyāyāṃ\nprastārādhyāyaḥ ṣaṣṭhaḥ samāptaḥ //</p>\n\n</div>\n<div>\n\n  </div>\n</body>\n\n"
+  "file_title": "kedārabhaṭṭa-vṛttaratnākara",
+  "file_title_normal": "kedarabhatta-vrttaratnakara",
+  "metadata": {
+    "original_title": "Vṛttaratnākara",
+    "author": "Kedārabhaṭṭa",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Masahiro Takano",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Masahiro Takano",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Śrī Kedāra Nātha Śarmā: Vṛttaratnākara : with a commentary of Bhaṭṭa Nārāyaṇa Bhaṭṭ and notes etc. by Vaidya Nātha Śāstrī Varakale, edited with the Maṇimayī Hindī Commentary. -- 6th ed. Varanasi : Chaukhambha Sanskrit Sansthan , 1980. (The Kashi Sanskrit Series ; 55)"
+  },
+  "body": [
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[śrīḥ]"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[vṛttaratnākaraḥ]"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "prathamo 'dhyāyaḥ"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sukhasantānasiddhyarthaṃ natvā brahmā 'cyutā 'rcitam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gaurīvināyakopetaṃ śaṅkaraṃ lokaśaṅkaram // KedV_1.1 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vedārthaśaivaśāstrajñaḥ pavyeko 'bhūd lokaśaṅkaram /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasya putro 'sti kedāraḥ śivapādārcane rataḥ // KedV_1.2 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tenedaṃ kriyate chando lakṣyalakṣaṇasaṃyutam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vṛttaratnākaraṃ nāma bālānāṃ sukhasiddhye // KedV_1.3 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "piṅgalādibhrācāryairyaduktaṃ laukikaṃ dvidhā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mātrāvarṇavibhedena cchandastadiha kathyate // KedV_1.4 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ṣaḍadhyāyanibaddhasya cchandaso 'sya parisphuṭam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pramāṇamapi vijñeyaṃ ṣaḍtriṃśadadhikaṃ śatam // KedV_1.5 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "myarastajabhnagairlāntairebhirdaśabhirakṣaraiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "samastaṃ vāṅmayaṃ vyāptaṃ trailokyamiva viṣṇunā // KedV_1.6 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvagurmo mukhāntarlau yarāvantagalau satau /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gmadhyādyau jmau trilo no 'ṣṭau bhavantyatra gaṇāstrikāḥ // KedV_1.7 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jñeyāḥ sarvāntamadhyādiguravo 'tra catuṣkalāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gaṇāścaturlaghūpetāḥ pañcāryādiṣu saṃsthitāḥ // KedV_1.8 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sānusvāro visargānto dīrgho yuktaparaśca yaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vā pādānte tvasau gvakro jñeyo 'nyo mātriko lṛjuḥ // KedV_1.9 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pādādāviha varṇasya saṃyogaḥ kramasaṃjñakaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "puraḥsthitena tena syāllaghutā 'pi kvacid guroḥ // KedV_1.10 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "taruṇaṃ sarṣapaśākaṃ navaudanaṃ picchilāni ca dadhīni /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "alpavyayena sundari (!) grāmyajano miṣṭamiśnāti // KedV_1.11 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "abdhibhūtarasādīnāṃ jñeyāḥ saṃjñāstu lokataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jñeyaḥ pādaścaturthāśo yatirvicchedasaṃjñitaḥ // KedV_1.12 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yuksamaṃ viṣamaṃ cālūksthānaṃ sadbhirnigadyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "samamardhasamaṃ vṛttaṃ viṣamaṃ ca tathāparam // KedV_1.13 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aṅghrayo yasya catvārastulyalakṣaṇalakṣitāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tacchandaḥśāstratattvajñāḥ samaṃ vṛttaṃ pracakṣate // KedV_1.14 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prathamāṅghrisamo yasya tṛtīyaścaraṇo bhavet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dvitīyasturyavadvṛttaṃ tadardhasamamucyate // KedV_1.15 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yasya pādacatuṣke 'pi lakṣma bhinnaṃ parasparam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tadāhurviṣamaṃ vṛttaṃ chandaḥśāstraviśāradāḥ // KedV_1.16 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ārabhyaikākṣārātpādādekaikakṣaravaddhitaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pṛthakchando bhavetpādairyāvatṣaḍviṃśatiṃ gatam // KedV_1.17 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tadūrdhvaṃ caṇḍavṛṣṭyādidaṇḍakāḥ parikīrtitāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śeṣaṃ gāthāstribhiḥ ṣaḍbhiścaraṇaiścopalakṣitāḥ // KedV_1.18 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "uktā 'tyuktā tathā madhyā pratiṣṭhā 'nyā supūrvikā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gāyatryuṣṇiganuṣṭup ca bṛhatī paṅktireva ca // KedV_1.19 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "triṣṭup ca jagatī caiva tathā 'tijagatī matā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śakvarī sā 'tipūrvā syādaṣṭyatyaṣṭī tataḥ smṛte // KedV_1.20 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhṛtiścā 'tidhṛtiścaiva krṭiḥ prakṛtirākṛtiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vikṛtiḥ saṅkṛtiścaiva tathā 'tikṛtirutkṛtiḥ // KedV_1.21 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ityuktāśchandasāṃ saṃjñāḥ kramato vacmi sāmpratam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "lakṣaṇaṃ sarvavṛttānāṃ mātrāvṛttā 'nupūrvakam // KedV_1.22 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "iti śrīkedārabhaṭṭaviracite vṛttaratnākare saṃjñābhidhāno nāma prathamo 'dhyāyaḥ /"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "dvitīyo 'dhyāyaḥ"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[ āryā-prakaraṇam (1-7) ]"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "lakṣmaitatsapta gaṇā gopetā bhavati neha viṣame jaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ṣaṣṭho 'yaṃ nalaghū vā prathame 'rdhe niyatamāryāyāḥ // KedV_2.1 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ṣaṣthe dvitīyalātparake nle mukhalācca sayatipadaniyamaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "carame 'rdhe pañcake tasmādiha bhavati ṣaṣṭho laḥ // KedV_2.2 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "triṣvaṅkeṣu pādo dalayorādyeṣu dṛśyate yasyāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pathyeti nāma tasyāḥ prakīrtitaṃ nāgarājena // KedV_2.3 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "saṃlaṅghya gaṇatrayamādimaṃ śakalayordvayorbhavati pādaḥ / [saṃ(anunāsika)-laṅghya]",
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yasyāstāṃ piṅgalanāgo vipulāmiti samākhyāti // KedV_2.4 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ubhayārdhayorjakārau dvitīyaturyau gamadhyagau tasyāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "capaleti nāma tasyā prakīrtitaṃ nāgarājena // KedV_2.5 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ādyaṃ dalaṃ samastaṃ bhajeya lakṣma capalāgataṃ yasyāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śeṣe pūrvajalakṣmā mukhacapalāsoditā muninā // KedV_2.6 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prākpratipāditamardhe prathame prathametare ca capalāyāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "lakṣmāśrayate soktā viśuddhadhībhirjaghanacapalā // KedV_2.7 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[ gīti-prakaraṇam (8-11) ]"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "āryāorathamadaloktaṃ yadi kathamapi lakṣaṇaṃ bhavedubhayoḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dalayoḥ krṭayatiśobhāṃ tāṃ gītiṃ gītavānbhujaṅgeśaḥ // KedV_2.8 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "āryādvitīyake 'rdhe yadgaditaṃ lakṣaṇaṃ tatsyāt /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yadyubhayorapi dalayorupagītiṃ tā munirbrūte // KedV_2.9 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "āryāśakaladvitayaṃ vyatyayaracitaṃ bhavedyasyāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sodgītiḥ kila gaditā tadvadyatyaṃśabhedasaṃyuktā // KedV_2.10 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "āryāpūrvārdhaṃ yadi guruṇaikenādhikena nidhane yuktam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "itarattadvannikhilaṃ bhavati yadīyamarddhamuditāryāgītiḥ // KedV_2.11 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[ vaitālīya-prakaraṇam (12-20) ]"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ṣaḍviṣame 'ṣṭau same kalāstāśca same syurno nirantarāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na samātra parāśritā kalā vaitālīye 'nte ralā guruḥ // KedV_2.12 //"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paryante ryau tathaiva śeṣamaupacchandasikaṃ sudhībhiruktam // KedV_2.13 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āpātalikā kathiteyaṃ bhādgurukāvatha pūrvavadanyat // KedV_2.14 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tṛtīyayugdakṣiṇāntikā samastapādeṣu dvitīyalaḥ // KedV_2.15 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "udīcyavṛttirdvitīyalaḥ sakto 'greṇa bhavedayugmayoḥ // KedV_2.16 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pūrveṇa yuto 'tha pañcamaḥ prācyavṛttiruditeti yugmayoḥ // KedV_2.17 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadā samāvojayugmakau pūrvayorbhavati tatpravṛttakam // KedV_2.18 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asya yugmaracitā 'parāntikā // KedV_2.19 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ayugbhavā cāruhāsinī // KedV_2.20 //"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[ vaktra-prakaraṇam (21-30) ]"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vaktraṃ nādyānnasau syātāmabdheryo 'nuṣṭubhi khyātam // KedV_2.21 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yujorjena saridbhartuḥ pathyāvaktraṃ prakīrtitam // KedV_2.22 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ojayorjena vāridhestadeva viparītādi // KedV_2.23 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "capalāvaktramayujornakāraśvetpayorāśeḥ // KedV_2.24 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yasyā laḥ saptamo yugme sā yugmavipulā matā // KedV_2.25 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sautavasyā 'khileṣvapi // KedV_2.26 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhenā 'bdhito bhādvipulā // KedV_2.27 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "itthamanyā raścaturthāt // KedV_2.28 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "no 'mbudheścennavipulā // KedV_2.29 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "to 'bdhestatpūrvānyā bhavet // KedV_2.30 //"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[ mātrāsamaka-prakaraṇam (31-38) ]"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dviguṇitavasuladhuracaladhṛtiriti // KedV_2.31 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mātrāsamakaṃ navamo lgāntam // KedV_2.32 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jo nlāvathāmbudherviślokaḥ // KedV_2.33 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadyugalādvānavāsikā syāt // KedV_2.34 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bāṇāṣṭanavasu yadi laścitā // KedV_2.35 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upacitrā navame parayukte // KedV_2.36 //"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yadatītakṛtavividhalakṣmayutairmātrāsamādipādaiḥ kalitam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aniyatavṛttaparimāṇayuktaṃ prathitaṃ jagatsu pādākulakam // KedV_2.37 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vṛttasya lā vinā varṇairgā varṇā gurubhistathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "guruvo lairdale nityaṃ pramāṇamiti niścitam // KedV_2.38 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śikhiguṇitadaśalaghuracitamapagatalaghuyugalamaparamidamakhilam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saguru śakalayugalakamapi suparighaṭitalalitapadavitati bhavati śikhā // KedV_2.39 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vinimayavinihitaśakalayugalakalitapadavitativiracitaguṇanicayā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śrutisukhakṛdiyamapi jagati ñi jaśira upagatavati sati bhavati khajā // KedV_2.40 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aṣṭāvardhe gā dvayabhyastā yasyāḥ sā 'naṅgakrīḍoktā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dalamaparamapi vasuguṇitasalilanidhilaghu kaviracitaṃ padavitati bhavati // KedV_2.41 //"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "triguṇanavalaghuraṃvasitigururitidalayugakṛtatanuratirucirā // KedV_2.42 //"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ vṛttaratnākaravyākhyāyāṃ\nmātrāvṛttādhikāro nāma dvitīyo 'dhyāyaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "tṛtīyo 'dhyāyaḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guḥ śtrīḥ // KedV_3.1 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gau strī // KedV_3.2 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mo nārī // KedV_3.3 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ro mṛgī // KedV_3.4 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mgau cetkanyā // KedV_3.5 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mgau giti paṅktiḥ // KedV_3.6 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tyau stastanumadhyā // KedV_3.7 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śaśivadanā nyau // KedV_3.8 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidyullekhā mo maḥ // KedV_3.9 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tsā cedvasumatī // KedV_3.10 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "msau gaḥ syānmadalekhāḥ // KedV_3.11 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhau giti citrapadā gaḥ // KedV_3.12 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mo mo go go vidyunmālā // KedV_3.13 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māṇavakaṃ bhāttalagā // KedV_3.14 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mnau gau haṃsarutametat // KedV_3.15 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rjau samānikā galau ca // KedV_3.16 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pramāṇikā jarau lagau // KedV_3.17 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vitānamābhyāṃ yadanyat // KedV_3.18 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rāmnasāviha halamukhī // KedV_3.19 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhujagaśiśubhṛtāṃ nau maḥ // KedV_3.20 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "msā jgau śuddhavirāḍidaṃ matam // KedV_3.21 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mnau jgau ceti paṇavanāmakam // KedV_3.22 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rjau ragau mayūrasāriṇī syāt // KedV_3.23 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhmau sagayuktau rukmavatīyam // KedV_3.24 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mattā jñeyā mabhasagayuktā // KedV_3.25 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "narajagaurbhavenmanoramā // KedV_3.26 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tjau jo guruṇeyamupasthitā // KedV_3.27 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "syādindravajrā yadi tau jagau gaḥ // KedV_3.28 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upendravajrā jatajāstato gau // KedV_3.29 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pādau yadīyāvupajātayastāḥ // KedV_3.30 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "smaranti jātiṣvidameva nāma me // KedV_3.31 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "najajalagairgaditā sumukhī // KedV_3.32 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dodhakavṛttamidaṃ bhabhabhādgau // KedV_3.33 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śālinyuktā mtau tagau go 'bdhilokaiḥ // KedV_3.34 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vātormīyaṃ kathitā mbhau tagau gaḥ // KedV_3.35 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāṇarasaiḥ syādbhatanagagaiḥ śrīḥ // KedV_3.36 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mbhau nlau gaḥ syād bhramaravilasitam // KedV_3.37 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rānnarāviha rathoddhatā lagau // KedV_3.38 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svāgateti ranabhādguruyugmam // KedV_3.39 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nanaralagururacitā vṛntā // KedV_3.40 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nanaramagurubhiśca bhadrikā // KedV_3.41 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śyenikā rajau ralau gururpadā // KedV_3.42 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mauktikamālā yadi bhatanādgau // KedV_3.43 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upasthitamidaṃ jsau tādgakārau // KedV_3.44 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "candravartma nigadanti ranabhasaiḥ // KedV_3.45 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jatau tu vaṃśasthamudīritaṃ jarau // KedV_3.46 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "syādindravaṃśā tatajai rasaṃyutaiḥ // KedV_3.47 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iha toṭakamambudhisaiḥ prathitam // KedV_3.48 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "drutavilambitamāha nabhau bharau // KedV_3.49 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "minuśaraviratirnau myau puṭo 'yam // KedV_3.50 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pramuditavadanā bhavennau ca rau // KedV_3.51 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nayasahitau nyau kusumavacitrā // KedV_3.52 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rasairjasajasā jaloddhatagatiḥ // KedV_3.53 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturjagaṇaṃ vada mauktikadāma // KedV_3.54 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhujaṅgaprayātaṃ bhavedyaiścatubhiḥ // KedV_3.55 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "raiścaturbhiryutā sragviṇī sammatā // KedV_3.56 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhuvi bhavennabhajaraiḥ priyaṃvadā // KedV_3.57 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tyau tyau maṇimālā cchinnā guhavaktraiḥ // KedV_3.58 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhīrairabhāṇi lalitā tabhaujarau // KedV_3.59 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pramitākṣarā sajasasairuditā // KedV_3.60 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nanabharasahitā mahitojjvalā // KedV_3.61 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pañcāśvaiśchinnā vaiśyadevī mamau yau // KedV_3.62 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abdhyaṣṭābhirjaladharamālā mbhau smau // KedV_3.63 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iha navamālikā najabhayaiḥ syāt // KedV_3.64 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svaraśaraviratirnanau rau prabhā // KedV_3.65 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhavati najāvatha mālatī jarau // KedV_3.66 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jabhau jarau vadati pañcāmaram // KedV_3.67 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhinavatāmarasaṃ najajādyaḥ // KedV_3.68 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "turagarasayatirnau tatau gaḥ kṣamā // KedV_3.69 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mnau jrau gastridaśayatiḥ praharṣiṇīam // KedV_3.70 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturgrahairatirucirā jabhasjagāḥ // KedV_3.71 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vedai randhrairmtau yasagā mattamayūram // KedV_3.72 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "( upasthitamidaṃ jsau tsau sagurukaṃ cet ) // KedV_3.73 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sajasā jagau bhavati mañjubhāṣiṇī // KedV_3.74 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nanatatagurubhiścandrikāśvartubhiḥ // KedV_3.75 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mtau nsau gāvakṣagrahaviratisambādhā // KedV_3.76 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nanarasalaghugaiḥ svarairaparājitā // KedV_3.77 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nanabhanalaghugaiḥ praharaṇakalitā // KedV_3.78 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uktā vasantatilakā tabhajā jagau gaḥ // KedV_3.79 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "siṃhonnateyamuditā munikāśyapena // KedV_3.80 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uddharṣiṇīyamuditā munisaitavena // KedV_3.81 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "induvadanā bhajasanaiḥ saguruyugmaiḥ // KedV_3.82 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dviḥsaptacchidalolā msau mbhau gau caraṇe cet // KedV_3.83 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvihatahayalaghuratha giti śaśikalā // KedV_3.84 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sragiti bhavati rasanavakayatiriyam // KedV_3.85 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vasuhayayatiriha maṇiguṇanikaraḥ // KedV_3.86 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nanamayayayuteyaṃ mālinī bhogilokaiḥ // KedV_3.87 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhavati najau bhajau rasahitau prabhadrakam // KedV_3.88 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sajanā nayau śaradaśayatiriyamelā // KedV_3.89 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mrau myau yāntau bhavetāṃ saptāṣṭabhiścandralekhā // KedV_3.90 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhratrinagaiḥ svarātkhamṛṣabhagajavilasitam // KedV_3.91 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "najabhajaraiḥ sadā bhavati vāṇinī gayuktaiḥ // KedV_3.92 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rasai rudraiśchinnā yamanasabhalā gaḥ śikhariṇī // KedV_3.93 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jasau jasayalā vasugrahayatiśca pṛthvī guruḥ // KedV_3.94 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "diṅmuni vaṃśapatrapatitaṃ bharanabhanalagaiḥ // KedV_3.95 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rasayugahayairnsau mrau slau gau yadā hariṇī tadā // KedV_3.96 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mandākrāntā jaladhiṣaḍagairmbhaunatau tād guru cet // KedV_3.97 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hayadaśabhirnajau bhajajalā guru narkuṭakam // KedV_3.98 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "muniguhakārṃavaiḥ kṛtayati vada kokilakam // KedV_3.99 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "syād bhūtartvaśvaiḥ kusumitalatāvellitā mtau nayau yau // KedV_3.100 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sūryāśvairmasajastatāḥ saguravaḥ śārdūlavikrīḍitam // KedV_3.101 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñeyā saptāśvaṣaḍbhrmarabhanayayutā bhlo gaḥ suvadanā // KedV_3.102 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trī rajau galau bhavedihedṛśena lakṣaṇena vṛttanāma // KedV_3.103 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mrabhnairyānāṃ trayeṇa trimuniyatiyutā sragdharā kīrtiteyam // KedV_3.104 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhrau naranā ranāvatha gururdigarkaviramaṃ hi bhadrakamiti // KedV_3.105 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadiha najau bhajau bhjabhalagāstadaśvalalitaṃ harārkayatimam // KedV_3.106 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "matākrīḍā mau tnau nau nalgiti bhavati vasuśaradaśayatiyutā // KedV_3.107 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūtamuninairyatiriha bhatanāḥ sbhau bhanayāśca yadi bhavati tanvī // KedV_3.108 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "krauñjapadā bhamau smau nananā ngāviṣaśaravasumuniviratiriha bhavet // KedV_3.109 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vasvīśāśvacchedopetaṃ mamatanayuganarasalagairbhujaṅgavijṛmbhitam // KedV_3.110 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mo nāḥ ṣaṭ sagagiti yadi navarasarasaśarayatiyutamapavāhākhyam // KedV_3.111 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadi ha nayugalaṃ tataḥ saptarephā stadā caṇḍavṛṣṭiprapāto bhaveddaṇḍakaḥ // KedV_3.112 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "praticaraṇavivṛddharephāḥ syurṇārṇavavyālajīmūtalīlākaroddāmaśaṅkhādayaḥ // KedV_3.113 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pracitakasamabhidho dhīradhībhiḥ smṛtodaṇḍako nadvayāduttaraiḥ saptabhiryaiḥ // KedV_3.114 //"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ\nvṛttaratnākaravyākhyāyāṃ samavṛttādhyāyastṛtīyaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "caturtho 'dhyāyaḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣame yadi sau salagā dale bhau yuji bhād gurukāvupacitram // KedV_4.1 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhatrayamojagataṃ guruṇī cedyuji ca najau jyayutā drutamadhyā // KedV_4.2 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sayugātsagurū viṣame cedbhāviha vegavatī yuji bhādgau // KedV_4.3 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "oje taparau jarau guruścenmasau jgaugbhadravirāṅ bhavedanoje // KedV_4.4 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asame sajo saguruyuktau ketumatī same bharanagādgaḥ // KedV_4.5 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ākhyānakīṃ tau jagurū ga oje jatāvanoje jagurū guruścet // KedV_4.6 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jatau jagau go viṣame same cettau jgau ga eṣā viparītapūrvā // KedV_4.7 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sayugātsalaghū viṣame gururyuji nabhau bharakau hariṇaplutā // KedV_4.8 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ayuji nanaralā guruḥ samenjamaparavaktramidaṃ tato jarau // KedV_4.9 //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ayuji nayugarephato yakāro yuji ca najau jaragāśca puṣpitāgrā // KedV_4.10 //"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vadantyaparavaktrākhyaṃ vaitālīyaṃ vipaścitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "puṣpatāgrābhidhaṃ kecidaupacchandasikaṃ tathā // KedV_4.11 //"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "syāayugmake rajau rayau same cejjarau jarau gururyavātparā matīyam // KedV_4.12 //"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ\nvṛttaratnākaravyākhyāyāmardhasamādhyāyaścaturthaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "pañcamo 'dhyāyaḥ"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[padacaturūrdhva-prakaraṇam (1-5)]"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "mukhavādo 'ṣṭabhirvarṇaiḥ pare syurmakarālayaiḥ kramād vṛddhaiḥ //"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "satataṃ yasya vicitraiḥ pādaiḥ sampannasaundaryaṃ",
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "taduditamamalamatibhiḥ padacaturūrdhvābhidhaṃ vṛttam // KedV_5.1 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "prathamamuditavṛtte viracitaviṣamacaraṇabhāji //"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "gurukayugalanidhana iha sahita āṅā",
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "laghuviratapadavitatiyatiriti bhavati pīḍaḥ // KedV_5.2 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prathamamitaracaraṇasamutthaṃ śrayati sa yadi lakṣma /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "itaraditaragatitamapi yadi ca turyaṃ"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "caraṇayugalakamiti kalikā sā // KedV_5.3 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dviguruyutasamalacaraṇāntā mukhacaraṇagatamanubhavati ca tṛtīyaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aparamiha lakṣma prakṛtamakhilamapi yadidamanubhavati lavalī sā // KedV_5.4 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prathamadhivasati yadi turyaṃ, caramacaraṇapadamavasitaguruyugmam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nikhilamaparamuparigatamiti lalitapadayuktā, tadidamamṛtadhārā // KedV_5.5 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[udgatā-prakaraṇam (6-8)]"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sajādime salaghukau ca nasajagurukairathodgatā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tryaṅghrigatabhanajalā gayutāḥ sajasā agau caraṇamekataḥ paṭhet // KedV_5.6 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "caraṇatrayaṃ vrajati lakṣma yadi sakalamudgatāgatam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nā bhagau bhavati saurabhakaṃ caraṇe yadīha bhavatastṛtīyake // KedV_5.7 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nayugaṃ sakārayugalaṃ ca bhavati caraṇe tṛtīyake /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "taduditamurumatibhirlalitaṃ yadi śeṣamasya khalu pūrvatulyakam // KedV_5.8 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[upasthitapracupita-prakaraṇam (9-11)]"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "msau jbhau gau prathamāṅghrirekataḥ pṛthaganyattritayaṃ sanajaragāstato nanau saḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "trinaparikalitajayau pracupitamidamuditamupasthitapūrvam // KedV_5.9 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nau pāde 'tha tṛtīyake sanau nasayuktau prathamāṅghrikṛtayatistu vardhamānam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tritayamaparamapi pūrvasadṛśamiha bhavati pratatamatibhiriti gaditaṃ laghu vṛttam // KedV_5.10 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "prathame ca viratirārṣabhaṃ bruvanti //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tacchuddhavirāṭ puraḥ sthitaṃ tritayamaparamapi yadi pūrvasamaṃ syāt // KedV_5.11 //"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "viṣamākṣarapādaṃ vā pādairasamaṃ daśadhrmavat /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yacchando noktamatra gātheti tatsūribhiḥ proktam // KedV_5.12 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ vṛttaratnākaravyākhyāyāṃ\npañcamo 'dhyāyaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "ṣaṣṭho 'dhyāyaḥ"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[prastāraḥ]"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prastāro naṣṭamuddiṣṭamekadvayādilagakriyā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṅkhyānamadhvayogaśca ṣaḍete pratyayāḥ smṛtāḥ // KedV_6.1 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pāde sarvagurāvādyāllaghuṃ nyasya guroradhaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yathopari tathā śeṣaṃ bhūyaḥ kuryādamuṃ vidhim // KedV_6.2 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ūne dadyād gurūneva yāvatsarvalaghurbhavet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prastāro 'yaṃ samākhyātaśchandovicitivedibhiḥ // KedV_6.3 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[naṣṭam]"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "naṣṭasya yo bhavedaṅkastasyārdhe 'rdhe same ca laḥ //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣame caikamādhāya syādardhe 'rdhe gurubhavet // KedV_6.4 //"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[uddiṣṭam]"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "uddiṣṭaṃ dviguṇānādyāduparyaṅkānsamālikhet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "laghusthā ye ca tatrāṅkāstaiḥ saikairmiśritairbhavet // KedV_6.5 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[ekadvayādilagakriyā]"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "varṇānvṛttabhavānsaikānauttarādharyataḥ sthitān /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ekādikramataścaitānuparyupari nikṣipet // KedV_6.6 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "upāntyato nivarteta tyajannekaikamūrdhvataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "uparyādyād gurorekamekadvyādilagakriyā // KedV_6.7 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[saṅkhyānam]"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "lagakriyāṅkasandohe bhavetsaṅkhyā vimiśrite /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "uddiṣṭāṅkasamāhāraḥ saikā vā janayedimām // KedV_6.8 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "[adhvayogaḥ]"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "saṅkhyaiva dviguṇaikonā sadbhiradhvā prakīrtitaḥ //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vṛttasyāṅgulikā vyāptiradhaḥ kuryāttathāṅgulim // KedV_6.9 //"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vaṃśe 'bhūtkaśyapasya prakaṭaguṇagaṇaḥ śaivasiddhāntavettā"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vipraḥ pavyekanāmā vimalataramatirvedatattvārthabodhe /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kedārastasya sūnuḥ śivacaraṇayugārādhanaikāgracittaśchandastenābhirāmaṃ"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vṛttaratnākarākhyam // KedV_6.10 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ vṛttaratnākaravyākhyāyāṃ\nprastārādhyāyaḥ ṣaṣṭhaḥ samāptaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {}
+    }
+  ]
 }

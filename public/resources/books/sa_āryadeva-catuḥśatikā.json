@@ -1,4 +1,374 @@
 {
-  "title": "sa_āryadeva-catuḥśatikā",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Āryadevasya tannāmanopalabdhagranthabhāgāḥ</p>\n\n<p>Catuḥ śatikā (Cs)</p>\n\n<lg>\n<l>1.21. śatruvat yānti te kālā niyamena kṣaṇādayaḥ /</l>\n<l>sarvvathā tena te rāgaḥ śatrubhūteṣu teṣu mā // 21 //</l>\n</lg>\n\n<lg>\n<l>1.22. viprayogabhayādgehānna nirgacchami [durmmate] /</l>\n<l>[vivicya] nāma kartavyaṃ kuryyāddaṇḍena ko budhaḥ // 22 //</l>\n</lg>\n\n<lg>\n<l>2.7. śarīraṃ sucireṇāpi sukhasya svaṃ na jāyate /</l>\n<l>pareṇābhibhavo nāma svabhāvasya na yujyate // 32 //</l>\n</lg>\n\n<lg>\n<l>2.8. agrayāṇāṃ mānasaṃ duḥkhamitareṣāṃ śarīrajam /</l>\n<l>duḥkhadvayena lokoyamahanyahani hanyate // 33 //</l>\n</lg>\n\n<lg>\n<l>2.9. kalpanāyāḥ sukhaṃ vaśyaṃ vaśyādduḥkhasya kalpanā /</l>\n<l>atosti kiñcit sarvvatra na duḥkhādvalamantaram // 34 //</l>\n</lg>\n\n<lg>\n<l>2.10. kālo yathā yathā yāti duḥkhavṛddhistatha tathā /</l>\n<l>tasmāt kaḍevarasyāsya paravadṛśyate sukham // 35 //</l>\n</lg>\n\n<lg>\n<l>2.11. vyādhayo'nye ca dṛśyante yāvanto duḥkhahetavaḥ /</l>\n<l>tāvanto na tu dṛśyante narāṇāṃ sukhahetavaḥ // 36 //</l>\n</lg>\n\n<lg>\n<l>2.12. sukhasya varddhamānasya yathā dṛṣṭo viparyayaḥ /</l>\n<l>duḥkhasya varddhamānasya tathā nāsti viparyayaḥ // 37 //</l>\n</lg>\n\n<lg>\n<l>3.13. pratināsikayā tuṣṭiḥ syāddhīnāṅgasya kasyacit /</l>\n<l>rāgo'śucipratīkāre puṣpādāviṣyate tathā // 73 //</l>\n</lg>\n\n<lg>\n<l>3.24. śuci nāma ca tadyuktaṃ vairāgyaṃ yatra jāyate /</l>\n<l>na ca so'sti kvacidbhāvo niyayād rāgakāraṇam // 74 //</l>\n</lg>\n\n<lg>\n<l>3.25. anityamaśubhaṃ duḥkhamanātmeti catuṣṭayam /</l>\n<l>ekasminneva sarvāṇi sambharvānta samāsataḥ // 75 //</l>\n</lg>\n\n<lg>\n<l>4.1. ahaṃ mameti vā darpaḥ sataḥ kasya bhaved bhave /</l>\n<l>yasmāt sarvve'pi sāmānyā viṣayāḥ sarvva dehinām // 76 //</l>\n</lg>\n\n<lg>\n<l>4.2. gaṇadāsasya te darpaḥ ṣaḍbhāgena bhṛtasya kaḥ /</l>\n<l>jāyate'dhikṛte kāryyamāyattaṃ yatra tatra vā // 77 //</l>\n</lg>\n\n<lg>\n<l>4.14. ṛṣīṇāṃ ceṣṭitaṃ sarvva kurvīta na vicakṣaṇaḥ /</l>\n<l>hīnamadhyaviśiṣṭatvaṃ yasmātteṣvapi vidyate // 89 //</l>\n</lg>\n\n<lg>\n<l>4.15. putravat pālito lokaḥ purataḥ pārthivaiḥ śubhaiḥ /</l>\n<l>mṛgāraṇyīkṛtaḥ so'dya kalidharmasamāśritaiḥ // 90 //</l>\n</lg>\n\n<lg>\n<l>4.16. chidraprahāriṇaḥ pāpaṃ yadi rājño na vidyate /</l>\n<l>anyeṣāmapi caurāṇāṃ tat prāgeva na vidyate // 91 //</l>\n</lg>\n\n<lg>\n<l>4.17. sarvvasvasya parityāgo madyādiṣu na pūjitaḥ /</l>\n<l>ātmano'pi parityāgaḥ kiṃ manye pūjito raṇe // 92 //</l>\n</lg>\n\n<p>4.23. vipro'pi karmmanā śūdraḥ kena manye na jāyate // 98 //</p>\n\n<lg>\n<l>4.24. pāpasyaiśvaryyavadrājan saṃvibhāgo na vidyate /</l>\n<l>vidvānnāma parasyārthe kaḥ kuryyādāyatovadhaṃ // 99 //</l>\n</lg>\n\n<lg>\n<l>4.25. dṛṣṭvā samān viśiṣṭāṃśca parāṃśchaktisamanvitān /</l>\n<l>aiśvāryajanito mānaḥ satāṃ hṛdi na tiṣṭhati // 100 //</l>\n</lg>\n\n<lg>\n<l>5.1. na ceṣṭā kila buddhānāmasti kācidakāraṇā /</l>\n<l>niḥśvāso'pi hitāyaiva prāṇināṃ saṃpravarttatte // 101 //</l>\n</lg>\n\n  </body>\n\n"
+  "file_title": "āryadeva-catuḥśatikā",
+  "file_title_normal": "aryadeva-catuhsatika",
+  "metadata": {
+    "original_title": "Catuḥśatikā",
+    "author": "Āryadeva",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Bhagchandra Jain: Catuhsataka of Arya Deva. Nagpur : Alok Prakashan 1971, pp. 159-160"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Āryadevasya tannāmanopalabdhagranthabhāgāḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Catuḥ śatikā (Cs)"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "1.21. śatruvat yānti te kālā niyamena kṣaṇādayaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvvathā tena te rāgaḥ śatrubhūteṣu teṣu mā // 21 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "1.22. viprayogabhayādgehānna nirgacchami [durmmate] /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "[vivicya] nāma kartavyaṃ kuryyāddaṇḍena ko budhaḥ // 22 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "2.7. śarīraṃ sucireṇāpi sukhasya svaṃ na jāyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pareṇābhibhavo nāma svabhāvasya na yujyate // 32 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "2.8. agrayāṇāṃ mānasaṃ duḥkhamitareṣāṃ śarīrajam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "duḥkhadvayena lokoyamahanyahani hanyate // 33 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "2.9. kalpanāyāḥ sukhaṃ vaśyaṃ vaśyādduḥkhasya kalpanā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atosti kiñcit sarvvatra na duḥkhādvalamantaram // 34 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "2.10. kālo yathā yathā yāti duḥkhavṛddhistatha tathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmāt kaḍevarasyāsya paravadṛśyate sukham // 35 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "2.11. vyādhayo'nye ca dṛśyante yāvanto duḥkhahetavaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tāvanto na tu dṛśyante narāṇāṃ sukhahetavaḥ // 36 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "2.12. sukhasya varddhamānasya yathā dṛṣṭo viparyayaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "duḥkhasya varddhamānasya tathā nāsti viparyayaḥ // 37 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "3.13. pratināsikayā tuṣṭiḥ syāddhīnāṅgasya kasyacit /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rāgo'śucipratīkāre puṣpādāviṣyate tathā // 73 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "3.24. śuci nāma ca tadyuktaṃ vairāgyaṃ yatra jāyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na ca so'sti kvacidbhāvo niyayād rāgakāraṇam // 74 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "3.25. anityamaśubhaṃ duḥkhamanātmeti catuṣṭayam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekasminneva sarvāṇi sambharvānta samāsataḥ // 75 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "4.1. ahaṃ mameti vā darpaḥ sataḥ kasya bhaved bhave /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yasmāt sarvve'pi sāmānyā viṣayāḥ sarvva dehinām // 76 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "4.2. gaṇadāsasya te darpaḥ ṣaḍbhāgena bhṛtasya kaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jāyate'dhikṛte kāryyamāyattaṃ yatra tatra vā // 77 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "4.14. ṛṣīṇāṃ ceṣṭitaṃ sarvva kurvīta na vicakṣaṇaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hīnamadhyaviśiṣṭatvaṃ yasmātteṣvapi vidyate // 89 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "4.15. putravat pālito lokaḥ purataḥ pārthivaiḥ śubhaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛgāraṇyīkṛtaḥ so'dya kalidharmasamāśritaiḥ // 90 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "4.16. chidraprahāriṇaḥ pāpaṃ yadi rājño na vidyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anyeṣāmapi caurāṇāṃ tat prāgeva na vidyate // 91 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "4.17. sarvvasvasya parityāgo madyādiṣu na pūjitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmano'pi parityāgaḥ kiṃ manye pūjito raṇe // 92 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "4.23. vipro'pi karmmanā śūdraḥ kena manye na jāyate // 98 //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "4.24. pāpasyaiśvaryyavadrājan saṃvibhāgo na vidyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidvānnāma parasyārthe kaḥ kuryyādāyatovadhaṃ // 99 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "4.25. dṛṣṭvā samān viśiṣṭāṃśca parāṃśchaktisamanvitān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aiśvāryajanito mānaḥ satāṃ hṛdi na tiṣṭhati // 100 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "5.1. na ceṣṭā kila buddhānāmasti kācidakāraṇā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niḥśvāso'pi hitāyaiva prāṇināṃ saṃpravarttatte // 101 //"
+        }
+      ]
+    }
+  ]
 }

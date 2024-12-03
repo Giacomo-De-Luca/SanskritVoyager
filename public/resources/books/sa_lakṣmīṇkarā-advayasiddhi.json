@@ -1,4 +1,778 @@
 {
-  "title": "sa_lakṣmīṇkarā-advayasiddhi",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n      <div>\n\t<head>advayasiddhi <lb/>yoginī lakṣmīṅkarā viracitā</head>\n\n\t<p>oṃ namaḥ śrīvajrasattvāya</p>\n\n\t<lg xml:id='ADvS_1'>\n\t  <l>prakṛtiprabhāsvaraṃ nāthaṃ sarvajñaṃ tribhavodbhavam /</l>\n\t  <l>praṇamya śirasā vajram īpsitārthaphalapradam //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_2'>\n\t  <l>deśakālatithivāranakṣatrair maṇḍalair vinā /</l>\n\t  <l>vakṣye haṃ vajrasattvasya saṃkṣepāt sādhanaṃ param //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_3'>\n\t  <l>niyamavratopavāsair akṣaroccāraṇabhāvanaiḥ /</l>\n\t  <l><app><lem>atattvayogo</lem><rdg wit='#Rinpoche1987'>atattvayogī</rdg></app> na siddhyet kalpakoṭiśatair api //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_4'>\n\t  <l>viḍvajrodakabījādyair nāsikābhyantarodbhavaiḥ /</l>\n\t  <l>pūjayed satataṃ mantrī ātmānaṃ tattvabhāvanaiḥ //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_5'>\n\t  <l>jananīṃ bhaginīś caiva duhitṛbhāgineyikān /</l>\n\t  <l>prajñnopāyavidhānena pūjayed yogavit sadā //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_6'>\n\t  <l>ekāṅgavikalāṃ hīnāṃ śilpanīṃ śvapacīṃ tathā /</l>\n\t  <l>yoṣitāṃ pūjayen nityaṃ jñānavajraprabhāvanaiḥ //</l>\n\t</lg>\n\n\t<p>tatremāni bījapadāni – o<choice><orig>ṁ</orig><reg>ṃ</reg></choice> āḥ hū<choice><orig>ṁ</orig><reg>ṃ</reg></choice></p>\n\n\t<lg xml:id='ADvS_7'>\n\t  <l>yena yena hi baddhyante jantavo raudrakarmaṇā /</l>\n\t  <l>sopāyena tu tenaiva mucyante bhavabandhanāt //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_8'>\n\t  <l>samayān aharahaḥ kuryād divyān pañcakulodbhavān /</l>\n\t  <l>pūjayec ca pradīpādyaiḥ sakṣīrair viśvasambhavaiḥ //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_9'>\n\t  <l>protphullanayano mantrī nityaṃ prahasitānanaḥ /</l>\n\t  <l>cittam āropya saṃbodhau bhāvayej jñānasāgaram //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_10'>\n\t  <l>yāvat sthiracalā bhāvā santy atra tribhavālaye /</l>\n\t  <l>sarve te tattvayogena draṣṭavyā vajradhṛg yathā //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_11'>\n\t  <l>paravādinaś ca kecil lingabhedair vyavastitāḥ /</l>\n\t  <l>te 'py atra nāvamantavyā vajrasattvavikurvitaiḥ //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_12'>\n\t  <l>sarvān samarasīkrtya bhāvān nairātmyaniḥsṛtān /</l>\n\t  <l>bhāvayet satataṃ mantrī dehaṃ prakṛtinirmalam //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_13'>\n\t  <l>gandhamālyādibhir vastrair dhūpanaivedyakais tathā /</l>\n\t  <l>gītavādyais tathā nṛtyaiḥ sopāyair bhajate vibhuḥ //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_14'>\n\t  <l>na kaṣṭakalpanāṃ kuryān nopavāsaṃ na ca kriyām /</l>\n\t  <l>snānaṃ śaucaṃ na caivātra grāmadharmavivarjanaṃ //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_15'>\n\t  <l>na cāpi vandayed devān kāṣṭhapāṣāṇamṛṇmayān /</l>\n\t  <l>pūjām asyaiva kāyasya kurvān nityaṃ smāhitaḥ //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_16'>\n\t  <l>makṣikācchardisaṃmiśrair viṇmūtrādyaiś ca bhāvitaiḥ /</l>\n\t  <l>pañcapradīpasaṃyuktaiḥ pūjayed vajradhāriṇam //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_17'>\n\t  <l>abalā svayambhukusumaiḥ sakṣīrair viśvasambhavaiḥ /</l>\n\t  <l>pūjayed devatāṃ tena dehasthāṃ tattvabhāvanaiḥ //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_18'>\n\t  <l>parasvaharaṇaṃ kuryāt paradāraniṣevanam /</l>\n\t  <l>vaktavyaṃ ca mṛṣāvākyaṃ sarvabuddhāṃś ca ghātayet //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_19'>\n\t  <l>śailamṛṇmayacaityādīn na kuryāt pustake ratim /</l>\n\t  <l>na maṇḍalāni svapne 'pi kāyavākcittakarmaṇā //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_20'>\n\t  <l>jugupsāṃ naiva kurvīta sarvavastuṣu mantravit /</l>\n\t  <l>vajrasattvaḥ svayaṃ tatra sākṣād rūpeṇa saṃsthitaḥ //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_21'>\n\t  <l>gamyāgamyavikalpaṃ tu bhakṣyābhakṣyaṃ tathaiva ca /</l>\n\t  <l>peyāpeyaṃ tathā mantrī kuryān naiva samāhitaḥ //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_22'>\n\t  <l>vairocanasamudbhūtān sarvaprāṇyaṅgasambhavān /</l>\n\t  <l>prāṇakān guhyatattvajño bhakṣayet siddhihetunā //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_23'>\n\t  <l>sarvavarṇasamudbhūtā jugupsyā naiva yoṣitaḥ /</l>\n\t  <l>saiva bhagavatī prajñā saṃvṛtyā rūpam āśrityā //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_24'>\n\t  <l>na tithir na ca nakṣatraṃ nopavāso vidhīyate /</l>\n\t  <l>advayajñānayuktasya siddhir bhavati saugatī //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_25'>\n\t  <l>bahunātra kim uktena yad bhaved upalabdhikam /</l>\n\t  <l>tat sarvaṃ tattvayogena draṣṭavyaṃ tattvavedinā //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_26'>\n\t  <l>hastyaśvakharagāvoṣṭrapradīpaṃ śvānasambhavam /</l>\n\t  <l>mahāpradīpasaṃmiśraṃ bhakṣayed yogavit sadā //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_27'>\n\t  <l>na cādhyāsaktiṃ kurvīta ekasminn api yogavit /</l>\n\t  <l>samatācittayogena bhāvanīyo bhavārṇavaḥ //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_28'>\n\t  <l>utpattisthitinirodhaṃ cāsampṛktaṃ pṛthagjanaiḥ /</l>\n\t  <l>tasya bhāve tu saṃsāro nānyatra pralayodbhavaḥ //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_29'>\n\t  <l>dinaṃ tu bhagavān vajrī naktaṃ prajñā vidhīyate /</l>\n\t  <l>evaṃ tu bhāvayed yogī laghu siddhim avāpnuyāt //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_30'>\n\t  <l>yat tad avyaktarūpaṃ tu sarvasattveṣu saṃsthitam /</l>\n\t  <l>guruvaktrāt paraṃ tattvaṃ prāpyate nātra samśayaḥ //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_31'>\n\t  <l>apratiṣṭhitanirvāṇaṃ nirnimittaṃ nirālayam /</l>\n\t  <l>vyāpakaṃ sarvasattveṣu saṃbodhiḥ paramaṃ padam //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_32'>\n\t  <l>evaṃ matvā tu vai yogī yo 'bhyased buddhimān sadā /</l>\n\t  <l>sa siddhyati na sandeho mandapuṇyo 'pi mānavaḥ //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_33'>\n\t  <l>ācāryāt parataraṃ nāsti trailokye sacarācare /</l>\n\t  <l>yasya prasādāt prāpyante siddhayo 'nekadhā budhaiḥ //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_34'>\n\t  <l>vajrasattvaḥ sa vai jñeyaḥ sarvabuddhair namaskṛtaḥ /</l>\n\t  <l>ācāryaḥ paramo devaḥ pūjanīyaḥ prayatnataḥ //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_35'>\n\t  <l>sa eva tathatārūpī lokānugrahahetunā /</l>\n\t  <l>rūpam āśritya saṃvṛtyā saṃsthito yogapīṭhake //</l>\n\t</lg>\n\n\t<lg xml:id='ADvS_36'>\n\t  <l>mṛtyur eṣa vikalpo yaṃ na bhāvaḥ sarvavastuṣu /</l>\n\t  <l>hanyate svavikalpena pṛthagjanavijṛmbhitaiḥ //</l>\n\t</lg>\n\n\t<p>śrīmadoḍīyānavinirgatā mahāyogapīṭhāgatā 'khilayogatantratattvagarbhā śrīlakṣmīmukhakamalād viniḥsṛtā svādhiṣṭhānakramodayā advayasiddhir nāma sādhanopāyikā samāpteti</p>\n      </div>\n    </body>\n  \n"
+  "file_title": "lakṣmīṇkarā-advayasiddhi",
+  "file_title_normal": "laksminkara-advayasiddhi",
+  "metadata": {
+    "original_title": "Advayasiddhi",
+    "author": "Yoginī Lakṣmīṅkarā",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Peter Gäng",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Peter Gäng",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2019-10-17"
+  },
+  "body": [
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "head",
+          "attributes": {},
+          "text": "advayasiddhi",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {}
+            },
+            {
+              "tag": "text",
+              "text": "yoginī lakṣmīṅkarā viracitā"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "oṃ namaḥ śrīvajrasattvāya"
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prakṛtiprabhāsvaraṃ nāthaṃ sarvajñaṃ tribhavodbhavam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "praṇamya śirasā vajram īpsitārthaphalapradam //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "deśakālatithivāranakṣatrair maṇḍalair vinā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vakṣye haṃ vajrasattvasya saṃkṣepāt sādhanaṃ param //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "niyamavratopavāsair akṣaroccāraṇabhāvanaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "app",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "lem",
+                      "attributes": {},
+                      "text": "atattvayogo"
+                    },
+                    {
+                      "tag": "rdg",
+                      "attributes": {
+                        "wit": "#Rinpoche1987"
+                      },
+                      "text": "atattvayogī"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "na siddhyet kalpakoṭiśatair api //"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "viḍvajrodakabījādyair nāsikābhyantarodbhavaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pūjayed satataṃ mantrī ātmānaṃ tattvabhāvanaiḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jananīṃ bhaginīś caiva duhitṛbhāgineyikān /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prajñnopāyavidhānena pūjayed yogavit sadā //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ekāṅgavikalāṃ hīnāṃ śilpanīṃ śvapacīṃ tathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yoṣitāṃ pūjayen nityaṃ jñānavajraprabhāvanaiḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "tatremāni bījapadāni – o",
+          "children": [
+            {
+              "tag": "choice",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "ṁ"
+                },
+                {
+                  "tag": "reg",
+                  "attributes": {},
+                  "text": "ṃ"
+                }
+              ]
+            },
+            {
+              "tag": "text",
+              "text": "āḥ hū"
+            },
+            {
+              "tag": "choice",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "ṁ"
+                },
+                {
+                  "tag": "reg",
+                  "attributes": {},
+                  "text": "ṃ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yena yena hi baddhyante jantavo raudrakarmaṇā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sopāyena tu tenaiva mucyante bhavabandhanāt //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "samayān aharahaḥ kuryād divyān pañcakulodbhavān /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pūjayec ca pradīpādyaiḥ sakṣīrair viśvasambhavaiḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "protphullanayano mantrī nityaṃ prahasitānanaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "cittam āropya saṃbodhau bhāvayej jñānasāgaram //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yāvat sthiracalā bhāvā santy atra tribhavālaye /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarve te tattvayogena draṣṭavyā vajradhṛg yathā //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "paravādinaś ca kecil lingabhedair vyavastitāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "te 'py atra nāvamantavyā vajrasattvavikurvitaiḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_12"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvān samarasīkrtya bhāvān nairātmyaniḥsṛtān /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhāvayet satataṃ mantrī dehaṃ prakṛtinirmalam //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_13"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gandhamālyādibhir vastrair dhūpanaivedyakais tathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gītavādyais tathā nṛtyaiḥ sopāyair bhajate vibhuḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_14"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na kaṣṭakalpanāṃ kuryān nopavāsaṃ na ca kriyām /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "snānaṃ śaucaṃ na caivātra grāmadharmavivarjanaṃ //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_15"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na cāpi vandayed devān kāṣṭhapāṣāṇamṛṇmayān /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pūjām asyaiva kāyasya kurvān nityaṃ smāhitaḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_16"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "makṣikācchardisaṃmiśrair viṇmūtrādyaiś ca bhāvitaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pañcapradīpasaṃyuktaiḥ pūjayed vajradhāriṇam //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_17"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "abalā svayambhukusumaiḥ sakṣīrair viśvasambhavaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pūjayed devatāṃ tena dehasthāṃ tattvabhāvanaiḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_18"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "parasvaharaṇaṃ kuryāt paradāraniṣevanam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vaktavyaṃ ca mṛṣāvākyaṃ sarvabuddhāṃś ca ghātayet //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_19"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śailamṛṇmayacaityādīn na kuryāt pustake ratim /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na maṇḍalāni svapne 'pi kāyavākcittakarmaṇā //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_20"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jugupsāṃ naiva kurvīta sarvavastuṣu mantravit /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vajrasattvaḥ svayaṃ tatra sākṣād rūpeṇa saṃsthitaḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_21"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gamyāgamyavikalpaṃ tu bhakṣyābhakṣyaṃ tathaiva ca /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "peyāpeyaṃ tathā mantrī kuryān naiva samāhitaḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_22"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vairocanasamudbhūtān sarvaprāṇyaṅgasambhavān /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prāṇakān guhyatattvajño bhakṣayet siddhihetunā //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_23"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvavarṇasamudbhūtā jugupsyā naiva yoṣitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saiva bhagavatī prajñā saṃvṛtyā rūpam āśrityā //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_24"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na tithir na ca nakṣatraṃ nopavāso vidhīyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "advayajñānayuktasya siddhir bhavati saugatī //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_25"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bahunātra kim uktena yad bhaved upalabdhikam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tat sarvaṃ tattvayogena draṣṭavyaṃ tattvavedinā //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_26"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "hastyaśvakharagāvoṣṭrapradīpaṃ śvānasambhavam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mahāpradīpasaṃmiśraṃ bhakṣayed yogavit sadā //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_27"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na cādhyāsaktiṃ kurvīta ekasminn api yogavit /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "samatācittayogena bhāvanīyo bhavārṇavaḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_28"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "utpattisthitinirodhaṃ cāsampṛktaṃ pṛthagjanaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasya bhāve tu saṃsāro nānyatra pralayodbhavaḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_29"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dinaṃ tu bhagavān vajrī naktaṃ prajñā vidhīyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "evaṃ tu bhāvayed yogī laghu siddhim avāpnuyāt //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_30"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yat tad avyaktarūpaṃ tu sarvasattveṣu saṃsthitam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "guruvaktrāt paraṃ tattvaṃ prāpyate nātra samśayaḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_31"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "apratiṣṭhitanirvāṇaṃ nirnimittaṃ nirālayam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vyāpakaṃ sarvasattveṣu saṃbodhiḥ paramaṃ padam //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_32"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "evaṃ matvā tu vai yogī yo 'bhyased buddhimān sadā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sa siddhyati na sandeho mandapuṇyo 'pi mānavaḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_33"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ācāryāt parataraṃ nāsti trailokye sacarācare /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yasya prasādāt prāpyante siddhayo 'nekadhā budhaiḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_34"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vajrasattvaḥ sa vai jñeyaḥ sarvabuddhair namaskṛtaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ācāryaḥ paramo devaḥ pūjanīyaḥ prayatnataḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_35"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sa eva tathatārūpī lokānugrahahetunā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rūpam āśritya saṃvṛtyā saṃsthito yogapīṭhake //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ADvS_36"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mṛtyur eṣa vikalpo yaṃ na bhāvaḥ sarvavastuṣu /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "hanyate svavikalpena pṛthagjanavijṛmbhitaiḥ //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "śrīmadoḍīyānavinirgatā mahāyogapīṭhāgatā 'khilayogatantratattvagarbhā śrīlakṣmīmukhakamalād viniḥsṛtā svādhiṣṭhānakramodayā advayasiddhir nāma sādhanopāyikā samāpteti"
+        }
+      ]
+    }
+  ]
 }

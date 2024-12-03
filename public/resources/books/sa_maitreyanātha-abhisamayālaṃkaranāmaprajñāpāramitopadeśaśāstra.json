@@ -1,4 +1,4487 @@
 {
-  "title": "sa_maitreyanātha-abhisamayālaṃkaranāmaprajñāpāramitopadeśaśāstra",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>kṛtirmaitreyanāthasya //</p>\n\n<p>Oṃ namo maitreyanāthāya //</p>\n\n<lg>\n<l>yā sarvajñatayā nayatyupaśamaṃ śāntaiṣiṇaḥ śravakān</l>\n<l>yā mārgajñatayā jagaddhitakritāṃ lokārthasaṃpādikā /</l>\n<l>savārkāramidaṃ vadanti munayo viśvaṃ yayā saṃgatā</l>\n<l>stasyai śrāvakabodhisattvagaṇino buddhasya manne namaḥ //</l>\n</lg>\n\n<lg>\n<l>sarvākārajñatāmārgaḥ śāsitrā yo 'tra deśita /</l>\n<l>dhīmantī vīkṣīṣīraṃstamanālīḍhaṃ parairiti // Abhs_1.1 //</l>\n</lg>\n\n<lg>\n<l>smṛtau cādhāya sūtrārthaṃ dharmacaryā daśātmikā /</l>\n<l>sūkhena pratipatsīrannityārambhaprayojanam // Abhs_1.2 //</l>\n</lg>\n\n<lg>\n<l>prajñāpāramitāṣṭābhīḥ padārthaiḥ samudīritā /</l>\n<l>sarvākārajñatā mārgajñatā sarvajñatā tataḥ // Abhs_1.3 //</l>\n</lg>\n\n<lg>\n<l>sarvākārābhisaṃbodho murdhaprārpto 'nupūrvikaḥ /</l>\n<l>ekakṣaṇabhisaṃbodho dharmakāyaśca te 'ṣṭadhā // Abhs_1.4 //</l>\n</lg>\n\n<lg>\n<l>cittotpādo 'vavādaśca nirvedhāṅgaṃ caturvidhaṃ /</l>\n<l>ādhāraḥ pratipatteśca dharmadhātusvabhāvakaḥ // Abhs_1.5 //</l>\n</lg>\n\n<lg>\n<l>ālambanaṃ samuddeśaḥ saṃnāhaprasthitikriye /</l>\n<l>saṃbhārāśca saniryāṇāḥ sarvākārajñatā muneḥ // Abhs_1.6 //</l>\n</lg>\n\n<lg>\n<l>dhyāmīkaraṇatādīni śiṣyakhaṅgapathau ca yau /</l>\n<l>mahānuśaṃso dṛṅmārga aihikāmutrikairguṇaiḥ // Abhs_1.7 //</l>\n</lg>\n\n<lg>\n<l>kāritramadhimuktiśca stutastobhitaśaṃsitāḥ /</l>\n<l>pariṇāme 'numode ca manaskārāvanuttamau // Abhs_1.8 //</l>\n</lg>\n\n<lg>\n<l>nirhāraḥ śuddhiratyantāmityayaṃ bhāvanāpathaḥ /</l>\n<l>vijñānāṃ bodhisattvānāmiti mārgajñatoditā // Abhs_1.9 //</l>\n</lg>\n\n<lg>\n<l>prajñayā na bhave sthānaṃ kṛpayā na śame sthitiḥ /</l>\n<l>anupāyena dūratvamupāyenāvidūratā // Abhs_1.10 //</l>\n</lg>\n\n<lg>\n<l>vipakṣapratipakṣau ca prayogaḥ samatāsya ca /</l>\n<l>dṛṅmārgaḥ śrāvakādīnāmiti sarvajñateṣyate // Abhs_1.11 //</l>\n</lg>\n\n<lg>\n<l>ākārāḥ saprayogāśca guṇā doṣāḥ salakṣaṇāḥ /</l>\n<l>mokṣanirvedhabhāgīye śaikṣo 'vaivartiko gaṇaḥ // Abhs_1.12 //</l>\n</lg>\n\n<lg>\n<l>samatābhavaśāntyośca kṣetraśuddhiranuttarā /</l>\n<l>sarvākārābhisaṃbodha eṣa sopāyakauśalaḥ // Abhs_1.13 //</l>\n</lg>\n\n<lg>\n<l>liṅgaṃ tasya vivṛddhiśca nirūḍhiścittasaṃsthitiḥ /</l>\n<l>caturdhā ca vikalpasya pratipakṣaścaturvidhaḥ // Abhs_1.14 //</l>\n</lg>\n\n<lg>\n<l>pratyekaṃ darsanākhye ca bhāvanākhye ca vartmani /</l>\n<l>ānantaryasamādhiśca saha vipratipattibhiḥ // Abhs_1.15 //</l>\n</lg>\n\n<lg>\n<l>mūrdhābhisamayaḥ tredhā daśadhā cānupūrvikaḥ /</l>\n<l>ekakṣaṇābhisaṃbodho lakṣaṇena caturvidhiḥ // Abhs_1.16 //</l>\n</lg>\n\n<lg>\n<l>svābhāvikaḥ sasāṃbhogo nairmāṇiko 'parastathā /</l>\n<l>dharmakāyaḥ sakāritraścaturdhā samudīritaḥ // Abhs_1.17 //</l>\n</lg>\n\n<lg>\n<l>cittotpādaḥ parārthāya sammyaksaṃbodhikāmatā /</l>\n<l>samāsavyāsataḥ sā ca yathāsutraṃ sa cocyate // Abhs_1.18 //</l>\n</lg>\n\n<lg>\n<l>bhūhemacandrajvalanairnidhiratnākarārṇavaiḥ /</l>\n<l>vajrācalauṣadhīmitraiścintāmaṇyarkagītibhiḥ // Abhs_1.19 //</l>\n</lg>\n\n<lg>\n<l>nṛpagañjamahāmārgayānaprasravaṇodakaiḥ /</l>\n<l>ānandoktinadīmeghairdvāviṃśatividhaḥ sa ca // Abhs_1.20 //</l>\n</lg>\n\n<lg>\n<l>pratipattau ca satyeṣu buddharatnādiṣu triṣu /</l>\n<l>asaktāvapariśrāntau pratipatsaṃparigrahe // Abhs_1.21 //</l>\n</lg>\n\n<lg>\n<l>cakṣuḥṣu pañcasu jñeyaḥ ṣaṭsvabhijñāguṇeṣu ca /</l>\n<l>dṛṅmārge bhāvanākhye cetyavavādo daśātmakaḥ // Abhs_1.22 //</l>\n</lg>\n\n<lg>\n<l>mṛdutikṣṇendriyau śraddhādṛṣṭiprāptau kulaṃkulau /</l>\n<l>ekavīcyantarotpadya kārākārākaniṣṭhagāḥ // Abhs_1.23 //</l>\n</lg>\n\n<lg>\n<l>plutāstrayo bhavasyāgraparamo rūparāgaha /</l>\n<l>dṛṣṭadharmaśamaḥ kāyasākṣī khaṅgaśca viṃśatiḥ // Abhs_1.24 //</l>\n</lg>\n\n<lg>\n<l>ālambanata ākārāddhetutvātsaṃparigrahāt /</l>\n<l>caturvikalpasaṃyogaṃ yathāsvaṃ bhajatāṃ satām // Abhs_1.25 //</l>\n</lg>\n\n<lg>\n<l>śrāvakebhyaḥ sakhaḍgebhyo bodhisattvasya tāyinaḥ /</l>\n<l>mṛdumadhyādhimātrāṇāmūṣmādīnāṃ viśiṣṭatā // Abhs_1.26 //</l>\n</lg>\n\n<lg>\n<l>ālambanamanityādi satyādhāraṃ tadākṛtiḥ /</l>\n<l>niṣedho 'miniveśāderheturyānatrayāptaye // Abhs_1.27 //</l>\n</lg>\n\n<lg>\n<l>rūpādyāyavyayau viṣṭhāsthitī prajñaptyavācyate /</l>\n<l>rūpādāvasthitisteṣāṃ tadbhāvenāsvabhāvatā // Abhs_1.28 //</l>\n</lg>\n\n<lg>\n<l>tayormithaḥsvabhāvatvaṃ tadanityādyasaṃsthitiḥ /</l>\n<l>tāsāṃ tadbhāvaśūnyatvaṃ mithaḥ svabhāvyametayoḥ // Abhs_1.29 //</l>\n</lg>\n\n<lg>\n<l>anudgraho yo dharmāṇāṃ tannimittāsamīkṣaṇam /</l>\n<l>parīkṣaṇaṃ ca prajñāyāḥ sarvasyānupalambhataḥ // Abhs_1.30 //</l>\n</lg>\n\n<lg>\n<l>rūpāderasvabhavāvatvaṃ tadabhāvasvabhāvatā /</l>\n<l>tadajātiraniryāṇaṃ śuddhistadanimittatā // Abhs_1.31 //</l>\n</lg>\n\n<lg>\n<l>tannimittānadhiṣṭhānānadhimuktirasaṃjñatā /</l>\n<l>samādhistasya kāritraṃ vyākṛtirmananākṣayaḥ // Abhs_1.32 //</l>\n</lg>\n\n<lg>\n<l>mithastrikasya svābhāvyaṃ samādheravikalpanā /</l>\n<l>iti nirvedhabhāgīyaṃ mṛdumadhyādhimātrataḥ // Abhs_1.33 //</l>\n</lg>\n\n<lg>\n<l>dvaividhyaṃ grāhyakalpasya vastutatpratipakṣataḥ /</l>\n<l>moharāśyādibhedena pratyekaṃ navadhā tu saḥ // Abhs_1.34 //</l>\n</lg>\n\n<lg>\n<l>dravyaprajñaptyadhiṣṭhāno dvividho grāhako mataḥ /</l>\n<l>svatantrātmādirūpeṇa skandhādyāśrayatastathā // Abhs_1.35 //</l>\n</lg>\n\n<lg>\n<l>cittānavalīnatvādi naīḥsvābhāvyādideśakaḥ /</l>\n<l>tadvipakṣaparityāgaḥ sarvathā saṃparigrahaḥ // Abhs_1.36 //</l>\n</lg>\n\n<lg>\n<l>ṣoḍhādhigamadharmasya pratipakṣaprahāṇayoḥ /</l>\n<l>tayoḥ paryupayogasya prajñāyāḥ kṛpayā saha // Abhs_1.37 //</l>\n</lg>\n\n<lg>\n<l>śiṣyāsādhāraṇatvasya parārthānukramasya ca /</l>\n<l>jñānasyāyatnavṛtteśca pratiṣṭhā gotramucyate // Abhs_1.38 //</l>\n</lg>\n\n<lg>\n<l>dharmadhātorasaṃbhedādgotrabhedo na yujyate /</l>\n<l>ādheyadharmabhedāttu tadbhedaḥ parigīyate // Abhs_1.39 //</l>\n</lg>\n\n<lg>\n<l>ālambanaṃ sarvadharmāste punaḥ kuśalādayaḥ /</l>\n<l>laukikādhigamākhyāścaṃ ye ca lokettarā matāḥ // Abhs_1.40 //</l>\n</lg>\n\n<lg>\n<l>sāsravānāsravā dharmāḥ saṃskṛtāsaṃskṛtāśca ye /</l>\n<l>śiṣyasādhāraṇā dharmā ye cāsādhāranā muneḥ // Abhs_1.41 //</l>\n</lg>\n\n<lg>\n<l>sarvasattvāgratā cittaprahāṇādhigamatraye /</l>\n<l>tribhirmahattvairūddeśo vijñeyo 'ya svayaṃbhuvām // Abhs_1.42 //</l>\n</lg>\n\n<lg>\n<l>dānādau ṣaḍvidha teṣāṃ pratyekaṃ saṃgraheṇa yā /</l>\n<l>saṃnāhapratipattiḥ sā ṣaḍbhiḥ ṣaṭkairyathodithā // Abhs_1.43 //</l>\n</lg>\n\n<lg>\n<l>dyānārūpyeṣu dānādau mārge maitryādikeṣu ca /</l>\n<l>gatopalambhayoge ca trimaṇḍalaviśuddhiṣu // Abhs_1.44 //</l>\n</lg>\n\n<lg>\n<l>uddeśe ṣaṭsvabhijñāsu sarvākārajñatānaye /</l>\n<l>prasthānapratipajjñeyā mahāyānādhirohiṇī // Abhs_1.45 //</l>\n</lg>\n\n<lg>\n<l>dayā dānādikaṃ ṣaṭkaṃ śamathaḥ savidarśanaḥ /</l>\n<l>yuganaddhaśca yo mārga upāye yacca kauśalam // Abhs_1.46 //</l>\n</lg>\n\n<lg>\n<l>jñānaṃ puṇyaṃ ca mārgaśca dhāraṇī bhūmayo daśa /</l>\n<l>pratipakṣaśca vijñeyaḥ saṃbhārapratipatkramaḥ // Abhs_1.47 //</l>\n</lg>\n\n<lg>\n<l>labhyate prathamā bhumirdaśadhā parikarmaṇā /</l>\n<l>āśayo hitavastutvaṃ sattveṣu samacittatā // Abhs_1.48 //</l>\n</lg>\n\n<lg>\n<l>tyāgaḥ sevā ca mitrāṇāṃ saddharmālambanaiṣaṇā /</l>\n<l>sadā naiṣkramyacittatvaṃ buddhakāyagatā spṛhā // Abhs_1.49 //</l>\n</lg>\n\n<lg>\n<l>dharmasya deśanā satyaṃ daśamaṃ vākyamiṣyate /</l>\n<l>jñeyam ca pārikarmaiṣāṃ svabhāvānupalambhataḥ // Abhs_1.50 //</l>\n</lg>\n\n<lg>\n<l>śīlaṃ kṛtajñatā kṣāntiḥ pramodyaṃ mahatī kṛpā /</l>\n<l>gauravaṃ guruśuśrūṣā vīryaṃ dānādike 'ṣṭamam // Abhs_1.51 //</l>\n</lg>\n\n<lg>\n<l>atṛptatā śrute dānaṃ dharmasya ca nirāmiṣam /</l>\n<l>buddhakṣetrasya saṃśuddhiḥ saṃsārāparikheditā // Abhs_1.52 //</l>\n</lg>\n\n<lg>\n<l>hrīrapatrāpyamityetat pañcadhā mananātmakam /</l>\n<l>vanāśālpecChatā tuṣṭirdhūtasaṃlekhasevanam // Abhs_1.53 //</l>\n</lg>\n\n<lg>\n<l>śikṣāyā aparityāgaḥ kāmānāṃ vijugupsanam /</l>\n<l>nirvitsarvāstisaṃtyāgo 'navalinānapekṣate // Abhs_1.54 //</l>\n</lg>\n\n<lg>\n<l>saṃstavaṃ kulamātsaryaṃ sthānaṃ saṃgaṇikāvaham /</l>\n<l>ātmotkarṣaparāvajñe karmamārgān daśāśubhān // Abhs_1.55 //</l>\n</lg>\n\n<lg>\n<l>mānaṃ stambhaṃ viparyāsaṃ vimatiṃ kleśamarṣaṇam /</l>\n<l>vivarjayan samāpneti daśaitān pañcamīṃ bhuvam // Abhs_1.56 //</l>\n</lg>\n\n<lg>\n<l>dānaśīlakṣamāvīryadhyānaprajñāprapūraṇāt /</l>\n<l>śiṣyakhaḍgaspṛhātrāsacetasāṃ parivarjakaḥ // Abhs_1.57 //</l>\n</lg>\n\n<lg>\n<l>yācito 'navalinaśca sarvatyāge 'pyadurmanāḥ /</l>\n<l>kṛśo 'pi nārthināṃ kṣeptā ṣaṣṭhīṃ bhūmiṃ samaśrute // Abhs_1.58 //</l>\n</lg>\n\n<lg>\n<l>ātmasattvagraho jīvapudgalocChedaśāśvataḥ /</l>\n<l>nimittahetvoḥ skandheṣu dhātuṣvāyataneṣu ca // Abhs_1.59 //</l>\n</lg>\n\n<lg>\n<l>traidhātuke pratiṣṭhānaṃ saktirālīnacittatā /</l>\n<l>ratnatritayaśīleṣu taddṛṣṭyabhiniveśitā // Abhs_1.60 //</l>\n</lg>\n\n<lg>\n<l>śūnyatāyāṃ vivadaśca tadvirodhaśca viṃśatiḥ /</l>\n<l>kalaṅkā yasya vicChinnāḥ saptamīmetyasau bhuvam // Abhs_1.61 //</l>\n</lg>\n\n<lg>\n<l>trivimokṣamukhajñānaṃ trimaṇḍalaviśuddhatā /</l>\n<l>karūṇāmananā dharmasamataikanayajñatā // Abhs_1.62 //</l>\n</lg>\n\n<lg>\n<l>anutpādakṣamājñānaṃ dharmāṇāmekadheraṇā /</l>\n<l>kalpanāyāḥ samuddhātaḥ saṃjñādṛkkleśavarjanam // Abhs_1.63 //</l>\n</lg>\n\n<lg>\n<l>śamathasya ca nidhyaptiḥ kauśalaṃ ca vidarśane /</l>\n<l>cittasya dāntatā jñānaṃ sarvatrāpratighāti ca // Abhs_1.64 //</l>\n</lg>\n\n<lg>\n<l>sakterabhūmiryatrecChaṃ kṣetrāntaragatiḥ samam /</l>\n<l>sarvatra svātmabhāvasya darśanaṃ ceti viṃśatiḥ // Abhs_1.65 //</l>\n</lg>\n\n<lg>\n<l>sarvasattvamanojñānamabhijñākrīḍanaṃ śubhā /</l>\n<l>buddhakṣetrasya niṣpattirbuddhasevāparīkṣaṇe // Abhs_1.66 //</l>\n</lg>\n\n<lg>\n<l>akṣajñānaṃ jinakṣetraśuddhirmāyopamā sthitiḥ /</l>\n<l>saṃcintya ca bhavādānamidaṃ karmāṣṭadhoditam // Abhs_1.67 //</l>\n</lg>\n\n<lg>\n<l>praṇidhānānyanantāni devādīnāṃ rūtajñatā /</l>\n<l>nadīva pratibhānānāṃ garbhāvakrāntirūttamā // Abhs_1.68 //</l>\n</lg>\n\n<lg>\n<l>kulajātyośca gotrasya parivārasya janmanaḥ /</l>\n<l>naiṣkramyabodhivṛkṣāṇāṃ guṇapūreśca saṃpadaḥ // Abhs_1.69 //</l>\n</lg>\n\n<lg>\n<l>nava bhūmīratikramya buddhabhūmau pratiṣṭhate /</l>\n<l>yena jñānena sā jñeyā daśamī bodhisattvabhūḥ // Abhs_1.70 //</l>\n</lg>\n\n<lg>\n<l>pratipakṣo 'ṣṭadhā jñeyo darṣanābhyāsamārgayoḥ /</l>\n<l>grāhyagrāhakavikalpānāmaṣṭānāmupaśāntaye // Abhs_1.71 //</l>\n</lg>\n\n<lg>\n<l>uddeśe samatāyāṃ ca sattvārthe yatnavarjane /</l>\n<l>atyantāya ca niryāṇaṃ niryāṇaṃ prāptilakṣaṇam // Abhs_1.72 //</l>\n</lg>\n\n<lg>\n<l>sarvākārajñatayāṃ ca niryāṇaṃ mārgagocaram /</l>\n<l>niryāṇapratipajjñeyā seyamaṣṭavidhātmikā // Abhs_1.73 //</l>\n</lg>\n\n<p>// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\nsarvākārajñatādhikāraḥ prathamaḥ //</p>\n\n<lg>\n<l>dhyāmīkaraṇatā bhābhirdevānāṃ yogyatāṃ prati /</l>\n<l>viṣayo niyato vyāptiḥ svabhāvastasya karma ca // Abhs_2.1 //</l>\n</lg>\n\n<lg>\n<l>caturṇamāryasatyānāmākārānupalambhataḥ /</l>\n<l>śrāvakāṇāmayaṃ mārgo jñeyo mārgajñatānaye // Abhs_2.2 //</l>\n</lg>\n\n<lg>\n<l>rūpādiskandhaśūnyatvācChūnyatānāmabhedataḥ /</l>\n<l>uṣmāṇaḥ anupalambhena teṣāṃ murdhagataṃ matam // Abhs_2.3 //</l>\n</lg>\n\n<lg>\n<l>kṣāntayasteṣu nityādiyogasthānaniṣedhataḥ /</l>\n<l>daśa bhūmīḥ samārabhya vistarāsthānadeśanat // Abhs_2.4 //</l>\n</lg>\n\n<lg>\n<l>agradharmagataṃ proktamāryaśrāvakavartmani /</l>\n<l>tatkasya hetorbuddhena buddhvā dharmāsamīkṣaṇāt // Abhs_2.5 //</l>\n</lg>\n\n<lg>\n<l>paropadeśavaiyarthyaṃ svayaṃbodhāt svayaṃbhuvām /</l>\n<l>gambhīratā ca jñānasya khaḍgānāmabhidhīyate // Abhs_2.6 //</l>\n</lg>\n\n<lg>\n<l>śuśrūṣā yasya yasyārthe yatra yatra yathā yathā /</l>\n<l>sa so 'rthaḥ khyātyaśabdo 'pi tasya tasya tathā tathā // Abhs_2.7 //</l>\n</lg>\n\n<lg>\n<l>grahyārthakalpanāhānādgrāhakasyāprahāṇataḥ /</l>\n<l>ādhārataśca vijñeyaḥ khaḍgamārgasya saṃgrahaḥ // Abhs_2.8 //</l>\n</lg>\n\n<lg>\n<l>prajñapteravirodhena dharmatāsūcanākṛtiḥ /</l>\n<l>usṣmagam mūrdhagaṃ rūpādyahānādiprabhāvitam // Abhs_2.9 //</l>\n</lg>\n\n<lg>\n<l>adyātmaśūnyatādyābhī rūpāderaparigrahāt /</l>\n<l>kṣāntiḥ rūpādyanutpādādyākārairagradharmatā // Abhs_2.10 //</l>\n</lg>\n\n<lg>\n<l>kṣāntijñānakṣaṇaiḥ satyasatyaṃ prati caturvidhaiḥ /</l>\n<l>mārgajñatāyāṃ dṛṅmārgaḥ sānuśaṃso 'yamucyate // Abhs_2.11 //</l>\n</lg>\n\n<lg>\n<l>ādhārādheyatābhāvāttathatābuddhayormithaḥ /</l>\n<l>paryāyeṇānanujñānaṃ mahattā sāpramāṇatā // Abhs_2.12 //</l>\n</lg>\n\n<lg>\n<l>parimāṇāntatābhāvo rūpāderavadhāraṇam /</l>\n<l>tasyāṃ sthitasya buddhatve 'nugrahātyāgatādayaḥ // Abhs_2.13 //</l>\n</lg>\n\n<lg>\n<l>maītryādi śūnyatā prāptirbuddhatvasya parigrahaḥ /</l>\n<l>sarvasya vyavadānasya sarvādhivyādhiśātanam // Abhs_2.14 //</l>\n</lg>\n\n<lg>\n<l>nirvāṇagrāhaśāntatvaṃ buddhebho rakṣaṇādikam /</l>\n<l>aprāṇivadhamārabhya sarvākārajñatānaye // Abhs_2.15 //</l>\n</lg>\n\n<lg>\n<l>svayaṃ sthitasya sattvānāṃ sthāpanaṃ pariṇāmanam /</l>\n<l>danādīnāṃ ca saṃbodhāviti mārgajñatākṣaṇāḥ // Abhs_2.16 //</l>\n</lg>\n\n<lg>\n<l>sarvato damanaṃ nāma sarvataḥ kleśanirjayaḥ /</l>\n<l>upamakrāviṣahyatvaṃ bodhirādhārapūjyatā // Abhs_2.17 //</l>\n</lg>\n\n<lg>\n<l>adhimuktistridhā jñeyā svārthā ca svaparārthakā /</l>\n<l>parārthikaivetyeṣa ca pratyekaṃ trividheṣyate // Abhs_2.18 //</l>\n</lg>\n\n<lg>\n<l>mṛdvī madhyādhimātrā ca mṛdumṛdvādibhedataḥ /</l>\n<l>sā punastrividhetyevaṃ saptaviṃśatidhā matā // Abhs_2.19 //</l>\n</lg>\n\n<lg>\n<l>stutiḥ stobhaḥ praśaṃsā ca prajñāparamitāṃ prati /</l>\n<l>adhimokṣasya mātrāṇāṃ navakaistribhiriṣyate // Abhs_2.20 //</l>\n</lg>\n\n<lg>\n<l>viśeṣaḥ pariṇāmastu tasya kāritramuttamam /</l>\n<l>nopalambhākṛtiścāsāvaviparyāsalakṣaṇaḥ // Abhs_2.21 //</l>\n</lg>\n\n<lg>\n<l>vivikto buddhapuṇyaughasvabhāvasmṛtigocaraḥ /</l>\n<l>sopāyaścānimittaśca buddhairabhyanumoditaḥ // Abhs_2.22 //</l>\n</lg>\n\n<lg>\n<l>traidhātukāprapannaśca pariṇāmo 'parastridhā /</l>\n<l>mṛdurmadhyo 'dhimātraśca mahāpuṇyodayātmakaḥ // Abhs_2.23 //</l>\n</lg>\n\n<lg>\n<l>upāyānupalambābhyāṃ śubhamūlānumodanā /</l>\n<l>anumode manaskārabhāvaneha vidhīyate // Abhs_2.24 //</l>\n</lg>\n\n<lg>\n<l>svabhāvaḥ śreṣṭhatā tasya sarvasyānabhisaṃskṛtiḥ /</l>\n<l>nopalambhena dharmāṇāmarpaṇā ca mahārthatā // Abhs_2.25 //</l>\n</lg>\n\n<lg>\n<l>buddhasevā ca dānādirūpāye yacca kauśalam /</l>\n<l>hetavo 'trādhimokṣasya dharmavyasanahetavaḥ // Abhs_2.26 //</l>\n</lg>\n\n<lg>\n<l>mārādhiṣṭhānagambhīradharmatānadhimuktate /</l>\n<l>skandhādyabhiniveśaśca pāpamitraparigrahaḥ // Abhs_2.27 //</l>\n</lg>\n\n<lg>\n<l>phalaśuddhiśca rūpādiśuddhireva tayordvayoḥ /</l>\n<l>abhinnācChinnatā yasmāditi śuddhirudīritā // Abhs_2.28 //</l>\n</lg>\n\n<lg>\n<l>kleśajñeyatrimārgasya śiṣyakhaḍgajinaurasām /</l>\n<l>hānādviśuddhirātyantikī tu buddhasya sarvathā // Abhs_2.29 //</l>\n</lg>\n\n<lg>\n<l>mṛdumṛdvādiko mārgaḥ śuddhirnavasu bhūmiṣu /</l>\n<l>adhimātrādhimātrādermalasya pratipakṣataḥ // Abhs_2.30 //</l>\n</lg>\n\n<lg>\n<l>tridhātupratipakṣatvaṃ samatā manameyayoḥ /</l>\n<l>mārgasya ceṣyate tasya parihārataḥ // Abhs_2.31 //</l>\n</lg>\n\n<p>// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\nmārgajñatādhikāro dvitīyaḥ //</p>\n\n<lg>\n<l>nāpare na pare tīre nāntarāle tathoḥ sthitā /</l>\n<l>adhvanāṃ samatājñānāt prajñāpāramitāmatā // Abhs_3.1 //</l>\n</lg>\n\n<lg>\n<l>anupāyena dūraṃ sā sanimittopalambhataḥ /</l>\n<l>upāyakauśalenāsyāḥ samyagāsannatoditā // Abhs_3.2 //</l>\n</lg>\n\n<lg>\n<l>rūpādiskandhaśūnyatve dharmeṣu tryadhvageṣu ca /</l>\n<l>dānādau bodhipakṣeṣu caryāsaṃjñā vipakṣatā // Abhs_3.3 //</l>\n</lg>\n\n<lg>\n<l>dānādiṣvanahaṃkāraḥ pareṣāṃ tanniyojanam /</l>\n<l>saṅgakoṭīniṣedho 'yaṃ sukṣmaḥ saṅgo jinādiṣu // Abhs_3.4 //</l>\n</lg>\n\n<lg>\n<l>tadgāmbīryaṃ prakṛtyaiva vivekāddharmapaddhateḥ *iti* /</l>\n<l>ekaprakṛtikaṃ jñānaṃ dharmāṇāṃ saṅgavarjanam // Abhs_3.5 //</l>\n</lg>\n\n<lg>\n<l>dṛṣṭādipratiṣedhena tasyā durbodhatoditā *iti* /</l>\n<l>rūpādibhiravijñānāttadacintyatvamiṣyate // Abhs_3.6 //</l>\n</lg>\n\n<lg>\n<l>evaṃ kṛtvā yathokto vai jñeyaḥ sarvajñatānaye /</l>\n<l>ayaṃ vibhāgo niḥśoṣo vipakṣapratipakṣayoḥ // Abhs_3.7 //</l>\n</lg>\n\n<lg>\n<l>rūpādau tadanityādau tadapuriprapūrayoḥ /</l>\n<l>tadasaṅgatve caryāyā: prayogaḥ pratiṣedhataḥ // Abhs_3.8 //</l>\n</lg>\n\n<lg>\n<l>avikāro na kartā ca prayogo duṣkarastridhā /</l>\n<l>yathābhavyaṃ phalaprāpteravandhyo 'bhimataśca saḥ // Abhs_3.9 //</l>\n</lg>\n\n<lg>\n<l>aparapratyayo yaśca saptadhā khyātivedakaḥ /</l>\n<l>caturdhā mananā tasya rūpādau samatā matā // Abhs_3.10 //</l>\n</lg>\n\n<lg>\n<l>dharmajñānānvayajñānakṣāntijñānakṣaṇātmakaḥ /</l>\n<l>duḥkhādisatye dṛṅmārga eṣa sarvajñatānaye // Abhs_3.11 //</l>\n</lg>\n\n<lg>\n<l>rūpaṃ na nityaṃ nānityamatitāntaṃ viśuddhakam /</l>\n<l>anutpannāniruddhādi vyomābhaṃ lepavarjitam // Abhs_3.12 //</l>\n</lg>\n\n<lg>\n<l>parigraheṇa nirmuktamavyāhāraṃ svabhāvataḥ /</l>\n<l>pravyāhāreṇa nāsyārthaḥ pareṣu prāpyate yataḥ // Abhs_3.13 //</l>\n</lg>\n\n<lg>\n<l>nopalambhakṛdatyantaviśuddhirvyādhyasaṃbhavaḥ /</l>\n<l>apāyocChittyakalpatve phalasākṣātkriyāṃ prati // Abhs_3.14 //</l>\n</lg>\n\n<lg>\n<l>asaṃsargo nimittaiśca vastuni vyañjane dvaye /</l>\n<l>jñānasya yā cānutpattiriti sarvajñatākṣaṇāḥ // Abhs_3.15 //</l>\n</lg>\n\n<lg>\n<l>iti seyaṃ punaḥ seyaṃ seyaṃ khalu punastridhā /</l>\n<l>adhikāratrayasyaiṣā samāptiḥ paridīpitā // Abhs_3.16 //</l>\n</lg>\n\n<p>// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\nsarvajñatādhikāras tṛtīyaḥ //</p>\n\n<lg>\n<l>vastujñānaprakārāṇāmākārā iti lakṣaṇam /</l>\n<l>sarvajñatānāṃ traividyāt trividhā eva te matāḥ // Abhs_4.1 //</l>\n</lg>\n\n<lg>\n<l>asadākāramārabhya yāvanniścalatākṛtiḥ /</l>\n<l>catvāraḥ pratisatyaṃ te mārge pañcadaśa smṛtāḥ // Abhs_4.2 //</l>\n</lg>\n\n<lg>\n<l>hetau mārge ca duḥkhe ca nirodhe ca yathākramam /</l>\n<l>aṣṭau te sapta pañceti ṣoḍaśeti ca kīrtitāḥ // Abhs_4.3 //</l>\n</lg>\n\n<lg>\n<l>smṛtyupasthānamārabhya buddhatvākārapaścimāḥ /</l>\n<l>śiṣyāṇāṃ bodhisattvānāṃ buddhānāṃ ca yathākramam // Abhs_4.4 //</l>\n</lg>\n\n<lg>\n<l>saptatriṃśaccatustriṃśattriṃśannava ca te matāḥ /</l>\n<l>trisarvajñatvabhedena mārgasatyānurodhataḥ // Abhs_4.5 //</l>\n</lg>\n\n<lg>\n<l>kṛtādhikārā buddheṣu teṣūptaśubhamūlakāḥ /</l>\n<l>mitraiḥ sanāthāḥ kalyāṇairasyāḥ śravaṇabhājanam // Abhs_4.6 //</l>\n</lg>\n\n<lg>\n<l>buddhopāsanasaṃpraśnadānaśīlādicaryayā /</l>\n<l>udgrahadhāraṇādīnāṃ bhājanatvaṃ satāṃ matam // Abhs_4.7 //</l>\n</lg>\n\n<lg>\n<l>rūpādiṣvanavasthānātteṣu yoganiṣedhataḥ /</l>\n<l>tattathatāgambhīratvātteṣāṃ duravagāhataḥ // Abhs_4.8 //</l>\n</lg>\n\n<lg>\n<l>tadaprāmāṇyataḥ kṛcChāccireṇa pratibodhataḥ /</l>\n<l>vyākṛtāvavivartyatve niryāṇe sanirantare // Abhs_4.9 //</l>\n</lg>\n\n<lg>\n<l>āsannabodhe kṣipraṃ ca parārthe 'vṛddhyahānitaḥ /</l>\n<l>dharmādharmādyadṛṣṭau ca rupācintyādyadarśane // Abhs_4.10 //</l>\n</lg>\n\n<lg>\n<l>rūpādestannimittasya tadbhāvasyāvikalpakaḥ /</l>\n<l>phalaratnapradātā ca śuddhakaḥ sāvadhiśca saḥ // Abhs_4.11 //</l>\n</lg>\n\n<lg>\n<l>mārāṇāṃ śaktihānyādiścaturdaśavidho guṇaḥ /</l>\n<l>doṣāśca ṣaḍviboddhavyāścaturbhirdaśakaiḥ saha // Abhs_4.12 //</l>\n</lg>\n\n<lg>\n<l>lakṣyate yena tajjñeyaṃ lakṣaṇaṃ trividhaṃ ca tat /</l>\n<l>jñānaṃ viśeṣaḥ kāritraṃ svabhāvo yaśca lakṣyate // Abhs_4.13 //</l>\n</lg>\n\n<lg>\n<l>tathāgatasya nirvṛttau loke cālujyanātmake /</l>\n<l>sattvānāṃ cittacaryāsu tatsaṃkṣepe bahirgatau // Abhs_4.14 //</l>\n</lg>\n\n<lg>\n<l>akṣayākāratāyāṃ ca sarāgādau pravistṛte /</l>\n<l>mahadgate 'pramāṇe ca vijñāne cānidarśane // Abhs_4.15 //</l>\n</lg>\n\n<lg>\n<l>adṛśyacitajñāne ca tadunmiñjādisaṃjñakam /</l>\n<l>punastathatākāreṇa teṣāṃ jñānamataḥ param // Abhs_4.16 //</l>\n</lg>\n\n<lg>\n<l>tathatāyāṃ munerbodhe tatparākhyānamityayam /</l>\n<l>sarvajñatādhikāreṇa jñānalakṣaṇasaṃgrahaḥ // Abhs_4.17 //</l>\n</lg>\n\n<lg>\n<l>śūnyatve sānimitte c praṇidhānavivarjite /</l>\n<l>anutpādanirodhādau dharmatāyā akopane // Abhs_4.18 //</l>\n</lg>\n\n<lg>\n<l>asaṃskare 'vikalpe ca prabhedālakṣaṇatvayoḥ /</l>\n<l>mārgajñatādhikāreṇa jñānalakṣaṇamiṣyate // Abhs_4.19 //</l>\n</lg>\n\n<lg>\n<l>svadharmamupaniśritya vihāre tasya satkṛtau /</l>\n<l>gurūtve mānanāyāṃ ca tatpūjākṛtakatvayoḥ // Abhs_4.20 //</l>\n</lg>\n\n<lg>\n<l>sarvatra vṛttimajjñānamadṛṣṭasya ca darśakam /</l>\n<l>lokasya śūnyatākārasūcakajñāpakākṣagam // Abhs_4.21 //</l>\n</lg>\n\n<lg>\n<l>acintyaśāntatādarśi lokasaṃjñānirodhi ca /</l>\n<l>jñānalakṣaṇamityuktaṃ sarvākārajñatānaye // Abhs_4.22 //</l>\n</lg>\n\n<lg>\n<l>acityādiviśeṣeṇa viśiṣṭaiḥ satyagocaraiḥ /</l>\n<l>viśeṣalakṣaṇaṃ ṣaḍbhirdaśabhiścoditaṃ kṣaṇaiḥ // Abhs_4.23 //</l>\n</lg>\n\n<lg>\n<l>acintyātulyate meyasaṃkhyeyāsamatikramau /</l>\n<l>sarvāryasaṃgraho vijñavedyāsādhāraṇajñate // Abhs_4.24 //</l>\n</lg>\n\n<lg>\n<l>kṣiprajñānyunapūrṇatve pratipatsamudāgamau /</l>\n<l>ālambanaṃ ca sādhāraṃ sākalyaṃ saṃparigrahaḥ // Abhs_4.25 //</l>\n</lg>\n\n<lg>\n<l>anāsvādaśca vijñeyo viśeṣaḥ ṣoḍaśātmakaḥ /</l>\n<l>viśeṣamārgā mārgebhyo yenānyebhyo viśiṣyate // Abhs_4.26 //</l>\n</lg>\n\n<lg>\n<l>hitaṃ sukhaṃ ca trāṇaṃ ca śaraṇaṃ layanaṃ nṛṇām /</l>\n<l>parāyaṇaṃ ca dvīpaṃ ca pariṇāyakasaṃjñakam // Abhs_4.27 //</l>\n</lg>\n\n<lg>\n<l>anābhogaṃ tribhiryānaiḥ phalāsākṣātkriyātmakam /</l>\n<l>paścimaṃ gatikāritramidaṃ kāritralakṣaṇam // Abhs_4.28 //</l>\n</lg>\n\n<lg>\n<l>kleśaliṅganimittānāṃ vipakṣapratipakṣayoḥ /</l>\n<l>viveko duṣkaraikāntāvuddeśo 'nupalambhakaḥ // Abhs_4.29 //</l>\n</lg>\n\n<lg>\n<l>niṣiddhābhiniveśaśca yaścālambanasaṃjñakaḥ /</l>\n<l>vipratyayo 'vighātī ca so 'padāgatyajātikaḥ // Abhs_4.30 //</l>\n</lg>\n\n<lg>\n<l>tathatānupalambhaśca svabhāvaḥ ṣoḍaśātmakaḥ /</l>\n<l>lakṣmeva lakṣyate ceticaturthaṃ lakṣaṇaṃ matam // Abhs_4.31 //</l>\n</lg>\n\n<lg>\n<l>animittapradānādisamudāgamakauśalam /</l>\n<l>sarvākārāvabodhe 'smin mokṣabhagīyamiṣyate // Abhs_4.32 //</l>\n</lg>\n\n<lg>\n<l>buddhādyālambanā śraddhā vīryaṃ dānādigocaram /</l>\n<l>smṛtirāśayasaṃpattiḥ samādhiravikalpanā // Abhs_4.33 //</l>\n</lg>\n\n<lg>\n<l>dharmeṣu sarvairākārairjñānaṃ prajñeti pañcadhā /</l>\n<l>tīkṣṇai subodhā saṃbodhirdurbodhā mṛdubhirmatā // Abhs_4.34 //</l>\n</lg>\n\n<lg>\n<l>ālambanaṃ sarvasattvā ūṣmaṇāmiha śakyate /</l>\n<l>samacittādirākārasteṣveva daśadhoditaḥ // Abhs_4.35 //</l>\n</lg>\n\n<lg>\n<l>svayaṃ pāpānnivṛttasya dānādyeṣu sthitasya ca /</l>\n<l>tayorniyojanānyeṣāṃ varṇavādānukulate // Abhs_4.36 //</l>\n</lg>\n\n<lg>\n<l>mūrdhagam svaparādhāraṃ satyajñānaṃ tathā kṣamā /</l>\n<l>tathāgradharmā vijñeyāḥ sattvānāṃ pācanādibhiḥ // Abhs_4.37 //</l>\n</lg>\n\n<lg>\n<l>nirvedhaṅgānyupādaya darśanābhyāsamārgayoḥ /</l>\n<l>ye bodhisattvā vartante so 'trāvaivartiko gaṇaḥ // Abhs_4.38 //</l>\n</lg>\n\n<lg>\n<l>rūpādibhyo nivṛttyādyairliṅgairviṃśatidheritaiḥ /</l>\n<l>nirvedhāṅgasthitasyedamavaivartikalakṣaṇam // Abhs_4.39 //</l>\n</lg>\n\n<lg>\n<l>rūpādibhyo nivṛttiśca vicikitsākṣaṇakṣayau /</l>\n<l>ātmanaḥ kuśalasthasya pareṣāṃ tanniyojanam // Abhs_4.40 //</l>\n</lg>\n\n<lg>\n<l>parādhāraṃ ca dānādi gambhire 'rthe 'pyakāṅkṣaṇam /</l>\n<l>maitraṃ kāyādyasaṃvāsaḥ pañcadhāvaraṇena ca // Abhs_4.41 //</l>\n</lg>\n\n<lg>\n<l>sarvānuśayahānaṃ ca smṛtisaṃprajñatā suci /</l>\n<l>civarādiśarīre ca kṛmīṇāmasamudbhavaḥ // Abhs_4.42 //</l>\n</lg>\n\n<lg>\n<l>cittākauṭilyamādānaṃ dhūtasyāmatsarāditā /</l>\n<l>dharmatāyuktagāmitvaṃ lokārthaṃ narakaiṣaṇā // Abhs_4.43 //</l>\n</lg>\n\n<lg>\n<l>parairaneyatā mārasyānyamārgopadeśinaḥ /</l>\n<l>māra ityavabodhaśca caryā buddhānumoditā // Abhs_4.44 //</l>\n</lg>\n\n<lg>\n<l>ūṣmamūrdhasu sa kṣāntiṣvagradharmeṣvavasthitaḥ /</l>\n<l>liṅgairamībhirviśatyā saṃbodherna vivartate // Abhs_4.45 //</l>\n</lg>\n\n<lg>\n<l>kṣāntijñānakṣaṇaḥ ṣaṭ ca pañca pañca ca dṛkpathe /</l>\n<l>bodhisattvasya vijñeyamavaivartikalakṣaṇam // Abhs_4.46 //</l>\n</lg>\n\n<lg>\n<l>rūpādisaṃjñāvyāvṛttirdārḍhyaṃ cittasya hinayoḥ /</l>\n<l>yānayorvinivṛttiśca dhyānādyaṅgaparikṣayaḥ // Abhs_4.47 //</l>\n</lg>\n\n<lg>\n<l>kāyacetolaghutvaṃ ca kāmasevābhyupāyikī /</l>\n<l>sadaiva brahmacāritvamājīvasya viśuddhatā // Abhs_4.48 //</l>\n</lg>\n\n<lg>\n<l>skandhādavantarāyeṣu saṃbhāre sendriyādike /</l>\n<l>samare matsarādau ca neti yogānuyogayoḥ // Abhs_4.49 //</l>\n</lg>\n\n<lg>\n<l>vihārapratiṣedhaśca dharmasyāṇoralabdhatā /</l>\n<l>niścitatvaṃ svabhumau ca bhūmitritayasaṃsthitiḥ // Abhs_4.50 //</l>\n</lg>\n\n<lg>\n<l>dharmārthaṃ jīvitatyāga ityamī ṣoḍaśa kṣaṇāḥ /</l>\n<l>avaivartikaliṅgāni dṛṅmārgasthasya dhīmataḥ // Abhs_4.51 //</l>\n</lg>\n\n<lg>\n<l>gambhiro bhāvanāmārgo gāmbhīryaṃ śunyatādikam /</l>\n<l>samāropāpavādāntamuktatā sā gabhīratā // Abhs_4.52 //</l>\n</lg>\n\n<lg>\n<l>cintātulananidhyānānyabhīkṣṇaṃ bhāvanāpathaḥ /</l>\n<l>nirvedhāṅgeṣu dṛṅmārge bhāvanāmārga eva ca // Abhs_4.53 //</l>\n</lg>\n\n<lg>\n<l>prābandhakatvādiṣṭo 'sau navadhā ca prakārataḥ /</l>\n<l>mṛdumadhyādhimātrāṇāṃ punarmṛdvādibhedataḥ // Abhs_4.54 //</l>\n</lg>\n\n<lg>\n<l>asaṃkhyeyādinirdeśāḥ paramārthena na kṣamāḥ /</l>\n<l>kṛpāniṣyandabhūtāste saṃvṛtyābhimatā muneḥ // Abhs_4.55 //</l>\n</lg>\n\n<lg>\n<l>hānivṛddhī na yujyete nirālāpasya vastunaḥ /</l>\n<l>bhāvanākhyena kiṃ hinaṃ vartmanā kimudāgatam // Abhs_4.56 //</l>\n</lg>\n\n<lg>\n<l>yathā bodhistathaivāsāviṣṭasyārthasya sādhakaḥ /</l>\n<l>tathatālakṣaṇā bodhiḥ so 'pi tallakṣaṇo mataḥ // Abhs_4.57 //</l>\n</lg>\n\n<lg>\n<l>pūrveṇa bodhirno yuktā manasā paścimena vā /</l>\n<l>dīpadṛṣṭāntayogenagambhīrā dharmatāṣṭadhā // Abhs_4.58 //</l>\n</lg>\n\n<lg>\n<l>utpāde ca nirodhe ca tathatāyāṃ gabhīratā /</l>\n<l>jñeye dāne ca caryāyāmadvayopāyakauśale ca // Abhs_4.59 //</l>\n</lg>\n\n<lg>\n<l>svapnopamatvāddharmāṇāṃ bhavaśāntyorakalpanā /</l>\n<l>karmābhāvādicodyānāṃ parihārā yathoditāḥ // Abhs_4.60 //</l>\n</lg>\n\n<lg>\n<l>sattvalokasya yā śuddhistasyāḥ suddhyupahārataḥ /</l>\n<l>tathā bhājanalokasya buddhakṣetrasya śuddhatā // Abhs_4.61 //</l>\n</lg>\n\n<lg>\n<l>viṣayo 'sya prayogaśca śātravāṇāmatikramaḥ /</l>\n<l>apratiṣṭho yathāvedhamasādhāraṇalakṣaṇaḥ // Abhs_4.62 //</l>\n</lg>\n\n<lg>\n<l>asakto 'nupalambhaśca nimittapraṇidhikṣataḥ /</l>\n<l>lalliṅgaścāpramāṇaśca daśadhopāyakauśalam // Abhs_4.63 //</l>\n</lg>\n\n<p>// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\nsarvākārābhisaṃbodhādhikāraś caturthaḥ //</p>\n\n<lg>\n<l>svapnāntare 'pi svapnābhasarvadharmekṣaṇādikam /</l>\n<l>murdhaprāptasya yogasya liṅgaṃ dvādaśadhā matam // Abhs_5.1 //</l>\n</lg>\n\n<lg>\n<l>jambudvipajaneyattābuddhapūjāśubhādikām /</l>\n<l>upamāṃ bahudhā kṛtvā vivṛddhiḥ ṣoḍaśātmikā // Abhs_5.2 //</l>\n</lg>\n\n<lg>\n<l>trisarvajñatvadharmāṇāṃ paripuriranuttarā /</l>\n<l>aparityaktasattvārthā nirūḍhirabhidhīyate // Abhs_5.3 //</l>\n</lg>\n\n<lg>\n<l>caturdvipakasāhasradvitrisāhasrakopamaḥ /</l>\n<l>kṛtvā puṇyabahutvena samādhiḥ parikīrtitaḥ // Abhs_5.4 //</l>\n</lg>\n\n<lg>\n<l>pravṛttau ca nivṛttau ca pratyekaṃ tau navātmakau /</l>\n<l>grāhyau vikalpau vijñeyāvayāthāviṣayātmakau // Abhs_5.5 //</l>\n</lg>\n\n<lg>\n<l>dravyaprajñaptisatsattvavikalpau grāhakau matau /</l>\n<l>pṛthagjanāryabhedena pratyekaṃ tau navātmakau // Abhs_5.6 //</l>\n</lg>\n\n<lg>\n<l>grāhyau cenna tathā sto 'rthau kasya tau grāhakau matau /</l>\n<l>iti grāhakabhāvena śunyatālakṣaṇaṃ tayoḥ // Abhs_5.7 //</l>\n</lg>\n\n<lg>\n<l>eṣa svabhāve gotre ca pratipatsamudāgame /</l>\n<l>jñānasyālambanābhrāntau pratipakṣavipakṣayoḥ // Abhs_5.8 //</l>\n</lg>\n\n<lg>\n<l>svasminnadhigame kartṛtatkāritrakriyāphale /</l>\n<l>pravṛttipakṣādhiṣṭhāno vikalpo navadhā mataḥ // Abhs_5.9 //</l>\n</lg>\n\n<lg>\n<l>bhavaśāntiprapātitvānnyūnatve 'dhigamasya ca /</l>\n<l>parigrahasyābhāve ca vaikalye pratipadgate // Abhs_5.10 //</l>\n</lg>\n\n<lg>\n<l>parapratyayagāmitve samuddeśanivartane /</l>\n<l>prādeśikatve nānātve sthānaprasthānamohayoḥ // Abhs_5.11 //</l>\n</lg>\n\n<lg>\n<l>pṛṣṭhato gamane ceti vikalpo 'yaṃ navātmakaḥ /</l>\n<l>nivṛttipakṣādhiṣṭhānaḥ śrāvakādimanobhavaḥ // Abhs_5.12 //</l>\n</lg>\n\n<lg>\n<l>grāhakaḥ prathamo jñeyo gragaṇapratimokṣaṇe /</l>\n<l>manaskriyāyāṃ dhātūnāmupaśleṣe trayasya ca // Abhs_5.13 //</l>\n</lg>\n\n<lg>\n<l>sthāne cābhiniveśe ca prajñaptau dharmavastunaḥ /</l>\n<l>saktau ca pratipakṣe ca yathecChaṃ ca gatikṣatau // Abhs_5.14 //</l>\n</lg>\n\n<lg>\n<l>yathoddeśamaniryāṇe mārgāmārgāvadhāraṇe /</l>\n<l>sanirodhe samutpāde vastuyogaviyogayoḥ // Abhs_5.15 //</l>\n</lg>\n\n<lg>\n<l>sthāne gotrasya nāśe ca prārthanāhetvabhāvayoḥ /</l>\n<l>pratyarthikopalambhe ca vikalpo grāhako 'paraḥ // Abhs_5.16 //</l>\n</lg>\n\n<lg>\n<l>bodhau sandarśanānyeṣāṃ taddhetośca parindanā /</l>\n<l>tatprāptyanantaro hetuḥ puṇyabāhulyalakṣaṇaḥ // Abhs_5.17 //</l>\n</lg>\n\n<lg>\n<l>kṣayānutpādayorjñāne malānāṃ bodhirūcyate /</l>\n<l>kṣayābhāvādanutpādātte hi jñeye yathākramam // Abhs_5.18 //</l>\n</lg>\n\n<lg>\n<l>prakṛtāvaniruddhāyāṃ darśanākhyena vartmanā /</l>\n<l>vikalpajātaṃ kiṃ kṣīṇaṃ vānutpattimāgatam // Abhs_5.19 //</l>\n</lg>\n\n<lg>\n<l>sattā ca nāma dharmāṇāṃ jñeye cāvaraṇakṣayaḥ /</l>\n<l>kathyate yatparaiḥ śāsturatra vismīyate mayā // Abhs_5.20 //</l>\n</lg>\n\n<lg>\n<l>nāpaneyamataḥ kiṃcitprakṣeptavyaṃ na kiṃcana /</l>\n<l>draṣṭavyaṃ bhūtato bhūtaṃ bhūtadarśī vimucyate // Abhs_5.21 //</l>\n</lg>\n\n<lg>\n<l>ekaikasyaiva dānādau teṣāṃ yaḥ saṃgraho mithaḥ /</l>\n<l>sa ekakṣaṇikaḥ kṣāntisaṃgṛhīto 'tra dṛkpathe // Abhs_5.22 //</l>\n</lg>\n\n<lg>\n<l>sa samādhiṃ samāpadya tataḥ siṃhavijṛmbhitam /</l>\n<l>anulomaṃ vilomaṃ pratītyotpādamīkṣate // Abhs_5.23 //</l>\n</lg>\n\n<lg>\n<l>kāmāptamavadhīkṛtya vijñānamasamāhitam /</l>\n<l>sanirodhāḥ samāpattīrgatvāgamya nava dvidhā // Abhs_5.24 //</l>\n</lg>\n\n<lg>\n<l>ekadvitricatuḥpañcaṣaṭsaptāṣṭavyatikramāt /</l>\n<l>avaskandasamāpattirāniroodhamatulyatā // Abhs_5.25 //</l>\n</lg>\n\n<lg>\n<l>saṃkṣepe vistare buddhaiḥ sanāthyenāparigrahe /</l>\n<l>traikālike guṇābhāve śreyasastrividhe pathi // Abhs_5.26 //</l>\n</lg>\n\n<lg>\n<l>eko grāhyavikalpo 'yaṃ prayogākāragocaraḥ /</l>\n<l>dvitīyaścittacaittānāṃ pravṛttiviṣayo mataḥ // Abhs_5.27 //</l>\n</lg>\n\n<lg>\n<l>anutpādastu cittasya bodhimaṇḍāmanaskriyā /</l>\n<l>hīnayānamanaskārau saṃbodheramanaskṛtiḥ // Abhs_5.28 //</l>\n</lg>\n\n<lg>\n<l>bhāvane 'bhāvane caiva tadviparyaya eva ca /</l>\n<l>ayathārthaśca vijñeyo vikalpo bhāvanāpathe // Abhs_5.29 //</l>\n</lg>\n\n<lg>\n<l>grāhakaḥ prathamo jñeyaḥ sattvaprajñaptigocaraḥ /</l>\n<l>dharmaprajñaptyaśūnyatve saktipravicayātmakaḥ // Abhs_5.30 //</l>\n</lg>\n\n<lg>\n<l>kṛtena vastuno yānatritaye ca sa kīrtitaḥ /</l>\n<l>dakṣiṇāyā aśuddhau ca caryāyāśca vikopane // Abhs_5.31 //</l>\n</lg>\n\n<lg>\n<l>sattvaprajñaptitaddhetuviṣayo navadhāparaḥ /</l>\n<l>bhāvanāmārgasaṃbuddho vipakṣastadvighātataḥ // Abhs_5.32 //</l>\n</lg>\n\n<lg>\n<l>sarvajñatānāṃ tisR^īṇāṃ yathāsvaṃ trividhāvṛtau /</l>\n<l>śāntimārge tathatādisaṃprayogaviyogayoḥ // Abhs_5.33 //</l>\n</lg>\n\n<lg>\n<l>asamatve ca duḥkhādau kleśānāṃ prakṛtāvapi /</l>\n<l>dvayābhāve ca saṃmohe vikalpaḥ paścimo mataḥ // Abhs_5.34 //</l>\n</lg>\n\n<lg>\n<l>āsāṃ kṣaye satītīnāṃ cirāyocChvasitā iva /</l>\n<l>sarvākārajagatsaukhyasādhanā guṇasaṃpadaḥ // Abhs_5.35 //</l>\n</lg>\n\n<lg>\n<l>sarvāḥ sarvābhisāreṇa nikāmaphalaśālinam /</l>\n<l>bhajante taṃ mahāsattvaṃ mahodadhimivāpagāḥ // Abhs_5.36 //</l>\n</lg>\n\n<lg>\n<l>trisāhasrajanaṃ śiṣyakhaḍgādhigamasaṃpadi /</l>\n<l>bodhisattvasya ca nyāmo pratiṣṭāpya śubhopamāḥ // Abhs_5.37 //</l>\n</lg>\n\n<lg>\n<l>kṛtvā puṇyabahutvena buddhatvapteranantaraḥ /</l>\n<l>ānantaryasamādhiḥ sa sarvākārajñatā ca tat // Abhs_5.38 //</l>\n</lg>\n\n<lg>\n<l>ālambanamabhāvo 'sya smṛtiścādhipatirmataḥ /</l>\n<l>ākāraḥ śāntatā cātra jalpājalpipravādinām // Abhs_5.39 //</l>\n</lg>\n\n<lg>\n<l>ālambanopapattau ca tatsvabhāvāvadhārraṇe /</l>\n<l>sarvākārajñatājñāne paramārthe sasaṃvṛtau // Abhs_5.40 //</l>\n</lg>\n\n<lg>\n<l>prayoge triṣu ratneṣu sopāye samaye muneḥ /</l>\n<l>viparyāse samārge ca pratipakṣavipakṣayoḥ // Abhs_5.41 //</l>\n</lg>\n\n<lg>\n<l>lakṣaṇe bhāvanāyāṃ ca matā vipratipattayaḥ /</l>\n<l>sarvākārajñatādhārā ṣoḍhā daśa ca cādinām // Abhs_5.42 //</l>\n</lg>\n\n<p>// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\nmūrdhābhisamayādhikāraḥ pañcamaḥ //</p>\n\n<lg>\n<l>dānena prajñayā yāvadbuddhādau smṛtibhiśca sā /</l>\n<l>dharmābhāvasvabhāvenetyanupūrvakriyā matā // Abhs_6.1 //</l>\n</lg>\n\n<p>// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\nanupurvābhisamayādhikāraḥ ṣaṣṭhaḥ //</p>\n\n<lg>\n<l>anūsravāṇāṃ sarveṣāmekaikenāpi saṃgrahāt /</l>\n<l>ekakṣaṇāvabodho 'yaṃ jñeyo dānādinā muneḥ // Abhs_7.1 //</l>\n</lg>\n\n<lg>\n<l>aradhaṭṭaṃ yathaikāpi padikā purūṣeritā /</l>\n<l>sakṛtsarvaṃ calayati jñānamekakṣaṇe tathā // Abhs_7.2 //</l>\n</lg>\n\n<lg>\n<l>vipākadharmatāvasthā sarvaśuklamayī yadā /</l>\n<l>prajñāpāramitā jātā jñānamekakṣaṇe tadā // Abhs_7.3 //</l>\n</lg>\n\n<lg>\n<l>svapnopameṣu dharmeṣu sthitvā dānādicaryā /</l>\n<l>alakṣatvaṃ dharmāṇāṃ kṣaṇenaikena vindati // Abhs_7.4 //</l>\n</lg>\n\n<lg>\n<l>svapnaṃ taddarśinaṃ caiva dvayayogena nekṣate /</l>\n<l>dharmāṇāmadvayaṃ tattvaṃ kṣaṇenaikenapaṣyati // Abhs_7.5 //</l>\n</lg>\n\n<p>// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\nekakṣaṇābhisamayādhikāraḥ saptamaḥ //</p>\n\n<lg>\n<l>sarvākārāṃ viśuddhiṃ ye dharmāḥ prāptā nirāsravāḥ /</l>\n<l>svābhāvikomuneḥ kāyasteśāṃ prakṛtilakṣaṇaḥ // Abhs_8.1 //</l>\n</lg>\n\n<lg>\n<l>bodhipakṣāpramāṇāni vimokṣā anūpurvaśaḥ /</l>\n<l>navātmikā samāpattiḥ kṛtsnaṃ daśavidhātmikam // Abhs_8.2 //</l>\n</lg>\n\n<lg>\n<l>abhibhvāyatanānyaṣṭaprakārāṇi prabhedataḥ /</l>\n<l>araṇā praṇidhijñānamabhijñāḥ pratisaṃvidaḥ // Abhs_8.3 //</l>\n</lg>\n\n<p>sarvākārāścatasno 'thaśuddhayo vaśitā daśa //</p>\n\n<l>balāni daśa catvāri vaiśāradyānyārakṣaṇam // Abhs_8.4 //</l>\n\n<lg>\n<l>trividhaṃ smṛtyupasthānaṃ tridhāsaṃmoṣadharmatā /</l>\n<l>vāsanāyāḥ samuddhāto mahati karūṇā jane // Abhs_8.5 //</l>\n</lg>\n\n<lg>\n<l>āveṇikā munereva dharmā ye 'ṣṭādaśeritāḥ /</l>\n<l>sarvākārajñatā ceti dharmakāyo 'bhidhīyate // Abhs_8.6 //</l>\n</lg>\n\n<lg>\n<l>śravakasyāraṇādṛṣṭernṛkleśaparihāritā /</l>\n<l>tatkleśasrotaucChittyai grāmādiṣu jināraṇā // Abhs_8.7 //</l>\n</lg>\n\n<lg>\n<l>anābhogamanāsaṅmavyāghātaṃ sadā sthitam /</l>\n<l>sarvapraśnāpanudvauddhaṃ praṇidhijñānamiṣyate // Abhs_8.8 //</l>\n</lg>\n\n<lg>\n<l>paripākaṃ gate hetau yasya yasya yadā yadā /</l>\n<l>hitaṃ bhavati kartavyaṃ prathate tasya tasya saḥ // Abhs_8.9 //</l>\n</lg>\n\n<lg>\n<l>varṣatyapi hi parjanye naiva bījaṃ prarohati /</l>\n<l>samutpāde 'pi buddhānāṃ nābhavyo bhadramaśrute // Abhs_8.10 //</l>\n</lg>\n\n<lg>\n<l>iti kāritravaipulyāt buddho vyāpī nirūcyate /</l>\n<l>akṣayatvācca tasyaiva nitya ityapi kathyate // Abhs_8.11 //</l>\n</lg>\n\n<lg>\n<l>dvātriṃśallakṣaṇāśītivyañjanātmā munerayam /</l>\n<l>sāṃbhogiko mataḥ kāyo mahāyānopabhogataḥ // Abhs_8.12 //</l>\n</lg>\n\n<lg>\n<l>cakrāṅkahastaḥ krākurmapādo jālāvāddhāṅgulipāṇipādaḥ /</l>\n<l>karau sapādau tarūṇau mṛdū ca mamutsadaiḥ saptabhirāśrayo 'sya // Abhs_8.13 //</l>\n</lg>\n\n<lg>\n<l>dīrghāṅgulirvyāyatapārṣṇigātraṃ prājyaṃ tvṛjucChaṅkhapadordhvaromā /</l>\n<l>eṇeyajaṅghaśca paṭūrūbāhuḥ kośāvanaddhottamabastiguhyaḥ // Abhs_8.14 //</l>\n</lg>\n\n<lg>\n<l>suvarṇavarṇḥ pratanucChaviśca pradakṣiṇaikaikasujātromā /</l>\n<l>ūūrṇāṅkitāsyo haripūrvakāyaḥ skandhau vṛtāvasya citāntarāṃsaḥ // Abhs_8.15 //</l>\n</lg>\n\n<lg>\n<l>hīno rasaḥ khyāti rasottamo 'sya nyagrodhavanmāṇḍalatulyamūrtiḥ /</l>\n<l>uṣīṣamūrdhā pṛthucārūjihvo brahmasvaraḥ siṃhahanuḥ suśuklāḥ // Abhs_8.16 //</l>\n</lg>\n\n<lg>\n<l>tulyāḥ pramāṇe 'viralāsca dantā anyūnasaṃkhyā daśikāścatasraḥ /</l>\n<l>nīlekśaṇe govṛṣapakṣmanetro dvātriṃśadetāni hi lakṣaṇāni // Abhs_8.17 //</l>\n</lg>\n\n<lg>\n<l>yasya yasyātra yo heturlakṣaṇasya prasādhakaḥ /</l>\n<l>tasya tasya prapūryāyaṃ samudāgamalakṣaṇaḥ // Abhs_8.18 //</l>\n</lg>\n\n<lg>\n<l>gurūṇāmanuyānādirdṛḍhatā saṃvaraṃ prati /</l>\n<l>saṃgrahāsevanaṃ dānaṃ praṇitasya ca vastunaḥ // Abhs_8.19 //</l>\n</lg>\n\n<lg>\n<l>vadhyamokṣasamādānāṃ vivR6iddhiḥ kuśalasya ca /</l>\n<l>ityādiko yathāsutraṃ heturlakṣaṇasādhakaḥ // Abhs_8.20 //</l>\n</lg>\n\n<lg>\n<l>tāmrāḥ snigdhāśca tuṅgāśca nakhā aṅgulayo muneḥ /</l>\n<l>vṛttāścitānupūrvāśca guḍhā nirgranthyaḥ śirāḥ // Abhs_8.21 //</l>\n</lg>\n\n<lg>\n<l>guḍhau gulphau samau pādau siṃhebhadvijagopateḥ /</l>\n<l>vikrāntaṃ dakṣiṇaṃ cārūgamanamṛjuvṛttatā // Abhs_8.22 //</l>\n</lg>\n\n<lg>\n<l>mṛṣṭānupūrte medhyamṛdutve śuddhagātratā /</l>\n<l>pūrṇavyañjanatā cārupṛthumaṇḍalagāratā // Abhs_8.23 //</l>\n</lg>\n\n<lg>\n<l>samakramatvaṃ śuddhatvaṃ netrayoḥ sukumāratā /</l>\n<l>adīnossadagātratve susaṃhatanagātratā // Abhs_8.24 //</l>\n</lg>\n\n<lg>\n<l>suvibhaktāṅgatā dhvāntapradhvastālokaśuddhatā /</l>\n<l>vṛttamṛṣṭākṣāmakukṣitāśca gabhiratā // Abhs_8.25 //</l>\n</lg>\n\n<lg>\n<l>dakṣiṇāvartatā nābheḥ samantaddarśanīyatā /</l>\n<l>samācāraḥ śuciḥ kālatilakāpagatā tanuḥ // Abhs_8.26 //</l>\n</lg>\n\n<lg>\n<l>karau tulamṛdūsnigdhagambhīrāyatalekhatā /</l>\n<l>nātyāyataṃ vaco bimbapratibimbopamauṣṭhatā // Abhs_8.27 //</l>\n</lg>\n\n<lg>\n<l>mṛdvī tanvī ca raktā ca jihvā jimūtaghoṣatā /</l>\n<l>cārūmañjasvaro daṃṣṭrā vṛttāstīkṣṇāḥ sitāḥ samāḥ // Abhs_8.28 //</l>\n</lg>\n\n<lg>\n<l>anupurvī gatāstuṅgā nāsikā paraṃ śuciḥ /</l>\n<l>viśale nayane pakṣmacitaṃ padmadalākṣitā // Abhs_8.29 //</l>\n</lg>\n\n<lg>\n<l>āyataślakṣṇasusnigdhasamaromnau bhruvau bhujau /</l>\n<l>pīnāyatau samau karṇāvupaghātavivarjitau // Abhs_8.30 //</l>\n</lg>\n\n<lg>\n<l>lalāṭamaparimlānaṃ prṛthupūrṇottamāṅgatā /</l>\n<l>bhramarābhāścitāḥ ślakṣṇā asaṃlulitamūrtayaḥ // Abhs_8.31 //</l>\n</lg>\n\n<lg>\n<l>keśā aparuṣāḥ puṃsāṃ saurabhyānyapahāriṇaḥ /</l>\n<l>śrīvatsaḥ svastikaṃ ceti buddhānuvyañjanaṃ matam // Abhs_8.32 //</l>\n</lg>\n\n<lg>\n<l>karoti yena citrāṇi hitāni jagataḥ samam /</l>\n<l>ā bhavātso 'nupacChinnaḥ kayo nairmāṇiko muneḥ // Abhs_8.33 //</l>\n</lg>\n\n<lg>\n<l>tathā karmāpyanucChinnamasyāsaṃsāramiṣyate /</l>\n<l>gatīnāṃ śamanaṃ karma saṃgrahe ca caturvidhe // Abhs_8.34 //</l>\n</lg>\n\n<lg>\n<l>niveśanaṃ sasaṃkleśe vyavadānāvabodhane /</l>\n<l>sattvānāmarthayāthātmye ṣaṭsu pāramitāsu ca // Abhs_8.35 //</l>\n</lg>\n\n<lg>\n<l>buddhamārge prakṛtyaivaśunyatāyāṃ dvayakṣaye /</l>\n<l>saṃkete 'nupalambhe ca paripāke ca hehinām // Abhs_8.36 //</l>\n</lg>\n\n<lg>\n<l>bodhisattvasya mārge 'bhiniveśasya nivāraṇe /</l>\n<l>bodhiprāptu jinakṣetraviśuddhau niyatiṃ prati // Abhs_8.37 //</l>\n</lg>\n\n<lg>\n<l>aprameye ca sattvarthe buddhasevādike guṇe /</l>\n<l>bodheraṅgeṣvanāśe ca karmaṇāṃ satyadarśane // Abhs_8.38 //</l>\n</lg>\n\n<lg>\n<l>viparyāsaprahāṇe ca tadavastukatānaye /</l>\n<l>vyavadāne sasaṃbhāre saṃskṛtāsaṃskṛte prati // Abhs_8.39 //</l>\n</lg>\n\n<lg>\n<l>vyatibhedāparijñāne virnāṇe ca niveśanam /</l>\n<l>dharmakāyasya karmedaṃ saptavimśatidhā matam // Abhs_8.40 //</l>\n</lg>\n\n<p>// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\ndharmakāyādhikāro 'ṣṭamaḥ //</p>\n\n<lg>\n<l>lakṣaṇaṃ tatprayogastatprakarṣastadanukramaḥ /</l>\n<l>tanniṣṭā tadvipākascotyanyaḥ ṣeḍhārthasaṃgrahaḥ // 1 //</l>\n</lg>\n\n<lg>\n<l>viṣayastritayo hetuḥ prayogaścaturātmakaḥ /</l>\n<l>dharmakāyaḥ phalaṃ karmetyanyastredhārthasaṃgrahaḥ // 2 //</l>\n</lg>\n\n<p>abhisamayālaṅkāraṃ nāma prajñāpāramitopadeśaśāstraṃ samāptam //</p>\n\n<p>kṛtirāryamaitreyanāthasya //</p>\n\n  </body>\n\n"
+  "file_title": "maitreyanātha-abhisamayālaṃkaranāmaprajñāpāramitopadeśaśāstra",
+  "file_title_normal": "maitreyanatha-abhisamayalamkaranamaprajnaparamitopadesasastra",
+  "metadata": {
+    "original_title": "Abhisamayālaṃkaranāmaprajñāpāramitopadeśaśāstra",
+    "author": "Maitreyanātha",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Christian Coseru",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Christian Coseru",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "unknown"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kṛtirmaitreyanāthasya //"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Oṃ namo maitreyanāthāya //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yā sarvajñatayā nayatyupaśamaṃ śāntaiṣiṇaḥ śravakān"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yā mārgajñatayā jagaddhitakritāṃ lokārthasaṃpādikā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "savārkāramidaṃ vadanti munayo viśvaṃ yayā saṃgatā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "stasyai śrāvakabodhisattvagaṇino buddhasya manne namaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākārajñatāmārgaḥ śāsitrā yo 'tra deśita /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhīmantī vīkṣīṣīraṃstamanālīḍhaṃ parairiti // Abhs_1.1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "smṛtau cādhāya sūtrārthaṃ dharmacaryā daśātmikā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sūkhena pratipatsīrannityārambhaprayojanam // Abhs_1.2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāpāramitāṣṭābhīḥ padārthaiḥ samudīritā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākārajñatā mārgajñatā sarvajñatā tataḥ // Abhs_1.3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākārābhisaṃbodho murdhaprārpto 'nupūrvikaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekakṣaṇabhisaṃbodho dharmakāyaśca te 'ṣṭadhā // Abhs_1.4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cittotpādo 'vavādaśca nirvedhāṅgaṃ caturvidhaṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādhāraḥ pratipatteśca dharmadhātusvabhāvakaḥ // Abhs_1.5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ālambanaṃ samuddeśaḥ saṃnāhaprasthitikriye /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃbhārāśca saniryāṇāḥ sarvākārajñatā muneḥ // Abhs_1.6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhyāmīkaraṇatādīni śiṣyakhaṅgapathau ca yau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahānuśaṃso dṛṅmārga aihikāmutrikairguṇaiḥ // Abhs_1.7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāritramadhimuktiśca stutastobhitaśaṃsitāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pariṇāme 'numode ca manaskārāvanuttamau // Abhs_1.8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirhāraḥ śuddhiratyantāmityayaṃ bhāvanāpathaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñānāṃ bodhisattvānāmiti mārgajñatoditā // Abhs_1.9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñayā na bhave sthānaṃ kṛpayā na śame sthitiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anupāyena dūratvamupāyenāvidūratā // Abhs_1.10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vipakṣapratipakṣau ca prayogaḥ samatāsya ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛṅmārgaḥ śrāvakādīnāmiti sarvajñateṣyate // Abhs_1.11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ākārāḥ saprayogāśca guṇā doṣāḥ salakṣaṇāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mokṣanirvedhabhāgīye śaikṣo 'vaivartiko gaṇaḥ // Abhs_1.12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samatābhavaśāntyośca kṣetraśuddhiranuttarā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākārābhisaṃbodha eṣa sopāyakauśalaḥ // Abhs_1.13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "liṅgaṃ tasya vivṛddhiśca nirūḍhiścittasaṃsthitiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturdhā ca vikalpasya pratipakṣaścaturvidhaḥ // Abhs_1.14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyekaṃ darsanākhye ca bhāvanākhye ca vartmani /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ānantaryasamādhiśca saha vipratipattibhiḥ // Abhs_1.15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mūrdhābhisamayaḥ tredhā daśadhā cānupūrvikaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekakṣaṇābhisaṃbodho lakṣaṇena caturvidhiḥ // Abhs_1.16 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svābhāvikaḥ sasāṃbhogo nairmāṇiko 'parastathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmakāyaḥ sakāritraścaturdhā samudīritaḥ // Abhs_1.17 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cittotpādaḥ parārthāya sammyaksaṃbodhikāmatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samāsavyāsataḥ sā ca yathāsutraṃ sa cocyate // Abhs_1.18 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūhemacandrajvalanairnidhiratnākarārṇavaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vajrācalauṣadhīmitraiścintāmaṇyarkagītibhiḥ // Abhs_1.19 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nṛpagañjamahāmārgayānaprasravaṇodakaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ānandoktinadīmeghairdvāviṃśatividhaḥ sa ca // Abhs_1.20 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratipattau ca satyeṣu buddharatnādiṣu triṣu /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asaktāvapariśrāntau pratipatsaṃparigrahe // Abhs_1.21 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cakṣuḥṣu pañcasu jñeyaḥ ṣaṭsvabhijñāguṇeṣu ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛṅmārge bhāvanākhye cetyavavādo daśātmakaḥ // Abhs_1.22 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛdutikṣṇendriyau śraddhādṛṣṭiprāptau kulaṃkulau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekavīcyantarotpadya kārākārākaniṣṭhagāḥ // Abhs_1.23 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "plutāstrayo bhavasyāgraparamo rūparāgaha /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛṣṭadharmaśamaḥ kāyasākṣī khaṅgaśca viṃśatiḥ // Abhs_1.24 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ālambanata ākārāddhetutvātsaṃparigrahāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturvikalpasaṃyogaṃ yathāsvaṃ bhajatāṃ satām // Abhs_1.25 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrāvakebhyaḥ sakhaḍgebhyo bodhisattvasya tāyinaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛdumadhyādhimātrāṇāmūṣmādīnāṃ viśiṣṭatā // Abhs_1.26 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ālambanamanityādi satyādhāraṃ tadākṛtiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niṣedho 'miniveśāderheturyānatrayāptaye // Abhs_1.27 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpādyāyavyayau viṣṭhāsthitī prajñaptyavācyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpādāvasthitisteṣāṃ tadbhāvenāsvabhāvatā // Abhs_1.28 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tayormithaḥsvabhāvatvaṃ tadanityādyasaṃsthitiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tāsāṃ tadbhāvaśūnyatvaṃ mithaḥ svabhāvyametayoḥ // Abhs_1.29 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anudgraho yo dharmāṇāṃ tannimittāsamīkṣaṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parīkṣaṇaṃ ca prajñāyāḥ sarvasyānupalambhataḥ // Abhs_1.30 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpāderasvabhavāvatvaṃ tadabhāvasvabhāvatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadajātiraniryāṇaṃ śuddhistadanimittatā // Abhs_1.31 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tannimittānadhiṣṭhānānadhimuktirasaṃjñatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samādhistasya kāritraṃ vyākṛtirmananākṣayaḥ // Abhs_1.32 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mithastrikasya svābhāvyaṃ samādheravikalpanā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti nirvedhabhāgīyaṃ mṛdumadhyādhimātrataḥ // Abhs_1.33 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvaividhyaṃ grāhyakalpasya vastutatpratipakṣataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "moharāśyādibhedena pratyekaṃ navadhā tu saḥ // Abhs_1.34 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyaprajñaptyadhiṣṭhāno dvividho grāhako mataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svatantrātmādirūpeṇa skandhādyāśrayatastathā // Abhs_1.35 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cittānavalīnatvādi naīḥsvābhāvyādideśakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvipakṣaparityāgaḥ sarvathā saṃparigrahaḥ // Abhs_1.36 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṣoḍhādhigamadharmasya pratipakṣaprahāṇayoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tayoḥ paryupayogasya prajñāyāḥ kṛpayā saha // Abhs_1.37 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śiṣyāsādhāraṇatvasya parārthānukramasya ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānasyāyatnavṛtteśca pratiṣṭhā gotramucyate // Abhs_1.38 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmadhātorasaṃbhedādgotrabhedo na yujyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādheyadharmabhedāttu tadbhedaḥ parigīyate // Abhs_1.39 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ālambanaṃ sarvadharmāste punaḥ kuśalādayaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "laukikādhigamākhyāścaṃ ye ca lokettarā matāḥ // Abhs_1.40 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāsravānāsravā dharmāḥ saṃskṛtāsaṃskṛtāśca ye /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śiṣyasādhāraṇā dharmā ye cāsādhāranā muneḥ // Abhs_1.41 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvasattvāgratā cittaprahāṇādhigamatraye /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tribhirmahattvairūddeśo vijñeyo 'ya svayaṃbhuvām // Abhs_1.42 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dānādau ṣaḍvidha teṣāṃ pratyekaṃ saṃgraheṇa yā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃnāhapratipattiḥ sā ṣaḍbhiḥ ṣaṭkairyathodithā // Abhs_1.43 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dyānārūpyeṣu dānādau mārge maitryādikeṣu ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gatopalambhayoge ca trimaṇḍalaviśuddhiṣu // Abhs_1.44 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uddeśe ṣaṭsvabhijñāsu sarvākārajñatānaye /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prasthānapratipajjñeyā mahāyānādhirohiṇī // Abhs_1.45 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dayā dānādikaṃ ṣaṭkaṃ śamathaḥ savidarśanaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yuganaddhaśca yo mārga upāye yacca kauśalam // Abhs_1.46 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānaṃ puṇyaṃ ca mārgaśca dhāraṇī bhūmayo daśa /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratipakṣaśca vijñeyaḥ saṃbhārapratipatkramaḥ // Abhs_1.47 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "labhyate prathamā bhumirdaśadhā parikarmaṇā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āśayo hitavastutvaṃ sattveṣu samacittatā // Abhs_1.48 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tyāgaḥ sevā ca mitrāṇāṃ saddharmālambanaiṣaṇā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sadā naiṣkramyacittatvaṃ buddhakāyagatā spṛhā // Abhs_1.49 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmasya deśanā satyaṃ daśamaṃ vākyamiṣyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñeyam ca pārikarmaiṣāṃ svabhāvānupalambhataḥ // Abhs_1.50 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śīlaṃ kṛtajñatā kṣāntiḥ pramodyaṃ mahatī kṛpā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gauravaṃ guruśuśrūṣā vīryaṃ dānādike 'ṣṭamam // Abhs_1.51 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atṛptatā śrute dānaṃ dharmasya ca nirāmiṣam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhakṣetrasya saṃśuddhiḥ saṃsārāparikheditā // Abhs_1.52 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hrīrapatrāpyamityetat pañcadhā mananātmakam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vanāśālpecChatā tuṣṭirdhūtasaṃlekhasevanam // Abhs_1.53 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śikṣāyā aparityāgaḥ kāmānāṃ vijugupsanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirvitsarvāstisaṃtyāgo 'navalinānapekṣate // Abhs_1.54 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃstavaṃ kulamātsaryaṃ sthānaṃ saṃgaṇikāvaham /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmotkarṣaparāvajñe karmamārgān daśāśubhān // Abhs_1.55 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mānaṃ stambhaṃ viparyāsaṃ vimatiṃ kleśamarṣaṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vivarjayan samāpneti daśaitān pañcamīṃ bhuvam // Abhs_1.56 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dānaśīlakṣamāvīryadhyānaprajñāprapūraṇāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śiṣyakhaḍgaspṛhātrāsacetasāṃ parivarjakaḥ // Abhs_1.57 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yācito 'navalinaśca sarvatyāge 'pyadurmanāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛśo 'pi nārthināṃ kṣeptā ṣaṣṭhīṃ bhūmiṃ samaśrute // Abhs_1.58 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmasattvagraho jīvapudgalocChedaśāśvataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nimittahetvoḥ skandheṣu dhātuṣvāyataneṣu ca // Abhs_1.59 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "traidhātuke pratiṣṭhānaṃ saktirālīnacittatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ratnatritayaśīleṣu taddṛṣṭyabhiniveśitā // Abhs_1.60 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyatāyāṃ vivadaśca tadvirodhaśca viṃśatiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalaṅkā yasya vicChinnāḥ saptamīmetyasau bhuvam // Abhs_1.61 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trivimokṣamukhajñānaṃ trimaṇḍalaviśuddhatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karūṇāmananā dharmasamataikanayajñatā // Abhs_1.62 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anutpādakṣamājñānaṃ dharmāṇāmekadheraṇā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalpanāyāḥ samuddhātaḥ saṃjñādṛkkleśavarjanam // Abhs_1.63 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śamathasya ca nidhyaptiḥ kauśalaṃ ca vidarśane /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cittasya dāntatā jñānaṃ sarvatrāpratighāti ca // Abhs_1.64 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sakterabhūmiryatrecChaṃ kṣetrāntaragatiḥ samam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvatra svātmabhāvasya darśanaṃ ceti viṃśatiḥ // Abhs_1.65 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvasattvamanojñānamabhijñākrīḍanaṃ śubhā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhakṣetrasya niṣpattirbuddhasevāparīkṣaṇe // Abhs_1.66 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "akṣajñānaṃ jinakṣetraśuddhirmāyopamā sthitiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃcintya ca bhavādānamidaṃ karmāṣṭadhoditam // Abhs_1.67 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "praṇidhānānyanantāni devādīnāṃ rūtajñatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nadīva pratibhānānāṃ garbhāvakrāntirūttamā // Abhs_1.68 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kulajātyośca gotrasya parivārasya janmanaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "naiṣkramyabodhivṛkṣāṇāṃ guṇapūreśca saṃpadaḥ // Abhs_1.69 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nava bhūmīratikramya buddhabhūmau pratiṣṭhate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yena jñānena sā jñeyā daśamī bodhisattvabhūḥ // Abhs_1.70 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratipakṣo 'ṣṭadhā jñeyo darṣanābhyāsamārgayoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "grāhyagrāhakavikalpānāmaṣṭānāmupaśāntaye // Abhs_1.71 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uddeśe samatāyāṃ ca sattvārthe yatnavarjane /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atyantāya ca niryāṇaṃ niryāṇaṃ prāptilakṣaṇam // Abhs_1.72 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākārajñatayāṃ ca niryāṇaṃ mārgagocaram /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niryāṇapratipajjñeyā seyamaṣṭavidhātmikā // Abhs_1.73 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\nsarvākārajñatādhikāraḥ prathamaḥ //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhyāmīkaraṇatā bhābhirdevānāṃ yogyatāṃ prati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣayo niyato vyāptiḥ svabhāvastasya karma ca // Abhs_2.1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturṇamāryasatyānāmākārānupalambhataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrāvakāṇāmayaṃ mārgo jñeyo mārgajñatānaye // Abhs_2.2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpādiskandhaśūnyatvācChūnyatānāmabhedataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uṣmāṇaḥ anupalambhena teṣāṃ murdhagataṃ matam // Abhs_2.3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣāntayasteṣu nityādiyogasthānaniṣedhataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "daśa bhūmīḥ samārabhya vistarāsthānadeśanat // Abhs_2.4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "agradharmagataṃ proktamāryaśrāvakavartmani /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatkasya hetorbuddhena buddhvā dharmāsamīkṣaṇāt // Abhs_2.5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paropadeśavaiyarthyaṃ svayaṃbodhāt svayaṃbhuvām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gambhīratā ca jñānasya khaḍgānāmabhidhīyate // Abhs_2.6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śuśrūṣā yasya yasyārthe yatra yatra yathā yathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa so 'rthaḥ khyātyaśabdo 'pi tasya tasya tathā tathā // Abhs_2.7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "grahyārthakalpanāhānādgrāhakasyāprahāṇataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādhārataśca vijñeyaḥ khaḍgamārgasya saṃgrahaḥ // Abhs_2.8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñapteravirodhena dharmatāsūcanākṛtiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "usṣmagam mūrdhagaṃ rūpādyahānādiprabhāvitam // Abhs_2.9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adyātmaśūnyatādyābhī rūpāderaparigrahāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣāntiḥ rūpādyanutpādādyākārairagradharmatā // Abhs_2.10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣāntijñānakṣaṇaiḥ satyasatyaṃ prati caturvidhaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mārgajñatāyāṃ dṛṅmārgaḥ sānuśaṃso 'yamucyate // Abhs_2.11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādhārādheyatābhāvāttathatābuddhayormithaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paryāyeṇānanujñānaṃ mahattā sāpramāṇatā // Abhs_2.12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parimāṇāntatābhāvo rūpāderavadhāraṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasyāṃ sthitasya buddhatve 'nugrahātyāgatādayaḥ // Abhs_2.13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "maītryādi śūnyatā prāptirbuddhatvasya parigrahaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvasya vyavadānasya sarvādhivyādhiśātanam // Abhs_2.14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirvāṇagrāhaśāntatvaṃ buddhebho rakṣaṇādikam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aprāṇivadhamārabhya sarvākārajñatānaye // Abhs_2.15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svayaṃ sthitasya sattvānāṃ sthāpanaṃ pariṇāmanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "danādīnāṃ ca saṃbodhāviti mārgajñatākṣaṇāḥ // Abhs_2.16 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvato damanaṃ nāma sarvataḥ kleśanirjayaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upamakrāviṣahyatvaṃ bodhirādhārapūjyatā // Abhs_2.17 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adhimuktistridhā jñeyā svārthā ca svaparārthakā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parārthikaivetyeṣa ca pratyekaṃ trividheṣyate // Abhs_2.18 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛdvī madhyādhimātrā ca mṛdumṛdvādibhedataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sā punastrividhetyevaṃ saptaviṃśatidhā matā // Abhs_2.19 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "stutiḥ stobhaḥ praśaṃsā ca prajñāparamitāṃ prati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adhimokṣasya mātrāṇāṃ navakaistribhiriṣyate // Abhs_2.20 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viśeṣaḥ pariṇāmastu tasya kāritramuttamam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nopalambhākṛtiścāsāvaviparyāsalakṣaṇaḥ // Abhs_2.21 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vivikto buddhapuṇyaughasvabhāvasmṛtigocaraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sopāyaścānimittaśca buddhairabhyanumoditaḥ // Abhs_2.22 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "traidhātukāprapannaśca pariṇāmo 'parastridhā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛdurmadhyo 'dhimātraśca mahāpuṇyodayātmakaḥ // Abhs_2.23 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upāyānupalambābhyāṃ śubhamūlānumodanā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anumode manaskārabhāvaneha vidhīyate // Abhs_2.24 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svabhāvaḥ śreṣṭhatā tasya sarvasyānabhisaṃskṛtiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nopalambhena dharmāṇāmarpaṇā ca mahārthatā // Abhs_2.25 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhasevā ca dānādirūpāye yacca kauśalam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hetavo 'trādhimokṣasya dharmavyasanahetavaḥ // Abhs_2.26 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mārādhiṣṭhānagambhīradharmatānadhimuktate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "skandhādyabhiniveśaśca pāpamitraparigrahaḥ // Abhs_2.27 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "phalaśuddhiśca rūpādiśuddhireva tayordvayoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhinnācChinnatā yasmāditi śuddhirudīritā // Abhs_2.28 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kleśajñeyatrimārgasya śiṣyakhaḍgajinaurasām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hānādviśuddhirātyantikī tu buddhasya sarvathā // Abhs_2.29 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛdumṛdvādiko mārgaḥ śuddhirnavasu bhūmiṣu /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adhimātrādhimātrādermalasya pratipakṣataḥ // Abhs_2.30 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tridhātupratipakṣatvaṃ samatā manameyayoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mārgasya ceṣyate tasya parihārataḥ // Abhs_2.31 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\nmārgajñatādhikāro dvitīyaḥ //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāpare na pare tīre nāntarāle tathoḥ sthitā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adhvanāṃ samatājñānāt prajñāpāramitāmatā // Abhs_3.1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anupāyena dūraṃ sā sanimittopalambhataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upāyakauśalenāsyāḥ samyagāsannatoditā // Abhs_3.2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpādiskandhaśūnyatve dharmeṣu tryadhvageṣu ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dānādau bodhipakṣeṣu caryāsaṃjñā vipakṣatā // Abhs_3.3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dānādiṣvanahaṃkāraḥ pareṣāṃ tanniyojanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṅgakoṭīniṣedho 'yaṃ sukṣmaḥ saṅgo jinādiṣu // Abhs_3.4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadgāmbīryaṃ prakṛtyaiva vivekāddharmapaddhateḥ *iti* /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekaprakṛtikaṃ jñānaṃ dharmāṇāṃ saṅgavarjanam // Abhs_3.5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛṣṭādipratiṣedhena tasyā durbodhatoditā *iti* /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpādibhiravijñānāttadacintyatvamiṣyate // Abhs_3.6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ kṛtvā yathokto vai jñeyaḥ sarvajñatānaye /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ayaṃ vibhāgo niḥśoṣo vipakṣapratipakṣayoḥ // Abhs_3.7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpādau tadanityādau tadapuriprapūrayoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadasaṅgatve caryāyā: prayogaḥ pratiṣedhataḥ // Abhs_3.8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avikāro na kartā ca prayogo duṣkarastridhā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathābhavyaṃ phalaprāpteravandhyo 'bhimataśca saḥ // Abhs_3.9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aparapratyayo yaśca saptadhā khyātivedakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturdhā mananā tasya rūpādau samatā matā // Abhs_3.10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmajñānānvayajñānakṣāntijñānakṣaṇātmakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "duḥkhādisatye dṛṅmārga eṣa sarvajñatānaye // Abhs_3.11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpaṃ na nityaṃ nānityamatitāntaṃ viśuddhakam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anutpannāniruddhādi vyomābhaṃ lepavarjitam // Abhs_3.12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parigraheṇa nirmuktamavyāhāraṃ svabhāvataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pravyāhāreṇa nāsyārthaḥ pareṣu prāpyate yataḥ // Abhs_3.13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nopalambhakṛdatyantaviśuddhirvyādhyasaṃbhavaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apāyocChittyakalpatve phalasākṣātkriyāṃ prati // Abhs_3.14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asaṃsargo nimittaiśca vastuni vyañjane dvaye /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānasya yā cānutpattiriti sarvajñatākṣaṇāḥ // Abhs_3.15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti seyaṃ punaḥ seyaṃ seyaṃ khalu punastridhā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adhikāratrayasyaiṣā samāptiḥ paridīpitā // Abhs_3.16 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\nsarvajñatādhikāras tṛtīyaḥ //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vastujñānaprakārāṇāmākārā iti lakṣaṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvajñatānāṃ traividyāt trividhā eva te matāḥ // Abhs_4.1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asadākāramārabhya yāvanniścalatākṛtiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "catvāraḥ pratisatyaṃ te mārge pañcadaśa smṛtāḥ // Abhs_4.2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hetau mārge ca duḥkhe ca nirodhe ca yathākramam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṣṭau te sapta pañceti ṣoḍaśeti ca kīrtitāḥ // Abhs_4.3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "smṛtyupasthānamārabhya buddhatvākārapaścimāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śiṣyāṇāṃ bodhisattvānāṃ buddhānāṃ ca yathākramam // Abhs_4.4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saptatriṃśaccatustriṃśattriṃśannava ca te matāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trisarvajñatvabhedena mārgasatyānurodhataḥ // Abhs_4.5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtādhikārā buddheṣu teṣūptaśubhamūlakāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mitraiḥ sanāthāḥ kalyāṇairasyāḥ śravaṇabhājanam // Abhs_4.6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhopāsanasaṃpraśnadānaśīlādicaryayā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "udgrahadhāraṇādīnāṃ bhājanatvaṃ satāṃ matam // Abhs_4.7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpādiṣvanavasthānātteṣu yoganiṣedhataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tattathatāgambhīratvātteṣāṃ duravagāhataḥ // Abhs_4.8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadaprāmāṇyataḥ kṛcChāccireṇa pratibodhataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyākṛtāvavivartyatve niryāṇe sanirantare // Abhs_4.9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āsannabodhe kṣipraṃ ca parārthe 'vṛddhyahānitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmādharmādyadṛṣṭau ca rupācintyādyadarśane // Abhs_4.10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpādestannimittasya tadbhāvasyāvikalpakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "phalaratnapradātā ca śuddhakaḥ sāvadhiśca saḥ // Abhs_4.11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mārāṇāṃ śaktihānyādiścaturdaśavidho guṇaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "doṣāśca ṣaḍviboddhavyāścaturbhirdaśakaiḥ saha // Abhs_4.12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lakṣyate yena tajjñeyaṃ lakṣaṇaṃ trividhaṃ ca tat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānaṃ viśeṣaḥ kāritraṃ svabhāvo yaśca lakṣyate // Abhs_4.13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathāgatasya nirvṛttau loke cālujyanātmake /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sattvānāṃ cittacaryāsu tatsaṃkṣepe bahirgatau // Abhs_4.14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "akṣayākāratāyāṃ ca sarāgādau pravistṛte /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahadgate 'pramāṇe ca vijñāne cānidarśane // Abhs_4.15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adṛśyacitajñāne ca tadunmiñjādisaṃjñakam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "punastathatākāreṇa teṣāṃ jñānamataḥ param // Abhs_4.16 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathatāyāṃ munerbodhe tatparākhyānamityayam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvajñatādhikāreṇa jñānalakṣaṇasaṃgrahaḥ // Abhs_4.17 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyatve sānimitte c praṇidhānavivarjite /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anutpādanirodhādau dharmatāyā akopane // Abhs_4.18 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asaṃskare 'vikalpe ca prabhedālakṣaṇatvayoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mārgajñatādhikāreṇa jñānalakṣaṇamiṣyate // Abhs_4.19 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svadharmamupaniśritya vihāre tasya satkṛtau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gurūtve mānanāyāṃ ca tatpūjākṛtakatvayoḥ // Abhs_4.20 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvatra vṛttimajjñānamadṛṣṭasya ca darśakam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lokasya śūnyatākārasūcakajñāpakākṣagam // Abhs_4.21 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "acintyaśāntatādarśi lokasaṃjñānirodhi ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānalakṣaṇamityuktaṃ sarvākārajñatānaye // Abhs_4.22 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "acityādiviśeṣeṇa viśiṣṭaiḥ satyagocaraiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viśeṣalakṣaṇaṃ ṣaḍbhirdaśabhiścoditaṃ kṣaṇaiḥ // Abhs_4.23 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "acintyātulyate meyasaṃkhyeyāsamatikramau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvāryasaṃgraho vijñavedyāsādhāraṇajñate // Abhs_4.24 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣiprajñānyunapūrṇatve pratipatsamudāgamau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ālambanaṃ ca sādhāraṃ sākalyaṃ saṃparigrahaḥ // Abhs_4.25 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anāsvādaśca vijñeyo viśeṣaḥ ṣoḍaśātmakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viśeṣamārgā mārgebhyo yenānyebhyo viśiṣyate // Abhs_4.26 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hitaṃ sukhaṃ ca trāṇaṃ ca śaraṇaṃ layanaṃ nṛṇām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parāyaṇaṃ ca dvīpaṃ ca pariṇāyakasaṃjñakam // Abhs_4.27 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anābhogaṃ tribhiryānaiḥ phalāsākṣātkriyātmakam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paścimaṃ gatikāritramidaṃ kāritralakṣaṇam // Abhs_4.28 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kleśaliṅganimittānāṃ vipakṣapratipakṣayoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viveko duṣkaraikāntāvuddeśo 'nupalambhakaḥ // Abhs_4.29 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niṣiddhābhiniveśaśca yaścālambanasaṃjñakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vipratyayo 'vighātī ca so 'padāgatyajātikaḥ // Abhs_4.30 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathatānupalambhaśca svabhāvaḥ ṣoḍaśātmakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lakṣmeva lakṣyate ceticaturthaṃ lakṣaṇaṃ matam // Abhs_4.31 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "animittapradānādisamudāgamakauśalam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākārāvabodhe 'smin mokṣabhagīyamiṣyate // Abhs_4.32 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhādyālambanā śraddhā vīryaṃ dānādigocaram /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "smṛtirāśayasaṃpattiḥ samādhiravikalpanā // Abhs_4.33 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmeṣu sarvairākārairjñānaṃ prajñeti pañcadhā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tīkṣṇai subodhā saṃbodhirdurbodhā mṛdubhirmatā // Abhs_4.34 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ālambanaṃ sarvasattvā ūṣmaṇāmiha śakyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samacittādirākārasteṣveva daśadhoditaḥ // Abhs_4.35 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svayaṃ pāpānnivṛttasya dānādyeṣu sthitasya ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tayorniyojanānyeṣāṃ varṇavādānukulate // Abhs_4.36 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mūrdhagam svaparādhāraṃ satyajñānaṃ tathā kṣamā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathāgradharmā vijñeyāḥ sattvānāṃ pācanādibhiḥ // Abhs_4.37 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirvedhaṅgānyupādaya darśanābhyāsamārgayoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ye bodhisattvā vartante so 'trāvaivartiko gaṇaḥ // Abhs_4.38 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpādibhyo nivṛttyādyairliṅgairviṃśatidheritaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirvedhāṅgasthitasyedamavaivartikalakṣaṇam // Abhs_4.39 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpādibhyo nivṛttiśca vicikitsākṣaṇakṣayau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmanaḥ kuśalasthasya pareṣāṃ tanniyojanam // Abhs_4.40 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parādhāraṃ ca dānādi gambhire 'rthe 'pyakāṅkṣaṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "maitraṃ kāyādyasaṃvāsaḥ pañcadhāvaraṇena ca // Abhs_4.41 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvānuśayahānaṃ ca smṛtisaṃprajñatā suci /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "civarādiśarīre ca kṛmīṇāmasamudbhavaḥ // Abhs_4.42 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cittākauṭilyamādānaṃ dhūtasyāmatsarāditā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmatāyuktagāmitvaṃ lokārthaṃ narakaiṣaṇā // Abhs_4.43 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parairaneyatā mārasyānyamārgopadeśinaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māra ityavabodhaśca caryā buddhānumoditā // Abhs_4.44 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ūṣmamūrdhasu sa kṣāntiṣvagradharmeṣvavasthitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "liṅgairamībhirviśatyā saṃbodherna vivartate // Abhs_4.45 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣāntijñānakṣaṇaḥ ṣaṭ ca pañca pañca ca dṛkpathe /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhisattvasya vijñeyamavaivartikalakṣaṇam // Abhs_4.46 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpādisaṃjñāvyāvṛttirdārḍhyaṃ cittasya hinayoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yānayorvinivṛttiśca dhyānādyaṅgaparikṣayaḥ // Abhs_4.47 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāyacetolaghutvaṃ ca kāmasevābhyupāyikī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sadaiva brahmacāritvamājīvasya viśuddhatā // Abhs_4.48 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "skandhādavantarāyeṣu saṃbhāre sendriyādike /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samare matsarādau ca neti yogānuyogayoḥ // Abhs_4.49 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vihārapratiṣedhaśca dharmasyāṇoralabdhatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niścitatvaṃ svabhumau ca bhūmitritayasaṃsthitiḥ // Abhs_4.50 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmārthaṃ jīvitatyāga ityamī ṣoḍaśa kṣaṇāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avaivartikaliṅgāni dṛṅmārgasthasya dhīmataḥ // Abhs_4.51 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gambhiro bhāvanāmārgo gāmbhīryaṃ śunyatādikam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samāropāpavādāntamuktatā sā gabhīratā // Abhs_4.52 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cintātulananidhyānānyabhīkṣṇaṃ bhāvanāpathaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirvedhāṅgeṣu dṛṅmārge bhāvanāmārga eva ca // Abhs_4.53 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prābandhakatvādiṣṭo 'sau navadhā ca prakārataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛdumadhyādhimātrāṇāṃ punarmṛdvādibhedataḥ // Abhs_4.54 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asaṃkhyeyādinirdeśāḥ paramārthena na kṣamāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛpāniṣyandabhūtāste saṃvṛtyābhimatā muneḥ // Abhs_4.55 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hānivṛddhī na yujyete nirālāpasya vastunaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvanākhyena kiṃ hinaṃ vartmanā kimudāgatam // Abhs_4.56 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā bodhistathaivāsāviṣṭasyārthasya sādhakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathatālakṣaṇā bodhiḥ so 'pi tallakṣaṇo mataḥ // Abhs_4.57 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pūrveṇa bodhirno yuktā manasā paścimena vā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dīpadṛṣṭāntayogenagambhīrā dharmatāṣṭadhā // Abhs_4.58 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utpāde ca nirodhe ca tathatāyāṃ gabhīratā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñeye dāne ca caryāyāmadvayopāyakauśale ca // Abhs_4.59 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svapnopamatvāddharmāṇāṃ bhavaśāntyorakalpanā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmābhāvādicodyānāṃ parihārā yathoditāḥ // Abhs_4.60 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sattvalokasya yā śuddhistasyāḥ suddhyupahārataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā bhājanalokasya buddhakṣetrasya śuddhatā // Abhs_4.61 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣayo 'sya prayogaśca śātravāṇāmatikramaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apratiṣṭho yathāvedhamasādhāraṇalakṣaṇaḥ // Abhs_4.62 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asakto 'nupalambhaśca nimittapraṇidhikṣataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lalliṅgaścāpramāṇaśca daśadhopāyakauśalam // Abhs_4.63 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\nsarvākārābhisaṃbodhādhikāraś caturthaḥ //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svapnāntare 'pi svapnābhasarvadharmekṣaṇādikam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "murdhaprāptasya yogasya liṅgaṃ dvādaśadhā matam // Abhs_5.1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jambudvipajaneyattābuddhapūjāśubhādikām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upamāṃ bahudhā kṛtvā vivṛddhiḥ ṣoḍaśātmikā // Abhs_5.2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trisarvajñatvadharmāṇāṃ paripuriranuttarā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aparityaktasattvārthā nirūḍhirabhidhīyate // Abhs_5.3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturdvipakasāhasradvitrisāhasrakopamaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtvā puṇyabahutvena samādhiḥ parikīrtitaḥ // Abhs_5.4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pravṛttau ca nivṛttau ca pratyekaṃ tau navātmakau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "grāhyau vikalpau vijñeyāvayāthāviṣayātmakau // Abhs_5.5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyaprajñaptisatsattvavikalpau grāhakau matau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pṛthagjanāryabhedena pratyekaṃ tau navātmakau // Abhs_5.6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "grāhyau cenna tathā sto 'rthau kasya tau grāhakau matau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti grāhakabhāvena śunyatālakṣaṇaṃ tayoḥ // Abhs_5.7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eṣa svabhāve gotre ca pratipatsamudāgame /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānasyālambanābhrāntau pratipakṣavipakṣayoḥ // Abhs_5.8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svasminnadhigame kartṛtatkāritrakriyāphale /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pravṛttipakṣādhiṣṭhāno vikalpo navadhā mataḥ // Abhs_5.9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhavaśāntiprapātitvānnyūnatve 'dhigamasya ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parigrahasyābhāve ca vaikalye pratipadgate // Abhs_5.10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parapratyayagāmitve samuddeśanivartane /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prādeśikatve nānātve sthānaprasthānamohayoḥ // Abhs_5.11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pṛṣṭhato gamane ceti vikalpo 'yaṃ navātmakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nivṛttipakṣādhiṣṭhānaḥ śrāvakādimanobhavaḥ // Abhs_5.12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "grāhakaḥ prathamo jñeyo gragaṇapratimokṣaṇe /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "manaskriyāyāṃ dhātūnāmupaśleṣe trayasya ca // Abhs_5.13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sthāne cābhiniveśe ca prajñaptau dharmavastunaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saktau ca pratipakṣe ca yathecChaṃ ca gatikṣatau // Abhs_5.14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathoddeśamaniryāṇe mārgāmārgāvadhāraṇe /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sanirodhe samutpāde vastuyogaviyogayoḥ // Abhs_5.15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sthāne gotrasya nāśe ca prārthanāhetvabhāvayoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyarthikopalambhe ca vikalpo grāhako 'paraḥ // Abhs_5.16 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhau sandarśanānyeṣāṃ taddhetośca parindanā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatprāptyanantaro hetuḥ puṇyabāhulyalakṣaṇaḥ // Abhs_5.17 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣayānutpādayorjñāne malānāṃ bodhirūcyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣayābhāvādanutpādātte hi jñeye yathākramam // Abhs_5.18 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prakṛtāvaniruddhāyāṃ darśanākhyena vartmanā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vikalpajātaṃ kiṃ kṣīṇaṃ vānutpattimāgatam // Abhs_5.19 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sattā ca nāma dharmāṇāṃ jñeye cāvaraṇakṣayaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kathyate yatparaiḥ śāsturatra vismīyate mayā // Abhs_5.20 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāpaneyamataḥ kiṃcitprakṣeptavyaṃ na kiṃcana /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "draṣṭavyaṃ bhūtato bhūtaṃ bhūtadarśī vimucyate // Abhs_5.21 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekaikasyaiva dānādau teṣāṃ yaḥ saṃgraho mithaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa ekakṣaṇikaḥ kṣāntisaṃgṛhīto 'tra dṛkpathe // Abhs_5.22 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa samādhiṃ samāpadya tataḥ siṃhavijṛmbhitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anulomaṃ vilomaṃ pratītyotpādamīkṣate // Abhs_5.23 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāmāptamavadhīkṛtya vijñānamasamāhitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sanirodhāḥ samāpattīrgatvāgamya nava dvidhā // Abhs_5.24 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekadvitricatuḥpañcaṣaṭsaptāṣṭavyatikramāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avaskandasamāpattirāniroodhamatulyatā // Abhs_5.25 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃkṣepe vistare buddhaiḥ sanāthyenāparigrahe /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "traikālike guṇābhāve śreyasastrividhe pathi // Abhs_5.26 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eko grāhyavikalpo 'yaṃ prayogākāragocaraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvitīyaścittacaittānāṃ pravṛttiviṣayo mataḥ // Abhs_5.27 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anutpādastu cittasya bodhimaṇḍāmanaskriyā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hīnayānamanaskārau saṃbodheramanaskṛtiḥ // Abhs_5.28 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvane 'bhāvane caiva tadviparyaya eva ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ayathārthaśca vijñeyo vikalpo bhāvanāpathe // Abhs_5.29 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "grāhakaḥ prathamo jñeyaḥ sattvaprajñaptigocaraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmaprajñaptyaśūnyatve saktipravicayātmakaḥ // Abhs_5.30 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtena vastuno yānatritaye ca sa kīrtitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dakṣiṇāyā aśuddhau ca caryāyāśca vikopane // Abhs_5.31 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sattvaprajñaptitaddhetuviṣayo navadhāparaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvanāmārgasaṃbuddho vipakṣastadvighātataḥ // Abhs_5.32 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvajñatānāṃ tisR^īṇāṃ yathāsvaṃ trividhāvṛtau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śāntimārge tathatādisaṃprayogaviyogayoḥ // Abhs_5.33 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asamatve ca duḥkhādau kleśānāṃ prakṛtāvapi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvayābhāve ca saṃmohe vikalpaḥ paścimo mataḥ // Abhs_5.34 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āsāṃ kṣaye satītīnāṃ cirāyocChvasitā iva /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākārajagatsaukhyasādhanā guṇasaṃpadaḥ // Abhs_5.35 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvāḥ sarvābhisāreṇa nikāmaphalaśālinam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhajante taṃ mahāsattvaṃ mahodadhimivāpagāḥ // Abhs_5.36 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trisāhasrajanaṃ śiṣyakhaḍgādhigamasaṃpadi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhisattvasya ca nyāmo pratiṣṭāpya śubhopamāḥ // Abhs_5.37 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtvā puṇyabahutvena buddhatvapteranantaraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ānantaryasamādhiḥ sa sarvākārajñatā ca tat // Abhs_5.38 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ālambanamabhāvo 'sya smṛtiścādhipatirmataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ākāraḥ śāntatā cātra jalpājalpipravādinām // Abhs_5.39 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ālambanopapattau ca tatsvabhāvāvadhārraṇe /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākārajñatājñāne paramārthe sasaṃvṛtau // Abhs_5.40 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prayoge triṣu ratneṣu sopāye samaye muneḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viparyāse samārge ca pratipakṣavipakṣayoḥ // Abhs_5.41 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lakṣaṇe bhāvanāyāṃ ca matā vipratipattayaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākārajñatādhārā ṣoḍhā daśa ca cādinām // Abhs_5.42 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\nmūrdhābhisamayādhikāraḥ pañcamaḥ //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dānena prajñayā yāvadbuddhādau smṛtibhiśca sā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmābhāvasvabhāvenetyanupūrvakriyā matā // Abhs_6.1 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\nanupurvābhisamayādhikāraḥ ṣaṣṭhaḥ //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anūsravāṇāṃ sarveṣāmekaikenāpi saṃgrahāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekakṣaṇāvabodho 'yaṃ jñeyo dānādinā muneḥ // Abhs_7.1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aradhaṭṭaṃ yathaikāpi padikā purūṣeritā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sakṛtsarvaṃ calayati jñānamekakṣaṇe tathā // Abhs_7.2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vipākadharmatāvasthā sarvaśuklamayī yadā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāpāramitā jātā jñānamekakṣaṇe tadā // Abhs_7.3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svapnopameṣu dharmeṣu sthitvā dānādicaryā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "alakṣatvaṃ dharmāṇāṃ kṣaṇenaikena vindati // Abhs_7.4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svapnaṃ taddarśinaṃ caiva dvayayogena nekṣate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmāṇāmadvayaṃ tattvaṃ kṣaṇenaikenapaṣyati // Abhs_7.5 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\nekakṣaṇābhisamayādhikāraḥ saptamaḥ //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākārāṃ viśuddhiṃ ye dharmāḥ prāptā nirāsravāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svābhāvikomuneḥ kāyasteśāṃ prakṛtilakṣaṇaḥ // Abhs_8.1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhipakṣāpramāṇāni vimokṣā anūpurvaśaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "navātmikā samāpattiḥ kṛtsnaṃ daśavidhātmikam // Abhs_8.2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhibhvāyatanānyaṣṭaprakārāṇi prabhedataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "araṇā praṇidhijñānamabhijñāḥ pratisaṃvidaḥ // Abhs_8.3 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sarvākārāścatasno 'thaśuddhayo vaśitā daśa //"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "balāni daśa catvāri vaiśāradyānyārakṣaṇam // Abhs_8.4 //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trividhaṃ smṛtyupasthānaṃ tridhāsaṃmoṣadharmatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāsanāyāḥ samuddhāto mahati karūṇā jane // Abhs_8.5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āveṇikā munereva dharmā ye 'ṣṭādaśeritāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākārajñatā ceti dharmakāyo 'bhidhīyate // Abhs_8.6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śravakasyāraṇādṛṣṭernṛkleśaparihāritā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatkleśasrotaucChittyai grāmādiṣu jināraṇā // Abhs_8.7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anābhogamanāsaṅmavyāghātaṃ sadā sthitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvapraśnāpanudvauddhaṃ praṇidhijñānamiṣyate // Abhs_8.8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paripākaṃ gate hetau yasya yasya yadā yadā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hitaṃ bhavati kartavyaṃ prathate tasya tasya saḥ // Abhs_8.9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "varṣatyapi hi parjanye naiva bījaṃ prarohati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samutpāde 'pi buddhānāṃ nābhavyo bhadramaśrute // Abhs_8.10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti kāritravaipulyāt buddho vyāpī nirūcyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "akṣayatvācca tasyaiva nitya ityapi kathyate // Abhs_8.11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvātriṃśallakṣaṇāśītivyañjanātmā munerayam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāṃbhogiko mataḥ kāyo mahāyānopabhogataḥ // Abhs_8.12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cakrāṅkahastaḥ krākurmapādo jālāvāddhāṅgulipāṇipādaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karau sapādau tarūṇau mṛdū ca mamutsadaiḥ saptabhirāśrayo 'sya // Abhs_8.13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dīrghāṅgulirvyāyatapārṣṇigātraṃ prājyaṃ tvṛjucChaṅkhapadordhvaromā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eṇeyajaṅghaśca paṭūrūbāhuḥ kośāvanaddhottamabastiguhyaḥ // Abhs_8.14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "suvarṇavarṇḥ pratanucChaviśca pradakṣiṇaikaikasujātromā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ūūrṇāṅkitāsyo haripūrvakāyaḥ skandhau vṛtāvasya citāntarāṃsaḥ // Abhs_8.15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hīno rasaḥ khyāti rasottamo 'sya nyagrodhavanmāṇḍalatulyamūrtiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uṣīṣamūrdhā pṛthucārūjihvo brahmasvaraḥ siṃhahanuḥ suśuklāḥ // Abhs_8.16 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tulyāḥ pramāṇe 'viralāsca dantā anyūnasaṃkhyā daśikāścatasraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nīlekśaṇe govṛṣapakṣmanetro dvātriṃśadetāni hi lakṣaṇāni // Abhs_8.17 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yasya yasyātra yo heturlakṣaṇasya prasādhakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasya tasya prapūryāyaṃ samudāgamalakṣaṇaḥ // Abhs_8.18 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gurūṇāmanuyānādirdṛḍhatā saṃvaraṃ prati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃgrahāsevanaṃ dānaṃ praṇitasya ca vastunaḥ // Abhs_8.19 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vadhyamokṣasamādānāṃ vivR6iddhiḥ kuśalasya ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ityādiko yathāsutraṃ heturlakṣaṇasādhakaḥ // Abhs_8.20 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tāmrāḥ snigdhāśca tuṅgāśca nakhā aṅgulayo muneḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vṛttāścitānupūrvāśca guḍhā nirgranthyaḥ śirāḥ // Abhs_8.21 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guḍhau gulphau samau pādau siṃhebhadvijagopateḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vikrāntaṃ dakṣiṇaṃ cārūgamanamṛjuvṛttatā // Abhs_8.22 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛṣṭānupūrte medhyamṛdutve śuddhagātratā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pūrṇavyañjanatā cārupṛthumaṇḍalagāratā // Abhs_8.23 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samakramatvaṃ śuddhatvaṃ netrayoḥ sukumāratā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adīnossadagātratve susaṃhatanagātratā // Abhs_8.24 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "suvibhaktāṅgatā dhvāntapradhvastālokaśuddhatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vṛttamṛṣṭākṣāmakukṣitāśca gabhiratā // Abhs_8.25 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dakṣiṇāvartatā nābheḥ samantaddarśanīyatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samācāraḥ śuciḥ kālatilakāpagatā tanuḥ // Abhs_8.26 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karau tulamṛdūsnigdhagambhīrāyatalekhatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nātyāyataṃ vaco bimbapratibimbopamauṣṭhatā // Abhs_8.27 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛdvī tanvī ca raktā ca jihvā jimūtaghoṣatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cārūmañjasvaro daṃṣṭrā vṛttāstīkṣṇāḥ sitāḥ samāḥ // Abhs_8.28 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anupurvī gatāstuṅgā nāsikā paraṃ śuciḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viśale nayane pakṣmacitaṃ padmadalākṣitā // Abhs_8.29 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āyataślakṣṇasusnigdhasamaromnau bhruvau bhujau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pīnāyatau samau karṇāvupaghātavivarjitau // Abhs_8.30 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lalāṭamaparimlānaṃ prṛthupūrṇottamāṅgatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhramarābhāścitāḥ ślakṣṇā asaṃlulitamūrtayaḥ // Abhs_8.31 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "keśā aparuṣāḥ puṃsāṃ saurabhyānyapahāriṇaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrīvatsaḥ svastikaṃ ceti buddhānuvyañjanaṃ matam // Abhs_8.32 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karoti yena citrāṇi hitāni jagataḥ samam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ā bhavātso 'nupacChinnaḥ kayo nairmāṇiko muneḥ // Abhs_8.33 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā karmāpyanucChinnamasyāsaṃsāramiṣyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gatīnāṃ śamanaṃ karma saṃgrahe ca caturvidhe // Abhs_8.34 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niveśanaṃ sasaṃkleśe vyavadānāvabodhane /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sattvānāmarthayāthātmye ṣaṭsu pāramitāsu ca // Abhs_8.35 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhamārge prakṛtyaivaśunyatāyāṃ dvayakṣaye /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃkete 'nupalambhe ca paripāke ca hehinām // Abhs_8.36 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhisattvasya mārge 'bhiniveśasya nivāraṇe /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhiprāptu jinakṣetraviśuddhau niyatiṃ prati // Abhs_8.37 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aprameye ca sattvarthe buddhasevādike guṇe /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodheraṅgeṣvanāśe ca karmaṇāṃ satyadarśane // Abhs_8.38 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viparyāsaprahāṇe ca tadavastukatānaye /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyavadāne sasaṃbhāre saṃskṛtāsaṃskṛte prati // Abhs_8.39 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyatibhedāparijñāne virnāṇe ca niveśanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmakāyasya karmedaṃ saptavimśatidhā matam // Abhs_8.40 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre\ndharmakāyādhikāro 'ṣṭamaḥ //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lakṣaṇaṃ tatprayogastatprakarṣastadanukramaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tanniṣṭā tadvipākascotyanyaḥ ṣeḍhārthasaṃgrahaḥ // 1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣayastritayo hetuḥ prayogaścaturātmakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmakāyaḥ phalaṃ karmetyanyastredhārthasaṃgrahaḥ // 2 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "abhisamayālaṅkāraṃ nāma prajñāpāramitopadeśaśāstraṃ samāptam //"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kṛtirāryamaitreyanāthasya //"
+    }
+  ]
 }

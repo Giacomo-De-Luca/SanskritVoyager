@@ -1,4 +1,277 @@
 {
-  "title": "sa_garbhasaṃgrahaḥ",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Garbhasaṅgrahaḥ / (Gs)</p>\n\n<p>namo mahākāruṇikāya /</p>\n\n<lg>\n<l>trailokyaduḥkhasindhūnāṃ karmabhyaḥ kṣubdhavīcayaḥ /</l>\n<l>kuśalākuśalādibhyaḥ sāsravebhyo viniḥsṛtāḥ // Gs_1 //</l>\n</lg>\n\n<lg>\n<l>rāgadveṣāditastāni jātāni kleśahetutaḥ /</l>\n<l>teṣāmudbhavahetuścāpīṣṭāniṣṭādikastathā // Gs_2 //</l>\n</lg>\n\n<lg>\n<l>dvaidhagrahaṇato jātaḥ padārthagrāhakagrahāḥ /</l>\n<l>nityavibhvaikatādyāśca samastotpādahetavaḥ // Gs_3 //</l>\n</lg>\n\n<lg>\n<l>bhāgyavān puruṣastasmāt muktikāṃkṣī parātmanoḥ /</l>\n<l>pratītyādisuyuktīnām abhyāsairvinivārayet // Gs_4 //</l>\n</lg>\n\n<lg>\n<l>bhāvānāṃ grahaṇaṃ tāvat dharmān bāhyāntarākhilān /</l>\n<l>sarvalakṣaṇahīnena cākāśena samaṃ bhajet // Gs_5 //</l>\n</lg>\n\n<lg>\n<l>vastugrahābhibhūtaṃ tu lakṣyīkṛtyākhilaṃ jagat /</l>\n<l>duḥkhasāgarasaṃśoṣimahākāruṇyapūrvakam // Gs_6 //</l>\n</lg>\n\n<lg>\n<l>svaparārthabhavaṃ ratnaṃ bodhicittaṃ prabhāvayet /</l>\n<l>bodhicaryāmahāvīciṣaṭpāramitādikam // Gs_7 //</l>\n</lg>\n\n<lg>\n<l>dhyānavyutthānayogena pañcamārgaiḥ kramād vrajet /</l>\n<l>dvividhāvaraṇaṃ chittvā dvau saṃbhārau prapūrya ca // Gs_8 //</l>\n</lg>\n\n<lg>\n<l>trikāyaphalamāptavyaṃ trikāyāpteśca lakṣaṇam /</l>\n<l>nabhovacchūnyatāyāścānābhogakaruṇāmbudāt // Gs_9 //</l>\n</lg>\n\n<lg>\n<l>dvikāyāmṛtadhārābhirātridhātu sadārdrayan /</l>\n<l>bodhimaṇḍasubījebhyaḥ puṇyaśasyāni pācayet // Gs_10 //</l>\n</lg>\n\n<lg>\n<l>hṛdayaṃ sarvabuddhānāṃ garbhasaṅgraha ityayam /</l>\n<l>kālāntyādalpamāyuṣyaṃ bahurogāścālpabhogitā // Gs_11 //</l>\n</lg>\n\n<lg>\n<l>durhetubahuvighnaiśca ciraṃ sthātumaśaktitaḥ /</l>\n<l>padānucchedaśakyatvāt sanmitraṃ hi samāśrayet // Gs_12 //</l>\n</lg>\n\n<lg>\n<l>atyantavīryacittena prapātaṃ smaratā bhṛśam /</l>\n<l>saṅgṛhīto 'ñjasā garbho moktuṃ svaṃ ca paraṃ tathā // Gs_13 //</l>\n</lg>\n\n<lg>\n<l>snehainaitatkṛtātpuṇyāt sattvāḥ sarve 'pi durbhagāḥ /</l>\n<l>bodhicittamayā bhūtvā garbhaṃ gṛhṇantu cāñjasā // Gs_14 //</l>\n</lg>\n\n<p>garbhasaṅgraho nāma mahācārya-dīpaṅkaraśrījñānaviracitaḥ samāptaḥ //</p>\n\n  </body>\n\n"
+  "file_title": "garbhasaṃgrahaḥ",
+  "file_title_normal": "garbhasamgrahah",
+  "metadata": {
+    "original_title": "Garbhasaṃgrahaḥ",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Rameshchandra Negi: Atishaviracita ekadasha granthah. Varanasi : Central Institute of High Tibetan Studies (CIHTS) 1992, pp. 79-80"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Garbhasaṅgrahaḥ / (Gs)"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "namo mahākāruṇikāya /"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trailokyaduḥkhasindhūnāṃ karmabhyaḥ kṣubdhavīcayaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kuśalākuśalādibhyaḥ sāsravebhyo viniḥsṛtāḥ // Gs_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rāgadveṣāditastāni jātāni kleśahetutaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "teṣāmudbhavahetuścāpīṣṭāniṣṭādikastathā // Gs_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvaidhagrahaṇato jātaḥ padārthagrāhakagrahāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nityavibhvaikatādyāśca samastotpādahetavaḥ // Gs_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāgyavān puruṣastasmāt muktikāṃkṣī parātmanoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratītyādisuyuktīnām abhyāsairvinivārayet // Gs_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvānāṃ grahaṇaṃ tāvat dharmān bāhyāntarākhilān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvalakṣaṇahīnena cākāśena samaṃ bhajet // Gs_5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vastugrahābhibhūtaṃ tu lakṣyīkṛtyākhilaṃ jagat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "duḥkhasāgarasaṃśoṣimahākāruṇyapūrvakam // Gs_6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svaparārthabhavaṃ ratnaṃ bodhicittaṃ prabhāvayet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhicaryāmahāvīciṣaṭpāramitādikam // Gs_7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhyānavyutthānayogena pañcamārgaiḥ kramād vrajet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvividhāvaraṇaṃ chittvā dvau saṃbhārau prapūrya ca // Gs_8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trikāyaphalamāptavyaṃ trikāyāpteśca lakṣaṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nabhovacchūnyatāyāścānābhogakaruṇāmbudāt // Gs_9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvikāyāmṛtadhārābhirātridhātu sadārdrayan /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhimaṇḍasubījebhyaḥ puṇyaśasyāni pācayet // Gs_10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hṛdayaṃ sarvabuddhānāṃ garbhasaṅgraha ityayam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kālāntyādalpamāyuṣyaṃ bahurogāścālpabhogitā // Gs_11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "durhetubahuvighnaiśca ciraṃ sthātumaśaktitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "padānucchedaśakyatvāt sanmitraṃ hi samāśrayet // Gs_12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atyantavīryacittena prapātaṃ smaratā bhṛśam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṅgṛhīto 'ñjasā garbho moktuṃ svaṃ ca paraṃ tathā // Gs_13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "snehainaitatkṛtātpuṇyāt sattvāḥ sarve 'pi durbhagāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhicittamayā bhūtvā garbhaṃ gṛhṇantu cāñjasā // Gs_14 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "garbhasaṅgraho nāma mahācārya-dīpaṅkaraśrījñānaviracitaḥ samāptaḥ //"
+    }
+  ]
 }

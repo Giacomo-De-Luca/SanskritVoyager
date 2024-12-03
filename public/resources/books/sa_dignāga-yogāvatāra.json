@@ -1,4 +1,191 @@
 {
-  "title": "sa_dignāga-yogāvatāra",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Yogāvatāraḥ</p>\n\n<p>namastārāyai</p>\n\n<lg>\n<l>śrutvā śāstramudāraṃ niścitya pāramārthikaṃ tattvam /</l>\n<l>mṛdvāsanopaviṣṭaḥ saśraddho yogamārabhed [yogī] // 1 //</l>\n</lg>\n\n<lg>\n<l>grāhyagrāhakamubhayaṃ nobhayamahameva nirvṛtirmagna iti /</l>\n<l>bahuvidhavikalpajālaṃ pravijñāya manaḥsamāpattiḥ // 2 //</l>\n</lg>\n\n<lg>\n<l>jñeyaṃ vilokya sakalaṃ mā yogameva nirbhāsam /</l>\n<l>pravivācye dehe yat tattathatājñānavajreṇa // 3 //</l>\n</lg>\n\n<lg>\n<l>sarvākāravivarjitamādyantavibhāgarahitamavikalpam /</l>\n<l>nimarlasahasradīdhitinirbhinnameti sarvaṃ gaganamiva // 4 //</l>\n</lg>\n\n<lg>\n<l>svākāramātraśeṣaṃ paśyati cittaṃ svamādyanutpannam /</l>\n<l>yenāpi paśyatīdaṃ tadapi tathaivāvalokayati // 5 //</l>\n</lg>\n\n<lg>\n<l>so 'nupalambho 'cittaṃ tathatājñānaṃ tatkoṭiñca /</l>\n<l>evaṃ tamaso 'bhyāsāt prajñāveditanirodhamāpnoti // 6 //</l>\n</lg>\n\n<lg>\n<l>tābhiryukto yogī sattvārthamanekadhā kurute /</l>\n<l>asmin pariniṣpanne tiṣṭhati yogī sadāryamadhvānam // 7 //</l>\n</lg>\n\n<lg>\n<l>............danaghavāyau niṣkampyaṃ kleśamārādyaiḥ /</l>\n<l>prajñāpāramitāṃ vāsmin sarvadā pravṛttasya // 8 //</l>\n</lg>\n\n<l>siddhyantyanye bahavaḥ samādhiyogadānarāgādyāḥ // 9 //</l>\n\n<p>// yogāvatāraḥ samāptaḥ //</p>\n\n<p>// kṛtiriyamāryadig nāgapādānāmiti //</p>\n\n  </body>\n\n"
+  "file_title": "dignāga-yogāvatāra",
+  "file_title_normal": "dignaga-yogavatara",
+  "metadata": {
+    "original_title": "Yogāvatāra",
+    "author": "Dignāga",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Yogāvatāraḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "namastārāyai"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrutvā śāstramudāraṃ niścitya pāramārthikaṃ tattvam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛdvāsanopaviṣṭaḥ saśraddho yogamārabhed [yogī] // 1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "grāhyagrāhakamubhayaṃ nobhayamahameva nirvṛtirmagna iti /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bahuvidhavikalpajālaṃ pravijñāya manaḥsamāpattiḥ // 2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñeyaṃ vilokya sakalaṃ mā yogameva nirbhāsam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pravivācye dehe yat tattathatājñānavajreṇa // 3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākāravivarjitamādyantavibhāgarahitamavikalpam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nimarlasahasradīdhitinirbhinnameti sarvaṃ gaganamiva // 4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svākāramātraśeṣaṃ paśyati cittaṃ svamādyanutpannam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yenāpi paśyatīdaṃ tadapi tathaivāvalokayati // 5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "so 'nupalambho 'cittaṃ tathatājñānaṃ tatkoṭiñca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ tamaso 'bhyāsāt prajñāveditanirodhamāpnoti // 6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tābhiryukto yogī sattvārthamanekadhā kurute /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asmin pariniṣpanne tiṣṭhati yogī sadāryamadhvānam // 7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "............danaghavāyau niṣkampyaṃ kleśamārādyaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāpāramitāṃ vāsmin sarvadā pravṛttasya // 8 //"
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "siddhyantyanye bahavaḥ samādhiyogadānarāgādyāḥ // 9 //"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// yogāvatāraḥ samāptaḥ //"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// kṛtiriyamāryadig nāgapādānāmiti //"
+    }
+  ]
 }

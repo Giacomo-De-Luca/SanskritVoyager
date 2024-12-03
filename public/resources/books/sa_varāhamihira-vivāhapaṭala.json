@@ -1,4 +1,2172 @@
 {
-  "title": "sa_varāhamihira-vivāhapaṭala",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<lg xml:id='VP_1'>\n<l xml:id='VP_1ab'>ajñātamadhyāntasamudbhavāya sarvātmane sarvagatāya tasmai/</l>\n\n<l xml:id='VP_1cd'>praṇamya devāya manobhavāya khalīkṛtaṃ yena jagat samagram//</l>\n</lg>\n\n<lg xml:id='VP_2'>\n<l xml:id='VP_2ab'>prajāpatir manmatha eva yasmāt kāmād vinā na prabhavaḥ prajānām/</l>\n\n<l xml:id='VP_2cd'>mahatsu sūkṣmeṣu ca so 'sti devaḥ sarvātmakaḥ sarvagataś ca yasmāt//</l>\n</lg>\n\n<lg xml:id='VP_3'>\n<l xml:id='VP_3ab'>yasmāt paran nāparam asti kiñcit saukṣmyān mahatvāc ca yataś ca nānyat/</l>\n\n<l xml:id='VP_3cd'>tenedam ekena manobhavena vyāptaṃ jagac chāṛṅgabhṛteva sarvam//</l>\n</lg>\n\n<lg xml:id='VP_4'>\n<l xml:id='VP_4ab'>agamyagāmī bhagavān prajeśaḥ śroṇīsahasrāṅkatanuś ca śakraḥ/</l>\n\n<l xml:id='VP_4cd'>caturmukho yena kṛtaś ca śambhu samanmatho maṅgalam ādadhātu//</l>\n</lg>\n\n<lg xml:id='VP_5'>\n<l xml:id='VP_5ab'>bhagavān api śārṅgarathāṅgadharo bhagavat(t)vam avāpa yataḥ/</l>\n\n<l xml:id='VP_5cd'>bahavo 'sya bhagā iti tena kṛtaṃ bhagavān iti nāma jagat prathitam//</l>\n</lg>\n\n<lg xml:id='VP_6'>\n<l xml:id='VP_6ab'>sītāviyogena bahuni duḥkhāny āptāni rāmeṇa salakṣmaṇena/</l>\n\n<l xml:id='VP_6cd'>tānīha saṃsmṛtya kalau sahasrāṇy aṣṭau tathāṣṭau ca vivāhitāni//</l>\n</lg>\n\n<lg xml:id='VP_7'>\n<l xml:id='VP_7ab'>durbhagās tanayavarjitāś ca yā niḥsvasanti vanitāḥ pativratā/</l>\n\n<l xml:id='VP_7cd'>tāḥ kudaivavinipātayantritā nānyajanmajanitaiḥ suduskṛtaiḥ//</l>\n</lg>\n\n<lg xml:id='VP_8'>\n<l xml:id='VP_8ab'>surabhikusumagandhais tarpayitvā dvijedrān śubhatithidivasarkṣe daivavitsaṃpradiṣṭe/</l>\n\n<l xml:id='VP_8cd'>ubhayakulaviśuddhe jñātaśīle surūpe prathamavayasi dadyāt kanyakāṃ yauvanasthe//</l>\n</lg>\n\n<lg xml:id='VP_9'>\n<l xml:id='VP_9ab'>puṣye divase 'thavā kṣaṇe vaivāhyeṣu ca bheṣu kārayet/</l>\n\n<l xml:id='VP_9cd'>ghaṭakāramṛdā sulakṣaṇām indrāṇīṃ kuśalena śilpinā//</l>\n</lg>\n\n<lg xml:id='VP_10'>\n<l xml:id='VP_10ab'>kusumbharaktāmbarabhūṣaṇojjvalāḥ sādhvyaḥ surūpāḥ subhagāḥ kulodbhavāḥ/</l>\n\n<l xml:id='VP_10cd'>nadīṃ nayeyuḥ saro 'thavā taṭaṃ kanyām alaṅkṛtya sahendra jāyayā//</l>\n</lg>\n\n<lg xml:id='VP_11'>\n<l xml:id='VP_11ab'>sūrpeṇadikṣu pramadā baliṃ tā datvā sakālīyakagandhadigdhām/</l>\n\n<l xml:id='VP_11cd'>kusumbharaktāmbaraveṣṭitāṅgīṃ śacīsakāśaṃ pramadā nayeyuḥ//</l>\n</lg>\n\n<lg xml:id='VP_12'>\n<l xml:id='VP_12ab'>dadhyodanena haviṣā madhunā ca kanyā saṃpūjya śakradayitāṃ ca salohastā [U. salohahastā]/</l>\n\n<l xml:id='VP_12cd'>tūṣṇīṃ praṇamya śirasā gṛham eva yāyād devīṃ pragṛhya muditā niyataiś ca keśaiḥ//</l>\n</lg>\n\n<lg xml:id='VP_13'>\n<l xml:id='VP_13ab'>gṛhe stitāṃ [U. sthitāṃ] tāṃ puruhūtapatnīṃ prāṅmadhyāstamayeṣu kanyā/</l>\n\n<l xml:id='VP_13cd'>sraggandhadhūpaiḥ pratipūjaṇec [U. pratipūjayec] ca pāṇīgrahaṃ yāvad upāgateti//</l>\n</lg>\n\n<lg xml:id='VP_14'>\n<l xml:id='VP_14a'>ratnānīndukaraḥ srajaḥ śubhagatā harmyotpalāny āsavaḥ</l>\n\n<l xml:id='VP_14b'>tāṃbūlaṃ pravarāmbarāṇi ruciraṃ gītaṃ vibhūtyaś cayā/</l>\n\n<l xml:id='VP_14c'>yasmān na striyam antareṇa hi nṛṇāṃ sarvāṇy abhiprītaye</l>\n\n<l xml:id='VP_14d'>tasmād vacmi tadāptiyogyasamayo dharmārthakāmāya ca//</l>\n\n<l xml:id='VP_14e'>uktaṃ janmani yat tad eva bhavitā yady aṅganānāṃ phalam/</l>\n\n<l xml:id='VP_14f'>vyartho na tv ayam ādaraṃ pariṇaye tatkālalagnādigaḥ//</l>\n</lg>\n\n<lg xml:id='VP_15'>\n<l xml:id='VP_15ab'>ajñātaṃ prathamaṃ pradhānam aparaṃ tadvyañjakaṃ yoṣitām/</l>\n\n<l xml:id='VP_15cd'>udvāhe niyati nayaty atibalād velāsamāyuk phalaiḥ//</l>\n</lg>\n\n<lg xml:id='VP_16'>\n<l xml:id='VP_16a'>vātsyo varṣam anojam icchati tathā ebhyo janaś cottaraṃ</l>\n\n<l xml:id='VP_16b'>strīṇāṃ mānam [U. nāmam] ṛtuṃ vihāya munayo māṇḍavyaśiṣyā jaguḥ/</l>\n\n<l xml:id='VP_16c'>caitraṃ projjhya parāśāro kathayate durbhāgyadaṃ yoṣitāṃ</l>\n\n<l xml:id='VP_16d'>āṣāḍhādicatuṣṭayena śubhadaṃ kaiś cit pradiṣṭaṃ dvijaiḥ//</l>\n</lg>\n\n<lg xml:id='VP_17'>\n<l xml:id='VP_17ab'>śreṣṭhaṃ pakṣam uṣanti śuklam asitasyādyaṃ tribhāgaṃ tathā/</l>\n\n<l xml:id='VP_17cd'>riktāṃ projjhya tithiṃ tathā tv ayanayoḥ sandhiṃ ca śeṣāḥ śubhāḥ//</l>\n</lg>\n\n<lg xml:id='VP_18'>\n<l xml:id='VP_18ab'>āgneyagrahavāsareṣu kalahaḥ prītis tu satsūttamān [U. satsūttamā]/</l>\n\n<l xml:id='VP_18cd'>kaiścit stharyam uṣanti sauradivase cāndre samāpatnikam//</l>\n</lg>\n\n<lg xml:id='VP_19'>\n<l xml:id='VP_19ab'>mṛgaśirasi maghāyāṃ hastamitrottarāsu svasananirṛtipūṣādhātṛdeveṣu coḍhā/</l>\n\n<l xml:id='VP_19cd'>bahusutaśukha [U. sukha]dāsīvittasaubhāgyayuktā janayati paritoṣaṃ kanyakā bāndhavānām//</l>\n</lg>\n\n<lg xml:id='VP_20'>\n<l xml:id='VP_20ab'>ārdrādye bhacatuṣṭaye vidhavatā sāgneyayāmye smṛtā/</l>\n\n<l xml:id='VP_20cd'>śeṣeṣv akṣayadoṣaśokamaraṇaṃ vyādhyādyaniṣṭaṃ bahuḥ//</l>\n</lg>\n\n<lg xml:id='VP_21'>\n<l xml:id='VP_21ab'>prītir janmasu tārakāsu parataḥ sañjñānurūpaṃ phalam/</l>\n\n<l xml:id='VP_21cd'>candre copacayā ''dyasaptamagate saubhāgyasaukhyāptayaḥ//</l>\n</lg>\n\n<lg xml:id='VP_22'>\n<l xml:id='VP_22ab'>nakṣatratulyaṃ phalam āha gargaḥ kṣeṇeṣu nakṣatrapasañjñiteṣu</l>\n\n<l xml:id='VP_22cd'>hārītababhrū dvijadevalaś ca viṣṭi vinā 'nyat karaṇaṃ praśastam//</l>\n</lg>\n\n<lg xml:id='VP_23'>\n<l xml:id='VP_23ab'>tithidinakaraṇarkṣalagnavīryaṃ paricayam āha parāśaraḥ krameṇa/</l>\n\n<l xml:id='VP_23cd'>tithir iti balabān vadanti gargāḥ karaṇabalād divaso 'pi bhāguriś ca/</l>\n\n<l xml:id='VP_23ef'>dinakaraṇabalād bhṛgur bhavīryaṃ balam udayasya jagāda jīvaśarmā//</l>\n</lg>\n\n<lg xml:id='VP_24'>\n<l xml:id='VP_24ab'>karaṇabhatithayo 'rdhabhuktabhogāḥ svaphalakarā na bhavanti tatra sāmye/</l>\n\n<l xml:id='VP_24cd'>karaṇatithivāsarodayānāṃ caraṇavivṛtthir anukramāt phalānām//</l>\n</lg>\n\n<lg xml:id='VP_25'>\n<l xml:id='VP_25ab'>ṣaṭkāṣṭake maraṇavairaviyogadoṣā dvir dvādaśe nidhanatā 'prajātā trikoṇe/</l>\n\n<l xml:id='VP_25cd'>prītiḥ parā nigaditā samasaptakeṣu śeṣeṣv anekavidhasaukhyasutārthasaṃpat//</l>\n</lg>\n\n<lg xml:id='VP_26'>\n<l xml:id='VP_26a'>ṣaṭkāṣṭake 'pi bhavanādhipam eva bhāva</l>\n\n<l xml:id='VP_26b'>ekādhipatyam avalokya ca vaśyarāśim/</l>\n\n<l xml:id='VP_26c'>kāryo vivāhasamayaḥ śubhakṛt saduktaḥ</l>\n\n<l xml:id='VP_26d'>stārā [U. tārā] bhaved yadi parasparato 'nukūlā//</l>\n</lg>\n\n<lg xml:id='VP_27'>\n<l xml:id='VP_27a'>dāridrayaṃ [U. dāridryaṃ] raviṇā kujena maraṇaṃ saumyena nasyuḥ prajāḥ</l>\n\n<l xml:id='VP_27b'>daurbhāgyaṃ guruṇā sitena sahite candreṇa sāpatnikā/</l>\n\n<l xml:id='VP_27c'>pravrajyārkasutena sendujagurau vāñchanti kecit chubham</l>\n\n<l xml:id='VP_27d'>vyādhyair mṛtyur aṇaṃgrahair [U. asaṅgrahair] bahuvidhā dīkṣā pravāsāḥ śubhaiḥ//</l>\n</lg>\n\n<lg xml:id='VP_28'>\n<l xml:id='VP_28ab'>kriye kumāreṣv anuraktacittā vihīnavittā gavi govratā ca/</l>\n\n<l xml:id='VP_28cd'>kuladvayānandakarī tṛtīye kulīralagne kulaṭā nṛśaṃsā//</l>\n</lg>\n\n<lg xml:id='VP_29'>\n<l xml:id='VP_29ab'>harau prasūtā sakṛd āśritā pituḥ patipriyā 'ti śvaśurasya ṣaṣṭhabhe/</l>\n\n<l xml:id='VP_29cd'>tulādimānārthavatī tulādhare tathālini krandati nityam asthirā//</l>\n</lg>\n\n<lg xml:id='VP_30'>\n<l xml:id='VP_30ab'>dhanuṣi kulaṭā tatpūrvārddhe satīty apare jaguḥ/</l>\n\n<l xml:id='VP_30cd'>mṛgajhaṣaghaṭeṣv anyāśaktā jarām upagacchati//</l>\n</lg>\n\n<lg xml:id='VP_31'>\n<l xml:id='VP_31ab'>dvipadabhavanaprāpī yo 'ṃśaḥ sa śubho 'nyagṛhodaye/</l>\n\n<l xml:id='VP_31cd'>dvipadabhavaneṣv apy anyāṃśā na bhavanti śubhāvahā//</l>\n</lg>\n\n<lg xml:id='VP_32'>\n<l xml:id='VP_32ab'>bhānur mṛtyur na bahudhanatāṃ bhartṛdāyād avittaṃ [U. vittaṃ] bandhudhvaṃsaṃ tanayavirahaṃ bhartṛvṛddhiṃ parāṃ ca/</l>\n\n<l xml:id='VP_32cd'>vaidhavyaṃ syān [U. prāk] na laghumaraṇaṃ dharmahāniṃ viśīlaṃ lābhānekān vyayam api dadāty udgamarkṣāt krameṇa//</l>\n</lg>\n\n<lg xml:id='VP_33'>\n<l xml:id='VP_33ab'>śaśiny aśvā sārthā tad anu śubhatā bāndhavahitā viputrā bandhyārtā bhavati sasapatnā [U. sapatnā] ''śunidhanā/</l>\n\n<l xml:id='VP_33cd'>janitrī kanyānām atha vihatakarmā 'tidhaninī vyayāśaktety eke jagur aśubhadā bandhuṣu jale//</l>\n</lg>\n\n<lg xml:id='VP_34'>\n<l xml:id='VP_34ab'>mṛtyur naiḥsvaṃ sārthatā bandhuvairaṃ na syuḥ putrā bhartṛvṛddhiṃ kumaitrīm/</l>\n\n<l xml:id='VP_34cd'>raktasrāvo nānukulye ca bhartuḥ kravyācchailyaṃ svāptināśaṃ ca bhaume//</l>\n</lg>\n\n<lg xml:id='VP_35'>\n<l xml:id='VP_35ab'>bhartṛvratā sugṛhiṇī patipakṣapūjyā bandhvarcitā bahusutā vijitāripakṣā/</l>\n\n<l xml:id='VP_35cd'>bandhyā vyasur niyamadānakṛśāṅgavittā māyāvatī dhanavatī vyayanīya [U. vyayanī] saumye//</l>\n</lg>\n\n<lg xml:id='VP_36'>\n<l xml:id='VP_36ab'>patyuḥ priyā 'ti dhaninī muditā dhanyāḍhyā putrānvitā hataparā na sameti bhartā/</l>\n\n<l xml:id='VP_36cd'>kṣīṇāyuṣā śubharatā śubhasiddhakāryā svāyānvitā tadubhayopakṛtā ca jīve//</l>\n</lg>\n\n<lg xml:id='VP_37'>\n<l xml:id='VP_37a'>priyā patyur lubdhā patisahajaśaktā kulahitā</l>\n\n<l xml:id='VP_37b'>suputrā vairāḍhyā tad anu kulaṭā kṣipranidhanā/</l>\n\n<l xml:id='VP_37c'>ratā nityaṃ dharme bahukuśalakarmaṇy abhiratā</l>\n\n<l xml:id='VP_37d'>bhavaty āyaprāyā kṣapitavibhavā ceti bhṛguṇā//</l>\n</lg>\n\n<lg xml:id='VP_38'>\n<l xml:id='VP_38a'>puṃścaly asvā bahudhanavatī svalpadugdhārkaputre</l>\n\n<l xml:id='VP_38b'>hṛdrogā''rtā vinihataparā garbhavisrāvaśīlā//</l>\n\n<l xml:id='VP_38c'>rogān muktā skhalitaniyamā pāpaśīlā 'tivittā</l>\n\n<l xml:id='VP_38d'>pānair arthān nayati vilayaṃ prāvilagnāt krameṇa//</l>\n</lg>\n\n<lg xml:id='VP_39'>\n<l xml:id='VP_39ab'>saumyā vyayāstanidhanaṃ tryaribhaṃ ca śukre [U. śukraḥ] hitvā sthitas tridhanalābhagataḥ śaśāṅkaḥ/</l>\n\n<l xml:id='VP_39cd'>pāpā triṣaḍnidhanalābhagatā vivāhe hitvā 'ṣṭamaṃ kṣitijam iṣṭaphalāni dadyuḥ//</l>\n</lg>\n\n<lg xml:id='VP_40'>\n<l xml:id='VP_40ab'>sutahibukaviyadvilagnadharmeṣv amaragurur yadi dānavārcito vā/</l>\n\n<l xml:id='VP_40cd'>yad aśubham upayāti tac chubhatvaṃ śubham api vṛddhim upaiti tatprabhāvāt//</l>\n</lg>\n\n<lg xml:id='VP_41'>\n<l xml:id='VP_41ab'>aniṣṭasthānasaṃstho 'pi praśastaphaladaḥ śaśiḥ/</l>\n\n<l xml:id='VP_41cd'>saumyabhāge 'dhimitraṇa [U. 'dhimitreṇa] balinā cen nirīkṣtaḥ//</l>\n</lg>\n\n<lg xml:id='VP_42'>\n<l xml:id='VP_42ab'>naragrahabale strīṇāṃ pumān bhavati ballabhaḥ/</l>\n\n<l xml:id='VP_42cd'>viparīte 'ṅganā bhartur arthād anyat prakalpayet//</l>\n</lg>\n\n<lg xml:id='VP_43'>\n<l xml:id='VP_43ab'>śukrasūryāstapatiṣu śatrubhe vā tadaṃśake/</l>\n\n<l xml:id='VP_43cd'>virodhamūḍhā yāty āśu śvasruśvasurabhartṛṣu//</l>\n</lg>\n\n<lg xml:id='VP_44'>\n<l xml:id='VP_44ab'>vilagnāṃśaḥ svanāthena yady udvāhe na dṛśyate/</l>\n\n<l xml:id='VP_44cd'>puṃvināśas tato 'stāṃśe yady evaṃ yoṣitas tathā//</l>\n</lg>\n\n<lg xml:id='VP_45'>\n<l xml:id='VP_45ab'>gurusitayor uccagayor ekatame vā vilagnage kanyā/</l>\n\n<l xml:id='VP_45cd'>rājñi bhavaty asaṃśayam eva gurusaumyayoś coḍhā//</l>\n</lg>\n\n<lg xml:id='VP_46'>\n<l xml:id='VP_46ab'>svajāmitrodaye lagne śubhe kāryā caturthikā/</l>\n\n<l xml:id='VP_46cd'>svavarṇasadṛśā jārās tryādyair ekarkṣasaṃsthitaiḥ//</l>\n</lg>\n\n<lg xml:id='VP_47'>\n<l xml:id='VP_47ab'>carabhavanagataṃ vihāya satyaḥ śaśinam uvāca śubhapradaṃ vivāhe/</l>\n\n<l xml:id='VP_47cd'>munivacanavirodhi tac ca sūtre na tu kathite pavanarkṣavaiśvadeve//</l>\n</lg>\n\n<lg xml:id='VP_48'>\n<l xml:id='VP_48ab'>rāśyudgamadvādaśarāśicakre yuktā vivāhā munibhiḥ pradiṣṭā/</l>\n\n<l xml:id='VP_48cd'>nāmāni cakre grahayogalagne śrīdevakīrtiḥ śṛṇu tasya ca ''ryā//</l>\n</lg>\n\n<lg xml:id='VP_49'>\n<l xml:id='VP_49ab'>nando bhadro jīvo jīmūtaḥ sthāvaro jayo vijayaḥ/</l>\n\n<l xml:id='VP_49cd'>vyālo rasātalamukhaḥ kṣayas tamo 'ntyo vivāhagaṇaḥ//</l>\n</lg>\n\n<lg xml:id='VP_50'>\n<l xml:id='VP_50ab'>saumye vilagne nandaḥ śukre bhadras tathā gurau jīvaḥ/</l>\n\n<l xml:id='VP_50cd'>ādyantau jīmūtaḥ sthāvara iti madhyamāntyābhyām//</l>\n</lg>\n\n<lg xml:id='VP_51'>\n<l xml:id='VP_51ab'>saumyair atha tair vā ravibhaumaśanaiścaraiḥ kramaśaḥ/</l>\n\n<l xml:id='VP_51cd'>saumyaiḥ jñeyā saumyā krūrāḥ kruraiḥ [U. krūraiḥ] samākhyātā//</l>\n</lg>\n\n<lg xml:id='VP_52'>\n<l xml:id='VP_52ab'>dinakarayogād vyālo bhaumena rasātalaḥ kṣayaḥ śaninā/</l>\n\n<l xml:id='VP_52cd'>tamasā tamo nirukto 'thāntye keto [U. ketor] kṛtāntaś ca//</l>\n</lg>\n\n<lg xml:id='VP_53'>\n<l xml:id='VP_53ab'>triṣu nandādiṣu rājñī caturṣu cātaḥ paraṃ mahādevī/</l>\n\n<l xml:id='VP_53cd'>vyālādyeṣu ca pañcaṣu vidhavāḥ śocyā daridrāś ca//</l>\n</lg>\n\n<lg xml:id='VP_54'>\n<l xml:id='VP_54ab'>anadhikṛtaḥ śubhakṛt syād ete [U. etaiś] candro 'nyathā 'dhikṛtaḥ/</l>\n\n<l xml:id='VP_54cd'>tasmāt vivāhasamaye na kena cit saṅgataḥ śaśī dhanyaḥ//</l>\n</lg>\n\n<lg xml:id='VP_55'>\n<l xml:id='VP_55ab'>sapta te śaśiyogā saumyā [U. saumyaiḥ] saha sarvakarmasiddhikarāḥ/</l>\n\n<l xml:id='VP_55cd'>aśubhaphaladās tu pāpaiḥ patyudvahane vivarjyās te//</l>\n\n<l xml:id='VP_55ef'>tasmād etān yogān matimāṃ[sic.] sañcivtya [U. yuñjīta] sarvakāryeṣu/</l>\n</lg>\n\n<lg xml:id='VP_56'>\n<l xml:id='VP_56ab'>ūḍhā nande kanyā devīśabdaṃ samāpnuyād acirāt//</l>\n\n<l xml:id='VP_56cd'>bhavati narendrajananī bhartuḥ prāṇaiḥ priyā caiva/</l>\n</lg>\n\n<lg xml:id='VP_57'>\n<l xml:id='VP_57ab'>bhadre pāṇigrahaṇe yadi nāma kumārikā samupayāti//</l>\n\n<l xml:id='VP_57cd'>sā tvaritān nṛpaśabdaṃ karoti bhārtuḥ kulasyāpi/</l>\n</lg>\n\n<lg xml:id='VP_58'>\n<l xml:id='VP_58ab'>pariṇītā jīvākhye kanyā vijayāya kīrtyate bhartuḥ//</l>\n\n<l xml:id='VP_58cd'>prāpnoti sā trivargaṃ kuladvayaṃ cāpi nandayati/</l>\n</lg>\n\n<lg xml:id='VP_59'>\n<l xml:id='VP_59ab'>jīmūte pariṇītā vipulān bhogān mahāphalān bhuktvā//</l>\n\n<l xml:id='VP_59cd'>dṛṣdvā ca naptṛtanayān sahabhartā devatvam/</l>\n</lg>\n\n<lg xml:id='VP_60'>\n<l xml:id='VP_60ab'>sthāvarayoge kanyā pāṇigraham etya vipulam aiśvaryam//</l>\n\n<l xml:id='VP_60cd'>bhartur nidhānalābhān prāpya kulasyonnatiṃ kurute/</l>\n</lg>\n\n<lg xml:id='VP_61'>\n<l xml:id='VP_61ab'>pāṇigraham etya jaye jaghanyakulajāpi bhartur aiśvaryam//</l>\n\n<l xml:id='VP_61cd'>āvahati sadā kanyā niṣevyamānā sapatnībhiḥ/</l>\n</lg>\n\n<lg xml:id='VP_62'>\n<l xml:id='VP_62ab'>vijayāṃ prāpyodvāhaṃ prāpnoti sutān yaśo 'rthalābhaṃ ca//</l>\n\n<l xml:id='VP_62cd'>vaṃśasya ca pratiṣṭhāṃ parato maraṇāc ca suralokam/</l>\n</lg>\n\n<lg xml:id='VP_63'>\n<l xml:id='VP_63ab'>vyāle vyālākārā pāṇigraham eti kanyakā daivāt//</l>\n\n<l xml:id='VP_63cd'>dāridryāmayayuktā naikasmin puṃsi sā ramate/</l>\n</lg>\n\n<lg xml:id='VP_64'>\n<l xml:id='VP_64ab'>pātālanāmani gatā pāṇigrahaṇe ca pañcamān māsāt//</l>\n\n<l xml:id='VP_64cd'>sā prāpya doṣam atulaṃ paraḥ prāṇān parityajati/</l>\n</lg>\n\n<lg xml:id='VP_65'>\n<l xml:id='VP_65ab'>kṣayam āsādyodvāhaṃ kanyā pakṣadvayāt patiṃ hatvā//</l>\n\n<l xml:id='VP_65cd'>nīcena tu saha bhartrā kṣapayati jārāgninā gotram/</l>\n</lg>\n\n<lg xml:id='VP_66'>\n<l xml:id='VP_66ab'>pāṇigrahas tamasi cel lakṣaṇaguṇavittato 'pi sampannā//</l>\n\n<l xml:id='VP_66cd'>saptati rātrāt kṣapayati yady api jātā surendreṇa/</l>\n</lg>\n\n<lg xml:id='VP_67'>\n<l xml:id='VP_67ab'>yadi khalu kṛtāntayoge pariṇayam āyati kanyakā daivāt//</l>\n\n<l xml:id='VP_67cd'>sā śvasurabandhuvargaṃ kṣapayaty acireṇa kālena/</l>\n</lg>\n\n<lg xml:id='VP_68'>\n<l xml:id='VP_68ab'>ātmopekṣakapoṣakavadhakā iti rāśayo 'rthato 'bhihitaḥ//</l>\n\n<l xml:id='VP_68cd'>ebhyaḥ śubham aśubhaṃ vā nirdeśyā janmalagnābhyām/</l>\n</lg>\n\n<lg xml:id='VP_69'>\n<l xml:id='VP_69ab'>ātmeti janmalagnaṃ pañcama navamaṃ ca kīrtitaṃ tasmāt//</l>\n\n<l xml:id='VP_69cd'>dviṣaṭkadaśamabhavanam upekṣakākhyaṃ vinirdiṣṭam//</l>\n</lg>\n\n<lg xml:id='VP_70'>\n<l xml:id='VP_70ab'>duścikyaṃ jāmitraṃ caikādaśakaṃ ca poṣakaṃ jñeyam//</l>\n\n<l xml:id='VP_70cd'>dvādaśanidhanacaturthaṃ vadhakākhyaṃ śāstranirdiṣṭam/</l>\n</lg>\n\n<lg xml:id='VP_71'>\n<l xml:id='VP_71ab'>hitvā śaśāṅkaṃ yadi sapta saumyaiḥ pañcāśubhaiḥ kiṃ kathitā na saptā//</l>\n\n<l xml:id='VP_71cd'>dvitryādiyogān parihṛtya kasmān noktaṃ śataṃ trighanaṃ vilagne/</l>\n</lg>\n\n<lg xml:id='VP_72'>\n<l xml:id='VP_72ab'>deśācāras tāvad ādau vicintyo deśe deśe yā sthiti saiva kāryā//</l>\n\n<l xml:id='VP_72cd'>lokadviṣṭāṃ paṇḍitā varjayanti daivajño 'pi lokamārgeṇa yāyāt/</l>\n</lg>\n\n<lg xml:id='VP_73'>\n<l xml:id='VP_73ab'>bṛhaspatau gocaraśobhanasthe vivāham icchanti ca dakṣiṇātyāḥ/</l>\n\n<l xml:id='VP_73cd'>ravau śubhasthe ca vadanti gauḍā na gocaro mālavake pramāṇam//</l>\n</lg>\n\n<lg xml:id='VP_74'>\n<l xml:id='VP_74ab'>harau prasupte na ca dakṣiṇāyane na caitramāse na ca puṣyasaṃjñite/</l>\n\n<l xml:id='VP_74cd'>tithau ca rikte śaśini kṣayaṅgate ravīndubhaumārkidineṣu cāśubham//</l>\n</lg>\n\n<lg xml:id='VP_75'>\n<l xml:id='VP_75ab'>vyatipātahataṃ dinatrayaṃ vyatipātena samaṃ ca vaidhṛtim//</l>\n\n<l xml:id='VP_75cd'>tad api sphuṭapātadarśane dviguṇaṃ yadi vā na niścitam/</l>\n</lg>\n\n<lg xml:id='VP_76'>\n<l xml:id='VP_76ab'>vyatipātavyāghātaḥ ṣaṣṭhe daśame ca vaidhṛtaṃ dhiṣṇye//</l>\n\n<l xml:id='VP_76cd'>vikṣobhaṇagaṇḍāntāv atidhṛtisaṃkhye ca vyāghātaḥ/</l>\n</lg>\n\n<lg xml:id='VP_77'>\n<l xml:id='VP_77ab'>tad idaṃ vyatipātaṃ ca kathayanti uttaradiksthitājanāḥ//</l>\n\n<l xml:id='VP_77cd'>vyatipātavad ākulasthitaṃ bahusiddhāntaviśeṣakāraṇe/</l>\n</lg>\n\n<lg xml:id='VP_78'>\n<l xml:id='VP_78ab'>tathottarāḥ sākalasannikṛṣṭā māṇḍavyamātīyatusārddhakeṣu//</l>\n\n<l xml:id='VP_78cd'>khaśeṣu hūṇeṣu na bāhlikeṣu vā na, kāṇadeśeṣu na gopabhojāḥ/</l>\n</lg>\n\n<lg xml:id='VP_79'>\n<l xml:id='VP_79ab'>ekādaśoktāni śubhāni bhāni śeṣāṇy aniṣṭāni vivāhakāle//</l>\n\n<l xml:id='VP_79cd'>tatrāgni [U. tatrāpi] tārā śaśivīryayuktā triṃśan muhūrtāś ca vicintanīyāḥ/</l>\n</lg>\n\n<lg xml:id='VP_80'>\n<l xml:id='VP_80ab'>tulādharastrīmithunād vivāha [U. vihāya] lagne sthitā pāpaphalā na cānye//</l>\n\n<l xml:id='VP_80cd'>triṃśāṃśakadvādaśabhāgabhedair dreṣkāṇahorāpramukhair vicintyaḥ/</l>\n</lg>\n\n<lg xml:id='VP_81'>\n<l xml:id='VP_81ab'>māse nāṣṭāu viṣṭiduṣṭāni bhāni tatrāpy eke rātrim āhur dinaṃ ca//</l>\n\n<l xml:id='VP_81cd'>tithyarddhe 'ntye prāptināśau ca viṣṭe [U. viṣṭeḥ] cāndraṃ mānaṃ viṣṭihetu na śeṣam/</l>\n</lg>\n\n<lg xml:id='VP_82'>\n<l xml:id='VP_82ab'>prācyāḥ prāyoḥ nyūnavarṇāḥ sagopāḥ saṃdhyākālaṃ prāhur iṣṭaṃ na śeṣam//</l>\n\n<l xml:id='VP_82cd'>yāvac chāntaṃ gorajo nābhyupeti tāvat teṣāṃ cittaśuddhir vivāhe/</l>\n</lg>\n\n<lg xml:id='VP_83'>\n<l xml:id='VP_83a'>gopair yaṣṭayāhatānāṃ [U. yaṣṭyāhatānāṃ] khurapuṭadalitā yā tu dhūlir dinānte</l>\n\n<l xml:id='VP_83b'>sodvāhe sundarīṇāṃ vipuladhanasutāś cāyurārogyasaṃpat//</l>\n\n<l xml:id='VP_83c'>tasmin kāle na ca rkṣaṃ na ca tithikaraṇaṃ naiva lagnaṃ na yogaḥ</l>\n\n<l xml:id='VP_83d'>khyātaḥ puṃsāṃ sukhārthaṃ śamayati duritāni utthitaṃ gorajas tu/</l>\n</lg>\n\n<lg xml:id='VP_84'>\n<l xml:id='VP_84ab'>kulasya deśasya ca cittavṛttir na khaṇḍaniyā [U. khaṇḍanīyā] viduṣā kadācit//</l>\n\n<l xml:id='VP_84cd'>dosaḥ pratisyāyakṛto 'pi yo 'tra saṃbhāvyate jyautiṣikasya so 'jñaiḥ/</l>\n</lg>\n\n<lg xml:id='VP_85'>\n<l xml:id='VP_85ab'>śāstraśarīram abudhvā bahudhā jalpanti yady api nānumatam//</l>\n\n<l xml:id='VP_85cd'>kāṇānāṃ viṣayagataḥ prājño nimilayen netram/</l>\n</lg>\n\n<lg xml:id='VP_86'>\n<l xml:id='VP_86ab'>evaṃ vivāhasamaye gamane praveśe kāryeṣu maṅgalayuteṣv athavā pareṣu//</l>\n\n<l xml:id='VP_86cd'>doṣaṃ kuśikṣitakudaivavido vadanti rāgeṇa vā paṭudhiyo namo 'stu tebhyaḥ/</l>\n</lg>\n\n<lg xml:id='VP_87'>\n<l xml:id='VP_87ab'>gocaraśuddhāv induṃ kanyāyā yatnataḥ śubhaṃ vīkṣya//</l>\n\n<l xml:id='VP_87cd'>tigmakiraṇaś ca puṃsaḥ śeṣair avarṇair api vivāhaḥ/</l>\n</lg>\n\n<lg xml:id='VP_88'>\n<l xml:id='VP_88ab'>na sakalaguṇasaṃpal labhyate 'lpair ahobhir bahutaraguṇayogaṃ yojayet maṅgaleṣu//</l>\n\n<l xml:id='VP_88cd'>prabhavati na hi doṣo bhūribhāve guṇānāṃ salilalava ivāgneḥ saṃpradīptendhanasya/</l>\n</lg>\n\n<lg xml:id='VP_89'>\n<l xml:id='VP_89ab'>guṇaśatam api doṣaḥ kaścid eko 'pi vṛddhaḥ kṣapayati yadi nānyat tadvirodhiguṇo 'sti/</l>\n\n<l xml:id='VP_89cd'>ghaṭam api paripūrṇaṃ pañcagavyasya śaktyā malinayati surāyā bindur eko 'pi sarvam//</l>\n</lg>\n\n<lg xml:id='VP_90'>\n<l xml:id='VP_90ab'>kṛtakautukamaṅgalo varo madhuparkādyaśanād anantaram//</l>\n\n<l xml:id='VP_90cd'>jvalitāgnisamakṣamaṅgalaṃ yad avāpnoti śubhāśubhaṃ ca tam//</l>\n</lg>\n\n<lg xml:id='VP_91'>\n<l xml:id='VP_91ab'>cakre varāhamihiraḥ praṇipatya sādhūn samyak vivāhapaṭalaṃ pṛthutāṃ vihāya/</l>\n\n<l xml:id='VP_91cd'>pūrvaṃ ca yad yuvatijanmavidhau mayoktaṃ saṃcintya tac ca sadasatparikalpanīyam//</l>\n</lg>\n\n<note>End of Vivahapatala</note>\n\n  </body>\n\n"
+  "file_title": "varāhamihira-vivāhapaṭala",
+  "file_title_normal": "varahamihira-vivahapatala",
+  "metadata": {
+    "original_title": "Vivāhapaṭala",
+    "author": "Varāhamihira",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Mizue Sugita",
+        "when": "Novermber 11, 1997"
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Mizue Sugita",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "of Deviprasada Lamsala, Vivahapatalam, Rastriya Abhilekhalayata, 2035 with reference to Utpala's commentary [marked by U.]"
+  },
+  "body": [
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_1"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_1ab"
+          },
+          "text": "ajñātamadhyāntasamudbhavāya sarvātmane sarvagatāya tasmai/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_1cd"
+          },
+          "text": "praṇamya devāya manobhavāya khalīkṛtaṃ yena jagat samagram//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_2"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_2ab"
+          },
+          "text": "prajāpatir manmatha eva yasmāt kāmād vinā na prabhavaḥ prajānām/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_2cd"
+          },
+          "text": "mahatsu sūkṣmeṣu ca so 'sti devaḥ sarvātmakaḥ sarvagataś ca yasmāt//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_3"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_3ab"
+          },
+          "text": "yasmāt paran nāparam asti kiñcit saukṣmyān mahatvāc ca yataś ca nānyat/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_3cd"
+          },
+          "text": "tenedam ekena manobhavena vyāptaṃ jagac chāṛṅgabhṛteva sarvam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_4"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_4ab"
+          },
+          "text": "agamyagāmī bhagavān prajeśaḥ śroṇīsahasrāṅkatanuś ca śakraḥ/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_4cd"
+          },
+          "text": "caturmukho yena kṛtaś ca śambhu samanmatho maṅgalam ādadhātu//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_5"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_5ab"
+          },
+          "text": "bhagavān api śārṅgarathāṅgadharo bhagavat(t)vam avāpa yataḥ/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_5cd"
+          },
+          "text": "bahavo 'sya bhagā iti tena kṛtaṃ bhagavān iti nāma jagat prathitam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_6"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_6ab"
+          },
+          "text": "sītāviyogena bahuni duḥkhāny āptāni rāmeṇa salakṣmaṇena/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_6cd"
+          },
+          "text": "tānīha saṃsmṛtya kalau sahasrāṇy aṣṭau tathāṣṭau ca vivāhitāni//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_7"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_7ab"
+          },
+          "text": "durbhagās tanayavarjitāś ca yā niḥsvasanti vanitāḥ pativratā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_7cd"
+          },
+          "text": "tāḥ kudaivavinipātayantritā nānyajanmajanitaiḥ suduskṛtaiḥ//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_8"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_8ab"
+          },
+          "text": "surabhikusumagandhais tarpayitvā dvijedrān śubhatithidivasarkṣe daivavitsaṃpradiṣṭe/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_8cd"
+          },
+          "text": "ubhayakulaviśuddhe jñātaśīle surūpe prathamavayasi dadyāt kanyakāṃ yauvanasthe//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_9"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_9ab"
+          },
+          "text": "puṣye divase 'thavā kṣaṇe vaivāhyeṣu ca bheṣu kārayet/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_9cd"
+          },
+          "text": "ghaṭakāramṛdā sulakṣaṇām indrāṇīṃ kuśalena śilpinā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_10"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_10ab"
+          },
+          "text": "kusumbharaktāmbarabhūṣaṇojjvalāḥ sādhvyaḥ surūpāḥ subhagāḥ kulodbhavāḥ/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_10cd"
+          },
+          "text": "nadīṃ nayeyuḥ saro 'thavā taṭaṃ kanyām alaṅkṛtya sahendra jāyayā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_11"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_11ab"
+          },
+          "text": "sūrpeṇadikṣu pramadā baliṃ tā datvā sakālīyakagandhadigdhām/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_11cd"
+          },
+          "text": "kusumbharaktāmbaraveṣṭitāṅgīṃ śacīsakāśaṃ pramadā nayeyuḥ//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_12"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_12ab"
+          },
+          "text": "dadhyodanena haviṣā madhunā ca kanyā saṃpūjya śakradayitāṃ ca salohastā [U. salohahastā]/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_12cd"
+          },
+          "text": "tūṣṇīṃ praṇamya śirasā gṛham eva yāyād devīṃ pragṛhya muditā niyataiś ca keśaiḥ//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_13"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_13ab"
+          },
+          "text": "gṛhe stitāṃ [U. sthitāṃ] tāṃ puruhūtapatnīṃ prāṅmadhyāstamayeṣu kanyā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_13cd"
+          },
+          "text": "sraggandhadhūpaiḥ pratipūjaṇec [U. pratipūjayec] ca pāṇīgrahaṃ yāvad upāgateti//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_14"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_14a"
+          },
+          "text": "ratnānīndukaraḥ srajaḥ śubhagatā harmyotpalāny āsavaḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_14b"
+          },
+          "text": "tāṃbūlaṃ pravarāmbarāṇi ruciraṃ gītaṃ vibhūtyaś cayā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_14c"
+          },
+          "text": "yasmān na striyam antareṇa hi nṛṇāṃ sarvāṇy abhiprītaye"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_14d"
+          },
+          "text": "tasmād vacmi tadāptiyogyasamayo dharmārthakāmāya ca//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_14e"
+          },
+          "text": "uktaṃ janmani yat tad eva bhavitā yady aṅganānāṃ phalam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_14f"
+          },
+          "text": "vyartho na tv ayam ādaraṃ pariṇaye tatkālalagnādigaḥ//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_15"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_15ab"
+          },
+          "text": "ajñātaṃ prathamaṃ pradhānam aparaṃ tadvyañjakaṃ yoṣitām/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_15cd"
+          },
+          "text": "udvāhe niyati nayaty atibalād velāsamāyuk phalaiḥ//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_16"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_16a"
+          },
+          "text": "vātsyo varṣam anojam icchati tathā ebhyo janaś cottaraṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_16b"
+          },
+          "text": "strīṇāṃ mānam [U. nāmam] ṛtuṃ vihāya munayo māṇḍavyaśiṣyā jaguḥ/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_16c"
+          },
+          "text": "caitraṃ projjhya parāśāro kathayate durbhāgyadaṃ yoṣitāṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_16d"
+          },
+          "text": "āṣāḍhādicatuṣṭayena śubhadaṃ kaiś cit pradiṣṭaṃ dvijaiḥ//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_17"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_17ab"
+          },
+          "text": "śreṣṭhaṃ pakṣam uṣanti śuklam asitasyādyaṃ tribhāgaṃ tathā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_17cd"
+          },
+          "text": "riktāṃ projjhya tithiṃ tathā tv ayanayoḥ sandhiṃ ca śeṣāḥ śubhāḥ//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_18"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_18ab"
+          },
+          "text": "āgneyagrahavāsareṣu kalahaḥ prītis tu satsūttamān [U. satsūttamā]/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_18cd"
+          },
+          "text": "kaiścit stharyam uṣanti sauradivase cāndre samāpatnikam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_19"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_19ab"
+          },
+          "text": "mṛgaśirasi maghāyāṃ hastamitrottarāsu svasananirṛtipūṣādhātṛdeveṣu coḍhā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_19cd"
+          },
+          "text": "bahusutaśukha [U. sukha]dāsīvittasaubhāgyayuktā janayati paritoṣaṃ kanyakā bāndhavānām//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_20"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_20ab"
+          },
+          "text": "ārdrādye bhacatuṣṭaye vidhavatā sāgneyayāmye smṛtā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_20cd"
+          },
+          "text": "śeṣeṣv akṣayadoṣaśokamaraṇaṃ vyādhyādyaniṣṭaṃ bahuḥ//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_21"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_21ab"
+          },
+          "text": "prītir janmasu tārakāsu parataḥ sañjñānurūpaṃ phalam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_21cd"
+          },
+          "text": "candre copacayā ''dyasaptamagate saubhāgyasaukhyāptayaḥ//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_22"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_22ab"
+          },
+          "text": "nakṣatratulyaṃ phalam āha gargaḥ kṣeṇeṣu nakṣatrapasañjñiteṣu"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_22cd"
+          },
+          "text": "hārītababhrū dvijadevalaś ca viṣṭi vinā 'nyat karaṇaṃ praśastam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_23"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_23ab"
+          },
+          "text": "tithidinakaraṇarkṣalagnavīryaṃ paricayam āha parāśaraḥ krameṇa/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_23cd"
+          },
+          "text": "tithir iti balabān vadanti gargāḥ karaṇabalād divaso 'pi bhāguriś ca/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_23ef"
+          },
+          "text": "dinakaraṇabalād bhṛgur bhavīryaṃ balam udayasya jagāda jīvaśarmā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_24"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_24ab"
+          },
+          "text": "karaṇabhatithayo 'rdhabhuktabhogāḥ svaphalakarā na bhavanti tatra sāmye/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_24cd"
+          },
+          "text": "karaṇatithivāsarodayānāṃ caraṇavivṛtthir anukramāt phalānām//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_25"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_25ab"
+          },
+          "text": "ṣaṭkāṣṭake maraṇavairaviyogadoṣā dvir dvādaśe nidhanatā 'prajātā trikoṇe/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_25cd"
+          },
+          "text": "prītiḥ parā nigaditā samasaptakeṣu śeṣeṣv anekavidhasaukhyasutārthasaṃpat//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_26"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_26a"
+          },
+          "text": "ṣaṭkāṣṭake 'pi bhavanādhipam eva bhāva"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_26b"
+          },
+          "text": "ekādhipatyam avalokya ca vaśyarāśim/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_26c"
+          },
+          "text": "kāryo vivāhasamayaḥ śubhakṛt saduktaḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_26d"
+          },
+          "text": "stārā [U. tārā] bhaved yadi parasparato 'nukūlā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_27"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_27a"
+          },
+          "text": "dāridrayaṃ [U. dāridryaṃ] raviṇā kujena maraṇaṃ saumyena nasyuḥ prajāḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_27b"
+          },
+          "text": "daurbhāgyaṃ guruṇā sitena sahite candreṇa sāpatnikā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_27c"
+          },
+          "text": "pravrajyārkasutena sendujagurau vāñchanti kecit chubham"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_27d"
+          },
+          "text": "vyādhyair mṛtyur aṇaṃgrahair [U. asaṅgrahair] bahuvidhā dīkṣā pravāsāḥ śubhaiḥ//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_28"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_28ab"
+          },
+          "text": "kriye kumāreṣv anuraktacittā vihīnavittā gavi govratā ca/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_28cd"
+          },
+          "text": "kuladvayānandakarī tṛtīye kulīralagne kulaṭā nṛśaṃsā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_29"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_29ab"
+          },
+          "text": "harau prasūtā sakṛd āśritā pituḥ patipriyā 'ti śvaśurasya ṣaṣṭhabhe/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_29cd"
+          },
+          "text": "tulādimānārthavatī tulādhare tathālini krandati nityam asthirā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_30"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_30ab"
+          },
+          "text": "dhanuṣi kulaṭā tatpūrvārddhe satīty apare jaguḥ/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_30cd"
+          },
+          "text": "mṛgajhaṣaghaṭeṣv anyāśaktā jarām upagacchati//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_31"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_31ab"
+          },
+          "text": "dvipadabhavanaprāpī yo 'ṃśaḥ sa śubho 'nyagṛhodaye/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_31cd"
+          },
+          "text": "dvipadabhavaneṣv apy anyāṃśā na bhavanti śubhāvahā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_32"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_32ab"
+          },
+          "text": "bhānur mṛtyur na bahudhanatāṃ bhartṛdāyād avittaṃ [U. vittaṃ] bandhudhvaṃsaṃ tanayavirahaṃ bhartṛvṛddhiṃ parāṃ ca/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_32cd"
+          },
+          "text": "vaidhavyaṃ syān [U. prāk] na laghumaraṇaṃ dharmahāniṃ viśīlaṃ lābhānekān vyayam api dadāty udgamarkṣāt krameṇa//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_33"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_33ab"
+          },
+          "text": "śaśiny aśvā sārthā tad anu śubhatā bāndhavahitā viputrā bandhyārtā bhavati sasapatnā [U. sapatnā] ''śunidhanā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_33cd"
+          },
+          "text": "janitrī kanyānām atha vihatakarmā 'tidhaninī vyayāśaktety eke jagur aśubhadā bandhuṣu jale//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_34"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_34ab"
+          },
+          "text": "mṛtyur naiḥsvaṃ sārthatā bandhuvairaṃ na syuḥ putrā bhartṛvṛddhiṃ kumaitrīm/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_34cd"
+          },
+          "text": "raktasrāvo nānukulye ca bhartuḥ kravyācchailyaṃ svāptināśaṃ ca bhaume//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_35"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_35ab"
+          },
+          "text": "bhartṛvratā sugṛhiṇī patipakṣapūjyā bandhvarcitā bahusutā vijitāripakṣā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_35cd"
+          },
+          "text": "bandhyā vyasur niyamadānakṛśāṅgavittā māyāvatī dhanavatī vyayanīya [U. vyayanī] saumye//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_36"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_36ab"
+          },
+          "text": "patyuḥ priyā 'ti dhaninī muditā dhanyāḍhyā putrānvitā hataparā na sameti bhartā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_36cd"
+          },
+          "text": "kṣīṇāyuṣā śubharatā śubhasiddhakāryā svāyānvitā tadubhayopakṛtā ca jīve//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_37"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_37a"
+          },
+          "text": "priyā patyur lubdhā patisahajaśaktā kulahitā"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_37b"
+          },
+          "text": "suputrā vairāḍhyā tad anu kulaṭā kṣipranidhanā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_37c"
+          },
+          "text": "ratā nityaṃ dharme bahukuśalakarmaṇy abhiratā"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_37d"
+          },
+          "text": "bhavaty āyaprāyā kṣapitavibhavā ceti bhṛguṇā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_38"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_38a"
+          },
+          "text": "puṃścaly asvā bahudhanavatī svalpadugdhārkaputre"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_38b"
+          },
+          "text": "hṛdrogā''rtā vinihataparā garbhavisrāvaśīlā//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_38c"
+          },
+          "text": "rogān muktā skhalitaniyamā pāpaśīlā 'tivittā"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_38d"
+          },
+          "text": "pānair arthān nayati vilayaṃ prāvilagnāt krameṇa//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_39"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_39ab"
+          },
+          "text": "saumyā vyayāstanidhanaṃ tryaribhaṃ ca śukre [U. śukraḥ] hitvā sthitas tridhanalābhagataḥ śaśāṅkaḥ/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_39cd"
+          },
+          "text": "pāpā triṣaḍnidhanalābhagatā vivāhe hitvā 'ṣṭamaṃ kṣitijam iṣṭaphalāni dadyuḥ//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_40"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_40ab"
+          },
+          "text": "sutahibukaviyadvilagnadharmeṣv amaragurur yadi dānavārcito vā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_40cd"
+          },
+          "text": "yad aśubham upayāti tac chubhatvaṃ śubham api vṛddhim upaiti tatprabhāvāt//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_41"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_41ab"
+          },
+          "text": "aniṣṭasthānasaṃstho 'pi praśastaphaladaḥ śaśiḥ/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_41cd"
+          },
+          "text": "saumyabhāge 'dhimitraṇa [U. 'dhimitreṇa] balinā cen nirīkṣtaḥ//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_42"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_42ab"
+          },
+          "text": "naragrahabale strīṇāṃ pumān bhavati ballabhaḥ/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_42cd"
+          },
+          "text": "viparīte 'ṅganā bhartur arthād anyat prakalpayet//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_43"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_43ab"
+          },
+          "text": "śukrasūryāstapatiṣu śatrubhe vā tadaṃśake/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_43cd"
+          },
+          "text": "virodhamūḍhā yāty āśu śvasruśvasurabhartṛṣu//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_44"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_44ab"
+          },
+          "text": "vilagnāṃśaḥ svanāthena yady udvāhe na dṛśyate/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_44cd"
+          },
+          "text": "puṃvināśas tato 'stāṃśe yady evaṃ yoṣitas tathā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_45"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_45ab"
+          },
+          "text": "gurusitayor uccagayor ekatame vā vilagnage kanyā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_45cd"
+          },
+          "text": "rājñi bhavaty asaṃśayam eva gurusaumyayoś coḍhā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_46"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_46ab"
+          },
+          "text": "svajāmitrodaye lagne śubhe kāryā caturthikā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_46cd"
+          },
+          "text": "svavarṇasadṛśā jārās tryādyair ekarkṣasaṃsthitaiḥ//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_47"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_47ab"
+          },
+          "text": "carabhavanagataṃ vihāya satyaḥ śaśinam uvāca śubhapradaṃ vivāhe/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_47cd"
+          },
+          "text": "munivacanavirodhi tac ca sūtre na tu kathite pavanarkṣavaiśvadeve//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_48"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_48ab"
+          },
+          "text": "rāśyudgamadvādaśarāśicakre yuktā vivāhā munibhiḥ pradiṣṭā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_48cd"
+          },
+          "text": "nāmāni cakre grahayogalagne śrīdevakīrtiḥ śṛṇu tasya ca ''ryā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_49"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_49ab"
+          },
+          "text": "nando bhadro jīvo jīmūtaḥ sthāvaro jayo vijayaḥ/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_49cd"
+          },
+          "text": "vyālo rasātalamukhaḥ kṣayas tamo 'ntyo vivāhagaṇaḥ//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_50"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_50ab"
+          },
+          "text": "saumye vilagne nandaḥ śukre bhadras tathā gurau jīvaḥ/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_50cd"
+          },
+          "text": "ādyantau jīmūtaḥ sthāvara iti madhyamāntyābhyām//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_51"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_51ab"
+          },
+          "text": "saumyair atha tair vā ravibhaumaśanaiścaraiḥ kramaśaḥ/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_51cd"
+          },
+          "text": "saumyaiḥ jñeyā saumyā krūrāḥ kruraiḥ [U. krūraiḥ] samākhyātā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_52"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_52ab"
+          },
+          "text": "dinakarayogād vyālo bhaumena rasātalaḥ kṣayaḥ śaninā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_52cd"
+          },
+          "text": "tamasā tamo nirukto 'thāntye keto [U. ketor] kṛtāntaś ca//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_53"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_53ab"
+          },
+          "text": "triṣu nandādiṣu rājñī caturṣu cātaḥ paraṃ mahādevī/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_53cd"
+          },
+          "text": "vyālādyeṣu ca pañcaṣu vidhavāḥ śocyā daridrāś ca//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_54"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_54ab"
+          },
+          "text": "anadhikṛtaḥ śubhakṛt syād ete [U. etaiś] candro 'nyathā 'dhikṛtaḥ/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_54cd"
+          },
+          "text": "tasmāt vivāhasamaye na kena cit saṅgataḥ śaśī dhanyaḥ//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_55"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_55ab"
+          },
+          "text": "sapta te śaśiyogā saumyā [U. saumyaiḥ] saha sarvakarmasiddhikarāḥ/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_55cd"
+          },
+          "text": "aśubhaphaladās tu pāpaiḥ patyudvahane vivarjyās te//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_55ef"
+          },
+          "text": "tasmād etān yogān matimāṃ[sic.] sañcivtya [U. yuñjīta] sarvakāryeṣu/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_56"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_56ab"
+          },
+          "text": "ūḍhā nande kanyā devīśabdaṃ samāpnuyād acirāt//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_56cd"
+          },
+          "text": "bhavati narendrajananī bhartuḥ prāṇaiḥ priyā caiva/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_57"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_57ab"
+          },
+          "text": "bhadre pāṇigrahaṇe yadi nāma kumārikā samupayāti//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_57cd"
+          },
+          "text": "sā tvaritān nṛpaśabdaṃ karoti bhārtuḥ kulasyāpi/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_58"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_58ab"
+          },
+          "text": "pariṇītā jīvākhye kanyā vijayāya kīrtyate bhartuḥ//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_58cd"
+          },
+          "text": "prāpnoti sā trivargaṃ kuladvayaṃ cāpi nandayati/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_59"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_59ab"
+          },
+          "text": "jīmūte pariṇītā vipulān bhogān mahāphalān bhuktvā//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_59cd"
+          },
+          "text": "dṛṣdvā ca naptṛtanayān sahabhartā devatvam/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_60"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_60ab"
+          },
+          "text": "sthāvarayoge kanyā pāṇigraham etya vipulam aiśvaryam//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_60cd"
+          },
+          "text": "bhartur nidhānalābhān prāpya kulasyonnatiṃ kurute/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_61"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_61ab"
+          },
+          "text": "pāṇigraham etya jaye jaghanyakulajāpi bhartur aiśvaryam//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_61cd"
+          },
+          "text": "āvahati sadā kanyā niṣevyamānā sapatnībhiḥ/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_62"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_62ab"
+          },
+          "text": "vijayāṃ prāpyodvāhaṃ prāpnoti sutān yaśo 'rthalābhaṃ ca//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_62cd"
+          },
+          "text": "vaṃśasya ca pratiṣṭhāṃ parato maraṇāc ca suralokam/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_63"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_63ab"
+          },
+          "text": "vyāle vyālākārā pāṇigraham eti kanyakā daivāt//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_63cd"
+          },
+          "text": "dāridryāmayayuktā naikasmin puṃsi sā ramate/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_64"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_64ab"
+          },
+          "text": "pātālanāmani gatā pāṇigrahaṇe ca pañcamān māsāt//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_64cd"
+          },
+          "text": "sā prāpya doṣam atulaṃ paraḥ prāṇān parityajati/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_65"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_65ab"
+          },
+          "text": "kṣayam āsādyodvāhaṃ kanyā pakṣadvayāt patiṃ hatvā//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_65cd"
+          },
+          "text": "nīcena tu saha bhartrā kṣapayati jārāgninā gotram/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_66"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_66ab"
+          },
+          "text": "pāṇigrahas tamasi cel lakṣaṇaguṇavittato 'pi sampannā//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_66cd"
+          },
+          "text": "saptati rātrāt kṣapayati yady api jātā surendreṇa/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_67"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_67ab"
+          },
+          "text": "yadi khalu kṛtāntayoge pariṇayam āyati kanyakā daivāt//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_67cd"
+          },
+          "text": "sā śvasurabandhuvargaṃ kṣapayaty acireṇa kālena/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_68"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_68ab"
+          },
+          "text": "ātmopekṣakapoṣakavadhakā iti rāśayo 'rthato 'bhihitaḥ//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_68cd"
+          },
+          "text": "ebhyaḥ śubham aśubhaṃ vā nirdeśyā janmalagnābhyām/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_69"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_69ab"
+          },
+          "text": "ātmeti janmalagnaṃ pañcama navamaṃ ca kīrtitaṃ tasmāt//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_69cd"
+          },
+          "text": "dviṣaṭkadaśamabhavanam upekṣakākhyaṃ vinirdiṣṭam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_70"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_70ab"
+          },
+          "text": "duścikyaṃ jāmitraṃ caikādaśakaṃ ca poṣakaṃ jñeyam//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_70cd"
+          },
+          "text": "dvādaśanidhanacaturthaṃ vadhakākhyaṃ śāstranirdiṣṭam/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_71"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_71ab"
+          },
+          "text": "hitvā śaśāṅkaṃ yadi sapta saumyaiḥ pañcāśubhaiḥ kiṃ kathitā na saptā//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_71cd"
+          },
+          "text": "dvitryādiyogān parihṛtya kasmān noktaṃ śataṃ trighanaṃ vilagne/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_72"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_72ab"
+          },
+          "text": "deśācāras tāvad ādau vicintyo deśe deśe yā sthiti saiva kāryā//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_72cd"
+          },
+          "text": "lokadviṣṭāṃ paṇḍitā varjayanti daivajño 'pi lokamārgeṇa yāyāt/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_73"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_73ab"
+          },
+          "text": "bṛhaspatau gocaraśobhanasthe vivāham icchanti ca dakṣiṇātyāḥ/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_73cd"
+          },
+          "text": "ravau śubhasthe ca vadanti gauḍā na gocaro mālavake pramāṇam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_74"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_74ab"
+          },
+          "text": "harau prasupte na ca dakṣiṇāyane na caitramāse na ca puṣyasaṃjñite/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_74cd"
+          },
+          "text": "tithau ca rikte śaśini kṣayaṅgate ravīndubhaumārkidineṣu cāśubham//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_75"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_75ab"
+          },
+          "text": "vyatipātahataṃ dinatrayaṃ vyatipātena samaṃ ca vaidhṛtim//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_75cd"
+          },
+          "text": "tad api sphuṭapātadarśane dviguṇaṃ yadi vā na niścitam/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_76"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_76ab"
+          },
+          "text": "vyatipātavyāghātaḥ ṣaṣṭhe daśame ca vaidhṛtaṃ dhiṣṇye//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_76cd"
+          },
+          "text": "vikṣobhaṇagaṇḍāntāv atidhṛtisaṃkhye ca vyāghātaḥ/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_77"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_77ab"
+          },
+          "text": "tad idaṃ vyatipātaṃ ca kathayanti uttaradiksthitājanāḥ//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_77cd"
+          },
+          "text": "vyatipātavad ākulasthitaṃ bahusiddhāntaviśeṣakāraṇe/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_78"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_78ab"
+          },
+          "text": "tathottarāḥ sākalasannikṛṣṭā māṇḍavyamātīyatusārddhakeṣu//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_78cd"
+          },
+          "text": "khaśeṣu hūṇeṣu na bāhlikeṣu vā na, kāṇadeśeṣu na gopabhojāḥ/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_79"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_79ab"
+          },
+          "text": "ekādaśoktāni śubhāni bhāni śeṣāṇy aniṣṭāni vivāhakāle//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_79cd"
+          },
+          "text": "tatrāgni [U. tatrāpi] tārā śaśivīryayuktā triṃśan muhūrtāś ca vicintanīyāḥ/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_80"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_80ab"
+          },
+          "text": "tulādharastrīmithunād vivāha [U. vihāya] lagne sthitā pāpaphalā na cānye//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_80cd"
+          },
+          "text": "triṃśāṃśakadvādaśabhāgabhedair dreṣkāṇahorāpramukhair vicintyaḥ/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_81"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_81ab"
+          },
+          "text": "māse nāṣṭāu viṣṭiduṣṭāni bhāni tatrāpy eke rātrim āhur dinaṃ ca//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_81cd"
+          },
+          "text": "tithyarddhe 'ntye prāptināśau ca viṣṭe [U. viṣṭeḥ] cāndraṃ mānaṃ viṣṭihetu na śeṣam/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_82"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_82ab"
+          },
+          "text": "prācyāḥ prāyoḥ nyūnavarṇāḥ sagopāḥ saṃdhyākālaṃ prāhur iṣṭaṃ na śeṣam//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_82cd"
+          },
+          "text": "yāvac chāntaṃ gorajo nābhyupeti tāvat teṣāṃ cittaśuddhir vivāhe/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_83"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_83a"
+          },
+          "text": "gopair yaṣṭayāhatānāṃ [U. yaṣṭyāhatānāṃ] khurapuṭadalitā yā tu dhūlir dinānte"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_83b"
+          },
+          "text": "sodvāhe sundarīṇāṃ vipuladhanasutāś cāyurārogyasaṃpat//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_83c"
+          },
+          "text": "tasmin kāle na ca rkṣaṃ na ca tithikaraṇaṃ naiva lagnaṃ na yogaḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_83d"
+          },
+          "text": "khyātaḥ puṃsāṃ sukhārthaṃ śamayati duritāni utthitaṃ gorajas tu/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_84"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_84ab"
+          },
+          "text": "kulasya deśasya ca cittavṛttir na khaṇḍaniyā [U. khaṇḍanīyā] viduṣā kadācit//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_84cd"
+          },
+          "text": "dosaḥ pratisyāyakṛto 'pi yo 'tra saṃbhāvyate jyautiṣikasya so 'jñaiḥ/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_85"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_85ab"
+          },
+          "text": "śāstraśarīram abudhvā bahudhā jalpanti yady api nānumatam//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_85cd"
+          },
+          "text": "kāṇānāṃ viṣayagataḥ prājño nimilayen netram/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_86"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_86ab"
+          },
+          "text": "evaṃ vivāhasamaye gamane praveśe kāryeṣu maṅgalayuteṣv athavā pareṣu//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_86cd"
+          },
+          "text": "doṣaṃ kuśikṣitakudaivavido vadanti rāgeṇa vā paṭudhiyo namo 'stu tebhyaḥ/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_87"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_87ab"
+          },
+          "text": "gocaraśuddhāv induṃ kanyāyā yatnataḥ śubhaṃ vīkṣya//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_87cd"
+          },
+          "text": "tigmakiraṇaś ca puṃsaḥ śeṣair avarṇair api vivāhaḥ/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_88"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_88ab"
+          },
+          "text": "na sakalaguṇasaṃpal labhyate 'lpair ahobhir bahutaraguṇayogaṃ yojayet maṅgaleṣu//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_88cd"
+          },
+          "text": "prabhavati na hi doṣo bhūribhāve guṇānāṃ salilalava ivāgneḥ saṃpradīptendhanasya/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_89"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_89ab"
+          },
+          "text": "guṇaśatam api doṣaḥ kaścid eko 'pi vṛddhaḥ kṣapayati yadi nānyat tadvirodhiguṇo 'sti/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_89cd"
+          },
+          "text": "ghaṭam api paripūrṇaṃ pañcagavyasya śaktyā malinayati surāyā bindur eko 'pi sarvam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_90"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_90ab"
+          },
+          "text": "kṛtakautukamaṅgalo varo madhuparkādyaśanād anantaram//"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_90cd"
+          },
+          "text": "jvalitāgnisamakṣamaṅgalaṃ yad avāpnoti śubhāśubhaṃ ca tam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "VP_91"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_91ab"
+          },
+          "text": "cakre varāhamihiraḥ praṇipatya sādhūn samyak vivāhapaṭalaṃ pṛthutāṃ vihāya/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "VP_91cd"
+          },
+          "text": "pūrvaṃ ca yad yuvatijanmavidhau mayoktaṃ saṃcintya tac ca sadasatparikalpanīyam//"
+        }
+      ]
+    },
+    {
+      "tag": "note",
+      "attributes": {},
+      "text": "End of Vivahapatala"
+    }
+  ]
 }

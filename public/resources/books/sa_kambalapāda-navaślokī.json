@@ -1,4 +1,311 @@
 {
-  "title": "sa_kambalapāda-navaślokī",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Navaślokī</p>\n\n<p>āryāṣṭasāhaśrikāyāḥ prajñāpāramitāyāḥ piṇḍārthaḥ</p>\n\n<lg>\n<l>prajñāpāramitāmbodhau śubharatnākare svayam /</l>\n<l>sarvā pāramitās tatra tādātmyena vyavasthitāḥ // Nś_1 //</l>\n</lg>\n\n<lg>\n<l>niṣprapañcā nirābhāsā nirvikalpā nirālayā /</l>\n<l>niḥsvabhāvā parā sūkṣmā bindunādavivarjitā // Nś_2 //</l>\n</lg>\n\n<lg>\n<l>prajñāpāramitā mātā sarvabuddhodayā parā /</l>\n<l>trayānupalabdhirūpā sarvajñajñānagocarā // Nś_3 //</l>\n</lg>\n\n<lg>\n<l>prajñāpāramitāṃ saṃyag yo bhāvayitum icchati /</l>\n<l>tenārthato navaślokāś cintanīyāḥ samāsataḥ // Nś_4 //</l>\n</lg>\n\n<lg>\n<l>karmaprabhāvasaṃbhūtaṃ ṣaḍāyatanalakṣaṇam /</l>\n<l>punarbhavam iti khyātaṃ pratibhāsopamaṃ hi tat // Nś_5_[1] //</l>\n</lg>\n\n<p>nirmitaṃ nagaraṃ yadvad vilokayati nirmitaḥ /\ntadvat paśyati rūpāṇi karmabhir ni<hi rend='it'>rmi</hi>taṃ jagat // Nś_6_[2] //</p>\n\n<lg>\n<l>dharmaṃ deśayataḥ śabdā ye kecit śrutigocarāḥ /</l>\n<l>pratiśrutkopamāḥ sarve prodbhūtaśrutinaḥ śrutāḥ // Nś_7_[3] //</l>\n</lg>\n\n<lg>\n<l>āghrataṃ svāditaṃ tathā spraṣṭaṃ viṣayalālāsaiḥ /</l>\n<l>svapnatulyam idaṃ sarvam upalabdhaṃ na vidyate // Nś_8_[4] //</l>\n</lg>\n\n<lg>\n<l>māyāyantro naro yadvad bhinnāṃ ceṣṭāṃ karoti vai /</l>\n<l>tadvad ceṣṭāṃ karoty eva dehayantro nirātmakaḥ // Nś_9_[5] //</l>\n</lg>\n\n<lg>\n<l>nānopalabdhayo yāś ca pratikṣaṇasamudbhavāḥ /</l>\n<l>marīcisadṛśāś caite dṛṣṭanaṣṭāḥ vilakṣaṇāḥ // Nś_10_[6] //</l>\n</lg>\n\n<lg>\n<l>pratibimbanibhaṃ grāhyam anādicittasaṃbhavam /</l>\n<l>tadākāraṃ ca vijñānam anyonyapratibimbavat // Nś_11_[7] //</l>\n</lg>\n\n<p>dhyāyinā<hi rend='it'>ṃ</hi> svacchasaṃtāne <hi rend='it'>yaj</hi> jnanendusamudbhavam /\n<l>udakacandropamaṃ tad dhi pratyakṣaṃ na vidyate // Nś_12_[8] //</l></p>\n\n<lg>\n<l>yoginām api yaj jñānaṃ tad apy ākāśalakṣaṇam /</l>\n<l>tasmāj jñānaṃ ca jñeyaṃ ca sarvam ākāśalakṣaṇam // Nś_13_[9] //</l>\n</lg>\n\n<lg>\n<l>iti cintayataḥ tattvaṃ sarvabhāveṣv anāśritam /</l>\n<l>bodhipraṇidhicittena jñānaṃ agraṃ bhaviṣyati // Nś_14 //</l>\n</lg>\n\n<p>āryāṣṭasāhasrikāyāḥ prajñāpāramitāyāḥ piṇḍārthaḥ samāptaḥ\nkṛtir iyaṃ śrīkam<hi rend='it'>b</hi>alāmbarapādanām</p>\n\n  </body>\n\n"
+  "file_title": "kambalapāda-navaślokī",
+  "file_title_normal": "kambalapada-navasloki",
+  "metadata": {
+    "original_title": "Navaślokī",
+    "author": "Kambalapāda",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "G. Tucci. Minor Buddhist Texts, part I. Roma 1956 (Serie Orientale Roma, 9), pp. 216-217."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Navaślokī"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "āryāṣṭasāhaśrikāyāḥ prajñāpāramitāyāḥ piṇḍārthaḥ"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāpāramitāmbodhau śubharatnākare svayam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvā pāramitās tatra tādātmyena vyavasthitāḥ // Nś_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niṣprapañcā nirābhāsā nirvikalpā nirālayā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niḥsvabhāvā parā sūkṣmā bindunādavivarjitā // Nś_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāpāramitā mātā sarvabuddhodayā parā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trayānupalabdhirūpā sarvajñajñānagocarā // Nś_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāpāramitāṃ saṃyag yo bhāvayitum icchati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tenārthato navaślokāś cintanīyāḥ samāsataḥ // Nś_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmaprabhāvasaṃbhūtaṃ ṣaḍāyatanalakṣaṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "punarbhavam iti khyātaṃ pratibhāsopamaṃ hi tat // Nś_5_[1] //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "nirmitaṃ nagaraṃ yadvad vilokayati nirmitaḥ /\ntadvat paśyati rūpāṇi karmabhir ni",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "rmi"
+        },
+        {
+          "tag": "text",
+          "text": "taṃ jagat // Nś_6_[2] //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmaṃ deśayataḥ śabdā ye kecit śrutigocarāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratiśrutkopamāḥ sarve prodbhūtaśrutinaḥ śrutāḥ // Nś_7_[3] //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āghrataṃ svāditaṃ tathā spraṣṭaṃ viṣayalālāsaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svapnatulyam idaṃ sarvam upalabdhaṃ na vidyate // Nś_8_[4] //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyāyantro naro yadvad bhinnāṃ ceṣṭāṃ karoti vai /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvad ceṣṭāṃ karoty eva dehayantro nirātmakaḥ // Nś_9_[5] //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nānopalabdhayo yāś ca pratikṣaṇasamudbhavāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "marīcisadṛśāś caite dṛṣṭanaṣṭāḥ vilakṣaṇāḥ // Nś_10_[6] //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratibimbanibhaṃ grāhyam anādicittasaṃbhavam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadākāraṃ ca vijñānam anyonyapratibimbavat // Nś_11_[7] //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "dhyāyinā",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ṃ"
+        },
+        {
+          "tag": "text",
+          "text": "svacchasaṃtāne"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "yaj"
+        },
+        {
+          "tag": "text",
+          "text": "jnanendusamudbhavam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "udakacandropamaṃ tad dhi pratyakṣaṃ na vidyate // Nś_12_[8] //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yoginām api yaj jñānaṃ tad apy ākāśalakṣaṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmāj jñānaṃ ca jñeyaṃ ca sarvam ākāśalakṣaṇam // Nś_13_[9] //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti cintayataḥ tattvaṃ sarvabhāveṣv anāśritam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhipraṇidhicittena jñānaṃ agraṃ bhaviṣyati // Nś_14 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "āryāṣṭasāhasrikāyāḥ prajñāpāramitāyāḥ piṇḍārthaḥ samāptaḥ\nkṛtir iyaṃ śrīkam",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "b"
+        },
+        {
+          "tag": "text",
+          "text": "alāmbarapādanām"
+        }
+      ]
+    }
+  ]
 }

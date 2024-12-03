@@ -1,4 +1,251 @@
 {
-  "title": "sa_abhinavagupta-bhairavastava",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n<div>\n<lg xml:id='AgBhaist_1'>\n<l>vyāptacarācarabhāvaviśeṣaṃ cinmayam ekam anantam anādim |</l>\n<l>bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande ||</l>\n</lg>\n\n<lg xml:id='AgBhaist_2'>\n<l>tvanmayam etad aśeṣam idānīṃ bhāti mama tvadanugrahaśaktyā |</l>\n<l>tvaṃ ca maheśa sadaiva mamātmā svātmamayaṃ mama tena samastam ||</l>\n</lg>\n\n<lg xml:id='AgBhaist_3'>\n<l>svātmani viśvagaye tvayi nāthe tena na saṃsṛtibhītikathāsti |</l>\n<l>satsv api durdharaduḥkhavimohatrāsavidhāyiṣu karmagaṇeṣu ||</l>\n</lg>\n\n<lg xml:id='AgBhaist_4'>\n<l>antaka māṃ prati mā dṛśam enāṃ krodhakarālatamāṃ vinidhehi |</l>\n<l>śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi ||</l>\n</lg>\n\n<lg xml:id='AgBhaist_5'>\n<l>itthaṃ upoḍhabhavanmayasaṃviddīdhitidāritabhūritamisraḥ |</l>\n<l>mṛtyuyamāntakakarmapiśācair nātha namo 'stu na jātu bibhemi ||</l>\n</lg>\n\n<lg xml:id='AgBhaist_6'>\n<l>proditasatyavibodhamarīciprekṣitaviśvapadārthasatattvaḥ |</l>\n<l>bhāvaparāmṛtanirbharapūrṇe tvayy aham ātmani nirvṛtim emi ||</l>\n</lg>\n\n<lg xml:id='AgBhaist_7'>\n<l>mānasagocaram eti yadaiva kleśadaśā 'tanutāpavidhātrī [1] |</l>\n<l>nātha tadaiva mama tvadabhedastotraparāmṛtavṛṣṭir udeti ||</l>\n</lg>\n\n<lg xml:id='AgBhaist_8'>\n<l>śaṅkara satyam idaṃ vratadānasnānatapo bhavatāpavidāri |</l>\n<l>tāvakaśāstraparāmṛtacintā syandati cetasi nirvṛtidhārām ||</l>\n</lg>\n\n<lg xml:id='AgBhaist_9'>\n<l>nṛtyati gāyati hṛṣyati gāḍhaṃ saṃvid iyaṃ mama bhairavanātha |</l>\n<l>tvāṃ priyam āpya sudarśanam ekaṃ durlabham anyajanaiḥ samayajñam ||</l>\n</lg>\n\n<lg>\n<l>vasurasapauṣe kṛṣṇadaśamyām abhinavaguptaḥ stavam imam akarot |</l>\n<l>yena vibhur bhavamarusantāpaṃ śamayati janasya jhaṭiti dayāluḥ ||</l>\n</lg>\n\n<p>samāptam stavam idam abhinavākhyam padyanavakam ||</p>\n\n<note>[1] var. : tanutām avidhāya</note>\n</div>\n<div>\n\n</div>\n<div>\n\n<note>Gandharva-nagaram / DSO Sanskrit Archive</note>\n\n</div>\n<div>\n\n  </div>\n</body>\n\n"
+  "file_title": "abhinavagupta-bhairavastava",
+  "file_title_normal": "abhinavagupta-bhairavastava",
+  "metadata": {
+    "original_title": "Bhairavastava",
+    "author": "Abhinavagupta",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Marino Faliero",
+        "when": "July 1998"
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Marino Faliero",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBhaist_1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vyāptacarācarabhāvaviśeṣaṃ cinmayam ekam anantam anādim |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBhaist_2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tvanmayam etad aśeṣam idānīṃ bhāti mama tvadanugrahaśaktyā |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tvaṃ ca maheśa sadaiva mamātmā svātmamayaṃ mama tena samastam ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBhaist_3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svātmani viśvagaye tvayi nāthe tena na saṃsṛtibhītikathāsti |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "satsv api durdharaduḥkhavimohatrāsavidhāyiṣu karmagaṇeṣu ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBhaist_4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "antaka māṃ prati mā dṛśam enāṃ krodhakarālatamāṃ vinidhehi |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBhaist_5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "itthaṃ upoḍhabhavanmayasaṃviddīdhitidāritabhūritamisraḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mṛtyuyamāntakakarmapiśācair nātha namo 'stu na jātu bibhemi ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBhaist_6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "proditasatyavibodhamarīciprekṣitaviśvapadārthasatattvaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhāvaparāmṛtanirbharapūrṇe tvayy aham ātmani nirvṛtim emi ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBhaist_7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mānasagocaram eti yadaiva kleśadaśā 'tanutāpavidhātrī [1] |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nātha tadaiva mama tvadabhedastotraparāmṛtavṛṣṭir udeti ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBhaist_8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śaṅkara satyam idaṃ vratadānasnānatapo bhavatāpavidāri |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tāvakaśāstraparāmṛtacintā syandati cetasi nirvṛtidhārām ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBhaist_9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nṛtyati gāyati hṛṣyati gāḍhaṃ saṃvid iyaṃ mama bhairavanātha |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tvāṃ priyam āpya sudarśanam ekaṃ durlabham anyajanaiḥ samayajñam ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vasurasapauṣe kṛṣṇadaśamyām abhinavaguptaḥ stavam imam akarot |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yena vibhur bhavamarusantāpaṃ śamayati janasya jhaṭiti dayāluḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "samāptam stavam idam abhinavākhyam padyanavakam ||"
+        },
+        {
+          "tag": "note",
+          "attributes": {},
+          "text": "[1] var. : tanutām avidhāya"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {}
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "note",
+          "attributes": {},
+          "text": "Gandharva-nagaram / DSO Sanskrit Archive"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {}
+    }
+  ]
 }

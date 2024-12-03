@@ -1,4 +1,2403 @@
 {
-  "title": "sa_ahoratravratakathā",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n<div>\n<p>Ahorātravratakathā</p>\n\n<p>Oṃ namaḥ śrīdharmadhātave /</p>\n\n<lg>\n<l>ākāśanirmalo bhūto niṣprapañcaguṇāśrayaḥ /</l>\n<l>pañcaskandhātmakaḥ śāntas tasmai stūpātmane namaḥ // Avk_1 //</l>\n</lg>\n\n<p>evaṃ mayā śrutam ekasmin samaye buddho bhagavāñ chrāvastyāṃ viharati sma jetavane 'nāthapiṇḍadasyārāme mahatā bhikṣusaṃghena sārdham anekair devanāgayakṣagandharvāsuragaruḍakinnaramahoragaiḥ sthavirabhikṣuvītarāgasaṃghair bodhisattvaśatasahasraiḥ saṃbahulaiś ca śrāvakair daśabhir lokapālaiś caturmahārājakāyikair anekaiś caturvarṇakair manuṣyair anekaśatasahasraiḥ parivāraiḥ parivṛtaiḥ / tasmin sabhāmaṇḍale sarve dharmaśravaṇikā lokā bhagavantam abhivīkṣya caityavratakathām anudhyāyantaḥ samāsthitāḥ / atha khalu subhūtiḥ sthaviraḥ svāsanāt samutthāyaikāṃsam uttarāsaṅgaṃ kṛtvā triḥ pradakṣiṇīkṛtya savyajānubimbaṃ bhuvi sthāpya bhagavantaṃ praṇamyaitad avocat /</p>\n\n<lg>\n<l>ahorātravrataṃ nātha kasmin kāle pravartate /</l>\n<l>tadvidhiṃ ca kathaṃ brūhi tat sarvaṃ jagatāṃ prabho // Avk_2 //</l>\n</lg>\n\n<p>bhagavān āha /</p>\n\n<lg>\n<l>sādhu sādhu subhūte tvaṃ śṛṇu sattvānukampaka /</l>\n<l>ahorātravrataṃ nityaṃ tadvidhiṃ kathitaṃ mayā // Avk_3 //</l>\n</lg>\n\n<lg>\n<l>āsīt pūrvavideheṣu nāmnā gandhavatī purī /</l>\n<l>tasyāṃ rājā mahātejā indrapṛṣṭo mahāprabhuḥ // Avk_4 //</l>\n</lg>\n\n<lg>\n<l>so 'ntaḥpure sabhāṃ kṛtvā vasubandhuṃ jagadgurum /</l>\n<l>praṇamya sahasotthāya papraccha vidhivan mudā // Avk_5 //</l>\n</lg>\n\n<lg>\n<l>śrotum icchāmi tat sarvaṃ yad vratānāṃ samuttamam /</l>\n<l>yasya puṇyaprabhāvena sattvā yānti sunirvṛtim // Avk_6 //</l>\n</lg>\n\n<lg>\n<l>tat sarvaṃ gadatāṃ dhīra sarvasattvānukampaka /</l>\n<l>bhavatā cānupālyo 'yaṃ lokaś ca duṣkṛtākulaḥ // Avk_7 //</l>\n</lg>\n\n<p>vasubandhur uvāca /</p>\n\n<lg>\n<l>śṛṇu rājan mayā khyātaṃ vratānāṃ vratam uttamam /</l>\n<l>ahorātravrataṃ pūrvaṃ vipaśyinā prabhāṣitam // Avk_8 //</l>\n</lg>\n\n<lg>\n<l>aśvinīpūrṇamāsyāṃ tu vrataṃ kuryād mahodayam /</l>\n<l>caityaṃ saṃpūjayec chuddhaḥ ṣoḍaśair vidhibhis tathā // Avk_9 //</l>\n</lg>\n\n<lg>\n<l>bhojanānte trayodaśyāṃ kuryād dantādiśodhanam /</l>\n<l>caturdaśyāṃ viśeṣeṇa kṣurakarmāṇi kārayet // Avk_10 //</l>\n</lg>\n\n<lg>\n<l>snānaṃ kṛtvā ca tīrtheṣu śucivastrāvṛtaḥ sudhīḥ /</l>\n<l>madhyāhne pūjayec caityaṃ pradīpaṃ ca pradāpayet // Avk_11 //</l>\n</lg>\n\n<lg>\n<l>sūrye ṣaṣṭhagate bhāge prāśayec ca kṣīrodanam /</l>\n<l>punar śaucādikaṃ kṛtvā dharmaṃ ca śruṇuyān mudā // Avk_12 //</l>\n</lg>\n\n<lg>\n<l>pratyūṣe pūrṇamāsyāṃ tu snātvā vrataṃ samārabhet /</l>\n<l>ādau bhūmitalaṃ śodhya dharmaśālāṃ prakārayet // Avk_13 //</l>\n</lg>\n\n<lg>\n<l>gandhodakaiḥ suśītaiś ca caityapuṃgavaṃ snāpayet /</l>\n<l>gokṣīraiḥ pañcaratnaiś ca śilābhasmābhilepayet // Avk_14 //</l>\n</lg>\n\n<lg>\n<l>catvāraś ca dhvajāḥ sthāpyā vitānaṃ saha cāmaraiḥ /</l>\n<l>digmālā vividhaiḥ puṣpair lambayec ca jinālaye // Avk_15 //</l>\n</lg>\n\n<lg>\n<l>tadanu vratam ārabhya guruṃ vajradharaṃ namet /</l>\n<l>triratnaśaraṇaṃ kṛtvā dhyāpayed dharmadhātukam // Avk_16 //</l>\n</lg>\n\n<lg>\n<l>dharmadhātumayaṃ caityaṃ jinānāṃ gṛham uttamam /</l>\n<l>anādibuddha-m-ākhyātaṃ sarvatathāgatālayam /</l>\n<l>sarvadevālayaṃ caityam ārādhya vratam ācaret // Avk_17 //</l>\n</lg>\n\n<lg>\n<l>sahasradalapadmasthaṃ candrabimbaprabhāsvaram /</l>\n<l>raktaṃ bhoḥkārasaṃbhūtaṃ caturmukhaṃ virājitam // Avk_18 //</l>\n</lg>\n\n<lg>\n<l>raktagauramukhaṃ mūlaṃ dakṣiṇe kuṅkumāruṇam /</l>\n<l>paścime padmaraktaṃ ca [!] uttare pītaraktakam // Avk_19 //</l>\n</lg>\n\n<lg>\n<l>aṣṭabhujaṃ virājantaṃ vāgīśvaraṃ jagadgurum /</l>\n<l>dhanurbāṇadharaṃ dvābhyāṃ pāśāṅkuśadharaṃ tathā /</l>\n<l>prajñāpustaṃ tathā khaḍgaṃ vajraghaṇṭāṃ tathāparaiḥ // Avk_20 //</l>\n</lg>\n\n<lg>\n<l>sarvarasasamāyuktaṃ lalitāsanasaṃsthitam /</l>\n<l>divyābharaṇabhūṣāṅgaṃ pañcabuddhamukūṭinam // Avk_21 //</l>\n</lg>\n\n<lg>\n<l>vāgīśvaraṃ mahāśuklaṃ sarvadharmapratiṣṭhitam /</l>\n<l>evaṃ svahṛdi saṃbhāvya puraḥ sthāpya prapūjayet // Avk_22 //</l>\n</lg>\n\n<lg>\n<l>pādyācamanam arghaṃ ca dattvā bhaktisamanvitaḥ /</l>\n<l>jalajaiḥ sthalajaiḥ puṣpaiḥ sugandhaiḥ pañcagandhakaiḥ // Avk_23 //</l>\n</lg>\n\n<lg>\n<l>sāṃyojikaiḥ sugandhaiś ca sudhūpair dhūpanais tathā /</l>\n<l>ghṛtaprayuktadīpaiś ca naivedyair divyabhojanaiḥ // Avk_24 //</l>\n</lg>\n\n<lg>\n<l>chattradhvajapatākābhir nṛtyagītasuvādanaiḥ /</l>\n<l>phalamūlādibhiḥ pattraiḥ pūgatāmbūlakais tathā // Avk_25 //</l>\n</lg>\n\n<lg>\n<l>nānauṣadhisamāyuktair divyair mānuṣyakais tathā /</l>\n<l>kundapuṣpākṣatair dūrvair lājayā pañcaratnakaiḥ // Avk_26 //</l>\n</lg>\n\n<lg>\n<l>kṣīraiḥ śaṃkhasupuṣpārghaṃ pradadyāc caityapuṃgave /</l>\n<l>dhāraṇīṃ caiva stotraṃ ca paṭhed gītaṃ ca gāyayet // Avk_27 //</l>\n</lg>\n\n<lg>\n<l>pradakṣiṇāsahasraṃ ca yāvat kuryāt pramoditaḥ /</l>\n<l>rātriṃ divā susaṃpūrṇaṃ pracarec ca pradakṣiṇām // Avk_28 //</l>\n</lg>\n\n<p>yatra devālaye tīrthe sarvān devān prapūjayet /\n<l>hīnajātiprasaṅgaṃ ca sparśanaṃ naiva kārayet // Avk_29 /</l>\n<lg>\n<l>sparśite saṃcaret snātvā pañcagavyena śodhayet /</l>\n<l>asparśe 'pi caret snānaṃ trisaṃdhyaṃ saṃcared vratī // Avk_30 //</l>\n</lg></p>\n\n</div>\n<div>\n\n<p>{CD add the following after 'śodhayet' :\nśucikrama tathā dharmam uttamam ahorātravrataṃ //</p>\n\n<p>vāravṛddhau na kartavyaṃ samarthenāpi kārayet //</p>\n\n<p>nidrāsevitaṃ nidrāṃ kṛtvā viśrāmasevitaṃ viśrāmaṃ kṛtvā rājan\ntathā vrataṃ kārayed doṣakam 'sti tasmān na kārayet // Avk_30* //}\n</p>\n</div>\n<div>\n\n<lg>\n<l>ahorātraṃ susaṃpūrṇaṃ na nidrāṃ kārayed vratī /</l>\n<l>caityadhyānasamāyuktaḥ japan stotraṃ paṭhaṃś caret // Avk_31 //</l>\n</lg>\n\n<lg>\n<l>nānāgītamahotsāhair nṛtyair vādyaiḥ sughoṣakaiḥ /</l>\n<l>hāhākāraiḥ samullāsaiḥ kārayet saṃpradakṣiṇām // Avk_32 //</l>\n</lg>\n\n<lg>\n<l>viśrāmaṃ vā na kuryāc ca khedaṃ vā vratamānasaḥ /</l>\n<l>ahorātre susaṃpūrṇe prātaḥ snātvā vrataṃ caret // Avk_33 //</l>\n</lg>\n\n<lg>\n<l>caityapūjāṃ yathā kṛtvā gurupūjāṃ samācaret /</l>\n<l>annaṃ vastraṃ suvarṇaṃ ca vrīhiratnāni bhūṣitān // Avk_34 //</l>\n</lg>\n\n<lg>\n<l>ācāryāya pradātavyā yathāśakti subhaktitaḥ /</l>\n<l>yajñaṃ kuryāt tato vajrī vrataṃ pūrṇaṃ prapūrayet // Avk_35 //</l>\n</lg>\n\n<lg>\n<l>abhiṣekaṃ tato dattvā pañcasūtraṃ ghaṭaṃ tathā /</l>\n<l>pratyekaṃ vratināṃ dattvā āśīrvādyaṃ pradāpayet // Avk_36 //</l>\n</lg>\n\n<lg>\n<l>kaumārīpūjanaṃ kṛtvā śeṣānnaṃ ca prabhuñjayet /</l>\n<l>dadhiśarkarasaṃyuktaṃ pañcāmṛtaṃ subhojanam // Avk_37 //</l>\n</lg>\n\n<lg>\n<l>gaṇacakraṃ tataḥ kuryād vidhijñas tadvidhiṃ yathā /</l>\n<l>ity evaṃ vratarājaṃ tad yaḥ kuryāc chuddhamānasaḥ // Avk_38 //</l>\n</lg>\n\n<lg>\n<l>vipulaṃ bhogam ābhujya sarvasukhasamanvitaḥ /</l>\n<l>paratra sukham āpnoti dharmaloke mahīpate // Avk_39 //</l>\n</lg>\n\n<p>indrapṛṣṭa uvāca /</p>\n\n<lg>\n<l>bhagavan sarvavin nātha punar vaktuṃ tvam arhasi /</l>\n<l>saṃsāre bahudhā jātis teṣāṃ pracāraṇaṃ katham // Avk_40 //</l>\n</lg>\n\n<lg>\n<l>vratapūjāphalaṃ sarvaṃ kālaṃ ca samayaṃ dinam /</l>\n<l>kutra sthāne vrataṃ kāryaṃ tat sarvaṃ vada sāṃpratam // Avk_41 //</l>\n</lg>\n\n<p>vasubandhur uvāca /</p>\n\n<lg>\n<l>śṛṇu rājan mahābhāga saṃkṣepād gaditaṃ mayā /</l>\n<l>svayaṃbhuvo viśeṣeṇa sthāne puṇyaṃ mahottamam // Avk_42 //</l>\n</lg>\n\n<lg>\n<l>tadabhāve svadeśeṣu sthāvare caityapuṃgave /</l>\n<l>tadabhāve svayaṃ kṛtvā kārayitvāparais tathā // Avk_43 //</l>\n</lg>\n\n<lg>\n<l>suvarṇena kṛte vāpi ratnaiś cānyaiś ca dhātubhiḥ /</l>\n<l>pāṣāṇena tathā kāṣṭhair iṣṭikāmṛnmayais tathā // Avk_44 //</l>\n</lg>\n\n<lg>\n<l>vālukaudanapiṇḍena kṛte paṭṭe ca citrite /</l>\n<l>devālaye nadītīre tīrthe puṇye mahītale // Avk_45 //</l>\n</lg>\n\n<lg>\n<l>dharmaśālāṃ viśodhyādau yathāvidhi vrataṃ caret /</l>\n<l>puṣpākṣatasugandhaiś ca vāriṇā caityapuṃgave // Avk_46 //</l>\n</lg>\n\n<lg>\n<l>arghaṃ dadyād raveḥ pūrvaṃ puṣpaṃ kṣipet salājakam /</l>\n<l>maṇḍalaṃ pañcadevānāṃ likhed gomayavāriṇā // Avk_47 //</l>\n</lg>\n\n<lg>\n<l>avandhyākṣarayuktena adbhir vratīn susiñcayet /</l>\n<l>havargāntākṣarair mantrair vratimūrdhni pratiṣṭhitam // Avk_48 //</l>\n</lg>\n\n<lg>\n<l>oṃ āḥ hūm iti mantreṇa diśobandhaṃ satarjitam /</l>\n<l>aṅganyāsaṃ karanyāsaṃ kṛtvā guruṃ ca vandayet // Avk_49 //</l>\n</lg>\n\n<lg>\n<l>puṣpākṣataṃ kare dhṛtvā kṣipet puṣpāñjalitrayam /</l>\n<l>pañcabhūtasamutpannaṃ padmakarṇikasaṃsthitam // Avk_50 //</l>\n</lg>\n\n<lg>\n<l>āvāhayed dharmadhātuṃ vāgīśvaraṃ samujjvalam /</l>\n<l>jñānarūpaṃ samākṛṣya saṃsthāpya samaye 'rcayet // Avk_51 //</l>\n</lg>\n\n<lg>\n<l>āvāhayāmi tvaṃ nātha tiṣṭha tatra manohare /</l>\n<l>sthiro bhava sadā mā gāḥ sāṃnidhyaṃ kuru sthāvare // Avk_52 //</l>\n</lg>\n\n<lg>\n<l>dugdhākṣatāmbusaṃyuktaṃ navaratnāni hāṭakaiḥ /</l>\n<l>śaṅkhasthaṃ pratigṛhṇātu arghaṃ dattaṃ mayā mudā // Avk_53 //</l>\n</lg>\n\n<lg>\n<l>paṭṭavastrāṇi divyāni cīvarāṇi mahāprabho /</l>\n<l>nānāraṅgavicitrāṇi pratigṛhṇātu modatām // Avk_54 //</l>\n</lg>\n\n<lg>\n<l>candanaṃ malayodbhūtaṃ kastūrikuṅkumādikam /</l>\n<l>śaileyaṃ ghanasāraṃ ca gṛhyatām anumodatām // Avk_55 //</l>\n</lg>\n\n<lg>\n<l>jalajān sthalajān divyān pañcavarṇena granthitān /</l>\n<l>sumodavāsanāyuktān puṣpān gṛhya pramodatām // Avk_56 //</l>\n</lg>\n\n<lg>\n<l>dhūpo 'yaṃ ghrāṇasaṃtarpo divyagandhasuyojitaḥ /</l>\n<l>pradattas tava toṣārthaṃ gṛhyatāṃ bhaktavatsala // Avk_57 //</l>\n</lg>\n\n<lg>\n<l>dīpo 'yaṃ harati dhvāntaṃ sarvatimiranāśakaḥ /</l>\n<l>ghṛtatailasamujjvālo mayā dattaḥ pragṛhyatām // Avk_58 //</l>\n</lg>\n\n<lg>\n<l>annaṃ caturvidhaṃ nātha rasānāṃ ṣaḍvidhaṃ tathā /</l>\n<l>ghṛtādyān śarkarāhārān bhuñjatāṃ ca sukhaṃ mama // Avk_59 //</l>\n</lg>\n\n<lg>\n<l>nānāphalasumodyaṃ ca koṣakāraṇḍavādikam /</l>\n<l>skandhamūlādikaṃ pattraṃ gṛhāṇa pratimodatām // Avk_60 //</l>\n</lg>\n\n<lg>\n<l>tāmbūlapūgasaṃyuktaṃ karpūranirmalāni ca /</l>\n<l>divyauṣadhigaṇādīni gṛhyatāṃ hitakāṅkṣayā // Avk_61 //</l>\n</lg>\n\n<lg>\n<l>lājākṣataphalārcaiva dūrvākundāni bhaktitaḥ /</l>\n<l>prakṣiptāni mayā tubhyaṃ gṛhāṇa hitamānasaḥ // Avk_62 //</l>\n</lg>\n\n<lg>\n<l>sauvarṇādikṛtaṃ chattraṃ dhvajāni vividhāni ca /</l>\n<l>patākādīni sarvāṇi pragṛhya jina modatām // Avk_63 //</l>\n</lg>\n\n<lg>\n<l>dhīmān pujāṃ tathā kṛtva stotram evaṃ ca kārayet /</l>\n<l>jinendratoṣaṇārthāya kārayec ca pradakṣiṇām // Avk_64 //</l>\n</lg>\n\n<lg>\n<l>dharmadhātumayaṃ caityaṃ sarvalokasvarūpiṇam /</l>\n<l>ālayaṃ sarvabuddhānāṃ jinadhātuṃ namāmy aham // Avk_65 //</l>\n</lg>\n\n<lg>\n<l>namas te jinadhātūnāṃ pratyakṣaṃ samalīlayā /</l>\n<l>triyānasamayānandaṃ satataṃ tvāṃ samāśraye // Avk_66 //</l>\n</lg>\n\n<lg>\n<l>jinajaṃ sakalasthaṃ ca puṇyakṣetraṃ namāmy aham /</l>\n<l>pavitrajanasukhārthaṃ sevitārthapradāyakam // Avk_67 //</l>\n</lg>\n\n<lg>\n<l>praṇamāmi muniśreṣṭhaṃ maṅgalārthapradāyakam /</l>\n<l>janānāṃ bhayahantāraṃ lokanāthaṃ maheśvaram // Avk_68 //</l>\n</lg>\n\n<lg>\n<l>devatāḥ sarvalokasthāḥ saṃbhūtā jinamaṇḍale /</l>\n<l>dadyāt tebhyo baliṃ tuṣṭyā pūjābhaktyarcanair ataḥ // Avk_69 //</l>\n</lg>\n\n</div>\n<div>\n\n<p>{CD add the following after vs. 69\nśaucasobhanādikaṃ kṛtvā vratinaḥ\nmaurikuṇḍalasarvābharaṇagāṃgopayādivastra śobhayen mālāpuṣpa\nlohayen maṇḍalī prajvālayen vistareṇopaḍoṣita\ngandhāya te 'grata dhūpayet sarvapāpaprasamanaṃ bhavati}\n</p>\n</div>\n<div>\n\n<lg>\n<l>bahumaṅgalavādyais ca chattrasindūrapātrayā /</l>\n<l>ācāryaḥ svastivākyaiś ca kārayec ca mahotsavam // Avk_70 //</l>\n</lg>\n\n<lg>\n<l>aśvinīpūrṇamāsyāṃ tu (...) ravivāsare /</l>\n<l>āyuṣmatīyute yoge praśastaś ca viśeṣataḥ // Avk_71 //</l>\n</lg>\n\n<lg>\n<l>yaḥ prakuryād vrataṃ tasmin vipulaṃ bhogam āpnuyāt /</l>\n<l>paratra sukhasaṃprāpto jinaloke mahīpate // Avk_72 //</l>\n</lg>\n\n<lg>\n<l>śṛṇu rājan mahābhāga vakṣye pūjāphalaṃ punaḥ /</l>\n<l>yena saṃsthāpitaṃ caityaṃ vītaśoko bhaved asau /</l>\n<l>māyāmohavinirmuktas trimalenāviliptitaḥ // Avk_73 //</l>\n</lg>\n\n<lg>\n<l>pañcāmṛtaiś candanagandhagarbhair ye snāpayantī jinacaityabimbam /</l>\n<l>mandākinītoyasugandhagandhais te cāpsarobhī ratim āvahanti // Avk_74 //</l>\n</lg>\n\n<lg>\n<l>ye dhūpayanti kṣaṇam atra lokāḥ śokā na teṣāṃ prabhavanti jātu /</l>\n<l>surāsuraiḥ pūjitapādapadmāḥ sugandhamālyāmbarabhūṣitāṅgāḥ // Avk_75 //</l>\n</lg>\n\n<lg>\n<l>sugandham asmā upaḍhaukayanti prasannacittā manujā ajasram /</l>\n<l>sugandhidehā ravibhānudīptā bhavanti lokāḥ paramārthalokāḥ // Avk_76 //</l>\n</lg>\n\n<lg>\n<l>ye kuṅkumādyai racitaṃ suvastraṃ dadanti ye caityatathāgatebhyaḥ /</l>\n<l>śītārtiduḥkhaṃ na hi jātu teṣāṃ taddhetutaḥ koṣaviśālasāram // Avk_77 //</l>\n</lg>\n\n<lg>\n<l>aśeṣapuṣpaṃ jalajaṃ bhavantaṃ śvetāruṇaśyāmasupītakṛṣṇam /</l>\n<l>samantabhadrāya viśālavaṃśam ārogyasaukhyaṃ prabhavanti dānāt // Avk_78 //</l>\n</lg>\n\n<lg>\n<l>śraddhāratā ye manujā udārair mālāsugandhair bahupuṣpayuktaiḥ /</l>\n<l>caranti pūjāṃ bahubhaktitas te samastasaukhyāni labhanti loke // Avk_79 //</l>\n</lg>\n\n<lg>\n<l>netrābhirāmā bahuratnakoṣā narādhipair arcitapādapadmāḥ /</l>\n<l>jñānapradīpāhatamohajālā ye dīpamālā racayanti buddhe // Avk_80 //</l>\n</lg>\n\n<lg>\n<l>naivedyam asmai pradadāti loke yo bhaktiyuktaḥ surasaṃ sugandhim /</l>\n<l>balī viśiṣṭo naracakracūḍāmaṇyarcitāṅghrī nṛpasevyamānaḥ // Avk_81 //</l>\n</lg>\n\n<lg>\n<l>phalamūlādikaṃ dattvā caityeṣu bhaktimānasaḥ /</l>\n<l>yatheṣṭaṃ phalam āpnoti nirogī sukhavān sadā // Avk_82 //</l>\n</lg>\n\n<lg>\n<l>rogādibhiḥ prabaladuḥkhakarair vimuktāḥ snigdhānanāḥ kanakatulyamanojñavarṇāḥ /</l>\n<l>rājyaṃ hi yad vigatakaṇṭakam āpnuvanti bhaiṣajyadānavidhinā tad uśanti caitye // Avk_83 //</l>\n</lg>\n\n<lg>\n<l>tāmbūlādigaṇaṃ dattvā rūpavān sukhavāñ chuciḥ /</l>\n<l>divyāṅganā manohārī rājalakṣmīm avāpnuyāt // Avk_84 //</l>\n</lg>\n\n<lg>\n<l>vitānam uccair vitanoti caitye dhanyas triloke paripūjanīyaḥ /</l>\n<l>viśālavaṃśo guṇarakṣaṇīyo jāto mahādīptaśarīrabhāsaḥ // Avk_85 //</l>\n</lg>\n\n<lg>\n<l>dhvajān patākān abhiropayanti ye caityabimbe khalu bhaktiyuktāḥ /</l>\n<l>mahīśvarās te jitaduṣṭasaṃghā bhavanti nāthā divi bhūtale ca // Avk_86 //</l>\n</lg>\n\n<lg>\n<l>chattrāṇi nānāmaṇibhir mahārhaiḥ saṃpādayanty āttamanā dadanti /</l>\n<l>caityeṣu bhūmīśvaravṛndavandyāḥ śrīsaṃyutā dharmaratā bhavanti // Avk_87 //</l>\n</lg>\n\n<lg>\n<l>vīṇādibhir ghaṇṭamṛdaṅgavādyaiḥ śṛṅgaiś ca śaṅkhādisudivyaghoṣaiḥ /</l>\n<l>saṃghoṣaṇāṃ ye vitaranti caitye te 'bhijñayā pañcabhir āśrayante // Avk_88 //</l>\n</lg>\n\n<lg>\n<l>mahotsāhakarair gītaiḥ sumanojñasvarair jine /</l>\n<l>nṛtyaṃ ca kārayen nityaṃ kuryāc ca divyaghoṣaṇām // Avk_89 //</l>\n</lg>\n\n<lg>\n<l>te narāḥ susvarā bhonti sundarā divi bhūtale /</l>\n<l>divyaśrotrā mahāvijñāḥ suśabdaṃ śṛṇuyuḥ sadā // Avk_90 //</l>\n</lg>\n\n<lg>\n<l>nṛtyagītādikaṃ kṛtvā caityabimbe jinālaye /</l>\n<l>vandyamānāḥ sugotrāś ca niṣpāpāś ca bahuśrutāḥ // Avk_91 //</l>\n</lg>\n\n<lg>\n<l>dīrghāyuṣkāḥ sahasrākṣā nirāpadāḥ guṇāśrayāḥ /</l>\n<l>grahavyādhivimuktāṅgā bhavanti te śubhākarāḥ // Avk_92 //</l>\n</lg>\n\n<lg>\n<l>trāsāya duṣṭasattvānāṃ rakṣārthaṃ ca jinālaye /</l>\n<l>śastrahastāḥ sthitā ye ca jinabhaktisamanvitāḥ // Avk_93 //</l>\n</lg>\n\n<lg>\n<l>āyuṣmanto nirogāś ca putrapautrīsamanvitāḥ /</l>\n<l>bhāgyavanto dhanāḍhyāś ca gacchanty ante jinālayam // Avk_94 //</l>\n</lg>\n\n<lg>\n<l>dūrvākundākṣatān puṣpān lājayā saha bhaktimān /</l>\n<l>prakṣipej jinacaityeṣu svastivākyam udāharan // Avk_95 //</l>\n</lg>\n\n<lg>\n<l>durgatiṃ nābhijānāti sukulī lokanandanaḥ /</l>\n<l>sarvavidyāgurur vandyaś cānte mokṣam avāpnuyāt // Avk_96 //</l>\n</lg>\n\n<lg>\n<l>ye ramamuktāmaṇivajrahemaṃ rūpyaṃ suvarṇādikadhātudānāt /</l>\n<l>vinaṣṭaśokāḥ subhagāḥ suvaṃśāḥ pūrṇendriyāḥ pūrṇamanorathāḥ syuḥ // Avk_97 //</l>\n</lg>\n\n<lg>\n<l>ye śuddhacittāḥ stutim ācaranti gadyātmikāṃ padyamayīṃ vicitrām /</l>\n<l>te śabdasaṃghān bahuvādyajātān śṛṇvanti gītān surabhāminīnām // Avk_98 //</l>\n</lg>\n\n<lg>\n<l>yāvatī bhūmir ākrāntā hy adhaḥ kāñcanacakrataḥ /</l>\n<l>yojanānāṃ sahasrāṇi rāśibhyaḥ parikīrtitāḥ // Avk_99 //</l>\n</lg>\n\n<lg>\n<l>yāvatyo vālukās tatra tāvatyaḥ parisaṃkhyayā /</l>\n<l>rājā bhavati vīreśaś cakravartī mahītale // Avk_100 //</l>\n</lg>\n\n<lg>\n<l>ye jātamātrāḥ prabhutāṃ prayānti śreṣṭhīkule janma sadaiva yeṣām /</l>\n<l>hastyaśvayānaiś ca paribhramanti kṛtvātra te caityavarapraṇāmam // Avk_101 //</l>\n</lg>\n\n<lg>\n<l>akāra-m-ādyakṣaramantrarājair balyūpahāraṃ khalu yo hi dadyāt /</l>\n<l>tasmai sudevāḥ sagaṇāḥ sutṛptā dāsyanti satkarmaphalābhilāṣam // Avk_102 //</l>\n</lg>\n\n<lg>\n<l>yasmin sudhālepam udācaranti te rogaśokādivimuktadehāḥ /</l>\n<l>dhaneśvarā dīrghatarāyuṣas te narāmarāṇāṃ subhagā bhavanti // Avk_103 //</l>\n</lg>\n\n<lg>\n<l>ye buddham uddiśya mahānti nityaṃ kurvanti mṛdgomayalepanāni /</l>\n<l>bhaktyā suśuddhā jalamaṇḍalaṃ vā labhanti te rājabalaṃ subhāgyāḥ // Avk_104 //</l>\n</lg>\n\n<lg>\n<l>stūpāṅgaṇaṃ dhātuvaraṃ vihāraṃ ye śodhayantīha narāḥ prayatnaiḥ /</l>\n<l>nirmālyam ebhyaś ca samuddharanti te hemavarṇāḥ sudṛśo bhavanti // Avk_105 //</l>\n</lg>\n\n<lg>\n<l>pradakṣiṇāṃ ye vitaranti tasmin bhavanti jātismaralābhinas te /</l>\n<l>suvarṇavarṇā bahuputrapautrāḥ pūjyā manuṣyāmaranāthasaṃgḥaiḥ // Avk_106</l>\n</lg>\n<lg>\n<l>ālasyenāpi yaḥ kuryāj jinālayapradakṣiṇām /</l>\n<l>pade pade suvarṇaikakarṣadānaphalaṃ labhet // Avk_107 //</l>\n</lg>\n\n<lg>\n<l>brahmakṣatriyavaiśyānāṃ sacchūdrāṇāṃ prapūjanam /</l>\n<l>tebhyo vihīnajātīnām adhikāro na pūjane // Avk_108 //</l>\n</lg>\n\n<lg>\n<l>gandhapuṣpadvijātīnāṃ ... ca pūjayet /</l>\n<l>gandhapuṣpadvijātīnāṃ viśeṣeṇa prakathyate // Avk_109 //</l>\n</lg>\n\n<lg>\n<l>chattrāvarohaṇaṃ rājñāṃ vaiśyānāṃ tv annaḍhaukane /</l>\n<l>dhvajapātākavastreṣu śudrāṇāṃ ca pracakṣyate // Avk_110 //</l>\n</lg>\n\n<lg>\n<l>svarṇakārā lohakārāḥ kāṃsyakṛtkṛṣikādayaḥ /</l>\n<l>eteṣāṃ ceha hastena caityapuṃgavapūjanam // Avk_111 //</l>\n</lg>\n\n<lg>\n<l>taṇḍulī vyañjanī cāpi krayavikrayakāriṇaḥ /</l>\n<l>etaiḥ svavṛttivastūni ḍhaukanīyāni bhaktitaḥ // Avk_112 //</l>\n</lg>\n\n<lg>\n<l>śaulinī dhvananavartī māṃsavartī tathā surī /</l>\n<l>etair dīpaḥ pradātavyaḥ kuladharmapramāṇataḥ // Avk_113 //</l>\n</lg>\n\n<lg>\n<l>carmakāraś ca mātaṅgo niyogī rajako dhvajī /</l>\n<l>etaiś ca dūrataḥ sthitvā vandanīyo jinālayaḥ // Avk_114 //</l>\n</lg>\n\n<lg>\n<l>ṣaṭtriṃśajjātibhir evaṃ svakulavṛtticāraṇaiḥ /</l>\n<l>anyaiś ca vividhair nityaṃ pūjyo mānyo jinālayaḥ // Avk_115 //</l>\n</lg>\n\n<lg>\n<l>yeṣāṃ vratavikāro na pūjane jinapuṃgave /</l>\n<l>etaiḥ pradakṣiṇāṃ kṛtvā vandanīyaḥ svabhaktitaḥ // Avk_116 //</l>\n</lg>\n\n<lg>\n<l>evaṃ bhūyaś cared dharmī vratarājam aharniśam /</l>\n<l>tasya puṇyaṃ yathā proktaṃ kuṣṭhavyādhikṣayaṃ vrajet // Avk_117 //</l>\n</lg>\n\n<lg>\n<l>pañcānantaryapāpāni yāsyanty api na saṃśayaḥ /</l>\n<l>kiṃ punaś cānyapāpāni janmāntarakṛtāny api // Avk_118 //</l>\n</lg>\n\n<lg>\n<l>na hī sa vidyate rājan sarvatra bhuvaneṣv api /</l>\n<l>ahorātravrataṃ puṇyaṃ yo 'nyathātvaṃ kariṣyati // Avk_119 //</l>\n</lg>\n\n<lg>\n<l>śravād api haret pāpaṃ darśanāt puṇyam āpnuyāt /</l>\n<l>anumodāt tathā caivaṃ vratināṃ tu kim ucyate // Avk_120 //</l>\n</lg>\n\n<lg>\n<l>vratināṃ saptabhāgāni kṛtvā puṇyaṃ viśāradaḥ /</l>\n<l>ekabhāgaṃ labhed rājā caikaṃ tu sārathījanaḥ /</l>\n<l>sarvasattvasya caikaṃ hi tac cheṣaṃ labhate vratī // Avk_121 //</l>\n</lg>\n\n<p>iti śrutvā guror vākyam indrapṛṣṭo mahāprabhuḥ //</p>\n\n<l>tataḥ sattvahitārthāya vrataṃ kartuṃ samudyataḥ // Avk_122 //</l>\n\n<lg>\n<l>vārāṇasīpuraṃ gatvā vasubandhuvaco yathā /</l>\n<l>vihāraṃ ca pratiṣṭhāpya caityarājaṃ jinālayam /</l>\n<l>saṃghabhojyaṃ tataḥ kṛtvā yayau svargaṃ janaiḥ sudhīḥ // Avk_123 //</l>\n</lg>\n\n<p>tato bhikṣavo bhagavantam etad ūcuḥ /</p>\n\n<lg>\n<l>bhagavan muniśārdūla punar vaktuṃ tvam arhasi /</l>\n<l>kena kena purā nātha vratarājam idaṃ kṛtam // Avk_124 //</l>\n</lg>\n\n<p>bhagavān āha /</p>\n\n<lg>\n<l>purā svargeṣu śakreṇa ahorātravrataṃ kṛtam /</l>\n<l>sa ṣaṭpāramitāṃ dhārya caityarājam apūjayat /</l>\n<l>pradakṣiṇāṃ sadā kṛtvā yathāvidhi mahotsavaiḥ // Avk_125 //</l>\n</lg>\n\n<lg>\n<l>pātāle ca purā vīro daityendro balavān abhūt /</l>\n<l>nirghoṣadamano nāma devāsurapramardakaḥ // Avk_126 //</l>\n</lg>\n\n<lg>\n<l>indraṃ svarge nirākṛtya pṛthivīm avadhāritam /</l>\n<l>tenāsurasahāyena trailokyaṃ svavaśe kṛtam // Avk_127 //</l>\n</lg>\n\n<lg>\n<l>pṛthivīmaṇḍalaṃ gatvā gato 'sau maghavatpurim /</l>\n<l>indrapṛṣṭamahāsthāne devatāpratimāṃ sthitām /</l>\n<l>pañcapradakṣiṇāṃ kṛtvā prajñāpārasthito 'bhavat // Avk_128 //</l>\n</lg>\n\n<lg>\n<l>pātāleṣu punar gatvā so 'carat tad vratottamam /</l>\n<l>nāginyo nāgarājāś ca pātāleṣv acaraṃs tathā // Avk_129 //</l>\n</lg>\n\n<lg>\n<l>nāgaiḥ phaṇavibhūṣābhir devanāgendrakalpitam /</l>\n<l>pūjitaṃ satataṃ bhaktyā caityarājaṃ vidhānataḥ // Avk_130 //</l>\n</lg>\n\n<lg>\n<l>ṛṣayaś ca purā sapta jalāśrayapratiṣṭhitam /</l>\n<l>pupūjuḥ jinadhātusthaṃ vidhibhiś ca viśāradāḥ // Avk_131 //</l>\n</lg>\n\n<lg>\n<l>nāginyo viṣadarpāndhāḥ pūjyamānāñ jinālayam /</l>\n<l>tāpitān kārayām āsur viṣāṅgāraiḥ pradāhanaiḥ // Avk_132 //</l>\n</lg>\n\n<lg>\n<l>tatas taiḥ śāpitā evaṃ nāginyaḥ śambukāḥ khalu /</l>\n<l>bhavadhvaṃ saptajanmāni punaś caityasya sevakāḥ // Avk_133 //</l>\n</lg>\n\n<lg>\n<l>tataś cānte punaḥ prāpya mānuṣyaṃ puṇyabhāvataḥ /</l>\n<l>eṣā sā nāyakā yā tu dharmadakṣaṃ patiṃ labhet // Avk_134 //</l>\n</lg>\n\n<lg>\n<l>tatas ta vañcitāḥ sarvāḥ śambukā dharmamānasāḥ /</l>\n<l>dhānyāṃ pradakṣiṇāṃ cakrur bhāvayantyo jinālayam // Avk_135 //</l>\n</lg>\n\n<lg>\n<l>tataḥ puṇyānubhāvena devyaḥ saptakumārikāḥ /</l>\n<l>bhūtā rājasutā dhanyāḥ prālabhan paramaṃ padam // Avk_136 //</l>\n</lg>\n\n<lg>\n<l>tāsām ekā vratī nāmnā dharmadakṣapativratā /</l>\n<l>tasyāḥ puṇyaprabhāvena dharmadakṣo 'labhad vratam // Avk_137 //</l>\n</lg>\n\n<lg>\n<l>dharmadakṣo mahārājā yathāvidhi vrataṃ caran /</l>\n<l>bhāryayā saha dharmātmā sukhāvatyāṃ mahīpatiḥ // Avk_138 //</l>\n</lg>\n\n<lg>\n<l>ity evaṃ bhikṣavo jñātvā vratānāṃ vratam uttamam /</l>\n<l>caityasevā sadā kāryā vratapuṇyapracāraṇaiḥ // Avk_139 //</l>\n</lg>\n\n<lg>\n<l>caityavratasamaṃ puṇyaṃ nāsti satyaṃ tribhūvane /</l>\n<l>tasmāc caityaḥ sadā vandyaḥ pūjanīyaḥ prayatnataḥ // Avk_140 //</l>\n</lg>\n\n<p>ity ahoratravratakathā</p>\n\n  </div>\n</body>\n\n"
+  "file_title": "ahoratravratakathā",
+  "file_title_normal": "ahoratravratakatha",
+  "metadata": {
+    "original_title": "Ahoratravratakathā",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "R. Handurukande, Three Sanskrit Texts on Caitya Worship ḥ In Relation to the Ahorātravrata, Tokyo 2000 (Studia Philologica Buddhica, Monograph Series, 16)."
+  },
+  "body": [
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "Ahorātravratakathā"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "Oṃ namaḥ śrīdharmadhātave /"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ākāśanirmalo bhūto niṣprapañcaguṇāśrayaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pañcaskandhātmakaḥ śāntas tasmai stūpātmane namaḥ // Avk_1 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "evaṃ mayā śrutam ekasmin samaye buddho bhagavāñ chrāvastyāṃ viharati sma jetavane 'nāthapiṇḍadasyārāme mahatā bhikṣusaṃghena sārdham anekair devanāgayakṣagandharvāsuragaruḍakinnaramahoragaiḥ sthavirabhikṣuvītarāgasaṃghair bodhisattvaśatasahasraiḥ saṃbahulaiś ca śrāvakair daśabhir lokapālaiś caturmahārājakāyikair anekaiś caturvarṇakair manuṣyair anekaśatasahasraiḥ parivāraiḥ parivṛtaiḥ / tasmin sabhāmaṇḍale sarve dharmaśravaṇikā lokā bhagavantam abhivīkṣya caityavratakathām anudhyāyantaḥ samāsthitāḥ / atha khalu subhūtiḥ sthaviraḥ svāsanāt samutthāyaikāṃsam uttarāsaṅgaṃ kṛtvā triḥ pradakṣiṇīkṛtya savyajānubimbaṃ bhuvi sthāpya bhagavantaṃ praṇamyaitad avocat /"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ahorātravrataṃ nātha kasmin kāle pravartate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tadvidhiṃ ca kathaṃ brūhi tat sarvaṃ jagatāṃ prabho // Avk_2 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "bhagavān āha /"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sādhu sādhu subhūte tvaṃ śṛṇu sattvānukampaka /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ahorātravrataṃ nityaṃ tadvidhiṃ kathitaṃ mayā // Avk_3 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "āsīt pūrvavideheṣu nāmnā gandhavatī purī /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasyāṃ rājā mahātejā indrapṛṣṭo mahāprabhuḥ // Avk_4 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "so 'ntaḥpure sabhāṃ kṛtvā vasubandhuṃ jagadgurum /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "praṇamya sahasotthāya papraccha vidhivan mudā // Avk_5 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śrotum icchāmi tat sarvaṃ yad vratānāṃ samuttamam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yasya puṇyaprabhāvena sattvā yānti sunirvṛtim // Avk_6 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tat sarvaṃ gadatāṃ dhīra sarvasattvānukampaka /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhavatā cānupālyo 'yaṃ lokaś ca duṣkṛtākulaḥ // Avk_7 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "vasubandhur uvāca /"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śṛṇu rājan mayā khyātaṃ vratānāṃ vratam uttamam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ahorātravrataṃ pūrvaṃ vipaśyinā prabhāṣitam // Avk_8 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aśvinīpūrṇamāsyāṃ tu vrataṃ kuryād mahodayam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "caityaṃ saṃpūjayec chuddhaḥ ṣoḍaśair vidhibhis tathā // Avk_9 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhojanānte trayodaśyāṃ kuryād dantādiśodhanam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "caturdaśyāṃ viśeṣeṇa kṣurakarmāṇi kārayet // Avk_10 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "snānaṃ kṛtvā ca tīrtheṣu śucivastrāvṛtaḥ sudhīḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "madhyāhne pūjayec caityaṃ pradīpaṃ ca pradāpayet // Avk_11 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sūrye ṣaṣṭhagate bhāge prāśayec ca kṣīrodanam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "punar śaucādikaṃ kṛtvā dharmaṃ ca śruṇuyān mudā // Avk_12 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pratyūṣe pūrṇamāsyāṃ tu snātvā vrataṃ samārabhet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ādau bhūmitalaṃ śodhya dharmaśālāṃ prakārayet // Avk_13 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gandhodakaiḥ suśītaiś ca caityapuṃgavaṃ snāpayet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gokṣīraiḥ pañcaratnaiś ca śilābhasmābhilepayet // Avk_14 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "catvāraś ca dhvajāḥ sthāpyā vitānaṃ saha cāmaraiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "digmālā vividhaiḥ puṣpair lambayec ca jinālaye // Avk_15 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tadanu vratam ārabhya guruṃ vajradharaṃ namet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "triratnaśaraṇaṃ kṛtvā dhyāpayed dharmadhātukam // Avk_16 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dharmadhātumayaṃ caityaṃ jinānāṃ gṛham uttamam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "anādibuddha-m-ākhyātaṃ sarvatathāgatālayam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvadevālayaṃ caityam ārādhya vratam ācaret // Avk_17 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sahasradalapadmasthaṃ candrabimbaprabhāsvaram /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "raktaṃ bhoḥkārasaṃbhūtaṃ caturmukhaṃ virājitam // Avk_18 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "raktagauramukhaṃ mūlaṃ dakṣiṇe kuṅkumāruṇam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "paścime padmaraktaṃ ca [!] uttare pītaraktakam // Avk_19 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aṣṭabhujaṃ virājantaṃ vāgīśvaraṃ jagadgurum /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhanurbāṇadharaṃ dvābhyāṃ pāśāṅkuśadharaṃ tathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prajñāpustaṃ tathā khaḍgaṃ vajraghaṇṭāṃ tathāparaiḥ // Avk_20 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvarasasamāyuktaṃ lalitāsanasaṃsthitam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "divyābharaṇabhūṣāṅgaṃ pañcabuddhamukūṭinam // Avk_21 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vāgīśvaraṃ mahāśuklaṃ sarvadharmapratiṣṭhitam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "evaṃ svahṛdi saṃbhāvya puraḥ sthāpya prapūjayet // Avk_22 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pādyācamanam arghaṃ ca dattvā bhaktisamanvitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jalajaiḥ sthalajaiḥ puṣpaiḥ sugandhaiḥ pañcagandhakaiḥ // Avk_23 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sāṃyojikaiḥ sugandhaiś ca sudhūpair dhūpanais tathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ghṛtaprayuktadīpaiś ca naivedyair divyabhojanaiḥ // Avk_24 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "chattradhvajapatākābhir nṛtyagītasuvādanaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "phalamūlādibhiḥ pattraiḥ pūgatāmbūlakais tathā // Avk_25 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nānauṣadhisamāyuktair divyair mānuṣyakais tathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kundapuṣpākṣatair dūrvair lājayā pañcaratnakaiḥ // Avk_26 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kṣīraiḥ śaṃkhasupuṣpārghaṃ pradadyāc caityapuṃgave /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhāraṇīṃ caiva stotraṃ ca paṭhed gītaṃ ca gāyayet // Avk_27 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pradakṣiṇāsahasraṃ ca yāvat kuryāt pramoditaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rātriṃ divā susaṃpūrṇaṃ pracarec ca pradakṣiṇām // Avk_28 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "yatra devālaye tīrthe sarvān devān prapūjayet /",
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "hīnajātiprasaṅgaṃ ca sparśanaṃ naiva kārayet // Avk_29 /"
+            },
+            {
+              "tag": "lg",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "l",
+                  "attributes": {},
+                  "text": "sparśite saṃcaret snātvā pañcagavyena śodhayet /"
+                },
+                {
+                  "tag": "l",
+                  "attributes": {},
+                  "text": "asparśe 'pi caret snānaṃ trisaṃdhyaṃ saṃcared vratī // Avk_30 //"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "{CD add the following after 'śodhayet' :\nśucikrama tathā dharmam uttamam ahorātravrataṃ //"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "vāravṛddhau na kartavyaṃ samarthenāpi kārayet //"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "nidrāsevitaṃ nidrāṃ kṛtvā viśrāmasevitaṃ viśrāmaṃ kṛtvā rājan\ntathā vrataṃ kārayed doṣakam 'sti tasmān na kārayet // Avk_30* //}"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ahorātraṃ susaṃpūrṇaṃ na nidrāṃ kārayed vratī /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "caityadhyānasamāyuktaḥ japan stotraṃ paṭhaṃś caret // Avk_31 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nānāgītamahotsāhair nṛtyair vādyaiḥ sughoṣakaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "hāhākāraiḥ samullāsaiḥ kārayet saṃpradakṣiṇām // Avk_32 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "viśrāmaṃ vā na kuryāc ca khedaṃ vā vratamānasaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ahorātre susaṃpūrṇe prātaḥ snātvā vrataṃ caret // Avk_33 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "caityapūjāṃ yathā kṛtvā gurupūjāṃ samācaret /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "annaṃ vastraṃ suvarṇaṃ ca vrīhiratnāni bhūṣitān // Avk_34 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ācāryāya pradātavyā yathāśakti subhaktitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yajñaṃ kuryāt tato vajrī vrataṃ pūrṇaṃ prapūrayet // Avk_35 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "abhiṣekaṃ tato dattvā pañcasūtraṃ ghaṭaṃ tathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pratyekaṃ vratināṃ dattvā āśīrvādyaṃ pradāpayet // Avk_36 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kaumārīpūjanaṃ kṛtvā śeṣānnaṃ ca prabhuñjayet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dadhiśarkarasaṃyuktaṃ pañcāmṛtaṃ subhojanam // Avk_37 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gaṇacakraṃ tataḥ kuryād vidhijñas tadvidhiṃ yathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ity evaṃ vratarājaṃ tad yaḥ kuryāc chuddhamānasaḥ // Avk_38 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vipulaṃ bhogam ābhujya sarvasukhasamanvitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "paratra sukham āpnoti dharmaloke mahīpate // Avk_39 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "indrapṛṣṭa uvāca /"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhagavan sarvavin nātha punar vaktuṃ tvam arhasi /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃsāre bahudhā jātis teṣāṃ pracāraṇaṃ katham // Avk_40 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vratapūjāphalaṃ sarvaṃ kālaṃ ca samayaṃ dinam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kutra sthāne vrataṃ kāryaṃ tat sarvaṃ vada sāṃpratam // Avk_41 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "vasubandhur uvāca /"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śṛṇu rājan mahābhāga saṃkṣepād gaditaṃ mayā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svayaṃbhuvo viśeṣeṇa sthāne puṇyaṃ mahottamam // Avk_42 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tadabhāve svadeśeṣu sthāvare caityapuṃgave /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tadabhāve svayaṃ kṛtvā kārayitvāparais tathā // Avk_43 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "suvarṇena kṛte vāpi ratnaiś cānyaiś ca dhātubhiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pāṣāṇena tathā kāṣṭhair iṣṭikāmṛnmayais tathā // Avk_44 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vālukaudanapiṇḍena kṛte paṭṭe ca citrite /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "devālaye nadītīre tīrthe puṇye mahītale // Avk_45 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dharmaśālāṃ viśodhyādau yathāvidhi vrataṃ caret /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "puṣpākṣatasugandhaiś ca vāriṇā caityapuṃgave // Avk_46 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "arghaṃ dadyād raveḥ pūrvaṃ puṣpaṃ kṣipet salājakam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "maṇḍalaṃ pañcadevānāṃ likhed gomayavāriṇā // Avk_47 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "avandhyākṣarayuktena adbhir vratīn susiñcayet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "havargāntākṣarair mantrair vratimūrdhni pratiṣṭhitam // Avk_48 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "oṃ āḥ hūm iti mantreṇa diśobandhaṃ satarjitam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aṅganyāsaṃ karanyāsaṃ kṛtvā guruṃ ca vandayet // Avk_49 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "puṣpākṣataṃ kare dhṛtvā kṣipet puṣpāñjalitrayam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pañcabhūtasamutpannaṃ padmakarṇikasaṃsthitam // Avk_50 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "āvāhayed dharmadhātuṃ vāgīśvaraṃ samujjvalam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jñānarūpaṃ samākṛṣya saṃsthāpya samaye 'rcayet // Avk_51 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "āvāhayāmi tvaṃ nātha tiṣṭha tatra manohare /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sthiro bhava sadā mā gāḥ sāṃnidhyaṃ kuru sthāvare // Avk_52 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dugdhākṣatāmbusaṃyuktaṃ navaratnāni hāṭakaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śaṅkhasthaṃ pratigṛhṇātu arghaṃ dattaṃ mayā mudā // Avk_53 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "paṭṭavastrāṇi divyāni cīvarāṇi mahāprabho /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nānāraṅgavicitrāṇi pratigṛhṇātu modatām // Avk_54 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "candanaṃ malayodbhūtaṃ kastūrikuṅkumādikam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śaileyaṃ ghanasāraṃ ca gṛhyatām anumodatām // Avk_55 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jalajān sthalajān divyān pañcavarṇena granthitān /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sumodavāsanāyuktān puṣpān gṛhya pramodatām // Avk_56 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhūpo 'yaṃ ghrāṇasaṃtarpo divyagandhasuyojitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pradattas tava toṣārthaṃ gṛhyatāṃ bhaktavatsala // Avk_57 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dīpo 'yaṃ harati dhvāntaṃ sarvatimiranāśakaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ghṛtatailasamujjvālo mayā dattaḥ pragṛhyatām // Avk_58 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "annaṃ caturvidhaṃ nātha rasānāṃ ṣaḍvidhaṃ tathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ghṛtādyān śarkarāhārān bhuñjatāṃ ca sukhaṃ mama // Avk_59 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nānāphalasumodyaṃ ca koṣakāraṇḍavādikam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "skandhamūlādikaṃ pattraṃ gṛhāṇa pratimodatām // Avk_60 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tāmbūlapūgasaṃyuktaṃ karpūranirmalāni ca /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "divyauṣadhigaṇādīni gṛhyatāṃ hitakāṅkṣayā // Avk_61 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "lājākṣataphalārcaiva dūrvākundāni bhaktitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prakṣiptāni mayā tubhyaṃ gṛhāṇa hitamānasaḥ // Avk_62 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sauvarṇādikṛtaṃ chattraṃ dhvajāni vividhāni ca /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "patākādīni sarvāṇi pragṛhya jina modatām // Avk_63 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhīmān pujāṃ tathā kṛtva stotram evaṃ ca kārayet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jinendratoṣaṇārthāya kārayec ca pradakṣiṇām // Avk_64 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dharmadhātumayaṃ caityaṃ sarvalokasvarūpiṇam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ālayaṃ sarvabuddhānāṃ jinadhātuṃ namāmy aham // Avk_65 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "namas te jinadhātūnāṃ pratyakṣaṃ samalīlayā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "triyānasamayānandaṃ satataṃ tvāṃ samāśraye // Avk_66 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jinajaṃ sakalasthaṃ ca puṇyakṣetraṃ namāmy aham /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pavitrajanasukhārthaṃ sevitārthapradāyakam // Avk_67 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "praṇamāmi muniśreṣṭhaṃ maṅgalārthapradāyakam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "janānāṃ bhayahantāraṃ lokanāthaṃ maheśvaram // Avk_68 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "devatāḥ sarvalokasthāḥ saṃbhūtā jinamaṇḍale /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dadyāt tebhyo baliṃ tuṣṭyā pūjābhaktyarcanair ataḥ // Avk_69 //"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "{CD add the following after vs. 69\nśaucasobhanādikaṃ kṛtvā vratinaḥ\nmaurikuṇḍalasarvābharaṇagāṃgopayādivastra śobhayen mālāpuṣpa\nlohayen maṇḍalī prajvālayen vistareṇopaḍoṣita\ngandhāya te 'grata dhūpayet sarvapāpaprasamanaṃ bhavati}"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bahumaṅgalavādyais ca chattrasindūrapātrayā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ācāryaḥ svastivākyaiś ca kārayec ca mahotsavam // Avk_70 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aśvinīpūrṇamāsyāṃ tu (...) ravivāsare /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "āyuṣmatīyute yoge praśastaś ca viśeṣataḥ // Avk_71 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yaḥ prakuryād vrataṃ tasmin vipulaṃ bhogam āpnuyāt /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "paratra sukhasaṃprāpto jinaloke mahīpate // Avk_72 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śṛṇu rājan mahābhāga vakṣye pūjāphalaṃ punaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yena saṃsthāpitaṃ caityaṃ vītaśoko bhaved asau /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "māyāmohavinirmuktas trimalenāviliptitaḥ // Avk_73 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pañcāmṛtaiś candanagandhagarbhair ye snāpayantī jinacaityabimbam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mandākinītoyasugandhagandhais te cāpsarobhī ratim āvahanti // Avk_74 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye dhūpayanti kṣaṇam atra lokāḥ śokā na teṣāṃ prabhavanti jātu /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "surāsuraiḥ pūjitapādapadmāḥ sugandhamālyāmbarabhūṣitāṅgāḥ // Avk_75 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sugandham asmā upaḍhaukayanti prasannacittā manujā ajasram /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sugandhidehā ravibhānudīptā bhavanti lokāḥ paramārthalokāḥ // Avk_76 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye kuṅkumādyai racitaṃ suvastraṃ dadanti ye caityatathāgatebhyaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śītārtiduḥkhaṃ na hi jātu teṣāṃ taddhetutaḥ koṣaviśālasāram // Avk_77 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aśeṣapuṣpaṃ jalajaṃ bhavantaṃ śvetāruṇaśyāmasupītakṛṣṇam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "samantabhadrāya viśālavaṃśam ārogyasaukhyaṃ prabhavanti dānāt // Avk_78 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śraddhāratā ye manujā udārair mālāsugandhair bahupuṣpayuktaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "caranti pūjāṃ bahubhaktitas te samastasaukhyāni labhanti loke // Avk_79 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "netrābhirāmā bahuratnakoṣā narādhipair arcitapādapadmāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jñānapradīpāhatamohajālā ye dīpamālā racayanti buddhe // Avk_80 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "naivedyam asmai pradadāti loke yo bhaktiyuktaḥ surasaṃ sugandhim /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "balī viśiṣṭo naracakracūḍāmaṇyarcitāṅghrī nṛpasevyamānaḥ // Avk_81 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "phalamūlādikaṃ dattvā caityeṣu bhaktimānasaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yatheṣṭaṃ phalam āpnoti nirogī sukhavān sadā // Avk_82 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rogādibhiḥ prabaladuḥkhakarair vimuktāḥ snigdhānanāḥ kanakatulyamanojñavarṇāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rājyaṃ hi yad vigatakaṇṭakam āpnuvanti bhaiṣajyadānavidhinā tad uśanti caitye // Avk_83 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tāmbūlādigaṇaṃ dattvā rūpavān sukhavāñ chuciḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "divyāṅganā manohārī rājalakṣmīm avāpnuyāt // Avk_84 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vitānam uccair vitanoti caitye dhanyas triloke paripūjanīyaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "viśālavaṃśo guṇarakṣaṇīyo jāto mahādīptaśarīrabhāsaḥ // Avk_85 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhvajān patākān abhiropayanti ye caityabimbe khalu bhaktiyuktāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mahīśvarās te jitaduṣṭasaṃghā bhavanti nāthā divi bhūtale ca // Avk_86 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "chattrāṇi nānāmaṇibhir mahārhaiḥ saṃpādayanty āttamanā dadanti /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "caityeṣu bhūmīśvaravṛndavandyāḥ śrīsaṃyutā dharmaratā bhavanti // Avk_87 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vīṇādibhir ghaṇṭamṛdaṅgavādyaiḥ śṛṅgaiś ca śaṅkhādisudivyaghoṣaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃghoṣaṇāṃ ye vitaranti caitye te 'bhijñayā pañcabhir āśrayante // Avk_88 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mahotsāhakarair gītaiḥ sumanojñasvarair jine /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nṛtyaṃ ca kārayen nityaṃ kuryāc ca divyaghoṣaṇām // Avk_89 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "te narāḥ susvarā bhonti sundarā divi bhūtale /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "divyaśrotrā mahāvijñāḥ suśabdaṃ śṛṇuyuḥ sadā // Avk_90 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nṛtyagītādikaṃ kṛtvā caityabimbe jinālaye /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vandyamānāḥ sugotrāś ca niṣpāpāś ca bahuśrutāḥ // Avk_91 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dīrghāyuṣkāḥ sahasrākṣā nirāpadāḥ guṇāśrayāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "grahavyādhivimuktāṅgā bhavanti te śubhākarāḥ // Avk_92 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "trāsāya duṣṭasattvānāṃ rakṣārthaṃ ca jinālaye /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śastrahastāḥ sthitā ye ca jinabhaktisamanvitāḥ // Avk_93 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "āyuṣmanto nirogāś ca putrapautrīsamanvitāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhāgyavanto dhanāḍhyāś ca gacchanty ante jinālayam // Avk_94 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dūrvākundākṣatān puṣpān lājayā saha bhaktimān /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prakṣipej jinacaityeṣu svastivākyam udāharan // Avk_95 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "durgatiṃ nābhijānāti sukulī lokanandanaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvavidyāgurur vandyaś cānte mokṣam avāpnuyāt // Avk_96 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye ramamuktāmaṇivajrahemaṃ rūpyaṃ suvarṇādikadhātudānāt /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vinaṣṭaśokāḥ subhagāḥ suvaṃśāḥ pūrṇendriyāḥ pūrṇamanorathāḥ syuḥ // Avk_97 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye śuddhacittāḥ stutim ācaranti gadyātmikāṃ padyamayīṃ vicitrām /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "te śabdasaṃghān bahuvādyajātān śṛṇvanti gītān surabhāminīnām // Avk_98 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yāvatī bhūmir ākrāntā hy adhaḥ kāñcanacakrataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yojanānāṃ sahasrāṇi rāśibhyaḥ parikīrtitāḥ // Avk_99 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yāvatyo vālukās tatra tāvatyaḥ parisaṃkhyayā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rājā bhavati vīreśaś cakravartī mahītale // Avk_100 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye jātamātrāḥ prabhutāṃ prayānti śreṣṭhīkule janma sadaiva yeṣām /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "hastyaśvayānaiś ca paribhramanti kṛtvātra te caityavarapraṇāmam // Avk_101 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "akāra-m-ādyakṣaramantrarājair balyūpahāraṃ khalu yo hi dadyāt /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasmai sudevāḥ sagaṇāḥ sutṛptā dāsyanti satkarmaphalābhilāṣam // Avk_102 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yasmin sudhālepam udācaranti te rogaśokādivimuktadehāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhaneśvarā dīrghatarāyuṣas te narāmarāṇāṃ subhagā bhavanti // Avk_103 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye buddham uddiśya mahānti nityaṃ kurvanti mṛdgomayalepanāni /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhaktyā suśuddhā jalamaṇḍalaṃ vā labhanti te rājabalaṃ subhāgyāḥ // Avk_104 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "stūpāṅgaṇaṃ dhātuvaraṃ vihāraṃ ye śodhayantīha narāḥ prayatnaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nirmālyam ebhyaś ca samuddharanti te hemavarṇāḥ sudṛśo bhavanti // Avk_105 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pradakṣiṇāṃ ye vitaranti tasmin bhavanti jātismaralābhinas te /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "suvarṇavarṇā bahuputrapautrāḥ pūjyā manuṣyāmaranāthasaṃgḥaiḥ // Avk_106"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ālasyenāpi yaḥ kuryāj jinālayapradakṣiṇām /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pade pade suvarṇaikakarṣadānaphalaṃ labhet // Avk_107 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "brahmakṣatriyavaiśyānāṃ sacchūdrāṇāṃ prapūjanam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tebhyo vihīnajātīnām adhikāro na pūjane // Avk_108 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gandhapuṣpadvijātīnāṃ ... ca pūjayet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gandhapuṣpadvijātīnāṃ viśeṣeṇa prakathyate // Avk_109 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "chattrāvarohaṇaṃ rājñāṃ vaiśyānāṃ tv annaḍhaukane /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhvajapātākavastreṣu śudrāṇāṃ ca pracakṣyate // Avk_110 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svarṇakārā lohakārāḥ kāṃsyakṛtkṛṣikādayaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "eteṣāṃ ceha hastena caityapuṃgavapūjanam // Avk_111 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "taṇḍulī vyañjanī cāpi krayavikrayakāriṇaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "etaiḥ svavṛttivastūni ḍhaukanīyāni bhaktitaḥ // Avk_112 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śaulinī dhvananavartī māṃsavartī tathā surī /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "etair dīpaḥ pradātavyaḥ kuladharmapramāṇataḥ // Avk_113 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "carmakāraś ca mātaṅgo niyogī rajako dhvajī /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "etaiś ca dūrataḥ sthitvā vandanīyo jinālayaḥ // Avk_114 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ṣaṭtriṃśajjātibhir evaṃ svakulavṛtticāraṇaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "anyaiś ca vividhair nityaṃ pūjyo mānyo jinālayaḥ // Avk_115 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yeṣāṃ vratavikāro na pūjane jinapuṃgave /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "etaiḥ pradakṣiṇāṃ kṛtvā vandanīyaḥ svabhaktitaḥ // Avk_116 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "evaṃ bhūyaś cared dharmī vratarājam aharniśam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasya puṇyaṃ yathā proktaṃ kuṣṭhavyādhikṣayaṃ vrajet // Avk_117 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pañcānantaryapāpāni yāsyanty api na saṃśayaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kiṃ punaś cānyapāpāni janmāntarakṛtāny api // Avk_118 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na hī sa vidyate rājan sarvatra bhuvaneṣv api /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ahorātravrataṃ puṇyaṃ yo 'nyathātvaṃ kariṣyati // Avk_119 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śravād api haret pāpaṃ darśanāt puṇyam āpnuyāt /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "anumodāt tathā caivaṃ vratināṃ tu kim ucyate // Avk_120 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vratināṃ saptabhāgāni kṛtvā puṇyaṃ viśāradaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ekabhāgaṃ labhed rājā caikaṃ tu sārathījanaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvasattvasya caikaṃ hi tac cheṣaṃ labhate vratī // Avk_121 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "iti śrutvā guror vākyam indrapṛṣṭo mahāprabhuḥ //"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tataḥ sattvahitārthāya vrataṃ kartuṃ samudyataḥ // Avk_122 //"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vārāṇasīpuraṃ gatvā vasubandhuvaco yathā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vihāraṃ ca pratiṣṭhāpya caityarājaṃ jinālayam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃghabhojyaṃ tataḥ kṛtvā yayau svargaṃ janaiḥ sudhīḥ // Avk_123 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "tato bhikṣavo bhagavantam etad ūcuḥ /"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhagavan muniśārdūla punar vaktuṃ tvam arhasi /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kena kena purā nātha vratarājam idaṃ kṛtam // Avk_124 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "bhagavān āha /"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "purā svargeṣu śakreṇa ahorātravrataṃ kṛtam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sa ṣaṭpāramitāṃ dhārya caityarājam apūjayat /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pradakṣiṇāṃ sadā kṛtvā yathāvidhi mahotsavaiḥ // Avk_125 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pātāle ca purā vīro daityendro balavān abhūt /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nirghoṣadamano nāma devāsurapramardakaḥ // Avk_126 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "indraṃ svarge nirākṛtya pṛthivīm avadhāritam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tenāsurasahāyena trailokyaṃ svavaśe kṛtam // Avk_127 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pṛthivīmaṇḍalaṃ gatvā gato 'sau maghavatpurim /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "indrapṛṣṭamahāsthāne devatāpratimāṃ sthitām /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pañcapradakṣiṇāṃ kṛtvā prajñāpārasthito 'bhavat // Avk_128 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pātāleṣu punar gatvā so 'carat tad vratottamam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nāginyo nāgarājāś ca pātāleṣv acaraṃs tathā // Avk_129 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nāgaiḥ phaṇavibhūṣābhir devanāgendrakalpitam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pūjitaṃ satataṃ bhaktyā caityarājaṃ vidhānataḥ // Avk_130 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ṛṣayaś ca purā sapta jalāśrayapratiṣṭhitam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pupūjuḥ jinadhātusthaṃ vidhibhiś ca viśāradāḥ // Avk_131 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nāginyo viṣadarpāndhāḥ pūjyamānāñ jinālayam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tāpitān kārayām āsur viṣāṅgāraiḥ pradāhanaiḥ // Avk_132 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tatas taiḥ śāpitā evaṃ nāginyaḥ śambukāḥ khalu /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhavadhvaṃ saptajanmāni punaś caityasya sevakāḥ // Avk_133 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tataś cānte punaḥ prāpya mānuṣyaṃ puṇyabhāvataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "eṣā sā nāyakā yā tu dharmadakṣaṃ patiṃ labhet // Avk_134 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tatas ta vañcitāḥ sarvāḥ śambukā dharmamānasāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhānyāṃ pradakṣiṇāṃ cakrur bhāvayantyo jinālayam // Avk_135 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tataḥ puṇyānubhāvena devyaḥ saptakumārikāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhūtā rājasutā dhanyāḥ prālabhan paramaṃ padam // Avk_136 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tāsām ekā vratī nāmnā dharmadakṣapativratā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasyāḥ puṇyaprabhāvena dharmadakṣo 'labhad vratam // Avk_137 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dharmadakṣo mahārājā yathāvidhi vrataṃ caran /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhāryayā saha dharmātmā sukhāvatyāṃ mahīpatiḥ // Avk_138 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ity evaṃ bhikṣavo jñātvā vratānāṃ vratam uttamam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "caityasevā sadā kāryā vratapuṇyapracāraṇaiḥ // Avk_139 //"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "caityavratasamaṃ puṇyaṃ nāsti satyaṃ tribhūvane /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasmāc caityaḥ sadā vandyaḥ pūjanīyaḥ prayatnataḥ // Avk_140 //"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "ity ahoratravratakathā"
+        }
+      ]
+    }
+  ]
 }

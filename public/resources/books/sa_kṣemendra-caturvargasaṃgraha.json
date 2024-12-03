@@ -1,4 +1,3394 @@
 {
-  "title": "sa_kṣemendra-caturvargasaṃgraha",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n      <head>mahākaviśrīkṣemendrakṛtaḥ <lb/>caturvargasaṃgrahaḥ |</head>\n      <div type='pariccheda' n='1'>\n\t<head>prathamaḥ paricchedaḥ |</head>\n\t<lg xml:id='CVSam_1.1'>\n\t  <l>satyaskandhas taruṇakaruṇāpūtapīyūṣasiktaḥ <lb/>kṣānticchāyaḥ śubhamatilatālaṃkṛtaḥ śīlamūlaḥ |</l>\n\t  <l>bhūyāt sattvaprasavavilasatpallavaḥ puṇyabhājāṃ <lb/>dharmaḥ prodyatkuśalakusumaḥ śrīphalo maṅgalāya ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.2'>\n\t  <l>upadeśāya śiṣyāṇāṃ saṃtoṣāya manīṣiṇām |</l>\n\t  <l>kṣemendreṇa nijaślokaiḥ kriyate vargasaṃgrahaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.3'>\n\t  <l>dharmaḥ śarma paratra ceha ca nṛṇāṃ dharmo 'ndhakāre raviḥ <lb/>sarvāpatpraśamakṣamaḥ sumanasāṃ dharmābhidhāno nidhiḥ |</l>\n\t  <l>dharmo bandhur abāndhave pṛthupathe dharmaḥ suhṛn niścalaḥ <lb/>saṃsārorumarusthale suratarur nāsty eva dharmāt paraḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.4'>\n\t  <l>karṇe dharmakathā mukhe paricitaṃ dharmābhirāmaṃ vacaś <lb/>citte dharmamanorathaḥ praṇayinī sarvatra dharmasthitiḥ |</l>\n\t  <l>kāye dharmamayī kriyā parikaraḥ so 'yaṃ śubhaprāptaye <lb/>kalpāpāyapade 'py upaplavalavair aspṛṣṭavelāphalaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.5'>\n\t  <l>nindyaṃ janma pramohasthirataratamasāṃ yan manuṣyatvahīnaṃ <lb/>buddhyā hīno manuṣyaḥ śubhaphalavikalas tulyaceṣṭaḥ paśūnām |</l>\n\t  <l>buddhiḥ pāṇḍityahīnā bhramati sadasatos tattvacarcāvicāre <lb/>pāṇḍityaṃ dharmahīnaṃ śukasadṛśagirāṃ niṣphalakleśam eva ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.6'>\n\t  <l>pāṇḍityaṃ yan madāndhānāṃ parotkarṣavināśanam |</l>\n\t  <l>mātsaryapāṃsupūreṇa mātaṅgasnānam eva tat ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.7'>\n\t  <l>tatprājñatvaṃ harati vimalaṃ yena śīlaṃ na kāmas <lb/>taddhīratvaṃ praśamavaśatāṃ yānti yenendriyāṇi |</l>\n\t  <l>tadvaidagdhyaṃ bhuvanajayinī vañcyate yena māyā <lb/>tatpāṇḍityaṃ bhavaparibhavaḥ śāntim āyāti yena ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.8'>\n\t  <l>andhaḥ sa eva śrutavarjito yaḥ śaṭhaḥ sa evārthinirarthako yaḥ |</l>\n\t  <l>mṛtaḥ sa evāsti yaśo na yasya dharme na dhīr yasya sa eva śocyaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.9'>\n\t  <l>hitaṃ na kiṃcid vihitaṃ parasya dattaṃ na vittaṃ na ca satyam uktam |</l>\n\t  <l>yasmin dine niṣphalatāṃ prayātam āyuḥ sa kālaḥ paridevanasya ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.10'>\n\t  <l>na dānatulyaṃ dhanam anyad asti na satyatulyaṃ vratam anyad asti |</l>\n\t  <l>na śītatulyaṃ śubham anyad asti na kṣāntitulyaṃ hitam anyad asti ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.11'>\n\t  <l>satyaṃ vāci dṛśi prasādamayatā sarvāśayāśvāsinī <lb/>pāṇau dānavimuktir ātmajananakleśāntacintā matau |</l>\n\t  <l>saṃsaktā hṛdaye dayaiva dayitā kāye parārthodyamo <lb/>yasyaikaḥ puruṣaḥ sa jīvati bhave bhrāmyanty ajīvāḥ pare ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.12'>\n\t  <l>paraprāṇatrāṇapraṇihitadhiyāṃ dharmajananī <lb/>dayaivaikā loke sakalajanatājīvitasudhā |</l>\n\t  <l>asāmānyaṃ puṇyaṃ munibhir uditaṃ jñānanayanair <lb/>ahiṃsā saṃsāre svapurakuśalaślāghyasaraṇiḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.13'>\n\t  <l>prāṇāṇāṃ parirakṣaṇāya satataṃ sarvāḥ kriyāḥ prāṇiṇāṃ <lb/>prāṇebhyo 'py adhikaṃ samastajagatāṃ nasty eva kiṃcit priyam |</l>\n\t  <l>puṇyaṃ tasya na śakyate gaṇayituṃ yaḥ pūrṇakāruṇyavān <lb/>prāṇānām abhayaṃ dadāti sukṛtī teṣām ahiṃsāvrataḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.14'>\n\t  <l>sa eva sattvābharaṇaprabhāvabhūrbhuvaḥ prakāmābharaṇaṃ narottamaḥ |</l>\n\t  <l>mukhāmbuje yasya vasaty anatyayā sadaiva satyābharaṇā sarasvatī ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.15'>\n\t  <l>klinnaṃ koṣaniṣaṇṇam arthiviphalaṃ śalyāyate yatparaṃ <lb/>vittaṃ kleśānimittam eva malinaṃ yātu svayaṃ tatkṣayam |</l>\n\t  <l>yatkāruṇyaparopakāravikalaṃ bhūbhārabhūtaṃ vapuḥ <lb/>svārthāsaktam anarthasārthasadanaṃ mā māstu tat kasyacit ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.16'>\n\t  <l>vandyaḥ sa puṃsāṃ tridaśābhivandyaḥ kāruṇyapuṇyopacayakriyābhiḥ |</l>\n\t  <l>saṃsārasāratvam upaiti yasya paropakārābharaṇaṃ śarīram ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.17'>\n\t  <l>paradraviṇaniḥspṛhaḥ parakalatraniṣkautukaḥ <lb/>parapraṇayavatsalaḥ paranikārabaddhakṣamaḥ |</l>\n\t  <l>parastutiviśāradaḥ paragūnāpavādojjhitaḥ <lb/>parārtiharaṇodyato bhavati bhūripuṇyair naraḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.18'>\n\t  <l>padmānām iva sā satāṃ saguṇatā yā saṃśrayārhā śriyaḥ <lb/>sā śrīr bhadragajendramūrtir iva yā dānena vibhrājate |</l>\n\t  <l>tad dānaṃ navacandravad yad aniśaṃ mānena saṃpūryate <lb/>māno 'sau ṭṛṇavan na yaḥ paricayamlānaḥ śanaiḥ śuṣyati ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.19'>\n\t  <l>lakṣmīr dānaphalā śrutaṃ śamaphalaṃ pāṇiḥ surārcāphalaś <lb/>ceṣṭā dharmaphalā parārtiharaṇakrīḍāphalaṃ jīvitam |</l>\n\t  <l>vāṇī satyaphalā jagatsukhaphalasphītā prabhāvonnatir <lb/>bhavyānāṃ bhavaśānticintanaphalā bhūtyai bhavaty eva dhiḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.20'>\n\t  <l>śīlaṃ śilayatāṃ kulaṃ kalayatāṃ sadbhāvam abhyasyatāṃ <lb/>vyājaṃ varjayatāṃ guṇaṃ gaṇayatāṃ dharme dhiyaṃ badhnatām |</l>\n\t  <l>kṣāntiṃ cintayatāṃ tamaḥ śamayatāṃ tattvaśrutiṃ śṛṇvatāṃ <lb/>saṃsāre na paropakārasadṛśaṃ paśyāmi puṇyaṃ satām ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.21'>\n\t  <l>tīrthāni dīrghādhvapariśramāṇi bahuvyayāni kratuḍambarāṇi |</l>\n\t  <l>tapāṃsi muktvā tanuśoṣaṇāni hiṃsāvirāme ramatāṃ matir vaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.22'>\n\t  <l>yujvā vipraḥ śucir anucaraḥ saṃyatātmā tapasvī <lb/>mantrī vidvān avanivanitābhūṣaṇaṃ bhūmipālaḥ |</l>\n\t  <l>dharmodyāne sukṛtasalilāsārasaṃsicyamāne <lb/>pūrṇaḥ so 'yaṃ kṛtayugataror bhāvino bījavāpaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.23'>\n\t  <l>dambhena śīlavratam aspṛhatvaṃ viraktatā śrotriyatā mṛdutvam |</l>\n\t  <l>etāni mūlāni nigūḍhagūḍhakauṭilyalīnāni kalidrumasya ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.24'>\n\t  <l>yāvanti dānāni vadanti santas tapāṃsi tīrthāni ca yāni santi |</l>\n\t  <l>tatpuṇyam ekatra vibhāti sarvaṃ mahārham ekatra ca niḥspṛhatvam ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.25'>\n\t  <l>satām adainyaṃ vadanasya śobhā nirlobhatāntarvacasāmayācñā |</l>\n\t  <l>kāyasya satsevyam asevyakatvaṃ pāṇer anuttānatalatvam eva ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.26'>\n\t  <l>mānyaḥ kulīnaḥ kulajāt kalāvān vidvān kalājñād viduṣaḥ suśīlaḥ |</l>\n\t  <l>dhanī suśīlād dhanino 'pi dātā dātur jitā kīrtir āyācakena ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_1.27'>\n\t  <l>taptais tīvravrataiḥ kiṃ vikasati karuṇāsyandinī yady ahiṃsā <lb/>kiṃ dūrais tīrthasārair yadi śamavimalaṃ mānasaṃ satyapūtam |</l>\n\t  <l>yatnād anyopakāre prasarati yadi dhīr dānapuṇyaiḥ kim anyaiḥ <lb/>kiṃ mokṣopāyayogair yadi śucimanasām ucyate bhaktir asti ||</l>\n\t</lg>\n\t<p>iti dharmapraśaṃsā nāma prathamaḥ paricchedaḥ |</p>\n      </div>\n      <div type='pariccheda' n='2'>\n\t<head>dvitīyaḥ paricchedaḥ |</head>\n\t<lg xml:id='CVSam_2.1'>\n\t  <l>pradhānadhāmnāṃ nidhaye dhanāya namo' stu tasmai guṇino 'pi yatnāt |</l>\n\t  <l>yadāśayā nirguṇabhūpatīnām agre guṇān ṣaṇyadaśāṃ nayanti ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.2'>\n\t  <l>dānādidharmaḥ kriyate dhanena dhanena dhanyā dhanam āpnuvanti |</l>\n\t  <l>dhanair vinā kāmakathāpi nāsti trivargamūlaṃ dhanam eva nānyat ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.3'>\n\t  <l>yat klībair bhaṭakukkuṭotkaṭaraṇakrīḍā samādiśyate <lb/>yan mūrkhaiḥ sukhalilayā kaviśukālāpaściraṃ carvyate |</l>\n\t  <l>nīcair uccataraś ca sevakahayaḥ svāmyena yad vāhyate <lb/>tad vittasya vilāsanṛttavasater udvṛttavṛttāyitam ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.4'>\n\t  <l>pūjā dhanenaiva na satkulena kīrtir dhanenaiva na vikrameṇa |</l>\n\t  <l>rūpaṃ dhanenaiva na yauvanena kriyā dhanenaiva na jīvitena ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.5'>\n\t  <l>vṛddhāḥ prasiddhā vibudhā vidagdhāḥ śūrā śrutijñāḥ kavayaḥ kulīnāḥ |</l>\n\t  <l>vilokayantaḥ sadhanasya vaktraṃ jayeti jīveti sadā vadanti ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.6'>\n\t  <l>kruddhyā yutaṃ niścalapakṣmanetraṃ maunānvitaṃ devam ivākulīnam |</l>\n\t  <l>dīnaḥ kulīnaḥ praṇamatkulīnaḥ kṛtāñjaliḥ stauti dhanābhikāmaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.7'>\n\t  <l>tasmād alabdhadraviṇasya lābhe labdhasya rakṣāniyame yatena |</l>\n\t  <l>saṃrakṣamāṇasya sadā vivṛddhau vṛddhasya ca sthānavibhāgasarge ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.8'>\n\t  <l>dharmādhāno 'śaśiśuciyamaḥ preyasīmitrabandhu<orig>-</orig><lb/>sthānotsāhopacayavijayaprāṇavidyākalāptau |</l>\n\t  <l>ślāghye dehapraśamasamaye nirvivāde vibhāge <lb/>vittatyāge na bhavati satāṃ granthibandhānubandhaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.9'>\n\t  <l>goṣṭhī viṭaiś cāraṇacakracaryā veśyāratiḥ sādhuviśeṣagandhaḥ |</l>\n\t  <l>spardhā suveṣair nijavṛttilajjā pradhānam etan nidhanaṃ dhanānām ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.10'>\n\t  <l>jāyā śīlavivarjitā vyayavatī māyānikāyaḥ suhṛd <lb/>duṣpūro gurur arthabhoganicayair bandhur daridraḥ śaṭhaḥ |</l>\n\t  <l>dāsaś cauryaparo 'salaś ca kupade putraḥ khalaiḥ pātitaḥ <lb/>so 'yaṃ kleśaśatāptasaṃcayanidheḥ pratyakṣalakṣyaḥ kṣayaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.11'>\n\t  <l>dākṣyaṃ vittasya mūlaṃ sunayaparicayaḥ saṃpadudyānasekaḥ <lb/>prāgalbhyaṃ ratnavarṣi vyasanavanasamunmūlanaṃ saṃyatatvam |</l>\n\t  <l>śrīrakṣā mantraguptir vipadupaśamanaṃ varjanaṃ durjanānām <lb/>ālasyaṃ mānavānāṃ dhanavananalināsahyabhāras tuṣāraḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.12'>\n\t  <l>himāsahatvaṃ ravitāpabhītiḥ kathāmatir mārgajanapratīkṣā |</l>\n\t  <l>lajjābhimānaḥ kṣaṇasaṃmukhatvaṃ nakṣatracarcā ca dhanasya vighnāḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.13'>\n\t  <l>veṣaḥ parikleśaviśeṣacintā paroparodhaḥ svavaśāvalepaḥ |</l>\n\t  <l>nadīphalānām iva śīghragānāṃ hānir dhanānāṃ grahaṇe vilambaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.14'>\n\t  <l>gurugaṇakair abudhānāṃ kṣayacaturaiś cauramuṣakair vaṇijām |</l>\n\t  <l>kāyasthagāyanagaṇair bhūmibhujāṃ bhujyate lakṣmīḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.15'>\n\t  <l>dāridryeṇa kulaṃ madena kuśalaṃ dveṣeṇa vidyāphalaṃ <lb/>śīlaṃ durjanasaṃgamena malinācāreṇa śuklaṃ yaśaḥ |</l>\n\t  <l>ālasyena dhanaṃ prayāti nidhanaṃ laulyena mānonnatir <lb/>yācñādainyaparigraheṇa ca guṇagrāmaḥ samagro nṛṇām ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.16'>\n\t  <l>maugdhyān mṛgarthī raghunandano 'pi bāṇaḥ pramādād balir ārjavena |</l>\n\t  <l>nalaḥ kusaṅgena yayātijaś ca kleśāsahatvād vyasanāny avāpuḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.17'>\n\t  <l>maugdhyaṃ pramādo 'viśvāsaḥ kusaṅgaḥ kleśabhīrutā |</l>\n\t  <l>pañca saṃkocadā doṣāḥ padminyā iva saṃpadaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.18'>\n\t  <l>kubhūpakūpāntaralambanāptavittāni randhrair ghaṭasaṃnibhānām |</l>\n\t  <l>asaṃvṛttair indriyanāmadheyaiḥ puṃsāṃ payāṃsīva parisravanti ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.19'>\n\t  <l>sāsvāde navasaurabhe madhulihāṃ padmodare bandhanaṃ <lb/>dīpe rūparatāḥ prayānti satatāpātāt pataṅgāḥ kṣayam |</l>\n\t  <l>gītenaiva mṛgāḥ patanti kariṇīsparśena nītā gajās <lb/>tasmād indriyasaktir eva sahasā puṃsāṃ vipaddūtikā ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.20'>\n\t  <l>kulaṃ kuvṛttyā kaluṣīkṛtaṃ taiḥ kṛto guṇaughas tṛnatulyamūlyaḥ |</l>\n\t  <l>mānasya mūle nihitaḥ kuṭhāraḥ prāptaṃ na vittaṃ parirakṣitaṃ yaiḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.21'>\n\t  <l>jātaḥ satkulajaḥ sa nīcavinayī sevāvamānair adhas <lb/>tasyograṃ patitaḥ svamānayaśasor droheṇa śāpānalaḥ |</l>\n\t  <l>tenāsvastimatā svahastanihitaṃ yācñāviṣaṃ bhakṣitaṃ <lb/>vittaṃ yena na rakṣitaṃ ripumukhaṃ tena sthitaṃ vīkṣitam ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.22'>\n\t  <l>dhāvan sevitum eti sādhur adhamaṃ kandhyas tato yāty asau <lb/>nītā mūlyatulāṃ guṇāś ca guṇibhiḥ kaścin na gṛhṇāti tān |</l>\n\t  <l>yācñā mānamahāśanir dhanakṛtā prāptaṃ na kiṃcit tayā <lb/>kiṃ kiṃ vā na vidhīyate dhanadhiyā dhanyaḥ sa yasyāsti tat ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.23'>\n\t  <l>vidyākalāparicayaḥ kṣitipālasevā <lb/>digdvīpamārgagirisaṃbhramaṇaprayāsaḥ |</l>\n\t  <l>yuddhākriyāś ca bhuvi bhojanalābhalobhāt <lb/>tadvittalabhyam iti vittavatāṃ pravādaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.24'>\n\t  <l>tāvad dharmakathā manobhavarucir mokṣaspṛhā jāyate <lb/>yāvat tṛptisukhodayena na janaḥ kṣutkṣāmakukṣiḥ kṣaṇam |</l>\n\t  <l>prāpte bhojanacintanasya samaye vittaṃ nimittaṃ vinā <lb/>dharme kasya dhiyaḥ smaraṃ smarati kaḥ kenekṣyate mokṣabhūḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_2.25'>\n\t  <l>arthākṛṣṭiṃ vidhātuṃ kaṭuraṭanapaṭur dāmbhikaḥ śrījaḍānāṃ <lb/>jānāty anyāsahiṣṇur vitathanijaguṇastotrapāṭheṣv alajjaḥ |</l>\n\t  <l>āryaḥ kuryān na sevaṃ kulavinayaguṇais tena mūko 'rthanāyāṃ <lb/>tīkṣṇānāṃ mārgaṇānāṃ bhavati hi purataḥ kṣmāpater lakṣalābhaḥ ||</l>\n\t</lg>\n\t<p>ity arthapraśaṃsā nāma dvitīyaḥ paricchedaḥ |</p>\n      </div>\n      <div type='pariccheda' n='3'>\n\t<head>tṛtīyaḥ paricchedaḥ |</head>\n\t<lg xml:id='CVSam_3.1'>\n\t  <l>lalitalalanālīlodañcadvilolavilocano<orig>-</orig><lb/>tpalavanarucāṃ cañcantīnāṃ cayair iva carcitā |</l>\n\t  <l>surabhisuhṛdaḥ pakṣacchātāvṛteva ca ṣaṭpadaiḥ <lb/>kusumadhanuṣaḥ śyāmā mūrtis tanotu sukhāni vaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.2'>\n\t  <l>bhramadbhramaraketakīvikasadekapatraprabhāḥ <lb/>sanīlamaṇināyakā iva vimuktamuktālatāḥ |</l>\n\t  <l>dṛśaḥ śaśikalā iva pracitapakṣmaleśāṅkitā <lb/>jayanti hariṇīdṛsām amṛtakālakūṭacchaṭāḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.3'>\n\t  <l>kratuṃ dhanānāṃ phalam agryam āhuḥ phalaṃ kratūnām avivādi puṇyam |</l>\n\t  <l>puṇyasya pūrṇaṃ phalam indraloko dviraṣṭvarṣāḥ striya eva nākaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.4'>\n\t  <l>etāḥ santi vadhūvilāsakuṭilā bhrūkārmukaśreṇayaḥ <lb/>karṇāntāyatapātinaś ca taruṇīnetratribhāgeṣavaḥ |</l>\n\t  <l>nirdagdho 'ndhakavairiṇā navamanaḥkṣobhābhiyogodbhavāt <lb/>saṃrambhād avicārya kevalam asau mithyā tapasvī smaraḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.5'>\n\t  <l>lajjāvakro manasijadhanur bhrūvilāsena tānvyaś <lb/>cintāpāṇḍuḥ spṛśati kṛśatāṃ vakrakāntyā śaśāṅkaḥ |</l>\n\t  <l>yāty evādhaḥ prahasitarucidorlatābhyāṃ mṛṇālī <lb/>klībaṃ dhatte kuvalayakulaṃ kālimānaṃ kaṭākṣaiḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.6'>\n\t  <l>ayomayānāṃ hṛdayeṣu teṣāṃ ko 'py asti nūnaṃ kuliśopadeśaḥ |</l>\n\t  <l>soḍhāni yaiḥ prauḍhavilāsinīnāṃ karṇāntamuktāni vilocanāni ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.7'>\n\t  <l>kuvalayamayī lolāpāṅge taraṅgamayī bhruvoḥ <lb/>śaśiśatamayī vaktre gātre mṛṇālalatāmayī |</l>\n\t  <l>malayajamayī sparśe tanvī tuṣāramayī smite <lb/>diśati viṣamaṃ smṛtyā tāpaṃ kim agnimayīva sā ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.8'>\n\t  <l>smaraśaraniśitākṣyāḥ kampayante na keṣāṃ <lb/>kurava iva kaṭākṣāḥ prauḍhaśalyā manāṃsi |</l>\n\t  <l>bhvanajanajigīṣotsāhayogāya yeṣām <lb/>adhicapalatarāṇāṃ niścalā karṇamaitrī ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.9'>\n\t  <l>stanasthalī hāriṇi sundarīṇāṃ nitambabimbe raśanāsanāthe |</l>\n\t  <l>dhatte viśeṣābharaṇābhimānalīlānavollekhalipiprapañcam ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.10'>\n\t  <l>kāntāyā vilasadvilāsahasitasvacchāṃśacaścāmaraṃ <lb/>saṃsaktāv abhiṣekahemakalaśau yac candanāṅkau stanau |</l>\n\t  <l>yatkārtasvarakānti cāru jaghanaṃ siṃhāsanaṃ bhūbhujāṃ <lb/>sāmrājyaṃ tad idaṃ jayājayamayaḥ śeṣas tu cintāmayaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.11'>\n\t  <l>nāsāditāni vanavāsadṛḍhavratena <lb/>citrāṇi netracaritāni mṛgair mṛgākṣyāḥ |</l>\n\t  <l>tatkāntir ujjvalarucivyasanād aho nu <lb/>hemnā hutāśapatanair api naiva labdhā ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.12'>\n\t  <l>abhinavapayodharodgativiṣamasthitihārahaṃsamukhapatitā |</l>\n\t  <l>śaivalavalīva cāsyās trikakalitā bhāti romalatā ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.13'>\n\t  <l>neyaṃ taruṇyās trivalī taraṅgakusaṅginī rājati romarājiḥ |</l>\n\t  <l>snātvā gato 'syāṃ smarakelivāpyāṃ kalaṅkalekhām apahāya candraḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.14'>\n\t  <l>karṇe kokilakāminīkalaravaḥ saṃtaptasūcīcayaḥ <lb/>phullāśokapalāśacampakavanādyuddāmadāvānalaḥ |</l>\n\t  <l>tanvaṅgyā virahe vasnatasamayaḥ kālaḥ kim anyan nṛṇāṃ <lb/>dehoccāṭanam eva ṣaṭpadaghaṭāghrāṇātithir manmathaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.15'>\n\t  <l>āpāṇḍutā madanakīrtisakhī mukhendau <lb/>praudhiṃ bibharti virahe harināyatākṣyāḥ |</l>\n\t  <l>acchinnabāṣpavisarāruṇanetrakoṇa<orig>-</orig><lb/>līnapratāpam iva manmatham udvahantyāḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.16'>\n\t  <l>viyoge tanvaṅgyā hṛdayadamane dainyasadane <lb/>ghane bhartṛsnehān madanadahane gharyacalane |</l>\n\t  <l>samāsanne cintācyasanaśamane prāṇagamane <lb/>tanus tāpamlāne valati nalinīpatraśayane ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.17'>\n\t  <l>dākṣiṇyapraṇayena pādapatite kānte mayā nekṣite <lb/>prāṇānāṃ jvalitaḥ pravāsapiśunaḥ śāpānalaḥ paśyasi |</l>\n\t  <l>etaiḥ saṃbhramakātare kim adhunā mithyāsamāśvāsanaiḥ <lb/>saṃtāpāya sakhi tvayaiva nanu me manopadeśaḥ kṛtaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.18'>\n\t  <l>samāyāte patyau bahutaradinaprāpyapadavīṃ <lb/>samulaṅghyāvighnāgamanacaturaṃ cārunayanā |</l>\n\t  <l>svayaṃ harṣodbāṣpā harati turagasyādaravatī <lb/>rajaḥ skandhālīnaṃ nijavasanakoṇāvahananaiḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.19'>\n\t  <l>vāsaḥ kampaviśṛṅkhalaṃ vitilakaṃ svedodgamādānanaṃ <lb/>saṃdaṣṭo 'dharapallavaḥ kalayati śvāsoṣmanā mlānatām |</l>\n\t  <l>dūti tvadvacane śaṭhasya kaṭhinasyāgre gate kuṇṭhatāṃ <lb/>matsnehād vihitas tvayā kupitayā kleśapraveśaḥ kiyān ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.20'>\n\t  <l>vyāptāsv aśokajvalanena dikṣu nirantarāpātaśilīmukhāsu |</l>\n\t  <l>ruddhāsu jālair vanamañjarīṇāṃ naṣṭā gatiḥ pānthakuraṅgakasya ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.21'>\n\t  <l>vikasati sahakāre duḥsahe karṇikāre <lb/>madhukaraparihāre sasmite sindhuvāre |</l>\n\t  <l>ahaha virahabhītyā kāminīṃ kaṇṭhalagnāṃ <lb/>tyajati navavasante hanta kāpālikaḥ kaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.22'>\n\t  <l>tanvaṅgyā navasaṃgame vyavasite kānte balān mekhalāṃ <lb/>moktuṃ śvāsavikāsakampavikalāḥ kaṇṭhe luṭhantyaḥ sudhām |</l>\n\t  <l>mīlatpadmanipīḍitāliraṇitāḥ klībāḥ<note resp='#Durgaprasad1937'>(?)</note> kiranti kṣaṇaṃ <lb/>dhanyānāṃ nananeti niḥsahatayā huṃkāragarbhā giraḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.23'>\n\t  <l>gāḍhāliṅgananiścalāṅgalatikā kāntena ruddhā balād <lb/>ālambyālakavallariṃ vidadhatā vakrāmbuje cumbanam |</l>\n\t  <l>kampraprasphuritāruṇādharadalā bālā nimīlyākṣiṇī <lb/>manye mānasajanmajīvajananaṃ japyaṃ samabhyasyati ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.24'>\n\t  <l>kenaiva viśikhāḥ sphuracchikhiśikhāśākhāsakhā māninī<orig>-</orig><lb/>maunonmāthapṛthuprathā virahinīniḥśvāsapakṣānilāḥ |</l>\n\t  <l>sahyante rativallabhasya laṭabhānetrāntatīkṣṇānanā<orig>-</orig><lb/>saṃdaṣṭādharapallavāgrataruṇīsītkāraśūtkāriṇaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_3.25'>\n\t  <l>āyur dīrghataraṃ tanotu nayanadvandvaṃ kuraṅgīdṛśāṃ <lb/>kīrtiṃ te smitasaṃtatiḥ stanataṭaśroṇī viśālaśriyam |</l>\n\t  <l>devasya trijagajjayāya paṭahe datte mṛgākṣīgiror <lb/>ity utsāhasahe hitāya vihitā jāne jananyāśiṣaḥ ||</l>\n\t</lg>\n\t<p>iti kāmapraśaṃsā nāma tṛtīyaḥ paricchedaḥ |</p>\n      </div>\n      <div type='pariccheda' n='4'>\n\t<head>caturthaḥ paricchedaḥ</head>\n\t<lg xml:id='CVSam_4.1'>\n\t  <l>bhogābhogavilopakopakalahair astokaśokākulaṃ <lb/>kāmaṃ kāmam akāmadhāmasamayaṃ yogaṃ viyogānugam |</l>\n\t  <l>rogodgāravikārapākaviṣamaṃ nirmūlya netravyathāḥ <lb/>sekaṃ mokṣaphalasya saṃśayataror ekaṃ vivekaṃ numaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.2'>\n\t  <l>udyāne mudhacandrikā śaśimukhīgītaṃ suhṛtsatkathā <lb/>kasyedaṃ na sukhādhikaṃ sukhasakhīṃ prītiṃ parāṃ varṣati |</l>\n\t  <l>kiṃ tv etat khalasaṅgasarparasanāmātaṅgakarṇāñcala<orig>-</orig><lb/>prauḍhāpāṅgapataṅgapakṣagaṇikānāgendrajālopamam ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.3'>\n\t  <l>bālyaṃ duḥsahamohasaṃhatihataṃ rāgolbaṇaṃ yauvanaṃ <lb/>vṛddhatvaṃ sakalopabhogakalanāvaikalyaśalyākulam |</l>\n\t  <l>vairāgyeṇa vinā vinaṣṭavimalālokaṃ saśokaṃ sadā <lb/>saṃsāre saratāṃ punaḥ punar aho yātaṃ vṛthā jīvitam ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.4'>\n\t  <l>dṛṣṭā bālakaceṣṭā yauvanadarpo 'tha vṛddhavairāgyam |</l>\n\t  <l>sāpi gatā so 'pi gatas tad api gataṃ svapnamāyeyam ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.5'>\n\t  <l>punaḥpunarjanmasahasrahetur malīmasaḥ snehasamo 'sti nānyaḥ |</l>\n\t  <l>puṃsaḥ pradīpasya ca yaḥ karoti sevonmukhatvaṃ gṛhasaṃvibhāge ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.6'>\n\t  <l>ākrāntaṃ piśunair narendrabhavanaṃ vidyāgṛhaṃ matsarair <lb/>āyāsair draviṇaṃ kulaṃ kutanayair nānāvitogaiḥ sukham |</l>\n\t  <l>sādhutvaṃ khalavañcanāparibhavaiś cintāsahasrair manas <lb/>tan nāsty eva na yat saroṣakaluṣaṃ nirdoṣa ekaḥ śamaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.7'>\n\t  <l>bhoge rogabhayaṃ sukhe kṣayabhayaṃ vitte 'gnibhūbhṛdbhayaṃ <lb/>dāsye svāmibhayaṃ gune khalabhayaṃ vaṃśe kuyoṣidbhayam |</l>\n\t  <l>māne mlānibhayaṃ jaye ripubhayaṃ kāye kṛtāntād bhayaṃ <lb/>sarvaṃ nāma bhave bhaved bhayam aho vairāgyam evābhayam ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.8'>\n\t  <l>kṛtaṃ śamajalena yair viratatīvratṛṣṇaṃ manaḥ <lb/>paraṃ bhavaparābhavoddharaṇadhīradhuryair na te |</l>\n\t  <l>bhajanti jananījanaprasṛtadugdhadhārāghana<orig>-</orig><lb/>stanapraṇayi tat punar daśanaśūnyam āsyaṃ narāḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.9'>\n\t  <l>utsṛjya saṃtoṣasukhāmṛtāni prītyai parārādhanasādhanāni |</l>\n\t  <l>aho nu mānāni dhanāni puṃsāṃ ghanāni nidrāsukhasādhanāni ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.10'>\n\t  <l>vivekasvādhīne vijanagamane janmaśamane <lb/>vikāre saṃsāre vyasanaparihāre 'pi sukare |</l>\n\t  <l>puraṃ lajjā sādhoḥ prasavasamaye śoṇitamaye <lb/>punaḥ pāṇiṃ mūrdhni kṣipati yadi dhātrīti patitaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.11'>\n\t  <l>āyāsaprasave vicāravirase lajjājugupsāspade <lb/>rāgāndhā viramanti naiva kupade strībhoganāmni cyutāḥ |</l>\n\t  <l>cittaṃ nāsti sacetsām api nijākarṣe vimarṣaḥ kṣaṇaṃ <lb/>ratyanyeṣu paraṅmukhatvam aniśaṃ prāpnoti nāyaṃ janaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.12'>\n\t  <l>keśākule raktakaṣāyapaṅkakapālabhāji prakaṭāsthidante |</l>\n\t  <l>kāyaśmaśāne ramate 'ṅganānāṃ kāmākulaḥ kāmukakākalokaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.13'>\n\t  <l>aho tṛṣṇā veśyā sakalajanatāmohanakarī <lb/>vidagdhā mugdhānāṃ harati vivaśānāṃ śamadhanam |</l>\n\t  <l>vipaddīkṣādakṣāsahataralatāraiḥ praṇayinī<orig>-</orig><lb/>kaṭākṣaiḥ kūṭākṣaiḥ kapaṭakuṭilaiḥ kāmakitavaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.14'>\n\t  <l>bālyaṃ kulīrajananījanakapramohaṃ <lb/>tadyauvanaṃ kulaṭabhāsubhagopayogam |</l>\n\t  <l>vṛddhatvam apy upacitaṃ kukalatraputraiḥ <lb/>satyaṃ na kiṃcid idam atra khacitramitram ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.15'>\n\t  <l>na kasya kurvanti śamopadeśaṃ svapnopamāni priyasaṃgatāni |</l>\n\t  <l>jarānipītani ca yauvanāni kṛtāntadaṣṭāni ca jīvitāni ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.16'>\n\t  <l>cintyante yadi nāma rāmanahuṣaśvetādirājarṣayaḥ <lb/>kiṃ tair yāti viśālakālakalanāmīlatkathākautukaiḥ |</l>\n\t  <l>gaṇyantāṃ svadṛśaiva bhūrivibhavā dṛṣṭāś ca naṣṭāś ca ye <lb/>tasmāt sarvam anityatākavalitaṃ jñātvā śamaḥ smaryatām ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.17'>\n\t  <l>yadā lolā lakṣmīḥ kṣitipatiraṇāraṇyahariṇī <lb/>yadā svapnomeṣā tanughanataḍidyauvanaruciḥ |</l>\n\t  <l>yadā kālaḥ kāmaṃ janajalajakiñjalkamadhupas <lb/>tadā saṃsāre 'sminn avibudhamano noparamate ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.18'>\n\t  <l>saṃtoṣāmbhaḥ pibati nibhṛtasvaccham icchāmayūrī <lb/>bhrāntvā cāntaḥkaraṇahariṇo yāti viśrāntim antaḥ |</l>\n\t  <l>līnaś cāyaṃ śamatarujale śītale tāpatāntiṃ <lb/>mīlatkāmas tyajati niyataṃ mattacittadvipendraḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.19'>\n\t  <l>yāte bhoge smaraṇapadavīṃ saktanānāviyoge <lb/>śokaḥ stokaṃ spṛśati na manaḥ sarvathā nirvyathānām |</l>\n\t  <l>kāle kāle kila kalayatām antavatsarvamantaḥ <lb/>prāyaḥ kāyakṣayaparicaye niścaye nirbharaṃ naḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.20'>\n\t  <l>yātu vyaktiṃ kusumasamayaḥ saṃcayaḥ saurabhāṇāṃ <lb/>khe khelanto malayanilayāḥ saṃtataṃ vāntu vātāḥ |</l>\n\t  <l>kāmaḥ kāmaṃ kṣapayatu dhṛtiṃ pakṣmalākṣīkaṭākṣaiḥ <lb/>śāntiś citte sthirasukhasakhī nirvikāre mamāstu ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.21'>\n\t  <l>jarānigīrṇe subhagābhimāne mlāne śanair bhūtilatāpratāne |</l>\n\t  <l>dhanāvadāne śithilābhimāne dhṛtir nidhāne praśamābhidhāne ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.22'>\n\t  <l>rāgeṇa sārdhaṃ vayasi prayāte gateṣu bhogeṣu saha spṛhābhiḥ |</l>\n\t  <l>dehe ca mohena samaṃ pralīne nirargalo 'sāv apavargamārgaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.23'>\n\t  <l>cittaṃ vātavikāsipāṃsusacivaṃ rūpaṃ dināntātapaṃ <lb/>bhogaṃ durgatagehabandhacapalaṃ puṣpasmitaṃ yauvanam |</l>\n\t  <l>svapnaṃ bandhusamāgamaṃ tanum api prasthānapuṇyaprapāṃ <lb/>nityaṃ cintayatāṃ bhavanti na satāṃ bhūyo bhavagranthayaḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.24'>\n\t  <l>abhinnārthānarthaḥ suhṛdariparicchedarahitaḥ <lb/>samāvajñāmānaḥ sadṛśasukhaduḥkhavyatirekaḥ |</l>\n\t  <l>na maunī nāmaunī vanajalasamānāsanamanā <lb/>na dainyaṃ nādainyaṃ spṛśati guṇanairguṇyavirataḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.25'>\n\t  <l>sā dūre haricandanasya na paraṃ hāreṇa kiṃ hāritā <lb/>no kāntākucamaṇḍalasya sulabhā candre daridre kutaḥ |</l>\n\t  <l>gīte saṃgatir eva nāsti samatā tasyāṃ na siddhāmadhor <lb/>nairāśye sahasaiva cetasi kṛte yā prītir ujjṛmbhate ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.26'>\n\t  <l>labdhāvadhiḥ satyasukhāmṛtasya navapramodādbhutapūrṇakāmaḥ |</l>\n\t  <l>bhārāvatārād iva nirvṛto 'haṃ tyāgena sarvāgrahasaṃgrahāṇām ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.27'>\n\t  <l>dhanārjanavicintanaṃ hṛdayaropitāśāvanaṃ <lb/>vṛthā caraṇaśātanaṃ khalakadaryasaṃsevanam |</l>\n\t  <l>sadā vyasanaśocanaṃ priyaviyogadīnānanaṃ <lb/>vihāya gṛhamajjanaṃ vrajati puṇyavān nirjanam ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.28'>\n\t  <l>nāsti svastikaraḥ paraḥ paribhavo dharmātmanāṃ prāṇinām <lb/>āpattāpaśamakṣamaṃ dhanasamaṃ nānyatkriyājīvitam |</l>\n\t  <l>saṃsāre param asti no 'tra sukhadaṃ ramyaṃ na rāmānanāt <lb/>sarvakleśavināśanirvrtirasaḥ ko nāma mokṣāt paraḥ ||</l>\n\t</lg>\n\t<lg xml:id='CVSam_4.29'>\n\t  <l>caturvargopadeśena kṣemendreṇa yad arjitam |</l>\n\t  <l>puṇyaṃ tenāstu loko 'yaṃ caturvargasya bhājanam ||</l>\n\t</lg>\n\t<p>iti mokṣapraśaṃsā nāma caturthaḥ paricchedaḥ |</p>\n      </div>\n      <div>\n\t<p>samāpto 'yaṃ caturvargasaṃgrahaḥ |</p>\n      </div>\n    </body>\n  \n"
+  "file_title": "kṣemendra-caturvargasaṃgraha",
+  "file_title_normal": "ksemendra-caturvargasamgraha",
+  "metadata": {
+    "original_title": "Caturvargasaṃgraha",
+    "author": "Kṣemendra",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Daniele Cuneo",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Daniele Cuneo",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2019-05-13"
+  },
+  "body": [
+    {
+      "tag": "head",
+      "attributes": {},
+      "text": "mahākaviśrīkṣemendrakṛtaḥ",
+      "children": [
+        {
+          "tag": "lb",
+          "attributes": {}
+        },
+        {
+          "tag": "text",
+          "text": "caturvargasaṃgrahaḥ |"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "type": "pariccheda",
+        "n": "1"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "attributes": {},
+          "text": "prathamaḥ paricchedaḥ |"
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "satyaskandhas taruṇakaruṇāpūtapīyūṣasiktaḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "kṣānticchāyaḥ śubhamatilatālaṃkṛtaḥ śīlamūlaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhūyāt sattvaprasavavilasatpallavaḥ puṇyabhājāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "dharmaḥ prodyatkuśalakusumaḥ śrīphalo maṅgalāya ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "upadeśāya śiṣyāṇāṃ saṃtoṣāya manīṣiṇām |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kṣemendreṇa nijaślokaiḥ kriyate vargasaṃgrahaḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dharmaḥ śarma paratra ceha ca nṛṇāṃ dharmo 'ndhakāre raviḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "sarvāpatpraśamakṣamaḥ sumanasāṃ dharmābhidhāno nidhiḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dharmo bandhur abāndhave pṛthupathe dharmaḥ suhṛn niścalaḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "saṃsārorumarusthale suratarur nāsty eva dharmāt paraḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "karṇe dharmakathā mukhe paricitaṃ dharmābhirāmaṃ vacaś",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "citte dharmamanorathaḥ praṇayinī sarvatra dharmasthitiḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāye dharmamayī kriyā parikaraḥ so 'yaṃ śubhaprāptaye",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "kalpāpāyapade 'py upaplavalavair aspṛṣṭavelāphalaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nindyaṃ janma pramohasthirataratamasāṃ yan manuṣyatvahīnaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "buddhyā hīno manuṣyaḥ śubhaphalavikalas tulyaceṣṭaḥ paśūnām |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "buddhiḥ pāṇḍityahīnā bhramati sadasatos tattvacarcāvicāre",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "pāṇḍityaṃ dharmahīnaṃ śukasadṛśagirāṃ niṣphalakleśam eva ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pāṇḍityaṃ yan madāndhānāṃ parotkarṣavināśanam |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mātsaryapāṃsupūreṇa mātaṅgasnānam eva tat ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tatprājñatvaṃ harati vimalaṃ yena śīlaṃ na kāmas",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "taddhīratvaṃ praśamavaśatāṃ yānti yenendriyāṇi |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tadvaidagdhyaṃ bhuvanajayinī vañcyate yena māyā",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "tatpāṇḍityaṃ bhavaparibhavaḥ śāntim āyāti yena ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "andhaḥ sa eva śrutavarjito yaḥ śaṭhaḥ sa evārthinirarthako yaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mṛtaḥ sa evāsti yaśo na yasya dharme na dhīr yasya sa eva śocyaḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "hitaṃ na kiṃcid vihitaṃ parasya dattaṃ na vittaṃ na ca satyam uktam |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yasmin dine niṣphalatāṃ prayātam āyuḥ sa kālaḥ paridevanasya ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na dānatulyaṃ dhanam anyad asti na satyatulyaṃ vratam anyad asti |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na śītatulyaṃ śubham anyad asti na kṣāntitulyaṃ hitam anyad asti ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "satyaṃ vāci dṛśi prasādamayatā sarvāśayāśvāsinī",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "pāṇau dānavimuktir ātmajananakleśāntacintā matau |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃsaktā hṛdaye dayaiva dayitā kāye parārthodyamo",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "yasyaikaḥ puruṣaḥ sa jīvati bhave bhrāmyanty ajīvāḥ pare ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.12"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "paraprāṇatrāṇapraṇihitadhiyāṃ dharmajananī",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "dayaivaikā loke sakalajanatājīvitasudhā |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asāmānyaṃ puṇyaṃ munibhir uditaṃ jñānanayanair",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "ahiṃsā saṃsāre svapurakuśalaślāghyasaraṇiḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.13"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prāṇāṇāṃ parirakṣaṇāya satataṃ sarvāḥ kriyāḥ prāṇiṇāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "prāṇebhyo 'py adhikaṃ samastajagatāṃ nasty eva kiṃcit priyam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "puṇyaṃ tasya na śakyate gaṇayituṃ yaḥ pūrṇakāruṇyavān",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "prāṇānām abhayaṃ dadāti sukṛtī teṣām ahiṃsāvrataḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.14"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sa eva sattvābharaṇaprabhāvabhūrbhuvaḥ prakāmābharaṇaṃ narottamaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mukhāmbuje yasya vasaty anatyayā sadaiva satyābharaṇā sarasvatī ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.15"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "klinnaṃ koṣaniṣaṇṇam arthiviphalaṃ śalyāyate yatparaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "vittaṃ kleśānimittam eva malinaṃ yātu svayaṃ tatkṣayam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yatkāruṇyaparopakāravikalaṃ bhūbhārabhūtaṃ vapuḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "svārthāsaktam anarthasārthasadanaṃ mā māstu tat kasyacit ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.16"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vandyaḥ sa puṃsāṃ tridaśābhivandyaḥ kāruṇyapuṇyopacayakriyābhiḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃsārasāratvam upaiti yasya paropakārābharaṇaṃ śarīram ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.17"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "paradraviṇaniḥspṛhaḥ parakalatraniṣkautukaḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "parapraṇayavatsalaḥ paranikārabaddhakṣamaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "parastutiviśāradaḥ paragūnāpavādojjhitaḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "parārtiharaṇodyato bhavati bhūripuṇyair naraḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.18"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "padmānām iva sā satāṃ saguṇatā yā saṃśrayārhā śriyaḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "sā śrīr bhadragajendramūrtir iva yā dānena vibhrājate |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tad dānaṃ navacandravad yad aniśaṃ mānena saṃpūryate",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "māno 'sau ṭṛṇavan na yaḥ paricayamlānaḥ śanaiḥ śuṣyati ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.19"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "lakṣmīr dānaphalā śrutaṃ śamaphalaṃ pāṇiḥ surārcāphalaś",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "ceṣṭā dharmaphalā parārtiharaṇakrīḍāphalaṃ jīvitam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vāṇī satyaphalā jagatsukhaphalasphītā prabhāvonnatir",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "bhavyānāṃ bhavaśānticintanaphalā bhūtyai bhavaty eva dhiḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.20"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śīlaṃ śilayatāṃ kulaṃ kalayatāṃ sadbhāvam abhyasyatāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "vyājaṃ varjayatāṃ guṇaṃ gaṇayatāṃ dharme dhiyaṃ badhnatām |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kṣāntiṃ cintayatāṃ tamaḥ śamayatāṃ tattvaśrutiṃ śṛṇvatāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "saṃsāre na paropakārasadṛśaṃ paśyāmi puṇyaṃ satām ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.21"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tīrthāni dīrghādhvapariśramāṇi bahuvyayāni kratuḍambarāṇi |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tapāṃsi muktvā tanuśoṣaṇāni hiṃsāvirāme ramatāṃ matir vaḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.22"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yujvā vipraḥ śucir anucaraḥ saṃyatātmā tapasvī",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "mantrī vidvān avanivanitābhūṣaṇaṃ bhūmipālaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dharmodyāne sukṛtasalilāsārasaṃsicyamāne",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "pūrṇaḥ so 'yaṃ kṛtayugataror bhāvino bījavāpaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.23"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dambhena śīlavratam aspṛhatvaṃ viraktatā śrotriyatā mṛdutvam |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "etāni mūlāni nigūḍhagūḍhakauṭilyalīnāni kalidrumasya ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.24"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yāvanti dānāni vadanti santas tapāṃsi tīrthāni ca yāni santi |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tatpuṇyam ekatra vibhāti sarvaṃ mahārham ekatra ca niḥspṛhatvam ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.25"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "satām adainyaṃ vadanasya śobhā nirlobhatāntarvacasāmayācñā |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāyasya satsevyam asevyakatvaṃ pāṇer anuttānatalatvam eva ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.26"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mānyaḥ kulīnaḥ kulajāt kalāvān vidvān kalājñād viduṣaḥ suśīlaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhanī suśīlād dhanino 'pi dātā dātur jitā kīrtir āyācakena ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_1.27"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "taptais tīvravrataiḥ kiṃ vikasati karuṇāsyandinī yady ahiṃsā",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "kiṃ dūrais tīrthasārair yadi śamavimalaṃ mānasaṃ satyapūtam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yatnād anyopakāre prasarati yadi dhīr dānapuṇyaiḥ kim anyaiḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "kiṃ mokṣopāyayogair yadi śucimanasām ucyate bhaktir asti ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "iti dharmapraśaṃsā nāma prathamaḥ paricchedaḥ |"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "type": "pariccheda",
+        "n": "2"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "attributes": {},
+          "text": "dvitīyaḥ paricchedaḥ |"
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pradhānadhāmnāṃ nidhaye dhanāya namo' stu tasmai guṇino 'pi yatnāt |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yadāśayā nirguṇabhūpatīnām agre guṇān ṣaṇyadaśāṃ nayanti ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dānādidharmaḥ kriyate dhanena dhanena dhanyā dhanam āpnuvanti |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhanair vinā kāmakathāpi nāsti trivargamūlaṃ dhanam eva nānyat ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yat klībair bhaṭakukkuṭotkaṭaraṇakrīḍā samādiśyate",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "yan mūrkhaiḥ sukhalilayā kaviśukālāpaściraṃ carvyate |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nīcair uccataraś ca sevakahayaḥ svāmyena yad vāhyate",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "tad vittasya vilāsanṛttavasater udvṛttavṛttāyitam ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pūjā dhanenaiva na satkulena kīrtir dhanenaiva na vikrameṇa |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rūpaṃ dhanenaiva na yauvanena kriyā dhanenaiva na jīvitena ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vṛddhāḥ prasiddhā vibudhā vidagdhāḥ śūrā śrutijñāḥ kavayaḥ kulīnāḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vilokayantaḥ sadhanasya vaktraṃ jayeti jīveti sadā vadanti ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kruddhyā yutaṃ niścalapakṣmanetraṃ maunānvitaṃ devam ivākulīnam |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dīnaḥ kulīnaḥ praṇamatkulīnaḥ kṛtāñjaliḥ stauti dhanābhikāmaḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasmād alabdhadraviṇasya lābhe labdhasya rakṣāniyame yatena |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃrakṣamāṇasya sadā vivṛddhau vṛddhasya ca sthānavibhāgasarge ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dharmādhāno 'śaśiśuciyamaḥ preyasīmitrabandhu",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "-"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "sthānotsāhopacayavijayaprāṇavidyākalāptau |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ślāghye dehapraśamasamaye nirvivāde vibhāge",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "vittatyāge na bhavati satāṃ granthibandhānubandhaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "goṣṭhī viṭaiś cāraṇacakracaryā veśyāratiḥ sādhuviśeṣagandhaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "spardhā suveṣair nijavṛttilajjā pradhānam etan nidhanaṃ dhanānām ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jāyā śīlavivarjitā vyayavatī māyānikāyaḥ suhṛd",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "duṣpūro gurur arthabhoganicayair bandhur daridraḥ śaṭhaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dāsaś cauryaparo 'salaś ca kupade putraḥ khalaiḥ pātitaḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "so 'yaṃ kleśaśatāptasaṃcayanidheḥ pratyakṣalakṣyaḥ kṣayaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dākṣyaṃ vittasya mūlaṃ sunayaparicayaḥ saṃpadudyānasekaḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "prāgalbhyaṃ ratnavarṣi vyasanavanasamunmūlanaṃ saṃyatatvam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śrīrakṣā mantraguptir vipadupaśamanaṃ varjanaṃ durjanānām",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "ālasyaṃ mānavānāṃ dhanavananalināsahyabhāras tuṣāraḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.12"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "himāsahatvaṃ ravitāpabhītiḥ kathāmatir mārgajanapratīkṣā |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "lajjābhimānaḥ kṣaṇasaṃmukhatvaṃ nakṣatracarcā ca dhanasya vighnāḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.13"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "veṣaḥ parikleśaviśeṣacintā paroparodhaḥ svavaśāvalepaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nadīphalānām iva śīghragānāṃ hānir dhanānāṃ grahaṇe vilambaḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.14"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gurugaṇakair abudhānāṃ kṣayacaturaiś cauramuṣakair vaṇijām |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāyasthagāyanagaṇair bhūmibhujāṃ bhujyate lakṣmīḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.15"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dāridryeṇa kulaṃ madena kuśalaṃ dveṣeṇa vidyāphalaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "śīlaṃ durjanasaṃgamena malinācāreṇa śuklaṃ yaśaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ālasyena dhanaṃ prayāti nidhanaṃ laulyena mānonnatir",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "yācñādainyaparigraheṇa ca guṇagrāmaḥ samagro nṛṇām ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.16"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "maugdhyān mṛgarthī raghunandano 'pi bāṇaḥ pramādād balir ārjavena |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nalaḥ kusaṅgena yayātijaś ca kleśāsahatvād vyasanāny avāpuḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.17"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "maugdhyaṃ pramādo 'viśvāsaḥ kusaṅgaḥ kleśabhīrutā |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pañca saṃkocadā doṣāḥ padminyā iva saṃpadaḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.18"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kubhūpakūpāntaralambanāptavittāni randhrair ghaṭasaṃnibhānām |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asaṃvṛttair indriyanāmadheyaiḥ puṃsāṃ payāṃsīva parisravanti ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.19"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sāsvāde navasaurabhe madhulihāṃ padmodare bandhanaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "dīpe rūparatāḥ prayānti satatāpātāt pataṅgāḥ kṣayam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gītenaiva mṛgāḥ patanti kariṇīsparśena nītā gajās",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "tasmād indriyasaktir eva sahasā puṃsāṃ vipaddūtikā ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.20"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kulaṃ kuvṛttyā kaluṣīkṛtaṃ taiḥ kṛto guṇaughas tṛnatulyamūlyaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mānasya mūle nihitaḥ kuṭhāraḥ prāptaṃ na vittaṃ parirakṣitaṃ yaiḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.21"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jātaḥ satkulajaḥ sa nīcavinayī sevāvamānair adhas",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "tasyograṃ patitaḥ svamānayaśasor droheṇa śāpānalaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tenāsvastimatā svahastanihitaṃ yācñāviṣaṃ bhakṣitaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "vittaṃ yena na rakṣitaṃ ripumukhaṃ tena sthitaṃ vīkṣitam ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.22"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhāvan sevitum eti sādhur adhamaṃ kandhyas tato yāty asau",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "nītā mūlyatulāṃ guṇāś ca guṇibhiḥ kaścin na gṛhṇāti tān |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yācñā mānamahāśanir dhanakṛtā prāptaṃ na kiṃcit tayā",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "kiṃ kiṃ vā na vidhīyate dhanadhiyā dhanyaḥ sa yasyāsti tat ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.23"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vidyākalāparicayaḥ kṣitipālasevā",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "digdvīpamārgagirisaṃbhramaṇaprayāsaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yuddhākriyāś ca bhuvi bhojanalābhalobhāt",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "tadvittalabhyam iti vittavatāṃ pravādaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.24"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tāvad dharmakathā manobhavarucir mokṣaspṛhā jāyate",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "yāvat tṛptisukhodayena na janaḥ kṣutkṣāmakukṣiḥ kṣaṇam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prāpte bhojanacintanasya samaye vittaṃ nimittaṃ vinā",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "dharme kasya dhiyaḥ smaraṃ smarati kaḥ kenekṣyate mokṣabhūḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_2.25"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "arthākṛṣṭiṃ vidhātuṃ kaṭuraṭanapaṭur dāmbhikaḥ śrījaḍānāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "jānāty anyāsahiṣṇur vitathanijaguṇastotrapāṭheṣv alajjaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "āryaḥ kuryān na sevaṃ kulavinayaguṇais tena mūko 'rthanāyāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "tīkṣṇānāṃ mārgaṇānāṃ bhavati hi purataḥ kṣmāpater lakṣalābhaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "ity arthapraśaṃsā nāma dvitīyaḥ paricchedaḥ |"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "type": "pariccheda",
+        "n": "3"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "attributes": {},
+          "text": "tṛtīyaḥ paricchedaḥ |"
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "lalitalalanālīlodañcadvilolavilocano",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "-"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "tpalavanarucāṃ cañcantīnāṃ cayair iva carcitā |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "surabhisuhṛdaḥ pakṣacchātāvṛteva ca ṣaṭpadaiḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "kusumadhanuṣaḥ śyāmā mūrtis tanotu sukhāni vaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhramadbhramaraketakīvikasadekapatraprabhāḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "sanīlamaṇināyakā iva vimuktamuktālatāḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dṛśaḥ śaśikalā iva pracitapakṣmaleśāṅkitā",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "jayanti hariṇīdṛsām amṛtakālakūṭacchaṭāḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kratuṃ dhanānāṃ phalam agryam āhuḥ phalaṃ kratūnām avivādi puṇyam |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "puṇyasya pūrṇaṃ phalam indraloko dviraṣṭvarṣāḥ striya eva nākaḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "etāḥ santi vadhūvilāsakuṭilā bhrūkārmukaśreṇayaḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "karṇāntāyatapātinaś ca taruṇīnetratribhāgeṣavaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nirdagdho 'ndhakavairiṇā navamanaḥkṣobhābhiyogodbhavāt",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "saṃrambhād avicārya kevalam asau mithyā tapasvī smaraḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "lajjāvakro manasijadhanur bhrūvilāsena tānvyaś",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "cintāpāṇḍuḥ spṛśati kṛśatāṃ vakrakāntyā śaśāṅkaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yāty evādhaḥ prahasitarucidorlatābhyāṃ mṛṇālī",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "klībaṃ dhatte kuvalayakulaṃ kālimānaṃ kaṭākṣaiḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ayomayānāṃ hṛdayeṣu teṣāṃ ko 'py asti nūnaṃ kuliśopadeśaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "soḍhāni yaiḥ prauḍhavilāsinīnāṃ karṇāntamuktāni vilocanāni ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kuvalayamayī lolāpāṅge taraṅgamayī bhruvoḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "śaśiśatamayī vaktre gātre mṛṇālalatāmayī |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "malayajamayī sparśe tanvī tuṣāramayī smite",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "diśati viṣamaṃ smṛtyā tāpaṃ kim agnimayīva sā ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "smaraśaraniśitākṣyāḥ kampayante na keṣāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "kurava iva kaṭākṣāḥ prauḍhaśalyā manāṃsi |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhvanajanajigīṣotsāhayogāya yeṣām",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "adhicapalatarāṇāṃ niścalā karṇamaitrī ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "stanasthalī hāriṇi sundarīṇāṃ nitambabimbe raśanāsanāthe |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhatte viśeṣābharaṇābhimānalīlānavollekhalipiprapañcam ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāntāyā vilasadvilāsahasitasvacchāṃśacaścāmaraṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "saṃsaktāv abhiṣekahemakalaśau yac candanāṅkau stanau |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yatkārtasvarakānti cāru jaghanaṃ siṃhāsanaṃ bhūbhujāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "sāmrājyaṃ tad idaṃ jayājayamayaḥ śeṣas tu cintāmayaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nāsāditāni vanavāsadṛḍhavratena",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "citrāṇi netracaritāni mṛgair mṛgākṣyāḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tatkāntir ujjvalarucivyasanād aho nu",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "hemnā hutāśapatanair api naiva labdhā ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.12"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "abhinavapayodharodgativiṣamasthitihārahaṃsamukhapatitā |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śaivalavalīva cāsyās trikakalitā bhāti romalatā ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.13"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "neyaṃ taruṇyās trivalī taraṅgakusaṅginī rājati romarājiḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "snātvā gato 'syāṃ smarakelivāpyāṃ kalaṅkalekhām apahāya candraḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.14"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "karṇe kokilakāminīkalaravaḥ saṃtaptasūcīcayaḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "phullāśokapalāśacampakavanādyuddāmadāvānalaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tanvaṅgyā virahe vasnatasamayaḥ kālaḥ kim anyan nṛṇāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "dehoccāṭanam eva ṣaṭpadaghaṭāghrāṇātithir manmathaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.15"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "āpāṇḍutā madanakīrtisakhī mukhendau",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "praudhiṃ bibharti virahe harināyatākṣyāḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "acchinnabāṣpavisarāruṇanetrakoṇa",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "-"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "līnapratāpam iva manmatham udvahantyāḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.16"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "viyoge tanvaṅgyā hṛdayadamane dainyasadane",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "ghane bhartṛsnehān madanadahane gharyacalane |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "samāsanne cintācyasanaśamane prāṇagamane",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "tanus tāpamlāne valati nalinīpatraśayane ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.17"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dākṣiṇyapraṇayena pādapatite kānte mayā nekṣite",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "prāṇānāṃ jvalitaḥ pravāsapiśunaḥ śāpānalaḥ paśyasi |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "etaiḥ saṃbhramakātare kim adhunā mithyāsamāśvāsanaiḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "saṃtāpāya sakhi tvayaiva nanu me manopadeśaḥ kṛtaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.18"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "samāyāte patyau bahutaradinaprāpyapadavīṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "samulaṅghyāvighnāgamanacaturaṃ cārunayanā |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svayaṃ harṣodbāṣpā harati turagasyādaravatī",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "rajaḥ skandhālīnaṃ nijavasanakoṇāvahananaiḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.19"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vāsaḥ kampaviśṛṅkhalaṃ vitilakaṃ svedodgamādānanaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "saṃdaṣṭo 'dharapallavaḥ kalayati śvāsoṣmanā mlānatām |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dūti tvadvacane śaṭhasya kaṭhinasyāgre gate kuṇṭhatāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "matsnehād vihitas tvayā kupitayā kleśapraveśaḥ kiyān ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.20"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vyāptāsv aśokajvalanena dikṣu nirantarāpātaśilīmukhāsu |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ruddhāsu jālair vanamañjarīṇāṃ naṣṭā gatiḥ pānthakuraṅgakasya ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.21"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vikasati sahakāre duḥsahe karṇikāre",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "madhukaraparihāre sasmite sindhuvāre |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ahaha virahabhītyā kāminīṃ kaṇṭhalagnāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "tyajati navavasante hanta kāpālikaḥ kaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.22"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tanvaṅgyā navasaṃgame vyavasite kānte balān mekhalāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "moktuṃ śvāsavikāsakampavikalāḥ kaṇṭhe luṭhantyaḥ sudhām |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mīlatpadmanipīḍitāliraṇitāḥ klībāḥ",
+              "children": [
+                {
+                  "tag": "note",
+                  "attributes": {
+                    "resp": "#Durgaprasad1937"
+                  },
+                  "text": "(?)"
+                },
+                {
+                  "tag": "text",
+                  "text": "kiranti kṣaṇaṃ"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "dhanyānāṃ nananeti niḥsahatayā huṃkāragarbhā giraḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.23"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gāḍhāliṅgananiścalāṅgalatikā kāntena ruddhā balād",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "ālambyālakavallariṃ vidadhatā vakrāmbuje cumbanam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kampraprasphuritāruṇādharadalā bālā nimīlyākṣiṇī",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "manye mānasajanmajīvajananaṃ japyaṃ samabhyasyati ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.24"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kenaiva viśikhāḥ sphuracchikhiśikhāśākhāsakhā māninī",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "-"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "maunonmāthapṛthuprathā virahinīniḥśvāsapakṣānilāḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sahyante rativallabhasya laṭabhānetrāntatīkṣṇānanā",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "-"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "saṃdaṣṭādharapallavāgrataruṇīsītkāraśūtkāriṇaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_3.25"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "āyur dīrghataraṃ tanotu nayanadvandvaṃ kuraṅgīdṛśāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "kīrtiṃ te smitasaṃtatiḥ stanataṭaśroṇī viśālaśriyam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "devasya trijagajjayāya paṭahe datte mṛgākṣīgiror",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "ity utsāhasahe hitāya vihitā jāne jananyāśiṣaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "iti kāmapraśaṃsā nāma tṛtīyaḥ paricchedaḥ |"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "type": "pariccheda",
+        "n": "4"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "attributes": {},
+          "text": "caturthaḥ paricchedaḥ"
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhogābhogavilopakopakalahair astokaśokākulaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "kāmaṃ kāmam akāmadhāmasamayaṃ yogaṃ viyogānugam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rogodgāravikārapākaviṣamaṃ nirmūlya netravyathāḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "sekaṃ mokṣaphalasya saṃśayataror ekaṃ vivekaṃ numaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "udyāne mudhacandrikā śaśimukhīgītaṃ suhṛtsatkathā",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "kasyedaṃ na sukhādhikaṃ sukhasakhīṃ prītiṃ parāṃ varṣati |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kiṃ tv etat khalasaṅgasarparasanāmātaṅgakarṇāñcala",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "-"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "prauḍhāpāṅgapataṅgapakṣagaṇikānāgendrajālopamam ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bālyaṃ duḥsahamohasaṃhatihataṃ rāgolbaṇaṃ yauvanaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "vṛddhatvaṃ sakalopabhogakalanāvaikalyaśalyākulam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vairāgyeṇa vinā vinaṣṭavimalālokaṃ saśokaṃ sadā",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "saṃsāre saratāṃ punaḥ punar aho yātaṃ vṛthā jīvitam ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dṛṣṭā bālakaceṣṭā yauvanadarpo 'tha vṛddhavairāgyam |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sāpi gatā so 'pi gatas tad api gataṃ svapnamāyeyam ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "punaḥpunarjanmasahasrahetur malīmasaḥ snehasamo 'sti nānyaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "puṃsaḥ pradīpasya ca yaḥ karoti sevonmukhatvaṃ gṛhasaṃvibhāge ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ākrāntaṃ piśunair narendrabhavanaṃ vidyāgṛhaṃ matsarair",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "āyāsair draviṇaṃ kulaṃ kutanayair nānāvitogaiḥ sukham |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sādhutvaṃ khalavañcanāparibhavaiś cintāsahasrair manas",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "tan nāsty eva na yat saroṣakaluṣaṃ nirdoṣa ekaḥ śamaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhoge rogabhayaṃ sukhe kṣayabhayaṃ vitte 'gnibhūbhṛdbhayaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "dāsye svāmibhayaṃ gune khalabhayaṃ vaṃśe kuyoṣidbhayam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "māne mlānibhayaṃ jaye ripubhayaṃ kāye kṛtāntād bhayaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "sarvaṃ nāma bhave bhaved bhayam aho vairāgyam evābhayam ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kṛtaṃ śamajalena yair viratatīvratṛṣṇaṃ manaḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "paraṃ bhavaparābhavoddharaṇadhīradhuryair na te |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhajanti jananījanaprasṛtadugdhadhārāghana",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "-"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "stanapraṇayi tat punar daśanaśūnyam āsyaṃ narāḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "utsṛjya saṃtoṣasukhāmṛtāni prītyai parārādhanasādhanāni |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aho nu mānāni dhanāni puṃsāṃ ghanāni nidrāsukhasādhanāni ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vivekasvādhīne vijanagamane janmaśamane",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "vikāre saṃsāre vyasanaparihāre 'pi sukare |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "puraṃ lajjā sādhoḥ prasavasamaye śoṇitamaye",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "punaḥ pāṇiṃ mūrdhni kṣipati yadi dhātrīti patitaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "āyāsaprasave vicāravirase lajjājugupsāspade",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "rāgāndhā viramanti naiva kupade strībhoganāmni cyutāḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "cittaṃ nāsti sacetsām api nijākarṣe vimarṣaḥ kṣaṇaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "ratyanyeṣu paraṅmukhatvam aniśaṃ prāpnoti nāyaṃ janaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.12"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "keśākule raktakaṣāyapaṅkakapālabhāji prakaṭāsthidante |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāyaśmaśāne ramate 'ṅganānāṃ kāmākulaḥ kāmukakākalokaḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.13"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aho tṛṣṇā veśyā sakalajanatāmohanakarī",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "vidagdhā mugdhānāṃ harati vivaśānāṃ śamadhanam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vipaddīkṣādakṣāsahataralatāraiḥ praṇayinī",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "-"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "kaṭākṣaiḥ kūṭākṣaiḥ kapaṭakuṭilaiḥ kāmakitavaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.14"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bālyaṃ kulīrajananījanakapramohaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "tadyauvanaṃ kulaṭabhāsubhagopayogam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vṛddhatvam apy upacitaṃ kukalatraputraiḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "satyaṃ na kiṃcid idam atra khacitramitram ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.15"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na kasya kurvanti śamopadeśaṃ svapnopamāni priyasaṃgatāni |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jarānipītani ca yauvanāni kṛtāntadaṣṭāni ca jīvitāni ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.16"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "cintyante yadi nāma rāmanahuṣaśvetādirājarṣayaḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "kiṃ tair yāti viśālakālakalanāmīlatkathākautukaiḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gaṇyantāṃ svadṛśaiva bhūrivibhavā dṛṣṭāś ca naṣṭāś ca ye",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "tasmāt sarvam anityatākavalitaṃ jñātvā śamaḥ smaryatām ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.17"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yadā lolā lakṣmīḥ kṣitipatiraṇāraṇyahariṇī",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "yadā svapnomeṣā tanughanataḍidyauvanaruciḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yadā kālaḥ kāmaṃ janajalajakiñjalkamadhupas",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "tadā saṃsāre 'sminn avibudhamano noparamate ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.18"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃtoṣāmbhaḥ pibati nibhṛtasvaccham icchāmayūrī",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "bhrāntvā cāntaḥkaraṇahariṇo yāti viśrāntim antaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "līnaś cāyaṃ śamatarujale śītale tāpatāntiṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "mīlatkāmas tyajati niyataṃ mattacittadvipendraḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.19"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yāte bhoge smaraṇapadavīṃ saktanānāviyoge",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "śokaḥ stokaṃ spṛśati na manaḥ sarvathā nirvyathānām |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāle kāle kila kalayatām antavatsarvamantaḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "prāyaḥ kāyakṣayaparicaye niścaye nirbharaṃ naḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.20"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yātu vyaktiṃ kusumasamayaḥ saṃcayaḥ saurabhāṇāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "khe khelanto malayanilayāḥ saṃtataṃ vāntu vātāḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāmaḥ kāmaṃ kṣapayatu dhṛtiṃ pakṣmalākṣīkaṭākṣaiḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "śāntiś citte sthirasukhasakhī nirvikāre mamāstu ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.21"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jarānigīrṇe subhagābhimāne mlāne śanair bhūtilatāpratāne |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhanāvadāne śithilābhimāne dhṛtir nidhāne praśamābhidhāne ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.22"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rāgeṇa sārdhaṃ vayasi prayāte gateṣu bhogeṣu saha spṛhābhiḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dehe ca mohena samaṃ pralīne nirargalo 'sāv apavargamārgaḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.23"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "cittaṃ vātavikāsipāṃsusacivaṃ rūpaṃ dināntātapaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "bhogaṃ durgatagehabandhacapalaṃ puṣpasmitaṃ yauvanam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svapnaṃ bandhusamāgamaṃ tanum api prasthānapuṇyaprapāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "nityaṃ cintayatāṃ bhavanti na satāṃ bhūyo bhavagranthayaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.24"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "abhinnārthānarthaḥ suhṛdariparicchedarahitaḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "samāvajñāmānaḥ sadṛśasukhaduḥkhavyatirekaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na maunī nāmaunī vanajalasamānāsanamanā",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "na dainyaṃ nādainyaṃ spṛśati guṇanairguṇyavirataḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.25"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sā dūre haricandanasya na paraṃ hāreṇa kiṃ hāritā",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "no kāntākucamaṇḍalasya sulabhā candre daridre kutaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gīte saṃgatir eva nāsti samatā tasyāṃ na siddhāmadhor",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "nairāśye sahasaiva cetasi kṛte yā prītir ujjṛmbhate ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.26"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "labdhāvadhiḥ satyasukhāmṛtasya navapramodādbhutapūrṇakāmaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhārāvatārād iva nirvṛto 'haṃ tyāgena sarvāgrahasaṃgrahāṇām ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.27"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhanārjanavicintanaṃ hṛdayaropitāśāvanaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "vṛthā caraṇaśātanaṃ khalakadaryasaṃsevanam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sadā vyasanaśocanaṃ priyaviyogadīnānanaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "vihāya gṛhamajjanaṃ vrajati puṇyavān nirjanam ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.28"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nāsti svastikaraḥ paraḥ paribhavo dharmātmanāṃ prāṇinām",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "āpattāpaśamakṣamaṃ dhanasamaṃ nānyatkriyājīvitam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃsāre param asti no 'tra sukhadaṃ ramyaṃ na rāmānanāt",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "sarvakleśavināśanirvrtirasaḥ ko nāma mokṣāt paraḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "CVSam_4.29"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "caturvargopadeśena kṣemendreṇa yad arjitam |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "puṇyaṃ tenāstu loko 'yaṃ caturvargasya bhājanam ||"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "iti mokṣapraśaṃsā nāma caturthaḥ paricchedaḥ |"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "samāpto 'yaṃ caturvargasaṃgrahaḥ |"
+        }
+      ]
+    }
+  ]
 }

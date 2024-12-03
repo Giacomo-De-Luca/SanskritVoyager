@@ -1,4 +1,149 @@
 {
-  "title": "sa_hastavālaprakaraṇavṛtti",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Hastavālaprakaraṇavṛttiḥ (Hvpv)</p>\n\n<p>mañjuśrīye jñānasattvāya</p>\n\n<p>namaḥ trailokye vyavahāramātre sati paramarthābhimānāt tattvārthānavagāhibhiḥ sattvairvastusvabhāvavivekadvāreṇāviparyayajñānasaṃprāptaye śāstraracaneyaṃ //</p>\n\n<lg>\n<l>rajjau sarpamanaskāro rajjuṃ dṛṣṭvā nirarthakaḥ /</l>\n<l>tadaṃśān vīkṣya tatrāpi bhrāntā buddhirahāviva // Hvpv_1 (6) //</l>\n</lg>\n\n<lg>\n<l>sarvāṇyāśritavastūni svarupe suvicarite /</l>\n<l>āśritānyanyato yāvat saṃvṛtijñānagocaraḥ // Hvpv_2 (24) //</l>\n</lg>\n\n<lg>\n<l>niraṃśānāmacintyatvadaṇtyo 'pyavastunā samaḥ /</l>\n<l>bhrāntamatramataḥ prājñair na cintyaṃ paramārthataḥ // Hvpv_3 (45) //</l>\n</lg>\n\n<lg>\n<l>bhrāntaṃ tadapya samyaktvad yathā bhanaṃ tathāsti na /</l>\n<l>anarthakaṃ bhāsamānaṃ tatsadṛśātmakaṃ bhavet // Hvpv_4 //</l>\n</lg>\n\n<lg>\n<l>sarvamevāśritaṃ yena vidyate sūksmabuddhinā /</l>\n<l>tyajet sa buddhiman suṣthurāgādyahibhayaṃ yathā // Hvpv_5 //</l>\n</lg>\n\n<lg>\n<l>laukikārthavicareṣu lokasiddhimanuvrajet /</l>\n<l>kleśan sarvasaṃ tyaktumana yateta paramārthataḥ // Hvpv_6 //</l>\n</lg>\n\n  </body>\n\n"
+  "file_title": "hastavālaprakaraṇavṛtti",
+  "file_title_normal": "hastavalaprakaranavrtti",
+  "metadata": {
+    "original_title": "Hastavālaprakaraṇavṛtti",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Bhagchandra Jain: Hastabalapranavrtti. Nagpur : Aloka Prakashan, 1971."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Hastavālaprakaraṇavṛttiḥ (Hvpv)"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "mañjuśrīye jñānasattvāya"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "namaḥ trailokye vyavahāramātre sati paramarthābhimānāt tattvārthānavagāhibhiḥ sattvairvastusvabhāvavivekadvāreṇāviparyayajñānasaṃprāptaye śāstraracaneyaṃ //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rajjau sarpamanaskāro rajjuṃ dṛṣṭvā nirarthakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadaṃśān vīkṣya tatrāpi bhrāntā buddhirahāviva // Hvpv_1 (6) //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvāṇyāśritavastūni svarupe suvicarite /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āśritānyanyato yāvat saṃvṛtijñānagocaraḥ // Hvpv_2 (24) //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niraṃśānāmacintyatvadaṇtyo 'pyavastunā samaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhrāntamatramataḥ prājñair na cintyaṃ paramārthataḥ // Hvpv_3 (45) //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhrāntaṃ tadapya samyaktvad yathā bhanaṃ tathāsti na /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anarthakaṃ bhāsamānaṃ tatsadṛśātmakaṃ bhavet // Hvpv_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvamevāśritaṃ yena vidyate sūksmabuddhinā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tyajet sa buddhiman suṣthurāgādyahibhayaṃ yathā // Hvpv_5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "laukikārthavicareṣu lokasiddhimanuvrajet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kleśan sarvasaṃ tyaktumana yateta paramārthataḥ // Hvpv_6 //"
+        }
+      ]
+    }
+  ]
 }

@@ -1,4 +1,500 @@
 {
-  "title": "sa_vāmanadatta-dvayasaṃpattivārttika",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n    <p>oṃ namaḥ śivāya |</p>\n    <lg xml:id='DvSampV_1'>\n      <l>namaḥ paramanāthāya gaṇanāthāya śūline |</l>\n      <l>cidpadmāsanasaṃsthāya caturdhābhinnamūrtaye ||</l>\n    </lg>\n    <lg xml:id='DvSampV_2'>\n      <l>avarṇam asvaraṃ dhyātvā vyāpakaṃ parameśvaram |</l>\n      <l>vyutthāne yoginām itthaṃ śivatvaṃ jāyate sphuṭam ||</l>\n    </lg>\n    <lg xml:id='DvSampV_3'>\n      <l>tataḥ śaktimayo yogī nādabindvātmavigrahaḥ |</l>\n      <l>dvayasampattim āpnoti nirādhārapade sthitaḥ ||</l>\n    </lg>\n    <lg xml:id='DvSampV_4'>\n      <l>ślokadvayam idaṃ yasmāc chivavaktrāgamoditam |</l>\n      <l><sic>śuddhaiṣā yogikoṣasya vivṛtyeha pravartate</sic> ||</l>\n    </lg>\n    <lg xml:id='DvSampV_5'>\n      <l>ahaṃkāramayī bhūmir buddhibhūmeḥ parā hi sā |</l>\n      <l>tayā vyāptam idaṃ sarvaṃ saiva jñātā vimuktidā ||</l>\n    </lg>\n    <lg xml:id='DvSampV_6'>\n      <l>saṃvidrūpā parā śaktir abhinnā pārameśvarī |</l>\n      <l>jñānaśaktiḥ punaḥ saiva mantrarūpā prakāśate ||</l>\n    </lg>\n    <lg xml:id='DvSampV_7'>\n      <l>ahaṃkāraḥ smṛto mantraḥ śivaśaktyātmarūpakaḥ |</l>\n      <l>yad atrādyam avarṇākyaṃ sa śivaḥ parameśvaraḥ ||</l>\n    </lg>\n    <lg xml:id='DvSampV_8'>\n      <l>nādabindvātmakaṃ yat tu dvitīyā śaktir aiśvarī |</l>\n      <l>dvayam etat samākhyātaṃ bījabhūtaṃ carācare ||</l>\n    </lg>\n    <lg xml:id='DvSampV_9'>\n      <l>anena mudritāḥ sarve varṇā aṅgārarūpiṇā |</l>\n      <l>śabdabrahma tataḥ prāhur yoginas tattvacintakāḥ ||</l>\n    </lg>\n    <lg xml:id='DvSampV_10'>\n      <l>aprāṇam asvaraṃ dhyātvā paśyantyā nirvibhāgayā |</l>\n      <l>cinmātrāmarśayogena vilīnaḥ syāt pare pade ||</l>\n    </lg>\n    <lg xml:id='DvSampV_11'>\n      <l>tathā hi siddhair ādiṣṭaṃ kvacit siddhāntasaṃgrahe |</l>\n      <l>nābher ūrdhvaṃ vitastis tu kaṇṭhādhastāt ṣaḍaṅgulam ||</l>\n    </lg>\n    <lg xml:id='DvSampV_12'>\n      <l>hṛdayaṃ madhyadeśe tu padmaṃ tu hṛdi madhyataḥ |</l>\n      <l>tatra madhye sthitā sūkṣmā karṇikā tripathopagā ||</l>\n    </lg>\n    <lg xml:id='DvSampV_13'>\n      <l>tatra madhye hy akāraṃ tu svātmatattvaṃ vyavasthitam |</l>\n      <l>akārāntaḥ paraṃ sūkṣmaṃ cinmātratattvalakṣaṇam ||</l>\n    </lg>\n    <lg xml:id='DvSampV_14'>\n      <l>tasyāpy upāsā kathitā vijñāne bhairavena tu |</l>\n      <l>abindum avisargaṃ ca akāraṃ japato mahān ||</l>\n    </lg>\n    <lg xml:id='DvSampV_15'>\n      <l>udeti devi sahasāj jñānaughaḥ parameśvaraḥ |</l>\n      <l>karṇasthāne nirādhārā dvitiyā śaktir aiśvarī ||</l>\n    </lg>\n    <lg xml:id='DvSampV_16'>\n      <l>bījabhūtā kuṇḍalinī nādabindusvarūpiṇī |</l>\n      <l>prāṇaśaktir iyaṃ dehe hakārākhyā nadaty alam ||</l>\n    </lg>\n    <lg xml:id='DvSampV_17'>\n      <l>karṇāntaravivare yogī sthagitvā lakṣayet sphuṭam |</l>\n      <l>bindurūpā bhruvor madhye viśvasya jananī dhruvā ||</l>\n    </lg>\n    <lg xml:id='DvSampV_18'>\n      <l>lakṣyate yogibhir nityaṃ bhrājamāna svatejasā |</l>\n      <l>tasya bimbau tu candrārkau vāmadakṣinanetrayoḥ ||</l>\n    </lg>\n    <lg xml:id='DvSampV_19'>\n      <l>nirāśrayau tu tau kṛtvā viṣed brahma sanātanam |</l>\n      <l>vijñānabhairave 'py uktaṃ śastre siddhaniṣevite ||</l>\n    </lg>\n    <lg xml:id='DvSampV_20'>\n      <l>sampradāyam imaṃ samyak śṛṇu devi vadāmy aham |</l>\n      <l>kaivalyaṃ jāyate sadyo netrayoḥ stabdhamātrayoḥ ||</l>\n    </lg>\n    <lg xml:id='DvSampV_21'>\n      <l>saṃkocaṃ karṇayoḥ kṛtvā hy adhodvāre tathaiva ca |</l>\n      <l>an<orig>-</orig>ac<orig>-</orig>kam a<orig>-</orig>hal<orig>-</orig>aṃ dhyāyan viṣed brahmabilaṃ kṣaṇāt ||</l>\n    </lg>\n    <lg xml:id='DvSampV_22'>\n      <l>iti siddhamukhodgītaṃ svayam eva udāhṛtam |</l>\n      <l>mārgenānena saṃsiddhā labhante yoginīpadam ||</l>\n    </lg>\n    <lg xml:id='DvSampV_23'>\n      <l>jākadeśasamudbhūto mīmāṃsāvanakesarī |</l>\n      <l>harṣadattetināmā yas tasya sūnor iyaṃ kṛtiḥ ||</l>\n    </lg>\n  </body>\n\n"
+  "file_title": "vāmanadatta-dvayasaṃpattivārttika",
+  "file_title_normal": "vamanadatta-dvayasampattivarttika",
+  "metadata": {
+    "original_title": "Dvayasaṃpattivārttika",
+    "author": "Vāmanadatta",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Daniele Cuneo",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Daniele Cuneo",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2019-05-13"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "oṃ namaḥ śivāya |"
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_1"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "namaḥ paramanāthāya gaṇanāthāya śūline |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cidpadmāsanasaṃsthāya caturdhābhinnamūrtaye ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_2"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avarṇam asvaraṃ dhyātvā vyāpakaṃ parameśvaram |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyutthāne yoginām itthaṃ śivatvaṃ jāyate sphuṭam ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_3"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tataḥ śaktimayo yogī nādabindvātmavigrahaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvayasampattim āpnoti nirādhārapade sthitaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_4"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ślokadvayam idaṃ yasmāc chivavaktrāgamoditam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "sic",
+              "attributes": {},
+              "text": "śuddhaiṣā yogikoṣasya vivṛtyeha pravartate"
+            },
+            {
+              "tag": "text",
+              "text": "||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_5"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ahaṃkāramayī bhūmir buddhibhūmeḥ parā hi sā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tayā vyāptam idaṃ sarvaṃ saiva jñātā vimuktidā ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_6"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃvidrūpā parā śaktir abhinnā pārameśvarī |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānaśaktiḥ punaḥ saiva mantrarūpā prakāśate ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_7"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ahaṃkāraḥ smṛto mantraḥ śivaśaktyātmarūpakaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yad atrādyam avarṇākyaṃ sa śivaḥ parameśvaraḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_8"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nādabindvātmakaṃ yat tu dvitīyā śaktir aiśvarī |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvayam etat samākhyātaṃ bījabhūtaṃ carācare ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_9"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anena mudritāḥ sarve varṇā aṅgārarūpiṇā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śabdabrahma tataḥ prāhur yoginas tattvacintakāḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_10"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aprāṇam asvaraṃ dhyātvā paśyantyā nirvibhāgayā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cinmātrāmarśayogena vilīnaḥ syāt pare pade ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_11"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā hi siddhair ādiṣṭaṃ kvacit siddhāntasaṃgrahe |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nābher ūrdhvaṃ vitastis tu kaṇṭhādhastāt ṣaḍaṅgulam ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_12"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hṛdayaṃ madhyadeśe tu padmaṃ tu hṛdi madhyataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatra madhye sthitā sūkṣmā karṇikā tripathopagā ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_13"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatra madhye hy akāraṃ tu svātmatattvaṃ vyavasthitam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "akārāntaḥ paraṃ sūkṣmaṃ cinmātratattvalakṣaṇam ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_14"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasyāpy upāsā kathitā vijñāne bhairavena tu |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abindum avisargaṃ ca akāraṃ japato mahān ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_15"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "udeti devi sahasāj jñānaughaḥ parameśvaraḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karṇasthāne nirādhārā dvitiyā śaktir aiśvarī ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_16"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bījabhūtā kuṇḍalinī nādabindusvarūpiṇī |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāṇaśaktir iyaṃ dehe hakārākhyā nadaty alam ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_17"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karṇāntaravivare yogī sthagitvā lakṣayet sphuṭam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bindurūpā bhruvor madhye viśvasya jananī dhruvā ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_18"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lakṣyate yogibhir nityaṃ bhrājamāna svatejasā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasya bimbau tu candrārkau vāmadakṣinanetrayoḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_19"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirāśrayau tu tau kṛtvā viṣed brahma sanātanam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñānabhairave 'py uktaṃ śastre siddhaniṣevite ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_20"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sampradāyam imaṃ samyak śṛṇu devi vadāmy aham |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kaivalyaṃ jāyate sadyo netrayoḥ stabdhamātrayoḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_21"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃkocaṃ karṇayoḥ kṛtvā hy adhodvāre tathaiva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "an",
+          "children": [
+            {
+              "tag": "orig",
+              "attributes": {},
+              "text": "-"
+            },
+            {
+              "tag": "text",
+              "text": "ac"
+            },
+            {
+              "tag": "orig",
+              "attributes": {},
+              "text": "-"
+            },
+            {
+              "tag": "text",
+              "text": "kam a"
+            },
+            {
+              "tag": "orig",
+              "attributes": {},
+              "text": "-"
+            },
+            {
+              "tag": "text",
+              "text": "hal"
+            },
+            {
+              "tag": "orig",
+              "attributes": {},
+              "text": "-"
+            },
+            {
+              "tag": "text",
+              "text": "aṃ dhyāyan viṣed brahmabilaṃ kṣaṇāt ||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_22"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti siddhamukhodgītaṃ svayam eva udāhṛtam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mārgenānena saṃsiddhā labhante yoginīpadam ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "DvSampV_23"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jākadeśasamudbhūto mīmāṃsāvanakesarī |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "harṣadattetināmā yas tasya sūnor iyaṃ kṛtiḥ ||"
+        }
+      ]
+    }
+  ]
 }

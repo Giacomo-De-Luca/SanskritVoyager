@@ -1,4 +1,320 @@
 {
-  "title": "sa_svāgatasūtra",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Svāgatasūtra</p>\n\n<p>1 <hi rend='it'>śrāvast</hi>y<hi rend='it'>āṃ</hi> /\n<hi rend='blue'>Cf. SHT IV (additions) 881r1: /// <hi rend='it'>bha</hi>gavāṃ śr<hi rend='it'>āva</hi>styāṃ viharati sma je<hi rend='it'>tavane</hi> ///</hi></p>\n\n<p>2 svāga<hi rend='it'>taṃ vo bhikṣavaḥ / supravrajyā vo bhikṣavaḥ / lābhā sulabdhā</hi> / kadācit karh<hi rend='it'>i</hi>cid āryāyatane pratyājāti indriyair avik<hi rend='it'>alatā ajaḍatā aneḍamūkatā ahastasaṃvācakatā pratibalatā subhā</hi>ṣitadurbhāṣitānāṃ dharmāṇām artham ājñātum /\n<hi rend='blue'>Cf. SHT IV (additions) 881r2: /// <hi rend='it'>svā</hi>gataṃ vo <hi rend='it'>bhi</hi>kṣavaḥ supravrajyaṃ su<hi rend='it'>labdhā</hi> ///; r3: /// + .. indriyair avikalatā aja<hi rend='it'>ḍatā</hi> + ///; SBhV II 209.8-12: svāgataṃ vo bhikṣavaḥ supravrajitaṃ (MS °to); sulabdho vo manuṣyapratilambhaḥ; kadācit karhicid āryāyatane pratyājātiḥ, indriyair avikalatā, ajaḍatā, aneḍamūkatā, ahastasaṃvācikatā, pratibalatā subhāṣitadurbhāṣitānāṃ dharmāṇām artham ājñātuṃ</hi></p>\n\n<p>3 ahaṃ caitarhi śāstā loke utpannas tathāgato 'rhāṃ samyaksaṃbuddho vidyācaraṇasaṃpannaḥ sugato lokavid anuttara puruṣadamyasārathiḥ śāstā devamanuṣyāṇāṃ buddho bhagavāṃ /\n<l rend='blue'>Cf. SHT IV (additions) 881v1: /// <hi rend='it'>loka</hi>vid anuttaraḥ puruṣadamyasārathi<hi rend='it'>ḥ</hi> ///</l></p>\n\n<p>4 dharmaś ca deśyate aupaśamikaḥ pārinirvāṇikaḥ saṃbodhagāmī suga<hi rend='it'>tapra</hi>veditaḥ / yad utāsmiṃ satīdaṃ bhavaty asyotpādād idam utpadyate /</p>\n\n<p>yad utāvidyāpratyayāḥ saṃskārā yāvat samudayo nirodhaś ca bhavati /</p>\n\n<p>5 tad idaṃ bhikṣavaḥ sudurlabhadurlabhaṃ yat kadācit karh<hi rend='it'>i</hi>cid āryāyatane pratyājāti indriyair avikalatā yāvat samudayo nirodhaś ca bhavati /</p>\n\n<p>6 tasmāt tarhi bhikṣava ātmārthaṃ samanupaśyadbhiḥ pa<hi rend='it'>rārtha</hi>ñ cobhayārthaṃ ca yāvad e<hi rend='it'>vaṃ vo</hi> bhikṣavaḥ śikṣitavyam //</p>\n\n<p>7 svāgatasūtraṃ / samāptaḥ //</p>\n\n  </body>\n\n"
+  "file_title": "svāgatasūtra",
+  "file_title_normal": "svagatasutra",
+  "metadata": {
+    "original_title": "Svāgatasūtra",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "E. Waldschmidt: \"Ein zweites Daśabalasūtra\". In: Mitteilungen des Instituts für Orientforschung 6 (1958), pp. 392-397 [reprint in: E. Waldschmidt. Von Ceylon bis Turfan, Schriften zur Geschichte, Literatur, Religion und Kunst des indischen Kulturraumes (Festgabe zum 70. Geburtstag). Göttingen 1967, pp. 357-362]."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Svāgatasūtra"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "1",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "śrāvast"
+        },
+        {
+          "tag": "text",
+          "text": "y"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "āṃ"
+        },
+        {
+          "tag": "text",
+          "text": "/"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "blue"
+          },
+          "text": "Cf. SHT IV (additions) 881r1: ///",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "it"
+              },
+              "text": "bha"
+            },
+            {
+              "tag": "text",
+              "text": "gavāṃ śr"
+            },
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "it"
+              },
+              "text": "āva"
+            },
+            {
+              "tag": "text",
+              "text": "styāṃ viharati sma je"
+            },
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "it"
+              },
+              "text": "tavane"
+            },
+            {
+              "tag": "text",
+              "text": "///"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "2 svāga",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "taṃ vo bhikṣavaḥ / supravrajyā vo bhikṣavaḥ / lābhā sulabdhā"
+        },
+        {
+          "tag": "text",
+          "text": "/ kadācit karh"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "i"
+        },
+        {
+          "tag": "text",
+          "text": "cid āryāyatane pratyājāti indriyair avik"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "alatā ajaḍatā aneḍamūkatā ahastasaṃvācakatā pratibalatā subhā"
+        },
+        {
+          "tag": "text",
+          "text": "ṣitadurbhāṣitānāṃ dharmāṇām artham ājñātum /"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "blue"
+          },
+          "text": "Cf. SHT IV (additions) 881r2: ///",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "it"
+              },
+              "text": "svā"
+            },
+            {
+              "tag": "text",
+              "text": "gataṃ vo"
+            },
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "it"
+              },
+              "text": "bhi"
+            },
+            {
+              "tag": "text",
+              "text": "kṣavaḥ supravrajyaṃ su"
+            },
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "it"
+              },
+              "text": "labdhā"
+            },
+            {
+              "tag": "text",
+              "text": "///; r3: /// + .. indriyair avikalatā aja"
+            },
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "it"
+              },
+              "text": "ḍatā"
+            },
+            {
+              "tag": "text",
+              "text": "+ ///; SBhV II 209.8-12: svāgataṃ vo bhikṣavaḥ supravrajitaṃ (MS °to); sulabdho vo manuṣyapratilambhaḥ; kadācit karhicid āryāyatane pratyājātiḥ, indriyair avikalatā, ajaḍatā, aneḍamūkatā, ahastasaṃvācikatā, pratibalatā subhāṣitadurbhāṣitānāṃ dharmāṇām artham ājñātuṃ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "3 ahaṃ caitarhi śāstā loke utpannas tathāgato 'rhāṃ samyaksaṃbuddho vidyācaraṇasaṃpannaḥ sugato lokavid anuttara puruṣadamyasārathiḥ śāstā devamanuṣyāṇāṃ buddho bhagavāṃ /",
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "rend": "blue"
+          },
+          "text": "Cf. SHT IV (additions) 881v1: ///",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "it"
+              },
+              "text": "loka"
+            },
+            {
+              "tag": "text",
+              "text": "vid anuttaraḥ puruṣadamyasārathi"
+            },
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "it"
+              },
+              "text": "ḥ"
+            },
+            {
+              "tag": "text",
+              "text": "///"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "4 dharmaś ca deśyate aupaśamikaḥ pārinirvāṇikaḥ saṃbodhagāmī suga",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "tapra"
+        },
+        {
+          "tag": "text",
+          "text": "veditaḥ / yad utāsmiṃ satīdaṃ bhavaty asyotpādād idam utpadyate /"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "yad utāvidyāpratyayāḥ saṃskārā yāvat samudayo nirodhaś ca bhavati /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "5 tad idaṃ bhikṣavaḥ sudurlabhadurlabhaṃ yat kadācit karh",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "i"
+        },
+        {
+          "tag": "text",
+          "text": "cid āryāyatane pratyājāti indriyair avikalatā yāvat samudayo nirodhaś ca bhavati /"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "6 tasmāt tarhi bhikṣava ātmārthaṃ samanupaśyadbhiḥ pa",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "rārtha"
+        },
+        {
+          "tag": "text",
+          "text": "ñ cobhayārthaṃ ca yāvad e"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "vaṃ vo"
+        },
+        {
+          "tag": "text",
+          "text": "bhikṣavaḥ śikṣitavyam //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "7 svāgatasūtraṃ / samāptaḥ //"
+    }
+  ]
 }

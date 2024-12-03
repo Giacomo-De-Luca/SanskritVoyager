@@ -1,4 +1,1665 @@
 {
-  "title": "sa_appayadīkṣita-vairāgyaśatakam",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>śrīmadappayadīkṣitaviracitaṃ vairāgyaśatakam /</p>\n\n<lg>\n<l>āste kaścana bhikṣuḥ saṃgṛhṇannavyayāni daśa /</l>\n<l>na mametyavyayayugalaṃ yācāmastaṃ kimastyanyat // AppVs_1 //</l>\n</lg>\n\n<lg>\n<l>dhīsacivaṃ dhairyabalaṃ saṃkalpavirodhi śāntidhanam /</l>\n<l>viśvatrayaviṣayamidaṃ vairāgyaṃ nāma sāmrājyam // AppVs_2 //</l>\n</lg>\n\n<lg>\n<l>rājño bibheti loko rājānaḥ punarito 'pi vairibhyaḥ /</l>\n<l>ā brahmaṇaḥ kṛtāntādakutobhayamaspṛhārājyam // AppVs_3 //</l>\n</lg>\n\n<lg>\n<l>bhikṣāpradā jananyaḥ pitaro guravaḥ kumārakāḥ śiṣyāḥ /</l>\n<l>ekāntaramaṇahetuḥ śāntirdayitā viraktasya // AppVs_4 //</l>\n</lg>\n\n<lg>\n<l>ye na kimapi ceṣṭante kāryapratikaryayorvirahāt /</l>\n<l>santasta eva muktāḥ saṃdehe gautamaḥ sākṣī // AppVs_5 //</l>\n</lg>\n\n<lg>\n<l>patatu nabhaḥ sphuṭatu mahī calantu girayo milantu vāridhayaḥ /</l>\n<l>adharottaramastu jagatkā hānirvītarāgasya // AppVs_6 //</l>\n</lg>\n\n<lg>\n<l>ke corāḥ ke piśunāha ke ripavaḥ ke 'pi dāyādāḥ /</l>\n<l>jagadakhilaṃ tasya vaśe yasya vaśe syādidaṃ cetaḥ // AppVs_7 //</l>\n</lg>\n\n<lg>\n<l>viṣayā upatiṣṭhantāṃ viṣayairvā samavayantu karaṇāni /</l>\n<l>āntaramekaṃ karaṇaṃ śāntaṃ yadi kā tataścintā // AppVs_8 //</l>\n</lg>\n\n<lg>\n<l>kiṃ viṣayānparihartuṃ vastavyaṃ merukaṃdareṣvabudhaiḥ /</l>\n<l>nahyadbhiranāsektuṃ dhātuṣu rohanti padmāni // AppVs_9 //</l>\n</lg>\n\n<lg>\n<l>ajñānamiha nidānaṃ prāgrūpaṃ jananameva bhavaroge /</l>\n<l>paripākaḥ saṃsaraṇaṃ bhaiṣajyaṃ naiṣṭhikī śāntiḥ // AppVs_10 //</l>\n</lg>\n\n<lg>\n<l>svenopabhuktamarthaṃ sūkarajātismaro manuṣya iva /</l>\n<l>dūre jugupsamāno dhīro vairāgyamadriyate // AppVs_11 //</l>\n</lg>\n\n<lg>\n<l>śaiśavamiva kaumāre tattaruṇimnīva sa iva vṛddhatve /</l>\n<l>na svadate dhīrāṇāṃ kāmasya viceṣṭitaṃ śāntau // AppVs_12 //</l>\n</lg>\n\n<lg>\n<l>śataśaḥ parīkṣya viṣayānsadyo jahati kvacitkvaciddhavyāḥ /</l>\n<l>kākā iva vāntāśanamanye tāneva sevante // AppVs_13 //</l>\n</lg>\n\n<lg>\n<l>caramau mātāpitarau caramā gṛhiṇī sutāścaramāḥ /</l>\n<l>kartavye 'pi premaṇi kathamiha dhīrā virajyante // AppVs_14 //</l>\n</lg>\n\n<lg>\n<l>tṛṇavadbhramanti capalāḥ strīnāmani caṇḍamārute calati /</l>\n<l>dharaṇidharā iva santastatra na kiṃcitprakampante // AppVs_15 //</l>\n</lg>\n\n<lg>\n<l>kāmijanaparamabhogye kāmasukhe dhārayanti bībhatsam /</l>\n<l>santaḥ śamasukharasikāḥ sudhāśanāḥ sūkarānna iva // AppVs_16 //</l>\n</lg>\n\n<lg>\n<l>vikṣepamātrabhājo vikāsakāṣṭāgatajñānāḥ /</l>\n<l>svasyāpi ceṣṭitāni svayamīkṣante parasyeva // AppVs_17 //</l>\n</lg>\n\n<lg>\n<l>asthāne 'bhiniviṣṭānmūrkhānasthāna eva saṃtuṣṭān /</l>\n<l>anuvartante dhīrāḥ pitara iva krīḍato bālān // AppVs_18 //</l>\n</lg>\n\n<lg>\n<l>puṣṇati puruṣe salilairmuṣṇati puṣpaṃ phalaṃ ca tarava iva /</l>\n<l>vartante santaḥ samamupakartari cāpakartari ca // AppVs_19 //</l>\n</lg>\n\n<lg>\n<l>nityānityavivekaḥ sarveṣāṃ ghaṭaghaṭatvayorāste /</l>\n<l>sa viveko yaḥ śāntikṛdaviveko 'nyaḥ samasto 'pi // AppVs_20 //</l>\n</lg>\n\n<lg>\n<l>anadhigate kāmasukhe kālena yathā pravartate taruṇaḥ /</l>\n<l>evaṃ brahmasukhe 'pi pravartate ko 'pi bhāgyavaśāt // AppVs_21 //</l>\n</lg>\n\n<lg>\n<l>putraguṇāḥ svātantrye dāraguṇāścādhivedanāvasare /</l>\n<l>bhrātṛguṇā dāyavidhau draṣṭavyā mokṣyamāṇena // AppVs_22 //</l>\n</lg>\n\n<lg>\n<l>kā me gatiriti pṛcchati caramaśvāse 'pi yaḥ svārtham /</l>\n<l>tasya janasyāpi kṛte pāpāḥ pāpāni kurvanti // AppVs_23 //</l>\n</lg>\n\n<lg>\n<l>pitṛbhiḥ kalahāyante putrānadhyāpayanti pitṛbhaktim /</l>\n<l>paradārānupayantaḥ paṭhanti śāstrāṇi dāreṣu // AppVs_24 //</l>\n</lg>\n\n<lg>\n<l>śāntiralabhyāduparatirapātrabhāvaḥ pratigrahanivṛttiḥ /</l>\n<l>kṣāntirdurbalateti ca nivṛttidharmāḥ kalāvete // AppVs_25 //</l>\n</lg>\n\n<lg>\n<l>nītijñā niyatijñā vedajñā api bhavanti śāstrajñāḥ /</l>\n<l>brahmajñā api labhyāḥ svājñānajñānino viralāḥ // AppVs_26 //</l>\n</lg>\n\n<lg>\n<l>kalikaluṣe manasi sve kathamiva jagadārjavaṃ labhate /</l>\n<l>cakṣurdoṣe jāgrati candradvitvaṃ kuto yātu // AppVs_27 //</l>\n</lg>\n\n<lg>\n<l>viṣayānanukūlayituṃ viṣayiṇi hṛdaye vidhīyatāṃ yatnaḥ /</l>\n<l>dṛśi deyamauṣadhaṃ ko dṛśye dattvā sukhī bhavati // AppVs_28 //</l>\n</lg>\n\n<lg>\n<l>dārāḥ putreṣu ratāḥ putrāḥ pitṛdhanaparigrahavyagrāḥ /</l>\n<l>rodanaśaraṇā jananī paralokagatasya ko bandhuḥ // AppVs_29 //</l>\n</lg>\n\n<lg>\n<l>paśyanti mriyamāṇānmariṣyato 'numimate smaranti mṛtān /</l>\n<l>kathayante caivamasacceṣṭante nityavattu param // AppVs_30 //</l>\n</lg>\n\n<lg>\n<l>kalahāyante mūḍhāḥ kaḥ pratibhūḥ śvaḥ prabhāta iti /</l>\n<l>tasyāmeva rajanyāṃ kaḥ pratibhūḥ svasya sattāyām // AppVs_31 //</l>\n</lg>\n\n<lg>\n<l>kulyāḥ kṛtā viśālāḥ kuḍyānyupalairnibaddhāni /</l>\n<l>krītā balino mahipāḥ kṛtakṛtyāḥ sma iti manyante // AppVs_32 //</l>\n</lg>\n\n<lg>\n<l>ā prapadamā śiraskaṃ cāntaḥ kalimalamalīmase vapuṣi /</l>\n<l>viphalaṃ gaṅgājalamapi madyaghaṭe darbhamuṣṭiriva // AppVs_33 //</l>\n</lg>\n\n<lg>\n<l>daṇḍyaṃ yatsukhahetoḥ puṣṇanti janāḥ kathaṃ tadeva vapuḥ /</l>\n<l>nahi śarkarābhilāṣibhirikṣoḥ kāṇḍāni pūjyante // AppVs_34 //</l>\n</lg>\n\n<lg>\n<l>prāyo muhyati cetaḥ prāṇabhṛtaḥ prāṇanirgamāvasare /</l>\n<l>puṇyena yadi na muhyati putrāneva smaranmriyate // AppVs_35 //</l>\n</lg>\n\n<lg>\n<l>śamayitumaudaramagniṃ saṃsārākhyāmbudhau nimajjanti /</l>\n<l>tuhinavyathānivṛttyai nahi veśmani pāvako deyaḥ // AppVs_36 //</l>\n</lg>\n\n<lg>\n<l>āhṛtya parityaktā janayantyarthāḥ sukhābhāsam /</l>\n<l>atyantaparityaktāḥ paramānandāya kalpante // AppVs_37 //</l>\n</lg>\n\n<lg>\n<l>arthānāmadhikānāṃ rājñā caureṇa vā nāśaḥ /</l>\n<l>anne khalvatimukte vamanaṃ vā syādvireko vā // AppVs_38 //</l>\n</lg>\n\n<lg>\n<l>praṇamati parisāntvayati[praṇi]patati sadā paribhramati /</l>\n<l>āviṣṭa iva piśācyā puruṣastṛṣṇāvaśaṃ yātaḥ // AppVs_39 //</l>\n</lg>\n\n<lg>\n<l>jananādṛṣṭātpitarau putrā jāmātaro 'pyayādṛṣṭāt /</l>\n<l>kalahādṛṣṭājjñātaya iti nirṇīte kimeṣṭavyam // AppVs_40 //</l>\n</lg>\n\n<lg>\n<l>svapituḥ paralokāya svayamanudivasaṃ yadācarati /</l>\n<l>kriyatāmidamupamānaṃ kiṃ nālaṃ putravairāgye // AppVs_41 //</l>\n</lg>\n\n<lg>\n<l>ananugate dāridrye kimanugataṃ lakṣaṇaṃ dṛṣṭam /</l>\n<l>kāmasyāpūrtiryadi kṛpaṇaṃ jagadā caturvadanāt // AppVs_42 //</l>\n</lg>\n\n<lg>\n<l>na khalu dhanatvaṃ jātiryasya yadiṣṭaṃ tadeva tasya dhanam /</l>\n<l>tattadiva pāmarāṇāmākiṃcanyaṃ dhanaṃ viduṣām // AppVs_43 //</l>\n</lg>\n\n<lg>\n<l>svīkriyate yadi tṛṣṇā svīkartavyaṃ jagatsamastamapi /</l>\n<l>svīkriyate yadi śāntiḥ svātmāpi svasya bhavati na vā // AppVs_44 //</l>\n</lg>\n\n<lg>\n<l>yaddātāraṃ vaśayati yatparijanamasya sāntvayati /</l>\n<l>yadapatrapate nāntarbhāvālābhaḥ sa kasya samaḥ // AppVs_45 //</l>\n</lg>\n\n<lg>\n<l>prādeśamātramudaraṃ paripūrayituṃ kiyānayaṃ yatnaḥ /</l>\n<l>culakenāmbhaḥ pātuṃ svanitavyaḥ kiṃ taṭāko 'pi // AppVs_46 //</l>\n</lg>\n\n<lg>\n<l>yāmārdhamasaṃskārādyāmadvayamanaśanācca suvyakte /</l>\n<l>śārīre saundarye 'pyabhiniviśante kiyanmūḍhāḥ // AppVs_47 //</l>\n</lg>\n\n<lg>\n<l>vandhyetyāhustaruṇīṃ jaratīti parityajanti bahuputrām /</l>\n<l>abhinindantyalpasutāṃ kā gṛhiṇī kāmino hṛdyā // AppVs_48 //</l>\n</lg>\n\n<lg>\n<l>yānti śucamakṛtadārā dve bhārye neti kṛtadārāḥ /</l>\n<l>te paradārā neti strībhistṛptānna paśyāmaḥ // AppVs_49 //</l>\n</lg>\n\n<lg>\n<l>madanasyājñākaraṇe manye jagadakhilamekarūpamidam /</l>\n<l>tiryañca iti narā iti devā ityanyato bhedaḥ // AppVs_50 //</l>\n</lg>\n\n<lg>\n<l>śukravimokasthānaṃ malamūtratyāgadeśavatkimapi /</l>\n<l>striya iti vihitaṃ vidhinā kiyadatra janā nimajjanti // AppVs_51 //</l>\n</lg>\n\n<lg>\n<l>vedānadhītya vidhivanmīmāṃsitvā tadarthaṃ ca /</l>\n<l>dārāḥ kartavyā iti kenedaṃ prahasanaṃ kathitam // AppVs_52 //</l>\n</lg>\n\n<lg>\n<l>duḥkhenopārjyante pālyante pratyahaṃ ca lālyante /</l>\n<l>vāmāḥ striyo vimūḍhairupabhuñjānāḥ sukhaṃ viguṇam // AppVs_53 //</l>\n</lg>\n\n<lg>\n<l>aśnīta pibata svādata jāgrata saṃviśata tiṣṭhata vā /</l>\n<l>sakṛdapi cintayatāhnaḥ sāvadhiko dehabandha iti // AppVs_54 //</l>\n</lg>\n\n<lg>\n<l>kiṃ vijitayā pṛthivyā kiṃ kāñcanabhūbhṛtā karasthena /</l>\n<l>kiṃ divyābhiḥ strībhirmartavye brahmaṇā likhite // AppVs_55 //</l>\n</lg>\n\n<lg>\n<l>jīvati katicinnimiṣānkaticitteṣu śrutīradhīta iva /</l>\n<l>tāvatsaivākulayati tantrāṇi navāni cātanute // AppVs_56 //</l>\n</lg>\n\n<lg>\n<l>svalpo jīvanakālaḥ svalpā dhīḥ paricayaḥ svalpaḥ /</l>\n<l>tadapi tarema kathaṃcicchrutayo yadi nopajāyante // AppVs_57 //</l>\n</lg>\n\n<lg>\n<l>kuta āgataṃ na jāne kva nu vā gantavyamidamapi na jāne /</l>\n<l>saṃcarasi kvedānīṃ saṃsārapathe mahātamasi // AppVs_58 //</l>\n</lg>\n\n<lg>\n<l>tamasāvṛttāścarantaḥ savidhe dūre ca nāvayantyarthān /</l>\n<l>avayanti tu vispaṣṭaṃ taḍitābhihate śirasi mūḍhāḥ // AppVs_59 //</l>\n</lg>\n\n<lg>\n<l>nimiṣantyatra taruṇyastatra taruṇyo na nimiṣanti /</l>\n<l>īdṛkṣo hi viśeṣaḥ svargaḥ svarga iti kiṃ tatra // AppVs_60 //</l>\n</lg>\n\n<lg>\n<l>kopo maitrāvaruṇeḥ śāpo vā tārkikasya muneḥ /</l>\n<l>saṃsmaryate yadi sakṛcchatrorapi māstu śakrapadam // AppVs_61 //</l>\n</lg>\n\n<lg>\n<l>gacchatyamarāvatyāṃ gacchatu caturānanasya vā nagare /</l>\n<l>punarāgantavyaṃ yadi puṃsā kiṃ sādhitaṃ bhavati // AppVs_62 //</l>\n</lg>\n\n<lg>\n<l>bhuktā bahavo dārā labdhāḥ putrāśca pautrāśca /</l>\n<l>nītaṃ śatamapyāyuḥ satyaṃ vada martumasti manaḥ // AppVs_63 //</l>\n</lg>\n\n<lg>\n<l>viśleṣaṇasvabhāvānpaśyanviṣayānkaroti ko mamatām /</l>\n<l>naśyadavasthāpannaṃ kaḥ krīṇīte dhanairaśvam // AppVs_64 //</l>\n</lg>\n\n<lg>\n<l>annābhāve mṛtyuḥ śālibhirannāni śālayo vṛṣṭyā /</l>\n<l>vṛṣṭistapaseti vadannamṛtyave tattapaścaratu // AppVs_65 //</l>\n</lg>\n\n<lg>\n<l>kiṃ na nigṛhṇanti manaḥ kiṃ na bhajante janāḥ śivaṃ śaraṇam /</l>\n<l>abhisaṃdhibhedamātrānmokṣopāye na badhyante // AppVs_66 //</l>\n</lg>\n\n<lg>\n<l>bhogāya pāmarāṇāṃ yogāya vivekināṃ śarīramidam /</l>\n<l>bhogāya ca yogāya ca na kalpate durvidagdhānām // AppVs_67 //</l>\n</lg>\n\n<lg>\n<l>brāhmaṇacaṇḍālā ityāha muniryanmahāpathikān /</l>\n<l>bhavamārgamahāpathikānadhikṛtyaiva pravartitaṃ caitat // AppVs_68 //</l>\n</lg>\n\n<lg>\n<l>ekadvāḥ kṣitipatiṣu dvitrā deveṣu pañcaṣā druhiṇe /</l>\n<l>etāvanto jagati brahmānandārṇavasya kaṇāḥ // AppVs_69 //</l>\n</lg>\n\n<lg>\n<l>ajñānenāpihite vijñāne karma kiṃ kurute /</l>\n<l>vikale cakṣuṣi tamasā vyādāya mukhaṃ kimīkṣeta // AppVs_70 //</l>\n</lg>\n\n<lg>\n<l>atikaluṣamāśunaśvaramāpātasphuraṇamanabhilāṣakaram /</l>\n<l>api hṛṣyanti janāḥ kathamavalambya jñānakhadyotam // AppVs_71 //</l>\n</lg>\n\n<lg>\n<l>ayutaṃ niyutaṃ vāpi pradiśantu prākṛtāya bhogāya /</l>\n<l>krīṇanti na bilvadalaiḥ kaivalyaṃ pañcaṣairmūḍhāḥ // AppVs_72 //</l>\n</lg>\n\n<lg>\n<l>yāvatkila ceṣṭante tāvatpāśe nibadhyate granthiḥ /</l>\n<l>nibhṛtaṃ yadi vartante kālena sraṃsate pāśaḥ // AppVs_73 //</l>\n</lg>\n\n<lg>\n<l>uparundhanti śvāsānmunayo nāśnanti na pibanti /</l>\n<l>stūyante sujanaiḥ kiṃ kaṇṭhe kurvanti kanakapāśamime // AppVs_74 //</l>\n</lg>\n\n<lg>\n<l>kāmaṃ janāḥ smayante kailāsavilāsavarṇanāvasare /</l>\n<l>sādhanakathanāvasare sācīkurvanti vaktrāṇi // AppVs_75 //</l>\n</lg>\n\n<lg>\n<l>vaṅgāḥ kathamaṅgāḥ kathamityanuyuṅkte vṛthā deśān /</l>\n<l>kīdṛkkṛtāntapuramiti ko 'pi na jijñāsate lokaḥ // AppVs_76 //</l>\n</lg>\n\n<lg>\n<l>tyaktavyo mamakārastyaktuṃ yadi śakyate nāsau /</l>\n<l>kartavyo mamakāraḥ kiṃ tu sa sarvatra kartavyaḥ // AppVs_77 //</l>\n</lg>\n\n<lg>\n<l>putrā iti dārā iti poṣyānmūrkho janānbrūte /</l>\n<l>andhe tamasi nimajjannātmā poṣya iti nāvaiti // AppVs_78 //</l>\n</lg>\n\n<lg>\n<l>yaccintitamadhigarbhaṃ yacca ciraṃ cintitaṃ narake /</l>\n<l>viṣayānilasaṃsargānmamṛje tatsarvamekapade // AppVs_79 //</l>\n</lg>\n\n<lg>\n<l>bāhyagatāgataśīlā prāṇasya śvāsalakṣaṇā vṛttiḥ /</l>\n<l>karṣati manaso vṛttiṃ kulaṭeva kulastriyaṃ mugdhām // AppVs_80 //</l>\n</lg>\n\n<lg>\n<l>atigambhīramanāvilamakṣobhyamadṛṣṭapāramavilaṅghyam /</l>\n<l>aviralataraṅgasaṃkulamaikṣiṣi vijñānasāgaraṃ mahatām // AppVs_81 //</l>\n</lg>\n\n<lg>\n<l>ghoraṃ bhavamapahātuṃ kecidaghoraṃ prapadyante /</l>\n<l>saṃsaraṇakātarāṇāṃ saṃśaraṇaṃ śāṃbhavī śaktiḥ // AppVs_82 //</l>\n</lg>\n\n<lg>\n<l>pāśo yadi moktavyaḥ paśupatirevopasartavyaḥ /</l>\n<l>na khalu vyatimucyante paśavaḥ pāśena saṃbaddhāḥ // AppVs_83 //</l>\n</lg>\n\n<lg>\n<l>alamalamanubhūtābhirmātṛbhiralamastu pitṛbhiśca /</l>\n<l>bhavitavyaṃ yadi nityavadarthaṃ mātuḥ pituścāstu // AppVs_84 //</l>\n</lg>\n\n<lg>\n<l>dhanyāste bahudevāḥ svāmini yeṣāṃ na durbhikṣam /</l>\n<l>jātu na jānīmo vayamekaṃ taṃ svāminaṃ pūrṇam // AppVs_85 //</l>\n</lg>\n\n<lg>\n<l>santu bṛhanto devāḥ kiṃ tu na tānnantumīhate cetaḥ /</l>\n<l>āḍhyavadānyanyāyādantakajitameva cintayenmanasi // AppVs_86 //</l>\n</lg>\n\n<lg>\n<l>nidhyāyasi viṣayasukhaṃ na dhyāyasi viṣamamasya paripākam /</l>\n<l>bandhuṃ tameva cintaya baddhuṃ moktuṃ ca yaḥ kṣamate // AppVs_87 //</l>\n</lg>\n\n<lg>\n<l>sadanaṃ gurūpasadanaṃ śaraṇaṃ pañcākṣarīpuraścaraṇam /</l>\n<l>dhanamabhilāṣanirodhanamantyāśramavartināṃ puṃsām // AppVs_88 //</l>\n</lg>\n\n<lg>\n<l>kau pitarau kaḥ putraḥ kaḥ svāmī yaḥ prapañcasya /</l>\n<l>pratyastamite bhede kimidaṃ kimidamiti vipraśnaḥ // AppVs_89 //</l>\n</lg>\n\n<lg>\n<l>sa vidhiryatte vidadhati sa pratiṣedho yato nivartante /</l>\n<l>sopaniṣadyadbruvate śaivāśravamartino dhīrāḥ // AppVs_90 //</l>\n</lg>\n\n<lg>\n<l>tyaja saṃsāramasāraṃ bhaja śaraṇaṃ pārvatīramaṇam /</l>\n<l>viśvasihi śrutiśikharaṃ viśvamidaṃ tava nideśakaram // AppVs_91 //</l>\n</lg>\n\n<lg>\n<l>bhavyamabhavyaṃ vā naḥ pralikhatu vedhāḥ sudurmedhāḥ /</l>\n<l>savyamasavyaṃ vā naḥ śaraṇaṃ caraṇaṃ maheśasya // AppVs_92 //</l>\n</lg>\n\n<lg>\n<l>vedhāḥ kathaṃ hariḥ kathamiti tu praśne vayaṃ mūkāḥ /</l>\n<l>śivamekaṃ jānīmo na śivādanyaṃ vijānīmaḥ // AppVs_93 //</l>\n</lg>\n\n<lg>\n<l>dāruṇamasipattravanaṃ dāruṇatamamandhatāmisram /</l>\n<l>kā vā tataḥ kṣatirnaḥ śaivā vayamā caturvadanāt // AppVs_94 //</l>\n</lg>\n\n<lg>\n<l>kṛtadīkṣo ghoramakhe kulakūṭastho bharadvājaḥ /</l>\n<l>vidyeśvareṣu kaścana pitāmaho na iti visrambhaḥ // AppVs_95 //</l>\n</lg>\n\n<lg>\n<l>kalahaḥ kadāpi māstviti kalitaśarīraikyayoḥ śivayoḥ /</l>\n<l>ahamasmyahamasmīti prāptaḥ kalaho mama trāṇe // AppVs_96 //</l>\n</lg>\n\n<lg>\n<l>narakāyāpi na bhogānnarādhamāyāpi nānyasurān /</l>\n<l>manyante katicidamī māheśvaramāśritā yogam // AppVs_97 //</l>\n</lg>\n\n<lg>\n<l>jñātuṃ hātuṃ viṣayaṃ śrotuṃ mantuṃ gṛhītumātmānam /</l>\n<l>vatsā yadi na hi ghaṭate tatsādhayatāvimuktāya // AppVs_98 //</l>\n</lg>\n\n<lg>\n<l>sāṃkhyaṃ yogaṃ nigamā bhaktiḥ karma pratītiriti /</l>\n<l>ekatra sakalametatkevalamavimuktamekatra // AppVs_99 //</l>\n</lg>\n\n<lg>\n<l>baddhaḥ kaste vakṣyati mukto muktiṃ vijānāti /</l>\n<l>yāsyasi cedavimuktaṃ jñāsyasi viśveśvarasya mukhāt // AppVs_100 //</l>\n</lg>\n\n<lg>\n<l>na gṛhītaṃ śrutihṛdayaṃ na ca na gṛhītaṃ pariplavaṃ hṛdayam /</l>\n<l>icchāmi ca dhāma paraṃ gacchāmi tu viśvanāthapurīm // AppVs_101 //</l>\n</lg>\n\n<p>iti śrīmadappayadīkṣitaviracitaṃ vairāgyaśatakaṃ saṃpūrṇam /</p>\n\n  </body>\n\n"
+  "file_title": "appayadīkṣita-vairāgyaśatakam",
+  "file_title_normal": "appayadiksita-vairagyasatakam",
+  "metadata": {
+    "original_title": "Vairāgyaśatakam",
+    "author": "Appayadīkṣita",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Dhaval Patel",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Dhaval Patel",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Pdt. Durgaprasad and Kasinath Pandurang Parab, Kavyamala [old, cumulative series], vol. 1, 1886 (3rd ed., 1929), pp. 91-99."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "śrīmadappayadīkṣitaviracitaṃ vairāgyaśatakam /"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āste kaścana bhikṣuḥ saṃgṛhṇannavyayāni daśa /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na mametyavyayayugalaṃ yācāmastaṃ kimastyanyat // AppVs_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhīsacivaṃ dhairyabalaṃ saṃkalpavirodhi śāntidhanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viśvatrayaviṣayamidaṃ vairāgyaṃ nāma sāmrājyam // AppVs_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rājño bibheti loko rājānaḥ punarito 'pi vairibhyaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ā brahmaṇaḥ kṛtāntādakutobhayamaspṛhārājyam // AppVs_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhikṣāpradā jananyaḥ pitaro guravaḥ kumārakāḥ śiṣyāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekāntaramaṇahetuḥ śāntirdayitā viraktasya // AppVs_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ye na kimapi ceṣṭante kāryapratikaryayorvirahāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "santasta eva muktāḥ saṃdehe gautamaḥ sākṣī // AppVs_5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "patatu nabhaḥ sphuṭatu mahī calantu girayo milantu vāridhayaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adharottaramastu jagatkā hānirvītarāgasya // AppVs_6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ke corāḥ ke piśunāha ke ripavaḥ ke 'pi dāyādāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jagadakhilaṃ tasya vaśe yasya vaśe syādidaṃ cetaḥ // AppVs_7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣayā upatiṣṭhantāṃ viṣayairvā samavayantu karaṇāni /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āntaramekaṃ karaṇaṃ śāntaṃ yadi kā tataścintā // AppVs_8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kiṃ viṣayānparihartuṃ vastavyaṃ merukaṃdareṣvabudhaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nahyadbhiranāsektuṃ dhātuṣu rohanti padmāni // AppVs_9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ajñānamiha nidānaṃ prāgrūpaṃ jananameva bhavaroge /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paripākaḥ saṃsaraṇaṃ bhaiṣajyaṃ naiṣṭhikī śāntiḥ // AppVs_10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svenopabhuktamarthaṃ sūkarajātismaro manuṣya iva /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dūre jugupsamāno dhīro vairāgyamadriyate // AppVs_11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śaiśavamiva kaumāre tattaruṇimnīva sa iva vṛddhatve /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na svadate dhīrāṇāṃ kāmasya viceṣṭitaṃ śāntau // AppVs_12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śataśaḥ parīkṣya viṣayānsadyo jahati kvacitkvaciddhavyāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kākā iva vāntāśanamanye tāneva sevante // AppVs_13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caramau mātāpitarau caramā gṛhiṇī sutāścaramāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kartavye 'pi premaṇi kathamiha dhīrā virajyante // AppVs_14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tṛṇavadbhramanti capalāḥ strīnāmani caṇḍamārute calati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharaṇidharā iva santastatra na kiṃcitprakampante // AppVs_15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāmijanaparamabhogye kāmasukhe dhārayanti bībhatsam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "santaḥ śamasukharasikāḥ sudhāśanāḥ sūkarānna iva // AppVs_16 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vikṣepamātrabhājo vikāsakāṣṭāgatajñānāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svasyāpi ceṣṭitāni svayamīkṣante parasyeva // AppVs_17 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asthāne 'bhiniviṣṭānmūrkhānasthāna eva saṃtuṣṭān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anuvartante dhīrāḥ pitara iva krīḍato bālān // AppVs_18 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "puṣṇati puruṣe salilairmuṣṇati puṣpaṃ phalaṃ ca tarava iva /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vartante santaḥ samamupakartari cāpakartari ca // AppVs_19 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nityānityavivekaḥ sarveṣāṃ ghaṭaghaṭatvayorāste /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa viveko yaḥ śāntikṛdaviveko 'nyaḥ samasto 'pi // AppVs_20 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anadhigate kāmasukhe kālena yathā pravartate taruṇaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ brahmasukhe 'pi pravartate ko 'pi bhāgyavaśāt // AppVs_21 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "putraguṇāḥ svātantrye dāraguṇāścādhivedanāvasare /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhrātṛguṇā dāyavidhau draṣṭavyā mokṣyamāṇena // AppVs_22 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kā me gatiriti pṛcchati caramaśvāse 'pi yaḥ svārtham /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasya janasyāpi kṛte pāpāḥ pāpāni kurvanti // AppVs_23 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pitṛbhiḥ kalahāyante putrānadhyāpayanti pitṛbhaktim /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paradārānupayantaḥ paṭhanti śāstrāṇi dāreṣu // AppVs_24 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śāntiralabhyāduparatirapātrabhāvaḥ pratigrahanivṛttiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣāntirdurbalateti ca nivṛttidharmāḥ kalāvete // AppVs_25 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nītijñā niyatijñā vedajñā api bhavanti śāstrajñāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "brahmajñā api labhyāḥ svājñānajñānino viralāḥ // AppVs_26 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalikaluṣe manasi sve kathamiva jagadārjavaṃ labhate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cakṣurdoṣe jāgrati candradvitvaṃ kuto yātu // AppVs_27 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣayānanukūlayituṃ viṣayiṇi hṛdaye vidhīyatāṃ yatnaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛśi deyamauṣadhaṃ ko dṛśye dattvā sukhī bhavati // AppVs_28 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dārāḥ putreṣu ratāḥ putrāḥ pitṛdhanaparigrahavyagrāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rodanaśaraṇā jananī paralokagatasya ko bandhuḥ // AppVs_29 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paśyanti mriyamāṇānmariṣyato 'numimate smaranti mṛtān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kathayante caivamasacceṣṭante nityavattu param // AppVs_30 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalahāyante mūḍhāḥ kaḥ pratibhūḥ śvaḥ prabhāta iti /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasyāmeva rajanyāṃ kaḥ pratibhūḥ svasya sattāyām // AppVs_31 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kulyāḥ kṛtā viśālāḥ kuḍyānyupalairnibaddhāni /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "krītā balino mahipāḥ kṛtakṛtyāḥ sma iti manyante // AppVs_32 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ā prapadamā śiraskaṃ cāntaḥ kalimalamalīmase vapuṣi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viphalaṃ gaṅgājalamapi madyaghaṭe darbhamuṣṭiriva // AppVs_33 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "daṇḍyaṃ yatsukhahetoḥ puṣṇanti janāḥ kathaṃ tadeva vapuḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nahi śarkarābhilāṣibhirikṣoḥ kāṇḍāni pūjyante // AppVs_34 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāyo muhyati cetaḥ prāṇabhṛtaḥ prāṇanirgamāvasare /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "puṇyena yadi na muhyati putrāneva smaranmriyate // AppVs_35 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śamayitumaudaramagniṃ saṃsārākhyāmbudhau nimajjanti /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tuhinavyathānivṛttyai nahi veśmani pāvako deyaḥ // AppVs_36 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āhṛtya parityaktā janayantyarthāḥ sukhābhāsam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atyantaparityaktāḥ paramānandāya kalpante // AppVs_37 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "arthānāmadhikānāṃ rājñā caureṇa vā nāśaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anne khalvatimukte vamanaṃ vā syādvireko vā // AppVs_38 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "praṇamati parisāntvayati[praṇi]patati sadā paribhramati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āviṣṭa iva piśācyā puruṣastṛṣṇāvaśaṃ yātaḥ // AppVs_39 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jananādṛṣṭātpitarau putrā jāmātaro 'pyayādṛṣṭāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalahādṛṣṭājjñātaya iti nirṇīte kimeṣṭavyam // AppVs_40 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svapituḥ paralokāya svayamanudivasaṃ yadācarati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kriyatāmidamupamānaṃ kiṃ nālaṃ putravairāgye // AppVs_41 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ananugate dāridrye kimanugataṃ lakṣaṇaṃ dṛṣṭam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāmasyāpūrtiryadi kṛpaṇaṃ jagadā caturvadanāt // AppVs_42 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na khalu dhanatvaṃ jātiryasya yadiṣṭaṃ tadeva tasya dhanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tattadiva pāmarāṇāmākiṃcanyaṃ dhanaṃ viduṣām // AppVs_43 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svīkriyate yadi tṛṣṇā svīkartavyaṃ jagatsamastamapi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svīkriyate yadi śāntiḥ svātmāpi svasya bhavati na vā // AppVs_44 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yaddātāraṃ vaśayati yatparijanamasya sāntvayati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadapatrapate nāntarbhāvālābhaḥ sa kasya samaḥ // AppVs_45 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prādeśamātramudaraṃ paripūrayituṃ kiyānayaṃ yatnaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "culakenāmbhaḥ pātuṃ svanitavyaḥ kiṃ taṭāko 'pi // AppVs_46 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yāmārdhamasaṃskārādyāmadvayamanaśanācca suvyakte /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śārīre saundarye 'pyabhiniviśante kiyanmūḍhāḥ // AppVs_47 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vandhyetyāhustaruṇīṃ jaratīti parityajanti bahuputrām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhinindantyalpasutāṃ kā gṛhiṇī kāmino hṛdyā // AppVs_48 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yānti śucamakṛtadārā dve bhārye neti kṛtadārāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "te paradārā neti strībhistṛptānna paśyāmaḥ // AppVs_49 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "madanasyājñākaraṇe manye jagadakhilamekarūpamidam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tiryañca iti narā iti devā ityanyato bhedaḥ // AppVs_50 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śukravimokasthānaṃ malamūtratyāgadeśavatkimapi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "striya iti vihitaṃ vidhinā kiyadatra janā nimajjanti // AppVs_51 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vedānadhītya vidhivanmīmāṃsitvā tadarthaṃ ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dārāḥ kartavyā iti kenedaṃ prahasanaṃ kathitam // AppVs_52 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "duḥkhenopārjyante pālyante pratyahaṃ ca lālyante /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāmāḥ striyo vimūḍhairupabhuñjānāḥ sukhaṃ viguṇam // AppVs_53 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aśnīta pibata svādata jāgrata saṃviśata tiṣṭhata vā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sakṛdapi cintayatāhnaḥ sāvadhiko dehabandha iti // AppVs_54 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kiṃ vijitayā pṛthivyā kiṃ kāñcanabhūbhṛtā karasthena /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kiṃ divyābhiḥ strībhirmartavye brahmaṇā likhite // AppVs_55 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jīvati katicinnimiṣānkaticitteṣu śrutīradhīta iva /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tāvatsaivākulayati tantrāṇi navāni cātanute // AppVs_56 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svalpo jīvanakālaḥ svalpā dhīḥ paricayaḥ svalpaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadapi tarema kathaṃcicchrutayo yadi nopajāyante // AppVs_57 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kuta āgataṃ na jāne kva nu vā gantavyamidamapi na jāne /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃcarasi kvedānīṃ saṃsārapathe mahātamasi // AppVs_58 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tamasāvṛttāścarantaḥ savidhe dūre ca nāvayantyarthān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avayanti tu vispaṣṭaṃ taḍitābhihate śirasi mūḍhāḥ // AppVs_59 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nimiṣantyatra taruṇyastatra taruṇyo na nimiṣanti /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "īdṛkṣo hi viśeṣaḥ svargaḥ svarga iti kiṃ tatra // AppVs_60 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kopo maitrāvaruṇeḥ śāpo vā tārkikasya muneḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃsmaryate yadi sakṛcchatrorapi māstu śakrapadam // AppVs_61 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gacchatyamarāvatyāṃ gacchatu caturānanasya vā nagare /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "punarāgantavyaṃ yadi puṃsā kiṃ sādhitaṃ bhavati // AppVs_62 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhuktā bahavo dārā labdhāḥ putrāśca pautrāśca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nītaṃ śatamapyāyuḥ satyaṃ vada martumasti manaḥ // AppVs_63 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viśleṣaṇasvabhāvānpaśyanviṣayānkaroti ko mamatām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "naśyadavasthāpannaṃ kaḥ krīṇīte dhanairaśvam // AppVs_64 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "annābhāve mṛtyuḥ śālibhirannāni śālayo vṛṣṭyā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vṛṣṭistapaseti vadannamṛtyave tattapaścaratu // AppVs_65 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kiṃ na nigṛhṇanti manaḥ kiṃ na bhajante janāḥ śivaṃ śaraṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhisaṃdhibhedamātrānmokṣopāye na badhyante // AppVs_66 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhogāya pāmarāṇāṃ yogāya vivekināṃ śarīramidam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhogāya ca yogāya ca na kalpate durvidagdhānām // AppVs_67 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "brāhmaṇacaṇḍālā ityāha muniryanmahāpathikān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhavamārgamahāpathikānadhikṛtyaiva pravartitaṃ caitat // AppVs_68 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekadvāḥ kṣitipatiṣu dvitrā deveṣu pañcaṣā druhiṇe /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etāvanto jagati brahmānandārṇavasya kaṇāḥ // AppVs_69 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ajñānenāpihite vijñāne karma kiṃ kurute /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vikale cakṣuṣi tamasā vyādāya mukhaṃ kimīkṣeta // AppVs_70 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atikaluṣamāśunaśvaramāpātasphuraṇamanabhilāṣakaram /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "api hṛṣyanti janāḥ kathamavalambya jñānakhadyotam // AppVs_71 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ayutaṃ niyutaṃ vāpi pradiśantu prākṛtāya bhogāya /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "krīṇanti na bilvadalaiḥ kaivalyaṃ pañcaṣairmūḍhāḥ // AppVs_72 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yāvatkila ceṣṭante tāvatpāśe nibadhyate granthiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nibhṛtaṃ yadi vartante kālena sraṃsate pāśaḥ // AppVs_73 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uparundhanti śvāsānmunayo nāśnanti na pibanti /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "stūyante sujanaiḥ kiṃ kaṇṭhe kurvanti kanakapāśamime // AppVs_74 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāmaṃ janāḥ smayante kailāsavilāsavarṇanāvasare /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sādhanakathanāvasare sācīkurvanti vaktrāṇi // AppVs_75 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vaṅgāḥ kathamaṅgāḥ kathamityanuyuṅkte vṛthā deśān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kīdṛkkṛtāntapuramiti ko 'pi na jijñāsate lokaḥ // AppVs_76 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tyaktavyo mamakārastyaktuṃ yadi śakyate nāsau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kartavyo mamakāraḥ kiṃ tu sa sarvatra kartavyaḥ // AppVs_77 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "putrā iti dārā iti poṣyānmūrkho janānbrūte /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "andhe tamasi nimajjannātmā poṣya iti nāvaiti // AppVs_78 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yaccintitamadhigarbhaṃ yacca ciraṃ cintitaṃ narake /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣayānilasaṃsargānmamṛje tatsarvamekapade // AppVs_79 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bāhyagatāgataśīlā prāṇasya śvāsalakṣaṇā vṛttiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karṣati manaso vṛttiṃ kulaṭeva kulastriyaṃ mugdhām // AppVs_80 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atigambhīramanāvilamakṣobhyamadṛṣṭapāramavilaṅghyam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aviralataraṅgasaṃkulamaikṣiṣi vijñānasāgaraṃ mahatām // AppVs_81 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ghoraṃ bhavamapahātuṃ kecidaghoraṃ prapadyante /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃsaraṇakātarāṇāṃ saṃśaraṇaṃ śāṃbhavī śaktiḥ // AppVs_82 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pāśo yadi moktavyaḥ paśupatirevopasartavyaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na khalu vyatimucyante paśavaḥ pāśena saṃbaddhāḥ // AppVs_83 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "alamalamanubhūtābhirmātṛbhiralamastu pitṛbhiśca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhavitavyaṃ yadi nityavadarthaṃ mātuḥ pituścāstu // AppVs_84 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhanyāste bahudevāḥ svāmini yeṣāṃ na durbhikṣam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jātu na jānīmo vayamekaṃ taṃ svāminaṃ pūrṇam // AppVs_85 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "santu bṛhanto devāḥ kiṃ tu na tānnantumīhate cetaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āḍhyavadānyanyāyādantakajitameva cintayenmanasi // AppVs_86 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nidhyāyasi viṣayasukhaṃ na dhyāyasi viṣamamasya paripākam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bandhuṃ tameva cintaya baddhuṃ moktuṃ ca yaḥ kṣamate // AppVs_87 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sadanaṃ gurūpasadanaṃ śaraṇaṃ pañcākṣarīpuraścaraṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhanamabhilāṣanirodhanamantyāśramavartināṃ puṃsām // AppVs_88 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kau pitarau kaḥ putraḥ kaḥ svāmī yaḥ prapañcasya /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyastamite bhede kimidaṃ kimidamiti vipraśnaḥ // AppVs_89 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa vidhiryatte vidadhati sa pratiṣedho yato nivartante /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sopaniṣadyadbruvate śaivāśravamartino dhīrāḥ // AppVs_90 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tyaja saṃsāramasāraṃ bhaja śaraṇaṃ pārvatīramaṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viśvasihi śrutiśikharaṃ viśvamidaṃ tava nideśakaram // AppVs_91 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhavyamabhavyaṃ vā naḥ pralikhatu vedhāḥ sudurmedhāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "savyamasavyaṃ vā naḥ śaraṇaṃ caraṇaṃ maheśasya // AppVs_92 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vedhāḥ kathaṃ hariḥ kathamiti tu praśne vayaṃ mūkāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śivamekaṃ jānīmo na śivādanyaṃ vijānīmaḥ // AppVs_93 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dāruṇamasipattravanaṃ dāruṇatamamandhatāmisram /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kā vā tataḥ kṣatirnaḥ śaivā vayamā caturvadanāt // AppVs_94 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtadīkṣo ghoramakhe kulakūṭastho bharadvājaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidyeśvareṣu kaścana pitāmaho na iti visrambhaḥ // AppVs_95 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalahaḥ kadāpi māstviti kalitaśarīraikyayoḥ śivayoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ahamasmyahamasmīti prāptaḥ kalaho mama trāṇe // AppVs_96 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "narakāyāpi na bhogānnarādhamāyāpi nānyasurān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "manyante katicidamī māheśvaramāśritā yogam // AppVs_97 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñātuṃ hātuṃ viṣayaṃ śrotuṃ mantuṃ gṛhītumātmānam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vatsā yadi na hi ghaṭate tatsādhayatāvimuktāya // AppVs_98 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāṃkhyaṃ yogaṃ nigamā bhaktiḥ karma pratītiriti /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekatra sakalametatkevalamavimuktamekatra // AppVs_99 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "baddhaḥ kaste vakṣyati mukto muktiṃ vijānāti /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yāsyasi cedavimuktaṃ jñāsyasi viśveśvarasya mukhāt // AppVs_100 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na gṛhītaṃ śrutihṛdayaṃ na ca na gṛhītaṃ pariplavaṃ hṛdayam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "icchāmi ca dhāma paraṃ gacchāmi tu viśvanāthapurīm // AppVs_101 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "iti śrīmadappayadīkṣitaviracitaṃ vairāgyaśatakaṃ saṃpūrṇam /"
+    }
+  ]
 }

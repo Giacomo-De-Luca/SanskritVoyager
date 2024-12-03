@@ -1,4 +1,395 @@
 {
-  "title": "sa_brahmabindūpaniṣad",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<lg>\n<l>oṃ</l>\n<l>mano hi dvividhaṃ proktaṃ śuddhaṃ cāśuddham eva ca /</l>\n<l>aśuddhaṃ kāmasaṃkalpaṃ śuddhaṃ kāmavivarjitam // BrbUp_1 //</l>\n</lg>\n\n<lg>\n<l>mana eva manuṣyāṇāṃ kāraṇaṃ bandhamokṣayoḥ /</l>\n<l>bandhāya viṣayāsaktaṃ muktyai nirviṣayaṃ smṛtam // BrbUp_2 //</l>\n</lg>\n\n<lg>\n<l>yato nirviṣayasyāsya manaso muktir iṣyate /</l>\n<l>tasmān nirviṣayaṃ nityaṃ manaḥ kāryaṃ mumukṣuṇā // BrbUp_3 //</l>\n</lg>\n\n<lg>\n<l>nirastaviṣayāsaṅgaṃ saṃniruddhaṃ mano hṛdi /</l>\n<l>yadā yāty unmanībhāvaṃ tadā tat paramamadam // BrbUp_4 //</l>\n</lg>\n\n<lg>\n<l>tāvad eva niroddhavyaṃ yāvaddhṛdi gataṃ kṣayam /</l>\n<l>etaj jñānaṃ ca mokṣaṃ ca ato 'nyo granthavistaraḥ // BrbUp_5 //</l>\n</lg>\n\n<lg>\n<l>naiva cintyaṃ na cācintyam acintyaṃ cintyam eva ca /</l>\n<l>pakṣapātavinirmuktaṃ brahma sampadyate tadā // BrbUp_6 //</l>\n</lg>\n\n<lg>\n<l>svareṇa saṃdhayed yogam asvaraṃ bhāvayet param /</l>\n<l>asvareṇa hi bhāvena bhāvo nābhāva iṣyate // BrbUp_7 //</l>\n</lg>\n\n<lg>\n<l>tad eva niṣkalaṃ brahma nirvikalpaṃ nirañjanam /</l>\n<l>tad brahmāham iti jñātvā brahma sampadyate dhruvam // BrbUp_8 //</l>\n</lg>\n\n<lg>\n<l>nirvikalpam anantaṃ ca hetudṛṣṭāntavarjitam /</l>\n<l>aprameyam anādyaṃ ca jñātvā ca paramaṃ śivam // BrbUp_9 //</l>\n</lg>\n\n<lg>\n<l>na nirodho na cotpattir na vandyo na ca śāsanam /</l>\n<l>na mumukṣā na muktiś ca ity eṣā paramārthatā // BrbUp_10 //</l>\n</lg>\n\n<lg>\n<l>eka evātmā mantavyo jāgratsvapnasuṣuptiṣu /</l>\n<l>sthānatrayād vyatītasya punarjanma na vidyate // BrbUp_11 //</l>\n</lg>\n\n<lg>\n<l>eka eva hi bhūtātmā bhūte bhūte vyavasthitaḥ /</l>\n<l>ekadhā bahudhā caiva dṛśyate jalacandravat // BrbUp_12 //</l>\n</lg>\n\n<lg>\n<l>ghaṭasaṃbhṛtam ākāśaṃ līyamāne ghaṭe yathā /</l>\n<l>ghaṭo līyeta nākāśaṃ tadvaj jīvo ghaṭopamaḥ // BrbUp_13 //</l>\n</lg>\n\n<lg>\n<l>ghaṭavad vividhākāraṃ bhidyamānaṃ punaḥ punaḥ /</l>\n<l>tadbhagnaṃ na ca jānāti sa jānāti ca nityaśaḥ // BrbUp_14 //</l>\n</lg>\n\n<lg>\n<l>śabdamāyāvṛto yāvat tāvat tiṣṭhati puṣkare /</l>\n<l>bhinne tamasi caikatvam ekam evānupaśyati // BrbUp_15 //</l>\n</lg>\n\n<lg>\n<l>śabdākṣaraṃ paraṃ brahma yasmin kṣīṇe yad akṣaram /</l>\n<l>tad vidvān akṣaraṃ dhyāyed yadīcchecchāntim ātmanaḥ // BrbUp_16 //</l>\n</lg>\n\n<lg>\n<l>dve vidye veditavye tu śabdabrahma paraṃ ca yat /</l>\n<l>śabdabrahmaṇi niṣṇātaḥ paraṃ brahmādhigacchati // BrbUp_17 //</l>\n</lg>\n\n<lg>\n<l>grantham abhyasya medhāvī jñānavijñānatattvataḥ /</l>\n<l>palālam iva dhānyārthī tyajed grantham aśeṣataḥ // BrbUp_18 //</l>\n</lg>\n\n<lg>\n<l>gavām anekavarṇānāṃ kṣīrasyāpy ekavarṇatā /</l>\n<l>kṣīravat paśyate jñānaṃ liṅginas tu gavāṃ yathā // BrbUp_19 //</l>\n</lg>\n\n<lg>\n<l>ghṛtam iva payasi nigūḍhaṃ bhūte bhūte ca vasati vijñānam /</l>\n<l>satataṃ manthayitavyaṃ manasā manthānabhūtena // BrbUp_20 //</l>\n</lg>\n\n<lg>\n<l>jñānanetraṃ samādāya cared vahnim ataḥ param /</l>\n<l>niṣkalaṃ nirmalaṃ śāntaṃ tad brahmāham iti smṛtam // BrbUp_21 //</l>\n</lg>\n\n<lg>\n<l>sarvabhūtādhivāsaṃ ca yad bhūteṣu vasaty adhi /</l>\n<l>sarvānugrāhakatvena tad asmy ahaṃ vāsudeva // BrbUp_22 //</l>\n</lg>\n\n  </body>\n\n"
+  "file_title": "brahmabindūpaniṣad",
+  "file_title_normal": "brahmabindupanisad",
+  "metadata": {
+    "original_title": "Brahmabindūpaniṣad",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Oliver Hellwig",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Oliver Hellwig",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Ramamaya Tarkaratna In: The Atharvana-Upanishads. Calcutta: Ganesha Press, 1872 (Bibliotheca Indica ; 76)"
+  },
+  "body": [
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "oṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mano hi dvividhaṃ proktaṃ śuddhaṃ cāśuddham eva ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aśuddhaṃ kāmasaṃkalpaṃ śuddhaṃ kāmavivarjitam // BrbUp_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mana eva manuṣyāṇāṃ kāraṇaṃ bandhamokṣayoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bandhāya viṣayāsaktaṃ muktyai nirviṣayaṃ smṛtam // BrbUp_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yato nirviṣayasyāsya manaso muktir iṣyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmān nirviṣayaṃ nityaṃ manaḥ kāryaṃ mumukṣuṇā // BrbUp_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirastaviṣayāsaṅgaṃ saṃniruddhaṃ mano hṛdi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadā yāty unmanībhāvaṃ tadā tat paramamadam // BrbUp_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tāvad eva niroddhavyaṃ yāvaddhṛdi gataṃ kṣayam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etaj jñānaṃ ca mokṣaṃ ca ato 'nyo granthavistaraḥ // BrbUp_5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "naiva cintyaṃ na cācintyam acintyaṃ cintyam eva ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pakṣapātavinirmuktaṃ brahma sampadyate tadā // BrbUp_6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svareṇa saṃdhayed yogam asvaraṃ bhāvayet param /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asvareṇa hi bhāvena bhāvo nābhāva iṣyate // BrbUp_7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tad eva niṣkalaṃ brahma nirvikalpaṃ nirañjanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tad brahmāham iti jñātvā brahma sampadyate dhruvam // BrbUp_8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirvikalpam anantaṃ ca hetudṛṣṭāntavarjitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aprameyam anādyaṃ ca jñātvā ca paramaṃ śivam // BrbUp_9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na nirodho na cotpattir na vandyo na ca śāsanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na mumukṣā na muktiś ca ity eṣā paramārthatā // BrbUp_10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eka evātmā mantavyo jāgratsvapnasuṣuptiṣu /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sthānatrayād vyatītasya punarjanma na vidyate // BrbUp_11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eka eva hi bhūtātmā bhūte bhūte vyavasthitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekadhā bahudhā caiva dṛśyate jalacandravat // BrbUp_12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ghaṭasaṃbhṛtam ākāśaṃ līyamāne ghaṭe yathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ghaṭo līyeta nākāśaṃ tadvaj jīvo ghaṭopamaḥ // BrbUp_13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ghaṭavad vividhākāraṃ bhidyamānaṃ punaḥ punaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadbhagnaṃ na ca jānāti sa jānāti ca nityaśaḥ // BrbUp_14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śabdamāyāvṛto yāvat tāvat tiṣṭhati puṣkare /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhinne tamasi caikatvam ekam evānupaśyati // BrbUp_15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śabdākṣaraṃ paraṃ brahma yasmin kṣīṇe yad akṣaram /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tad vidvān akṣaraṃ dhyāyed yadīcchecchāntim ātmanaḥ // BrbUp_16 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dve vidye veditavye tu śabdabrahma paraṃ ca yat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śabdabrahmaṇi niṣṇātaḥ paraṃ brahmādhigacchati // BrbUp_17 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "grantham abhyasya medhāvī jñānavijñānatattvataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "palālam iva dhānyārthī tyajed grantham aśeṣataḥ // BrbUp_18 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gavām anekavarṇānāṃ kṣīrasyāpy ekavarṇatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣīravat paśyate jñānaṃ liṅginas tu gavāṃ yathā // BrbUp_19 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ghṛtam iva payasi nigūḍhaṃ bhūte bhūte ca vasati vijñānam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "satataṃ manthayitavyaṃ manasā manthānabhūtena // BrbUp_20 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānanetraṃ samādāya cared vahnim ataḥ param /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niṣkalaṃ nirmalaṃ śāntaṃ tad brahmāham iti smṛtam // BrbUp_21 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvabhūtādhivāsaṃ ca yad bhūteṣu vasaty adhi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvānugrāhakatvena tad asmy ahaṃ vāsudeva // BrbUp_22 //"
+        }
+      ]
+    }
+  ]
 }

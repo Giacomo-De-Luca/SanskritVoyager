@@ -1,4 +1,3699 @@
 {
-  "title": "sa_śivasaṃkalpopaniṣad",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n      <div>\n\t<lg xml:id='ŚSU_1'>\n\t  <l>ye<orig>́</orig>neda<orig>́</orig><choice><orig>m</orig><reg>ṃ</reg></choice> bhūta<orig>́</orig>ṃ bhu<orig>́</orig>vanaṃ bhaviṣya<orig>́</orig>t pa<orig>́</orig>rigṛhītam amṛ<orig>́</orig>tena sa<orig>́</orig>rvam<orig>,</orig></l>\n\t  <l>ye<orig>́</orig>na yajña<orig>́</orig>s tāya<orig>́</orig>te sapta<orig>́</orig>ho<orig>́</orig>tā tan me ma<orig>́</orig>naś śiva<orig>́</orig>sa<choice><orig>ṅ</orig><reg>ṃ</reg></choice>kalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_2'>\n\t  <l>ye<orig>́</orig>na ka<orig>́</orig>rmāṇy apa<orig>́</orig>so manīṣi<orig>́</orig>ṇo yajñe<orig>́</orig> kṛṇva<orig>́</orig>nti vida<orig>́</orig>theṣu dhī<orig>́</orig>rāḥ<orig>,</orig></l>\n\t  <l>ya<orig>́</orig>d apūrva<orig>́</orig>ṃ <orig>y</orig>yakṣa<orig>́</orig>m anta<orig>́</orig><choice><orig>ḫ</orig><reg>ḥ</reg></choice> prajānā<choice><orig>n</orig><reg>ṃ</reg></choice> ta<orig>́</orig>n me ma<orig>́</orig>naś śiva<orig>́</orig>sa<choice><orig>ṅ</orig><reg>ṃ</reg></choice>kalpam astu<orig>,</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_3'>\n\t  <l>ya<orig>́</orig>t prajñā<orig>́</orig>nam uta<orig>́</orig> ce<orig>́</orig>to dhṛ<orig>́</orig>tiś ca yaj jyo<orig>́</orig>tir anta<orig>́</orig>r amṛ<orig>́</orig>taṃ prajā<orig>́</orig>su<orig>,</orig></l>\n\t  <l>ya<orig>́</orig>smān na<orig>́</orig> ṛte<orig>́</orig> ki<orig>́</orig><choice><orig>ñ</orig><reg>ṃ</reg></choice> cana<orig>́</orig> ka<orig>́</orig>rma kriya<orig>́</orig>te ta<orig>́</orig>n me ma<orig>́</orig>naś śiva<orig>́</orig>sa<choice><orig>ṅ</orig><reg>ṃ</reg></choice>kalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_4'>\n\t  <l>ya<orig>́</orig>j jā<orig>́</orig>grato dūra<orig>́</orig>m udai<orig>́</orig>ti dai<orig>́</orig>vaṃ ta<orig>́</orig>d u supta<orig>́</orig>sya ta<orig>́</orig>thaivai<orig>́</orig>ti<orig>,</orig></l>\n\t  <l>dūra<choice><orig>ṅ</orig><reg>ṃ</reg></choice>gama<orig>́</orig>ṃ jyo<orig>́</orig>tiṣāṃ jyo<orig>́</orig>tir e<orig>́</orig>kaṃ ta<orig>́</orig>n me ma<orig>́</orig>naś śiva<orig>́</orig>sa<choice><orig>ṅ</orig><reg>ṃ</reg></choice>kalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_5'>\n\t  <l>ya<orig>́</orig>smin ṛ<orig>́</orig>cas sā<orig>́</orig>ma ya<orig>́</orig>jūṃṣi ya<orig>́</orig>smin pra<orig>́</orig>tiṣṭhitā rathanābhā<orig>́</orig>v ivārā<orig>́</orig>ḥ</l>\n\t  <l>ya<orig>́</orig>smi<choice><orig>m̐</orig><reg>ṃ</reg></choice>ś citta<orig>́</orig>ṃ sa<orig>́</orig>rvam o<orig>́</orig>tam prajānā<choice><orig>n</orig><reg>ṃ</reg></choice> ta<orig>́</orig>n me ma<orig>́</orig>naś śiva<orig>́</orig>sa<choice><orig>ṅ</orig><reg>ṃ</reg></choice>kalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_6'>\n\t  <l>suṣārathi<orig>́</orig>r a<orig>́</orig>śvān iva ya<orig>́</orig>n manuṣyā<orig>́</orig>n nenīya<orig>́</orig>tebhī<orig>́</orig>śubhir vāji<orig>́</orig>na iva</l>\n\t  <l>hṛtpra<orig>́</orig>tiṣṭhaṃ <orig>y</orig>ya<orig>́</orig>d ajira<orig>́</orig><choice><orig>ñ</orig><reg>ṃ</reg></choice> ja<orig>́</orig>viṣṭha<choice><orig>n</orig><reg>ṃ</reg></choice> ta<orig>́</orig>n me ma<orig>́</orig>naś śiva<orig>́</orig>sa<choice><orig>ṅ</orig><reg>ṃ</reg></choice>kalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_7'>\n\t  <l>ya<orig>́</orig>d a<orig>́</orig>tra ṣaṣṭha<orig>́</orig>ṃ triśata<orig>́</orig><choice><orig>m̐</orig><reg>ṃ</reg></choice> śarīra<orig>́</orig>ṃ yajña<orig>́</orig>sya gu<orig>́</orig>hya<choice><orig>n</orig><reg>ṃ</reg></choice> na<orig>́</orig>vanā<orig>́</orig>bham ā<orig>́</orig>dyam<orig>,</orig></l>\n\t  <l>da<orig>́</orig>śa pañcatri<choice><orig>m̐</orig><reg>ṃ</reg></choice>śa<orig>́</orig>taṃ <orig>y</orig>ya<orig>́</orig>t para<orig>́</orig><choice><orig>ñ</orig><reg>ṃ</reg></choice> ca ta<orig>́</orig>n me ma<orig>́</orig>naś śiva<orig>́</orig>sa<choice><orig>ṅ</orig><reg>ṃ</reg></choice>kalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_8'>\n\t  <l>ye<orig>́</orig> pa<orig>́</orig>ñca pañcā<orig>́</orig> daśata<orig>́</orig><choice><orig>m̐</orig><reg>ṃ</reg></choice> śata<orig>́</orig>ṃ ca saha<orig>́</orig>sraṃ ca niyu<orig>́</orig>taṃ nya<orig>́</orig>rbudaṃ ca<orig>,</orig></l>\n\t  <l>te yajñacitte<orig>́</orig>ṣṭakātta<orig>́</orig><choice><orig>m̐</orig><reg>ṃ</reg></choice> śa<orig>́</orig>rīraṃ ta<orig>́</orig>n me ma<orig>́</orig>naś śiva<orig>́</orig>sa<choice><orig>ṅ</orig><reg>ṃ</reg></choice>kalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_9'>\n\t  <l>ve<orig>́</orig>dāha<orig>́</orig>m eta<orig>́</orig>ṃ pu<orig>́</orig>ruṣaṃ mahā<orig>́</orig>ntam āditya<orig>́</orig>varṇa<choice><orig>n</orig><reg>ṃ</reg></choice> ta<orig>́</orig>masa<choice><orig>ḫ</orig><reg>ḥ</reg></choice> para<orig>́</orig>stāt<orig>,</orig></l>\n\t  <l>ta<orig>́</orig>sya yo<orig>́</orig>niṃ paripaśyanti dhī<orig>́</orig>rās ta<orig>́</orig>n me ma<orig>́</orig>naś śiva<orig>́</orig>sa<choice><orig>ṅ</orig><reg>ṃ</reg></choice>kalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_10'>\n\t  <l>ye<orig>́</orig>na ka<orig>́</orig>rmāṇi pra<orig>́</orig>caranti dhīrā vi<orig>́</orig>prā vācā<orig>́</orig> ma<orig>́</orig>nasā ka<orig>́</orig>rmaṇā ca<orig>,</orig></l>\n\t  <l>saṃ<orig>v</orig>vi<orig>́</orig>dam a<orig>́</orig>nu sa<orig>́</orig>ṃ<orig>y</orig>yanti prāṇi<orig>́</orig>nas ta<orig>́</orig>n me ma<orig>́</orig>naś śiva<orig>́</orig>sa<choice><orig>ṅ</orig><reg>ṃ</reg></choice>kalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_11'>\n\t  <l>ye<orig>́</orig> ma<orig>́</orig>no hṛ<orig>́</orig>dayaṃ <orig>y</orig>ye<orig>́</orig> ca devā<orig>́</orig> ye<orig>́</orig> anta<orig>́</orig>rikṣe bahudhā<orig>́</orig> ca<orig>́</orig>ranti<orig>,</orig></l>\n\t  <l>ye<orig>́</orig> śrotra<orig>́</orig>ṃ cakṣu<orig>́</orig>ṣī sa<orig>́</orig><choice><orig>ñ</orig><reg>ṃ</reg></choice>caranti ta<orig>́</orig>n me ma<orig>́</orig>naś śiva<orig>́</orig>sa<choice><orig>ṅ</orig><reg>ṃ</reg></choice>kalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_12'>\n\t  <l>ye<orig>́</orig>na dyau<orig>́</orig>r ugrā<orig>́</orig> pṛthivī<orig>́</orig> cānta<orig>́</orig>rikṣaṃ ye<orig>́</orig> pa<orig>́</orig>rvatā<choice><orig>ḫ</orig><reg>ḥ</reg></choice> pradi<orig>́</orig>śo di<orig>́</orig>śaś ca<orig>,</orig></l>\n\t  <l>ye<orig>́</orig>neda<orig>́</orig><choice><orig>ñ</orig><reg>ṃ</reg></choice> ja<orig>́</orig>gad vyā<orig>́</orig>ptaṃ prajā<orig>́</orig>nā<choice><orig>n</orig><reg>ṃ</reg></choice> ta<orig>́</orig>n me ma<orig>́</orig>naś śiva<orig>́</orig>sa<choice><orig>ṅ</orig><reg>ṃ</reg></choice>kalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_13'>\n\t  <l>ye<orig>́</orig>neda<orig>́</orig>ṃ sa<orig>́</orig>rvaṃ ja<orig>́</orig>gato babhūvu<orig>́</orig>r ye<orig>́</orig> devā<orig>́</orig> a<orig>́</orig>pi mahato<orig>́</orig> jāta<orig>́</orig>vedāḥ<orig>,</orig></l>\n\t  <l>ta<orig>́</orig>d evā<orig>́</orig>gnita<orig>́</orig>paso jyoti<orig>́</orig>r e<orig>́</orig>ka<choice><orig>n</orig><reg>ṃ</reg></choice> ta<orig>́</orig>n me ma<orig>́</orig>naś śiva<orig>́</orig>sa<choice><orig>ṅ</orig><reg>ṃ</reg></choice>kalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_14'>\n\t  <l>aci<choice><orig>ṃ</orig><reg>n</reg></choice>tyaṃ cāprameyaṃ ca vyaktāvyaktaparaṃ ca yat<orig>,</orig></l>\n\t  <l>sūkṣmāt sūkṣmataraṃ jñānaṃ ta<orig>́</orig>n me ma<orig>́</orig>naḥ śivasaṃkalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_15'>\n\t  <l>asti vināśayitvā sarvam idaṃ nāsti punas tathaivā dṛṣṭaṃ dhruvaṃ<orig>,</orig></l>\n\t  <l>asti nāsti hitaṃ madhyamaṃ padaṃ tan me manaḥ śivasaṃkalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_16'>\n\t  <l>asti nāsti viparīto pravāho<choice><orig/><reg> '</reg></choice>sti nāsti sarvaṃ vā idaṃ guhyam<orig>,</orig></l>\n\t  <l>asti nāsti parāt paro yat paraṃ tan me manaḥ śivasaṃkalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_17'>\n\t  <l>parāt parataraṃ yasya tatparāc caiva tat paraṃ<orig>,</orig></l>\n\t  <l>tatparāt paratojñeyaṃ tan me manaḥ śivasaṃkalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_18'>\n\t  <l>parāt parataro brahma tatparāt parato hariḥ<orig>,</orig></l>\n\t  <l>tatparāt parato hy eṣa tan me manaḥ śivasaṃkalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_19'>\n\t  <l>gobhir juṣṭo dhanena hy āyuṣā ca balena ca<orig>,</orig></l>\n\t  <l>prajayā paśubhiḥ puṣkalādyaṃ tan me manaḥ śivasaṃkalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_20'>\n\t  <l>prayataḥ praṇavo nityaṃ paramaṃ puruṣottamaṃ<orig>,</orig></l>\n\t  <l>oṃkāraṃ param ātmānaṃ tan me manaḥ śivasaṃkalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_21'>\n\t  <l>yo vai vedādiṣu gāyatrī sarvavyāpī maheśvaraḥ<orig>,</orig></l>\n\t  <l>yad dviruktaṃ tathādvyaiśyaṃ tan me manaḥ śivasaṃkalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_22'>\n\t  <l>yo vai veda mahādevam paramaṃ puruṣottamaṃ<orig>,</orig></l>\n\t  <l>yaḥ sarvaṃ yasya cit sarvaṃ tan me manaḥ śivasaṃkalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_23'>\n\t  <l>yo<choice><orig/><reg> '</reg></choice>sau sarveṣu vedeṣu pathate hy aja īśvaraḥ<orig>,</orig></l>\n\t  <l>akāyo nirguṇo dhyātvā tan me manaḥ śivasaṃkalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_24'>\n\t  <l>kailāśaśikhare ramye śaṃkarasya śubhe gṛhe<orig>,</orig></l>\n\t  <l>devatās tatra modya<choice><orig>ṃ</orig><reg>n</reg></choice>ti tan me manaḥ śivasaṃkalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_25'>\n\t  <l>kailāśaśikharābhāsā hi bhavad girisaṃsthitāḥ<orig>,</orig></l>\n\t  <l>nīlaka<choice><orig>ṃ</orig><reg>ṇ</reg></choice>ṭhaṃ trinetraṃ ca tan me manaḥ śivasaṃkalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_26'>\n\t  <l>ābrahmastambaparya<choice><orig>ṃ</orig><reg>n</reg></choice>taṃ trailokyaṃ sacarācaram<orig>,</orig></l>\n\t  <l>utpātitaṃ jagad vyāptaṃ tan me manaḥ śivasaṃkalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_27'>\n\t  <l>ya imaṃ śivasaṃkalpam sadā dhyāya<choice><orig>ṃ</orig><reg>n</reg></choice>ti brāhmaṇāḥ<orig>,</orig></l>\n\t  <l>te paramokṣaṃ gamiṣya<choice><orig>ṃ</orig><reg>n</reg></choice>ti tan me manaḥ śivasaṃkalpam astu<orig>.</orig></l>\n\t</lg>\n\t<lg xml:id='ŚSU_28'>\n\t  <l>tryambakaṃ yajāmahe suga<choice><orig>ṃ</orig><reg>n</reg></choice>dhiṃ puṣṭivar<orig>d</orig>dhanaṃ<orig>,</orig></l>\n\t  <l>urvārukam iva ba<choice><orig>ṃ</orig><reg>n</reg></choice>dhanān mṛtyor mukṣīya māmṛtāt tan me manaḥ śivasaṃkalpam astu<orig>.</orig></l>\n\t</lg>\n      </div>\n    </body>\n  \n"
+  "file_title": "śivasaṃkalpopaniṣad",
+  "file_title_normal": "sivasamkalpopanisad",
+  "metadata": {
+    "original_title": "Śivasaṃkalpopaniṣad",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Maximilian Mehner",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Maximilian Mehner",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2019-11-01"
+  },
+  "body": [
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "neda"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "m"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "bhūta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ṃ bhu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "vanaṃ bhaviṣya"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "t pa"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "rigṛhītam amṛ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "tena sa"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "rvam"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "na yajña"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "s tāya"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "te sapta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ho"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "tā tan me ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "naś śiva"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sa"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṅ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "kalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "na ka"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "rmāṇy apa"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "so manīṣi"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ṇo yajñe"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "kṛṇva"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "nti vida"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "theṣu dhī"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "rāḥ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ya",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "d apūrva"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ṃ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "y"
+                },
+                {
+                  "tag": "text",
+                  "text": "yakṣa"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "m anta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ḫ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ḥ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "prajānā"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "n"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "n me ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "naś śiva"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sa"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṅ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "kalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ya",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "t prajñā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "nam uta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ce"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "to dhṛ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "tiś ca yaj jyo"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "tir anta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "r amṛ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "taṃ prajā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "su"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ya",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "smān na"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ṛte"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ki"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ñ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "cana"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ka"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "rma kriya"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "te ta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "n me ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "naś śiva"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sa"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṅ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "kalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ya",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "j jā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "grato dūra"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "m udai"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ti dai"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "vaṃ ta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "d u supta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sya ta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "thaivai"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ti"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dūra",
+              "children": [
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṅ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "gama"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ṃ jyo"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "tiṣāṃ jyo"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "tir e"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "kaṃ ta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "n me ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "naś śiva"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sa"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṅ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "kalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ya",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "smin ṛ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "cas sā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ma ya"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "jūṃṣi ya"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "smin pra"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "tiṣṭhitā rathanābhā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "v ivārā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ḥ"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ya",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "smi"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "m̐"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ś citta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ṃ sa"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "rvam o"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "tam prajānā"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "n"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "n me ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "naś śiva"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sa"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṅ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "kalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "suṣārathi",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "r a"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "śvān iva ya"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "n manuṣyā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "n nenīya"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "tebhī"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "śubhir vāji"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "na iva"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "hṛtpra",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "tiṣṭhaṃ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "y"
+                },
+                {
+                  "tag": "text",
+                  "text": "ya"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "d ajira"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ñ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ja"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "viṣṭha"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "n"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "n me ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "naś śiva"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sa"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṅ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "kalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ya",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "d a"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "tra ṣaṣṭha"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ṃ triśata"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "m̐"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "śarīra"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ṃ yajña"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sya gu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "hya"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "n"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "na"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "vanā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "bham ā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "dyam"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "da",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "śa pañcatri"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "m̐"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "śa"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "taṃ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "y"
+                },
+                {
+                  "tag": "text",
+                  "text": "ya"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "t para"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ñ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ca ta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "n me ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "naś śiva"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sa"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṅ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "kalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "pa"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ñca pañcā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "daśata"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "m̐"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "śata"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ṃ ca saha"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sraṃ ca niyu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "taṃ nya"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "rbudaṃ ca"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "te yajñacitte",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ṣṭakātta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "m̐"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "śa"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "rīraṃ ta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "n me ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "naś śiva"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sa"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṅ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "kalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ve",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "dāha"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "m eta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ṃ pu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ruṣaṃ mahā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ntam āditya"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "varṇa"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "n"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "masa"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ḫ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ḥ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "para"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "stāt"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ta",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sya yo"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "niṃ paripaśyanti dhī"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "rās ta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "n me ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "naś śiva"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sa"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṅ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "kalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "na ka"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "rmāṇi pra"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "caranti dhīrā vi"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "prā vācā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "nasā ka"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "rmaṇā ca"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃ",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "v"
+                },
+                {
+                  "tag": "text",
+                  "text": "vi"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "dam a"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "nu sa"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ṃ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "y"
+                },
+                {
+                  "tag": "text",
+                  "text": "yanti prāṇi"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "nas ta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "n me ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "naś śiva"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sa"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṅ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "kalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "no hṛ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "dayaṃ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "y"
+                },
+                {
+                  "tag": "text",
+                  "text": "ye"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ca devā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ye"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "anta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "rikṣe bahudhā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ca"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ranti"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "śrotra"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ṃ cakṣu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ṣī sa"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ñ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "caranti ta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "n me ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "naś śiva"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sa"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṅ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "kalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_12"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "na dyau"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "r ugrā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "pṛthivī"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "cānta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "rikṣaṃ ye"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "pa"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "rvatā"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ḫ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ḥ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "pradi"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "śo di"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "śaś ca"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "neda"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ñ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ja"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "gad vyā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ptaṃ prajā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "nā"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "n"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "n me ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "naś śiva"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sa"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṅ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "kalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_13"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "neda"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ṃ sa"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "rvaṃ ja"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "gato babhūvu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "r ye"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "devā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "a"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "pi mahato"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "jāta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "vedāḥ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ta",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "d evā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "gnita"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "paso jyoti"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "r e"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "ka"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "n"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ta"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "n me ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "naś śiva"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "sa"
+                },
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṅ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṃ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "kalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_14"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aci",
+              "children": [
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṃ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "n"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "tyaṃ cāprameyaṃ ca vyaktāvyaktaparaṃ ca yat"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sūkṣmāt sūkṣmataraṃ jñānaṃ ta",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "n me ma"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "́"
+                },
+                {
+                  "tag": "text",
+                  "text": "naḥ śivasaṃkalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_15"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asti vināśayitvā sarvam idaṃ nāsti punas tathaivā dṛṣṭaṃ dhruvaṃ",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asti nāsti hitaṃ madhyamaṃ padaṃ tan me manaḥ śivasaṃkalpam astu",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_16"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asti nāsti viparīto pravāho",
+              "children": [
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {}
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "'"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "sti nāsti sarvaṃ vā idaṃ guhyam"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asti nāsti parāt paro yat paraṃ tan me manaḥ śivasaṃkalpam astu",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_17"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "parāt parataraṃ yasya tatparāc caiva tat paraṃ",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tatparāt paratojñeyaṃ tan me manaḥ śivasaṃkalpam astu",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_18"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "parāt parataro brahma tatparāt parato hariḥ",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tatparāt parato hy eṣa tan me manaḥ śivasaṃkalpam astu",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_19"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gobhir juṣṭo dhanena hy āyuṣā ca balena ca",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prajayā paśubhiḥ puṣkalādyaṃ tan me manaḥ śivasaṃkalpam astu",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_20"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prayataḥ praṇavo nityaṃ paramaṃ puruṣottamaṃ",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "oṃkāraṃ param ātmānaṃ tan me manaḥ śivasaṃkalpam astu",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_21"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yo vai vedādiṣu gāyatrī sarvavyāpī maheśvaraḥ",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yad dviruktaṃ tathādvyaiśyaṃ tan me manaḥ śivasaṃkalpam astu",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_22"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yo vai veda mahādevam paramaṃ puruṣottamaṃ",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yaḥ sarvaṃ yasya cit sarvaṃ tan me manaḥ śivasaṃkalpam astu",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_23"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yo",
+              "children": [
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {}
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "'"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "sau sarveṣu vedeṣu pathate hy aja īśvaraḥ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "akāyo nirguṇo dhyātvā tan me manaḥ śivasaṃkalpam astu",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_24"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kailāśaśikhare ramye śaṃkarasya śubhe gṛhe",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "devatās tatra modya",
+              "children": [
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṃ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "n"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ti tan me manaḥ śivasaṃkalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_25"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kailāśaśikharābhāsā hi bhavad girisaṃsthitāḥ",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nīlaka",
+              "children": [
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṃ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "ṇ"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ṭhaṃ trinetraṃ ca tan me manaḥ śivasaṃkalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_26"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ābrahmastambaparya",
+              "children": [
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṃ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "n"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "taṃ trailokyaṃ sacarācaram"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "utpātitaṃ jagad vyāptaṃ tan me manaḥ śivasaṃkalpam astu",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_27"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ya imaṃ śivasaṃkalpam sadā dhyāya",
+              "children": [
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṃ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "n"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ti brāhmaṇāḥ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "te paramokṣaṃ gamiṣya",
+              "children": [
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṃ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "n"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "ti tan me manaḥ śivasaṃkalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "ŚSU_28"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tryambakaṃ yajāmahe suga",
+              "children": [
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṃ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "n"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "dhiṃ puṣṭivar"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "d"
+                },
+                {
+                  "tag": "text",
+                  "text": "dhanaṃ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "urvārukam iva ba",
+              "children": [
+                {
+                  "tag": "choice",
+                  "attributes": {},
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "ṃ"
+                    },
+                    {
+                      "tag": "reg",
+                      "attributes": {},
+                      "text": "n"
+                    }
+                  ]
+                },
+                {
+                  "tag": "text",
+                  "text": "dhanān mṛtyor mukṣīya māmṛtāt tan me manaḥ śivasaṃkalpam astu"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

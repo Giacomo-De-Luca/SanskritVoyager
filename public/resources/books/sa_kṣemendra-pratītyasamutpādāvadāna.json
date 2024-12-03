@@ -1,4 +1,230 @@
 {
-  "title": "sa_kṣemendra-pratītyasamutpādāvadāna",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<lg>\n<l>sarvam avidyāmūlaṃ saṃsārataruprakāravaicitryam /</l>\n<l>jñātum vaktuṃ hantuṃ kaḥ śakto 'nyatra sarvajñāt // KAvk_75.1 //</l>\n</lg>\n\n<lg>\n<l>śrāvastyāṃ svastimān pūrvaṃ jino jetavane sthitaḥ /</l>\n<l>aśeṣadarśī bhagavān bhikṣusaṃgham abhāṣata // KAvk_75.2 //</l>\n</lg>\n\n<lg>\n<l>śṛṇuta śreyase jñānālokanirmalamānasāḥ /</l>\n<l>pratītyasamutpādaṃ vaḥ kathayāmi yathākramam // KAvk_75.3 //</l>\n</lg>\n\n<lg>\n<l>avidyāvāsanaiveyaṃ duḥkhaskandhasya bhūyasaḥ /</l>\n<l>saṃsāraviṣavṛkṣasya mūlabandhavidhāyinī // KAvk_75.4 //</l>\n</lg>\n\n<lg>\n<l>tatpratyayas tu saṃskārāḥ kāyavāṅmānasātmakāḥ /</l>\n<l>saṃskārotthaṃ ca vijñānaṃ manaḥṣaṣṭhendriyātmakamn // KAvk_75.5 //</l>\n</lg>\n\n<lg>\n<l>tatpratyayaṃ nāmarūpaṃ saṃjñāsaṃdarśanābhidham /</l>\n<l>manaḥṣaṣṭhendriyasthānaṃ ṣaḍāyatanam apy ataḥ // KAvk_75.6 //</l>\n</lg>\n\n<lg>\n<l>ṣaḍāyatanasaṃśleṣaḥ sparśa ity abhidhīyate /</l>\n<l>ṣaṭsparśānubhavo yaś ca vedanā sā prakīrtitā // KAvk_75.7 //</l>\n</lg>\n\n<lg>\n<l>tayā viṣayasaṃkleśarāgāt tṛṣṇā prajāyate /</l>\n<l>kāmādiṣu tadudbhūtam upādānaṃ pravartate // KAvk_75.8 //</l>\n</lg>\n\n<lg>\n<l>upādānodbhavaḥ kāmarūpārūpyamayo bhavaḥ /</l>\n<l>nānāyoniparāvṛttyā jātir bhavasamudbhavā // KAvk_75.9 //</l>\n</lg>\n\n<lg>\n<l>jarāmaraṇaśokādisaṃtatir jātisaṃśrayā /</l>\n<l>avidyādinirodhena teṣāṃ vyuparamakramaḥ // KAvk_75.10 //</l>\n</lg>\n\n<lg>\n<l>pratītyotpādo 'yaṃ bahugatir avidyākṛtapadaḥ</l>\n<l>sa cintyo yuṣmābhir vijanavanaviśrāmaśamibhiḥ /</l>\n<l>parijñātaḥ samyag vrajati kila kālena tanutāṃ</l>\n<l>tanutvaṃ saṃprāptaḥ sukhataranivāryaś ca bhavati // KAvk_75.11 //</l>\n</lg>\n\n<p>iti kṣemendraviracitāyāṃ bodhisattvāvadānakalpalatāyāṃ\npratītyasamutpādāvadānaṃ pañcasaptatitamaḥ pallavaḥ |</p>\n\n  </body>\n\n"
+  "file_title": "kṣemendra-pratītyasamutpādāvadāna",
+  "file_title_normal": "ksemendra-pratityasamutpadavadana",
+  "metadata": {
+    "original_title": "Pratītyasamutpādāvadāna",
+    "author": "Kṣemendra",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "ed. M. Mejor. Kṣemendra's Bodhisattvāvadānakalpalatā. Studies and Materials. Tokyo 1992 (Studia Philologica Buddhica, Monograph Series, 8), pp. 16-22."
+  },
+  "body": [
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvam avidyāmūlaṃ saṃsārataruprakāravaicitryam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñātum vaktuṃ hantuṃ kaḥ śakto 'nyatra sarvajñāt // KAvk_75.1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrāvastyāṃ svastimān pūrvaṃ jino jetavane sthitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aśeṣadarśī bhagavān bhikṣusaṃgham abhāṣata // KAvk_75.2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śṛṇuta śreyase jñānālokanirmalamānasāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratītyasamutpādaṃ vaḥ kathayāmi yathākramam // KAvk_75.3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avidyāvāsanaiveyaṃ duḥkhaskandhasya bhūyasaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃsāraviṣavṛkṣasya mūlabandhavidhāyinī // KAvk_75.4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatpratyayas tu saṃskārāḥ kāyavāṅmānasātmakāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃskārotthaṃ ca vijñānaṃ manaḥṣaṣṭhendriyātmakamn // KAvk_75.5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatpratyayaṃ nāmarūpaṃ saṃjñāsaṃdarśanābhidham /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "manaḥṣaṣṭhendriyasthānaṃ ṣaḍāyatanam apy ataḥ // KAvk_75.6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṣaḍāyatanasaṃśleṣaḥ sparśa ity abhidhīyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṣaṭsparśānubhavo yaś ca vedanā sā prakīrtitā // KAvk_75.7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tayā viṣayasaṃkleśarāgāt tṛṣṇā prajāyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāmādiṣu tadudbhūtam upādānaṃ pravartate // KAvk_75.8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upādānodbhavaḥ kāmarūpārūpyamayo bhavaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nānāyoniparāvṛttyā jātir bhavasamudbhavā // KAvk_75.9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jarāmaraṇaśokādisaṃtatir jātisaṃśrayā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avidyādinirodhena teṣāṃ vyuparamakramaḥ // KAvk_75.10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratītyotpādo 'yaṃ bahugatir avidyākṛtapadaḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa cintyo yuṣmābhir vijanavanaviśrāmaśamibhiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parijñātaḥ samyag vrajati kila kālena tanutāṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tanutvaṃ saṃprāptaḥ sukhataranivāryaś ca bhavati // KAvk_75.11 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "iti kṣemendraviracitāyāṃ bodhisattvāvadānakalpalatāyāṃ\npratītyasamutpādāvadānaṃ pañcasaptatitamaḥ pallavaḥ |"
+    }
+  ]
 }

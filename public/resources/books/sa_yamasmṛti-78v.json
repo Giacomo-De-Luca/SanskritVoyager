@@ -1,4 +1,4670 @@
 {
-  "title": "sa_yamasmṛti-78v",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n      <div>\n\t<head>atha yamasmṛtiḥ ||</head>\n\n\t<p>śrīgaṇeśāya namaḥ ||</p>\n\n\t<p>atha prāyaścittavarṇanam</p>\n\t\n\t<lg xml:id='YamS-78v_1'>\n\t  <l><seg type='pāda' n='a'>athāto hy asya dharmasya</seg> <seg type='pāda' n='b'>prāyaścittābhidhāyakam</seg> /</l>\n\t  <l><seg type='pāda' n='c'>caturṇām api varṇānāṃ</seg> <seg type='pāda' n='d'>dharmaśāstraṃ pravartate</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_2'>\n\t  <l><seg type='pāda' n='a'>jalāgnyudvandhanabhraṣṭāḥ</seg> <seg type='pāda' n='b'>prabrajyānaśanacyutāḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>viṣaprapatanaprāya</seg><seg type='pāda' n='d'>śastraghātacyutāśca ye</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_3'>\n\t  <l><seg type='pāda' n='a'>sarve te pratyavasitāḥ</seg> <seg type='pāda' n='b'>sarvalokavahiṣkṛtāḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>cāndrāyaṇena śuddhyanti</seg> <seg type='pāda' n='d'>taptakṛcchradvayena vā</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_4'>\n\t  <l><seg type='pāda' n='a'>ubhayāvasitāḥ pāpā</seg> <seg type='pāda' n='b'>ye 'grāmya śaraṇacyutāḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>indudvayena śuddhyanti</seg> <seg type='pāda' n='d'>dattvā dhenuṃ tathā vṛṣam</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_5'>\n\t  <l><seg type='pāda' n='a'>gobrāhmaṇahanaṃ dagdhā</seg> <seg type='pāda' n='b'>mṛtam udvandhanena ca</seg> /</l>\n\t  <l><seg type='pāda' n='c'>pāśaṃ tasyaiva chittvā tu</seg> <seg type='pāda' n='d'>taptakṛcchraṃ samācaret</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_6'>\n\t  <l><seg type='pāda' n='a'>kṛmibhir vraṇasaṃbhūtair</seg> <seg type='pāda' n='b'>makṣikāśvopaghātitaḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>kṛcchrārddhaṃ saṃprakurvīta</seg> <seg type='pāda' n='d'>śaktyā dadyāt tu dakṣiṇām</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_7'>\n\t  <l><seg type='pāda' n='a'>brāhmaṇasya maladvāre</seg> <seg type='pāda' n='b'>pūyaśoṇita sambhave</seg> /</l>\n\t  <l><seg type='pāda' n='c'>kṛmibhuktabraṇe mauñjī</seg><seg type='pāda' n='d'>homena sa viśuddhyati</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_8'>\n\t  <l><seg type='pāda' n='a'>yaḥ kṣatriyas tathā vaiśyaḥ</seg> <seg type='pāda' n='b'>śūdraścāpyanulomajaḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>jñātvā bhuṅkte viśeṣeṇa</seg> <seg type='pāda' n='d'>carec cāndrāyaṇaṃ vratam</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_9'>\n\t  <l><seg type='pāda' n='a'>kukkuṭāṇḍapramāṇan tu</seg> <seg type='pāda' n='b'>grāsañca parikalpayet</seg> /</l>\n\t  <l><seg type='pāda' n='c'>anyathāhāradoṣeṇa</seg> <seg type='pāda' n='d'>na sa tatra viśuddhyati</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_10'>\n\t  <l><seg type='pāda' n='a'>ekaikaṃ varddhayec chukle</seg> <seg type='pāda' n='b'>kṛṣṇapakṣe ca hrāsayet</seg> /</l>\n\t  <l><seg type='pāda' n='c'>amāvāsyāṃ na bhuñjīta</seg> <seg type='pāda' n='d'>eṣa cāndrāyaṇo vidhiḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_11'>\n\t  <l><seg type='pāda' n='a'>surānyamadyapānena</seg> <seg type='pāda' n='b'>gomāṃsabhakṣaṇe kṛte</seg> /</l>\n\t  <l><seg type='pāda' n='c'>taptakṛcchrañ cared vipras</seg> <seg type='pāda' n='d'>tat pāpas tu praṇaśyati</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_12'>\n\t  <l><seg type='pāda' n='a'>prāyaścitte hy upakrānte</seg> <seg type='pāda' n='b'>kartā yadi vipadyate</seg> /</l>\n\t  <l><seg type='pāda' n='c'>pūtas tad ahar evāpi</seg> <seg type='pāda' n='d'>iha loke paratra ca</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_13'>\n\t  <l><seg type='pāda' n='a'>yāvad ekaḥ pṛthak dravyaḥ</seg> <seg type='pāda' n='b'>prāyaścittena śuddhyati</seg> /</l>\n\t  <l><seg type='pāda' n='c'>aparās te na ca spṛśyās</seg> <seg type='pāda' n='d'>te 'pi sarve vigarhitāḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_14'>\n\t  <l><seg type='pāda' n='a'>abhojyāś cāpratigrāhyā</seg> <seg type='pāda' n='b'>asaṃpāṭhyā vivāhinaḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>pūyante 'nuvrate cīrṇe</seg> <seg type='pāda' n='d'>sarve te ṛkthabhāginaḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_15'>\n\t  <l><seg type='pāda' n='a'>ūnaikādaśavarṣasya</seg> <seg type='pāda' n='b'>pañcavarṣāt parasya ca</seg> /</l>\n\t  <l><seg type='pāda' n='c'>prāyaścittaṃ cared bhrātā</seg> <seg type='pāda' n='d'>pitā vānyo 'pi bāndhavaḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_16'>\n\t  <l><seg type='pāda' n='a'>ato bālatarasyāpi</seg> <seg type='pāda' n='b'>nāparādho na pātakam</seg> /</l>\n\t  <l><seg type='pāda' n='c'>rājadaṇḍo na tasyāsti</seg> <seg type='pāda' n='d'>prāyaścittaṃ na vidyate</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_17'>\n\t  <l><seg type='pāda' n='a'>aśītīryasya varṣāṇi</seg> <seg type='pāda' n='b'>bālo vāpy ūnaṣoḍaśaḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>prāyaścittārddham arhanti</seg> <seg type='pāda' n='d'>striyo rogiṇa eva ca</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_18'>\n\t  <l><seg type='pāda' n='a'>astaṃ gato yadā sūryaś</seg> <seg type='pāda' n='b'>cāṇḍālarajakastriyaḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>saṃspṛṣṭās tu tadā kaiścit</seg> <seg type='pāda' n='d'>prāyaścittaṃ kathaṃ bhavet</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_19'>\n\t  <l><seg type='pāda' n='a'>jātarūpaṃ suvarṇañ ca</seg> <seg type='pāda' n='b'>divānītaṃ ca yaj jalam</seg> /</l>\n\t  <l><seg type='pāda' n='c'>tena snātvā ca pītvā ca</seg> <seg type='pāda' n='d'>sarve te śucayaḥ smṛtāḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_20'>\n\t  <l><seg type='pāda' n='a'>dāsanāpitagopāla</seg><seg type='pāda' n='b'>kulamitrārdhasīriṇaḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>ete śūdreṣu bhojyānnā</seg> <seg type='pāda' n='d'>yaś cātmanaṃ nivedayet</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_21'>\n\t  <l><seg type='pāda' n='a'>annaṃ śūdrasya bhojyaṃ vā</seg> <seg type='pāda' n='b'>ye bhuñjanty abudhā narāḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>prayaścittaṃ tathā prāptaṃ</seg> <seg type='pāda' n='d'>carec cāndrāyaṇaṃ vratam</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_22'>\n\t  <l><seg type='pāda' n='a'>prāpte dvādaśame varṣe</seg> <seg type='pāda' n='b'>yaḥ kanyāṃ na prayacchati</seg> /</l>\n\t  <l><seg type='pāda' n='c'>māsi māsi rajas tasyāḥ</seg> <seg type='pāda' n='d'>pitā pibati śoṇitam</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_23'>\n\t  <l><seg type='pāda' n='a'>mātā caiva pitā caiva</seg> <seg type='pāda' n='b'>jyeṣṭho bhrātā tathaiva ca</seg> /</l>\n\t  <l><seg type='pāda' n='c'>trayas te narakaṃ yānti</seg> <seg type='pāda' n='d'>dṛṣṭvā kanyāṃ rajasvalām</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_24'>\n\t  <l><seg type='pāda' n='a'>yas tāṃ vivāhayet kanyāṃ</seg> <seg type='pāda' n='b'>brāhmaṇo madamohitaḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>asaṃbhāṣyo hy apāṅkteyaḥ</seg> <seg type='pāda' n='d'>sa vipro vṛṣalīpatiḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_25'>\n\t  <l><seg type='pāda' n='a'>vandhyā tu vṛṣalī jñeyā</seg> <seg type='pāda' n='b'>vṛṣalī tu mṛtaprajāḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>śūdrī tu vṛṣalī jñeyā</seg> <seg type='pāda' n='d'>kumārī tu rajasvalā</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_26'>\n\t  <l><seg type='pāda' n='a'>yat karoty ekarātreṇa</seg> <seg type='pāda' n='b'>vṛṣalīsevanād dvijaḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>tad bhaikṣabhug japen nityaṃ</seg> <seg type='pāda' n='d'>tribhir varṣair vyapohati</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_27'>\n\t  <l><seg type='pāda' n='a'>svavṛṣaṃ yā parityajyāny</seg> <seg type='pāda' n='b'>avṛṣeṇa bṛhaspatiḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>vṛṣalī sā tu vijñeyā</seg> <seg type='pāda' n='d'>na śūdrī vṛṣalī bhavet</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_28'>\n\t  <l><seg type='pāda' n='a'>vṛṣalīphenapītasya</seg> <seg type='pāda' n='b'>niḥśvāsopahatasya ca</seg> /</l>\n\t  <l><seg type='pāda' n='c'>tasyāñ caiva prasūtasya</seg> <seg type='pāda' n='d'>niṣkṛtir naiva vidyate</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_29'>\n\t  <l><seg type='pāda' n='a'>śvitrakuṣṭhī tathā caiva</seg> <seg type='pāda' n='b'>kunakhī śyāvadantakaḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>rogī hīnātiriktāṅgaḥ</seg> <seg type='pāda' n='d'>piśuno matsaras tathā</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_30'>\n\t  <l><seg type='pāda' n='a'>durbhago hi tathā ṣaṇḍaḥ</seg> <seg type='pāda' n='b'>pāṣaṇḍī vedanindakaḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>haitukaḥ śūdrayājī ca</seg> <seg type='pāda' n='d'>ayājyānāñ ca yājakaḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_31'>\n\t  <l><seg type='pāda' n='a'>nityaṃ pratigrahe lubdho</seg> <seg type='pāda' n='b'>yācako viṣayātmakaḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>śyāvadanto 'tha vaidyaś ca</seg> <seg type='pāda' n='d'>asadālāpakas tathā</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_32'>\n\t  <l><seg type='pāda' n='a'>ete śrāddhe ca dāne ca</seg> <seg type='pāda' n='b'>varjanīyāḥ prayatnataḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_33'>\n\t  <l><seg type='pāda' n='a'>tato devalakaś caiva</seg> <seg type='pāda' n='b'>bhṛtako vedavikrayī</seg> /</l>\n\t  <l><seg type='pāda' n='c'>ete varjyāḥ prayatnena</seg> <seg type='pāda' n='d'>etad bhāsvatir abravīt</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_34'>\n\t  <l><seg type='pāda' n='a'>etān niyojayed yas tu</seg> <seg type='pāda' n='b'>havye kavye ca karmaṇi</seg> /</l>\n\t  <l><seg type='pāda' n='c'>nirāśāḥ pitaras tasya</seg> <seg type='pāda' n='d'>yānti devāmaharṣibhiḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_35'>\n\t  <l><seg type='pāda' n='a'>agre māhiṣikaṃ dṛṣṭvā</seg> <seg type='pāda' n='b'>madhye tu vṛṣalīpatim</seg> /</l>\n\t  <l><seg type='pāda' n='c'>ante vārdhuṣikaṃ dṛṣṭvā</seg> <seg type='pāda' n='d'>nirāśāḥ pitaro gatāḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_36'>\n\t  <l><seg type='pāda' n='a'>mahiṣīty ucyate bhāryā</seg> <seg type='pāda' n='b'>yā caiva vyabhicāriṇī</seg> /</l>\n\t  <l><seg type='pāda' n='c'>tān doṣān kṣamate yas tu</seg> <seg type='pāda' n='d'>sa vai māhiṣikaḥ smṛtaḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_37'>\n\t  <l><seg type='pāda' n='a'>samārghan tu samuddhṛtya</seg> <seg type='pāda' n='b'>mahārghaṃ yah prayacchati</seg> /</l>\n\t  <l><seg type='pāda' n='c'>sa vai vārdhuṣiko nāma</seg> <seg type='pāda' n='d'>brahmavādiṣu garhitaḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_38'>\n\t  <l><seg type='pāda' n='a'>yāvad uṣṇaṃ bhavaty annaṃ</seg> <seg type='pāda' n='b'>yāvad bhuñjanti vāgyatāḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>aśnanti pitaras tāvad</seg> <seg type='pāda' n='d'>yāvan noktā havirguṇāḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_39'>\n\t  <l><seg type='pāda' n='a'>havirguṇā na vaktavyāḥ</seg> <seg type='pāda' n='b'>pitaro yatra tarpitāḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>pitṛbhis tarpitaiḥ paścād</seg> <seg type='pāda' n='d'>vaktavyaṃ śobhanaṃ haviḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_40'>\n\t  <l><seg type='pāda' n='a'>yāvato grasate grāsān</seg> <seg type='pāda' n='b'>havyakavyeṣu mantravit</seg> /</l>\n\t  <l><seg type='pāda' n='c'>tāvato grasate piṇḍān</seg> <seg type='pāda' n='d'>śarīre brahmaṇaḥ pitā</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_41'>\n\t  <l><seg type='pāda' n='a'>ucchiṣṭocchiṣtasaṃspṛṣṭaḥ</seg> <seg type='pāda' n='b'>śunā śūdreṇa vā dvijaḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>upoṣya rajamīm ekāṃ</seg> <seg type='pāda' n='d'>pañcagavyena śuddhyati</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_42'>\n\t  <l><seg type='pāda' n='a'>anucchiṣṭena saṃspṛṣṭe</seg> <seg type='pāda' n='b'>snānamātraṃ vidhīyate</seg> /</l>\n\t  <l><seg type='pāda' n='c'>tenaivocchiṣṭasaṃspṛṣṭaḥ</seg> <seg type='pāda' n='d'>prājāpatyaṃ samācaret</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_43'>\n\t  <l><seg type='pāda' n='a'>yāvad viprā na pūjyante</seg> <seg type='pāda' n='b'>sambhojanahiraṇyakaiḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>tāvac cīrṇavratasyāpi</seg> <seg type='pāda' n='d'>tat pāpaṃ na praṇaśyati</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_44'>\n\t  <l><seg type='pāda' n='a'>yad veṣṭitaṃ kākabalākacillair</seg> <seg type='pāda' n='b'>amedhyaliptaṃ tu bhavec charīram</seg> /</l>\n\t  <l><seg type='pāda' n='c'>gātre mukhe ca praviśec ca samyak</seg> <seg type='pāda' n='d'>snānena lepopahatasya śuddhiḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_45'>\n\t  <l><seg type='pāda' n='a'>ūrdhvaṃ nābheḥ karau muktvā</seg> <seg type='pāda' n='b'>yad aṅgam upahanyate</seg> /</l>\n\t  <l><seg type='pāda' n='c'>ūrdhvaṃ snānam adhaḥ śaucaṃ</seg> <seg type='pāda' n='d'>tan mātreṇaiva śuddhyati</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_46'>\n\t  <l><seg type='pāda' n='a'>abhakṣyāṇām apeyānām</seg> <seg type='pāda' n='b'>alehyānāñ ca bhakṣaṇe</seg> /</l>\n\t  <l><seg type='pāda' n='c'>reto mūtrapurīṣāṇāṃ</seg> <seg type='pāda' n='d'>prāyaścittaṃ kathaṃ bhavet</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_47'>\n\t  <l><seg type='pāda' n='a'>padmoḍumbaravilvāś ca</seg> <seg type='pāda' n='b'>kuśāśvatthapalāśakāḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>eteṣām udakaṃ pītvā</seg> <seg type='pāda' n='d'>ṣaḍrātreṇaiva śuddhyati</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_48'>\n\t  <l><seg type='pāda' n='a'>yaḥ pratyavasito vipraḥ</seg> <seg type='pāda' n='b'>pravrajyāgnir nirāpadi</seg> /</l>\n\t  <l><seg type='pāda' n='c'>anāhitāgnir varteta</seg> <seg type='pāda' n='d'>gṛhitvañ ca cikīrṣati</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_49'>\n\t  <l><seg type='pāda' n='a'>ācaret trīṇi kṛcchrāṇi</seg> <seg type='pāda' n='b'>carec cāndrāyaṇāni ca</seg> /</l>\n\t  <l><seg type='pāda' n='c'>jātakarmādibhiḥ proktaiḥ</seg> <seg type='pāda' n='d'>punaḥ saṃskāram arhati</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_50'>\n\t  <l><seg type='pāda' n='a'>tūlikā upadhānāni</seg> <seg type='pāda' n='b'>puṣpaṃ raktāmbarāṇi ca</seg> /</l>\n\t  <l><seg type='pāda' n='c'>śoṣayitvā pratāpena</seg> <seg type='pāda' n='d'>prokṣayitvā śucir bhavet</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_51'>\n\t  <l><seg type='pāda' n='a'>deśaṃ kālaṃ tathātmānaṃ</seg> <seg type='pāda' n='b'>dravyaṃ dravyaprayojanam</seg> /</l>\n\t  <l><seg type='pāda' n='c'>upapattim avasthāñ ca</seg> <seg type='pāda' n='d'>jñātvā dharmaṃ samācaret</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_52'>\n\t  <l><seg type='pāda' n='a'>rathy ākardamatoyāni</seg> <seg type='pāda' n='b'>nāvāyasa tṛṇāni ca</seg> /</l>\n\t  <l><seg type='pāda' n='c'>mārutārkeṇa śuddhyanti</seg> <seg type='pāda' n='d'>pakveṣṭakacitāni ca</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_53'>\n\t  <l><seg type='pāda' n='a'>āture snānasamprāpte</seg> <seg type='pāda' n='b'>daśakṛtvo hy anāturaḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>snātvā snātvā spṛśet tan tu</seg> <seg type='pāda' n='d'>tataḥ śuddhyeta āturaḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_54'>\n\t  <l><seg type='pāda' n='a'>rajakaś carmakāraś ca</seg> <seg type='pāda' n='b'>naṭo vuruḍa eva ca</seg> /</l>\n\t  <l><seg type='pāda' n='c'>kaivartamedabhillāś ca</seg> <seg type='pāda' n='d'>saptaite cāntyajāḥ smṛtāḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_55'>\n\t  <l><seg type='pāda' n='a'>eṣāṃ gatvā tu yoṣāṃ vai</seg> <seg type='pāda' n='b'>taptakṛcchraṃ samācaret</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_56'>\n\t  <l><seg type='pāda' n='a'>strīṇāṃ rajasvalānān tu</seg> <seg type='pāda' n='b'>spṛṣṭāspṛṣṭi yadā bhavet</seg> /</l>\n\t  <l><seg type='pāda' n='c'>prāyaścittaṃ kathaṃ tāsāṃ</seg> <seg type='pāda' n='d'>varṇe varṇe vidhīyate</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_57'>\n\t  <l><seg type='pāda' n='a'>spṛṣṭvā rajasvalāṃ yāntu</seg> <seg type='pāda' n='b'>sagotrāñ ca sabharttṛkām</seg> /</l>\n\t  <l><seg type='pāda' n='c'>kāmād akāmato vāpi</seg> <seg type='pāda' n='d'>snātvā kālena śuddhyati</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_58'>\n\t  <l><seg type='pāda' n='a'>spṛṣṭvā rajasvalānyonyaṃ</seg> <seg type='pāda' n='b'>brāhmaṇī śūdrajā tathā</seg> /</l>\n\t  <l><seg type='pāda' n='c'>kṛcchreṇa śudhyate pūrvā</seg> <seg type='pāda' n='d'>śūdrā pādena śudhyati</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_59'>\n\t  <l><seg type='pāda' n='a'>spṛṣṭvā rajasvalānyonyaṃ</seg> <seg type='pāda' n='b'>kṣatriyā śūdrajā tathā</seg> /</l>\n\t  <l><seg type='pāda' n='c'>pādahīnaṃ caret pūrvā</seg> <seg type='pāda' n='d'>pādārddhan tu tathottarā</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_60'>\n\t  <l><seg type='pāda' n='a'>spṛṣṭvā rajasvalānyonyaṃ</seg> <seg type='pāda' n='b'>vaiśyajā śūdrajā tathā</seg> /</l>\n\t  <l><seg type='pāda' n='c'>kṛcchrapādaṃ caret pūrvā</seg> <seg type='pāda' n='d'>tadarddhan tu tathottarā</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_61'>\n\t  <l><seg type='pāda' n='a'>spṛṣṭā rajasvalā caiva</seg> <seg type='pāda' n='b'>śvājajambūkarāsabhaiḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>tāvat tiṣṭhet nirāhārā</seg> <seg type='pāda' n='d'>snātvā kālena śudhyati</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_62'>\n\t  <l><seg type='pāda' n='a'>spṛṣṭvā rajasvalā kaiścit</seg> <seg type='pāda' n='b'>cāṇḍālair arajasvalā</seg> /</l>\n\t  <l><seg type='pāda' n='c'>prājāpatyena kṛcchreṇa</seg> <seg type='pāda' n='d'>prāṇāyāmaśatena ca</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_63'>\n\t  <l><seg type='pāda' n='a'>vipraḥ spṛṣṭo niśāyāñ ca</seg> <seg type='pāda' n='b'>udakyā patitena ca</seg> /</l>\n\t  <l><seg type='pāda' n='c'>divānītena toyena</seg> <seg type='pāda' n='d'>snāpayec cāgnisannidhau</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_64'>\n\t  <l><seg type='pāda' n='a'>divārka raśmisaṃspṛṣṭaṃ</seg> <seg type='pāda' n='b'>rātrau nakṣatraraśmibhiḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>sandhyobhayoś ca sandhyāyāḥ</seg> <seg type='pāda' n='d'>pavitraṃ sarvadā jalam</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_65'>\n\t  <l><seg type='pāda' n='a'>apaḥ karanakhaspṛṣṭāḥ</seg> <seg type='pāda' n='b'>pibed ācamane dvijaḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>surāṃ pibati suvyaktaṃ</seg> <seg type='pāda' n='d'>yamasya vacanaṃ yathā</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_66'>\n\t  <l><seg type='pāda' n='a'>svāta vāpyos tathā kūpe</seg> <seg type='pāda' n='b'>pāṣāṇaiḥ śastraghātanaiḥ</seg> /</l>\n\t  <l><seg type='pāda' n='c'>yaṣṭyā tu ghātane caiva</seg> <seg type='pāda' n='d'>mṛtpiṇḍe gokulena ca</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_67'>\n\t  <l><seg type='pāda' n='a'>rodhane bandhane caiva</seg> <seg type='pāda' n='b'>sthāpite puṣkale tathā</seg> /</l>\n\t  <l><seg type='pāda' n='c'>kāṣṭhe vanaspatau rodha</seg><seg type='pāda' n='d'>saṅkaṭe rajjuvastrayoḥ</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_68'>\n\t  <l><seg type='pāda' n='a'>etat te kathitaṃ sarvaṃ</seg> <seg type='pāda' n='b'>pramādasthānam uttamam</seg> /</l>\n\t  <l><seg type='pāda' n='c'>yatra yatra mṛtā gāvaḥ</seg> <seg type='pāda' n='d'>prāyaścittaṃ samācaret</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_69'>\n\t  <l><seg type='pāda' n='a'>dāruṇā ghātane kṛcchraṃ</seg> <seg type='pāda' n='b'>pāṣāṇair dviguṇaṃ bhavet</seg> /</l>\n\t  <l><seg type='pāda' n='c'>arddhakṛcchran tu khāte syāt</seg> <seg type='pāda' n='d'>pādakṛcchran tu pādape</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_70'>\n\t  <l><seg type='pāda' n='a'>śastraghāte trikṛcchrāṇi</seg> <seg type='pāda' n='b'>yaṣṭighāte dvayaṃ caret</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_71'>\n\t  <l><seg type='pāda' n='a'>kṛcchreṇa vastraghāte 'pi</seg> <seg type='pāda' n='b'>goghnaś ceti viśuddhyati</seg> /</l>\n\t  <l><seg type='pāda' n='c'>yo varttayati gomadhye</seg> <seg type='pāda' n='d'>nadīkāntāramantike</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_72'>\n\t  <l><seg type='pāda' n='a'>romāṇi prathame pāde</seg> <seg type='pāda' n='b'>dvitīye śmaśru vāpayet</seg> /</l>\n\t  <l><seg type='pāda' n='c'>tṛtīye tu śikhā dhāryā</seg> <seg type='pāda' n='d'>caturthe saśikhaṃ vapet</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_73'>\n\t  <l><seg type='pāda' n='a'>na strīṇāṃ vapanaṃ kuryāt</seg> <seg type='pāda' n='b'>na ca sā gām anuvrajet</seg> /</l>\n\t  <l><seg type='pāda' n='c'>na ca rātrau vased goṣṭhe</seg> <seg type='pāda' n='d'>na kuryād vaidikīṃ śrutim</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_74'>\n\t  <l><seg type='pāda' n='a'>sarvān keśān samuddhṛtya</seg> <seg type='pāda' n='b'>chedayed aṅgulidvayam</seg> /</l>\n\t  <l><seg type='pāda' n='c'>evam eva tu nārīṇāṃ</seg> <seg type='pāda' n='d'>śiraso vapanaṃ smṛtam</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_75'>\n\t  <l><seg type='pāda' n='a'>mṛtakena tu jātena</seg> <seg type='pāda' n='b'>ubhayoḥ sūtakaṃ bhavet</seg> /</l>\n\t  <l><seg type='pāda' n='c'>pātakena tu liptena</seg> <seg type='pāda' n='d'>nāsya sūtakitā bhavet</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_76'>\n\t  <l><seg type='pāda' n='a'>catvāri khalu karmāṇi</seg> <seg type='pāda' n='b'>sandhyākāle vivarjayet</seg> /</l>\n\t  <l><seg type='pāda' n='c'>āhāraṃ maithunaṃ nidrāṃ</seg> <seg type='pāda' n='d'>svādhyāyañ ca caturthakam</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_77'>\n\t  <l><seg type='pāda' n='a'>āhārāj jāyate vyādhiḥ</seg> <seg type='pāda' n='b'>krūragarbhaś ca maithune</seg> /</l>\n\t  <l><seg type='pāda' n='c'>nidrā śriyo nivarttante</seg> <seg type='pāda' n='d'>svādhyāye maraṇaṃ dhruvam</seg> //</l>\n\t</lg>\n\n\t<lg xml:id='YamS-78v_78'>\n\t  <l><seg type='pāda' n='a'>ajñānāt tu dvijaśreṣṭha</seg> <seg type='pāda' n='b'>varṇānāṃ hitakāmyayā</seg> /</l>\n\t  <l><seg type='pāda' n='c'>mayā proktam idaṃ śāstraṃ</seg> <seg type='pāda' n='d'>sāvadhāno 'vadhāraya</seg> //</l>\n\t</lg>\n\n\t<p>iti yamaproktaṃ dharmaśāstraṃ samāptam ||</p>\n      </div>\n    </body>\n  \n"
+  "file_title": "yamasmṛti-78v",
+  "file_title_normal": "yamasmrti-78v",
+  "metadata": {
+    "original_title": "Yamasmṛti (78-verse version)",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Jürgen Neuß",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Jürgen Neuß",
+        "when": ""
+      },
+      {
+        "role": "proof-reading",
+        "name": "Jürgen Neuß",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-01-21"
+  },
+  "body": [
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "head",
+          "attributes": {},
+          "text": "atha yamasmṛtiḥ ||"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "śrīgaṇeśāya namaḥ ||"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "atha prāyaścittavarṇanam"
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "athāto hy asya dharmasya"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "prāyaścittābhidhāyakam"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "caturṇām api varṇānāṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "dharmaśāstraṃ pravartate"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "jalāgnyudvandhanabhraṣṭāḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "prabrajyānaśanacyutāḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "viṣaprapatanaprāya"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "śastraghātacyutāśca ye"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "sarve te pratyavasitāḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "sarvalokavahiṣkṛtāḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "cāndrāyaṇena śuddhyanti"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "taptakṛcchradvayena vā"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "ubhayāvasitāḥ pāpā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "ye 'grāmya śaraṇacyutāḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "indudvayena śuddhyanti"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "dattvā dhenuṃ tathā vṛṣam"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "gobrāhmaṇahanaṃ dagdhā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "mṛtam udvandhanena ca"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "pāśaṃ tasyaiva chittvā tu"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "taptakṛcchraṃ samācaret"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "kṛmibhir vraṇasaṃbhūtair"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "makṣikāśvopaghātitaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "kṛcchrārddhaṃ saṃprakurvīta"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "śaktyā dadyāt tu dakṣiṇām"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "brāhmaṇasya maladvāre"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "pūyaśoṇita sambhave"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "kṛmibhuktabraṇe mauñjī"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "homena sa viśuddhyati"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "yaḥ kṣatriyas tathā vaiśyaḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "śūdraścāpyanulomajaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "jñātvā bhuṅkte viśeṣeṇa"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "carec cāndrāyaṇaṃ vratam"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "kukkuṭāṇḍapramāṇan tu"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "grāsañca parikalpayet"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "anyathāhāradoṣeṇa"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "na sa tatra viśuddhyati"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "ekaikaṃ varddhayec chukle"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "kṛṣṇapakṣe ca hrāsayet"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "amāvāsyāṃ na bhuñjīta"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "eṣa cāndrāyaṇo vidhiḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "surānyamadyapānena"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "gomāṃsabhakṣaṇe kṛte"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "taptakṛcchrañ cared vipras"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "tat pāpas tu praṇaśyati"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_12"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "prāyaścitte hy upakrānte"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "kartā yadi vipadyate"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "pūtas tad ahar evāpi"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "iha loke paratra ca"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_13"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "yāvad ekaḥ pṛthak dravyaḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "prāyaścittena śuddhyati"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "aparās te na ca spṛśyās"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "te 'pi sarve vigarhitāḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_14"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "abhojyāś cāpratigrāhyā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "asaṃpāṭhyā vivāhinaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "pūyante 'nuvrate cīrṇe"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "sarve te ṛkthabhāginaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_15"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "ūnaikādaśavarṣasya"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "pañcavarṣāt parasya ca"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "prāyaścittaṃ cared bhrātā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "pitā vānyo 'pi bāndhavaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_16"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "ato bālatarasyāpi"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "nāparādho na pātakam"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "rājadaṇḍo na tasyāsti"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "prāyaścittaṃ na vidyate"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_17"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "aśītīryasya varṣāṇi"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "bālo vāpy ūnaṣoḍaśaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "prāyaścittārddham arhanti"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "striyo rogiṇa eva ca"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_18"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "astaṃ gato yadā sūryaś"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "cāṇḍālarajakastriyaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "saṃspṛṣṭās tu tadā kaiścit"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "prāyaścittaṃ kathaṃ bhavet"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_19"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "jātarūpaṃ suvarṇañ ca"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "divānītaṃ ca yaj jalam"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "tena snātvā ca pītvā ca"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "sarve te śucayaḥ smṛtāḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_20"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "dāsanāpitagopāla"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "kulamitrārdhasīriṇaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "ete śūdreṣu bhojyānnā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "yaś cātmanaṃ nivedayet"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_21"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "annaṃ śūdrasya bhojyaṃ vā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "ye bhuñjanty abudhā narāḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "prayaścittaṃ tathā prāptaṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "carec cāndrāyaṇaṃ vratam"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_22"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "prāpte dvādaśame varṣe"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "yaḥ kanyāṃ na prayacchati"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "māsi māsi rajas tasyāḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "pitā pibati śoṇitam"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_23"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "mātā caiva pitā caiva"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "jyeṣṭho bhrātā tathaiva ca"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "trayas te narakaṃ yānti"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "dṛṣṭvā kanyāṃ rajasvalām"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_24"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "yas tāṃ vivāhayet kanyāṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "brāhmaṇo madamohitaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "asaṃbhāṣyo hy apāṅkteyaḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "sa vipro vṛṣalīpatiḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_25"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "vandhyā tu vṛṣalī jñeyā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "vṛṣalī tu mṛtaprajāḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "śūdrī tu vṛṣalī jñeyā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "kumārī tu rajasvalā"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_26"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "yat karoty ekarātreṇa"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "vṛṣalīsevanād dvijaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "tad bhaikṣabhug japen nityaṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "tribhir varṣair vyapohati"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_27"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "svavṛṣaṃ yā parityajyāny"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "avṛṣeṇa bṛhaspatiḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "vṛṣalī sā tu vijñeyā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "na śūdrī vṛṣalī bhavet"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_28"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "vṛṣalīphenapītasya"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "niḥśvāsopahatasya ca"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "tasyāñ caiva prasūtasya"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "niṣkṛtir naiva vidyate"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_29"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "śvitrakuṣṭhī tathā caiva"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "kunakhī śyāvadantakaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "rogī hīnātiriktāṅgaḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "piśuno matsaras tathā"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_30"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "durbhago hi tathā ṣaṇḍaḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "pāṣaṇḍī vedanindakaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "haitukaḥ śūdrayājī ca"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "ayājyānāñ ca yājakaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_31"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "nityaṃ pratigrahe lubdho"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "yācako viṣayātmakaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "śyāvadanto 'tha vaidyaś ca"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "asadālāpakas tathā"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_32"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "ete śrāddhe ca dāne ca"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "varjanīyāḥ prayatnataḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_33"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "tato devalakaś caiva"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "bhṛtako vedavikrayī"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "ete varjyāḥ prayatnena"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "etad bhāsvatir abravīt"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_34"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "etān niyojayed yas tu"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "havye kavye ca karmaṇi"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "nirāśāḥ pitaras tasya"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "yānti devāmaharṣibhiḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_35"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "agre māhiṣikaṃ dṛṣṭvā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "madhye tu vṛṣalīpatim"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "ante vārdhuṣikaṃ dṛṣṭvā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "nirāśāḥ pitaro gatāḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_36"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "mahiṣīty ucyate bhāryā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "yā caiva vyabhicāriṇī"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "tān doṣān kṣamate yas tu"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "sa vai māhiṣikaḥ smṛtaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_37"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "samārghan tu samuddhṛtya"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "mahārghaṃ yah prayacchati"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "sa vai vārdhuṣiko nāma"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "brahmavādiṣu garhitaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_38"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "yāvad uṣṇaṃ bhavaty annaṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "yāvad bhuñjanti vāgyatāḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "aśnanti pitaras tāvad"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "yāvan noktā havirguṇāḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_39"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "havirguṇā na vaktavyāḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "pitaro yatra tarpitāḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "pitṛbhis tarpitaiḥ paścād"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "vaktavyaṃ śobhanaṃ haviḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_40"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "yāvato grasate grāsān"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "havyakavyeṣu mantravit"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "tāvato grasate piṇḍān"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "śarīre brahmaṇaḥ pitā"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_41"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "ucchiṣṭocchiṣtasaṃspṛṣṭaḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "śunā śūdreṇa vā dvijaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "upoṣya rajamīm ekāṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "pañcagavyena śuddhyati"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_42"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "anucchiṣṭena saṃspṛṣṭe"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "snānamātraṃ vidhīyate"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "tenaivocchiṣṭasaṃspṛṣṭaḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "prājāpatyaṃ samācaret"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_43"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "yāvad viprā na pūjyante"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "sambhojanahiraṇyakaiḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "tāvac cīrṇavratasyāpi"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "tat pāpaṃ na praṇaśyati"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_44"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "yad veṣṭitaṃ kākabalākacillair"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "amedhyaliptaṃ tu bhavec charīram"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "gātre mukhe ca praviśec ca samyak"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "snānena lepopahatasya śuddhiḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_45"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "ūrdhvaṃ nābheḥ karau muktvā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "yad aṅgam upahanyate"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "ūrdhvaṃ snānam adhaḥ śaucaṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "tan mātreṇaiva śuddhyati"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_46"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "abhakṣyāṇām apeyānām"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "alehyānāñ ca bhakṣaṇe"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "reto mūtrapurīṣāṇāṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "prāyaścittaṃ kathaṃ bhavet"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_47"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "padmoḍumbaravilvāś ca"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "kuśāśvatthapalāśakāḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "eteṣām udakaṃ pītvā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "ṣaḍrātreṇaiva śuddhyati"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_48"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "yaḥ pratyavasito vipraḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "pravrajyāgnir nirāpadi"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "anāhitāgnir varteta"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "gṛhitvañ ca cikīrṣati"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_49"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "ācaret trīṇi kṛcchrāṇi"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "carec cāndrāyaṇāni ca"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "jātakarmādibhiḥ proktaiḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "punaḥ saṃskāram arhati"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_50"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "tūlikā upadhānāni"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "puṣpaṃ raktāmbarāṇi ca"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "śoṣayitvā pratāpena"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "prokṣayitvā śucir bhavet"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_51"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "deśaṃ kālaṃ tathātmānaṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "dravyaṃ dravyaprayojanam"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "upapattim avasthāñ ca"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "jñātvā dharmaṃ samācaret"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_52"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "rathy ākardamatoyāni"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "nāvāyasa tṛṇāni ca"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "mārutārkeṇa śuddhyanti"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "pakveṣṭakacitāni ca"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_53"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "āture snānasamprāpte"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "daśakṛtvo hy anāturaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "snātvā snātvā spṛśet tan tu"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "tataḥ śuddhyeta āturaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_54"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "rajakaś carmakāraś ca"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "naṭo vuruḍa eva ca"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "kaivartamedabhillāś ca"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "saptaite cāntyajāḥ smṛtāḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_55"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "eṣāṃ gatvā tu yoṣāṃ vai"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "taptakṛcchraṃ samācaret"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_56"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "strīṇāṃ rajasvalānān tu"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "spṛṣṭāspṛṣṭi yadā bhavet"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "prāyaścittaṃ kathaṃ tāsāṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "varṇe varṇe vidhīyate"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_57"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "spṛṣṭvā rajasvalāṃ yāntu"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "sagotrāñ ca sabharttṛkām"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "kāmād akāmato vāpi"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "snātvā kālena śuddhyati"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_58"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "spṛṣṭvā rajasvalānyonyaṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "brāhmaṇī śūdrajā tathā"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "kṛcchreṇa śudhyate pūrvā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "śūdrā pādena śudhyati"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_59"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "spṛṣṭvā rajasvalānyonyaṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "kṣatriyā śūdrajā tathā"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "pādahīnaṃ caret pūrvā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "pādārddhan tu tathottarā"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_60"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "spṛṣṭvā rajasvalānyonyaṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "vaiśyajā śūdrajā tathā"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "kṛcchrapādaṃ caret pūrvā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "tadarddhan tu tathottarā"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_61"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "spṛṣṭā rajasvalā caiva"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "śvājajambūkarāsabhaiḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "tāvat tiṣṭhet nirāhārā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "snātvā kālena śudhyati"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_62"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "spṛṣṭvā rajasvalā kaiścit"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "cāṇḍālair arajasvalā"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "prājāpatyena kṛcchreṇa"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "prāṇāyāmaśatena ca"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_63"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "vipraḥ spṛṣṭo niśāyāñ ca"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "udakyā patitena ca"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "divānītena toyena"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "snāpayec cāgnisannidhau"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_64"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "divārka raśmisaṃspṛṣṭaṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "rātrau nakṣatraraśmibhiḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "sandhyobhayoś ca sandhyāyāḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "pavitraṃ sarvadā jalam"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_65"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "apaḥ karanakhaspṛṣṭāḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "pibed ācamane dvijaḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "surāṃ pibati suvyaktaṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "yamasya vacanaṃ yathā"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_66"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "svāta vāpyos tathā kūpe"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "pāṣāṇaiḥ śastraghātanaiḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "yaṣṭyā tu ghātane caiva"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "mṛtpiṇḍe gokulena ca"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_67"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "rodhane bandhane caiva"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "sthāpite puṣkale tathā"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "kāṣṭhe vanaspatau rodha"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "saṅkaṭe rajjuvastrayoḥ"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_68"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "etat te kathitaṃ sarvaṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "pramādasthānam uttamam"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "yatra yatra mṛtā gāvaḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "prāyaścittaṃ samācaret"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_69"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "dāruṇā ghātane kṛcchraṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "pāṣāṇair dviguṇaṃ bhavet"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "arddhakṛcchran tu khāte syāt"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "pādakṛcchran tu pādape"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_70"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "śastraghāte trikṛcchrāṇi"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "yaṣṭighāte dvayaṃ caret"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_71"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "kṛcchreṇa vastraghāte 'pi"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "goghnaś ceti viśuddhyati"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "yo varttayati gomadhye"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "nadīkāntāramantike"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_72"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "romāṇi prathame pāde"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "dvitīye śmaśru vāpayet"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "tṛtīye tu śikhā dhāryā"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "caturthe saśikhaṃ vapet"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_73"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "na strīṇāṃ vapanaṃ kuryāt"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "na ca sā gām anuvrajet"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "na ca rātrau vased goṣṭhe"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "na kuryād vaidikīṃ śrutim"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_74"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "sarvān keśān samuddhṛtya"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "chedayed aṅgulidvayam"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "evam eva tu nārīṇāṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "śiraso vapanaṃ smṛtam"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_75"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "mṛtakena tu jātena"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "ubhayoḥ sūtakaṃ bhavet"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "pātakena tu liptena"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "nāsya sūtakitā bhavet"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_76"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "catvāri khalu karmāṇi"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "sandhyākāle vivarjayet"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "āhāraṃ maithunaṃ nidrāṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "svādhyāyañ ca caturthakam"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_77"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "āhārāj jāyate vyādhiḥ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "krūragarbhaś ca maithune"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "nidrā śriyo nivarttante"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "svādhyāye maraṇaṃ dhruvam"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "YamS-78v_78"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "a"
+                  },
+                  "text": "ajñānāt tu dvijaśreṣṭha"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "b"
+                  },
+                  "text": "varṇānāṃ hitakāmyayā"
+                },
+                {
+                  "tag": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "c"
+                  },
+                  "text": "mayā proktam idaṃ śāstraṃ"
+                },
+                {
+                  "tag": "seg",
+                  "attributes": {
+                    "type": "pāda",
+                    "n": "d"
+                  },
+                  "text": "sāvadhāno 'vadhāraya"
+                },
+                {
+                  "tag": "text",
+                  "text": "//"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "iti yamaproktaṃ dharmaśāstraṃ samāptam ||"
+        }
+      ]
+    }
+  ]
 }

@@ -1,4 +1,4849 @@
 {
-  "title": "sa_nāgārjuna-pañcakrama",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>pañcakramaḥ</p>\n\n<p>[1]\nvajrajāpakramaḥ prathamaḥ</p>\n\n<p>oṃ namo buddhāya</p>\n\n<lg>\n<l>sarvabuddhātmakaṃ nāthaṃ natvā śrīmanmahāsukham |</l>\n<l>vajrajāpakramaṃ vakṣye yogatantrānusārataḥ || Pk_1.1 ||</l>\n</lg>\n\n<lg>\n<l>utpattikramasaṃsthānāṃ niṣpannakramakāṅkṣiṇām |</l>\n<l>upāyaścaiṣa saṃbuddhaiḥ sopānamiva nirmitaḥ || Pk_1.2 ||</l>\n</lg>\n\n<lg>\n<l>prāṇabhūtaśca sattvānāṃ vāyvākhyaḥ sarvakarmakṛt |</l>\n<l>vijñānavāhanaścaiṣa pañcātmā daśadhā punaḥ || Pk_1.3 ||</l>\n</lg>\n\n<lg>\n<l>vāyutattvānupūrveṇa mantratattvaṃ samāviśet |</l>\n<l>mantranidhyaptimāgamya vajrajāpaḥ suśikṣyate || Pk_1.4 ||</l>\n</lg>\n\n<lg>\n<l>vajrajāpasthito mantrī cittanidhyaptimāpnuyāt |</l>\n<l>mayopamasamādhistho bhūtakoṭyāṃ samāviśet || Pk_1.5 ||</l>\n</lg>\n\n<lg>\n<l>bhūtakoṭeḥ samuttiṣṭhannadvayajñānamāpnuyāt |</l>\n<l>yuganadvasamādhistho na kiñcicchakṣate punaḥ || Pk_1.6 ||</l>\n</lg>\n\n<lg>\n<l>ayaṃ niṣpannayogākhyo mahāvajradharaśca saḥ |</l>\n<l>sarvākāravaropetaḥ sarvajño jāyate tataḥ || Pk_1.7 ||</l>\n</lg>\n\n<lg>\n<l>anāgatamatītaṃ ca vartamānaṃ bhavatrayam |</l>\n<l>tatkṣaṇāt nikhilaṃ paśyet prabhāsvaraviśuddhitaḥ || Pk_1.8 ||</l>\n</lg>\n\n<lg>\n<l>etattattvaṃ sthitaṃ tantre śrīsamāje sumudritam |</l>\n<l>vyākhyātantrānusāreṇa boddhavyaṃ guruvaktrataḥ || Pk_1.9 ||</l>\n</lg>\n\n<p>tatra prathamataraṃ vāyutattvoddeśapadaṃ mūlasūtrādevāvatāryate-</p>\n\n<lg>\n<l>nāsāgre sarṣapaṃ cintet sarṣape sacarācaram |</l>\n<l>bhāvayejjñānapadaṃ ramyaṃ rahasyaṃ jñānakalpitam || Pk_1.10 ||</l>\n</lg>\n\n<lg>\n<l>pañcavarṇaṃ mahāratnaṃ sarṣapasthūlamātrakam |</l>\n<l>nāsikāgre prayatnena bhāvayed yogataḥ sadā || Pk_1.11 ||</l>\n</lg>\n\n<p>iti sandhābhāṣeyamasya vajrapadasya nirdeśamāha caturdevīvyākhyātantre-</p>\n\n<lg>\n<l>tad devi sampravakṣyāmi sārāt sārataraṃ param |</l>\n<l>rahasyaṃ sarvabuddhānāṃ yat tat sarvātmani sthitam || Pk_1.12 ||</l>\n</lg>\n\n<p>paścajñānamayaṃ tattvaṃ sarṣapasthūlamātrakam |\ntasya madhye sthito devo hyavyakto vyaktarūpavān || iti | Pk_1.13 ||</p>\n\n<p>samājottare 'pyamumarthaṃ dyotayannāhaḥ |</p>\n\n<lg>\n<l>pañcajñānamayaṃ śvāsaṃ pañcabhūtasvabhāvakam |</l>\n<l>niścārya padmanāsāgre piṇḍarūpeṇa kalpayet || Pk_1.14 ||</l>\n</lg>\n\n<p>pañcavarṇaṃ mahāratnaṃ prāṇāyāmamiti smṛtam |\n<l>svamantraṃ hṛdaye dhyātvā cittaṃ bindugataṃ nyaset || Pk_1.15 |</l></p>\n\n<p>ityasyāpi pratinirdeśamāha vajramālānāmni vyākhyātantre-</p>\n\n<lg>\n<l>nāsāgre sarṣapaṃ nāma prāṇāyāmasya kalpanā |</l>\n<l>prāṇāyāmasthitāḥ pañca raśmayo buddhabhāvataḥ || Pk_1.16 ||</l>\n</lg>\n\n<lg>\n<l>ūrdhvaṃ ghrāṇād viniṣkrānto vāmadakṣiṇadvandvataḥ |</l>\n<l>stabdhaśceti caturdhāsmād velā ādhyātmikā smṛtā || Pk_1.17 ||</l>\n</lg>\n\n<lg>\n<l>kaṇṭhahṛnnābhiguhyābje gatyāgatī vinirdiśet |</l>\n<l>vihared ardhayāmikāṃ velāṃ paripāṭyā yathākramam || Pk_1.18 ||</l>\n</lg>\n\n<lg>\n<l>dakṣiṇād vinirgato raśmirhutabhuṅmaṇḍalaṃ ca tat |</l>\n<l>raktavarṇamidaṃ vyaktaṃ padmanātho 'tra devatā || Pk_1.19 ||</l>\n</lg>\n\n<lg>\n<l>vāmād vinirgato raśmirvāyumaṇḍalasaṃjñitaḥ |</l>\n<l>haritaśyāmasaṅkāśaḥ karmanātho 'tra devatā || Pk_1.20 ||</l>\n</lg>\n\n<lg>\n<l>dvābhyāṃ vinirgato raśmiḥ pītavarṇo mahādyutiḥ |</l>\n<l>māhendramaṇḍalaṃ caitad ratnanātho 'tra devatā || Pk_1.21 ||</l>\n</lg>\n\n<lg>\n<l>stabdho mandrapracārastu sitakundendusannibhaḥ |</l>\n<l>maṇḍalaṃ vāruṇaṃ caitad vajranātho 'tra devatā || Pk_1.22 ||</l>\n</lg>\n\n<lg>\n<l>sarvadehānugo vāyuḥ sarvaceṣṭāpravartakaḥ |</l>\n<l>vairocanasvabhāvo 'sau mṛtakāyād viniścaret || Pk_1.23 ||</l>\n</lg>\n\n<lg>\n<l>vāyutattvamidaṃ vyaktaṃ pañcajñānasvabhāvakam |</l>\n<l>tārkikā na prajānanti agamyaṃ bālayoginām || Pk_1.24 ||</l>\n</lg>\n\n<p>ityevaṃ vāyuttatvaṃ pratipādyedānīṃ mantratattvasyoddeśapadaṃ mūlasūtrādavatāryate-</p>\n\n<p>sarvatathāgatakāyavākcittarahasyaṃ sarvatantrahṛdayasañcodanaṃ nāma paramaguhyaṃ svakāyavākcittavajrebhyo vākpathaniruktyā mantrasamuccayamudājahāra oṃ āḥ hūṃ |</p>\n\n<lg>\n<l>arthānumajāpena niḥsvabhāvena cāruṇā |</l>\n<l>vicāraṇā tryadhvabuddhebhyo vajrajāpaḥ sa ucyate || Pk_1.25 ||</l>\n</lg>\n\n<lg>\n<l>bhikṣāśinā na japtavyaṃ na ca bhaikṣarato bhavet |</l>\n<l>japenmantramabhinnāṅgaṃ sarvakāmopabhogakṛt || Pk_1.26 ||</l>\n</lg>\n\n<p>ityuddeśapadam asya nirdeśamāha sandhyāvyākaraṇavyākhyātantre tadavatāryate-</p>\n\n<lg>\n<l>pratyuvāca tataḥ śrīmān mahāvairocanaṃ vibhum |</l>\n<l>viśvarūpamidaṃ cittaṃ sarvasattvopapattitaḥ || Pk_1.27 ||</l>\n</lg>\n\n<lg>\n<l>jātaṃ san niḥsvabhāvo 'pi bhāvākhyaṃ tu pratītyataḥ |</l>\n<l>kṛtvā cānubhavaṃ samyag bodhicittaṃ khatulyakam || Pk_1.28 ||</l>\n</lg>\n\n<lg>\n<l>jagadarthaṃ vidhātuṃ ca taddeśayottame jane |</l>\n<l>sādhanopāyitāmātraṃ jñātvā tantre vipañcitam || Pk_1.29 ||</l>\n</lg>\n\n<p>ācāryā vayamityevaṃ vadantyāgāmikā vibho |\nyad vākyaṃ mametyevamuktvā kṣipanti bāliśāḥ |\nsandhyāya bodhicittaṃ te na vidanti yathārthataḥ || iti | Pk_1.30 ||</p>\n\n<lg>\n<l>yathedaṃ bhagavān svāmī mahāvairocano vibhuḥ |</l>\n<l>triṣkṛtvā sādhuvacanaṃ vajrapāṇiṃ vadedidam || Pk_1.31 ||</l>\n</lg>\n\n<lg>\n<l>kathayamāmi prabhedena nirvikalpārthatattvataḥ |</l>\n<l>pravyāhāropalambhākhyaṃ sāṅketaṃ pāramārthikam || Pk_1.32 ||</l>\n</lg>\n\n<lg>\n<l>pravyāhāro hi sāmānyaṃ buddharūpopalambhakam |</l>\n<l>sāṅketaṃ mantratattvākhyaṃ tathatā pāramārthikam || Pk_1.33 ||</l>\n</lg>\n\n<lg>\n<l>ekādirnavamadhye tu daśabhiryo na badhyate |</l>\n<l>tamabaddhaṃ vijānīyāt sa vetti parasampadam || Pk_1.34 ||</l>\n</lg>\n\n<lg>\n<l>svaravyañcanavarṇāśca navasaṃkhyānuvartinaḥ |</l>\n<l>' abaddhānyonyasaṃyoogād yo vetti sa jagadguruḥ || Pk_1.35 ||</l>\n</lg>\n\n<lg>\n<l>bhūtāntena samāyuktaṃ kalādiṣoḍaśe sthitam |</l>\n<l>pañcapañcakasaṃyuktaṃ catustrayaniyojitam || Pk_1.36 ||</l>\n</lg>\n\n<lg>\n<l>sānusvāraṃ sadīrghaṃ na guṇasaṃyolopavat |</l>\n<l>hrasvaṃ samastavākyaṃ syānna cānekaṃ na caikakam || Pk_1.37 ||</l>\n</lg>\n\n<lg>\n<l>ye varṇāḥ pṛṣṭhataḥ proktā abhimukhāśca ye punaḥ |</l>\n<l>strī-puṃ-napuṃsakāste ca dhātvādiparikalpitāḥ || Pk_1.38 ||</l>\n</lg>\n\n<lg>\n<l>adha-ūrdhvasamāyuktaṃ jñātvā buddhyā niyojayet |</l>\n<l>pravyāhāramidaṃ mantraṃ niḥsvabhāvasvabhāvajam || Pk_1.39 ||</l>\n</lg>\n\n<lg>\n<l>tataḥ pariṇataṃ rūpaṃ yaddevatopalambhikam |</l>\n<l>sāṅketikaṃ tritattvasthaṃ prakṛtijāpalapakṣaṇam || Pk_1.40 ||</l>\n</lg>\n\n<lg>\n<l>akāroddeśakaṃ jñānaṃ buddhasya hṛdayaṃ bhavet |</l>\n<l>oṃkāraḥ saṃsṛjet sattvān buddharūpāgrakalpitān || Pk_1.41 ||</l>\n</lg>\n\n<lg>\n<l>hūṃkāraḥsaṃharet sattvān āḥkāraḥ sthāpako bhavet |</l>\n<l>praveśaśva sthitiścaiva vyutthānaṃ ca krameṇa ca || Pk_1.42 ||</l>\n</lg>\n\n<lg>\n<l>japen mantramabhinnāṅgaṃ prajñopāyapade sthitaḥ |</l>\n<l>pāṇḍarādijapaḥ praktaḥ pañcaviṃśacchatadvayam || Pk_1.43 ||</l>\n</lg>\n\n<lg>\n<l>caturbhirguṇitaṃ samyak caturyogaśataṃ nava |</l>\n<l>navaśataṃ tu yad dṛṣṭaṃ caturviṃśatparikramaiḥ |</l>\n<l>pratyutpādād bhavet tatra dvyayutaṃ śataṣoḍaśam || Pk_1.44 ||</l>\n</lg>\n\n<p>idamevādhyātmikavelāyāṃ dyotayannāha samājottare-</p>\n\n<lg>\n<l>vidyānayavidhānena catuḥsandhyāprayogataḥ |</l>\n<l>japenmantramabhinnāṅgaṃ lakṣamakṣarasaṃkhyayā || Pk_1.45 ||</l>\n</lg>\n\n<lg>\n<l>bāhyajāpaṃ tyajed yogī bhāvanāyāntarāyikam |</l>\n<l>mantrārtho bhagavān vajrī vajrātmātra kathaṃ japet || Pk_1.46 ||</l>\n</lg>\n\n<lg>\n<l>hastinaṃ labhate sadyo mṛgayeddhastinaḥ padam |</l>\n<l>mantramūrtiḥ svayaṃ sākṣāt kimanyattu gaveṣate || Pk_1.47 ||</l>\n</lg>\n\n<lg>\n<l>api ca vajradhṛk kaścit trisaṃyogānvito naraḥ |</l>\n<l>āvāhanavisarjanaṃ syāt tathā sthāpanameva ca || Pk_1.48 ||</l>\n</lg>\n\n<lg>\n<l>āvāhanaṃ praveśena tvaritena visarjanam |</l>\n<l>vāṣpeṇa sthāpanaṃ tat syād viśvastāt siddhiruttamā || Pk_1.49 ||</l>\n</lg>\n\n<lg>\n<l>tvarite nibandhake vāṣpe mantraniyojanā kathitā |</l>\n<l>karṇamūle tu śiṣyāyācāryeṇa suprayatnataḥ || Pk_1.50 ||</l>\n</lg>\n\n<lg>\n<l>atha yogeśvarāṇāṃ tu divyopāyaḥ pradarśitaḥ |</l>\n<l>guhyākṣaraṃ pravakṣyāmi yogasiddhiphalapradam || Pk_1.51 ||</l>\n</lg>\n\n<lg>\n<l>yena cintitamātreṇa yoginaḥ syurvarapradāḥ |</l>\n<l>ādyakṣaraprayogeṇa ucchavāsaṃ kurute sadā || Pk_1.52 ||</l>\n</lg>\n\n<lg>\n<l>aṣṭāntena samāyuktamukāreṇa sabindukam |</l>\n<l>niśvāsaṃ kurute yogī rucijāptamihocyate || Pk_1.53 ||</l>\n</lg>\n\n<lg>\n<l>ayutadvayaṃ sahasraṃ ca ṣaṭ śatāni tathaiva ca |</l>\n<l>ahorātreṇa yogīndro japasaṃkhyāṃ karoti ca || Pk_1.54 ||</l>\n</lg>\n\n<lg>\n<l>tadevaṃ guhyasandhyāyāṃ sūkṣmayogaḥ prakāśitaḥ |</l>\n<l>dhyānādhyayanavītaṃ tu tathāpi jāpa ucyate || Pk_1.55 ||</l>\n</lg>\n\n<lg>\n<l>anena vajrajāpena sevāṃ kṛtvā yathāvidhi |</l>\n<l>sādhayet sarvakāryāṇi māyopamasamādhinā || Pk_1.56 ||</l>\n</lg>\n\n<p>atrāha advayasamatāmahāyogatantre-</p>\n\n<lg>\n<l>japitvā mantramatulaṃ sādhayet sādhanātmakaḥ |</l>\n<l>sidhyate tasya trailokyaṃ māsaikena na saṃśayaḥ || Pk_1.57 ||</l>\n</lg>\n\n<lg>\n<l>ṣaḍ lakṣāṇi japitvā tu mantraṃ jñānasamudbhavam |</l>\n<l>vajrasattvaṃ namaskṛtya pūrṇamāsyāṃ sa sidhyati || Pk_1.58 ||</l>\n</lg>\n\n<lg>\n<l>na tasya vratamākhyātaṃ nākṣasūtraṃ na mantrakam |</l>\n<l>dhāraṇā homakarmāṇi varjyante ca parāparam || Pk_1.59 ||</l>\n</lg>\n\n<lg>\n<l>yakārārthena yat kiñcit siddhimicchatā |</l>\n<l>rephāditritayenaiva jatatkāryaṃ pravartate || Pk_1.60 ||</l>\n</lg>\n\n<lg>\n<l>agnivāyavyamāhendravāruṇe pratimaṇḍale |</l>\n<l>ardhayāmikavelāyāṃ dvau dvau karmaṇi tiṣṭhataḥ || Pk_1.61 ||</l>\n</lg>\n\n<lg>\n<l>pūjāprāyo bhavet pūjyo jāpaprāyo viśudhyati |</l>\n<l>agnihotraparo bhūtiṃ mokṣaṃ dhyānaparo labhet || Pk_1.62 ||</l>\n</lg>\n\n<lg>\n<l>jñātvā itthaṃ tato mantrī jagadbālavadācaret |</l>\n<l>tataḥ sidhyanti mantrāśca nirvikalpaikadharmataḥ || Pk_1.63 ||</l>\n</lg>\n\n<p>mantratattvamidaṃ vyaktaṃ vāgvajrasya prasādhanam |\njñānatrayaprabhedena cittamātre niyojayed || iti || Pk_1. 64 ||</p>\n\n<lg>\n<l>guroravajñāsuśaṭho 'prasanno mantroddhataḥ pustakadṛṣṭigarvaḥ |</l>\n<l>aśraddadhānastvabhiṣekahīno vārtā kramasyāpi ca tasya noktā || Pk_1.65 ||</l>\n</lg>\n\n<lg>\n<l>yaḥ śraddadhāno gurubhaktiraktaḥ śuśrūṣaṇāyāṃ ca sadābhiyuktaḥ |</l>\n<l>grāhyaḥ śrutiṃ naiva dhanaṃ nirīkṣyaṃ gurupradhāno 'ya guruprasādaḥ || Pk_1.66 ||</l>\n</lg>\n\n<lg>\n<l>girīndramūrdhnaḥ prapatet tu kaścit neccheccyutiṃ tu cyavate tathāpi |</l>\n<l>guruprasādāptahitopadeśa icchenna moktaṃ sa tathāpi muktaṃḥ || Pk_1.67 ||</l>\n</lg>\n\n<p>|| vajrajāpakramaḥ samāptaḥ ||</p>\n\n<lg>\n<l>kṛtiriyaṃ śrīnāgārjunapādānāmiti |</l>\n<l>granthapramāṇamasya ṣadadhikasaptatiḥ ||</l>\n</lg>\n\n<p>prathamaḥ kramaḥ ||</p>\n\n<p>[2]\nanuttarasandhirityaparanāmā sarvaśuddhiviśuddhikramaḥ dvitīyaḥ</p>\n\n<p>namaḥ śrīvajrasattvāya</p>\n\n<lg>\n<l>namaste 'stu namaste 'stu namaste 'stu namo namaḥ |</l>\n<l>evaṃ stute namaste 'stu kaḥ stotā kaśca saṃstutaḥ || Pk_2.1 ||</l>\n</lg>\n\n<lg>\n<l>yathā jalaṃ jale nyastaṃ ghṛtaṃ caiva yathā ghṛte |</l>\n<l>svakīyaṃ ca svayaṃ paśyej jñānaṃ yatreha vandanā || Pk_2.2 ||</l>\n</lg>\n\n<lg>\n<l>kintu sarvajñagatibhirvinā tannopalabhyate |</l>\n<l>tamaḥpaṭalasañchannaṃ prasādād dvīpamāpnuyāt || Pk_2.3 ||</l>\n</lg>\n\n<lg>\n<l>śūnyaṃ ca atiśūnyaṃ ca mahāśunyaṃ tṛtīyakam |</l>\n<l>caturthaṃ sarvaśūnyaṃ ca phalahetuprabhedataḥ || Pk_2.4 ||</l>\n</lg>\n\n<lg>\n<l>prajñopāyasamāyogānniṣpannamupalabdhakam |</l>\n<l>upalabdhācca niṣpannāt sarvaśūnyaṃ prabhāsvaram || Pk_2.5 ||</l>\n</lg>\n\n<lg>\n<l>hetukramaviśuddhaṃ tu vijñānatrayayogataḥ |</l>\n<l>śūnyatrayasamāyogāllabhyate 'nuttaraṃ padam || Pk_2.6 ||</l>\n</lg>\n\n<lg>\n<l>ālokaśśūnyaṃ prajñā ca cittaṃ ca paratantrakam |</l>\n<l>tasyedānīṃ pravakṣyāmi prakṛtispharaṇaṃ sphuṭam || Pk_2.7 ||</l>\n</lg>\n\n<lg>\n<l>virāgo madhyamaścaiva adhimātrastathaiva ca |</l>\n<l>manogatāgataṃ caiva śokāditṛtīyaṃ tathā || Pk_2.8 ||</l>\n</lg>\n\n<lg>\n<l>saumyaṃ vikampo bhītaśca madhyabhīto 'tibhītakaḥ |</l>\n<l>tṛṣṇā madhyatṛṣṇā cātitṛosṇoopādānakaṃ tathā || Pk_2.9 ||</l>\n</lg>\n\n<lg>\n<l>niḥśubhaṃ kṣuttṛṣā caiva vedanā samavedanā |</l>\n<l>ativedanā kṣaṇaścaiva vettividdhāraṇāpadam || Pk_2.10 ||</l>\n</lg>\n\n<lg>\n<l>pratyavekṣaṇaṃ lajjā ca kāruṇyaṃ snehatastrayam |</l>\n<l>cakitaṃ saṃśayaścaiva mātsaryaṃ ceti kīrtitāḥ || Pk_2.11 ||</l>\n</lg>\n\n<lg>\n<l>trayastriṃśat prakṛtayaḥ svasaṃvedyāḥ śarīriṇām |</l>\n<l>saṃvṛtisphuṭarupeṇa niśāsaṃjñā pradarśitāḥ || Pk_2.12 ||</l>\n</lg>\n\n<lg>\n<l>strīsaṃjñā tathā proktā mandākārā tathaiva ca |</l>\n<l>vāmasaṃjñā punaścaiva candramaṇḍalapaṅkajam || Pk_2.13 ||</l>\n</lg>\n\n<lg>\n<l>dṛḍhīkaraṇahetutvāt sabinduḥ prathamaḥ svaraḥ |</l>\n<l>niśākarāṃśusaṅkāśa ālokajñānasambhavaḥ || Pk_2.14 ||</l>\n</lg>\n\n<lg>\n<l>ālokābhāsamityutkam atiśūnyamupāyakam |</l>\n<l>parikalpitaṃ tathā proktaṃ proktaṃ caitasikaṃ tathā || Pk_2.15 ||</l>\n</lg>\n\n<lg>\n<l>rāgo raktaṃ tathā tuṣṭaṃ madhyatuṣṭātituṣṭakam |</l>\n<l>harṣaṇaṃ caiva prāmodyaṃ vismayo hasitaṃ tathā || Pk_2.16 ||</l>\n</lg>\n\n<lg>\n<l>hlādanāliṅganaṃ caiva tathā cumbanacūṣaṇam |</l>\n<l>dhairyaṃ vīryaṃ ca mānaśca kartṛhartṛbalāni ca || Pk_2.17 ||</l>\n</lg>\n\n<lg>\n<l>utsāhaḥ sāhasaṃ caiva tathā cottamasāhasam |</l>\n<l>madhyamaṃ sāhasaṃ rādraṃ vilāso vairameva ca || Pk_2.18 ||</l>\n</lg>\n\n<lg>\n<l>śubhaṃ ca vāk sphuṭā satyamasatyaṃ niścayastathā |</l>\n<l>nirupādānadātṛtve codanaṃ śūratā tathā |</l>\n<l>alajjā dhūrtaduṣṭaśca haṭhaḥ kuṭila eva ca |</l>\n<l>catvāriṃśat prakṛtayaḥ kṣaṇikāścātiśūnyajjāḥ || Pk_2.20 ||</l>\n</lg>\n\n<lg>\n<l>divāpuruṣasaṃjñā ca kharākāraśca dakṣiṇaḥ |</l>\n<l>sūryamaṇḍalasaṃjñā ca vajrasaṃjñā tathaiva ca || Pk_2.21 ||</l>\n</lg>\n\n<lg>\n<l>kalā saiva tu vijñeyā bindudvayavibhūṣitā |</l>\n<l>divākarāṃśuisaṅkāśā ālokābhāsayogajā || Pk_2.22 ||</l>\n</lg>\n\n<lg>\n<l>ālokasyopalabdhiśca upalabdhaṃ tathaiva ca |</l>\n<l>pariniṣpannakaṃ caiva avidyā caiva nāmataḥ || Pk_2.23 ||</l>\n</lg>\n\n<lg>\n<l>mahāśūnyapadasyaite paryāyāḥ kathitā jinaiḥ |</l>\n<l>madhyarāgakṣaṇaścaiva vismṛtirbhrāntireva ca || Pk_2.24 ||</l>\n</lg>\n\n<lg>\n<l>tūṣṇīṃbhāvaśca khedaśca ālasyaṃ dandhatā tathā |</l>\n<l>avidyāyāḥ kṣaṇāḥ sapta vijñeyāḥ sukṣmayogibhiḥ || Pk_2.25 ||</l>\n</lg>\n\n<lg>\n<l>na bījaṃ vindusaṃyuktaṃ na vāyurdvāranirgataḥ |</l>\n<l>yadālokopalabdhaṃ tu tat pariniṣpannalakṣaṇam || Pk_2.26 ||</l>\n</lg>\n\n<lg>\n<l>etāḥ prakṛtayaḥ sūkṣmāḥ śataṃ ṣaṣṭyuttaraṃ divā |</l>\n<l>rātrau cāpi pravartante vāyuvāhanahetunā || Pk_2.27 ||</l>\n</lg>\n\n<lg>\n<l>kṣaṇe lave muhūrtte ca nimeṣe mātrake tathā |</l>\n<l>kṣaṇa ityacchaṭāvasthā lavaḥ sarṣapavartanam || Pk_2.28 ||</l>\n</lg>\n\n<lg>\n<l>āśvāsastu muhūrttaṃ syānnimeṣo 'kṣinimeṣaṇam |</l>\n<l>mātrā tu hastatālaṃ syāt kṣaṇādīnāṃ tu lakṣaṇam || Pk_2.29 ||</l>\n</lg>\n\n<lg>\n<l>saṃvittimātrakaṃ jñānamākāśavadalakṣaṇam |</l>\n<l>kintu tasya prabhedo 'sti sandhyārātridivātmanā || Pk_2.30 ||</l>\n</lg>\n\n<lg>\n<l>ālokālokābhāsau ca tathālokopalabdhakam |</l>\n<l>cittaṃ trividhamityuktam ādhārastasya kathyate || Pk_2.31 ||</l>\n</lg>\n\n<lg>\n<l>vāyunā sūkṣmarūpeṇa jñānaṃ saṃmiśratāṃ gatam |</l>\n<l>niḥsṛtyendriyamārgemyo viṣayānavalambate || Pk_2.32 ||</l>\n</lg>\n\n<lg>\n<l>ābhāsena yadā yukto vāyurvāhanatāṃ gataḥ |</l>\n<l>tadā tatprakṛtīḥ sarvā astavyastāḥ pravartayet || Pk_2.33 ||</l>\n</lg>\n\n<lg>\n<l>yatra yatra sthito vāyustāṃ tāṃ prakṛtimudvahet |</l>\n<l>yāvat samīraṇotpādo nābhāso niścalo bhavet || Pk_2.34 ||</l>\n</lg>\n\n<lg>\n<l>ābhāsadvayahetuḥ syādātmabhāvavikalpanā |</l>\n<l>ubhayāṃśikameva syād yadālokopalabdhakam || Pk_2.35 ||</l>\n</lg>\n\n<lg>\n<l>sarvāsāmeva māyānāṃ strīmāyaiva viśiṣyate |</l>\n<l>jñānatrayaprabhedo 'yaṃ sphuṭamatraiva lakṣyate || Pk_2.36 ||</l>\n</lg>\n\n<lg>\n<l>rāgaścaiva virāgaśca dvarorantariti trayam |</l>\n<l>dvīndriyasya samāpattyā vajrapadmasamāgamāt || Pk_2.37 ||</l>\n</lg>\n\n<lg>\n<l>jñānadvayasamāyogaḥ samāpattiḥ prakīrtītā |</l>\n<l>jñānadvayasamāpattyā yathoktakaraṇena tu || Pk_2.38 ||</l>\n</lg>\n\n<lg>\n<l>yajjñānaṃ prāpyate yatnāt tadālokopalabdhakam |</l>\n<l>yasya vajrābjasaṃyogaḥ saṃvṛtyā tu na vidyate || Pk_2.39 ||</l>\n</lg>\n\n<lg>\n<l>sidhyate yogasāmarthyāt sakṛdapyanubhūtavān |</l>\n<l>yathā prabhedaṃ vijñāya jñānavṛttiṃ svabhāvataḥ || Pk_2.40 ||</l>\n</lg>\n\n<lg>\n<l>lakṣayet satataṃ yogī tāmeva prakṛtiṃ punaḥ |</l>\n<l>payodharā yathā naike nānāsaṃsthānavarṇakāḥ || Pk_2.41 ||</l>\n</lg>\n\n<lg>\n<l>udbhūtā gaganābhogāllayaṃ gacchanti tatra vai |</l>\n<l>evaṃ prakṛtayaḥ sarvā ābhāsatrayahetukāḥ || Pk_2.42 ||</l>\n</lg>\n\n<lg>\n<l>nirviśya viṣayān kṛtsnān praviśanti prabhāsvaram |</l>\n<l>eṣāṃ svabhāvābijñānadajñānapaṭalāvṛtāḥ || Pk_2.43 ||</l>\n</lg>\n\n<lg>\n<l>kṛtvā śubhāśubhaṃ karma bhramanti gatipañcake |</l>\n<l>ānantaryādikaṃ kṛtvā narakeṣu vipacyate || Pk_2.44 ||</l>\n</lg>\n\n<lg>\n<l>śubhaṃ dānādikaṃ kṛtvā svargādiṣu mahīyate |</l>\n<l>anantajanmasāhasraṃ prāpya caivaṃ punaḥ punaḥ || Pk_2.45 ||</l>\n</lg>\n\n<lg>\n<l>pūrvakarmavipāko 'yamiti śocati mohataḥ |</l>\n<l>prakṛtyābhāsayogena yena kliśyanti jantavaḥ || Pk_2.46 ||</l>\n</lg>\n\n<lg>\n<l>jñātvā tameva mucyante jñānino bhavapañjarāt |</l>\n<l>prajñāsvabhāva evāyaṃ candramaṇḍalakalpanā || Pk_2.47 ||</l>\n</lg>\n\n<lg>\n<l>cittameva svayaṃ paśyet svameva śaśibimbavat |</l>\n<l>atha candraṃ samālambya vajracinhaṃ prakalpayet || Pk_2.48 ||</l>\n</lg>\n\n<lg>\n<l>upāyasūcakaṃ hyetad vajrādyutpattiyoginām |</l>\n<l>candravajrādisaṃyogaścittacaitasasaṅgamaḥ || Pk_2.49 ||</l>\n</lg>\n\n<lg>\n<l>prajñopāyasamāyogājjāyate devatākṛtiḥ |</l>\n<l>caturmudrābhirāmudrya devatāgarvamudvahan || Pk_2.50 ||</l>\n</lg>\n\n<lg>\n<l>vicaret tu sadā mantrī utpattikramayogavān |</l>\n<l>yathoktaṃ śrīsamājādau tatra tatra suvistaram || Pk_2.51 ||</l>\n</lg>\n\n<lg>\n<l>yāvat syād bhāvanāyogastāvat syādādikarmikaḥ |</l>\n<l>pariniṣpannayogasya sūcana kriyate 'dhunā || Pk_2.52 ||</l>\n</lg>\n\n<lg>\n<l>śūnyatrayaviśuddhiryā prabhāsvaramihocyate |</l>\n<l>sarvaśūnyapadaṃ tacca jñānatrayaviśuddhitaḥ || Pk_2.53 ||</l>\n</lg>\n\n<lg>\n<l>jñānaśuddhipadaṃ tattvaṃ sarvajñatvamanuttaram |</l>\n<l>nirvikāraṃ nirābhāsaṃ nirdvandvaṃ paramaṃ śivam || Pk_2.54 ||</l>\n</lg>\n\n<lg>\n<l>astīti na ca nāstīti na ca vākyagocaram |</l>\n<l>ataḥ prabhāsvarāccūddhājjñānatrayasamudbhavaḥ || Pk_2.55 ||</l>\n</lg>\n\n<lg>\n<l>dvātriṃśallakṣaṇadharo hyaśītivyañcanānvitaḥ |</l>\n<l>sarvākāravaropetaḥ sarvajño jāyate tataḥ || Pk_2.56 ||</l>\n</lg>\n\n<lg>\n<l>tathā coktaṃ mahāyānasūtre lalitavistare |</l>\n<l>abhisambodhikāmo 'yaṃ śākyasiṃhastathāgataḥ || Pk_2.57 ||</l>\n</lg>\n\n<lg>\n<l>mahāśūnyena buddhatvaṃ prāpsyāmītyabhimānataḥ |</l>\n<l>nairañcanānadītīre nispādyāsphānakaṃ gataḥ || Pk_2.58 ||</l>\n</lg>\n\n<lg>\n<l>tilabimbīva sampūrṇāḥ khamadhyasthā jināstadā |</l>\n<l>ekasvareṇa taṃ prāhuracchaṭena jinaurasam || Pk_2.59 ||</l>\n</lg>\n\n<lg>\n<l>aviśuddhamidaṃ dhyānaṃ na caitadiṣṭakāvaham |</l>\n<l>prabhāsvaraṃ ātu ālambyamākāśatalavat param || Pk_2.60 ||</l>\n</lg>\n\n<lg>\n<l>prabhāsvarapade prāpte svecchārūpastu jāyase |</l>\n<l>savaiśvaryaṃ tathā prāpya vajrakāye pramodase || Pk_2.61 ||</l>\n</lg>\n\n<lg>\n<l>evaṃ śrutvā tu taṃ śbdaṃ visarjyāsphānakaṃ tataḥ |</l>\n<l>niśārdhasamaye tattvamālambyaiva jinaurasaḥ || Pk_2.62 ||</l>\n</lg>\n\n<lg>\n<l>ṛjukenaiva kāyena vācāya ṛjureva ca |</l>\n<l>sāśano nāśano naiva na maunī nāpyamaunavān || Pk_2.63 ||</l>\n</lg>\n\n<lg>\n<l>nonmīlitasunetrastu na ca mīlitalocanaḥ |</l>\n<l>svacchaṃ vyaktaṃ mahājñānaṃ sarvaśūnyaṃ mahādbhutam || Pk_2.64 ||</l>\n</lg>\n\n<lg>\n<l>atha paśyati tadvayaktaṃ gurupādaprasādataḥ |</l>\n<l>anāgatamatītaṃ ca vartamānaṃ bhavatrayam || Pk_2.65 ||</l>\n</lg>\n\n<lg>\n<l>tatkṣaṇānnikhilaṃ paśyet prabhāsvaraviśuddhadhṛk |</l>\n<l>jalacandramarīcyādimāyāguṇavibhūṣitaḥ || Pk_2.66 ||</l>\n</lg>\n\n<lg>\n<l>aruṇodgamakāle tu vajropamasamādhinā |</l>\n<l>niṣadya bodhimūle tu so 'karonmārabhañcanam || Pk_2.67 ||</l>\n</lg>\n\n<lg>\n<l>samprāpya śākyanāthena tattvajñānamanuttaram |</l>\n<l>jagattrayahitārthāya tadeveha pradarśitam || Pk_2.68 ||</l>\n</lg>\n\n<lg>\n<l>tattvajñānamiti proktamabhisambodhidarśanam |</l>\n<l>pañcānantaryakarmā ca mandapuṇyo 'pi yo naraḥ || Pk_2.69 ||</l>\n</lg>\n\n<lg>\n<l>guruprasādādāpnoti cintāmaṇirivāparam |</l>\n<l>yatheṣṭaṃ kurute caryāṃ saṃbuddho 'yamanāgataḥ || Pk_2.70 ||</l>\n</lg>\n\n<lg>\n<l>na rāgo na virāgaśca madhyamā nopalabhyate |</l>\n<l>na śūnyaṃ nāpi cāśūnyaṃ madhyamā nopalabhyate || Pk_2.71 ||</l>\n</lg>\n\n<lg>\n<l>sarvabuddhasamāyoga idameva pradarśitam |</l>\n<l>trijñānād vyatiriktaṃ yat tattvaṃ sandhyāya bhāṣayā || Pk_2.72 ||</l>\n</lg>\n\n<lg>\n<l>abhāvetyādigāthābhiḥ paṭale bodhicittake |</l>\n<l>śrīsamāje 'pi tat proktamabhisambodhilakṣaṇam || Pk_2.73 ||</l>\n</lg>\n\n<lg>\n<l>rāgādīnāṃ viśuddhiryā paramādye pradarśitā |</l>\n<l>sarvaśūnyaṃ samuddiśya sāpi proktā tathāgataiḥ || Pk_2.74 ||</l>\n</lg>\n\n<lg>\n<l>nānāsūtreṣu tantreṣu yat tattvamupadarśitam |</l>\n<l>sarvaśūnyapadaṃ hyetannānyat tatrābhidhīyate || Pk_2.75 ||</l>\n</lg>\n\n<lg>\n<l>caturaśītisāhasre dharmaskandhe mahāmuneḥ |</l>\n<l>sārāt sārataraṃ proktam abhisambodhilakṣaṇam || Pk_2.76 ||</l>\n</lg>\n\n<lg>\n<l>jaṭī nagnaśca muṇḍī vā śikhiniḥsaṅgavṛttayaḥ |</l>\n<l>taistaiśca vividhairliṅgairabhisambodhikāminaḥ || Pk_2.77 ||</l>\n</lg>\n\n<lg>\n<l>teṣāṃ tattvavihīnānāṃ vratacaryādikaḥ kramaḥ |</l>\n<l>tattvajñānavihīnatvāt tena muktirna labhyate || Pk_2.78 ||</l>\n</lg>\n\n<lg>\n<l>ādikarmikayogena cāṣṭamīṃ bhūmimāpnuyāt |</l>\n<l>ālokatrayadarśī ca daśabhūmyāṃ pratiṣṭhitaḥ || Pk_2.79 ||</l>\n</lg>\n\n<lg>\n<l>samprāpya hyabhisambodhiṃ śuddhāvāsamupāgataḥ |</l>\n<l>buddhakṣetresvavaivartī sarvajña iha janmani || Pk_2.80 ||</l>\n</lg>\n\n<lg>\n<l>dharmodayābhisambodhiḥ krīḍārāgādivistaraiḥ |</l>\n<l>dharmadhātvābhisamabodhiryathālābhaviceṣṭitaiḥ || Pk_2.81 ||</l>\n</lg>\n\n<lg>\n<l>anutarābhisambodhirabhisambodhiyogataḥ |</l>\n<l>prapañcākārādicaryābhirabhyasyantīha yoginaḥ || Pk_2.82 ||</l>\n</lg>\n\n<lg>\n<l>āḥ kimabhyāsayogena ādiśuddhiḥ svabhāvikā |</l>\n<l>prakṛtyaiva hi sā siddhā tathatā na vikalpajā || Pk_2.83 ||</l>\n</lg>\n\n<lg>\n<l>ya evaṃ kalpayantīha jñānakramamapāsya vai |</l>\n<l>tatprabhedamajānānāḥ punaḥ śaikṣā bhavanti te || Pk_2.84 ||</l>\n</lg>\n\n<lg>\n<l>prakṛtyābhāsabhedajñā caturthaṃ tattvamāśritāḥ |</l>\n<l>tridhā nābhyasyate yastu na śīghramāpnuyāt phalam || Pk_2.85 ||</l>\n</lg>\n\n<lg>\n<l>yathāgnirdārugarbhastho nottiṣṭhenmathanād vinā |</l>\n<l>tathābhyāsād binā bodhirjāyate neha janmani || Pk_2.86 ||</l>\n</lg>\n\n<lg>\n<l>yaḥ śāṭhyabuddhiralaso gurunindakaśca prāptābhiṣeka iti garvitamānasaḥ syāt |</l>\n<l>sarvajñatā na sulabheti vihīnacitto doṣān sa paśyati gurorna guṇān varākaḥ || Pk_2.87 ||</l>\n</lg>\n\n<lg>\n<l>sūśrūṣayā virahito laghu tattvamicchen neti praśstavacanaṃ calayet saroṣaḥ |</l>\n<l>dṛṣṭvā sabhāsu gurumasya parāṅmukhastu kuryāt praṇāmamatha tasya rahogatasya || Pk_2.88 ||</l>\n</lg>\n\n<lg>\n<l>evaṃ ca daurātmyagataṃ kuśiṣyam svaputramapyaurasamāryagarhyam |</l>\n<l>vaiśyaṃ tathā pārthivamagrabodhiṃ kuryāt samīpe na hi jātu dhīraḥ || Pk_2.89 ||</l>\n</lg>\n\n<lg>\n<l>śubhaguṇasusameto jñānavān vīryayukto gurujanamatha bhaktyā vīkṣate buddhatulyam |</l>\n<l>adhigatajinadharmaḥ śāsaneṣu prasannaḥ sa iha bhavati pātraṃ tasya kuryāt prasādam || Pk_2.90 ||</l>\n</lg>\n\n<lg>\n<l>śrutabahutaratantro 'uyāgameṣu pravīṇo gurujanaparicaryāhānyalabdhopadeśaḥ |</l>\n<l>svahitamapi sa kartuṃ na prabhuḥ śāstracañcurbhavati tadapi śāstraṃ kevalaṃ khedahetuḥ || Pk_2.91 ||</l>\n</lg>\n\n<lg>\n<l>atha bhavati sabhāgyaḥ prāptatattvopadeśo jaḍamatirasamartho mīlane 'rthasya yastu |</l>\n<l>parahitakṛtabuddhirdeśanāyāṃ pravṛtto vacanaguṇavihīnaḥ so 'pyavajñāmupaiti || Pk_2.92 ||</l>\n</lg>\n\n<lg>\n<l>śrutabahutaratantro jñānavān ṣaṭpadajñaḥ smṛtimatidhṛtimedhāvīryasampatsametaḥ |</l>\n<l>gurucaṇasaparyāprāptatattvopadeśaḥ prabhavati sa hi vaktuṃ tantrarājopadeśam || Pk_2.93 ||</l>\n</lg>\n\n<p>śrutabahutaratantreṇāyavajriprasādāt sphuṭaviracitavācā bodhimārgaṃ vibhajya |\nkuśalamupacittaṃ yacchākyamitreṇa tena prakaṭapaṭuvipākād bodhibhājo bhavantu || iti | Pk_2.94 ||</p>\n\n<p>anuttarasandhirityaparanāmā</p>\n\n<p>|| sarvaśuddhiviśuddhikramaḥ samāptaḥ ||</p>\n\n<p>kṛtiriyaṃ śākyamitrapādānām | granthapramāṇamasya śatamekam |</p>\n\n<p>dvitīyaḥ kramaḥ |</p>\n\n<p>[3]\nsvādhiṣṭhānakramaḥ tṛtīyaḥ</p>\n\n<p>namaḥ śrīvajragurave</p>\n\n<lg>\n<l>praṇipatya varaṃ vajraṃ vajrasattvādināyakam |</l>\n<l>svādhiṣṭhānakramaścaiva vakṣyate kṛpayā mayā || Pk_3.1 ||</l>\n</lg>\n\n<p>prathamataraṃ tāvad utpattikramānusāreṇa prāptābhiṣekaścaturvidhatantrābhiprāyajñaḥ prāptakāyavākcittavivekaḥ śrutidharaḥ satyadvayādhimokṣo vajraguruṃ samyag ārādhya, tataḥ prasannāya gurave mahatīṃ gaṇapūjāṃ kṛtvā ṣoḍaśābdikāṃ mudrāṃ mahāvajragurave datvā, tadanantaraṃ guruvaktrād āptasvādhiṣṭhānakramopadeśaḥ, tato mālodakasambuddhavajraghaṇṭādānadarpaṇanāmācāryānujñā ityebhiḥ saha guhyābhiṣekaṃ labdhvā ebhiḥ śāstāraṃ guruṃ stūyātḥ |</p>\n\n<lg>\n<l>śauṣīryaṃ nāsti te kāye māṃsāsthirudhiraṃ na ca |</l>\n<l>indrāyudhamivākāśe kāyaṃ darśitavānasi || Pk_3.2 ||</l>\n</lg>\n\n<lg>\n<l>nāmayā nāśuciḥ kāye kṣuttṛṣṇāsambhavo na ca |</l>\n<l>tvayā lokānuvṛttyarthaṃ darśitā laukikī kriyā || Pk_3.3 ||</l>\n</lg>\n\n<lg>\n<l>dakacandravadagrāhya sarvadharmeṣvaniśrita |</l>\n<l>anahaṅkāra nirmoha nirālamba namo 'stu te || Pk_3.4 ||</l>\n</lg>\n\n<lg>\n<l>sadā samāhitaścāsi gacchaṃstiṣṭhan svapaṃstathā |</l>\n<l>īrṣyāpatheṣu sarveṣu nirālamba namo 'stu te || Pk_3.5 ||</l>\n</lg>\n\n<lg>\n<l>vikurvasi mahāṛddhyā māyopamasamādhinā |</l>\n<l>nirnānātvaṃ samāpanna nirālamba namostu te || Pk_3.6 ||</l>\n</lg>\n\n<p>evaṃ vajraguraṃ sadbhūtaguṇena saṃstutya śravaṇārtham adhyeṣayed anayā gāthayā-</p>\n\n<lg>\n<l>sarvajña jñānasandoha bhavacakraviśodhaka |</l>\n<l>adya vyākhyānaratnena prasādaṃ kuru me vibho || Pk_3.7 ||</l>\n</lg>\n\n<lg>\n<l>tvatpādapaṅkajaṃ muktvā nāstyanyaccharaṇaṃ vibho |</l>\n<l>tasmāt prasīda buddhāgra jagadvīra mahāmune || Pk_3.8 ||</l>\n</lg>\n\n<lg>\n<l>evaṃ śrutvā tu tad vākyam adhyeṣaṇaviśāradam |</l>\n<l>śiṣyakāruṇyamutpādya svādhiṣṭhānamathārabhet || Pk_3.9 ||</l>\n</lg>\n\n<lg>\n<l>svādhiṣṭhānakramo nāma saṃvṛteḥ satyadarśanam |</l>\n<l>gurupādaprasādena labhyate tacca nānyathā || Pk_3.10 ||</l>\n</lg>\n\n<lg>\n<l>svādhiṣṭhānakramo yena sādhakena na labhyate |</l>\n<l>sūtrāntatantrakalpeṣu vṛthā tasya pariśramaḥ || Pk_3.11 ||</l>\n</lg>\n\n<lg>\n<l>svādhiṣṭhānakramaṃ labdhvā sarvabuddhāmayaḥ prabhuḥ |</l>\n<l>janmanīhaiva buddhatvaṃ niḥsandehaṃ prapadyate || Pk_3.12 ||</l>\n</lg>\n\n<lg>\n<l>svādhiṣṭhānasamādhiśca prabhāsvarapadaṃ tathā |</l>\n<l>satyadvayamiti khyātaṃ phalahetuviśeṣataḥ || Pk_3.13 ||</l>\n</lg>\n\n<lg>\n<l>svādhiṣṭhānānupūrveṇa prāpyate hi prabhāsvaram |</l>\n<l>tasmād vajraguruḥ pūrvaṃ svādhiṣṭhānaṃ pradarśayet || Pk_3.14 ||</l>\n</lg>\n\n<lg>\n<l>asvatantraṃ jagat sarvaṃ svatantraṃ naiva jāyate |</l>\n<l>hetuḥ prabhāsvaraṃ tasya sarvaśūnyaṃ prabhāsvaram || Pk_3.15 ||</l>\n</lg>\n\n<lg>\n<l>yena cittena bālāśca saṃsāre bandhanaṃ gatāḥ |</l>\n<l>yoginastena cittena sugatānāṃ gatiṃ gatāḥ || Pk_3.16 ||</l>\n</lg>\n\n<lg>\n<l>na cātrotpadyate kaścin maraṇaṃ nāpi kasyacit |</l>\n<l>saṃsāra eva jñātavyaścittarūpākṛtiṣṭhitaḥ || Pk_3.17 ||</l>\n</lg>\n\n<lg>\n<l>vāyuyogād vinā cittasvarūpaṃ naiva gṛhyate |</l>\n<l>cittāt prakṛtihetutvāt karmajanmasamudbhavaḥ || Pk_3.18 ||</l>\n</lg>\n\n<lg>\n<l>tadeva vāyusaṃyuktaṃ vijñānatritayaṃ punaḥ |</l>\n<l>jāyate yogināṃ mūrttirmāyādehastaducyate || Pk_3.19 ||</l>\n</lg>\n\n<lg>\n<l>tasmādeva jagat sarvaṃ māyopama ihocyate |</l>\n<l>māyopamasamādhiṣṭhaḥ sarvaṃ paśyati tādṛśam || Pk_3.20 ||</l>\n</lg>\n\n<lg>\n<l>rūpaṃ ca vedanā caiva saṃjñā saṃskāra eva ca |</l>\n<l>vijñānaṃ pañcamaṃ caiva catvāro dhātavastathā || Pk_3.21 ||</l>\n</lg>\n\n<lg>\n<l>akṣāṇi viṣayāścaiva jñānapañcakameva ca |</l>\n<l>adhyātmabāhyato bhinnaṃ sarvaṃ māyaiva nānyathā || Pk_3.22 ||</l>\n</lg>\n\n<lg>\n<l>darpaṇapratibimbena māyādehaṃ ca lakṣayet |</l>\n<l>varṇān indrāyudheneva vyāpitvamudakendunā || Pk_3.23 ||</l>\n</lg>\n\n<lg>\n<l>darpaṇe vimale vyaktaṃ dṛśyate pratibimbavat |</l>\n<l>bhāvābhāvāvinirmukto vajrasattvaḥ sucitritaḥ || Pk_3.24 ||</l>\n</lg>\n\n<lg>\n<l>sarvākāravaropeto asecanakavigrahaḥ |</l>\n<l>darśayet taṃ suśiṣyāya svādhiṣṭhānaṃ taducyate || Pk_3.25 ||</l>\n</lg>\n\n<lg>\n<l>iyameva hi saṃlakṣyā māyā nirdoṣalakṣaṇā |</l>\n<l>māyaiva saṃvṛteḥ satyaṃ kāyaḥ sāmbhogikaśca saḥ || Pk_3.26 ||</l>\n</lg>\n\n<lg>\n<l>saiva gandharvasattvaḥ syād vajrakāyaḥ sa eva hi |</l>\n<l>vajrasattvaḥ svayaṃ tasmāt svasya pūjāṃ pravartayet || Pk_3.27 ||</l>\n</lg>\n\n<lg>\n<l>ātmā vai sarvabuddhatvaṃ sarvasauritvameva ca |</l>\n<l>tasmāt sarvaprayatnena hyātmānaṃ pūjayet sadā || Pk_3.28 ||</l>\n</lg>\n\n<lg>\n<l>mantramudrāprayogaṃ ca maṇḍalādivikalpanam |</l>\n<l>balihomakriryāṃ sarvāṃ kuryān māyopamāṃ sadā || Pk_3.29 ||</l>\n</lg>\n\n<lg>\n<l>śāntikaṃ pauṣṭikaṃ cāpi tathā vaśyābhicārikam |</l>\n<l>ākarṣaṇādi yat sarvaṃ kuryād indrāyudhopamam || Pk_3.30 ||</l>\n</lg>\n\n<lg>\n<l>śṛṅgārādyupabhogaṃ ca gītavādyādisevanam |</l>\n<l>kalāsu ca pravṛttiṃ ca kuryād udakacandravat || Pk_3.31 ||</l>\n</lg>\n\n<lg>\n<l>rūpe śabde tathā gandhe rase spraṣṭavya eva ca |</l>\n<l>cakṣurādipravṛttiṃ ca māyāvad upalakṣayet || Pk_3.32 ||</l>\n</lg>\n\n<lg>\n<l>bahunātra kimuktena vajrayāne tu tattvataḥ |</l>\n<l>yad yad ālambayed yogī tad tad māyaiva kalpayet || Pk_3.33 ||</l>\n</lg>\n\n<lg>\n<l>darpaṇe pratibimbaṃ ca svapnaṃ māyāṃ ca budbudam |</l>\n<l>indrajālaṃ ca sādṛśyaṃ yaḥ paśyed sa prabhuḥ smṛtaḥ || Pk_3.34 ||</l>\n</lg>\n\n<p>dṛśyate spṛśyate caiva yathā māyā jagat sadā |\nna copalambhaḥ saṃvṛtyā māyāvat parikīrtitaḥ || iti || Pk_3.35 ||</p>\n\n<lg>\n<l>yad yad indriyamārgatvaṃ māyā tattat svabhāvataḥ |</l>\n<l>asamāhitayogena sarvaṃ buddhamayaṃ vahet || Pk_3.36 ||</l>\n</lg>\n\n<lg>\n<l>sarvatra sarvataḥ sarvaṃ sarvathā sarvadā svayam |</l>\n<l>sarvabuddhamayaṃ siddhaṃ svamātmānaṃ sa paśyati || Pk_3.37 ||</l>\n</lg>\n\n<lg>\n<l>gacchaṃstiṣṭhan mahāsattvaḥ sarvasaukhamayaḥ prabhuḥ |</l>\n<l>vihārāhārapānādīnākāśāllabhate kṣaṇāt || Pk_3.38 ||</l>\n</lg>\n\n<lg>\n<l>bhaveyurbhavacchettāraḥ śāstāraḥ pravare jane |</l>\n<l>pūjyante sasuraiḥ sarvaiḥ praṇipatya muhurmuhuḥ || Pk_3.39 ||</l>\n</lg>\n\n<lg>\n<l>yathā śāstari sambaddhe lokayātrāhitaiṣiṇi |</l>\n<l>evameva mahāyogī viśvajñānārthasaṅgrahād || Pk_3.40 ||</l>\n</lg>\n\n<lg>\n<l>nāsti kiñcid asādhyaṃ vai vajrasattvena lakṣitam |</l>\n<l>svayaṃ pratyusidhyanti sarvamudrā mahāsukhāḥ || Pk_3.41 ||</l>\n</lg>\n\n<lg>\n<l>kleśāḥ karmapathā dehaḥ kartāraśca phalaṃ ca vai |</l>\n<l>marīcisvapnasaṅkāśā gandharvanagaropamāḥ || Pk_3.42 ||</l>\n</lg>\n\n<lg>\n<l>imaṃ samādhimajñātvā saṃvṛtāvupalambhataḥ |</l>\n<l>jāyante vividhā rogāsteṣāṃ māyā bhiṣagjitam || Pk_3.43 ||</l>\n</lg>\n\n<lg>\n<l>svādhiṣṭhānopadeśastu yena nāsādyate guroḥ |</l>\n<l>śāśvatocchedamālambya sa vaivartī bhavet punaḥ || Pk_3.44 ||</l>\n</lg>\n\n<lg>\n<l>sarvapūjāṃ parityajya gurupūjāṃ samārabhet |</l>\n<l>tena tuṣṭena tallabhyaṃ sarvajñajñānamuttamam || Pk_3.45 ||</l>\n</lg>\n\n<lg>\n<l>kiṃ tena na kṛtaṃ puṇyaṃ kiṃ vā nopāsitaṃ tapaḥ |</l>\n<l>anuttarakṛdācāryavajrasattvaprapūjanāt || Pk_3.46 ||</l>\n</lg>\n\n<lg>\n<l>yad yadiṣṭataraṃ kiñcid viśiṣṭatarameva ca |</l>\n<l>tat taddhi gurave deyaṃ tadevākṣayamicchatā || Pk_3.47 ||</l>\n</lg>\n\n<lg>\n<l>ācāryo harate pāpam ācāryo harate bhayam |</l>\n<l>ācāryastārayet pāraṃ duḥkhārṇavamahābhayāt || Pk_3.48 ||</l>\n</lg>\n\n<lg>\n<l>yo 'haṅkāra[ma]lāliptaḥ sadbhūtakramadharṣakaḥ |</l>\n<l>sāvajñastattvadharmeṣu tasya tattvaṃ na darśayet || Pk_3.49 ||</l>\n</lg>\n\n<lg>\n<l>satyavāggurubhaktaśca viviktaścaikasandhiokaḥ |</l>\n<l>samayācārarakṣī ca kramaṃ tasya pradarśayet || Pk_3.50 ||</l>\n</lg>\n\n<p>|| svādhiṣṭhānakramastṛtīyaḥ samāptaḥ ||</p>\n\n<p>kṛtiriyamācāryanāgārjunapādānām | granthapramāṇamasya ṣaṭpañcāśat |</p>\n\n<p>[4]\nabhisambodhikramaḥ caturthaḥ</p>\n\n<p>namaḥ śrīvajrasattvāya</p>\n\n<lg>\n<l>vajrasattvaṃ namaskṛtya sarvaśūnyopadeśakam |</l>\n<l>caturtho hyābhisambodhikramo 'yaṃ vakṣyate mayā || Pk_4.1 ||</l>\n</lg>\n\n<lg>\n<l>asau svayambhūrbhagavān eka evādhidaivataḥ |</l>\n<l>upadeśapradānāt tu vajrācāryo 'dhikastataḥ || Pk_4.2 ||</l>\n</lg>\n\n<lg>\n<l>tatsamārādhanaṃ kṛtvā varṣaṃ māsamathāpi vā |</l>\n<l>tasmai tuṣṭāya gurave pūjāṃ kuryāt tu śaktitaḥ || Pk_4.3 ||</l>\n</lg>\n\n<lg>\n<l>yathāsvabhāvato mudrāṃ nivedyāsmai suśikṣitām |</l>\n<l>gaṇamaṇḍalamadhye tu kuryāt pūjāṃ yathāvidhi || Pk_4.4 ||</l>\n</lg>\n\n<lg>\n<l>tatastuṣṭo mahāyogī pañcakāmopabhogataḥ |</l>\n<l>ālokasyodayaṃ kuryāt samāpattividhānataḥ || Pk_4.5 ||</l>\n</lg>\n\n<lg>\n<l>kalaśādau susaṃsthāpya bodhicittaṃ prayatnataḥ |</l>\n<l>ardharātre cābhisiñcet suśiṣyaṃ kṛpayā guruḥ || Pk_4.6 ||</l>\n</lg>\n\n<lg>\n<l>abhiṣekaṃ tu samprāpya pratyūṣamaye punaḥ |</l>\n<l>sampūjyārādhayet stotrairguruṃ śiṣyaṃ kṛtāñjaliḥ || Pk_4.7 ||</l>\n</lg>\n\n<lg>\n<l>traidhātukavinirmukta ākāśasamatāṃ gataḥ |</l>\n<l>nopariṣyasi kāmeṣu nirālamba namo 'stu te || Pk_4.8 ||</l>\n</lg>\n\n<lg>\n<l>aniḥśrito 'si skandheṣu dhātuṣvāyataneṣu ca |</l>\n<l>viparyāsavinirmukta nirālamba namo 'stu te || Pk_4.9 ||</l>\n</lg>\n\n<lg>\n<l>avikalpitasaṅkalpa apratiṣṭhitamānasa |</l>\n<l>acintyamanasikāra nirālamba namo 'stu te || Pk_4.10 ||</l>\n</lg>\n\n<lg>\n<l>anālayaṃ yathākāśaṃ niṣprapañcaṃ nirañcanam |</l>\n<l>ākāśasamacitto 'si nirālamba namo 'stu te || Pk_4.11 ||</l>\n</lg>\n\n<lg>\n<l>draṣṭukāmo 'bhisambodhiṃ sarvaśūnyasvabhāvikām |</l>\n<l>stutvā kṛtāñjaliḥ śiṣyo guraṃ sañcodayet punaḥ || Pk_4.12 ||</l>\n</lg>\n\n<lg>\n<l>prayaccha me mahānātha abhisambodhidarśanam |</l>\n<l>karmajanmavinirmuktam ābhāsatrayavarjitam || Pk_4.13 ||</l>\n</lg>\n\n<lg>\n<l>prayaccha me mahācārya vajrajñānamanuttaram |</l>\n<l>sarvabuddhamahājñānaṃ sarvatāthāgatālayam || Pk_4.14 ||</l>\n</lg>\n\n<lg>\n<l>prayaccha me mahāvajra kāyavākcittaśodhanam |</l>\n<l>anādinidhanaṃ śāntaṃ sarvakleśaviśodhanam || Pk_4.15 ||</l>\n</lg>\n\n<lg>\n<l>evamārādhito yogī sadbhūtaguṇakīrtanaiḥ |</l>\n<l>śiṣye kāruṇyamutpādya kramamevamathārabhet || Pk_4.16 ||</l>\n</lg>\n\n<lg>\n<l>āloko rātribhāgaḥ sphuṭaravikiraṇaḥ syād divālokabhāsaḥ |</l>\n<l>sandhyālokopalabdhaḥ prakṛtibhirasakṛd yujyate svābhiretat |</l>\n<l>no rātrirnāpi sandhyā na ca bhavati divā yaḥ prakṛtyā vimuktaḥ</l>\n<l>sa syād bodhikṣaṇo 'yaṃ varagurukathito yogināmeva gamyaḥ || Pk_4.17 ||</l>\n</lg>\n\n<p>naiśaṃ dhvāntaṃ vinaṣṭaṃ vyapagatamakhilaṃ sāndhyatejastu yasmin\nbhāsvānnodeti yāvat kṣaṇa iha vimale darśayed bhūtakoṭim |</p>\n\n<lg>\n<l>śiṣyāyācāryamukhyo vinihatatimiro bāhyasambodhidṛṣṭyā |</l>\n<l>prāpnotyadhyātmasaukhyaṃ vyapagatakaluṣaṃ buddhabodhiṃ kṣaṇena || Pk_4.18 ||</l>\n</lg>\n\n<lg>\n<l>anādibhūtaṃ tvathavādibhūtaṃ amadhyabhūtaṃ tvatha madhyabhūtam |</l>\n<l>anantabhūtaṃ tvathavāntabhūtaṃ tat sarvaśūnyaṃ pravadanti santaḥ || Pk_4.19 ||</l>\n</lg>\n\n<lg>\n<l>gamanāgamanaṃ ca yatra nāsti kṣayavṛddhī na cāpyabhāvabhāvau |</l>\n<l>ativismayarūpam arūpyavismayaṃ sthitimannāpi na cāpi gatvaram || Pk_4.20 ||</l>\n</lg>\n\n<lg>\n<l>yadasti-nāstivyavahāramuktaṃ na puṇyarūpaṃ na ca pāparūpam |</l>\n<l>na puṇyapāpātmakamagrabhūtaṃ tat sarvaśūnyaṃ pravadanti buddhāḥ || Pk_4.21 ||</l>\n</lg>\n\n<lg>\n<l>evaṃvidhaṃ tattvamavāpya yogī carācarātmā jagadekabandhuḥ |</l>\n<l>yaḥ paryaṭejjñānamayo nṛsiṃhaḥ kṛtsnaṃ jagat so 'vyayakāyalābhī || Pk_4.22 ||</l>\n</lg>\n\n<lg>\n<l>sa jihyakāyo 'pyavijihyakāyaḥ so 'nāsano 'pyāsanabandhadhīraḥ |</l>\n<l>samīlitākṣo 'pi vibuddhanetraḥ samāhitaḥ sanna samāhitau'sau || Pk_4.23 ||</l>\n</lg>\n\n<lg>\n<l>sa vāgyuto vāgasamanvito 'pi bhogānvitaḥ so 'pi virupavṛttiḥ |</l>\n<l>sa lokanāthaḥ parabhṛtyabhūto yastattvavit kṣīṇasamastadoṣaḥ || Pk_4.24 ||</l>\n</lg>\n\n<lg>\n<l>prāptopadeśakaḥ śiṣyo dvidhā yogamathābhyaset |</l>\n<l>piṇḍagrāhakrameṇaiva tathā caivānubhedataḥ || Pk_4.25 ||</l>\n</lg>\n\n<lg>\n<l>śirasaḥ pādato cāpi yāvaddhṛdayamāgataḥ |</l>\n<l>bhūtakoṭiṃ viśed yogī piṇḍagrāha iti smṛtaḥ || Pk_4.26 ||</l>\n</lg>\n\n<lg>\n<l>sthāvaraṃ jaṅgamaṃ caiva pūrvaṃ kṛtvā prabhāsvaram |</l>\n<l>paścāt kuryāt tathātmānam anubhedakramo hyayam || Pk_4.27 ||</l>\n</lg>\n\n<lg>\n<l>śvāsavāto yathādarśe layaṃ gacchati sarvataḥ |</l>\n<l>bhūtakoṭiṃ tathā yogī praviśocca muhurmuhuḥ || Pk_4.28 ||</l>\n</lg>\n\n<lg>\n<l>gacchaṃstiṣṭhan svapan bhuñjannunmiṣan nimiṣan hasan |</l>\n<l>anena dhyānayogena sadā tiṣṭhati tattvavit || Pk_4.29 ||</l>\n</lg>\n\n<lg>\n<l>sattvārtho 'pi kadācit syāt tattatsārūpyaraśminā |</l>\n<l>vāyuvijñānayuktena svādhiṣṭhānakrameṇa tu || Pk_4.30 ||</l>\n</lg>\n\n<lg>\n<l>yathā nadījalāt svacchānmīnamuttiṣṭhate drutam |</l>\n<l>sarvaśūnyāt tathā svacchānmāyājālamudīryate || Pk_4.31 ||</l>\n</lg>\n\n<lg>\n<l>pañcabuddhakulāyattā mahāmudrādikalpanā |</l>\n<l>pañcaraśmisamucchreyā gagane śakracāpavat || Pk_4.32 ||</l>\n</lg>\n\n<lg>\n<l>mudrābandhaṃ prakuryād vā mantraṃ cāpi japed yadi |</l>\n<l>sarvamanyat prakuryācca sarvaśūnyapade sthitaḥ || Pk_4.33 ||</l>\n</lg>\n\n<lg>\n<l>sarvabhuk sarvapaścaiva sarvavandī ca sarvagaḥ |</l>\n<l>sarvakṛt sarvaliṅgī ca sarvaśūnyena sidhyati || Pk_4.34 ||</l>\n</lg>\n\n<lg>\n<l>prāptopadeśaḥ subhagaḥ suśiṣyo baudhau hi cittaṃ paramārthanāma |</l>\n<l>guroḥ sakāśāt punarādadīta kṛtāñjalirdhāritapuṣpahastaḥ || Pk_4.35 ||</l>\n</lg>\n\n<p>sarvabhāvavigataṃ skandhadhātvāyatanagrāhyagrāhakavarjitaṃ dharmanairātmyasamatayā svacittam ādyanutpannaṃ śūnyatāsvabhāvamiti |</p>\n\n<lg>\n<l>tatastu gurave dadyād dakṣiṇāṃ tvanurūpataḥ |</l>\n<l>ratnaṃ gṛhaṃ vā hastyaśvaṃ grāmaṃ vā śayanāsanam || Pk_4.36 ||</l>\n</lg>\n\n<lg>\n<l>dāsaṃ dāsīṃ priyāṃ bhāryāṃ putrīṃ cāpyativarṇabhām |</l>\n<l>ātmānaṃ cāpi yaddadyāt kimanyadavaśiṣyate || Pk_4.37 ||</l>\n</lg>\n\n<lg>\n<l>prāptācāryaprasādo vimaladṛḍhamatiḥ sarvabhāvasvabhāvaḥ</l>\n<l>svacchaṃ śuddhaṃ susūkṣmaṃ paramaśivamayaṃ buddhanirvāṇadhātum |</l>\n<l>nirdvandvaṃ nirvikalpaṃ satatasukhamayaṃ bhāvayet tattvayogī</l>\n<l>puṇyāpuṇyād vimuktaḥ svayamiha bhagavān jāyate vajrasattvaḥ || Pk_4.38 ||</l>\n</lg>\n\n<p>| paramarahasyasukhābhisambodhikramaścaturthaḥ samāptaḥ ||</p>\n\n<p>kṛtiriyam ācāryanāgārjunapādānām |\ngranthapramāṇamasya ślokāścatvāriṃśat |</p>\n\n<p>[5]\nyuganaddhakramaḥ pañcamaḥ</p>\n\n<p>namaḥ śrīvajradharāya</p>\n\n<lg>\n<l>phalahetvātmakaṃ nāthaṃ sarvadvandvavivarjitam |</l>\n<l>praṇamya likhyate samyag yuganaddhakramottamaḥ || Pk_5.1 ||</l>\n</lg>\n\n<lg>\n<l>saṃsāro nirvṛtiśceti kalpanādvayavarjanāt |</l>\n<l>ekībhāvo bhaved yatra yuganaddhaṃ taducyate || Pk_5.2 ||</l>\n</lg>\n\n<lg>\n<l>saṅkleśaṃ vyavadānaṃ ca jñātvā tu paramārthataḥ |</l>\n<l>ekībhāvaṃ tu yo vettiṃ sa vetti yuganaddhakam || Pk_5.3 ||</l>\n</lg>\n\n<lg>\n<l>sākārabhāvasaṅkalpaṃ nirākāratvakalpanām |</l>\n<l>ekīkṛtya cerad yogī sa vetti yuganaddhakam || Pk_5.4 ||</l>\n</lg>\n\n<lg>\n<l>grāhyaṃ ca grāhakaṃ caiva dvidhā buddhirna vidyate |</l>\n<l>abhinnatā bhaved yatra tadāha yuganaddhakam || Pk_5.5 ||</l>\n</lg>\n\n<lg>\n<l>śāśvatocchedabuddhī tu yaḥ prahāya pravartate |</l>\n<l>yuganaddhakramākhyaṃ vai tattvaṃ vetti sa paṇḍitaḥ || Pk_5.6 ||</l>\n</lg>\n\n<lg>\n<l>prajñākaruṇayoraikyaṃ jñātvā yatra pravartate |</l>\n<l>yuganaddha iti khyātaḥ kramo 'yaṃ buddhagocaraḥ || Pk_5.7 ||</l>\n</lg>\n\n<lg>\n<l>prajñopāyasamāpattyā jñātvā sarvaṃ samāsataḥ |</l>\n<l>yatra sthito mahāyogī tad bhaved yuganaddhakam || Pk_5.8 ||</l>\n</lg>\n\n<lg>\n<l>yatra sopadhiśeṣaṃ ca tathānupadhiśeṣakam |</l>\n<l>ityevaṃ kalpanā nāsti tat taddhi yuganaddhakam || Pk_5.9 ||</l>\n</lg>\n\n<lg>\n<l>yatra pudgalanairātmyaṃ dharmanairātmyamityapi |</l>\n<l>kalpanāyā viviktatvaṃ yuganaddhasya lakṣaṇam || Pk_5.10 ||</l>\n</lg>\n\n<lg>\n<l>jñātvā krameṇa tattvajñaḥ svādhiṣṭhānaprabhāsvaram |</l>\n<l>tayoreva samājaṃ yad yuganaddhakramo hyayam || Pk_5.11 ||</l>\n</lg>\n\n<lg>\n<l>piṇḍagrāhanubhedābhyāṃ praveśastathatālaye |</l>\n<l>utthānaṃ ca tato yatra samantād yuganaddhakam || Pk_5.12 ||</l>\n</lg>\n\n<lg>\n<l>saṃvṛtiṃ paramārthaṃ ca pṛthag jñātvā vibhāgataḥ |</l>\n<l>saṃmīlanaṃ bhaved yatra yuganaddhaṃ taducyate || Pk_5.13 ||</l>\n</lg>\n\n<lg>\n<l>tathātalambanaṃ naiva vyutthānaṃ yatra naiva hi |</l>\n<l>yuganaddhaṃ bhavet tacca yogināṃ padamavyayam || Pk_5.14 ||</l>\n</lg>\n\n<lg>\n<l>suptaḥ prabuddha ityetadavasthādvayavarjitam |</l>\n<l>yuganaddhaṃ vadecchāstā svāpabodhavivarjitam || Pk_5.15 ||</l>\n</lg>\n\n<lg>\n<l>samādhānāsamādhānaṃ yasya nāstyeva sarvathā |</l>\n<l>yuganaddhe sthito yogī bhāvābhāvavivarjitaḥ || Pk_5.16 ||</l>\n</lg>\n\n<lg>\n<l>asmṛtismṛtinirmuktaḥ satatodayalakṣaṇaḥ |</l>\n<l>vicaredicchayā yogī yuganaddhakrame sthitaḥ || Pk_5.17 ||</l>\n</lg>\n\n<lg>\n<l>rāgārāgavinirmuktaḥ paramānandamūrtimān |</l>\n<l>āsaṃsāraṃ sthitiṃ kuryād yuganaddhavibhāvakaḥ || Pk_5.18 ||</l>\n</lg>\n\n<lg>\n<l>kāryaṃ ca kāraṇaṃ caiva kṛtvābhinnaṃsvabhāvataḥ |</l>\n<l>yā sthitiryogināṃ buddhā yuganaddhaṃ vadanti tat || Pk_5.19 ||</l>\n</lg>\n\n<lg>\n<l>utpattikrama eko 'yam utpannakrama ityapi |</l>\n<l>ekatvaṃ tu dvayoryatra yuganaddhastaducyate || Pk_5.20 ||</l>\n</lg>\n\n<lg>\n<l>devatā pariśuddheyam aśuddheyaṃ bhavediti |</l>\n<l>iti yā kalpanābhinnā yatra tad yuganaddhakam || Pk_5.21 ||</l>\n</lg>\n\n<lg>\n<l>rūpīti cāpyarūpīti kalpanādvayavarjanāt |</l>\n<l>yaḥśāntiṃ vetti yogīndraḥ sa prāpto yuganaddhakam || Pk_5.22 ||</l>\n</lg>\n\n<lg>\n<l>evaṃ vai yaḥ sthito yogī yuganaddhakrame sthitaḥ |</l>\n<l>ucyate sa hi sarvajñaḥ tattvadarśī ca viśvadhṛk || Pk_5.23 ||</l>\n</lg>\n\n<lg>\n<l>māyājālābhisambuddhaḥ saṃsārārṇavapāragaḥ |</l>\n<l>kṛtakṛtyo mahāyogī satyadvayanaye sthitaḥ || Pk_5.24 ||</l>\n</lg>\n\n<p>etadevādvayaṃ jñānam apratiṣṭhitanirvṛtiḥ |\n<l>buddhatvaṃ vajrasattvatvaṃ sarvaiśvaryaṃ tathaiva ca || Pk_5.25 |</l>\n<lg>\n<l>vajropamasamādhistu niṣpannakrama eva ca |</l>\n<l>vajropamasamādhiścāpyadvayaṃ tacca kathyate || Pk_5.26 ||</l>\n</lg></p>\n\n<lg>\n<l>anutpādādayaḥ śabdā advayajñānasūcakāḥ |</l>\n<l>asyaiva vācakāḥ sarve nānyat tatrābhidhīyate || Pk_5.27 ||</l>\n</lg>\n\n<lg>\n<l>mahāmudrātmikāṃ siddhiṃ sadasatpakṣavarjitām |</l>\n<l>anenaiva gatā buddhā gaṅgāyāḥ sikatopamāḥ || Pk_5.28 ||</l>\n</lg>\n\n<lg>\n<l>ghaṭamāno mahāyogī yuganaddhapade sthitaḥ |</l>\n<l>bhāvayed yuganaddhaṃ tu caryāṃ cāpi tadanvayām || Pk_5.29 ||</l>\n</lg>\n\n<lg>\n<l>yathātmani tathā śatrau yathā bhāryā tathātmajā |</l>\n<l>yathā mātā tathā vaiśyā yathā ḍombī tathā dvijā || Pk_5.30 ||</l>\n</lg>\n\n<lg>\n<l>yathā vastraṃ tathā carma yathā ratnaṃ tathā tuṣam |</l>\n<l>yathā mūtraṃ tathā madyaṃ yathā bhaktaṃ tathā śakṛt || Pk_5.31 ||</l>\n</lg>\n\n<lg>\n<l>yathā sugandhi karpūraṃ tathā gandhamamedhyajam |</l>\n<l>yathā stutikaraṃ vākyaṃ tathā vākyaṃ jugupsitam || Pk_5.32 ||</l>\n</lg>\n\n<lg>\n<l>yathā rudrastathā vajrī yathā rātrīstathā divā |</l>\n<l>yathā svapnaṃ tathā dṛṣṭaṃ yathā naṣṭaṃ tathā sthitam || Pk_5.33 ||</l>\n</lg>\n\n<lg>\n<l>yathā saukhyaṃ tathā duḥkhaṃ yathā duṣṭastathā sutaḥ |</l>\n<l>yathāvīcistathā svargastathā puṇyaṃ tu pāpakam || Pk_5.34 ||</l>\n</lg>\n\n<lg>\n<l>evaṃ jñātvā cared jñānī nirviśaṅkastu sarvakṛt |</l>\n<l>pracchannavratamāsādya sidhyante sarvasampadaḥ || Pk_5.35 ||</l>\n</lg>\n\n<p>prakāśya puṇyaṃ yat prāptaṃ pañcakramamanuttaram |\nanena krīḍatāṃ loko yuganaddhasamādhinā || iti || Pk_5.36 ||</p>\n\n<p>yuganaddhakramaḥ pañcamaḥ samāptaḥ ||</p>\n\n<p>kṛtiriyam ācāryanāgārjunapādānām | granthapramāṇamasya ślokāḥ pañcatriṃśat |</p>\n\n<p>|| pañcakramaḥ samāptaḥ ||</p>\n\n<lg>\n<l>prajñākaruṇayoraikyaṃ jñātvā yatra pravartate |</l>\n<l>yuganaddha iti khyātaḥ kramo 'yaṃ buddhagocaraḥ ||</l>\n</lg>\n\n<p>(pañcakramaḥ, 5-7)</p>\n\n<lg>\n<l>atyudgāḍharayasthirākṛtighanadhvānabhramanmandara-</l>\n<l>kṣubdhadhīradhivīcisañcayagataprāleyapādopamaḥ |</l>\n<l>śrīmatpotalake gabhīravivṛtidhvānapratidhvānite</l>\n<l>sāndrasvāṃśucayaśriyā valayito lokeśvaraḥ pātu vaḥ ||</l>\n</lg>\n\n<p>(subhāṣitaratnakośe vidyākaraḥ)</p>\n\n<lg>\n<l>na satyā nāsatyā na ca tadubhayī nāpyanubhayī</l>\n<l>nirullekhā sarvākṛtivaramayī madhyamakadhīḥ |</l>\n<l>jinaḥ śāstā saiva sthira-calajagattattvamapi sā</l>\n<l>svasaṃvittirdevī jayati sukhavajrapraṇayinī ||</l>\n</lg>\n\n<p>(amṛtakaṇikābhidhāyāṃ nāmasaṃgītiṭikāyām, raviśrīḥ)</p>\n\n<lg>\n<l>ye dharmā hetuprabhavā hetusteṣāṃ tathāgato hyavadat |</l>\n<l>teṣāṃ ca yo nirodha evaṃvādī mahāśramaṇaḥ ||</l>\n</lg>\n\n<p>śubhamastu</p>\n\n  </body>\n\n"
+  "file_title": "nāgārjuna-pañcakrama",
+  "file_title_normal": "nagarjuna-pancakrama",
+  "metadata": {
+    "original_title": "Pañcakrama",
+    "author": "Nāgārjuna",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Ram Ram Shankar Tripathi: Piṇḍīkramaḥ Pañcakramaś ca, Varanasi/Sarnath 2001"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "pañcakramaḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "[1]\nvajrajāpakramaḥ prathamaḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "oṃ namo buddhāya"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvabuddhātmakaṃ nāthaṃ natvā śrīmanmahāsukham |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vajrajāpakramaṃ vakṣye yogatantrānusārataḥ || Pk_1.1 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utpattikramasaṃsthānāṃ niṣpannakramakāṅkṣiṇām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upāyaścaiṣa saṃbuddhaiḥ sopānamiva nirmitaḥ || Pk_1.2 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāṇabhūtaśca sattvānāṃ vāyvākhyaḥ sarvakarmakṛt |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñānavāhanaścaiṣa pañcātmā daśadhā punaḥ || Pk_1.3 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāyutattvānupūrveṇa mantratattvaṃ samāviśet |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mantranidhyaptimāgamya vajrajāpaḥ suśikṣyate || Pk_1.4 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vajrajāpasthito mantrī cittanidhyaptimāpnuyāt |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mayopamasamādhistho bhūtakoṭyāṃ samāviśet || Pk_1.5 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūtakoṭeḥ samuttiṣṭhannadvayajñānamāpnuyāt |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yuganadvasamādhistho na kiñcicchakṣate punaḥ || Pk_1.6 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ayaṃ niṣpannayogākhyo mahāvajradharaśca saḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākāravaropetaḥ sarvajño jāyate tataḥ || Pk_1.7 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anāgatamatītaṃ ca vartamānaṃ bhavatrayam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatkṣaṇāt nikhilaṃ paśyet prabhāsvaraviśuddhitaḥ || Pk_1.8 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etattattvaṃ sthitaṃ tantre śrīsamāje sumudritam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyākhyātantrānusāreṇa boddhavyaṃ guruvaktrataḥ || Pk_1.9 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "tatra prathamataraṃ vāyutattvoddeśapadaṃ mūlasūtrādevāvatāryate-"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāsāgre sarṣapaṃ cintet sarṣape sacarācaram |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvayejjñānapadaṃ ramyaṃ rahasyaṃ jñānakalpitam || Pk_1.10 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pañcavarṇaṃ mahāratnaṃ sarṣapasthūlamātrakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāsikāgre prayatnena bhāvayed yogataḥ sadā || Pk_1.11 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "iti sandhābhāṣeyamasya vajrapadasya nirdeśamāha caturdevīvyākhyātantre-"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tad devi sampravakṣyāmi sārāt sārataraṃ param |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rahasyaṃ sarvabuddhānāṃ yat tat sarvātmani sthitam || Pk_1.12 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "paścajñānamayaṃ tattvaṃ sarṣapasthūlamātrakam |\ntasya madhye sthito devo hyavyakto vyaktarūpavān || iti | Pk_1.13 ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "samājottare 'pyamumarthaṃ dyotayannāhaḥ |"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pañcajñānamayaṃ śvāsaṃ pañcabhūtasvabhāvakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niścārya padmanāsāgre piṇḍarūpeṇa kalpayet || Pk_1.14 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "pañcavarṇaṃ mahāratnaṃ prāṇāyāmamiti smṛtam |",
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svamantraṃ hṛdaye dhyātvā cittaṃ bindugataṃ nyaset || Pk_1.15 |"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ityasyāpi pratinirdeśamāha vajramālānāmni vyākhyātantre-"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāsāgre sarṣapaṃ nāma prāṇāyāmasya kalpanā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāṇāyāmasthitāḥ pañca raśmayo buddhabhāvataḥ || Pk_1.16 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ūrdhvaṃ ghrāṇād viniṣkrānto vāmadakṣiṇadvandvataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "stabdhaśceti caturdhāsmād velā ādhyātmikā smṛtā || Pk_1.17 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kaṇṭhahṛnnābhiguhyābje gatyāgatī vinirdiśet |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vihared ardhayāmikāṃ velāṃ paripāṭyā yathākramam || Pk_1.18 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dakṣiṇād vinirgato raśmirhutabhuṅmaṇḍalaṃ ca tat |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "raktavarṇamidaṃ vyaktaṃ padmanātho 'tra devatā || Pk_1.19 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāmād vinirgato raśmirvāyumaṇḍalasaṃjñitaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "haritaśyāmasaṅkāśaḥ karmanātho 'tra devatā || Pk_1.20 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvābhyāṃ vinirgato raśmiḥ pītavarṇo mahādyutiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māhendramaṇḍalaṃ caitad ratnanātho 'tra devatā || Pk_1.21 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "stabdho mandrapracārastu sitakundendusannibhaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "maṇḍalaṃ vāruṇaṃ caitad vajranātho 'tra devatā || Pk_1.22 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvadehānugo vāyuḥ sarvaceṣṭāpravartakaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vairocanasvabhāvo 'sau mṛtakāyād viniścaret || Pk_1.23 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāyutattvamidaṃ vyaktaṃ pañcajñānasvabhāvakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tārkikā na prajānanti agamyaṃ bālayoginām || Pk_1.24 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ityevaṃ vāyuttatvaṃ pratipādyedānīṃ mantratattvasyoddeśapadaṃ mūlasūtrādavatāryate-"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sarvatathāgatakāyavākcittarahasyaṃ sarvatantrahṛdayasañcodanaṃ nāma paramaguhyaṃ svakāyavākcittavajrebhyo vākpathaniruktyā mantrasamuccayamudājahāra oṃ āḥ hūṃ |"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "arthānumajāpena niḥsvabhāvena cāruṇā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vicāraṇā tryadhvabuddhebhyo vajrajāpaḥ sa ucyate || Pk_1.25 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhikṣāśinā na japtavyaṃ na ca bhaikṣarato bhavet |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "japenmantramabhinnāṅgaṃ sarvakāmopabhogakṛt || Pk_1.26 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ityuddeśapadam asya nirdeśamāha sandhyāvyākaraṇavyākhyātantre tadavatāryate-"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyuvāca tataḥ śrīmān mahāvairocanaṃ vibhum |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viśvarūpamidaṃ cittaṃ sarvasattvopapattitaḥ || Pk_1.27 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jātaṃ san niḥsvabhāvo 'pi bhāvākhyaṃ tu pratītyataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtvā cānubhavaṃ samyag bodhicittaṃ khatulyakam || Pk_1.28 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jagadarthaṃ vidhātuṃ ca taddeśayottame jane |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sādhanopāyitāmātraṃ jñātvā tantre vipañcitam || Pk_1.29 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ācāryā vayamityevaṃ vadantyāgāmikā vibho |\nyad vākyaṃ mametyevamuktvā kṣipanti bāliśāḥ |\nsandhyāya bodhicittaṃ te na vidanti yathārthataḥ || iti | Pk_1.30 ||"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathedaṃ bhagavān svāmī mahāvairocano vibhuḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "triṣkṛtvā sādhuvacanaṃ vajrapāṇiṃ vadedidam || Pk_1.31 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kathayamāmi prabhedena nirvikalpārthatattvataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pravyāhāropalambhākhyaṃ sāṅketaṃ pāramārthikam || Pk_1.32 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pravyāhāro hi sāmānyaṃ buddharūpopalambhakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāṅketaṃ mantratattvākhyaṃ tathatā pāramārthikam || Pk_1.33 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekādirnavamadhye tu daśabhiryo na badhyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tamabaddhaṃ vijānīyāt sa vetti parasampadam || Pk_1.34 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svaravyañcanavarṇāśca navasaṃkhyānuvartinaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "' abaddhānyonyasaṃyoogād yo vetti sa jagadguruḥ || Pk_1.35 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūtāntena samāyuktaṃ kalādiṣoḍaśe sthitam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pañcapañcakasaṃyuktaṃ catustrayaniyojitam || Pk_1.36 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sānusvāraṃ sadīrghaṃ na guṇasaṃyolopavat |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hrasvaṃ samastavākyaṃ syānna cānekaṃ na caikakam || Pk_1.37 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ye varṇāḥ pṛṣṭhataḥ proktā abhimukhāśca ye punaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "strī-puṃ-napuṃsakāste ca dhātvādiparikalpitāḥ || Pk_1.38 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adha-ūrdhvasamāyuktaṃ jñātvā buddhyā niyojayet |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pravyāhāramidaṃ mantraṃ niḥsvabhāvasvabhāvajam || Pk_1.39 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tataḥ pariṇataṃ rūpaṃ yaddevatopalambhikam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāṅketikaṃ tritattvasthaṃ prakṛtijāpalapakṣaṇam || Pk_1.40 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "akāroddeśakaṃ jñānaṃ buddhasya hṛdayaṃ bhavet |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "oṃkāraḥ saṃsṛjet sattvān buddharūpāgrakalpitān || Pk_1.41 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hūṃkāraḥsaṃharet sattvān āḥkāraḥ sthāpako bhavet |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "praveśaśva sthitiścaiva vyutthānaṃ ca krameṇa ca || Pk_1.42 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "japen mantramabhinnāṅgaṃ prajñopāyapade sthitaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pāṇḍarādijapaḥ praktaḥ pañcaviṃśacchatadvayam || Pk_1.43 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturbhirguṇitaṃ samyak caturyogaśataṃ nava |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "navaśataṃ tu yad dṛṣṭaṃ caturviṃśatparikramaiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyutpādād bhavet tatra dvyayutaṃ śataṣoḍaśam || Pk_1.44 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "idamevādhyātmikavelāyāṃ dyotayannāha samājottare-"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidyānayavidhānena catuḥsandhyāprayogataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "japenmantramabhinnāṅgaṃ lakṣamakṣarasaṃkhyayā || Pk_1.45 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bāhyajāpaṃ tyajed yogī bhāvanāyāntarāyikam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mantrārtho bhagavān vajrī vajrātmātra kathaṃ japet || Pk_1.46 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hastinaṃ labhate sadyo mṛgayeddhastinaḥ padam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mantramūrtiḥ svayaṃ sākṣāt kimanyattu gaveṣate || Pk_1.47 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "api ca vajradhṛk kaścit trisaṃyogānvito naraḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āvāhanavisarjanaṃ syāt tathā sthāpanameva ca || Pk_1.48 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āvāhanaṃ praveśena tvaritena visarjanam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāṣpeṇa sthāpanaṃ tat syād viśvastāt siddhiruttamā || Pk_1.49 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tvarite nibandhake vāṣpe mantraniyojanā kathitā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karṇamūle tu śiṣyāyācāryeṇa suprayatnataḥ || Pk_1.50 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atha yogeśvarāṇāṃ tu divyopāyaḥ pradarśitaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guhyākṣaraṃ pravakṣyāmi yogasiddhiphalapradam || Pk_1.51 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yena cintitamātreṇa yoginaḥ syurvarapradāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādyakṣaraprayogeṇa ucchavāsaṃ kurute sadā || Pk_1.52 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṣṭāntena samāyuktamukāreṇa sabindukam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niśvāsaṃ kurute yogī rucijāptamihocyate || Pk_1.53 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ayutadvayaṃ sahasraṃ ca ṣaṭ śatāni tathaiva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ahorātreṇa yogīndro japasaṃkhyāṃ karoti ca || Pk_1.54 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadevaṃ guhyasandhyāyāṃ sūkṣmayogaḥ prakāśitaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhyānādhyayanavītaṃ tu tathāpi jāpa ucyate || Pk_1.55 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anena vajrajāpena sevāṃ kṛtvā yathāvidhi |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sādhayet sarvakāryāṇi māyopamasamādhinā || Pk_1.56 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "atrāha advayasamatāmahāyogatantre-"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "japitvā mantramatulaṃ sādhayet sādhanātmakaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sidhyate tasya trailokyaṃ māsaikena na saṃśayaḥ || Pk_1.57 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṣaḍ lakṣāṇi japitvā tu mantraṃ jñānasamudbhavam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vajrasattvaṃ namaskṛtya pūrṇamāsyāṃ sa sidhyati || Pk_1.58 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na tasya vratamākhyātaṃ nākṣasūtraṃ na mantrakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhāraṇā homakarmāṇi varjyante ca parāparam || Pk_1.59 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yakārārthena yat kiñcit siddhimicchatā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rephāditritayenaiva jatatkāryaṃ pravartate || Pk_1.60 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "agnivāyavyamāhendravāruṇe pratimaṇḍale |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ardhayāmikavelāyāṃ dvau dvau karmaṇi tiṣṭhataḥ || Pk_1.61 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pūjāprāyo bhavet pūjyo jāpaprāyo viśudhyati |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "agnihotraparo bhūtiṃ mokṣaṃ dhyānaparo labhet || Pk_1.62 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñātvā itthaṃ tato mantrī jagadbālavadācaret |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tataḥ sidhyanti mantrāśca nirvikalpaikadharmataḥ || Pk_1.63 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "mantratattvamidaṃ vyaktaṃ vāgvajrasya prasādhanam |\njñānatrayaprabhedena cittamātre niyojayed || iti || Pk_1. 64 ||"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guroravajñāsuśaṭho 'prasanno mantroddhataḥ pustakadṛṣṭigarvaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aśraddadhānastvabhiṣekahīno vārtā kramasyāpi ca tasya noktā || Pk_1.65 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yaḥ śraddadhāno gurubhaktiraktaḥ śuśrūṣaṇāyāṃ ca sadābhiyuktaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "grāhyaḥ śrutiṃ naiva dhanaṃ nirīkṣyaṃ gurupradhāno 'ya guruprasādaḥ || Pk_1.66 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "girīndramūrdhnaḥ prapatet tu kaścit neccheccyutiṃ tu cyavate tathāpi |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guruprasādāptahitopadeśa icchenna moktaṃ sa tathāpi muktaṃḥ || Pk_1.67 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "|| vajrajāpakramaḥ samāptaḥ ||"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtiriyaṃ śrīnāgārjunapādānāmiti |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "granthapramāṇamasya ṣadadhikasaptatiḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "prathamaḥ kramaḥ ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "[2]\nanuttarasandhirityaparanāmā sarvaśuddhiviśuddhikramaḥ dvitīyaḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "namaḥ śrīvajrasattvāya"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "namaste 'stu namaste 'stu namaste 'stu namo namaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ stute namaste 'stu kaḥ stotā kaśca saṃstutaḥ || Pk_2.1 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā jalaṃ jale nyastaṃ ghṛtaṃ caiva yathā ghṛte |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svakīyaṃ ca svayaṃ paśyej jñānaṃ yatreha vandanā || Pk_2.2 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kintu sarvajñagatibhirvinā tannopalabhyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tamaḥpaṭalasañchannaṃ prasādād dvīpamāpnuyāt || Pk_2.3 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyaṃ ca atiśūnyaṃ ca mahāśunyaṃ tṛtīyakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturthaṃ sarvaśūnyaṃ ca phalahetuprabhedataḥ || Pk_2.4 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñopāyasamāyogānniṣpannamupalabdhakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upalabdhācca niṣpannāt sarvaśūnyaṃ prabhāsvaram || Pk_2.5 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hetukramaviśuddhaṃ tu vijñānatrayayogataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyatrayasamāyogāllabhyate 'nuttaraṃ padam || Pk_2.6 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ālokaśśūnyaṃ prajñā ca cittaṃ ca paratantrakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasyedānīṃ pravakṣyāmi prakṛtispharaṇaṃ sphuṭam || Pk_2.7 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "virāgo madhyamaścaiva adhimātrastathaiva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "manogatāgataṃ caiva śokāditṛtīyaṃ tathā || Pk_2.8 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saumyaṃ vikampo bhītaśca madhyabhīto 'tibhītakaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tṛṣṇā madhyatṛṣṇā cātitṛosṇoopādānakaṃ tathā || Pk_2.9 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niḥśubhaṃ kṣuttṛṣā caiva vedanā samavedanā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ativedanā kṣaṇaścaiva vettividdhāraṇāpadam || Pk_2.10 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyavekṣaṇaṃ lajjā ca kāruṇyaṃ snehatastrayam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cakitaṃ saṃśayaścaiva mātsaryaṃ ceti kīrtitāḥ || Pk_2.11 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trayastriṃśat prakṛtayaḥ svasaṃvedyāḥ śarīriṇām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃvṛtisphuṭarupeṇa niśāsaṃjñā pradarśitāḥ || Pk_2.12 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "strīsaṃjñā tathā proktā mandākārā tathaiva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāmasaṃjñā punaścaiva candramaṇḍalapaṅkajam || Pk_2.13 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛḍhīkaraṇahetutvāt sabinduḥ prathamaḥ svaraḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niśākarāṃśusaṅkāśa ālokajñānasambhavaḥ || Pk_2.14 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ālokābhāsamityutkam atiśūnyamupāyakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parikalpitaṃ tathā proktaṃ proktaṃ caitasikaṃ tathā || Pk_2.15 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rāgo raktaṃ tathā tuṣṭaṃ madhyatuṣṭātituṣṭakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "harṣaṇaṃ caiva prāmodyaṃ vismayo hasitaṃ tathā || Pk_2.16 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hlādanāliṅganaṃ caiva tathā cumbanacūṣaṇam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhairyaṃ vīryaṃ ca mānaśca kartṛhartṛbalāni ca || Pk_2.17 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utsāhaḥ sāhasaṃ caiva tathā cottamasāhasam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "madhyamaṃ sāhasaṃ rādraṃ vilāso vairameva ca || Pk_2.18 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śubhaṃ ca vāk sphuṭā satyamasatyaṃ niścayastathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirupādānadātṛtve codanaṃ śūratā tathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "alajjā dhūrtaduṣṭaśca haṭhaḥ kuṭila eva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "catvāriṃśat prakṛtayaḥ kṣaṇikāścātiśūnyajjāḥ || Pk_2.20 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "divāpuruṣasaṃjñā ca kharākāraśca dakṣiṇaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sūryamaṇḍalasaṃjñā ca vajrasaṃjñā tathaiva ca || Pk_2.21 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalā saiva tu vijñeyā bindudvayavibhūṣitā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "divākarāṃśuisaṅkāśā ālokābhāsayogajā || Pk_2.22 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ālokasyopalabdhiśca upalabdhaṃ tathaiva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pariniṣpannakaṃ caiva avidyā caiva nāmataḥ || Pk_2.23 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahāśūnyapadasyaite paryāyāḥ kathitā jinaiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "madhyarāgakṣaṇaścaiva vismṛtirbhrāntireva ca || Pk_2.24 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tūṣṇīṃbhāvaśca khedaśca ālasyaṃ dandhatā tathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avidyāyāḥ kṣaṇāḥ sapta vijñeyāḥ sukṣmayogibhiḥ || Pk_2.25 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na bījaṃ vindusaṃyuktaṃ na vāyurdvāranirgataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadālokopalabdhaṃ tu tat pariniṣpannalakṣaṇam || Pk_2.26 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etāḥ prakṛtayaḥ sūkṣmāḥ śataṃ ṣaṣṭyuttaraṃ divā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rātrau cāpi pravartante vāyuvāhanahetunā || Pk_2.27 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣaṇe lave muhūrtte ca nimeṣe mātrake tathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣaṇa ityacchaṭāvasthā lavaḥ sarṣapavartanam || Pk_2.28 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āśvāsastu muhūrttaṃ syānnimeṣo 'kṣinimeṣaṇam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mātrā tu hastatālaṃ syāt kṣaṇādīnāṃ tu lakṣaṇam || Pk_2.29 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃvittimātrakaṃ jñānamākāśavadalakṣaṇam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kintu tasya prabhedo 'sti sandhyārātridivātmanā || Pk_2.30 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ālokālokābhāsau ca tathālokopalabdhakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cittaṃ trividhamityuktam ādhārastasya kathyate || Pk_2.31 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāyunā sūkṣmarūpeṇa jñānaṃ saṃmiśratāṃ gatam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niḥsṛtyendriyamārgemyo viṣayānavalambate || Pk_2.32 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ābhāsena yadā yukto vāyurvāhanatāṃ gataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadā tatprakṛtīḥ sarvā astavyastāḥ pravartayet || Pk_2.33 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yatra yatra sthito vāyustāṃ tāṃ prakṛtimudvahet |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yāvat samīraṇotpādo nābhāso niścalo bhavet || Pk_2.34 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ābhāsadvayahetuḥ syādātmabhāvavikalpanā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ubhayāṃśikameva syād yadālokopalabdhakam || Pk_2.35 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvāsāmeva māyānāṃ strīmāyaiva viśiṣyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānatrayaprabhedo 'yaṃ sphuṭamatraiva lakṣyate || Pk_2.36 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rāgaścaiva virāgaśca dvarorantariti trayam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvīndriyasya samāpattyā vajrapadmasamāgamāt || Pk_2.37 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānadvayasamāyogaḥ samāpattiḥ prakīrtītā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānadvayasamāpattyā yathoktakaraṇena tu || Pk_2.38 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yajjñānaṃ prāpyate yatnāt tadālokopalabdhakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yasya vajrābjasaṃyogaḥ saṃvṛtyā tu na vidyate || Pk_2.39 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sidhyate yogasāmarthyāt sakṛdapyanubhūtavān |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā prabhedaṃ vijñāya jñānavṛttiṃ svabhāvataḥ || Pk_2.40 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lakṣayet satataṃ yogī tāmeva prakṛtiṃ punaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "payodharā yathā naike nānāsaṃsthānavarṇakāḥ || Pk_2.41 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "udbhūtā gaganābhogāllayaṃ gacchanti tatra vai |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ prakṛtayaḥ sarvā ābhāsatrayahetukāḥ || Pk_2.42 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirviśya viṣayān kṛtsnān praviśanti prabhāsvaram |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eṣāṃ svabhāvābijñānadajñānapaṭalāvṛtāḥ || Pk_2.43 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtvā śubhāśubhaṃ karma bhramanti gatipañcake |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ānantaryādikaṃ kṛtvā narakeṣu vipacyate || Pk_2.44 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śubhaṃ dānādikaṃ kṛtvā svargādiṣu mahīyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anantajanmasāhasraṃ prāpya caivaṃ punaḥ punaḥ || Pk_2.45 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pūrvakarmavipāko 'yamiti śocati mohataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prakṛtyābhāsayogena yena kliśyanti jantavaḥ || Pk_2.46 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñātvā tameva mucyante jñānino bhavapañjarāt |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāsvabhāva evāyaṃ candramaṇḍalakalpanā || Pk_2.47 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cittameva svayaṃ paśyet svameva śaśibimbavat |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atha candraṃ samālambya vajracinhaṃ prakalpayet || Pk_2.48 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upāyasūcakaṃ hyetad vajrādyutpattiyoginām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "candravajrādisaṃyogaścittacaitasasaṅgamaḥ || Pk_2.49 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñopāyasamāyogājjāyate devatākṛtiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturmudrābhirāmudrya devatāgarvamudvahan || Pk_2.50 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vicaret tu sadā mantrī utpattikramayogavān |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathoktaṃ śrīsamājādau tatra tatra suvistaram || Pk_2.51 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yāvat syād bhāvanāyogastāvat syādādikarmikaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pariniṣpannayogasya sūcana kriyate 'dhunā || Pk_2.52 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyatrayaviśuddhiryā prabhāsvaramihocyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvaśūnyapadaṃ tacca jñānatrayaviśuddhitaḥ || Pk_2.53 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānaśuddhipadaṃ tattvaṃ sarvajñatvamanuttaram |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirvikāraṃ nirābhāsaṃ nirdvandvaṃ paramaṃ śivam || Pk_2.54 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "astīti na ca nāstīti na ca vākyagocaram |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ataḥ prabhāsvarāccūddhājjñānatrayasamudbhavaḥ || Pk_2.55 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvātriṃśallakṣaṇadharo hyaśītivyañcanānvitaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākāravaropetaḥ sarvajño jāyate tataḥ || Pk_2.56 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā coktaṃ mahāyānasūtre lalitavistare |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhisambodhikāmo 'yaṃ śākyasiṃhastathāgataḥ || Pk_2.57 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahāśūnyena buddhatvaṃ prāpsyāmītyabhimānataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nairañcanānadītīre nispādyāsphānakaṃ gataḥ || Pk_2.58 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tilabimbīva sampūrṇāḥ khamadhyasthā jināstadā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekasvareṇa taṃ prāhuracchaṭena jinaurasam || Pk_2.59 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aviśuddhamidaṃ dhyānaṃ na caitadiṣṭakāvaham |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prabhāsvaraṃ ātu ālambyamākāśatalavat param || Pk_2.60 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prabhāsvarapade prāpte svecchārūpastu jāyase |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "savaiśvaryaṃ tathā prāpya vajrakāye pramodase || Pk_2.61 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ śrutvā tu taṃ śbdaṃ visarjyāsphānakaṃ tataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niśārdhasamaye tattvamālambyaiva jinaurasaḥ || Pk_2.62 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṛjukenaiva kāyena vācāya ṛjureva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāśano nāśano naiva na maunī nāpyamaunavān || Pk_2.63 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nonmīlitasunetrastu na ca mīlitalocanaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svacchaṃ vyaktaṃ mahājñānaṃ sarvaśūnyaṃ mahādbhutam || Pk_2.64 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atha paśyati tadvayaktaṃ gurupādaprasādataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anāgatamatītaṃ ca vartamānaṃ bhavatrayam || Pk_2.65 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatkṣaṇānnikhilaṃ paśyet prabhāsvaraviśuddhadhṛk |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jalacandramarīcyādimāyāguṇavibhūṣitaḥ || Pk_2.66 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aruṇodgamakāle tu vajropamasamādhinā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niṣadya bodhimūle tu so 'karonmārabhañcanam || Pk_2.67 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samprāpya śākyanāthena tattvajñānamanuttaram |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jagattrayahitārthāya tadeveha pradarśitam || Pk_2.68 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tattvajñānamiti proktamabhisambodhidarśanam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pañcānantaryakarmā ca mandapuṇyo 'pi yo naraḥ || Pk_2.69 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guruprasādādāpnoti cintāmaṇirivāparam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yatheṣṭaṃ kurute caryāṃ saṃbuddho 'yamanāgataḥ || Pk_2.70 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na rāgo na virāgaśca madhyamā nopalabhyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na śūnyaṃ nāpi cāśūnyaṃ madhyamā nopalabhyate || Pk_2.71 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvabuddhasamāyoga idameva pradarśitam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trijñānād vyatiriktaṃ yat tattvaṃ sandhyāya bhāṣayā || Pk_2.72 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhāvetyādigāthābhiḥ paṭale bodhicittake |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrīsamāje 'pi tat proktamabhisambodhilakṣaṇam || Pk_2.73 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rāgādīnāṃ viśuddhiryā paramādye pradarśitā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvaśūnyaṃ samuddiśya sāpi proktā tathāgataiḥ || Pk_2.74 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nānāsūtreṣu tantreṣu yat tattvamupadarśitam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvaśūnyapadaṃ hyetannānyat tatrābhidhīyate || Pk_2.75 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturaśītisāhasre dharmaskandhe mahāmuneḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sārāt sārataraṃ proktam abhisambodhilakṣaṇam || Pk_2.76 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jaṭī nagnaśca muṇḍī vā śikhiniḥsaṅgavṛttayaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "taistaiśca vividhairliṅgairabhisambodhikāminaḥ || Pk_2.77 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "teṣāṃ tattvavihīnānāṃ vratacaryādikaḥ kramaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tattvajñānavihīnatvāt tena muktirna labhyate || Pk_2.78 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādikarmikayogena cāṣṭamīṃ bhūmimāpnuyāt |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ālokatrayadarśī ca daśabhūmyāṃ pratiṣṭhitaḥ || Pk_2.79 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samprāpya hyabhisambodhiṃ śuddhāvāsamupāgataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhakṣetresvavaivartī sarvajña iha janmani || Pk_2.80 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmodayābhisambodhiḥ krīḍārāgādivistaraiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmadhātvābhisamabodhiryathālābhaviceṣṭitaiḥ || Pk_2.81 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anutarābhisambodhirabhisambodhiyogataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prapañcākārādicaryābhirabhyasyantīha yoginaḥ || Pk_2.82 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āḥ kimabhyāsayogena ādiśuddhiḥ svabhāvikā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prakṛtyaiva hi sā siddhā tathatā na vikalpajā || Pk_2.83 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ya evaṃ kalpayantīha jñānakramamapāsya vai |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatprabhedamajānānāḥ punaḥ śaikṣā bhavanti te || Pk_2.84 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prakṛtyābhāsabhedajñā caturthaṃ tattvamāśritāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tridhā nābhyasyate yastu na śīghramāpnuyāt phalam || Pk_2.85 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathāgnirdārugarbhastho nottiṣṭhenmathanād vinā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathābhyāsād binā bodhirjāyate neha janmani || Pk_2.86 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yaḥ śāṭhyabuddhiralaso gurunindakaśca prāptābhiṣeka iti garvitamānasaḥ syāt |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvajñatā na sulabheti vihīnacitto doṣān sa paśyati gurorna guṇān varākaḥ || Pk_2.87 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sūśrūṣayā virahito laghu tattvamicchen neti praśstavacanaṃ calayet saroṣaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛṣṭvā sabhāsu gurumasya parāṅmukhastu kuryāt praṇāmamatha tasya rahogatasya || Pk_2.88 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ ca daurātmyagataṃ kuśiṣyam svaputramapyaurasamāryagarhyam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vaiśyaṃ tathā pārthivamagrabodhiṃ kuryāt samīpe na hi jātu dhīraḥ || Pk_2.89 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śubhaguṇasusameto jñānavān vīryayukto gurujanamatha bhaktyā vīkṣate buddhatulyam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adhigatajinadharmaḥ śāsaneṣu prasannaḥ sa iha bhavati pātraṃ tasya kuryāt prasādam || Pk_2.90 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrutabahutaratantro 'uyāgameṣu pravīṇo gurujanaparicaryāhānyalabdhopadeśaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svahitamapi sa kartuṃ na prabhuḥ śāstracañcurbhavati tadapi śāstraṃ kevalaṃ khedahetuḥ || Pk_2.91 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atha bhavati sabhāgyaḥ prāptatattvopadeśo jaḍamatirasamartho mīlane 'rthasya yastu |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parahitakṛtabuddhirdeśanāyāṃ pravṛtto vacanaguṇavihīnaḥ so 'pyavajñāmupaiti || Pk_2.92 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrutabahutaratantro jñānavān ṣaṭpadajñaḥ smṛtimatidhṛtimedhāvīryasampatsametaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gurucaṇasaparyāprāptatattvopadeśaḥ prabhavati sa hi vaktuṃ tantrarājopadeśam || Pk_2.93 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "śrutabahutaratantreṇāyavajriprasādāt sphuṭaviracitavācā bodhimārgaṃ vibhajya |\nkuśalamupacittaṃ yacchākyamitreṇa tena prakaṭapaṭuvipākād bodhibhājo bhavantu || iti | Pk_2.94 ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "anuttarasandhirityaparanāmā"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "|| sarvaśuddhiviśuddhikramaḥ samāptaḥ ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kṛtiriyaṃ śākyamitrapādānām | granthapramāṇamasya śatamekam |"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "dvitīyaḥ kramaḥ |"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "[3]\nsvādhiṣṭhānakramaḥ tṛtīyaḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "namaḥ śrīvajragurave"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "praṇipatya varaṃ vajraṃ vajrasattvādināyakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svādhiṣṭhānakramaścaiva vakṣyate kṛpayā mayā || Pk_3.1 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "prathamataraṃ tāvad utpattikramānusāreṇa prāptābhiṣekaścaturvidhatantrābhiprāyajñaḥ prāptakāyavākcittavivekaḥ śrutidharaḥ satyadvayādhimokṣo vajraguruṃ samyag ārādhya, tataḥ prasannāya gurave mahatīṃ gaṇapūjāṃ kṛtvā ṣoḍaśābdikāṃ mudrāṃ mahāvajragurave datvā, tadanantaraṃ guruvaktrād āptasvādhiṣṭhānakramopadeśaḥ, tato mālodakasambuddhavajraghaṇṭādānadarpaṇanāmācāryānujñā ityebhiḥ saha guhyābhiṣekaṃ labdhvā ebhiḥ śāstāraṃ guruṃ stūyātḥ |"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śauṣīryaṃ nāsti te kāye māṃsāsthirudhiraṃ na ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "indrāyudhamivākāśe kāyaṃ darśitavānasi || Pk_3.2 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāmayā nāśuciḥ kāye kṣuttṛṣṇāsambhavo na ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tvayā lokānuvṛttyarthaṃ darśitā laukikī kriyā || Pk_3.3 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dakacandravadagrāhya sarvadharmeṣvaniśrita |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anahaṅkāra nirmoha nirālamba namo 'stu te || Pk_3.4 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sadā samāhitaścāsi gacchaṃstiṣṭhan svapaṃstathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "īrṣyāpatheṣu sarveṣu nirālamba namo 'stu te || Pk_3.5 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vikurvasi mahāṛddhyā māyopamasamādhinā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirnānātvaṃ samāpanna nirālamba namostu te || Pk_3.6 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "evaṃ vajraguraṃ sadbhūtaguṇena saṃstutya śravaṇārtham adhyeṣayed anayā gāthayā-"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvajña jñānasandoha bhavacakraviśodhaka |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adya vyākhyānaratnena prasādaṃ kuru me vibho || Pk_3.7 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tvatpādapaṅkajaṃ muktvā nāstyanyaccharaṇaṃ vibho |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmāt prasīda buddhāgra jagadvīra mahāmune || Pk_3.8 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ śrutvā tu tad vākyam adhyeṣaṇaviśāradam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śiṣyakāruṇyamutpādya svādhiṣṭhānamathārabhet || Pk_3.9 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svādhiṣṭhānakramo nāma saṃvṛteḥ satyadarśanam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gurupādaprasādena labhyate tacca nānyathā || Pk_3.10 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svādhiṣṭhānakramo yena sādhakena na labhyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sūtrāntatantrakalpeṣu vṛthā tasya pariśramaḥ || Pk_3.11 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svādhiṣṭhānakramaṃ labdhvā sarvabuddhāmayaḥ prabhuḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "janmanīhaiva buddhatvaṃ niḥsandehaṃ prapadyate || Pk_3.12 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svādhiṣṭhānasamādhiśca prabhāsvarapadaṃ tathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "satyadvayamiti khyātaṃ phalahetuviśeṣataḥ || Pk_3.13 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svādhiṣṭhānānupūrveṇa prāpyate hi prabhāsvaram |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmād vajraguruḥ pūrvaṃ svādhiṣṭhānaṃ pradarśayet || Pk_3.14 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asvatantraṃ jagat sarvaṃ svatantraṃ naiva jāyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hetuḥ prabhāsvaraṃ tasya sarvaśūnyaṃ prabhāsvaram || Pk_3.15 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yena cittena bālāśca saṃsāre bandhanaṃ gatāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yoginastena cittena sugatānāṃ gatiṃ gatāḥ || Pk_3.16 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na cātrotpadyate kaścin maraṇaṃ nāpi kasyacit |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃsāra eva jñātavyaścittarūpākṛtiṣṭhitaḥ || Pk_3.17 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāyuyogād vinā cittasvarūpaṃ naiva gṛhyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cittāt prakṛtihetutvāt karmajanmasamudbhavaḥ || Pk_3.18 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadeva vāyusaṃyuktaṃ vijñānatritayaṃ punaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jāyate yogināṃ mūrttirmāyādehastaducyate || Pk_3.19 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmādeva jagat sarvaṃ māyopama ihocyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyopamasamādhiṣṭhaḥ sarvaṃ paśyati tādṛśam || Pk_3.20 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpaṃ ca vedanā caiva saṃjñā saṃskāra eva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñānaṃ pañcamaṃ caiva catvāro dhātavastathā || Pk_3.21 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "akṣāṇi viṣayāścaiva jñānapañcakameva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adhyātmabāhyato bhinnaṃ sarvaṃ māyaiva nānyathā || Pk_3.22 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "darpaṇapratibimbena māyādehaṃ ca lakṣayet |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "varṇān indrāyudheneva vyāpitvamudakendunā || Pk_3.23 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "darpaṇe vimale vyaktaṃ dṛśyate pratibimbavat |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvābhāvāvinirmukto vajrasattvaḥ sucitritaḥ || Pk_3.24 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākāravaropeto asecanakavigrahaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "darśayet taṃ suśiṣyāya svādhiṣṭhānaṃ taducyate || Pk_3.25 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iyameva hi saṃlakṣyā māyā nirdoṣalakṣaṇā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyaiva saṃvṛteḥ satyaṃ kāyaḥ sāmbhogikaśca saḥ || Pk_3.26 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saiva gandharvasattvaḥ syād vajrakāyaḥ sa eva hi |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vajrasattvaḥ svayaṃ tasmāt svasya pūjāṃ pravartayet || Pk_3.27 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmā vai sarvabuddhatvaṃ sarvasauritvameva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmāt sarvaprayatnena hyātmānaṃ pūjayet sadā || Pk_3.28 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mantramudrāprayogaṃ ca maṇḍalādivikalpanam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "balihomakriryāṃ sarvāṃ kuryān māyopamāṃ sadā || Pk_3.29 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śāntikaṃ pauṣṭikaṃ cāpi tathā vaśyābhicārikam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ākarṣaṇādi yat sarvaṃ kuryād indrāyudhopamam || Pk_3.30 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śṛṅgārādyupabhogaṃ ca gītavādyādisevanam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalāsu ca pravṛttiṃ ca kuryād udakacandravat || Pk_3.31 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpe śabde tathā gandhe rase spraṣṭavya eva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cakṣurādipravṛttiṃ ca māyāvad upalakṣayet || Pk_3.32 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bahunātra kimuktena vajrayāne tu tattvataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yad yad ālambayed yogī tad tad māyaiva kalpayet || Pk_3.33 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "darpaṇe pratibimbaṃ ca svapnaṃ māyāṃ ca budbudam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "indrajālaṃ ca sādṛśyaṃ yaḥ paśyed sa prabhuḥ smṛtaḥ || Pk_3.34 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "dṛśyate spṛśyate caiva yathā māyā jagat sadā |\nna copalambhaḥ saṃvṛtyā māyāvat parikīrtitaḥ || iti || Pk_3.35 ||"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yad yad indriyamārgatvaṃ māyā tattat svabhāvataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asamāhitayogena sarvaṃ buddhamayaṃ vahet || Pk_3.36 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvatra sarvataḥ sarvaṃ sarvathā sarvadā svayam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvabuddhamayaṃ siddhaṃ svamātmānaṃ sa paśyati || Pk_3.37 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gacchaṃstiṣṭhan mahāsattvaḥ sarvasaukhamayaḥ prabhuḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vihārāhārapānādīnākāśāllabhate kṣaṇāt || Pk_3.38 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhaveyurbhavacchettāraḥ śāstāraḥ pravare jane |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pūjyante sasuraiḥ sarvaiḥ praṇipatya muhurmuhuḥ || Pk_3.39 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā śāstari sambaddhe lokayātrāhitaiṣiṇi |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evameva mahāyogī viśvajñānārthasaṅgrahād || Pk_3.40 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāsti kiñcid asādhyaṃ vai vajrasattvena lakṣitam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svayaṃ pratyusidhyanti sarvamudrā mahāsukhāḥ || Pk_3.41 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kleśāḥ karmapathā dehaḥ kartāraśca phalaṃ ca vai |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "marīcisvapnasaṅkāśā gandharvanagaropamāḥ || Pk_3.42 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "imaṃ samādhimajñātvā saṃvṛtāvupalambhataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jāyante vividhā rogāsteṣāṃ māyā bhiṣagjitam || Pk_3.43 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svādhiṣṭhānopadeśastu yena nāsādyate guroḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śāśvatocchedamālambya sa vaivartī bhavet punaḥ || Pk_3.44 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvapūjāṃ parityajya gurupūjāṃ samārabhet |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tena tuṣṭena tallabhyaṃ sarvajñajñānamuttamam || Pk_3.45 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kiṃ tena na kṛtaṃ puṇyaṃ kiṃ vā nopāsitaṃ tapaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anuttarakṛdācāryavajrasattvaprapūjanāt || Pk_3.46 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yad yadiṣṭataraṃ kiñcid viśiṣṭatarameva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tat taddhi gurave deyaṃ tadevākṣayamicchatā || Pk_3.47 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ācāryo harate pāpam ācāryo harate bhayam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ācāryastārayet pāraṃ duḥkhārṇavamahābhayāt || Pk_3.48 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yo 'haṅkāra[ma]lāliptaḥ sadbhūtakramadharṣakaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāvajñastattvadharmeṣu tasya tattvaṃ na darśayet || Pk_3.49 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "satyavāggurubhaktaśca viviktaścaikasandhiokaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samayācārarakṣī ca kramaṃ tasya pradarśayet || Pk_3.50 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "|| svādhiṣṭhānakramastṛtīyaḥ samāptaḥ ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kṛtiriyamācāryanāgārjunapādānām | granthapramāṇamasya ṣaṭpañcāśat |"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "[4]\nabhisambodhikramaḥ caturthaḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "namaḥ śrīvajrasattvāya"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vajrasattvaṃ namaskṛtya sarvaśūnyopadeśakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturtho hyābhisambodhikramo 'yaṃ vakṣyate mayā || Pk_4.1 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asau svayambhūrbhagavān eka evādhidaivataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upadeśapradānāt tu vajrācāryo 'dhikastataḥ || Pk_4.2 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatsamārādhanaṃ kṛtvā varṣaṃ māsamathāpi vā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmai tuṣṭāya gurave pūjāṃ kuryāt tu śaktitaḥ || Pk_4.3 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathāsvabhāvato mudrāṃ nivedyāsmai suśikṣitām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gaṇamaṇḍalamadhye tu kuryāt pūjāṃ yathāvidhi || Pk_4.4 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatastuṣṭo mahāyogī pañcakāmopabhogataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ālokasyodayaṃ kuryāt samāpattividhānataḥ || Pk_4.5 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalaśādau susaṃsthāpya bodhicittaṃ prayatnataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ardharātre cābhisiñcet suśiṣyaṃ kṛpayā guruḥ || Pk_4.6 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhiṣekaṃ tu samprāpya pratyūṣamaye punaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sampūjyārādhayet stotrairguruṃ śiṣyaṃ kṛtāñjaliḥ || Pk_4.7 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "traidhātukavinirmukta ākāśasamatāṃ gataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nopariṣyasi kāmeṣu nirālamba namo 'stu te || Pk_4.8 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aniḥśrito 'si skandheṣu dhātuṣvāyataneṣu ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viparyāsavinirmukta nirālamba namo 'stu te || Pk_4.9 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avikalpitasaṅkalpa apratiṣṭhitamānasa |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "acintyamanasikāra nirālamba namo 'stu te || Pk_4.10 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anālayaṃ yathākāśaṃ niṣprapañcaṃ nirañcanam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ākāśasamacitto 'si nirālamba namo 'stu te || Pk_4.11 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "draṣṭukāmo 'bhisambodhiṃ sarvaśūnyasvabhāvikām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "stutvā kṛtāñjaliḥ śiṣyo guraṃ sañcodayet punaḥ || Pk_4.12 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prayaccha me mahānātha abhisambodhidarśanam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmajanmavinirmuktam ābhāsatrayavarjitam || Pk_4.13 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prayaccha me mahācārya vajrajñānamanuttaram |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvabuddhamahājñānaṃ sarvatāthāgatālayam || Pk_4.14 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prayaccha me mahāvajra kāyavākcittaśodhanam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anādinidhanaṃ śāntaṃ sarvakleśaviśodhanam || Pk_4.15 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evamārādhito yogī sadbhūtaguṇakīrtanaiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śiṣye kāruṇyamutpādya kramamevamathārabhet || Pk_4.16 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āloko rātribhāgaḥ sphuṭaravikiraṇaḥ syād divālokabhāsaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sandhyālokopalabdhaḥ prakṛtibhirasakṛd yujyate svābhiretat |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "no rātrirnāpi sandhyā na ca bhavati divā yaḥ prakṛtyā vimuktaḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa syād bodhikṣaṇo 'yaṃ varagurukathito yogināmeva gamyaḥ || Pk_4.17 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "naiśaṃ dhvāntaṃ vinaṣṭaṃ vyapagatamakhilaṃ sāndhyatejastu yasmin\nbhāsvānnodeti yāvat kṣaṇa iha vimale darśayed bhūtakoṭim |"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śiṣyāyācāryamukhyo vinihatatimiro bāhyasambodhidṛṣṭyā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāpnotyadhyātmasaukhyaṃ vyapagatakaluṣaṃ buddhabodhiṃ kṣaṇena || Pk_4.18 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anādibhūtaṃ tvathavādibhūtaṃ amadhyabhūtaṃ tvatha madhyabhūtam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anantabhūtaṃ tvathavāntabhūtaṃ tat sarvaśūnyaṃ pravadanti santaḥ || Pk_4.19 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gamanāgamanaṃ ca yatra nāsti kṣayavṛddhī na cāpyabhāvabhāvau |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ativismayarūpam arūpyavismayaṃ sthitimannāpi na cāpi gatvaram || Pk_4.20 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadasti-nāstivyavahāramuktaṃ na puṇyarūpaṃ na ca pāparūpam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na puṇyapāpātmakamagrabhūtaṃ tat sarvaśūnyaṃ pravadanti buddhāḥ || Pk_4.21 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃvidhaṃ tattvamavāpya yogī carācarātmā jagadekabandhuḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yaḥ paryaṭejjñānamayo nṛsiṃhaḥ kṛtsnaṃ jagat so 'vyayakāyalābhī || Pk_4.22 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa jihyakāyo 'pyavijihyakāyaḥ so 'nāsano 'pyāsanabandhadhīraḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samīlitākṣo 'pi vibuddhanetraḥ samāhitaḥ sanna samāhitau'sau || Pk_4.23 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa vāgyuto vāgasamanvito 'pi bhogānvitaḥ so 'pi virupavṛttiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa lokanāthaḥ parabhṛtyabhūto yastattvavit kṣīṇasamastadoṣaḥ || Pk_4.24 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāptopadeśakaḥ śiṣyo dvidhā yogamathābhyaset |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "piṇḍagrāhakrameṇaiva tathā caivānubhedataḥ || Pk_4.25 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śirasaḥ pādato cāpi yāvaddhṛdayamāgataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūtakoṭiṃ viśed yogī piṇḍagrāha iti smṛtaḥ || Pk_4.26 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sthāvaraṃ jaṅgamaṃ caiva pūrvaṃ kṛtvā prabhāsvaram |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paścāt kuryāt tathātmānam anubhedakramo hyayam || Pk_4.27 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śvāsavāto yathādarśe layaṃ gacchati sarvataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūtakoṭiṃ tathā yogī praviśocca muhurmuhuḥ || Pk_4.28 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gacchaṃstiṣṭhan svapan bhuñjannunmiṣan nimiṣan hasan |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anena dhyānayogena sadā tiṣṭhati tattvavit || Pk_4.29 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sattvārtho 'pi kadācit syāt tattatsārūpyaraśminā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāyuvijñānayuktena svādhiṣṭhānakrameṇa tu || Pk_4.30 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā nadījalāt svacchānmīnamuttiṣṭhate drutam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvaśūnyāt tathā svacchānmāyājālamudīryate || Pk_4.31 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pañcabuddhakulāyattā mahāmudrādikalpanā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pañcaraśmisamucchreyā gagane śakracāpavat || Pk_4.32 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mudrābandhaṃ prakuryād vā mantraṃ cāpi japed yadi |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvamanyat prakuryācca sarvaśūnyapade sthitaḥ || Pk_4.33 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvabhuk sarvapaścaiva sarvavandī ca sarvagaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvakṛt sarvaliṅgī ca sarvaśūnyena sidhyati || Pk_4.34 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāptopadeśaḥ subhagaḥ suśiṣyo baudhau hi cittaṃ paramārthanāma |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guroḥ sakāśāt punarādadīta kṛtāñjalirdhāritapuṣpahastaḥ || Pk_4.35 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sarvabhāvavigataṃ skandhadhātvāyatanagrāhyagrāhakavarjitaṃ dharmanairātmyasamatayā svacittam ādyanutpannaṃ śūnyatāsvabhāvamiti |"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatastu gurave dadyād dakṣiṇāṃ tvanurūpataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ratnaṃ gṛhaṃ vā hastyaśvaṃ grāmaṃ vā śayanāsanam || Pk_4.36 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dāsaṃ dāsīṃ priyāṃ bhāryāṃ putrīṃ cāpyativarṇabhām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmānaṃ cāpi yaddadyāt kimanyadavaśiṣyate || Pk_4.37 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāptācāryaprasādo vimaladṛḍhamatiḥ sarvabhāvasvabhāvaḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svacchaṃ śuddhaṃ susūkṣmaṃ paramaśivamayaṃ buddhanirvāṇadhātum |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirdvandvaṃ nirvikalpaṃ satatasukhamayaṃ bhāvayet tattvayogī"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "puṇyāpuṇyād vimuktaḥ svayamiha bhagavān jāyate vajrasattvaḥ || Pk_4.38 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "| paramarahasyasukhābhisambodhikramaścaturthaḥ samāptaḥ ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kṛtiriyam ācāryanāgārjunapādānām |\ngranthapramāṇamasya ślokāścatvāriṃśat |"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "[5]\nyuganaddhakramaḥ pañcamaḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "namaḥ śrīvajradharāya"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "phalahetvātmakaṃ nāthaṃ sarvadvandvavivarjitam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "praṇamya likhyate samyag yuganaddhakramottamaḥ || Pk_5.1 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃsāro nirvṛtiśceti kalpanādvayavarjanāt |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekībhāvo bhaved yatra yuganaddhaṃ taducyate || Pk_5.2 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṅkleśaṃ vyavadānaṃ ca jñātvā tu paramārthataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekībhāvaṃ tu yo vettiṃ sa vetti yuganaddhakam || Pk_5.3 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sākārabhāvasaṅkalpaṃ nirākāratvakalpanām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekīkṛtya cerad yogī sa vetti yuganaddhakam || Pk_5.4 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "grāhyaṃ ca grāhakaṃ caiva dvidhā buddhirna vidyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhinnatā bhaved yatra tadāha yuganaddhakam || Pk_5.5 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śāśvatocchedabuddhī tu yaḥ prahāya pravartate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yuganaddhakramākhyaṃ vai tattvaṃ vetti sa paṇḍitaḥ || Pk_5.6 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñākaruṇayoraikyaṃ jñātvā yatra pravartate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yuganaddha iti khyātaḥ kramo 'yaṃ buddhagocaraḥ || Pk_5.7 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñopāyasamāpattyā jñātvā sarvaṃ samāsataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yatra sthito mahāyogī tad bhaved yuganaddhakam || Pk_5.8 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yatra sopadhiśeṣaṃ ca tathānupadhiśeṣakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ityevaṃ kalpanā nāsti tat taddhi yuganaddhakam || Pk_5.9 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yatra pudgalanairātmyaṃ dharmanairātmyamityapi |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalpanāyā viviktatvaṃ yuganaddhasya lakṣaṇam || Pk_5.10 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñātvā krameṇa tattvajñaḥ svādhiṣṭhānaprabhāsvaram |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tayoreva samājaṃ yad yuganaddhakramo hyayam || Pk_5.11 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "piṇḍagrāhanubhedābhyāṃ praveśastathatālaye |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utthānaṃ ca tato yatra samantād yuganaddhakam || Pk_5.12 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃvṛtiṃ paramārthaṃ ca pṛthag jñātvā vibhāgataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃmīlanaṃ bhaved yatra yuganaddhaṃ taducyate || Pk_5.13 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathātalambanaṃ naiva vyutthānaṃ yatra naiva hi |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yuganaddhaṃ bhavet tacca yogināṃ padamavyayam || Pk_5.14 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "suptaḥ prabuddha ityetadavasthādvayavarjitam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yuganaddhaṃ vadecchāstā svāpabodhavivarjitam || Pk_5.15 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samādhānāsamādhānaṃ yasya nāstyeva sarvathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yuganaddhe sthito yogī bhāvābhāvavivarjitaḥ || Pk_5.16 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asmṛtismṛtinirmuktaḥ satatodayalakṣaṇaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vicaredicchayā yogī yuganaddhakrame sthitaḥ || Pk_5.17 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rāgārāgavinirmuktaḥ paramānandamūrtimān |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āsaṃsāraṃ sthitiṃ kuryād yuganaddhavibhāvakaḥ || Pk_5.18 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāryaṃ ca kāraṇaṃ caiva kṛtvābhinnaṃsvabhāvataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yā sthitiryogināṃ buddhā yuganaddhaṃ vadanti tat || Pk_5.19 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utpattikrama eko 'yam utpannakrama ityapi |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekatvaṃ tu dvayoryatra yuganaddhastaducyate || Pk_5.20 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "devatā pariśuddheyam aśuddheyaṃ bhavediti |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti yā kalpanābhinnā yatra tad yuganaddhakam || Pk_5.21 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpīti cāpyarūpīti kalpanādvayavarjanāt |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yaḥśāntiṃ vetti yogīndraḥ sa prāpto yuganaddhakam || Pk_5.22 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ vai yaḥ sthito yogī yuganaddhakrame sthitaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ucyate sa hi sarvajñaḥ tattvadarśī ca viśvadhṛk || Pk_5.23 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyājālābhisambuddhaḥ saṃsārārṇavapāragaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtakṛtyo mahāyogī satyadvayanaye sthitaḥ || Pk_5.24 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "etadevādvayaṃ jñānam apratiṣṭhitanirvṛtiḥ |",
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhatvaṃ vajrasattvatvaṃ sarvaiśvaryaṃ tathaiva ca || Pk_5.25 |"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vajropamasamādhistu niṣpannakrama eva ca |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vajropamasamādhiścāpyadvayaṃ tacca kathyate || Pk_5.26 ||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anutpādādayaḥ śabdā advayajñānasūcakāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asyaiva vācakāḥ sarve nānyat tatrābhidhīyate || Pk_5.27 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahāmudrātmikāṃ siddhiṃ sadasatpakṣavarjitām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anenaiva gatā buddhā gaṅgāyāḥ sikatopamāḥ || Pk_5.28 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ghaṭamāno mahāyogī yuganaddhapade sthitaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvayed yuganaddhaṃ tu caryāṃ cāpi tadanvayām || Pk_5.29 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathātmani tathā śatrau yathā bhāryā tathātmajā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā mātā tathā vaiśyā yathā ḍombī tathā dvijā || Pk_5.30 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā vastraṃ tathā carma yathā ratnaṃ tathā tuṣam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā mūtraṃ tathā madyaṃ yathā bhaktaṃ tathā śakṛt || Pk_5.31 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā sugandhi karpūraṃ tathā gandhamamedhyajam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā stutikaraṃ vākyaṃ tathā vākyaṃ jugupsitam || Pk_5.32 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā rudrastathā vajrī yathā rātrīstathā divā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā svapnaṃ tathā dṛṣṭaṃ yathā naṣṭaṃ tathā sthitam || Pk_5.33 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā saukhyaṃ tathā duḥkhaṃ yathā duṣṭastathā sutaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathāvīcistathā svargastathā puṇyaṃ tu pāpakam || Pk_5.34 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ jñātvā cared jñānī nirviśaṅkastu sarvakṛt |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pracchannavratamāsādya sidhyante sarvasampadaḥ || Pk_5.35 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "prakāśya puṇyaṃ yat prāptaṃ pañcakramamanuttaram |\nanena krīḍatāṃ loko yuganaddhasamādhinā || iti || Pk_5.36 ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "yuganaddhakramaḥ pañcamaḥ samāptaḥ ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kṛtiriyam ācāryanāgārjunapādānām | granthapramāṇamasya ślokāḥ pañcatriṃśat |"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "|| pañcakramaḥ samāptaḥ ||"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñākaruṇayoraikyaṃ jñātvā yatra pravartate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yuganaddha iti khyātaḥ kramo 'yaṃ buddhagocaraḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "(pañcakramaḥ, 5-7)"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atyudgāḍharayasthirākṛtighanadhvānabhramanmandara-"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣubdhadhīradhivīcisañcayagataprāleyapādopamaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrīmatpotalake gabhīravivṛtidhvānapratidhvānite"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāndrasvāṃśucayaśriyā valayito lokeśvaraḥ pātu vaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "(subhāṣitaratnakośe vidyākaraḥ)"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na satyā nāsatyā na ca tadubhayī nāpyanubhayī"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirullekhā sarvākṛtivaramayī madhyamakadhīḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jinaḥ śāstā saiva sthira-calajagattattvamapi sā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svasaṃvittirdevī jayati sukhavajrapraṇayinī ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "(amṛtakaṇikābhidhāyāṃ nāmasaṃgītiṭikāyām, raviśrīḥ)"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ye dharmā hetuprabhavā hetusteṣāṃ tathāgato hyavadat |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "teṣāṃ ca yo nirodha evaṃvādī mahāśramaṇaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "śubhamastu"
+    }
+  ]
 }

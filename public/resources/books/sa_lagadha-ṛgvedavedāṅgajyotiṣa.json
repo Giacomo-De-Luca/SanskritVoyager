@@ -1,4 +1,599 @@
 {
-  "title": "sa_lagadha-ṛgvedavedāṅgajyotiṣa",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<lg>\n<l>pañcasaṃvatsaramayaṃ yugādhyakṣaṃ prajāpatim /</l>\n<l>dinartvayanam āsāṅgaṃ praṇamya śirasā śuciḥ // 1</l>\n</lg>\n<lg>\n<l>praṇamya śirasā kālam abhivādya sarasvatīm /</l>\n<l>kālajñānaṃ pravakṣyāmi lagadhasya mahātmanaḥ // 2</l>\n</lg>\n<lg>\n<l>jyotiṣām ayanaṃ kṛtsnaṃ pravakṣyāmy anupūrvaśaḥ /</l>\n<l>viprāṇāṃ sammataṃ loke yajñakālārthasiddhaye // 3</l>\n</lg>\n<lg>\n<l>nirekaṃ dvādaśārdhābdaṃ dviguṇaṃ gatasaṃjñikam /</l>\n<l>ṣaṣṭyā ṣaṣṭyā yutaṃ dvābhyāṃ parvaṇāṃ rāśir ucyate // 4</l>\n</lg>\n<lg>\n<l>svar ākramete somārkau yadā sākaṃ savāsavau /</l>\n<l>syāt tadādi yugaṃ māghastapaḥ śuklo 'yanaṃ hy udak // 5</l>\n</lg>\n<lg>\n<l>prapadyete śraviṣṭhādau sūryācandramasāv udak /</l>\n<l>sārpārdhe dakṣiṇārkas tu māghaśrāvaṇayoḥ sadā // 6</l>\n</lg>\n<lg>\n<l>gharmavṛddhir apāṃ prasthaḥ kṣapāhrāsa udaggatau /</l>\n<l>dakṣiṇe tau viparyāsaḥ ṣaṇmuhūrtyayanena tu // 7</l>\n</lg>\n<lg>\n<l>dviguṇaṃ saptamaṃ cāhur ayanādyaṃ trayodaśam /</l>\n<l>caturthaṃ daśamaṃ ca dviryugmādyaṃ bahule 'py ṛtau // 8</l>\n</lg>\n<lg>\n<l>vasus tvaṣṭā bhavo 'jaś ca mitraḥ sarpāśvinau jalam /</l>\n<l>dhātā kaś cāyanādyāś cārthapañcamabhas tv ṛtuḥ // 9</l>\n</lg>\n<lg>\n<l>bhāṃśāḥ syur aṣṭakāḥ kāryāḥ pakṣadvādaśakodgatāḥ /</l>\n<l>ekādaśaguṇaś conaḥ śukle 'rdhaṃ caindavā yadi // 10</l>\n</lg>\n<lg>\n<l>kāryā bhāṃśāṣṭakasthāne kalā ekānnaviṃśatiḥ /</l>\n<l>ūnasthāne trisaptatim udvaped ūnasaṃmitāḥ // 11</l>\n</lg>\n<lg>\n<l>tryaṃśo bhaśeṣo divasāṃśabhāgaś caturdaśaś cāpy anīya bhinnam /</l>\n<l>bhārdhe 'dhike cāpi gate paro 'ṃśo dvāv uttamaikaṃ pnavakairavedyam // 12</l>\n</lg>\n<lg>\n<l>pakṣāt pañcadaśāc cordhvaṃ tadbhuktam iti nirdiśet /</l>\n<l>navabhis tūdgato 'ṃśaḥ syād ūnāṃśadvyadhikena tu // 13</l>\n</lg>\n<lg>\n<l>jau drā ghaḥ khe śve 'hī ro ṣā cin mū ṣa ṇyaḥ sū mā dhā ṇaḥ /</l>\n<l>re mṛ ghrāḥ svā 'po 'jaḥ kṛ ṣyo ha jye ṣṭhā ittṛkṣā liṅgaiḥ // 14</l>\n</lg>\n<lg>\n<l>jāvādyaṃśaiḥ samaṃ vidyāt pūrvārdhe parvasūttare /</l>\n<l>bhādānaṃ syāt caturdaśyāṃ kāṣṭhānāṃ devinā kalāḥ // 15</l>\n</lg>\n<lg>\n<l>kalā daśa saviṃśā syāt dve muhūrtasya nāḍike /</l>\n<l>dyutriṃśat tatkalānāṃ tu ṣaṭchatī tryadhikaṃ bhavet // 16</l>\n</lg>\n<lg>\n<l>nāḍike dve muhūrtas tu pañcāśatpalam āḍhakam /</l>\n<l>āḍhakāt kumbhako droṇaḥ kuṭapair vardhate tribhiḥ // 17</l>\n</lg>\n<lg>\n<l>sasaptakaṃ bhayuk somaḥ sūryo dyūni trayodaśa /</l>\n<l>navabhāni ca pañcāhnaḥ kāṣṭhāḥ pañcākṣarāḥ smṛtāḥ // 18</l>\n</lg>\n<lg>\n<l>śraviṣṭhāyāṃ gaṇābhyastān prāgvilagnān vinirdiśet /</l>\n<l>staryān māsān ṣaḍabhyastān vidyāc cāndramasān ṛtun // 19</l>\n</lg>\n<lg>\n<l>atītaparvabhāgebhyaḥ śodhayed dviguṇāṃ tithim /</l>\n<l>teṣu maṇḍalabhāgeṣu tithiniṣṭhāṃgato raviḥ // 20</l>\n</lg>\n<lg>\n<l>yāḥ parvabhādānakalās tāsu saptaguṇāṃ tithim /</l>\n<l>prakṣipet tatsamūhas tu vidyād ādānikīḥ kalāḥ // 21</l>\n</lg>\n<lg>\n<l>yad uttarasyāyanato gataṃ syāc cheṣaṃ tu yad dakṣiṇato 'yanasya /</l>\n<l>tad ekaṣaṣṭyā dviguṇaṃ vibhaktaṃ sadvādaśaṃ syād divasapramāṇam // 22</l>\n</lg>\n<lg>\n<l>yad ardhaṃ dinabhāgānāṃ sadā parvaṇi parvaṇi /</l>\n<l>ṛtuśeṣaṃ tu tad vidyāt saṃkhyāya sahaparvaṇām // 23</l>\n</lg>\n<lg>\n<l>ity upāyasamuddeśo bhūyo 'py ahnaḥ prakalpayet /</l>\n<l>jñeyarāśigatābhyastaṃ vibhajet jñānarāśinā // 24</l>\n</lg>\n<lg>\n<l>agniḥ prajāpatiḥ somo rudro 'ditir bṛhaspatiḥ /</l>\n<l>sarpāś ca pitaraś caiva bhagaś caivāryamāpi ca // 25</l>\n</lg>\n<lg>\n<l>savitā tvaṣṭātha vāyuś cendrāgnī mitra eva ca /</l>\n<l>indro niṛrtir āpo vai viśvedevās tathaiva ca // 26</l>\n</lg>\n<lg>\n<l>viṣnur vasavo varuṇo 'ja ekapāt tathaiva ca /</l>\n<l>ahirbudhnyas tathā pūṣā aśvinau yama eva ca // 27</l>\n</lg>\n<lg>\n<l>nakṣatradevatā etā etābhir yajñakarmaṇi /</l>\n<l>yajamānasya śāstrajñair nāma nakṣatrajaṃ smṛtam // 28</l>\n</lg>\n<lg>\n<l>ity evaṃ māsavarṣāṇāṃ muhūrtodayaparvaṇām /</l>\n<l>dinartvayanam āsāṅgaṃ vyākhyānaṃ lagadho 'bravīt // 29</l>\n</lg>\n<lg>\n<l>somasūryastṛcaritaṃ lokaṃ loke ca sammatim /</l>\n<l>somasūryastṛcaritaṃ vidvān vedavid aśnute // 30</l>\n</lg>\n<lg>\n<l>viṣuvaṃ tadguṇaṃ dvābhyāṃ rūpahīnaṃ tu ṣaḍguṇam /</l>\n<l>yal labdhaṃ tāni parvāṇi tathārdhaṃ sā tithir bhavet // 31</l>\n</lg>\n<lg>\n<l>māghaśuklapravṛttasya pauṣakṛṣnasamāpinaḥ /</l>\n<l>yugasya pañcavarṣasya kālajñānaṃ pracakṣate // 32</l>\n</lg>\n<lg>\n<l>tṛtīyāṃ navamīṃ caiva paurṇamāsīm athāsite /</l>\n<l>ṣaṣṭhīṃ ca viṣuvān prokto dvādaśīṃ ca samaṃ bhavet // 33</l>\n</lg>\n<lg>\n<l>caturdaśīm upavasathas tathā bhaved yathodito dinam upaiti candramāḥ /</l>\n<l>māghaśuklāhniko yuṅkte śraviṣṭhāyāṃ ca vārṣikīm // 34</l>\n</lg>\n<lg>\n<l>yathā śikhā mayūrāṇāṃ nāgānāṃ maṇayo yathā /</l>\n<l>tadvad vedāṅgaśāstrāṇāṃ jyotiṣaṃ mūrdhani sthitam // 35</l>\n</lg>\n\n  </body>\n\n"
+  "file_title": "lagadha-ṛgvedavedāṅgajyotiṣa",
+  "file_title_normal": "lagadha-rgvedavedangajyotisa",
+  "metadata": {
+    "original_title": "Ṛgvedavedāṅgajyotiṣa",
+    "author": "Lagadha",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Oliver Hellwig",
+        "when": "2001|02"
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Oliver Hellwig",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "K. V. Sarma, New Delhi: Indian National Science Academy (?)"
+  },
+  "body": [
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pañcasaṃvatsaramayaṃ yugādhyakṣaṃ prajāpatim /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dinartvayanam āsāṅgaṃ praṇamya śirasā śuciḥ // 1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "praṇamya śirasā kālam abhivādya sarasvatīm /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kālajñānaṃ pravakṣyāmi lagadhasya mahātmanaḥ // 2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jyotiṣām ayanaṃ kṛtsnaṃ pravakṣyāmy anupūrvaśaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viprāṇāṃ sammataṃ loke yajñakālārthasiddhaye // 3"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirekaṃ dvādaśārdhābdaṃ dviguṇaṃ gatasaṃjñikam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṣaṣṭyā ṣaṣṭyā yutaṃ dvābhyāṃ parvaṇāṃ rāśir ucyate // 4"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svar ākramete somārkau yadā sākaṃ savāsavau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "syāt tadādi yugaṃ māghastapaḥ śuklo 'yanaṃ hy udak // 5"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prapadyete śraviṣṭhādau sūryācandramasāv udak /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sārpārdhe dakṣiṇārkas tu māghaśrāvaṇayoḥ sadā // 6"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gharmavṛddhir apāṃ prasthaḥ kṣapāhrāsa udaggatau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dakṣiṇe tau viparyāsaḥ ṣaṇmuhūrtyayanena tu // 7"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dviguṇaṃ saptamaṃ cāhur ayanādyaṃ trayodaśam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturthaṃ daśamaṃ ca dviryugmādyaṃ bahule 'py ṛtau // 8"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vasus tvaṣṭā bhavo 'jaś ca mitraḥ sarpāśvinau jalam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhātā kaś cāyanādyāś cārthapañcamabhas tv ṛtuḥ // 9"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāṃśāḥ syur aṣṭakāḥ kāryāḥ pakṣadvādaśakodgatāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekādaśaguṇaś conaḥ śukle 'rdhaṃ caindavā yadi // 10"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāryā bhāṃśāṣṭakasthāne kalā ekānnaviṃśatiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ūnasthāne trisaptatim udvaped ūnasaṃmitāḥ // 11"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tryaṃśo bhaśeṣo divasāṃśabhāgaś caturdaśaś cāpy anīya bhinnam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhārdhe 'dhike cāpi gate paro 'ṃśo dvāv uttamaikaṃ pnavakairavedyam // 12"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pakṣāt pañcadaśāc cordhvaṃ tadbhuktam iti nirdiśet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "navabhis tūdgato 'ṃśaḥ syād ūnāṃśadvyadhikena tu // 13"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jau drā ghaḥ khe śve 'hī ro ṣā cin mū ṣa ṇyaḥ sū mā dhā ṇaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "re mṛ ghrāḥ svā 'po 'jaḥ kṛ ṣyo ha jye ṣṭhā ittṛkṣā liṅgaiḥ // 14"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jāvādyaṃśaiḥ samaṃ vidyāt pūrvārdhe parvasūttare /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhādānaṃ syāt caturdaśyāṃ kāṣṭhānāṃ devinā kalāḥ // 15"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalā daśa saviṃśā syāt dve muhūrtasya nāḍike /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dyutriṃśat tatkalānāṃ tu ṣaṭchatī tryadhikaṃ bhavet // 16"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāḍike dve muhūrtas tu pañcāśatpalam āḍhakam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āḍhakāt kumbhako droṇaḥ kuṭapair vardhate tribhiḥ // 17"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sasaptakaṃ bhayuk somaḥ sūryo dyūni trayodaśa /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "navabhāni ca pañcāhnaḥ kāṣṭhāḥ pañcākṣarāḥ smṛtāḥ // 18"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śraviṣṭhāyāṃ gaṇābhyastān prāgvilagnān vinirdiśet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "staryān māsān ṣaḍabhyastān vidyāc cāndramasān ṛtun // 19"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atītaparvabhāgebhyaḥ śodhayed dviguṇāṃ tithim /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "teṣu maṇḍalabhāgeṣu tithiniṣṭhāṃgato raviḥ // 20"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yāḥ parvabhādānakalās tāsu saptaguṇāṃ tithim /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prakṣipet tatsamūhas tu vidyād ādānikīḥ kalāḥ // 21"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yad uttarasyāyanato gataṃ syāc cheṣaṃ tu yad dakṣiṇato 'yanasya /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tad ekaṣaṣṭyā dviguṇaṃ vibhaktaṃ sadvādaśaṃ syād divasapramāṇam // 22"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yad ardhaṃ dinabhāgānāṃ sadā parvaṇi parvaṇi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṛtuśeṣaṃ tu tad vidyāt saṃkhyāya sahaparvaṇām // 23"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ity upāyasamuddeśo bhūyo 'py ahnaḥ prakalpayet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñeyarāśigatābhyastaṃ vibhajet jñānarāśinā // 24"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "agniḥ prajāpatiḥ somo rudro 'ditir bṛhaspatiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarpāś ca pitaraś caiva bhagaś caivāryamāpi ca // 25"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "savitā tvaṣṭātha vāyuś cendrāgnī mitra eva ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "indro niṛrtir āpo vai viśvedevās tathaiva ca // 26"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣnur vasavo varuṇo 'ja ekapāt tathaiva ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ahirbudhnyas tathā pūṣā aśvinau yama eva ca // 27"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nakṣatradevatā etā etābhir yajñakarmaṇi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yajamānasya śāstrajñair nāma nakṣatrajaṃ smṛtam // 28"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ity evaṃ māsavarṣāṇāṃ muhūrtodayaparvaṇām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dinartvayanam āsāṅgaṃ vyākhyānaṃ lagadho 'bravīt // 29"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "somasūryastṛcaritaṃ lokaṃ loke ca sammatim /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "somasūryastṛcaritaṃ vidvān vedavid aśnute // 30"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣuvaṃ tadguṇaṃ dvābhyāṃ rūpahīnaṃ tu ṣaḍguṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yal labdhaṃ tāni parvāṇi tathārdhaṃ sā tithir bhavet // 31"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māghaśuklapravṛttasya pauṣakṛṣnasamāpinaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yugasya pañcavarṣasya kālajñānaṃ pracakṣate // 32"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tṛtīyāṃ navamīṃ caiva paurṇamāsīm athāsite /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṣaṣṭhīṃ ca viṣuvān prokto dvādaśīṃ ca samaṃ bhavet // 33"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturdaśīm upavasathas tathā bhaved yathodito dinam upaiti candramāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māghaśuklāhniko yuṅkte śraviṣṭhāyāṃ ca vārṣikīm // 34"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā śikhā mayūrāṇāṃ nāgānāṃ maṇayo yathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvad vedāṅgaśāstrāṇāṃ jyotiṣaṃ mūrdhani sthitam // 35"
+        }
+      ]
+    }
+  ]
 }

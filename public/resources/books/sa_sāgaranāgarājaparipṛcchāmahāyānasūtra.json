@@ -1,4 +1,87 @@
 {
-  "title": "sa_sāgaranāgarājaparipṛcchāmahāyānasūtra",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Āryasāgaranāgarājaparipṛcchā Nāma Mahāyānasūtram = Sāgara Saṃskṛte</p>\n\n<p>Punaruddhṛtam namaḥ sarvabuddhabodhisattvebhyaḥ /</p>\n\n<p>evaṃ mayā śrutam - ekasmin samaye bhagavān buddhaḥ sāgaranāgarājāvasathe viharati sma sārddhaṃ sārdhadvādaśaśatabhikṣūṇāṃ mahāsaṅghena bahubhiśca bodhisattvamahāsattvaiḥ / tasmin samaye bhagavān buddhaḥ sāgaranāgarājamavocat - nāgādhipate, caturṇāṃ dharmoddānānāmabhidhāne kriyamāṇe tadabhidhānena caturaśītidharmaskandhasahasrāṇāmabhidhānaṃ kṛtaṃ bhavati / katamāni catvāri? tathāhi -</p>\n\n<p>sarveṣāṃ saṃskārāṇām anityatāyāṃ bodhisattvairmahāsattvairnirdiṣṭamakṣayajñānaṃ pravartate /</p>\n\n<p>sarveṣāṃ sāsravāṇāṃ dharmāṇāṃ duḥkhatāyāṃ bodhisattvairmahāsattvairnirdiṣṭamakṣayajñānaṃ pravartate /</p>\n\n<p>sarveṣāṃ dharmāṇām anātmatāyāṃ bodhisattvairmahāsattvairnirdiṣṭamakṣayajñānaṃ pravartate /</p>\n\n<p>nirvāṇasya śāntatāyāṃ bodhisattvairmahāsattvairnirdiṣṭamakṣayajñānaṃ pravartate /</p>\n\n<p>nāgādhipate, eteṣāṃ caturṇāṃ dharmoddānānāmabhidhāne kriyamāṇe tadabhidhānena caturaśītidharmaskandhasahasrāṇāmabhidhānaṃ kṛtaṃ bhavati /</p>\n\n<p>idamavocat bhagavān / āttamanaso bhikṣavaḥ sarve ca bodhisattvā bhagavato bhāṣitamabhyanandanniti /</p>\n\n<p>// āryasāgaranāgarājaparipṛcchānāma mahāyānasūtraṃ samāptam //</p>\n\n  </body>\n\n"
+  "file_title": "sāgaranāgarājaparipṛcchāmahāyānasūtra",
+  "file_title_normal": "sagaranagarajapariprcchamahayanasutra",
+  "metadata": {
+    "original_title": "Sāgaranāgarājaparipṛcchāmahāyānasūtra",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Āryasāgaranāgarājaparipṛcchā Nāma Mahāyānasūtram = Sāgara Saṃskṛte"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Punaruddhṛtam namaḥ sarvabuddhabodhisattvebhyaḥ /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "evaṃ mayā śrutam - ekasmin samaye bhagavān buddhaḥ sāgaranāgarājāvasathe viharati sma sārddhaṃ sārdhadvādaśaśatabhikṣūṇāṃ mahāsaṅghena bahubhiśca bodhisattvamahāsattvaiḥ / tasmin samaye bhagavān buddhaḥ sāgaranāgarājamavocat - nāgādhipate, caturṇāṃ dharmoddānānāmabhidhāne kriyamāṇe tadabhidhānena caturaśītidharmaskandhasahasrāṇāmabhidhānaṃ kṛtaṃ bhavati / katamāni catvāri? tathāhi -"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sarveṣāṃ saṃskārāṇām anityatāyāṃ bodhisattvairmahāsattvairnirdiṣṭamakṣayajñānaṃ pravartate /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sarveṣāṃ sāsravāṇāṃ dharmāṇāṃ duḥkhatāyāṃ bodhisattvairmahāsattvairnirdiṣṭamakṣayajñānaṃ pravartate /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sarveṣāṃ dharmāṇām anātmatāyāṃ bodhisattvairmahāsattvairnirdiṣṭamakṣayajñānaṃ pravartate /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "nirvāṇasya śāntatāyāṃ bodhisattvairmahāsattvairnirdiṣṭamakṣayajñānaṃ pravartate /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "nāgādhipate, eteṣāṃ caturṇāṃ dharmoddānānāmabhidhāne kriyamāṇe tadabhidhānena caturaśītidharmaskandhasahasrāṇāmabhidhānaṃ kṛtaṃ bhavati /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "idamavocat bhagavān / āttamanaso bhikṣavaḥ sarve ca bodhisattvā bhagavato bhāṣitamabhyanandanniti /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// āryasāgaranāgarājaparipṛcchānāma mahāyānasūtraṃ samāptam //"
+    }
+  ]
 }

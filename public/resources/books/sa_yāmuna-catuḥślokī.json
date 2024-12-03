@@ -1,4 +1,210 @@
 {
-  "title": "sa_yāmuna-catuḥślokī",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<lg xml:id='YCs_1'>\n<l>kāntas te puruṣottamaḥ phaṇipatiḥ śayyāsanaṃ vāhanaṃ vedātmā vihageśvaro yavanikā māyā jaganmohinī |</l>\n<l>brahmādisuravrajaḥ sadayitas tvaddāsadāsīgaṇaḥ śrīr ity eva ca nāma te bhagavati ! brūmaḥ kathaṃ tvāṃ vayam ||</l>\n</lg>\n<note type='analysis' corresp='#YCs_1'>\n<lg>\n<l>kāntas te puruṣottamaḥ phaṇi-patiḥ śayyā-āsanaṃ vāhanaṃ veda-ātmā vihaga-īśvaro yavanikā māyā jagan-mohinī |</l>\n<l>brahma-ādi-sura-vrajaḥ sadayitas tvad-dāsa-dāsī-gaṇaḥ śrīr ity eva ca nāma te bhagavati ! brūmaḥ kathaṃ tvāṃ vayam ||</l>\n</lg>\n</note>\n\n<lg xml:id='YCs_2'>\n<l>yasyās te mahimānam ātmana iva tvadvallabho 'pi prabhur nālaṃ mātum iyattayā niravadhiṃ nityānukūlaṃ svataḥ |</l>\n<l>tām tvāṃ dāsa iti, prapanna iti ca stoṣyāmy ahaṃ nirbhayo lokaikeśvari lokanāthadayite dānte dayāṃ te vidan ||</l>\n</lg>\n<note type='analysis' corresp='#YCs_2'>\n<lg>\n<l>yasyās te mahimānam ātmana iva tvad-vallabho 'pi prabhur nālaṃ mātum iyattayā niravadhiṃ nitya-anukūlaṃ svataḥ |</l>\n<l>tām tvāṃ dāsa iti, prapanna iti ca stoṣyāmy ahaṃ nirbhayo loka-eka-īśvari loka-nātha-dayite dānte dayāṃ te vidan ||</l>\n</lg>\n</note>\n\n<lg xml:id='YCs_3'>\n<l>śreyo tvatkaruṇānirīkṣaṇasudhāsandhukṣaṇād rakṣyate naṣṭaṃ prāk tadalābhas tribhuvanaṃ saṃpraty anantodayam |</l>\n<l>śreyo na hy aravindalocanamanaḥkāntāprasādād ṛte saṃsṛtyakṣaravaiṣṇavādhvasu nṛṇāṃ saṃbhāvyate karhicit ||</l>\n</lg>\n<note type='analysis' corresp='#YCs_3'>\n<lg>\n<l>śreyo tvat-karuṇā-nirīkṣaṇa-sudhā-sandhukṣaṇād rakṣyate naṣṭaṃ prāk tad-alābhas tri-bhuvanaṃ saṃpraty ananta-udayam |</l>\n<l>śreyo na hy aravinda-locana-manaḥ-kāntā-prasādād ṛte saṃsṛtya-kṣara-vaiṣṇava-adhvasu nṛṇāṃ saṃbhāvyate karhicit ||</l>\n</lg>\n</note>\n\n<lg xml:id='YCs_4'>\n<l>śāntānantamahāvibhūti paraṃ yad brahma rūpaṃ harer mūrtaṃ brahma tato 'pi tat priyataraṃ rūpaṃ yad atyadbhutam |</l>\n<l>yāny anyāni yathāsukhaṃ viharato rūpāṇi sarvāṇi tāny āhuḥ svair anurūparūpavibhavair gāḍhopagūḍhāni te ||</l>\n</lg>\n<note type='analysis' corresp='#YCs_4'>\n<lg>\n<l>śānta-ananta-mahā-vibhūti paraṃ yad brahma rūpaṃ harer mūrtaṃ brahma tato 'pi tat priyataraṃ rūpaṃ yad atyadbhutam |</l>\n<l>yāny anyāni yathā-sukhaṃ viharato rūpāṇi sarvāṇi tāny āhuḥ svair anurūpa-rūpa-vibhavair gāḍha-upagūḍhāni te ||</l>\n</lg>\n</note>\n\n  </body>\n\n"
+  "file_title": "yāmuna-catuḥślokī",
+  "file_title_normal": "yamuna-catuhsloki",
+  "metadata": {
+    "original_title": "Catuḥślokī",
+    "author": "Yāmuna",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Sadanori Ishitobi",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Sadanori Ishitobi",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "YCs_1"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāntas te puruṣottamaḥ phaṇipatiḥ śayyāsanaṃ vāhanaṃ vedātmā vihageśvaro yavanikā māyā jaganmohinī |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "brahmādisuravrajaḥ sadayitas tvaddāsadāsīgaṇaḥ śrīr ity eva ca nāma te bhagavati ! brūmaḥ kathaṃ tvāṃ vayam ||"
+        }
+      ]
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#YCs_1"
+      },
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāntas te puruṣottamaḥ phaṇi-patiḥ śayyā-āsanaṃ vāhanaṃ veda-ātmā vihaga-īśvaro yavanikā māyā jagan-mohinī |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "brahma-ādi-sura-vrajaḥ sadayitas tvad-dāsa-dāsī-gaṇaḥ śrīr ity eva ca nāma te bhagavati ! brūmaḥ kathaṃ tvāṃ vayam ||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "YCs_2"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yasyās te mahimānam ātmana iva tvadvallabho 'pi prabhur nālaṃ mātum iyattayā niravadhiṃ nityānukūlaṃ svataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tām tvāṃ dāsa iti, prapanna iti ca stoṣyāmy ahaṃ nirbhayo lokaikeśvari lokanāthadayite dānte dayāṃ te vidan ||"
+        }
+      ]
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#YCs_2"
+      },
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yasyās te mahimānam ātmana iva tvad-vallabho 'pi prabhur nālaṃ mātum iyattayā niravadhiṃ nitya-anukūlaṃ svataḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tām tvāṃ dāsa iti, prapanna iti ca stoṣyāmy ahaṃ nirbhayo loka-eka-īśvari loka-nātha-dayite dānte dayāṃ te vidan ||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "YCs_3"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śreyo tvatkaruṇānirīkṣaṇasudhāsandhukṣaṇād rakṣyate naṣṭaṃ prāk tadalābhas tribhuvanaṃ saṃpraty anantodayam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śreyo na hy aravindalocanamanaḥkāntāprasādād ṛte saṃsṛtyakṣaravaiṣṇavādhvasu nṛṇāṃ saṃbhāvyate karhicit ||"
+        }
+      ]
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#YCs_3"
+      },
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śreyo tvat-karuṇā-nirīkṣaṇa-sudhā-sandhukṣaṇād rakṣyate naṣṭaṃ prāk tad-alābhas tri-bhuvanaṃ saṃpraty ananta-udayam |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śreyo na hy aravinda-locana-manaḥ-kāntā-prasādād ṛte saṃsṛtya-kṣara-vaiṣṇava-adhvasu nṛṇāṃ saṃbhāvyate karhicit ||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "YCs_4"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śāntānantamahāvibhūti paraṃ yad brahma rūpaṃ harer mūrtaṃ brahma tato 'pi tat priyataraṃ rūpaṃ yad atyadbhutam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yāny anyāni yathāsukhaṃ viharato rūpāṇi sarvāṇi tāny āhuḥ svair anurūparūpavibhavair gāḍhopagūḍhāni te ||"
+        }
+      ]
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#YCs_4"
+      },
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śānta-ananta-mahā-vibhūti paraṃ yad brahma rūpaṃ harer mūrtaṃ brahma tato 'pi tat priyataraṃ rūpaṃ yad atyadbhutam |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yāny anyāni yathā-sukhaṃ viharato rūpāṇi sarvāṇi tāny āhuḥ svair anurūpa-rūpa-vibhavair gāḍha-upagūḍhāni te ||"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -1,4 +1,1469 @@
 {
-  "title": "sa_davuldeṇa-jñāneśvara-mahāsthavira-yaśodharācarita",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<lg>\n<l>śrī siddhārthaḥ kapilanagare bodhisattvaḥ saputrāṃ</l>\n<l>devīṃ tyaktvā sakalavibhavaṃ cakravartiśriyaṃ ca |</l>\n<l>māsy āṣāḍhe viratamanasā pūrṇimāyāṃ niśīthe</l>\n<l>niścakrāma śramaṇapadabhṛn mokṣam anveṣṭukāmaḥ || Yaśo_1 ||</l>\n</lg>\n\n<lg>\n<l>atha prabhāte śayanāt samutthitā</l>\n<l>sutena sārdhaṃ mahiṣī yaśodharā |</l>\n<l>didṛkṣayā svāmivarasya satvaraṃ</l>\n<l>gatāvidūre śayanīyamandiram || Yaśo_2 ||</l>\n</lg>\n\n<lg>\n<l>yathā pure vañcayituṃ sa me patī</l>\n<l>rahogataḥ kutra cid eva gūḍhavān |</l>\n<l>vicintya saudhe 'ntarabāhiraṃ bhṛśaṃ</l>\n<l>parīkṣyamāṇāpi dadarśa naiva tam || Yaśo_3 ||</l>\n</lg>\n\n<lg>\n<l>dadhāva tasmāt sacivasya mandiraṃ</l>\n<l>gavākṣam udghāṭya drutaṃ drutaṃ śucā |</l>\n<l>kapāṭam āhatya dṛḍhaṃ muhur muhur</l>\n<l>vyarīravac channa bhavan bhavann iti || Yaśo_4 ||</l>\n</lg>\n\n<lg>\n<l>apekṣya kiṃ cit kvaṇam antarād gṛhe</l>\n<l>vyatiṣṭhatālpaṃ pratihārasannidhau |</l>\n<l>vicārabhaṅgāc chvasatī ca pāṇinā</l>\n<l>pratāḍayām āsa kapolayugmakam || Yaśo_5 ||</l>\n</lg>\n\n<lg>\n<l>tato gatā sā nṛpamandurālayaṃ</l>\n<l>turaṅgamaṃ nātra dadarśa kanthakam |</l>\n<l>kuto yayau kiṃ rahasā sa vallabho</l>\n<l>vitarkayantīti babhūva mūrchitā || Yaśo_6 ||</l>\n</lg>\n\n<lg>\n<l>vicintya yat kiṃ cid itas tataḥ śiraś</l>\n<l>cacāla jaghrau ca mukhe sutasya sā |</l>\n<l>bhujātapatreṇa vilocanadvayān</l>\n<l>nyavārayat sā sravadaśruśīkaram || Yaśo_7 ||</l>\n</lg>\n\n<lg>\n<l>aśaknuvantī nitarāṃ samudgamāṃ</l>\n<l>manovyathāṃ soḍhum udagramanyunā |</l>\n<l>patipradattaṃ maṇikaṇṭhabhūṣaṇaṃ</l>\n<l>pravālamālām api kuṇḍaladvayam || Yaśo_8 ||</l>\n</lg>\n\n<lg>\n<l>lalāṭikāṃ hemamayāṅgulīyakaṃ</l>\n<l>hiraṇyasūtreṇa nibaddhamekhalām |</l>\n<l>vimucya śīrṣābharaṇaṃ ca kaṅkaṇe</l>\n<l>sasarja dhig dhig vadatī sasambhramam || Yaśo_9 ||</l>\n</lg>\n\n<lg>\n<l>atītaḍat pādatalena bhūtalaṃ</l>\n<l>jajṛmbha ūrdhvaṃ vicakarṣa mūrdhajam |</l>\n<l>jajalpa vākyaṃ vigatārtham ākulaṃ</l>\n<l>rurāva bhīteva ruroda gadgadam || Yaśo_10 ||</l>\n</lg>\n\n<lg>\n<l>niveśya bālaṃ śayane punaḥ punaḥ</l>\n<l>samutkṣipantī yugapat karadvayam |</l>\n<l>vikampya śīrṣaṃ ca yathā vicetanā</l>\n<l>jughoṣa śaśvāsa papāta vivyathe || Yaśo_11 ||</l>\n</lg>\n\n<lg>\n<l>nipīḍyamānāpi bubhukṣayāniśaṃ</l>\n<l>na bhojanaṃ bhoktum iyeṣa kiṃ cana |</l>\n<l>tṛṣāturā nodakabindum apy asau</l>\n<l>papau ca kāye 'py babhūva vepathuḥ || Yaśo_12 ||</l>\n</lg>\n\n<lg>\n<l>nihanyate dhīsmṛtiśaktidhīratā</l>\n<l>śarīravarṇaṃ balam indriyeṣv api |</l>\n<l>vinaśyate jīvam anukrameṇa ca</l>\n<l>durantateyaṃ priyaviprayogatā || Yaśo_13 ||</l>\n</lg>\n\n<lg>\n<l>niṣadya bhūmyāṃ vinatārdhavigrahā</l>\n<l>śiraś ca pāṇidvayam aṅkamastake |</l>\n<l>niveśya kiṃ cit pariṇamya kaṃdharaṃ</l>\n<l>mamajja cintājaladhāv apāśraye || Yaśo_14 ||</l>\n</lg>\n\n<lg>\n<l>yaśodharāyā avamānanakriyā</l>\n<l>asahya siddhārthakumāra ekakaḥ |</l>\n<l>nivāsam utsṛjya gato nu kānanam</l>\n<l>iti pravādo 'pi bhaved aho mama || Yaśo_15 ||</l>\n</lg>\n\n<lg>\n<l>yad asti kāryaṃ triṣu mandireṣu tac</l>\n<l>cakāra kāryakṣamasevikā yathā |</l>\n<l>gatau sthitau vā śayane ca vipriyaṃ</l>\n<l>kadā canāhaṃ na cakāra kiṃ cana || Yaśo_16 ||</l>\n</lg>\n\n<lg>\n<l>vicintayantī sahasāgatāpadaṃ</l>\n<l>pragamya devāyatanaṃ priyaṃ prati |</l>\n<l>sugandhipuspair api dhūmadīpakair</l>\n<l>apūpujad devagaṇaṃ sagauravam || Yaśo_17 ||</l>\n</lg>\n\n<lg>\n<l>bhujadvayaṃ mūrdhni niveśya śokinī</l>\n<l>vilokya devapratimānanaśriyam |</l>\n<l>praṇamya bhaktyā pariśuddhacetasā</l>\n<l>yayāca devān iti viprayogataḥ || Yaśo_18 ||</l>\n</lg>\n\n<lg>\n<l>trilokasargasthitināśahetavaḥ</l>\n<l>caturmukhaśrīpaticandraśekharāḥ |</l>\n<l>mahānubhāvā jagadīśvarāḥ surāḥ</l>\n<l>suduḥkhitāyai śaraṇaṃ bhavantu me || Yaśo_19 ||</l>\n</lg>\n\n<lg>\n<l>vidhāya yācñām iti devahastayor</l>\n<l>upāyanīkṛtya babandha kārṣikau |</l>\n<l>upāharan miṣṭanavāmbupāyasaṃ</l>\n<l>sitāṃśukaṃ svarṇamayīṃ ca putrikām || Yaśo_20 ||</l>\n</lg>\n\n<lg>\n<l>pramodam āpādayituṃ sureśvarāṃś</l>\n<l>cakāra ghaṇṭāninadaṃ ca bhūsurān |</l>\n<l>ajījapad devagirā ca saṃstavān</l>\n<l>nanāma bhūmāv asakṛt nipatya sā || Yaśo_21 ||</l>\n</lg>\n\n<lg>\n<l>pure vane saṃvasathe 'pi vallabho</l>\n<l>vased dhi kasminn iti divyācakṣuṣā |</l>\n<l>vilokya gehaṃ vinivartayantu taṃ</l>\n<l>divaukasaḥ prārthayataiva sā punaḥ || Yaśo_22 ||</l>\n</lg>\n\n<lg>\n<l>nirīkṣya jihmānimiṣeṇa cakṣuṣā</l>\n<l>nihatya gāḍhaṃ caraṇaṃ bhuvas tale |</l>\n<l>muhur muhur daṃśitakomalādharā</l>\n<l>prakarṣam utkṣipya vikampya tarjanīm || Yaśo_23 ||</l>\n</lg>\n\n<lg>\n<l>are-tvayāryasya gṛhābhiniṣkramaḥ</l>\n<l>śruto na dṛṣṭaḥ vada kiṃ nirākulam |</l>\n<l>iti pratīhārabhaṭaṃ ruṣoccakai</l>\n<l>raveṇa papraccha sabāṣpalocanā || Yaśo_24 ||</l>\n</lg>\n\n<lg>\n<l>bhavān sa ārye nṛpavaṃśaśekharo</l>\n<l>mayā na dṛṣṭaḥ pratihāram āgataḥ |</l>\n<l>varāṅganābhiḥ saha kelikānane</l>\n<l>gate niśīthe 'ramateti me śrutam || Yaśo_25 ||</l>\n</lg>\n\n<lg>\n<l>avītarāgo nanu rājanandano</l>\n<l>vavāñcha tasmān nanu nūtanapriyām |</l>\n<l>mithaḥ sa kāṃ cit pariṇīya nāṭikāṃ</l>\n<l>bahir gato 'ddheti vitarkayāmy aham || Yaśo_26 ||</l>\n</lg>\n\n<lg>\n<l>purā hi mandhātvabhidho mahāyaśāḥ</l>\n<l>sa sārvabhaumo 'pi surāṅganāgaṇe |</l>\n<l>kṛtānurāgo parivarjya mānuṣīṃ</l>\n<l>śriyaṃ prapede nu divaukasāṃ puram || Yaśo_27 ||</l>\n</lg>\n\n<lg>\n<l>mano'bhirāmaṃ surasundarīgaṇaṃ</l>\n<l>vihāya vindhyāvanatāpasāśrame |</l>\n<l>agastipatnīṃ parirabhya tāpasīṃ</l>\n<l>lalāsa rantuṃ niśi pākaśāsanaḥ || Yaśo_28 ||</l>\n</lg>\n\n<lg>\n<l>pratītalaṅkāvijite 'grabhūpatir</l>\n<l>daśānano daṇḍakakānanaṃ gataḥ |</l>\n<l>vigṛhya sītāṃ janakātmajām api</l>\n<l>nijapriyāvad vyadadhāt tadātmasāt || Yaśo_29 ||</l>\n</lg>\n\n<lg>\n<l>maheśvaraś cāpi purā tapaś carann</l>\n<l>umāmahiṣyā saha kalikānane |</l>\n<l>apāsya sātatyasamādhibhāvanaṃ</l>\n<l>vyarīramac cājanayat sutau nanu || Yaśo_30 ||</l>\n</lg>\n\n<lg>\n<l>śucākulāṃ sāntvayituṃ vadhūttamām</l>\n<l>iti pratīhāra uraḥsthale 'ñjalim |</l>\n<l>vidhāya valgudhvaninānukampayā</l>\n<l>natena mūrdhnā vacasā vyajijñapat || Yaśo_31 ||</l>\n</lg>\n\n<lg>\n<l>are-tvam etarhi bhavantam uttamaṃ</l>\n<l>gṛhe bahir vopavane 'pi kutra cit |</l>\n<l>aharmukhe kiṃ niśi vā dadarśitha</l>\n<l>vyapṛcchad itthaṃ nijasevikāṃ ruṣā || Yaśo_32 ||</l>\n</lg>\n\n<lg>\n<l>nidhāya vāmetarajānumaṇḍalaṃ</l>\n<l>kṣitau bhujau cāpi lalāṭamastake |</l>\n<l>natārdhakāyaṃ nijagāda sevikā</l>\n<l>śrutaṃ ca dṛṣṭaṃ na na vedmi kiṃ cana || Yaśo_33 ||</l>\n</lg>\n\n<lg>\n<l>ataḥ-paraṃ harmyam upeyuṣī satī</l>\n<l>pramārjya nisyandajalaṃ vilocane |</l>\n<l>are-kim āryo 'tra samāgato na vā</l>\n<l>vyapṛcchad antaḥpurapālapaṇḍakam || Yaśo_34 ||</l>\n</lg>\n\n<lg>\n<l>praśasyarūpeṇa girā ca valgunā</l>\n<l>śriyā 'pi dhṛtyā tava kakṣam āgatāḥ |</l>\n<l>mahottame sarvajanena mānitā</l>\n<l>bhavanti tasya tritayāḥ priyāṅganāḥ || Yaśo_35 ||</l>\n</lg>\n\n<lg>\n<l>mano'bhirāmā bhavatī ca bhāratī</l>\n<l>tathaiva lakṣmīr iti tāḥ priyāṅganāḥ |</l>\n<l>sadaiva tābhī ramate kumārakaḥ</l>\n<l>kadā cid anyatra mano 'sya no rajet || Yaśo_36 ||</l>\n</lg>\n\n<lg>\n<l>jugupsite satpuruṣair manasvibhiḥ</l>\n<l>sadoṣakāme vimukho nu te patiḥ |</l>\n<l>tato 'sya śuddhāntagatiḥ kadā cana</l>\n<l>śrutā na dṛṣṭā na divā vā niśi || Yaśo_37 ||</l>\n</lg>\n\n<lg>\n<l>tapodhanānāṃ samatām upeyivān</l>\n<l>ratiṃ na kuryāt sa bhavatraye kva cit |</l>\n<l>amedhyagehena same 'varodhane</l>\n<l>kathaṃ vidhatte ratim eṣa te patiḥ || Yaśo_38 ||</l>\n</lg>\n\n<lg>\n<l>asādhyarogāyatane sukhetare</l>\n<l>bubhukṣayā nityanipīḍitodare |</l>\n<l>atarpaṇīye vividhānnapānakaiḥ</l>\n<l>spṛhāṃ na dehe prakaroti paṇḍitaḥ || Yaśo_39 ||</l>\n</lg>\n\n<lg>\n<l>vikīrṇagharmodakavipruṣi tvaci</l>\n<l>vicitravarṇaṃ śamalena saṃskṛte |</l>\n<l>śarīra ālokya jano vinaśyate</l>\n<l>pataṅgavad dīpaśikhojjvalaprabhām || Yaśo_40 ||</l>\n</lg>\n\n<lg>\n<l>tato nṛpāntaḥpurapālakodite</l>\n<l>kṛtāvadhānā vacane yaśodharā |</l>\n<l>divaukasāṃ nandanakānanopamaṃ</l>\n<l>jagāma rājopavanaṃ calātmanā || Yaśo_41 ||</l>\n</lg>\n\n<lg>\n<l>athābhirāmopavanasya rakṣakaḥ</l>\n<l>puraḥ pragamyorasi baddhapāṇinā |</l>\n<l>kimartham ārye 'tra samāgatis tava</l>\n<l>bhavāmi jijñāsur iti nyavedayat || Yaśo_42 ||</l>\n</lg>\n\n<lg>\n<l>sakhe mamāryo rahasāruṇodaye</l>\n<l>samāgato vātra na kiṃ samāgataḥ |</l>\n<l>kim atra dṛṣṭaḥ sa na vā śrutas tvayā</l>\n<l>vicintya samyag vada māṃ yathātatham || Yaśo_43 ||</l>\n</lg>\n\n<lg>\n<l>gataspṛhaḥ pañcasu kāmavastuṣu</l>\n<l>sa āryaputro vijitendriyo bhavet |</l>\n<l>tato 'bhirāmopavanaṃ samāgamo</l>\n<l>na dṛṣṭa ārye na hi vā śruto mayā || Yaśo_44 ||</l>\n</lg>\n\n<lg>\n<l>vidhitsamāno 'bhyudayaṃ jagattraye</l>\n<l>divaukasānām adhigamya yācanam |</l>\n<l>divo 'vatīrṇo nanu puṇyatejasā</l>\n<l>manuṣyajanmany ajaniṣṭa sa prabhuḥ || Yaśo_45 ||</l>\n</lg>\n\n<lg>\n<l>mahāmahe saty asitarṣir īyivān</l>\n<l>divaṃ kim ity asya vimṛśya kāraṇam |</l>\n<l>svamitraśuddhodanabhūpateḥ suto</l>\n<l>'janīti harṣāt tam avekṣituṃ yayau || Yaśo_46 ||</l>\n</lg>\n\n<lg>\n<l>tato 'sitarṣir nṛpasaudham āgataḥ</l>\n<l>kumārakaṃ vīkṣya sapuṇyasampadam |</l>\n<l>atīndriyajñānamayena cakṣuṣā</l>\n<l>parīkṣamāṇo 'sya śarīralakṣaṇam || Yaśo_47 ||</l>\n</lg>\n\n<lg>\n<l>jagāda vākyaṃ śiśur eṣa puṇyavān</l>\n<l>bhaved dhi buddho hatamārabandhanaḥ |</l>\n<l>pratārayet sarvanarāmarāsurān</l>\n<l>apārasaṃsāramahārṇavād iti || Yaśo_48 ||</l>\n</lg>\n\n<lg>\n<l>dvijeṣu pañcasv atha dehalakṣaṇaṃ</l>\n<l>parīkṣya kauṇḍaṇyabudho 'bravīd iti |</l>\n<l>vinaśya tṛṣṇādimalāny ayaṃ śiśur</l>\n<l>anuttaraṃ buddhapadaṃ gamiṣyati || Yaśo_49 ||</l>\n</lg>\n\n<lg>\n<l>tadā prasūtakṣaṇa eva lumbinī-</l>\n<l>vane sa saptāmbujamūrdhny abhivrajan |</l>\n<l>abhītanādaṃ nyanadaj jagattraye</l>\n<l>bhaveyam agras tv iti siṃhapotavat || Yaśo_50 ||</l>\n</lg>\n\n<lg>\n<l>bhramaddvirephaśrutiramyanisvanaḥ</l>\n<l>sugandhinaḥ puṣpaparāgarāśinā |</l>\n<l>taraṃgiṇīśīkaramiśramāruto</l>\n<l>vavau samantād vipine śanaiḥ tadā || Yaśo_51 ||</l>\n</lg>\n\n<lg>\n<l>mahātmanas tasya parārdhyajanmani</l>\n<l>vasuṃdharāyā nidhayaḥ samudgatāḥ |</l>\n<l>dharāṅganā tarhy atimātramoditā</l>\n<l>savismayāṃ siddhim adarśayad bhuvi || Yaśo_52 ||</l>\n</lg>\n\n<lg>\n<l>tataḥ paraṃ lumbinikānanād gṛhaṃ</l>\n<l>vicitrajāmbūnadabimbasaṃnibham |</l>\n<l>kumārakaṃ tau pitarau savatsalau</l>\n<l>sabandhuvargaṃ parivārya ninyatuḥ || Yaśo_53 ||</l>\n</lg>\n\n<lg>\n<l>gurupradiṣṭaṃ vidhivad gurupriyaḥ</l>\n<l>samastavidyāsamayaṃ ca darśanam |</l>\n<l>bhave bhave saṃcitapuṇyatejasā</l>\n<l>samadhyagīṣṭāciram eṣa buddhimā || Yaśo_54 ||</l>\n</lg>\n\n<lg>\n<l>śrutena dhṛtyā navayauvanaśriyam</l>\n<l>upeyuṣo 'syāryasutasya janmanaḥ |</l>\n<l>saha tvayā ṣoḍaśame hi hāyane</l>\n<l>vivāhadīkṣāṃ vidhivac cakāra nu || Yaśo_55 ||</l>\n</lg>\n\n  </body>\n\n"
+  "file_title": "davuldeṇa-jñāneśvara-mahāsthavira-yaśodharācarita",
+  "file_title_normal": "davuldena-jnanesvara-mahasthavira-yasodharacarita",
+  "metadata": {
+    "original_title": "Yaśodharācarita",
+    "author": "Davuldeṇa Jñāneśvara Mahāsthavira",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Bhikkhu Pāsādika and Bhikkhu Tampalawela Dhammaratana: Contemporary Sri Lankan Sanskrit Poetry: The Yaśodharācaritam by Davuldeṇa Jñāneśvara Mahāsthavira. Bulletin d'etudes indienne 21.1 (2003), pp. 47-70."
+  },
+  "body": [
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrī siddhārthaḥ kapilanagare bodhisattvaḥ saputrāṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "devīṃ tyaktvā sakalavibhavaṃ cakravartiśriyaṃ ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māsy āṣāḍhe viratamanasā pūrṇimāyāṃ niśīthe"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niścakrāma śramaṇapadabhṛn mokṣam anveṣṭukāmaḥ || Yaśo_1 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atha prabhāte śayanāt samutthitā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sutena sārdhaṃ mahiṣī yaśodharā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "didṛkṣayā svāmivarasya satvaraṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gatāvidūre śayanīyamandiram || Yaśo_2 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā pure vañcayituṃ sa me patī"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rahogataḥ kutra cid eva gūḍhavān |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vicintya saudhe 'ntarabāhiraṃ bhṛśaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parīkṣyamāṇāpi dadarśa naiva tam || Yaśo_3 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dadhāva tasmāt sacivasya mandiraṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gavākṣam udghāṭya drutaṃ drutaṃ śucā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kapāṭam āhatya dṛḍhaṃ muhur muhur"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyarīravac channa bhavan bhavann iti || Yaśo_4 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apekṣya kiṃ cit kvaṇam antarād gṛhe"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyatiṣṭhatālpaṃ pratihārasannidhau |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vicārabhaṅgāc chvasatī ca pāṇinā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratāḍayām āsa kapolayugmakam || Yaśo_5 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tato gatā sā nṛpamandurālayaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "turaṅgamaṃ nātra dadarśa kanthakam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kuto yayau kiṃ rahasā sa vallabho"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vitarkayantīti babhūva mūrchitā || Yaśo_6 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vicintya yat kiṃ cid itas tataḥ śiraś"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cacāla jaghrau ca mukhe sutasya sā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhujātapatreṇa vilocanadvayān"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nyavārayat sā sravadaśruśīkaram || Yaśo_7 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aśaknuvantī nitarāṃ samudgamāṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "manovyathāṃ soḍhum udagramanyunā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "patipradattaṃ maṇikaṇṭhabhūṣaṇaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pravālamālām api kuṇḍaladvayam || Yaśo_8 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lalāṭikāṃ hemamayāṅgulīyakaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hiraṇyasūtreṇa nibaddhamekhalām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vimucya śīrṣābharaṇaṃ ca kaṅkaṇe"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sasarja dhig dhig vadatī sasambhramam || Yaśo_9 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atītaḍat pādatalena bhūtalaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jajṛmbha ūrdhvaṃ vicakarṣa mūrdhajam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jajalpa vākyaṃ vigatārtham ākulaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rurāva bhīteva ruroda gadgadam || Yaśo_10 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niveśya bālaṃ śayane punaḥ punaḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samutkṣipantī yugapat karadvayam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vikampya śīrṣaṃ ca yathā vicetanā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jughoṣa śaśvāsa papāta vivyathe || Yaśo_11 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nipīḍyamānāpi bubhukṣayāniśaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na bhojanaṃ bhoktum iyeṣa kiṃ cana |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tṛṣāturā nodakabindum apy asau"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "papau ca kāye 'py babhūva vepathuḥ || Yaśo_12 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nihanyate dhīsmṛtiśaktidhīratā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śarīravarṇaṃ balam indriyeṣv api |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vinaśyate jīvam anukrameṇa ca"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "durantateyaṃ priyaviprayogatā || Yaśo_13 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niṣadya bhūmyāṃ vinatārdhavigrahā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śiraś ca pāṇidvayam aṅkamastake |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niveśya kiṃ cit pariṇamya kaṃdharaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mamajja cintājaladhāv apāśraye || Yaśo_14 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yaśodharāyā avamānanakriyā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asahya siddhārthakumāra ekakaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nivāsam utsṛjya gato nu kānanam"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti pravādo 'pi bhaved aho mama || Yaśo_15 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yad asti kāryaṃ triṣu mandireṣu tac"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cakāra kāryakṣamasevikā yathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gatau sthitau vā śayane ca vipriyaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kadā canāhaṃ na cakāra kiṃ cana || Yaśo_16 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vicintayantī sahasāgatāpadaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pragamya devāyatanaṃ priyaṃ prati |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sugandhipuspair api dhūmadīpakair"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apūpujad devagaṇaṃ sagauravam || Yaśo_17 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhujadvayaṃ mūrdhni niveśya śokinī"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vilokya devapratimānanaśriyam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "praṇamya bhaktyā pariśuddhacetasā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yayāca devān iti viprayogataḥ || Yaśo_18 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trilokasargasthitināśahetavaḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturmukhaśrīpaticandraśekharāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahānubhāvā jagadīśvarāḥ surāḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "suduḥkhitāyai śaraṇaṃ bhavantu me || Yaśo_19 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidhāya yācñām iti devahastayor"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upāyanīkṛtya babandha kārṣikau |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upāharan miṣṭanavāmbupāyasaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sitāṃśukaṃ svarṇamayīṃ ca putrikām || Yaśo_20 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pramodam āpādayituṃ sureśvarāṃś"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cakāra ghaṇṭāninadaṃ ca bhūsurān |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ajījapad devagirā ca saṃstavān"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nanāma bhūmāv asakṛt nipatya sā || Yaśo_21 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pure vane saṃvasathe 'pi vallabho"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vased dhi kasminn iti divyācakṣuṣā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vilokya gehaṃ vinivartayantu taṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "divaukasaḥ prārthayataiva sā punaḥ || Yaśo_22 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirīkṣya jihmānimiṣeṇa cakṣuṣā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nihatya gāḍhaṃ caraṇaṃ bhuvas tale |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "muhur muhur daṃśitakomalādharā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prakarṣam utkṣipya vikampya tarjanīm || Yaśo_23 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "are-tvayāryasya gṛhābhiniṣkramaḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śruto na dṛṣṭaḥ vada kiṃ nirākulam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti pratīhārabhaṭaṃ ruṣoccakai"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "raveṇa papraccha sabāṣpalocanā || Yaśo_24 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhavān sa ārye nṛpavaṃśaśekharo"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mayā na dṛṣṭaḥ pratihāram āgataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "varāṅganābhiḥ saha kelikānane"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gate niśīthe 'ramateti me śrutam || Yaśo_25 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avītarāgo nanu rājanandano"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vavāñcha tasmān nanu nūtanapriyām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mithaḥ sa kāṃ cit pariṇīya nāṭikāṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bahir gato 'ddheti vitarkayāmy aham || Yaśo_26 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "purā hi mandhātvabhidho mahāyaśāḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa sārvabhaumo 'pi surāṅganāgaṇe |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtānurāgo parivarjya mānuṣīṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śriyaṃ prapede nu divaukasāṃ puram || Yaśo_27 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mano'bhirāmaṃ surasundarīgaṇaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vihāya vindhyāvanatāpasāśrame |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "agastipatnīṃ parirabhya tāpasīṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lalāsa rantuṃ niśi pākaśāsanaḥ || Yaśo_28 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratītalaṅkāvijite 'grabhūpatir"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "daśānano daṇḍakakānanaṃ gataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vigṛhya sītāṃ janakātmajām api"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nijapriyāvad vyadadhāt tadātmasāt || Yaśo_29 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "maheśvaraś cāpi purā tapaś carann"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "umāmahiṣyā saha kalikānane |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apāsya sātatyasamādhibhāvanaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyarīramac cājanayat sutau nanu || Yaśo_30 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śucākulāṃ sāntvayituṃ vadhūttamām"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti pratīhāra uraḥsthale 'ñjalim |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidhāya valgudhvaninānukampayā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "natena mūrdhnā vacasā vyajijñapat || Yaśo_31 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "are-tvam etarhi bhavantam uttamaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gṛhe bahir vopavane 'pi kutra cit |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aharmukhe kiṃ niśi vā dadarśitha"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyapṛcchad itthaṃ nijasevikāṃ ruṣā || Yaśo_32 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nidhāya vāmetarajānumaṇḍalaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣitau bhujau cāpi lalāṭamastake |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "natārdhakāyaṃ nijagāda sevikā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrutaṃ ca dṛṣṭaṃ na na vedmi kiṃ cana || Yaśo_33 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ataḥ-paraṃ harmyam upeyuṣī satī"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pramārjya nisyandajalaṃ vilocane |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "are-kim āryo 'tra samāgato na vā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyapṛcchad antaḥpurapālapaṇḍakam || Yaśo_34 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "praśasyarūpeṇa girā ca valgunā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śriyā 'pi dhṛtyā tava kakṣam āgatāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahottame sarvajanena mānitā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhavanti tasya tritayāḥ priyāṅganāḥ || Yaśo_35 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mano'bhirāmā bhavatī ca bhāratī"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathaiva lakṣmīr iti tāḥ priyāṅganāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sadaiva tābhī ramate kumārakaḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kadā cid anyatra mano 'sya no rajet || Yaśo_36 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jugupsite satpuruṣair manasvibhiḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sadoṣakāme vimukho nu te patiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tato 'sya śuddhāntagatiḥ kadā cana"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrutā na dṛṣṭā na divā vā niśi || Yaśo_37 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tapodhanānāṃ samatām upeyivān"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ratiṃ na kuryāt sa bhavatraye kva cit |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "amedhyagehena same 'varodhane"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kathaṃ vidhatte ratim eṣa te patiḥ || Yaśo_38 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asādhyarogāyatane sukhetare"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bubhukṣayā nityanipīḍitodare |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atarpaṇīye vividhānnapānakaiḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "spṛhāṃ na dehe prakaroti paṇḍitaḥ || Yaśo_39 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vikīrṇagharmodakavipruṣi tvaci"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vicitravarṇaṃ śamalena saṃskṛte |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śarīra ālokya jano vinaśyate"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pataṅgavad dīpaśikhojjvalaprabhām || Yaśo_40 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tato nṛpāntaḥpurapālakodite"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtāvadhānā vacane yaśodharā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "divaukasāṃ nandanakānanopamaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jagāma rājopavanaṃ calātmanā || Yaśo_41 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "athābhirāmopavanasya rakṣakaḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "puraḥ pragamyorasi baddhapāṇinā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kimartham ārye 'tra samāgatis tava"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhavāmi jijñāsur iti nyavedayat || Yaśo_42 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sakhe mamāryo rahasāruṇodaye"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samāgato vātra na kiṃ samāgataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kim atra dṛṣṭaḥ sa na vā śrutas tvayā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vicintya samyag vada māṃ yathātatham || Yaśo_43 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gataspṛhaḥ pañcasu kāmavastuṣu"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa āryaputro vijitendriyo bhavet |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tato 'bhirāmopavanaṃ samāgamo"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na dṛṣṭa ārye na hi vā śruto mayā || Yaśo_44 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidhitsamāno 'bhyudayaṃ jagattraye"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "divaukasānām adhigamya yācanam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "divo 'vatīrṇo nanu puṇyatejasā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "manuṣyajanmany ajaniṣṭa sa prabhuḥ || Yaśo_45 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahāmahe saty asitarṣir īyivān"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "divaṃ kim ity asya vimṛśya kāraṇam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svamitraśuddhodanabhūpateḥ suto"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "'janīti harṣāt tam avekṣituṃ yayau || Yaśo_46 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tato 'sitarṣir nṛpasaudham āgataḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kumārakaṃ vīkṣya sapuṇyasampadam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atīndriyajñānamayena cakṣuṣā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parīkṣamāṇo 'sya śarīralakṣaṇam || Yaśo_47 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jagāda vākyaṃ śiśur eṣa puṇyavān"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhaved dhi buddho hatamārabandhanaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratārayet sarvanarāmarāsurān"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apārasaṃsāramahārṇavād iti || Yaśo_48 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvijeṣu pañcasv atha dehalakṣaṇaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parīkṣya kauṇḍaṇyabudho 'bravīd iti |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vinaśya tṛṣṇādimalāny ayaṃ śiśur"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anuttaraṃ buddhapadaṃ gamiṣyati || Yaśo_49 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadā prasūtakṣaṇa eva lumbinī-"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vane sa saptāmbujamūrdhny abhivrajan |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhītanādaṃ nyanadaj jagattraye"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhaveyam agras tv iti siṃhapotavat || Yaśo_50 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhramaddvirephaśrutiramyanisvanaḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sugandhinaḥ puṣpaparāgarāśinā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "taraṃgiṇīśīkaramiśramāruto"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vavau samantād vipine śanaiḥ tadā || Yaśo_51 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahātmanas tasya parārdhyajanmani"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vasuṃdharāyā nidhayaḥ samudgatāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharāṅganā tarhy atimātramoditā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "savismayāṃ siddhim adarśayad bhuvi || Yaśo_52 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tataḥ paraṃ lumbinikānanād gṛhaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vicitrajāmbūnadabimbasaṃnibham |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kumārakaṃ tau pitarau savatsalau"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sabandhuvargaṃ parivārya ninyatuḥ || Yaśo_53 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gurupradiṣṭaṃ vidhivad gurupriyaḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samastavidyāsamayaṃ ca darśanam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhave bhave saṃcitapuṇyatejasā"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samadhyagīṣṭāciram eṣa buddhimā || Yaśo_54 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrutena dhṛtyā navayauvanaśriyam"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upeyuṣo 'syāryasutasya janmanaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saha tvayā ṣoḍaśame hi hāyane"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vivāhadīkṣāṃ vidhivac cakāra nu || Yaśo_55 ||"
+        }
+      ]
+    }
+  ]
 }

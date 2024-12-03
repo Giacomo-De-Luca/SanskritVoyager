@@ -1,4 +1,83 @@
 {
-  "title": "sa_caturdharmanirdeśasūtra",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Āryacaturdharmanirdeśasūtram</p>\n\n<p>(pāpaśodhanopāyabhūtaṃ catuḥpratipakṣabalanirdeśasūtram)</p>\n\n<p>(kha)\nsaṃskṛte punaruddhāritam bhāratīyabhāṣāyām - āryacaturdharmanirdeśaṃ nāma mahāyānasutram /</p>\n\n<p>namaḥ sarvabuddhabodhisattvebhyaḥ evaṃ mayā śrutam - ekasmin samaye bhagavān buddhaḥ trāyastriṃśadeveṣu sudharmādevasabhāyāṃ sārddhaṃ pañcānāṃ bhikṣuśatānāṃ mahāsaṃghena, saṃbahulaiḥ maitreyamañjuśryādibodhisattvairmahāsattvairviharatisma / tasmin samaye bhagavān buddhaḥ bodhisattvaṃ mahāsattvaṃ maitreyamuddiśyopadiṣṭavān -</p>\n\n<p>caturbhirmaitreya! dharmaiḥ samanvāgato bodhisattvo mahāsattvaḥ kṛtopacitaṃ pāpamabhibhavati / katamaiścaturbhiḥ? yaduta vidūṣaṇāsamudācāreṇa, pratipakṣasamudācāreṇa, pratyāpattibalena, āśrayabalena ca / tatra vidūṣaṇāsamudācāro 'kuśalaṃ karmādhyācarati, tatraiva tatraiva ca vipratisārabahulo bhavati / tatra pratipakṣasamudācāraḥ kṛtvā 'pyakuśalaṃ karma kuśale karmaṇyatyarthābhiyogaṃ gataḥ / pratyāpattibalaṃ saṃvarasamādānādakaraṇasaṃvaralābhaḥ / tatrāśrayabalaṃ buddhaḥdharmasaṃghaśaraṇagamanamanutsṛṣṭabodhicittatā ca / subalavatsaṃniśrayeṇa na śakyate pāpenābhibhavitum / ebhirmaitreya !caturbhidharmaiḥ samanvāgato bodhisattvo mahāsattvaḥ kṛpopacittaṃ pāpamabhibhavatīti //</p>\n\n<p>bodhisattvairmahāsattvaiḥ sūtramidaṃ sadā paṭhanīyaṃ (vācayitavyaṃ) svādhyāyitavyaṃ cintayitavyaṃ subahulaṃ bhāvayitavyaṃ ca / anena duścaritāni phalaṃ nābhinirvartiṣyante / evaṃ bhagavān upadiṣṭavān / bodhisattvena mahāsattvena maitreyeṇa taiśca bhikṣubhiḥ bodhisattvaiḥ śatakratvādidevaputraiḥ sarvasampannaparimaṇḍalena ca āptamanasā bhagavataḥ pravacanamabhinanditam /</p>\n\n<p>// iti āryacaturdharmanirdeśaṃ nāma mahāyānasūtraṃ samāptam //</p>\n\n<p>bhāratīyopādhyāyasurendrabodhinā mahālocāvā - vandejñānasenena cānūditaṃ vyavasthāpitaṃ ca /</p>\n\n<p>// bhavatu sarvamaṅgalam //</p>\n\n  </body>\n\n"
+  "file_title": "caturdharmanirdeśasūtra",
+  "file_title_normal": "caturdharmanirdesasutra",
+  "metadata": {
+    "original_title": "Caturdharmanirdeśasūtra",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Ngawang Samten and Janardan Pandey in: Dhih Journal, vol. 35, Sarnath: Central Institute of Higher Tibetan Studies, 2003, pp. 45-52."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Āryacaturdharmanirdeśasūtram"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "(pāpaśodhanopāyabhūtaṃ catuḥpratipakṣabalanirdeśasūtram)"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "(kha)\nsaṃskṛte punaruddhāritam bhāratīyabhāṣāyām - āryacaturdharmanirdeśaṃ nāma mahāyānasutram /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "namaḥ sarvabuddhabodhisattvebhyaḥ evaṃ mayā śrutam - ekasmin samaye bhagavān buddhaḥ trāyastriṃśadeveṣu sudharmādevasabhāyāṃ sārddhaṃ pañcānāṃ bhikṣuśatānāṃ mahāsaṃghena, saṃbahulaiḥ maitreyamañjuśryādibodhisattvairmahāsattvairviharatisma / tasmin samaye bhagavān buddhaḥ bodhisattvaṃ mahāsattvaṃ maitreyamuddiśyopadiṣṭavān -"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "caturbhirmaitreya! dharmaiḥ samanvāgato bodhisattvo mahāsattvaḥ kṛtopacitaṃ pāpamabhibhavati / katamaiścaturbhiḥ? yaduta vidūṣaṇāsamudācāreṇa, pratipakṣasamudācāreṇa, pratyāpattibalena, āśrayabalena ca / tatra vidūṣaṇāsamudācāro 'kuśalaṃ karmādhyācarati, tatraiva tatraiva ca vipratisārabahulo bhavati / tatra pratipakṣasamudācāraḥ kṛtvā 'pyakuśalaṃ karma kuśale karmaṇyatyarthābhiyogaṃ gataḥ / pratyāpattibalaṃ saṃvarasamādānādakaraṇasaṃvaralābhaḥ / tatrāśrayabalaṃ buddhaḥdharmasaṃghaśaraṇagamanamanutsṛṣṭabodhicittatā ca / subalavatsaṃniśrayeṇa na śakyate pāpenābhibhavitum / ebhirmaitreya !caturbhidharmaiḥ samanvāgato bodhisattvo mahāsattvaḥ kṛpopacittaṃ pāpamabhibhavatīti //"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "bodhisattvairmahāsattvaiḥ sūtramidaṃ sadā paṭhanīyaṃ (vācayitavyaṃ) svādhyāyitavyaṃ cintayitavyaṃ subahulaṃ bhāvayitavyaṃ ca / anena duścaritāni phalaṃ nābhinirvartiṣyante / evaṃ bhagavān upadiṣṭavān / bodhisattvena mahāsattvena maitreyeṇa taiśca bhikṣubhiḥ bodhisattvaiḥ śatakratvādidevaputraiḥ sarvasampannaparimaṇḍalena ca āptamanasā bhagavataḥ pravacanamabhinanditam /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// iti āryacaturdharmanirdeśaṃ nāma mahāyānasūtraṃ samāptam //"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "bhāratīyopādhyāyasurendrabodhinā mahālocāvā - vandejñānasenena cānūditaṃ vyavasthāpitaṃ ca /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// bhavatu sarvamaṅgalam //"
+    }
+  ]
 }

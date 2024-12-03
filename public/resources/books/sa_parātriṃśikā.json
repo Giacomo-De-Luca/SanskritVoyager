@@ -1,4 +1,616 @@
 {
-  "title": "sa_parātriṃśikā",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>śrīdevy uvāca |</p>\n\n<lg>\n<l>anuttaraṃ kathaṃ deva svataḥ kaulikasiddhidam |</l>\n<l>yena vijñātamātreṇa khecarīsamatāṃ vrajet || 1 ||</l>\n</lg>\n\n<lg>\n<l>etad guhyaṃ mahāguhyaṃ kathayasva mama prabho |</l>\n<l>hṛdayasthā tu yā śaktiḥ kaulinī kulanāyikā || 2 ||</l>\n</lg>\n\n<p>tām me kathaya deveśa yena tṛptiṃ vrajāmy aham |</p>\n\n<p>śrībhairava uvāca |</p>\n\n<l>śṛṇu devi mahābhage uttarasyāpy anuttaram || 3 ||</l>\n\n<lg>\n<l>kathayāmi na saṃdehaḥ sadyaḥ kaulikasiddhidam |</l>\n<l>kauliko 'yaṃ vidhir devi mama hṛdvyomny avasthitaḥ || 4 ||</l>\n</lg>\n\n<lg>\n<l>athādyās tithayaḥ sarve svarā bindvavasānakāḥ |</l>\n<l>tadantaḥ kālayogena somasūryau prakīrtitau || 5 ||</l>\n</lg>\n\n<lg>\n<l>pṛthivyādīni tattvāni puruṣāntāni pañcasu |</l>\n<l>kramāt kādiṣu vargeṣu makārānteṣu suvrate || 6 ||</l>\n</lg>\n\n<lg>\n<l>vāyvagnisalilendrāṇāṃ dhāraṇānāṃ catuṣṭayam |</l>\n<l>tadūrdhve śādivikhyātam purastād brahmapañcakam || 7 ||</l>\n</lg>\n\n<lg>\n<l>amūlā tatkramā jñeyā kṣāntā sṛṣṭir udāhṛtā |</l>\n<l>sarveṣāṃ caiva mantrāṇāṃ vidyānāṃ ca yaśasvini || 8 ||</l>\n</lg>\n\n<lg>\n<l>iyaṃ yoniḥ samākhyātā sarvatantreṣu sarvadā |</l>\n<l>caturdaśayutaṃ bhadre tithīśāntasamanvitam |</l>\n<l>tṛtīyam brahma suśroṇi hṛdayam bhairavātmanaḥ || 9 ||</l>\n</lg>\n\n<lg>\n<l>etan nā yoginījāto nā rudro labhate sphuṭam |</l>\n<l>hṛdayaṃ devadevasya sadyo yogavimokṣadam || 10 ||</l>\n</lg>\n\n<lg>\n<l>asyoccāre kṛte samyaṅ mantramudrāgaṇo mahān |</l>\n<l>sadyaḥ sanmukhatām eti svadehāveśalakṣaṇam || 11 ||</l>\n</lg>\n\n<lg>\n<l>muhūrtaṃ smarate yas tu cumbake nābhimudritaḥ |</l>\n<l>sa badhnāti tadā dehaṃ mantramudrāgaṇaṃ naraḥ || 12 ||</l>\n</lg>\n\n<lg>\n<l>atītānāgatānarthān pṛṣṭo 'sau kathayaty api |</l>\n<l>praharād yad abhipretaṃ devatārūpam uccaran || 13 ||</l>\n</lg>\n\n<lg>\n<l>sakṣāt paśyaty asaṃdigdham ākṛṣṭaṃ rudrasaktibhiḥ |</l>\n<l>praharadvayamātreṇa vyomastho jāyate smaran || 14 ||</l>\n</lg>\n\n<lg>\n<l>trayeṇa mātaraḥ sarvā yogesvaryo mahābalāḥ |</l>\n<l>vīrā vīresvarāḥ siddhā balavān śākinīgaṇaḥ || 15 ||</l>\n</lg>\n\n<lg>\n<l>āgatya samayaṃ dattvā bhairaveṇa pracoditāḥ |</l>\n<l>yacchanti paramāṃ siddhiṃ phalaṃ yad vā samīhitam || 16 ||</l>\n</lg>\n\n<l>anena siddhāḥ setsyanti sādhayanti ca mantriṇaḥ || 17 ||</l>\n\n<lg>\n<l>yatkiṃcid bhairave tantre sarvam asmāt prasidhyati |</l>\n<l>mantravīryasamāveśaprabhāvān na niyantriṇā || 18 ||</l>\n</lg>\n\n<lg>\n<l>adṛṣṭama.ṅdalo 'py evam yaḥ kaścid vetti tattvataḥ |</l>\n<l>sa siddhibhāg bhaven nityaṃ sa yogī sa ca dīkṣītaḥ || 19 ||</l>\n</lg>\n\n<lg>\n<l>anena jñātamātreṇa jñāyate sarvaśaktibhiḥ |</l>\n<l>śākinīkulasāmānyo bhaved yogaṃ vināpi hi || 20 ||</l>\n</lg>\n\n<lg>\n<l>avidhijño vidhānajño jāyate yajanaṃ prati |</l>\n<l>kālāgnim āditaḥ kṛtvā māyāntam brahmadehagam || 21 ||</l>\n</lg>\n\n<lg>\n<l>śivo viśvadyanantāntaḥ paraṃ śaktitrayaṃ matam |</l>\n<l>tadantar varti yatkiṃcic chuddhamārge vyavasthitam || 22 ||</l>\n</lg>\n\n<lg>\n<l>aṇur viśuddham acirād aisvaraṃ jñānam aśnute |</l>\n<l>taccodakaḥ śivo jñeyaḥ sarvajñaḥ parameśvaraḥ || 23 ||</l>\n</lg>\n\n<lg>\n<l>sarvago nirmalaḥ svacchas tṛptaḥ svāyatanaḥ śuciḥ |</l>\n<l>yathā nyagrodhabījasthaḥ śaktirūpo mahādrumaḥ || 24 ||</l>\n</lg>\n\n<lg>\n<l>tathā hṛdayabījasthaṃ jagad etac carācaram |</l>\n<l>evaṃ yo vetti tattvena tasya nirvāṇagāminī || 25 ||</l>\n</lg>\n\n<lg>\n<l>dīkṣā bhavaty asaṃdigdhā tilājyāhutivarjitā |</l>\n<l>mūrdhni vaktre ca hṛdaye guhye murtau tathaiva ca || 26 ||</l>\n</lg>\n\n<lg>\n<l>nyāsaṃ krtvā śikhāṃ baddhvā saptaviṃsatimantritām |</l>\n<l>ekaikena diśāṃ bandhaṃ daśānām api kārayet || 27 ||</l>\n</lg>\n\n<lg>\n<l>tālatrayam purā dattvā saśabdaṃ vighnaśāntaye |</l>\n<l>śikhāsaṃkhyābhijaptena toyenābhyukṣayet tataḥ || 28 ||</l>\n</lg>\n\n<lg>\n<l>puṣpādikaṃ kramāt sarvaṃ liṅgaṃ vā stha.ṅdilaṃ ca vā |</l>\n<l>caturdaśābhijaptena puṣpeṇāsanakalpanā || 29 ||</l>\n</lg>\n\n<lg>\n<l>tatra sṛṣṭiṃ yajed vīraḥ punar evāsanaṃ tataḥ |</l>\n<l>sṛṣṭiṃ tu sampuṭīkṛtya paścād yajanam ārabhet || 30 ||</l>\n</lg>\n\n<lg>\n<l>sarvatattvasusampūrṇām sarvāvayavaśobhitām |</l>\n<l>yajed devīṃ mahābhāgā saptaviṃśatimantritām || 31 ||</l>\n</lg>\n\n<lg>\n<l>tataḥ sugandhipuṣpaiś ca yathāśaktyā samarcayet |</l>\n<l>pūjayet parayā bhaktyā svātmanaṃ ca nivedayet || 32 ||</l>\n</lg>\n\n<lg>\n<l>evaṃ yajanam ākhyātam agnikārye 'py ayaṃ vidhiḥ |</l>\n<l>kṛtapūjāvidhiḥ samyak smaran bījam prasiddhyati || 33 ||</l>\n</lg>\n\n<lg>\n<l>ādyantarahitam bījaṃ vikasat tithimadhyagam |</l>\n<l>hṛtpadmāntargataṃ dhyāyet somāṃśuṃ nityam abhyasyet || 34 ||</l>\n</lg>\n\n<lg>\n<l>yān yān kāmayate kāmāṃs tān tāñ cchīghram avāpnuyāt |</l>\n<l>ajñaḥ pratyakṣatām eti sarvajñatvaṃ na saṃśayaḥ || 35 ||</l>\n</lg>\n\n<lg>\n<l>evaṃ mantraphalāvaptir ity etad rudrayāmalam |</l>\n<l>etad abhyāsataḥ siddhiḥ sarvajñatvam avāpyate || 36 ||</l>\n</lg>\n\n<note>Gandharva-nagaram / DSO Sanskrit Archive</note>\n\n  </body>\n\n"
+  "file_title": "parātriṃśikā",
+  "file_title_normal": "paratrimsika",
+  "metadata": {
+    "original_title": "Parātriṃśikā",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Marino Faliero",
+        "when": "July 1998"
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Marino Faliero",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "śrīdevy uvāca |"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anuttaraṃ kathaṃ deva svataḥ kaulikasiddhidam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yena vijñātamātreṇa khecarīsamatāṃ vrajet || 1 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etad guhyaṃ mahāguhyaṃ kathayasva mama prabho |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hṛdayasthā tu yā śaktiḥ kaulinī kulanāyikā || 2 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "tām me kathaya deveśa yena tṛptiṃ vrajāmy aham |"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "śrībhairava uvāca |"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "śṛṇu devi mahābhage uttarasyāpy anuttaram || 3 ||"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kathayāmi na saṃdehaḥ sadyaḥ kaulikasiddhidam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kauliko 'yaṃ vidhir devi mama hṛdvyomny avasthitaḥ || 4 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "athādyās tithayaḥ sarve svarā bindvavasānakāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadantaḥ kālayogena somasūryau prakīrtitau || 5 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pṛthivyādīni tattvāni puruṣāntāni pañcasu |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kramāt kādiṣu vargeṣu makārānteṣu suvrate || 6 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāyvagnisalilendrāṇāṃ dhāraṇānāṃ catuṣṭayam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadūrdhve śādivikhyātam purastād brahmapañcakam || 7 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "amūlā tatkramā jñeyā kṣāntā sṛṣṭir udāhṛtā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarveṣāṃ caiva mantrāṇāṃ vidyānāṃ ca yaśasvini || 8 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iyaṃ yoniḥ samākhyātā sarvatantreṣu sarvadā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturdaśayutaṃ bhadre tithīśāntasamanvitam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tṛtīyam brahma suśroṇi hṛdayam bhairavātmanaḥ || 9 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etan nā yoginījāto nā rudro labhate sphuṭam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hṛdayaṃ devadevasya sadyo yogavimokṣadam || 10 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asyoccāre kṛte samyaṅ mantramudrāgaṇo mahān |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sadyaḥ sanmukhatām eti svadehāveśalakṣaṇam || 11 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "muhūrtaṃ smarate yas tu cumbake nābhimudritaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa badhnāti tadā dehaṃ mantramudrāgaṇaṃ naraḥ || 12 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atītānāgatānarthān pṛṣṭo 'sau kathayaty api |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "praharād yad abhipretaṃ devatārūpam uccaran || 13 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sakṣāt paśyaty asaṃdigdham ākṛṣṭaṃ rudrasaktibhiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "praharadvayamātreṇa vyomastho jāyate smaran || 14 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trayeṇa mātaraḥ sarvā yogesvaryo mahābalāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vīrā vīresvarāḥ siddhā balavān śākinīgaṇaḥ || 15 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āgatya samayaṃ dattvā bhairaveṇa pracoditāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yacchanti paramāṃ siddhiṃ phalaṃ yad vā samīhitam || 16 ||"
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "anena siddhāḥ setsyanti sādhayanti ca mantriṇaḥ || 17 ||"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yatkiṃcid bhairave tantre sarvam asmāt prasidhyati |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mantravīryasamāveśaprabhāvān na niyantriṇā || 18 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adṛṣṭama.ṅdalo 'py evam yaḥ kaścid vetti tattvataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa siddhibhāg bhaven nityaṃ sa yogī sa ca dīkṣītaḥ || 19 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anena jñātamātreṇa jñāyate sarvaśaktibhiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śākinīkulasāmānyo bhaved yogaṃ vināpi hi || 20 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avidhijño vidhānajño jāyate yajanaṃ prati |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kālāgnim āditaḥ kṛtvā māyāntam brahmadehagam || 21 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śivo viśvadyanantāntaḥ paraṃ śaktitrayaṃ matam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadantar varti yatkiṃcic chuddhamārge vyavasthitam || 22 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṇur viśuddham acirād aisvaraṃ jñānam aśnute |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "taccodakaḥ śivo jñeyaḥ sarvajñaḥ parameśvaraḥ || 23 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvago nirmalaḥ svacchas tṛptaḥ svāyatanaḥ śuciḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā nyagrodhabījasthaḥ śaktirūpo mahādrumaḥ || 24 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā hṛdayabījasthaṃ jagad etac carācaram |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ yo vetti tattvena tasya nirvāṇagāminī || 25 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dīkṣā bhavaty asaṃdigdhā tilājyāhutivarjitā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mūrdhni vaktre ca hṛdaye guhye murtau tathaiva ca || 26 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nyāsaṃ krtvā śikhāṃ baddhvā saptaviṃsatimantritām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekaikena diśāṃ bandhaṃ daśānām api kārayet || 27 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tālatrayam purā dattvā saśabdaṃ vighnaśāntaye |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śikhāsaṃkhyābhijaptena toyenābhyukṣayet tataḥ || 28 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "puṣpādikaṃ kramāt sarvaṃ liṅgaṃ vā stha.ṅdilaṃ ca vā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturdaśābhijaptena puṣpeṇāsanakalpanā || 29 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatra sṛṣṭiṃ yajed vīraḥ punar evāsanaṃ tataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sṛṣṭiṃ tu sampuṭīkṛtya paścād yajanam ārabhet || 30 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvatattvasusampūrṇām sarvāvayavaśobhitām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yajed devīṃ mahābhāgā saptaviṃśatimantritām || 31 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tataḥ sugandhipuṣpaiś ca yathāśaktyā samarcayet |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pūjayet parayā bhaktyā svātmanaṃ ca nivedayet || 32 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ yajanam ākhyātam agnikārye 'py ayaṃ vidhiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtapūjāvidhiḥ samyak smaran bījam prasiddhyati || 33 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādyantarahitam bījaṃ vikasat tithimadhyagam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hṛtpadmāntargataṃ dhyāyet somāṃśuṃ nityam abhyasyet || 34 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yān yān kāmayate kāmāṃs tān tāñ cchīghram avāpnuyāt |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ajñaḥ pratyakṣatām eti sarvajñatvaṃ na saṃśayaḥ || 35 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ mantraphalāvaptir ity etad rudrayāmalam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etad abhyāsataḥ siddhiḥ sarvajñatvam avāpyate || 36 ||"
+        }
+      ]
+    },
+    {
+      "tag": "note",
+      "attributes": {},
+      "text": "Gandharva-nagaram / DSO Sanskrit Archive"
+    }
+  ]
 }

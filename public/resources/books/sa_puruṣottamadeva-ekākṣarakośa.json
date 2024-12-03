@@ -1,4 +1,471 @@
 {
-  "title": "sa_puruṣottamadeva-ekākṣarakośa",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<lg>\n<l>akāro vāsudevaḥ syād ākāraś ca pitāmahaḥ /</l>\n<l>pūjāyām api māṅgalye ākāraḥ parikīrttitaḥ // PEk_1</l>\n</lg>\n<lg>\n<l>ikāro ucyate kāmo lakṣmī rīkāra ucyate /</l>\n<l>ukāraḥ śaṅkaraḥ prokta ūkāraś cāpi rakṣaṇe // PEk_2</l>\n</lg>\n<lg>\n<l>ṛkāro devamātā syād ṝkāro danujaprasūḥ /</l>\n<l>ḷkāro devayoniḥ syāl ḹr mātā sadbhir ucyate // PEk_3</l>\n</lg>\n<lg>\n<l>ekāraḥ kathito viṣṇur aikāraś ca maheśvaraḥ /</l>\n<l>okāras tu bhaved brahmā aukāro rudra ucyate // PEk_4</l>\n</lg>\n<lg>\n<l>aṃ syāc ca paramaṃ brahma aḥ syād devo maheśvaraḥ /</l>\n<l>kaḥ prajāpatir uddiṣṭo ko vāyur iti śabditaḥ // PEk_5</l>\n</lg>\n<lg>\n<l>kaś cātmā ca samākhyātaḥ kaḥ prakāśa udāhṛtaḥ /</l>\n<l>kaṃ śiro jalam ākhyātaṃ kaṃ sukhaṃ ca prakīrtitam // PEk_6</l>\n</lg>\n<lg>\n<l>pṛthivyāṃ kuḥ samākhyātā kutsāyāṃ kuḥ prakīrtitaḥ /</l>\n<l>kham indriyaṃ samākhyātaṃ kham ākāśam udāhṛtam // PEk_7</l>\n</lg>\n<lg>\n<l>khaṃ svarge ca samākhyātaṃ khaṃ sarpe ca prakīrtitaṃ /</l>\n<l>tathā śvabhre ca khaṃ prāhuḥ khaṃ śūnye ca prakīrttitam // PEk_8</l>\n</lg>\n<lg>\n<l>go gaṇapatir uddiṣṭo go gandharvaḥ prakīrttitaḥ /</l>\n<l>gaṃ gītaṃ gā ca gāthā syād gaur dhenur gauḥ sarasvatī // PEk_9</l>\n</lg>\n<lg>\n<l>gaur mātāpi samuddiṣṭā pṛthivyāṃ gauḥ prakīrttitā /</l>\n<l>gho ghaṇṭāyāṃ samākhyātaḥ kiṅkiṇī ghā prakīrttitā // PEk_10</l>\n</lg>\n<lg>\n<l>upamā ghā samākhyātā kusvare ghuḥ prakīrttitaḥ /</l>\n<l>hanane ghā samākhyātā gandhane ghaḥ prakīrttitaḥ // PEk_11</l>\n</lg>\n<lg>\n<l>ṅakāro bhairavaḥ khyāto ṅakāro viṣaye smṛtaḥ /</l>\n<l>cakāraś candramāḥ khyātas taskaraś ca prakīrttitaḥ // PEk_12</l>\n</lg>\n<lg>\n<l>nirmalaṃ chaṃ samākhyātaṃ taraṇī chaḥ prakīrttitaḥ /</l>\n<l>chedane chaḥ samākhyāto vidvadbhiḥ śabdakovidaiḥ // PEk_13</l>\n</lg>\n<lg>\n<l>vegite jaḥ samākhyāto jaghane jaḥ prakīrttitaḥ /</l>\n<l>jetā ca jaḥ samākhyātaḥ prasiddhaiḥ śabdakovidaiḥ // PEk_14</l>\n</lg>\n<lg>\n<l>jhaṃjhāvāte jhakāraḥ syān naṣṭe jhaḥ samudāhṛtaḥ /</l>\n<l>ñakāro gāyane prokto ñakāro ghargharadhvanau // PEk_15</l>\n</lg>\n<lg>\n<l>ṭaṅkāre ṭaḥ pṛthivyāṃ ṭā ṭo dhvanau ca prakīrtitaḥ /</l>\n<l>ṭho maheśvara ākhyātaḥ śūnye ca ṭhaḥ prakīrtitaḥ // PEk_16</l>\n</lg>\n<lg>\n<l>bṛhaddhvanau ca ṭhaḥ proktas tathā candrasya maṇḍale /</l>\n<l>ḍakāraḥ śaṅkaraḥ proktas trāsadhvanyoḥ prakīrtitaḥ // PEk_17</l>\n</lg>\n<lg>\n<l>ḍhakāraḥ kīrtitā ḍhakkā nirguṇe ca dhvanāv api /</l>\n<l>ṇakāraḥ kīrtito jñāne nirṇaye 'pi prakīrtitaḥ // PEk_18</l>\n</lg>\n<lg>\n<l>takāraḥ kathitaś cauraḥ kroḍe pucche prakīrtitaḥ /</l>\n<l>śiloccaye thakāraḥ syāt thakāro bhayarakṣaṇe // PEk_19</l>\n</lg>\n<lg>\n<l>daṃ kalatre samākhyātaṃ do dānacchedadhātuṣu /</l>\n<l>dhaṃ dhane ca dhaneśe dho dhā dhātari nidarśitaḥ // PEk_20</l>\n</lg>\n<lg>\n<l>dhiṣaṇā dhīḥ samākhyātā dhūś ca syād bhāracintayoḥ /</l>\n<l>nakāraḥ sugate bandhe nuḥ stutau ca prakīrtitaḥ // PEk_21</l>\n</lg>\n<lg>\n<l>netā nīś ca samākhyātas taraṇau nauḥ prakīrtitā /</l>\n<l>nakāraḥ saugate buddhau stuto sūrye ca kīrtitaḥ // PEk_22</l>\n</lg>\n<lg>\n<l>naśabdaḥ svāgate bandhau vṛkṣe sūrye ca kīrtitaḥ /</l>\n<l>paḥ kuberaḥ samākhyātaḥ paścime ca prakīrtitaḥ // PEk_23</l>\n</lg>\n<lg>\n<l>pavane paḥ samākhyātaḥ pāḥ pāne pāś ca pātari /</l>\n<l>kaphe vāte phakāraḥ syāt tathāhvāne prakīrtitaḥ // PEk_24</l>\n</lg>\n<lg>\n<l>jhaṃjhāvāte phakāraḥ syād akṣare ca prakīrtitaḥ /</l>\n<l>kope phiś ca samākhyātas tathā niṣphalabhāṣaṇe // PEk_25</l>\n</lg>\n<lg>\n<l>vakṣaḥsthale ca baḥ prokto gadāyāṃ samudāhṛtaḥ /</l>\n<l>nakṣatraṃ bhaṃ budhaiḥ proktaṃ bhramare bhaḥ prakīrtitaḥ // PEk_26</l>\n</lg>\n<lg>\n<l>bhā dīptir api bhūr bhūmir bhīr bhayaṃ kathitā budhaiḥ /</l>\n<l>maḥ śivaś candramā vedhā mā ca lakṣmīḥ prakīrtitā // PEk_27</l>\n</lg>\n\n  </body>\n\n"
+  "file_title": "puruṣottamadeva-ekākṣarakośa",
+  "file_title_normal": "purusottamadeva-ekaksarakosa",
+  "metadata": {
+    "original_title": "Ekākṣarakośa",
+    "author": "Puruṣottamadeva",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Oliver Hellwig",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Oliver Hellwig",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "in: \"Dictionaries of Tantrashastra,\" ed. by Ram Kumar Rai. - Benares: Prachya Prakashan, 1984."
+  },
+  "body": [
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "akāro vāsudevaḥ syād ākāraś ca pitāmahaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pūjāyām api māṅgalye ākāraḥ parikīrttitaḥ // PEk_1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ikāro ucyate kāmo lakṣmī rīkāra ucyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ukāraḥ śaṅkaraḥ prokta ūkāraś cāpi rakṣaṇe // PEk_2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṛkāro devamātā syād ṝkāro danujaprasūḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ḷkāro devayoniḥ syāl ḹr mātā sadbhir ucyate // PEk_3"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekāraḥ kathito viṣṇur aikāraś ca maheśvaraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "okāras tu bhaved brahmā aukāro rudra ucyate // PEk_4"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṃ syāc ca paramaṃ brahma aḥ syād devo maheśvaraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kaḥ prajāpatir uddiṣṭo ko vāyur iti śabditaḥ // PEk_5"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kaś cātmā ca samākhyātaḥ kaḥ prakāśa udāhṛtaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kaṃ śiro jalam ākhyātaṃ kaṃ sukhaṃ ca prakīrtitam // PEk_6"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pṛthivyāṃ kuḥ samākhyātā kutsāyāṃ kuḥ prakīrtitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kham indriyaṃ samākhyātaṃ kham ākāśam udāhṛtam // PEk_7"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "khaṃ svarge ca samākhyātaṃ khaṃ sarpe ca prakīrtitaṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā śvabhre ca khaṃ prāhuḥ khaṃ śūnye ca prakīrttitam // PEk_8"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "go gaṇapatir uddiṣṭo go gandharvaḥ prakīrttitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gaṃ gītaṃ gā ca gāthā syād gaur dhenur gauḥ sarasvatī // PEk_9"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gaur mātāpi samuddiṣṭā pṛthivyāṃ gauḥ prakīrttitā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gho ghaṇṭāyāṃ samākhyātaḥ kiṅkiṇī ghā prakīrttitā // PEk_10"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upamā ghā samākhyātā kusvare ghuḥ prakīrttitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hanane ghā samākhyātā gandhane ghaḥ prakīrttitaḥ // PEk_11"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṅakāro bhairavaḥ khyāto ṅakāro viṣaye smṛtaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cakāraś candramāḥ khyātas taskaraś ca prakīrttitaḥ // PEk_12"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirmalaṃ chaṃ samākhyātaṃ taraṇī chaḥ prakīrttitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "chedane chaḥ samākhyāto vidvadbhiḥ śabdakovidaiḥ // PEk_13"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vegite jaḥ samākhyāto jaghane jaḥ prakīrttitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jetā ca jaḥ samākhyātaḥ prasiddhaiḥ śabdakovidaiḥ // PEk_14"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jhaṃjhāvāte jhakāraḥ syān naṣṭe jhaḥ samudāhṛtaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ñakāro gāyane prokto ñakāro ghargharadhvanau // PEk_15"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṭaṅkāre ṭaḥ pṛthivyāṃ ṭā ṭo dhvanau ca prakīrtitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṭho maheśvara ākhyātaḥ śūnye ca ṭhaḥ prakīrtitaḥ // PEk_16"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bṛhaddhvanau ca ṭhaḥ proktas tathā candrasya maṇḍale /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ḍakāraḥ śaṅkaraḥ proktas trāsadhvanyoḥ prakīrtitaḥ // PEk_17"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ḍhakāraḥ kīrtitā ḍhakkā nirguṇe ca dhvanāv api /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṇakāraḥ kīrtito jñāne nirṇaye 'pi prakīrtitaḥ // PEk_18"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "takāraḥ kathitaś cauraḥ kroḍe pucche prakīrtitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śiloccaye thakāraḥ syāt thakāro bhayarakṣaṇe // PEk_19"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "daṃ kalatre samākhyātaṃ do dānacchedadhātuṣu /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhaṃ dhane ca dhaneśe dho dhā dhātari nidarśitaḥ // PEk_20"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhiṣaṇā dhīḥ samākhyātā dhūś ca syād bhāracintayoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nakāraḥ sugate bandhe nuḥ stutau ca prakīrtitaḥ // PEk_21"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "netā nīś ca samākhyātas taraṇau nauḥ prakīrtitā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nakāraḥ saugate buddhau stuto sūrye ca kīrtitaḥ // PEk_22"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "naśabdaḥ svāgate bandhau vṛkṣe sūrye ca kīrtitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paḥ kuberaḥ samākhyātaḥ paścime ca prakīrtitaḥ // PEk_23"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pavane paḥ samākhyātaḥ pāḥ pāne pāś ca pātari /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kaphe vāte phakāraḥ syāt tathāhvāne prakīrtitaḥ // PEk_24"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jhaṃjhāvāte phakāraḥ syād akṣare ca prakīrtitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kope phiś ca samākhyātas tathā niṣphalabhāṣaṇe // PEk_25"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vakṣaḥsthale ca baḥ prokto gadāyāṃ samudāhṛtaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nakṣatraṃ bhaṃ budhaiḥ proktaṃ bhramare bhaḥ prakīrtitaḥ // PEk_26"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhā dīptir api bhūr bhūmir bhīr bhayaṃ kathitā budhaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "maḥ śivaś candramā vedhā mā ca lakṣmīḥ prakīrtitā // PEk_27"
+        }
+      ]
+    }
+  ]
 }

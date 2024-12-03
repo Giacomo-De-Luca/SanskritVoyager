@@ -43,11 +43,41 @@ export function HomePage() {
   const [ bookTitle, setBookTitle ] = useState<string | null>(null);
 
   // retrieved book text
-  interface BookText {
-    title?: string;
-    body?: string;
+  interface Contributor {
+    role: string;
+    name: string;
+    when: string;
   }
   
+  interface License {
+    text: string;
+    target: string;
+  }
+  
+  interface Metadata {
+    original_title: string;
+    author?: string;
+    contributors?: Contributor[];
+    publisher?: string;
+    license?: License;
+    publication_date?: string;
+    source?: string;
+  }
+  
+  interface TextElement {
+    tag: string;
+    attributes: Record<string, string>;
+    text?: string;
+    children?: TextElement[];
+  }
+  
+  interface BookText {
+    file_title?: string;
+    file_title_normal?: string;
+    metadata?: Metadata;
+    body?: TextElement[];
+  }
+
   const [bookText, setBookText] = useState<BookText>({});
   
   // dictionary selected

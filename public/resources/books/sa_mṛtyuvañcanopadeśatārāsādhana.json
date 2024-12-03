@@ -1,4 +1,304 @@
 {
-  "title": "sa_mṛtyuvañcanopadeśatārāsādhana",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Mṛtyuvañcanopadeśatārāsādhana</p>\n\n<lg>\n<l>utthāya pūrvasaṃdhyāyāṃ bhūpradeśe manohare /</l>\n<l>mṛdvāsanopaviṣṭaḥ san svahṛdi candramaṇḍale // Mvupts_1 //</l>\n</lg>\n\n<lg>\n<l>pañcamasya prathamaṃ tu dvitīyasvarayojitam /</l>\n<l>ardhendubindusaṃyuktaṃ sitaraśmivibhūṣitam // Mvupts_2 //</l>\n</lg>\n\n<lg>\n<l>tasya śuklamayūkhais tu tārām ākṛṣya vyomani /</l>\n<l>dvibhujāṃ sitadehāṃ tu varadotpaladhāriṇīm // Mvupts_3 //</l>\n</lg>\n\n<lg>\n<l>pañcopacārapūjābhiḥ pūjayitvā tu bhaktitaḥ /</l>\n<l>pāpānāṃ deśanāṃ paścāt tataḥ puṇyānumodanam // Mvupts_4 //</l>\n</lg>\n\n<lg>\n<l>tatpariṇāmanāṃ caiva triśaraṇagamanaṃ tathā /</l>\n<l>oṃ śūnyatājñānavajrasvabhāvātmako 'ham iti paṭhet // Mvupts_5 //</l>\n</lg>\n\n<lg>\n<l>iti svaparaśūnyaṃ vai dhyātvā yogī vidhānavit /</l>\n<l>sitāravindamadhyasthacandrabimbāsanopari // Mvupts_6 //</l>\n</lg>\n\n<lg>\n<l>pūrvoktabījaniṣpannāṃ tārādevīṃ manoramām /</l>\n<l>ābaddhavajraparyaṅkāṃ varadotpaladhāriṇīm // Mvupts_7 //</l>\n</lg>\n\n<lg>\n<l>śaraccandrakarākārāṃ pṛṣṭhacandrasamāśritām /</l>\n<l>sarvālaṅkārasampūrṇāṃ ṣoḍaśābdavapuṣmatīm // Mvupts_8 //</l>\n</lg>\n\n<lg>\n<l>sarvasaṃbuddhatatputramātaraṃ kāmarūpadhām /</l>\n<l>dhyātvāryatārāṃ hṛdaye tasyāś cakraṃ sitadyuti // Mvupts_9 //</l>\n</lg>\n\n<lg>\n<l>aṣṭakoṣṭhakam aṣṭābhir akṣaraiḥ paripūritam /</l>\n<l>oṃhāvyañjanamadhyasthasādhyanāmādyanābhikam // Mvupts_10 //</l>\n</lg>\n\n<lg>\n<l>dhyāyād ekāgracittaḥ san ṣaṇ māsān dṛḍhaniścayaḥ /</l>\n<l>japed akhinnacittaḥ san mantram enaṃ daśākṣaram // Mvupts_11 //</l>\n</lg>\n\n<lg>\n<l>oṅkāram ādito dattvā paścāt tāre prayojayet /</l>\n<l>tuttāre syāt ture paścāt svāhāntaṃ sārvakarmikaḥ // Mvupts_12 //</l>\n</lg>\n\n<lg>\n<l>brahmendraviṣṇucandrārkarudradikpālamanmathaiḥ /</l>\n<l>apy akhaṇḍitaromāgro mṛtyuṃ jayati muktavat // Mvupts_13 //</l>\n</lg>\n\n<lg>\n<l>valīpalitadaurbhāgyavyādhidāridryasaṃkṣayaḥ /</l>\n<l>siṃhādyaṣṭamahābhītiduḥkhasaṃdohanāśanam // Mvupts_14 //</l>\n</lg>\n\n<lg>\n<l>ayācitānnapānādiharmyavastrādisaṃgamaḥ /</l>\n<l>khaḍgāñjanapādalepabhadrakumbhādisiddhayaḥ // Mvupts_15 //</l>\n</lg>\n\n<lg>\n<l>kavitā vaktṛtā medhā prajñā caikāntanirmalā /</l>\n<l>anyā ca vāñchitā siddhiś cakrād asmāt prajāyate // Mvupts_16 //</l>\n</lg>\n\n<p>// mṛtyuvañcanopadeśatārāsādhanaṃ samāptam //</p>\n\n  </body>\n\n"
+  "file_title": "mṛtyuvañcanopadeśatārāsādhana",
+  "file_title_normal": "mrtyuvancanopadesatarasadhana",
+  "metadata": {
+    "original_title": "Mṛtyuvañcanopadeśatārāsādhana",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Johannes Schneider",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Johannes Schneider",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Johannes Schneider: Vāgīśvarakīrtis Mṛtyuvañcanopadeśa, eine buddhistische Lehrschrift zur Abwehr des Todes. Wien : Verlag der Österreichischen Akademie der Wissenschaften 2010. (Beiträge zur Kultur- und Geistesgeschichte Asiens ; 66) (Denkschriften der philosophisch-historischen Klasse ; 394) ISBN 978-3-7001-6722-8, p. 235"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Mṛtyuvañcanopadeśatārāsādhana"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utthāya pūrvasaṃdhyāyāṃ bhūpradeśe manohare /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛdvāsanopaviṣṭaḥ san svahṛdi candramaṇḍale // Mvupts_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pañcamasya prathamaṃ tu dvitīyasvarayojitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ardhendubindusaṃyuktaṃ sitaraśmivibhūṣitam // Mvupts_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasya śuklamayūkhais tu tārām ākṛṣya vyomani /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvibhujāṃ sitadehāṃ tu varadotpaladhāriṇīm // Mvupts_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pañcopacārapūjābhiḥ pūjayitvā tu bhaktitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pāpānāṃ deśanāṃ paścāt tataḥ puṇyānumodanam // Mvupts_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatpariṇāmanāṃ caiva triśaraṇagamanaṃ tathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "oṃ śūnyatājñānavajrasvabhāvātmako 'ham iti paṭhet // Mvupts_5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti svaparaśūnyaṃ vai dhyātvā yogī vidhānavit /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sitāravindamadhyasthacandrabimbāsanopari // Mvupts_6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pūrvoktabījaniṣpannāṃ tārādevīṃ manoramām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ābaddhavajraparyaṅkāṃ varadotpaladhāriṇīm // Mvupts_7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śaraccandrakarākārāṃ pṛṣṭhacandrasamāśritām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvālaṅkārasampūrṇāṃ ṣoḍaśābdavapuṣmatīm // Mvupts_8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvasaṃbuddhatatputramātaraṃ kāmarūpadhām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhyātvāryatārāṃ hṛdaye tasyāś cakraṃ sitadyuti // Mvupts_9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṣṭakoṣṭhakam aṣṭābhir akṣaraiḥ paripūritam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "oṃhāvyañjanamadhyasthasādhyanāmādyanābhikam // Mvupts_10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhyāyād ekāgracittaḥ san ṣaṇ māsān dṛḍhaniścayaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "japed akhinnacittaḥ san mantram enaṃ daśākṣaram // Mvupts_11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "oṅkāram ādito dattvā paścāt tāre prayojayet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tuttāre syāt ture paścāt svāhāntaṃ sārvakarmikaḥ // Mvupts_12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "brahmendraviṣṇucandrārkarudradikpālamanmathaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apy akhaṇḍitaromāgro mṛtyuṃ jayati muktavat // Mvupts_13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "valīpalitadaurbhāgyavyādhidāridryasaṃkṣayaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "siṃhādyaṣṭamahābhītiduḥkhasaṃdohanāśanam // Mvupts_14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ayācitānnapānādiharmyavastrādisaṃgamaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "khaḍgāñjanapādalepabhadrakumbhādisiddhayaḥ // Mvupts_15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kavitā vaktṛtā medhā prajñā caikāntanirmalā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anyā ca vāñchitā siddhiś cakrād asmāt prajāyate // Mvupts_16 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// mṛtyuvañcanopadeśatārāsādhanaṃ samāptam //"
+    }
+  ]
 }

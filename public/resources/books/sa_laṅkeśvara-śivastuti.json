@@ -1,4 +1,209 @@
 {
-  "title": "sa_laṅkeśvara-śivastuti",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>śrīlaṅkeśvaraviracitā śivastutiḥ /</p>\n\n<lg>\n<l>gale kalitakālima prakaṭitendu bhālasthale vināṭitajaṭotkaraṃ rucirapāṇipāthoruhe /</l>\n<l>udañcitakapālakaṃ jaghanasīmni saṃdarśitadvipājinamanukṣaṇaṃ kimapi dhāma vandāmahe // LSiv_1 //</l>\n</lg>\n\n<lg>\n<l>vṛṣopariparisphuraddhavaladhāma dhāmaśriyākuberagirigaurimaprabhavagarvanirvāsi tat /</l>\n<l>rucirapunarumākucopacitakuṅkumai rañjitaṃ gajājinavirājitaṃ vṛjinabhaṅgabījaṃ bhaje // LSiv_2 //</l>\n</lg>\n\n<lg>\n<l>uditvaravilocanatrayavisṛtvarajyotiṣā kalākarakalākaravyatikareṇa cāharniśam /</l>\n<l>vikāsitajaṭāṭavīviharaṇotsavaprollasattarāmarataraṅgiṇītaralacūḍamīḍe mṛḍam // LSiv_3 //</l>\n</lg>\n\n<lg>\n<l>vihāya kamalālayāvilasitāni vidyunnaṭīviḍambanapaṭūni me viharaṇaṃ vidhattāṃ manaḥ /</l>\n<l>kapardini kumudvatīramaṇakhaṇḍacūḍāmaṇau kaṭītaṭapaṭībhavatkaraṭicarmaṇi brahmaṇi // LSiv_4 //</l>\n</lg>\n\n<lg>\n<l>bhavadbhavanadehalīvikaṭātuṇḍadaṇḍāhatitruṭanmukuṭakoṭibhirmaghavadādibhirbhūyate /</l>\n<l>vrajema bhavadantikaṃ prakṛtimetya paiśācikīṃ kimityamarasaṃpadaḥ pramathanātha nāthāma he // LSiv_5 //</l>\n</lg>\n\n<lg>\n<l>tvadarcanaparāyaṇapramathakanyakāluṇṭhitaprasūnasaphaladrumaṃ kamapi śailamāśāsmahe /</l>\n<l>alaṃ taṭavitardikāśayitasiddhasīmantinīprakīrṇasumanomanoranameruṇā meruṇā // LSiv_6 //</l>\n</lg>\n\n<lg>\n<l>na jātu hara yātu me viṣayadurvilāsaṃ mano manobhavakathāstu me na ca manorathātithyabhūḥ /</l>\n<l>sphuratsurataraṅgiṇītaṭakuṭīrakoṭau vasannaye śiva devāniśaṃ tava bhavāni pūjāparaḥ // LSiv_7 //</l>\n</lg>\n\n<lg>\n<l>vibhūṣaṇasurāpagāśucitarālavālāvalīvaladbahalasīkaraprakarasekasaṃvardhitā /</l>\n<l>maheśvarasuradrumasphuritasajjaṭāmañjarī namajjanaphalapradā mama nu hanta bhūyādiyam // LSiv_8 //</l>\n</lg>\n\n<lg>\n<l>bahirviṣayasaṃgatipratinivartitākṣāvaleḥ samādhikalitātmanaḥ paśupateraśeṣātmanaḥ /</l>\n<l>śiraḥsurasarittaṭīkuṭilakalpakalpadrumaṃ niśākarakalāmahaṃ vaṭuvimṛṣyamāṇāṃ bhaje // LSiv_9 //</l>\n</lg>\n\n<lg>\n<l>tvadīyasuravāhinīvimalavāridhārāvalajjaṭāgahanagāhinī matiriyaṃ mamākrāmatu /</l>\n<l>upottamasarittaṭīviṭapitāṭavīprollasattapasvipariṣattulāmamalamallikābha prabho // LSiv_10 //</l>\n</lg>\n\n<p>iti śrīlaṅkeśvaraviracitā śivastutiḥ samāptā /</p>\n\n  </body>\n\n"
+  "file_title": "laṅkeśvara-śivastuti",
+  "file_title_normal": "lankesvara-sivastuti",
+  "metadata": {
+    "original_title": "Śivastuti",
+    "author": "Laṅkeśvara",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Dhaval Patel",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Dhaval Patel",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Pdt. Durgaprasad and Kasinath Pandurang Parab, Kavyamala [old, cumulative series], vol. 1, 1886 (3rd ed., 1929), pp. 6-8."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "śrīlaṅkeśvaraviracitā śivastutiḥ /"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gale kalitakālima prakaṭitendu bhālasthale vināṭitajaṭotkaraṃ rucirapāṇipāthoruhe /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "udañcitakapālakaṃ jaghanasīmni saṃdarśitadvipājinamanukṣaṇaṃ kimapi dhāma vandāmahe // LSiv_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vṛṣopariparisphuraddhavaladhāma dhāmaśriyākuberagirigaurimaprabhavagarvanirvāsi tat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rucirapunarumākucopacitakuṅkumai rañjitaṃ gajājinavirājitaṃ vṛjinabhaṅgabījaṃ bhaje // LSiv_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uditvaravilocanatrayavisṛtvarajyotiṣā kalākarakalākaravyatikareṇa cāharniśam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vikāsitajaṭāṭavīviharaṇotsavaprollasattarāmarataraṅgiṇītaralacūḍamīḍe mṛḍam // LSiv_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vihāya kamalālayāvilasitāni vidyunnaṭīviḍambanapaṭūni me viharaṇaṃ vidhattāṃ manaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kapardini kumudvatīramaṇakhaṇḍacūḍāmaṇau kaṭītaṭapaṭībhavatkaraṭicarmaṇi brahmaṇi // LSiv_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhavadbhavanadehalīvikaṭātuṇḍadaṇḍāhatitruṭanmukuṭakoṭibhirmaghavadādibhirbhūyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vrajema bhavadantikaṃ prakṛtimetya paiśācikīṃ kimityamarasaṃpadaḥ pramathanātha nāthāma he // LSiv_5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tvadarcanaparāyaṇapramathakanyakāluṇṭhitaprasūnasaphaladrumaṃ kamapi śailamāśāsmahe /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "alaṃ taṭavitardikāśayitasiddhasīmantinīprakīrṇasumanomanoranameruṇā meruṇā // LSiv_6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na jātu hara yātu me viṣayadurvilāsaṃ mano manobhavakathāstu me na ca manorathātithyabhūḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sphuratsurataraṅgiṇītaṭakuṭīrakoṭau vasannaye śiva devāniśaṃ tava bhavāni pūjāparaḥ // LSiv_7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vibhūṣaṇasurāpagāśucitarālavālāvalīvaladbahalasīkaraprakarasekasaṃvardhitā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "maheśvarasuradrumasphuritasajjaṭāmañjarī namajjanaphalapradā mama nu hanta bhūyādiyam // LSiv_8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bahirviṣayasaṃgatipratinivartitākṣāvaleḥ samādhikalitātmanaḥ paśupateraśeṣātmanaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śiraḥsurasarittaṭīkuṭilakalpakalpadrumaṃ niśākarakalāmahaṃ vaṭuvimṛṣyamāṇāṃ bhaje // LSiv_9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tvadīyasuravāhinīvimalavāridhārāvalajjaṭāgahanagāhinī matiriyaṃ mamākrāmatu /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upottamasarittaṭīviṭapitāṭavīprollasattapasvipariṣattulāmamalamallikābha prabho // LSiv_10 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "iti śrīlaṅkeśvaraviracitā śivastutiḥ samāptā /"
+    }
+  ]
 }

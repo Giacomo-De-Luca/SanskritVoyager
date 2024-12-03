@@ -1,4 +1,1164 @@
 {
-  "title": "sa_jñānayaśas-jātakastava",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n<note>metre: Śārdūlavikrīḍita</note>\n\n<lg xml:id='Js_1'>\n<l><seg type='pāda' n='a'>kvedaṃ dāśabalaṃ guṇair aśabalaṃ caryāvibhutvaṃ vibho</seg> <seg type='pāda' n='b'>janmasyandanikāvivartanajaḍaṃ cetaḥ kva cedaṃ mama</seg> </l>\n<l><seg type='pāda' n='c'>yenāvandhyaphalodayās tvayi bhavanty abhyāhitāḥ pāṃsavas</seg> <seg type='pāda' n='d'>tena stutyanubandhinā mukharatām ālambate bhāratī</seg> //</l>\n</lg>\n\n<lg xml:id='Js_2'>\n<l><seg type='pāda' n='a'>cittālambanalaṅghinaḥ śamadṛśām āveṇikāḥ sadguṇā</seg> <seg type='pāda' n='b'>vācāṃ gocaratāṃ tu yānti kalayā sthūlā hi vo mādṛśām</seg> </l>\n<l><seg type='pāda' n='c'>ratnāny ambunidher upāmbupulineṣv āvir bhavanty arthinām</seg> <seg type='pāda' n='d'>antarbhinnataraṅgadyotarucakajyotsnāni gṛhṇāti kaḥ</seg> //</l>\n</lg>\n\n<lg xml:id='Js_3'>\n<l><seg type='pāda' n='a'>yā vo bodhipathānuyānamahatām utsāhinī karmaṇām</seg> <seg type='pāda' n='b'>āsīl lokahitodaye jina kṛpāviṣyandinī santatiḥ</seg> </l>\n<l><seg type='pāda' n='c'>sānekāpacitaḥ punāti bhagavan saṃkīrtyamānādhunā</seg> <seg type='pāda' n='d'>jñeyābhogavisāriṇo gatamalāḥ prāg eva bodhau guṇāḥ</seg> //</l>\n</lg>\n\n<lg xml:id='Js_4'>\n<l><seg type='pāda' n='a'>uddāmadviradasya rāgavaśino vṛttiṃ puronmādinīm</seg> <seg type='pāda' n='b'>ālokyāvyativartinā praṇihitā bodhau dhiyo yat tvayā</seg> </l>\n<l><seg type='pāda' n='c'>vinyasyanta ivāmarās tvayi ciraṃ dharmābhiṣekaśriyaṃ</seg> <seg type='pāda' n='d'>tenākampitakeśarāntam asṛjan puṣpopahāraṃ divaḥ</seg> //</l>\n</lg>\n\n<lg xml:id='Js_5'>\n<l><seg type='pāda' n='a'>kṣudduḥkhaglapitodarīṃ giridarīrandhrāntarālasthitāṃ</seg> <seg type='pāda' n='b'>dṛṣtvā śāvakaghālanaikarabhasāṃ vyāghrīṃ dayāghrātadhīḥ</seg> </l>\n<l><seg type='pāda' n='c'>yat tvaṃ valkalinīṃ jaṭājanavatīṃ mūrtiṃ samutsṛṣṭavāṃs</seg> <seg type='pāda' n='d'>trāṇaṃ tena bhavān bhavādrivivaravyāvartināṃ dehinām</seg> //</l>\n</lg>\n\n<lg xml:id='Js_6'>\n<l><seg type='pāda' n='a'>yat prāleyasitopalādribahalāṃ mātaṅgatāṃ bibhratā</seg> <seg type='pāda' n='b'>kāntārāntaravartināṃ tanubhṛtām ucchittaye vyāpadām</seg> </l>\n<l><seg type='pāda' n='c'>śailendraṃ pṛthulopalaṃ calayatā muktas tvayātmā taṭān</seg> <seg type='pāda' n='d'>manye matsariṇāṃ nitāntamalinās tena kṣatā vṛttayaḥ</seg> //</l>\n</lg>\n\n<lg xml:id='Js_7'>\n<l><seg type='pāda' n='a'>yal lokāmbaracandracandravapuṣā candraprabhatve tvayā</seg> <seg type='pāda' n='b'>kalmāṣāntaśikhaṃ śikhāmaṇirucā dattaṃ dvijāyārthine</seg> </l>\n<l><seg type='pāda' n='c'>nālāl lūnam ivāravindam asinā vyutkṛttamūlaṃ śiras</seg> <seg type='pāda' n='d'>tenaiṣāṃ jagatāṃ gato 'si gurutām usṇīṣavan mūrdhani</seg> //</l>\n</lg>\n\n<lg xml:id='Js_8'>\n<l><seg type='pāda' n='a'>bālān bālasarojakomalatanūn yat putrakān arthine</seg> <seg type='pāda' n='b'>paryastākṣacalacchikhaṇḍakabhṛto dārāṃs ca bhāvanugān</seg> </l>\n<l><seg type='pāda' n='c'>prādās tvaṃ jina tena nūnam ahhavan mārāṅganānāṃ mukhaṃ</seg> <seg type='pāda' n='d'>saṃkocāñcitapakṣmalocanadalaṃ lajjālasāmantharam</seg> //</l>\n</lg>\n\n<lg xml:id='Js_9'>\n<l><seg type='pāda' n='a'>śayyāsvapnavicāriṇā vanabhuvāṃ bhūtvā purā pakṣiṇā</seg> <seg type='pāda' n='b'>bhinnāśeṣakale jagaty avikale jyāyaḥpathāśaṃsinā</seg> </l>\n<l><seg type='pāda' n='c'>vistāraṃ gamitaṃ vrataṃ vratabhṛtāṃ yan nātha kāpiñjalaṃ</seg> <seg type='pāda' n='d'>tenājñānarujāṃ kirīṭakiraṇacchāyās padaṃ vo gatāḥ</seg> //</l>\n</lg>\n\n<lg xml:id='Js_10'>\n<l><seg type='pāda' n='a'>yat parṇāmbuphalāśinīṃ śaśatanuṃ tvaṃ nātha bibhrat purā</seg> <seg type='pāda' n='b'>tatkālātithaye kṛpāparicayād ātithyam āvedayan</seg> </l>\n<l><seg type='pāda' n='c'>ārūḍhaḥ sphuṭavisphuliṅgam analaṃ tenādhunāpi kṣitāv</seg> <seg type='pāda' n='d'>indor maṇḍalalāñchanaṃ śaśamayaṃ yuṣmadyaśo laksyate</seg> //</l>\n</lg>\n\n<lg xml:id='Js_11'>\n<l><seg type='pāda' n='a'>yat kopāruṇadṛṣṭinā kalabhuvā kṛtvā bhruvor bhaṅginīṃ</seg> <seg type='pāda' n='b'>lekhām ullasitāsinā vidalitapratyaṅgam āśaṅkinā</seg> </l>\n<l><seg type='pāda' n='c'>tvām āsīt kṣaṇam apy avikṣatadhiyaṃ tyaktukṣamā na kṣamā</seg> <seg type='pāda' n='d'>manye tena niraṅkuśāḥ smaraśarāḥ puṅkheṣu bhaṅgaṃ gatāḥ</seg> //</l>\n</lg>\n\n<lg xml:id='Js_12'>\n<l><seg type='pāda' n='a'>yad dveṣī kariṇā cirātatadhanur dantais tvayābhyarcitaḥ</seg> <seg type='pāda' n='b'>ṣaḍdantena satā sitonnatabṛhajjīmūtapuñjatviṣā</seg> </l>\n<l><seg type='pāda' n='c'>kośākarṣaṇavāntabhūrirudhirakṣodāruṇais tena vaḥ</seg> <seg type='pāda' n='d'>pātāle 'pi bhujaṃgamaiḥ ślathaphaṇair adyāpi daṃṣtrārcyate</seg> //</l>\n</lg>\n\n<lg xml:id='Js_13'>\n<l><seg type='pāda' n='a'>saṃrambhāt phaṇināṃ phaṇāhaticalād bhīmormimālād apāṃ</seg> <seg type='pāda' n='b'>patyur yan makaracchaṭāvilulitāt paryastanaukā narāḥ</seg> </l>\n<l><seg type='pāda' n='c'>premṇā kāyamahāplavena bhavatā tīrāntam āpāditās</seg> <seg type='pāda' n='d'>tatkarmātiśayena tena nikhilā lokāḥ kalatrīkrtāḥ</seg> //</l>\n</lg>\n\n<lg xml:id='Js_14'>\n<l><seg type='pāda' n='a'>śailān maṇḍalino vilaṅghya viṣayāṃs toyāvalīmekhalān</seg> <seg type='pāda' n='b'>yac cintāmaṇinā narendra badaradvīpāntarālodarāt</seg> </l>\n<l><seg type='pāda' n='c'>labdhvā pūrṇaphalās tvayā praṇayinām āśāvabandhāḥ kṛtās</seg> <seg type='pāda' n='d'>tvattas tena samudbhavanti viduṣāṃ saddharmaratnāṅkurāḥ</seg> //</l>\n</lg>\n\n<lg xml:id='Js_15'>\n<l><seg type='pāda' n='a'>sāndrābhrāntavitānanīlavapuṣām ojomuṣāṃ rakṣasāṃ</seg> <seg type='pāda' n='b'>khaḍgotkṛttadalair vipāṭitaśirārandhrasravallohitaiḥ</seg> </l>\n<l><seg type='pāda' n='c'>yan māṃsair akṛthāḥ kṣudhāvyupaśamaṃ svair avyapetoṣmabhir</seg> <seg type='pāda' n='d'>yogā janmarudho bhavodbhavatṛṣām ucchedinas tena vaḥ</seg> //</l>\n</lg>\n\n<lg xml:id='Js_16'>\n<l><seg type='pāda' n='a'>śyenottrāsaviśuṣkakampitagalasyotsaṅgasaṃsarpiṇo</seg> <seg type='pāda' n='b'>yan niḥsaṅgaratā śivāya śibinā rājñā satā pakṣiṇaḥ</seg> </l>\n<l><seg type='pāda' n='c'>raktodgārakalaṅkitātulatulām āropitā te tanur</seg> <seg type='pāda' n='d'>māras tena dukūlapakṣmataralaṃ nītas tulālāghavam</seg> //</l>\n</lg>\n\n<lg xml:id='Js_17'>\n<l><seg type='pāda' n='a'>lakṣmīm apy avadhūya vāñchitaphalām ākhaṇḍam ādhvaṃsinīṃ</seg> <seg type='pāda' n='b'>yat tiryakpratisandhibandham adhamaṃ kṛtvā bhavāñ janmanām</seg> </l>\n<l><seg type='pāda' n='c'>cakre marmabhidāṃ rujāṃ svapiśitaiḥ prābandhakīnāṃ śamaṃ</seg> <seg type='pāda' n='d'>tena kleśaviṣacchidāṃ tava dhiyāṃ avyāhatāḥ śaktayaḥ</seg> //</l>\n</lg>\n\n<lg xml:id='Js_18'>\n<l><seg type='pāda' n='a'>yat sandoham iva śriyāḥ phalam iva procchrāyi puṇyaujasāṃ</seg> <seg type='pāda' n='b'>digdhaṃ raktakaṇaiḥ sphuratkuvalayacchāyābhinīlāyitam</seg> </l>\n<l><seg type='pāda' n='c'>utpāṭyākṣatalocanadvayam adād viprāya niścakṣuṣe</seg> <seg type='pāda' n='d'>tenāndhasya tamasvato 'sya jagatas tuṅgaikadīpo bhavān</seg> //</l>\n</lg>\n\n<lg xml:id='Js_19'>\n<l><seg type='pāda' n='a'>ity ātmārthanibandhinedam ṛṣivākyālaṃkṛtaṃ darśitaṃ</seg> <seg type='pāda' n='b'>leśasyāpi na kīrtanaṃ jina kṛtaṃ tvadvarṇarāśer mama</seg> </l>\n<l><seg type='pāda' n='c'>tārābdhānavatāṃ jalaṃ jalapurām ākarṣatā vāridher</seg> <seg type='pāda' n='d'>velānteṣv iva rodhasāṃ jalalavacchedo hi saṃlakṣyate</seg> //</l>\n</lg>\n\n<lg xml:id='Js_20'>\n<l><seg type='pāda' n='a'>tvaccaryātiśayāṃśaleśaracanād yaḥ śreyasām udbhavaḥ</seg> <seg type='pāda' n='b'>sambhāro vipulaprasādavikasadbhaktyācitāṃśasya me</seg> </l>\n<l><seg type='pāda' n='c'>tenātyantaparopakāranirataḥ svārthe 'pi mandādaro</seg> <seg type='pāda' n='d'>bhūyāt sarvavidāṃ parārthaviduṣāṃ yānaikatāno janaḥ</seg> //</l>\n</lg>\n\njātakastava ācāryajñānayaśasaḥ\n\n  </body>\n\n"
+  "file_title": "jñānayaśas-jātakastava",
+  "file_title_normal": "jnanayasas-jatakastava",
+  "metadata": {
+    "original_title": "Jātakastava",
+    "author": "Jñānayaśas",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "D. R. Shackleton Bailey: \"Jātakastava of Jñānayaśas\", in: Friedrich Weller: Asiatica: Festschrift Friedrich Weller, Leipzig 1954, pp. 22-29."
+  },
+  "body": [
+    {
+      "tag": "note",
+      "attributes": {},
+      "text": "metre: Śārdūlavikrīḍita"
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_1"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "kvedaṃ dāśabalaṃ guṇair aśabalaṃ caryāvibhutvaṃ vibho"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "janmasyandanikāvivartanajaḍaṃ cetaḥ kva cedaṃ mama"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "yenāvandhyaphalodayās tvayi bhavanty abhyāhitāḥ pāṃsavas"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "tena stutyanubandhinā mukharatām ālambate bhāratī"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_2"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "cittālambanalaṅghinaḥ śamadṛśām āveṇikāḥ sadguṇā"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "vācāṃ gocaratāṃ tu yānti kalayā sthūlā hi vo mādṛśām"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "ratnāny ambunidher upāmbupulineṣv āvir bhavanty arthinām"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "antarbhinnataraṅgadyotarucakajyotsnāni gṛhṇāti kaḥ"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_3"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "yā vo bodhipathānuyānamahatām utsāhinī karmaṇām"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "āsīl lokahitodaye jina kṛpāviṣyandinī santatiḥ"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "sānekāpacitaḥ punāti bhagavan saṃkīrtyamānādhunā"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "jñeyābhogavisāriṇo gatamalāḥ prāg eva bodhau guṇāḥ"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_4"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "uddāmadviradasya rāgavaśino vṛttiṃ puronmādinīm"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "ālokyāvyativartinā praṇihitā bodhau dhiyo yat tvayā"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "vinyasyanta ivāmarās tvayi ciraṃ dharmābhiṣekaśriyaṃ"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "tenākampitakeśarāntam asṛjan puṣpopahāraṃ divaḥ"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_5"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "kṣudduḥkhaglapitodarīṃ giridarīrandhrāntarālasthitāṃ"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "dṛṣtvā śāvakaghālanaikarabhasāṃ vyāghrīṃ dayāghrātadhīḥ"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "yat tvaṃ valkalinīṃ jaṭājanavatīṃ mūrtiṃ samutsṛṣṭavāṃs"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "trāṇaṃ tena bhavān bhavādrivivaravyāvartināṃ dehinām"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_6"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "yat prāleyasitopalādribahalāṃ mātaṅgatāṃ bibhratā"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "kāntārāntaravartināṃ tanubhṛtām ucchittaye vyāpadām"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "śailendraṃ pṛthulopalaṃ calayatā muktas tvayātmā taṭān"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "manye matsariṇāṃ nitāntamalinās tena kṣatā vṛttayaḥ"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_7"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "yal lokāmbaracandracandravapuṣā candraprabhatve tvayā"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "kalmāṣāntaśikhaṃ śikhāmaṇirucā dattaṃ dvijāyārthine"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "nālāl lūnam ivāravindam asinā vyutkṛttamūlaṃ śiras"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "tenaiṣāṃ jagatāṃ gato 'si gurutām usṇīṣavan mūrdhani"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_8"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "bālān bālasarojakomalatanūn yat putrakān arthine"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "paryastākṣacalacchikhaṇḍakabhṛto dārāṃs ca bhāvanugān"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "prādās tvaṃ jina tena nūnam ahhavan mārāṅganānāṃ mukhaṃ"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "saṃkocāñcitapakṣmalocanadalaṃ lajjālasāmantharam"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_9"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "śayyāsvapnavicāriṇā vanabhuvāṃ bhūtvā purā pakṣiṇā"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "bhinnāśeṣakale jagaty avikale jyāyaḥpathāśaṃsinā"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "vistāraṃ gamitaṃ vrataṃ vratabhṛtāṃ yan nātha kāpiñjalaṃ"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "tenājñānarujāṃ kirīṭakiraṇacchāyās padaṃ vo gatāḥ"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_10"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "yat parṇāmbuphalāśinīṃ śaśatanuṃ tvaṃ nātha bibhrat purā"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "tatkālātithaye kṛpāparicayād ātithyam āvedayan"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "ārūḍhaḥ sphuṭavisphuliṅgam analaṃ tenādhunāpi kṣitāv"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "indor maṇḍalalāñchanaṃ śaśamayaṃ yuṣmadyaśo laksyate"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_11"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "yat kopāruṇadṛṣṭinā kalabhuvā kṛtvā bhruvor bhaṅginīṃ"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "lekhām ullasitāsinā vidalitapratyaṅgam āśaṅkinā"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "tvām āsīt kṣaṇam apy avikṣatadhiyaṃ tyaktukṣamā na kṣamā"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "manye tena niraṅkuśāḥ smaraśarāḥ puṅkheṣu bhaṅgaṃ gatāḥ"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_12"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "yad dveṣī kariṇā cirātatadhanur dantais tvayābhyarcitaḥ"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "ṣaḍdantena satā sitonnatabṛhajjīmūtapuñjatviṣā"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "kośākarṣaṇavāntabhūrirudhirakṣodāruṇais tena vaḥ"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "pātāle 'pi bhujaṃgamaiḥ ślathaphaṇair adyāpi daṃṣtrārcyate"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_13"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "saṃrambhāt phaṇināṃ phaṇāhaticalād bhīmormimālād apāṃ"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "patyur yan makaracchaṭāvilulitāt paryastanaukā narāḥ"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "premṇā kāyamahāplavena bhavatā tīrāntam āpāditās"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "tatkarmātiśayena tena nikhilā lokāḥ kalatrīkrtāḥ"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_14"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "śailān maṇḍalino vilaṅghya viṣayāṃs toyāvalīmekhalān"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "yac cintāmaṇinā narendra badaradvīpāntarālodarāt"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "labdhvā pūrṇaphalās tvayā praṇayinām āśāvabandhāḥ kṛtās"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "tvattas tena samudbhavanti viduṣāṃ saddharmaratnāṅkurāḥ"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_15"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "sāndrābhrāntavitānanīlavapuṣām ojomuṣāṃ rakṣasāṃ"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "khaḍgotkṛttadalair vipāṭitaśirārandhrasravallohitaiḥ"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "yan māṃsair akṛthāḥ kṣudhāvyupaśamaṃ svair avyapetoṣmabhir"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "yogā janmarudho bhavodbhavatṛṣām ucchedinas tena vaḥ"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_16"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "śyenottrāsaviśuṣkakampitagalasyotsaṅgasaṃsarpiṇo"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "yan niḥsaṅgaratā śivāya śibinā rājñā satā pakṣiṇaḥ"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "raktodgārakalaṅkitātulatulām āropitā te tanur"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "māras tena dukūlapakṣmataralaṃ nītas tulālāghavam"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_17"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "lakṣmīm apy avadhūya vāñchitaphalām ākhaṇḍam ādhvaṃsinīṃ"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "yat tiryakpratisandhibandham adhamaṃ kṛtvā bhavāñ janmanām"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "cakre marmabhidāṃ rujāṃ svapiśitaiḥ prābandhakīnāṃ śamaṃ"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "tena kleśaviṣacchidāṃ tava dhiyāṃ avyāhatāḥ śaktayaḥ"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_18"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "yat sandoham iva śriyāḥ phalam iva procchrāyi puṇyaujasāṃ"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "digdhaṃ raktakaṇaiḥ sphuratkuvalayacchāyābhinīlāyitam"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "utpāṭyākṣatalocanadvayam adād viprāya niścakṣuṣe"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "tenāndhasya tamasvato 'sya jagatas tuṅgaikadīpo bhavān"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_19"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "ity ātmārthanibandhinedam ṛṣivākyālaṃkṛtaṃ darśitaṃ"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "leśasyāpi na kīrtanaṃ jina kṛtaṃ tvadvarṇarāśer mama"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "tārābdhānavatāṃ jalaṃ jalapurām ākarṣatā vāridher"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "velānteṣv iva rodhasāṃ jalalavacchedo hi saṃlakṣyate"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "Js_20"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "a"
+              },
+              "text": "tvaccaryātiśayāṃśaleśaracanād yaḥ śreyasām udbhavaḥ"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "b"
+              },
+              "text": "sambhāro vipulaprasādavikasadbhaktyācitāṃśasya me"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "c"
+              },
+              "text": "tenātyantaparopakāranirataḥ svārthe 'pi mandādaro"
+            },
+            {
+              "tag": "seg",
+              "attributes": {
+                "type": "pāda",
+                "n": "d"
+              },
+              "text": "bhūyāt sarvavidāṃ parārthaviduṣāṃ yānaikatāno janaḥ"
+            },
+            {
+              "tag": "text",
+              "text": "//"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

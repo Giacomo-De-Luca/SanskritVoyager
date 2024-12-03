@@ -1,4 +1,1002 @@
 {
-  "title": "sa_nāgārjuna-acintyastava",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<lg>\n<l>pratītyajānāṃ bhāvānāṃ naiḥsvābhāvyaṃ jagāda yaḥ |</l>\n<l>taṃ namāmy asamajñānam acintyam anidarśanam || NagAst_01</l>\n</lg>\n\n<lg>\n<l>yathā tvayā mahāyāne dharmanairātmyam ātmanā |</l>\n<l>viditaṃ deśitaṃ tadvad dhīmadbhyaḥ karuṇāvaśāt || NagAst_02</l>\n</lg>\n\n<lg>\n<l>pratyayebhyaḥ samutpannam anutpannaṃ tvayoditam |</l>\n<l>svabhāvena na taj jātam iti śūnyaṃ prakāśitam || NagAst_03</l>\n</lg>\n\n<lg>\n<l>yadvac chabdaṃ pratītyeha pratiśabdasamudbhavaḥ |</l>\n<l>māyāmarīcivac cāpi tathā bhavasamudbhavaḥ || NagAst_04</l>\n</lg>\n\n<lg>\n<l>māyāmarīcigandharvanagarapratibimbakāḥ |</l>\n<l>yady ajātāḥ saha svapnair na syāt taddarśanādikam || NagAst_05</l>\n</lg>\n\n<lg>\n<l>hetupratyayasaṃbhūtā yathaite kṛtakāḥ smṛtāḥ |</l>\n<l>tadvat pratyayajaṃ viśvaṃ tvayoktaṃ nātha sāṃvṛtam || NagAst_06</l>\n</lg>\n\n<lg>\n<l>asty etat kṛtakaṃ sarvaṃ yat kiṃcid bālalāpanam |</l>\n<l>riktamuṣṭipratīkāśam ayathārthaprakāśitam || NagAst_07</l>\n</lg>\n\n<lg>\n<l>kṛtakaṃ vastu no jātaṃ tadā kiṃ vārtamānikam |</l>\n<l>kasya nāśād atītaṃ syād utpitsuḥ kim apekṣate || NagAst_08</l>\n</lg>\n\n<lg>\n<l>svasmān na jāyate bhāvaḥ parasmān nobhayād api |</l>\n<l>na san nāsan na sadasan kutaḥ kasyodayas tadā || NagAst_09</l>\n</lg>\n\n<lg>\n<l>ajāte na svabhāvo 'sti kutaḥ svasmāt samudbhavaḥ |</l>\n<l>svabhāvābhāvasiddhyaiva parasmād apy asaṃbhavah || NagAst_10</l>\n</lg>\n\n<lg>\n<l>svatve sati paratvaṃ syāt paratve svatvam iṣyate |</l>\n<l>āpekṣikī tayoḥ siddhiḥ pārāvāram ivoditā || NagAst_11</l>\n</lg>\n\n<lg>\n<l>yadā nāpekṣate kiṃ cit kutaḥ kiṃ cit tadā bhavet |</l>\n<l>yadā nāpekṣate dīrghaṃ kuto hrasvādikaṃ tadā || NagAst_12</l>\n</lg>\n\n<lg>\n<l>astitve sati nāstitvaṃ dīrghe hrasvaṃ tathā sati |</l>\n<l>nāstitve sati cāstitvaṃ yat tasmād ubhayaṃ na sat || NagAst_13</l>\n</lg>\n\n<lg>\n<l>ekatvaṃ ca tathānekam atītānāgatādi ca |</l>\n<l>saṃkleśo vyavadānaṃ ca samyaṅmithyā svataḥ kutaḥ || NagAst_14</l>\n</lg>\n\n<lg>\n<l>svata eva hi yo nāsti bhāvaḥ sarvo 'sti kas tadā |</l>\n<l>para ity ucyate yo 'yaṃ na vinā svasvabhāvataḥ || NagAst_15</l>\n</lg>\n\n<lg>\n<l>na svabhāvo 'sti bhāvānāṃ parabhāvo 'sti no yadā |</l>\n<l>bhāvagrahagrahāveśaḥ paratantro 'sti kas tadā || NagAst_16</l>\n</lg>\n\n<lg>\n<l>ādāv eva samaṃ jātāḥ svabhāvena ca nirvṛtāḥ |</l>\n<l>anutpannāś ca tattvena tasmād dharmās tvayoditāḥ || NagAst_17</l>\n</lg>\n\n<lg>\n<l>niḥsvabhāvās tvayā dhīman rūpādyāḥ saṃprakāśitāḥ |</l>\n<l>phenabudbudamāyābhramarīcikadalīsamāḥ || NagAst_18</l>\n</lg>\n\n<lg>\n<l>indriyair upalabdhaṃ yat tat tattvena bhaved yadi |</l>\n<l>jātās tattvavido bālās tattvajñānena kiṃ tadā || NagAst_19</l>\n</lg>\n\n<lg>\n<l>jaḍatvam apramāṇatvam athāvyākṛtatām api |</l>\n<l>viparītaparijñānam indriyānāṃ tvam ūcivān || NagAst_20</l>\n</lg>\n\n<lg>\n<l>ajñānenāvṛto yena yathāvan na prapadyate |</l>\n<l>lokas tena yathābhūtam iti matvā tvayoditam || NagAst_21</l>\n</lg>\n\n<lg>\n<l>astīti śāśvatī dṛṣtir nāstīty ucchedadarśanam |</l>\n<l>tenāntadvayanirmukto dharmo 'yaṃ deśitas tvayā || NagAst_22</l>\n</lg>\n\n<lg>\n<l>catuṣkoṭivinirmuktās tena dharmās tvayoditāḥ |</l>\n<l>vijñānasyāpy avijñeyā vācāṃ kim uta gocarāḥ || NagAst_23</l>\n</lg>\n\n<lg>\n<l>svapnendrajālikodbhūtaṃ dvicandrodvīkṣaṇaṃ yathā |</l>\n<l>bhūtaṃ tadvastu no bhūtaṃ tathā dṛṣṭaṃ jagat tvayā || NagAst_24</l>\n</lg>\n\n<lg>\n<l>utpannaś ca sthito naṣṭaḥ svapne yadvat sutas tathā |</l>\n<l>na cotpannaḥ sthito naṣṭa ukto loko 'rthatas tvayā || NagAst_25</l>\n</lg>\n\n<lg>\n<l>kāraṇāt saṃbhavo dṛṣṭo yathā svapne tathetaraḥ |</l>\n<l>saṃbhavaḥ sarvabhāvānāṃ vibhavo 'pi matas tathā || NagAst_26</l>\n</lg>\n\n<lg>\n<l>rāgādijaṃ yathā duḥkhaṃ saṃkleśasaṃsṛtī tathā |</l>\n<l>saṃbhārapūraṇān muktiḥ svapnavad bhāṣitā tvayā || NagAst_27</l>\n</lg>\n\n<lg>\n<l>jātaṃ tathaiva no jātam āgataṃ gatam ity api |</l>\n<l>baddho muktas tathā jñānī dvayam icchen na tattvavit || NagAst_28</l>\n</lg>\n\n<lg>\n<l>utpattir yasya naivāsti tasya kā nirvṛtir bhavet |</l>\n<l>māyāgajaprakāśatvād ādiśāntatvam arthataḥ || NagAst_29</l>\n</lg>\n\n<lg>\n<l>utpanno 'pi na cotpanno yadvan māyāgajo mataḥ |</l>\n<l>utpannaṃ ca tathā viśvam anutpannaṃ ca tattvataḥ || NagAst_30</l>\n</lg>\n\n<lg>\n<l>ameyair aprameyānāṃ pratyekaṃ nirvṛtiḥ kṛtā |</l>\n<l>lokanāthair hi sattvānāṃ na kaś cin mocitaś ca taiḥ || NagAst_31</l>\n</lg>\n\n<lg>\n<l>te ca sattvāś ca no jātā ye nirvānti na te sphuṭam |</l>\n<l>na kaś cin mocitaḥ kaiś cid iti proktaṃ mahāmune || NagAst_32</l>\n</lg>\n\n<lg>\n<l>māyākārakṛtaṃ yadvad vastuśūnyaṃ tathetarat |</l>\n<l>vastuśūnyaṃ jagat sarvaṃ tvayoktaṃ kārakas tathā || NagAst_33</l>\n</lg>\n\n<lg>\n<l>kārako 'pi kṛto 'nyena kṛtatvaṃ nātivartate |</l>\n<l>atha vā tatkriyākartṛ kārakasya prasajyate || NagAst_34</l>\n</lg>\n\n<lg>\n<l>nāmamātraṃ jagat sarvam ity uccair bhāṣitaṃ tvayā |</l>\n<l>abhidhānāt pṛthagbhūtam abhidheyaṃ na vidyate || NagAst_35</l>\n</lg>\n\n<lg>\n<l>kalpanāmātram ity asmāt sarvadharmāḥ prakāśitāḥ |</l>\n<l>kalpanāpy asatī proktā yayā śūnyaṃ vikalpyate || NagAst_36</l>\n</lg>\n\n<lg>\n<l>bhāvābhāvadvayātītam anatītaṃ ca kutra cit |</l>\n<l>na ca jñānaṃ na ca jñeyaṃ na cāsti na ca nāsti yat || NagAst_37</l>\n</lg>\n\n<lg>\n<l>yan na caikaṃ na cānekaṃ nobhayaṃ na ca nobhayam |</l>\n<l>anālayam athāvyaktam acintyam anidarśanam || NagAst_38</l>\n</lg>\n\n<lg>\n<l>yan nodeti na ca vyeti nocchedi na ca śāśvatam |</l>\n<l>tad ākāśapratīkāśaṃ nākṣarajñānagocaram || NagAst_39</l>\n</lg>\n\n<lg>\n<l>yaḥ pratītyasamutpādaḥ śūnyatā saiva te matā |</l>\n<l>tathāvidhaś ca saddharmas tatsamaś ca tathāgataḥ || NagAst_40</l>\n</lg>\n\n<lg>\n<l>tat tattvaṃ paramārtho 'pi tathatā dravyam iṣyate |</l>\n<l>bhūtaṃ tad avisaṃvādi tadbodhād buddha ucyate || NagAst_41</l>\n</lg>\n\n<lg>\n<l>buddhānāṃ sattvadhātoś ca tenābhinnatvam arthataḥ |</l>\n<l>ātmanaś ca pareṣāṃ ca samatā tena te matā || NagAst_42</l>\n</lg>\n\n<lg>\n<l>bhāvebhyaḥ śūnyatā nānyā na ca bhāvo 'sti tāṃ vinā |</l>\n<l>tasmāt pratītyajā bhāvās tvayā śūnyāḥ prakāśitāḥ || NagAst_43</l>\n</lg>\n\n<lg>\n<l>hetupratyayasaṃbhūtā paratantrā ca saṃvṛtiḥ |</l>\n<l>paratantra iti proktaḥ paramārthas tv akṛtrimaḥ || NagAst_44</l>\n</lg>\n\n<lg>\n<l>svabhāvaḥ prakṛtis tattvaṃ dravyaṃ vastu sad ity api |</l>\n<l>nāsti vai kapito bhāvo paratantras tu vidyate || NagAst_45</l>\n</lg>\n\n<lg>\n<l>astīti kalpite bhāve samāropas tvayoditaḥ |</l>\n<l>nāstīti kṛtakocchedād ucchedaś ca prakāśitaḥ || NagAst_46</l>\n</lg>\n\n<lg>\n<l>tattvajñānena nocchedo na ca śāśvatatā matā |</l>\n<l>vastuśūnyaṃ jagat sarvaṃ marīcipratimaṃ matam || NagAst_47</l>\n</lg>\n\n<lg>\n<l>mṛgatṛṣṇājalaṃ yadvan nocchedi na ca śāśvatam |</l>\n<l>tadvat sarvaṃ jagat proktaṃ nocchedi na ca śāśvatam || NagAst_48</l>\n</lg>\n\n<lg>\n<l>dravyam utpadyate yasya tasyocchedādikaṃ bhavet |</l>\n<l>antavān nāntavāṃś cāpi lokas tasya prasajyate || NagAst_49</l>\n</lg>\n\n<lg>\n<l>jñāne sati yathā jñeyaṃ jñeye jñānaṃ tathā sati |</l>\n<l>yatrobhayam anutpannam iti buddhaṃ tadāsti kim || NagAst_50</l>\n</lg>\n\n<lg>\n<l>iti māyādidṛṣtāntaiḥ sphuṭam uktvā bhiṣagvaraḥ |</l>\n<l>deśayām āsa saddharmaṃ sarvadṛṣṭicikitsakam || NagAst_51</l>\n</lg>\n\n<lg>\n<l>etat tat paramaṃ tattvaṃ niḥsvabhāvārthadeśanā |</l>\n<l>bhāvagrahagṛhītānāṃ cikitseyam anuttarā || NagAst_52</l>\n</lg>\n\n<lg>\n<l>dharmayājñika tenaiva dharmayajño niruttaraḥ |</l>\n<l>abhīkṣṇam iṣṭas trailokye niṣkapāṭo nirargalaḥ || NagAst_53</l>\n</lg>\n\n<lg>\n<l>vastugrāhabhayocchedī kutīrthyamṛgabhīkaraḥ |</l>\n<l>nairātmyasiṃhanādo 'yam adbhuto naditas tvayā || NagAst_54</l>\n</lg>\n\n<lg>\n<l>śūnyatādharmagambhīrā dharmabherī parāhatā |</l>\n<l>naiḥsvābhāvyamahānādo dharmaśaṅkhaḥ prapūritaḥ || NagAst_55</l>\n</lg>\n\n<lg>\n<l>dharmayautukam ākhyātaṃ buddhānāṃ śāsanāmṛtam |</l>\n<l>nītārtham iti nirdiṣṭaṃ dharmāṇāṃ śūnyataiva hi || NagAst_56</l>\n</lg>\n\n<lg>\n<l>yā tūtpādanirodhādisattvajīvādideśanā |</l>\n<l>neyārthā ca tvayā nātha bhāṣitā saṃvṛtiś ca sā || NagAst_57</l>\n</lg>\n\n<lg>\n<l>prajñāpāramitāmbhodher yo 'tyantam pāram āgataḥ |</l>\n<l>sa puṇyaguṇaratnāḍhyas tvadguṇārṇavapāragaḥ || NagAst_58</l>\n</lg>\n\n<lg>\n<l>iti stutvā jagannātham acintyam anidarśanam |</l>\n<l>yad avāptaṃ mayā puṇyaṃ tenāstu tvatsamaṃ jagat || NagAst_59</l>\n</lg>\n\n<p>|| ity acintyastavaḥ samāptaḥ ||</p>\n\n<p>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</p>\n\n<p>Copyright (C) 2003 by Chr. Lindtner - Denmark</p>\n\n<p>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</p>\n\n  </body>\n\n"
+  "file_title": "nāgārjuna-acintyastava",
+  "file_title_normal": "nagarjuna-acintyastava",
+  "metadata": {
+    "original_title": "Acintyastava",
+    "author": "Nāgārjuna",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Richard Mahoney",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Richard Mahoney",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratītyajānāṃ bhāvānāṃ naiḥsvābhāvyaṃ jagāda yaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "taṃ namāmy asamajñānam acintyam anidarśanam || NagAst_01"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā tvayā mahāyāne dharmanairātmyam ātmanā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viditaṃ deśitaṃ tadvad dhīmadbhyaḥ karuṇāvaśāt || NagAst_02"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyayebhyaḥ samutpannam anutpannaṃ tvayoditam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svabhāvena na taj jātam iti śūnyaṃ prakāśitam || NagAst_03"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadvac chabdaṃ pratītyeha pratiśabdasamudbhavaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyāmarīcivac cāpi tathā bhavasamudbhavaḥ || NagAst_04"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyāmarīcigandharvanagarapratibimbakāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yady ajātāḥ saha svapnair na syāt taddarśanādikam || NagAst_05"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hetupratyayasaṃbhūtā yathaite kṛtakāḥ smṛtāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvat pratyayajaṃ viśvaṃ tvayoktaṃ nātha sāṃvṛtam || NagAst_06"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asty etat kṛtakaṃ sarvaṃ yat kiṃcid bālalāpanam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "riktamuṣṭipratīkāśam ayathārthaprakāśitam || NagAst_07"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtakaṃ vastu no jātaṃ tadā kiṃ vārtamānikam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kasya nāśād atītaṃ syād utpitsuḥ kim apekṣate || NagAst_08"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svasmān na jāyate bhāvaḥ parasmān nobhayād api |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na san nāsan na sadasan kutaḥ kasyodayas tadā || NagAst_09"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ajāte na svabhāvo 'sti kutaḥ svasmāt samudbhavaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svabhāvābhāvasiddhyaiva parasmād apy asaṃbhavah || NagAst_10"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svatve sati paratvaṃ syāt paratve svatvam iṣyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āpekṣikī tayoḥ siddhiḥ pārāvāram ivoditā || NagAst_11"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadā nāpekṣate kiṃ cit kutaḥ kiṃ cit tadā bhavet |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadā nāpekṣate dīrghaṃ kuto hrasvādikaṃ tadā || NagAst_12"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "astitve sati nāstitvaṃ dīrghe hrasvaṃ tathā sati |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāstitve sati cāstitvaṃ yat tasmād ubhayaṃ na sat || NagAst_13"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekatvaṃ ca tathānekam atītānāgatādi ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃkleśo vyavadānaṃ ca samyaṅmithyā svataḥ kutaḥ || NagAst_14"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svata eva hi yo nāsti bhāvaḥ sarvo 'sti kas tadā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "para ity ucyate yo 'yaṃ na vinā svasvabhāvataḥ || NagAst_15"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na svabhāvo 'sti bhāvānāṃ parabhāvo 'sti no yadā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvagrahagrahāveśaḥ paratantro 'sti kas tadā || NagAst_16"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādāv eva samaṃ jātāḥ svabhāvena ca nirvṛtāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anutpannāś ca tattvena tasmād dharmās tvayoditāḥ || NagAst_17"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niḥsvabhāvās tvayā dhīman rūpādyāḥ saṃprakāśitāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "phenabudbudamāyābhramarīcikadalīsamāḥ || NagAst_18"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "indriyair upalabdhaṃ yat tat tattvena bhaved yadi |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jātās tattvavido bālās tattvajñānena kiṃ tadā || NagAst_19"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jaḍatvam apramāṇatvam athāvyākṛtatām api |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viparītaparijñānam indriyānāṃ tvam ūcivān || NagAst_20"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ajñānenāvṛto yena yathāvan na prapadyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lokas tena yathābhūtam iti matvā tvayoditam || NagAst_21"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "astīti śāśvatī dṛṣtir nāstīty ucchedadarśanam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tenāntadvayanirmukto dharmo 'yaṃ deśitas tvayā || NagAst_22"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "catuṣkoṭivinirmuktās tena dharmās tvayoditāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñānasyāpy avijñeyā vācāṃ kim uta gocarāḥ || NagAst_23"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svapnendrajālikodbhūtaṃ dvicandrodvīkṣaṇaṃ yathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūtaṃ tadvastu no bhūtaṃ tathā dṛṣṭaṃ jagat tvayā || NagAst_24"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utpannaś ca sthito naṣṭaḥ svapne yadvat sutas tathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na cotpannaḥ sthito naṣṭa ukto loko 'rthatas tvayā || NagAst_25"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇāt saṃbhavo dṛṣṭo yathā svapne tathetaraḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃbhavaḥ sarvabhāvānāṃ vibhavo 'pi matas tathā || NagAst_26"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rāgādijaṃ yathā duḥkhaṃ saṃkleśasaṃsṛtī tathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃbhārapūraṇān muktiḥ svapnavad bhāṣitā tvayā || NagAst_27"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jātaṃ tathaiva no jātam āgataṃ gatam ity api |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "baddho muktas tathā jñānī dvayam icchen na tattvavit || NagAst_28"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utpattir yasya naivāsti tasya kā nirvṛtir bhavet |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyāgajaprakāśatvād ādiśāntatvam arthataḥ || NagAst_29"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utpanno 'pi na cotpanno yadvan māyāgajo mataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utpannaṃ ca tathā viśvam anutpannaṃ ca tattvataḥ || NagAst_30"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ameyair aprameyānāṃ pratyekaṃ nirvṛtiḥ kṛtā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lokanāthair hi sattvānāṃ na kaś cin mocitaś ca taiḥ || NagAst_31"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "te ca sattvāś ca no jātā ye nirvānti na te sphuṭam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na kaś cin mocitaḥ kaiś cid iti proktaṃ mahāmune || NagAst_32"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyākārakṛtaṃ yadvad vastuśūnyaṃ tathetarat |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vastuśūnyaṃ jagat sarvaṃ tvayoktaṃ kārakas tathā || NagAst_33"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kārako 'pi kṛto 'nyena kṛtatvaṃ nātivartate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atha vā tatkriyākartṛ kārakasya prasajyate || NagAst_34"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāmamātraṃ jagat sarvam ity uccair bhāṣitaṃ tvayā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhidhānāt pṛthagbhūtam abhidheyaṃ na vidyate || NagAst_35"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalpanāmātram ity asmāt sarvadharmāḥ prakāśitāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalpanāpy asatī proktā yayā śūnyaṃ vikalpyate || NagAst_36"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvābhāvadvayātītam anatītaṃ ca kutra cit |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na ca jñānaṃ na ca jñeyaṃ na cāsti na ca nāsti yat || NagAst_37"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yan na caikaṃ na cānekaṃ nobhayaṃ na ca nobhayam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anālayam athāvyaktam acintyam anidarśanam || NagAst_38"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yan nodeti na ca vyeti nocchedi na ca śāśvatam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tad ākāśapratīkāśaṃ nākṣarajñānagocaram || NagAst_39"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yaḥ pratītyasamutpādaḥ śūnyatā saiva te matā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathāvidhaś ca saddharmas tatsamaś ca tathāgataḥ || NagAst_40"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tat tattvaṃ paramārtho 'pi tathatā dravyam iṣyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūtaṃ tad avisaṃvādi tadbodhād buddha ucyate || NagAst_41"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhānāṃ sattvadhātoś ca tenābhinnatvam arthataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmanaś ca pareṣāṃ ca samatā tena te matā || NagAst_42"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvebhyaḥ śūnyatā nānyā na ca bhāvo 'sti tāṃ vinā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmāt pratītyajā bhāvās tvayā śūnyāḥ prakāśitāḥ || NagAst_43"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hetupratyayasaṃbhūtā paratantrā ca saṃvṛtiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paratantra iti proktaḥ paramārthas tv akṛtrimaḥ || NagAst_44"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svabhāvaḥ prakṛtis tattvaṃ dravyaṃ vastu sad ity api |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāsti vai kapito bhāvo paratantras tu vidyate || NagAst_45"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "astīti kalpite bhāve samāropas tvayoditaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāstīti kṛtakocchedād ucchedaś ca prakāśitaḥ || NagAst_46"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tattvajñānena nocchedo na ca śāśvatatā matā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vastuśūnyaṃ jagat sarvaṃ marīcipratimaṃ matam || NagAst_47"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛgatṛṣṇājalaṃ yadvan nocchedi na ca śāśvatam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvat sarvaṃ jagat proktaṃ nocchedi na ca śāśvatam || NagAst_48"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyam utpadyate yasya tasyocchedādikaṃ bhavet |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "antavān nāntavāṃś cāpi lokas tasya prasajyate || NagAst_49"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñāne sati yathā jñeyaṃ jñeye jñānaṃ tathā sati |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yatrobhayam anutpannam iti buddhaṃ tadāsti kim || NagAst_50"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti māyādidṛṣtāntaiḥ sphuṭam uktvā bhiṣagvaraḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "deśayām āsa saddharmaṃ sarvadṛṣṭicikitsakam || NagAst_51"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etat tat paramaṃ tattvaṃ niḥsvabhāvārthadeśanā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvagrahagṛhītānāṃ cikitseyam anuttarā || NagAst_52"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmayājñika tenaiva dharmayajño niruttaraḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhīkṣṇam iṣṭas trailokye niṣkapāṭo nirargalaḥ || NagAst_53"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vastugrāhabhayocchedī kutīrthyamṛgabhīkaraḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nairātmyasiṃhanādo 'yam adbhuto naditas tvayā || NagAst_54"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyatādharmagambhīrā dharmabherī parāhatā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "naiḥsvābhāvyamahānādo dharmaśaṅkhaḥ prapūritaḥ || NagAst_55"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmayautukam ākhyātaṃ buddhānāṃ śāsanāmṛtam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nītārtham iti nirdiṣṭaṃ dharmāṇāṃ śūnyataiva hi || NagAst_56"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yā tūtpādanirodhādisattvajīvādideśanā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "neyārthā ca tvayā nātha bhāṣitā saṃvṛtiś ca sā || NagAst_57"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāpāramitāmbhodher yo 'tyantam pāram āgataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa puṇyaguṇaratnāḍhyas tvadguṇārṇavapāragaḥ || NagAst_58"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti stutvā jagannātham acintyam anidarśanam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yad avāptaṃ mayā puṇyaṃ tenāstu tvatsamaṃ jagat || NagAst_59"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "|| ity acintyastavaḥ samāptaḥ ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Copyright (C) 2003 by Chr. Lindtner - Denmark"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
+    }
+  ]
 }

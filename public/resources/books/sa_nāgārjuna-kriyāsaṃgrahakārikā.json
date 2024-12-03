@@ -1,4 +1,213 @@
 {
-  "title": "sa_nāgārjuna-kriyāsaṃgrahakārikā",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Kriyāsaṃgrahakārikā</p>\n\n<lg>\n<l>parīkṣā guruśiṣyāṇāṃ guroradhyeṣaṇā tataḥ /</l>\n<l>mantrasevāṃ guruḥ kuryāt tato bhūmeḥ parīkṣaṇam // 1 //</l>\n</lg>\n\n<lg>\n<l>devatāyogayuktaḥ san mahīpūjāṃ vidhāya ca /</l>\n<l>devatotthāpanaṃ kṛtvā śodhayenmedinīṃ tataḥ // 2 //</l>\n</lg>\n\n<lg>\n<l>yavānāṃ ropaṇaṃ kṛtvā jāṅgulī cāpi pūjayet /</l>\n<l>sūtraṃ saṃpātya yatnena vāstunāgaṃ parīkṣayet // 3 //</l>\n</lg>\n\n<lg>\n<l>iṣṭakālakṣaṇaṃ samyag jñātvādigrahaṇaṃ tataḥ /</l>\n<l>samyagāyavyayau jñātvā prāsādasya ca lakṣaṇam // 4 //</l>\n</lg>\n\n<lg>\n<l>devadikpālavasudhāḥ sampūjya ca yathāvidhi /</l>\n<l>ītikāropaṇaṃ kṛtvā homaṃ kuryāt pramohanam // 5 //</l>\n</lg>\n\n<lg>\n<l>vanayātrā tato dvāraṃ samyagutthāpayetsudhīḥ /</l>\n<l>saṃsthāpya ca śirodāru juhuyādamṛtānalam // 6 //</l>\n</lg>\n\n<lg>\n<l>vajrācāryapraveśo 'smin samādhitrayabhāvanā /</l>\n<l>parikramārthasūtrāṇāṃ pātanaṃ rajasāmapi // 7 //</l>\n</lg>\n\n<lg>\n<l>agnikriyāvidhānaṃ ca piṇḍikāsthāpanaṃ tataḥ /</l>\n<l>savyakṣaṇena niṣpādya pratimāṃ sthāpayettataḥ // 8 //</l>\n</lg>\n\n<lg>\n<l>citrakarma valiḥ piṇḍī gaṇḍikālakṣaṇaṃ tataḥ /</l>\n<l>eteṣāṃ ca pratiṣṭhānaṃ pravrajyāgrahaṇaṃ tathā // 9 //</l>\n</lg>\n\n<lg>\n<l>lakṣaṇaṃ dharmadhātūnāṃ dhvajānāmavaropaṇam /</l>\n<l>jīrṇoddhāropasaṃhārau pūjayed gaṇamaṇḍalam // 10 //</l>\n</lg>\n\n<p>/ kriyāsaṃgrahakārikā samāptā //</p>\n\n<p>/ kṛtiriyaṃ nāgārjunapādānām //</p>\n\n  </body>\n\n"
+  "file_title": "nāgārjuna-kriyāsaṃgrahakārikā",
+  "file_title_normal": "nagarjuna-kriyasamgrahakarika",
+  "metadata": {
+    "original_title": "Kriyāsaṃgrahakārikā",
+    "author": "Nāgārjuna",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Kriyāsaṃgrahakārikā"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parīkṣā guruśiṣyāṇāṃ guroradhyeṣaṇā tataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mantrasevāṃ guruḥ kuryāt tato bhūmeḥ parīkṣaṇam // 1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "devatāyogayuktaḥ san mahīpūjāṃ vidhāya ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "devatotthāpanaṃ kṛtvā śodhayenmedinīṃ tataḥ // 2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yavānāṃ ropaṇaṃ kṛtvā jāṅgulī cāpi pūjayet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sūtraṃ saṃpātya yatnena vāstunāgaṃ parīkṣayet // 3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iṣṭakālakṣaṇaṃ samyag jñātvādigrahaṇaṃ tataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samyagāyavyayau jñātvā prāsādasya ca lakṣaṇam // 4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "devadikpālavasudhāḥ sampūjya ca yathāvidhi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ītikāropaṇaṃ kṛtvā homaṃ kuryāt pramohanam // 5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vanayātrā tato dvāraṃ samyagutthāpayetsudhīḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃsthāpya ca śirodāru juhuyādamṛtānalam // 6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vajrācāryapraveśo 'smin samādhitrayabhāvanā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parikramārthasūtrāṇāṃ pātanaṃ rajasāmapi // 7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "agnikriyāvidhānaṃ ca piṇḍikāsthāpanaṃ tataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "savyakṣaṇena niṣpādya pratimāṃ sthāpayettataḥ // 8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "citrakarma valiḥ piṇḍī gaṇḍikālakṣaṇaṃ tataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eteṣāṃ ca pratiṣṭhānaṃ pravrajyāgrahaṇaṃ tathā // 9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lakṣaṇaṃ dharmadhātūnāṃ dhvajānāmavaropaṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jīrṇoddhāropasaṃhārau pūjayed gaṇamaṇḍalam // 10 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "/ kriyāsaṃgrahakārikā samāptā //"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "/ kṛtiriyaṃ nāgārjunapādānām //"
+    }
+  ]
 }

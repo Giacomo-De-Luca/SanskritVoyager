@@ -13,15 +13,48 @@ import {
   Button,
   Loader,
   Text,
+  Accordion,
+  Title
   
 } from '@mantine/core';
 import { useScrollIntoView } from '@mantine/hooks';
 import classes from './ClickableSimpleBooks.module.css';
 
-interface BookText {
-  title?: string;
-  body?: string;
+interface Contributor {
+  role: string;
+  name: string;
+  when: string;
 }
+
+interface License {
+  text: string;
+  target: string;
+}
+
+interface Metadata {
+  original_title: string;
+  author?: string;
+  contributors?: Contributor[];
+  publisher?: string;
+  license?: License;
+  publication_date?: string;
+  source?: string;
+}
+
+interface TextElement {
+  tag: string;
+  attributes: Record<string, string>;
+  text?: string;
+  children?: TextElement[];
+}
+
+interface BookText {
+  file_title?: string;
+  file_title_normal?: string;
+  metadata?: Metadata;
+  body?: TextElement[];
+}
+
 
 interface ClickableSimpleBooksProps {
   bookText: BookText;
@@ -61,6 +94,7 @@ type ShortEntry = [
 
 type WordEntry = LongEntry | ShortEntry;
 
+
 const ClickableSimpleBooks = ({
   bookText,
   selectedWord,
@@ -74,27 +108,19 @@ const ClickableSimpleBooks = ({
   hoveredWord,
   setHoveredWord,
 }: ClickableSimpleBooksProps) => {
-  const stripXMLTags = (text: string) => {
-    return text.replace(/<[^>]*>/g, '')
-    .replace(/[A-Za-z]+_(\d+\.\d+) /g, ' $1 ')
-    .replace(/[A-Za-z]+_(\d+)/g, ' $1 ')
-    .replace(/\//g, '|');
-  };
-
+  const [visibleLines, setVisibleLines] = useState(100);
   const [isLoadingDebug, setIsLoadingDebug] = useState(false);
-  const [visibleLines, setVisibleLines] = useState(100); // Initial number of visible lines
-
   const sentinelRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     const observer = new IntersectionObserver(
       entries => {
         if (entries[0].isIntersecting) {
-          setVisibleLines(prevVisibleLines => prevVisibleLines + 100); // Load more lines
+          setVisibleLines(prevVisibleLines => prevVisibleLines + 100);
         }
       },
       {
-        root: null, // Observe scrolling relative to viewport
+        root: null,
         rootMargin: '0px',
         threshold: 0.1,
       }
@@ -111,11 +137,6 @@ const ClickableSimpleBooks = ({
     };
   }, []);
 
-  let linesRendered = 0;
-  const clickableSimpleBooks: React.ReactElement[] = [];
-
-  const sections = Object.values(bookText);
-
   const groupEntries = (data: typeof wordData) => {
     const groupedEntries: GroupedEntries = {};
     for (const entry of data) {
@@ -128,34 +149,37 @@ const ClickableSimpleBooks = ({
     return groupedEntries;
   };
 
-  
-
-
-  for (let sectionIndex = 0; sectionIndex < sections.length; sectionIndex++) {
-    if (linesRendered >= visibleLines) {
-      break;
-    }
-
-    const section = sections[sectionIndex];
-    const sutraLines =
-      typeof section === 'string' 
-        ? stripXMLTags(section).split('\n') : [];
-
-    for (let lineIndex = 0; lineIndex < sutraLines.length; lineIndex++) {
-      if (linesRendered >= visibleLines) {
-        break;
+  const getTextStyle = (attributes?: Record<string, string>) => {
+    const styles: React.CSSProperties = {};
+    if (attributes) {
+      if (attributes.rend === 'bold') {
+        styles.fontWeight = 'bold';
       }
-      const line = sutraLines[lineIndex];
-      linesRendered++;
+      if (attributes.rend === 'it') {
+        styles.fontStyle = 'italic';
+      }
+    }
+    return styles;
+  };
 
-      const words = line.split(/\s+|\+/);
-      const hasClickedWord = words.some((word) => word.trim() === clickedWord);
 
-      const lineElement = (
-        <div key={`${sectionIndex}-${lineIndex}`} style={{ marginBottom: '8px' }}>
-          <p>
-            {words.map((word: string, wordIndex: number) => {
+  const renderTextElement = (element: TextElement): React.ReactNode => {
+    const elementClasses = [
+      classes[element.tag] || '',
+      element.attributes?.rend === 'bold' ? classes.bold : '',
+      element.attributes?.rend === 'it' ? classes.italic : '',
+    ].filter(Boolean).join(' ');
+  
+    // Container for all content
+    return (
+      <div className={elementClasses}>
+        {/* Render the element's own text if it exists */}
+        {element.text && (
+          <div className={classes.lineContainer}>
+            {element.text.split(/\s+|\+/).map((word: string, wordIndex: number) => {
               const trimmedWord = word.trim();
+              if (!trimmedWord) return null;
+              
               return (
                 <span
                   key={wordIndex}
@@ -163,13 +187,8 @@ const ClickableSimpleBooks = ({
                     setSelectedWord(trimmedWord);
                     setClickedWord(trimmedWord);
                     setIsLoadingDebug(true);
-
                     try {
-                      const data = await fetchMultidictData(
-                        trimmedWord,
-                        selectedDictionaries
-                      );
-                      console.log(data);
+                      const data = await fetchMultidictData(trimmedWord, selectedDictionaries);
                       setWordData(data);
                     } finally {
                       setIsLoadingDebug(false);
@@ -177,85 +196,156 @@ const ClickableSimpleBooks = ({
                   }}
                   onMouseEnter={() => setHoveredWord(trimmedWord)}
                   onMouseLeave={() => setHoveredWord(null)}
-                  style={{
-                    color: selectedWord === trimmedWord ? 'orange' : 'inherit',
-                    ...(hoveredWord === trimmedWord ? { color: 'gray' } : {}),
-                    cursor: 'pointer',
-                  }}
+                  className={`
+                    ${classes.word}
+                    ${selectedWord === trimmedWord ? classes.selectedWord : ''}
+                    ${hoveredWord === trimmedWord ? classes.hoveredWord : ''}
+                  `}
                 >
                   {word + ' '}
                 </span>
               );
             })}
-          </p>
-          {hasClickedWord && (
-            <p style={{ paddingLeft: '16px', color: '#666', marginTop: '4px' }}>
-              {isLoadingDebug ? (
-                <div className={classes.loaderContainer}>
-                  <Loader type="dots" size="sm" color="rgba(191, 191, 191, 1)" />
-                </div>
-              ) : (
-                wordData.length > 0 &&
-                (() => {
-                  const groupedEntries = groupEntries(wordData);
-                  return Object.entries(groupedEntries).map(
-                    ([originalWord, entries], groupIndex) => {
-                      const uniqueWords = Array.from(
-                        new Set(entries.map((entry) => entry[0]))
-                      );
+            
+            {/* Show clicked word info if this text contains the clicked word */}
+            {element.text.split(/\s+|\+/).some(word => word.trim() === clickedWord) && (
+              <div className={classes.wordInfo}>
+                {isLoadingDebug ? (
+                  <div className={classes.loaderContainer}>
+                    <Loader type="dots" size="sm" color="rgba(191, 191, 191, 1)" />
+                  </div>
+                ) : (
+                  renderClickedWordInfo()
+                )}
+              </div>
+            )}
+          </div>
+        )}
+  
+        {/* Render children if they exist */}
+        {element.children?.map((child, index) => (
+          <React.Fragment key={index}>
+            {renderTextElement(child)}
+          </React.Fragment>
+        ))}
+      </div>
+    );
+  };
 
-                      return (
-                        <span 
-                          key={groupIndex} 
-                          style={{ marginRight: '8px' }}
-                        >
-                          {uniqueWords.map((word, wordIndex) => (
-                            <React.Fragment key={wordIndex}>
-                              <span
-                                className={classes.additionalWord}
-                                onClick={async () => {
-                                  setClickedAdditionalWord(word);
-                                }}
-                                style={{
-                                  cursor: 'pointer',
-                                  whiteSpace: 'nowrap', // Prevent line breaks within words
-                                  marginRight:
-                                    wordIndex < uniqueWords.length - 1
-                                      ? '4px'
-                                      : '0',
-                                }}
-                              >
-                                {word}
-                              </span>
-                              {wordIndex < uniqueWords.length - 1 && (
-                                <span
-                                  style={{ margin: '0 4px', color: '#666' }}
-                                >
-                                  |
-                                </span>
-                              )}
-                            </React.Fragment>
-                          ))}
-                        </span>
-                      );
-                    }
-                  );
-                })()
-              )}
-            </p>
-          )}
-        </div>
-      );
-
-      clickableSimpleBooks.push(lineElement);
+  const renderClickedWordInfo = () => {
+    if (!isLoadingDebug && wordData.length > 0) {
+      const groupedEntries = groupEntries(wordData);
+      return Object.entries(groupedEntries).map(([originalWord, entries], groupIndex) => {
+        const uniqueWords = Array.from(new Set(entries.map((entry) => entry[0])));
+        return (
+          <span key={groupIndex} style={{ marginRight: '8px' }}>
+            {uniqueWords.map((word, wordIndex) => (
+              <React.Fragment key={wordIndex}>
+                <span
+                  className={classes.additionalWord}
+                  onClick={() => setClickedAdditionalWord(word)}
+                  style={{
+                    cursor: 'pointer',
+                    whiteSpace: 'nowrap',
+                    marginRight: wordIndex < uniqueWords.length - 1 ? '4px' : '0',
+                  }}
+                >
+                  {word}
+                </span>
+                {wordIndex < uniqueWords.length - 1 && (
+                  <span style={{ margin: '0 4px', color: '#666' }}>|</span>
+                )}
+              </React.Fragment>
+            ))}
+          </span>
+        );
+      });
     }
-  }
+    return null;
+  };
+
+  const renderMetadata = () => {
+    const metadata = bookText.metadata;
+    if (!metadata) return null;
+
+    return (
+      <>
+        <Title order={1} className={classes.bookTitle}>
+          {metadata.original_title}
+        </Title>
+        
+        {metadata.author && (
+          <Text size="lg" className={classes.authorLine}>
+            by {metadata.author}
+          </Text>
+        )}
+
+        <Accordion className={classes.metadataAccordion}>
+          <Accordion.Item value="metadata">
+            <Accordion.Control>Additional Information</Accordion.Control>
+            <Accordion.Panel>
+              {metadata.publisher && (
+                <Text className={classes.metadataItem}>
+                  <b>Publisher:</b> {metadata.publisher}
+                </Text>
+              )}
+              
+              {metadata.publication_date && (
+                <Text className={classes.metadataItem}>
+                  <b>Publication Date:</b> {metadata.publication_date}
+                </Text>
+              )}
+              
+              {metadata.source && (
+                <Text className={classes.metadataItem}>
+                  <b>Source:</b> {metadata.source}
+                </Text>
+              )}
+              
+              {metadata.license && (
+                <Text className={classes.metadataItem}>
+                  <b>License:</b>{' '}
+                  <a href={metadata.license.target} target="_blank" rel="noopener noreferrer">
+                    {metadata.license.text}
+                  </a>
+                </Text>
+              )}
+
+              {metadata.contributors && metadata.contributors.length > 0 && (
+                <div className={classes.metadataItem}>
+                  <Text><b>Contributors:</b></Text>
+                  <div className={classes.contributorsList}>
+                    {metadata.contributors.map((contributor, index) => (
+                      <Text key={index} className={classes.contributorItem}>
+                        <b>{contributor.role}:</b> {contributor.name}
+                        {contributor.when && ` (${contributor.when})`}
+                      </Text>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </Accordion.Panel>
+          </Accordion.Item>
+        </Accordion>
+      </>
+    );
+  };
+
 
   return (
-    <>
-      {clickableSimpleBooks}
+    <div className={classes.bookContainer}>
+      {renderMetadata()}
+      {/* Main Text Content */}
+      <div className={classes.textContent}>
+        {bookText.body?.map((element, index) => (
+          <React.Fragment key={index}>
+            {renderTextElement(element)}
+          </React.Fragment>
+        ))}
+      </div>
+
       <div ref={sentinelRef} style={{ height: '1px' }} />
-    </>
+    </div>
   );
 };
 

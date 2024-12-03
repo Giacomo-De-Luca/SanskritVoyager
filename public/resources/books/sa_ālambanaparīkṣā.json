@@ -1,4 +1,182 @@
 {
-  "title": "sa_ālambanaparīkṣā",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Ālambanaparīkṣā (Āp)</p>\n\n<p>ācāryadiṅnāgakṛtā</p>\n\n<p>namaḥ sarvabuddhabodhisattvebhyaḥ</p>\n\n<p>yadyapīndriyavijñaptergrāhyāṃśaḥ(=aṇavaḥ) kāraṇaṃ bhavet|\n<l>atadābhatayā tasyā nākṣavadviṣayaḥ sa tu(aṇavaḥ) // Āp_1 //</l></p>\n\n<lg>\n<l>yadābhāsā na tasmāt sā dravyābhāvāt dvicandravat /</l>\n<l>evaṃ bāhyadvayañcaiva na yuktaṃ matigocaraḥ // Āp_2 //</l>\n</lg>\n\n<lg>\n<l>sādhanaṃ sañcitākāramicchanti kila kecana /</l>\n<l>aṇvākāro na vijñapterarthaḥ kaṭhinatādivat // Āp_3 //</l>\n</lg>\n\n<lg>\n<l>bhaveddhaṭaśarāvādestathā sati samā matiḥ /</l>\n<l>ākārabhedādbhedaścet, nāsti tu dravyasatyaṇau // Āp_4 //</l>\n</lg>\n\n<lg>\n<l>pramāṇabhedābhāvāt saḥ, adravye 'sti tataḥ sa hi /</l>\n<l>aṇūnāṃ parihāre hi tadābhajñānaviplavāt // Āp_5 //</l>\n</lg>\n\n<lg>\n<l>yadantarjñeyarūpaṃ tu vahirvadavabhāsate /</l>\n<l>so 'rtho vijñānarūpatvāttatpratyayatayāpi ca // Āp_6 //</l>\n</lg>\n\n<lg>\n<l>ekāṃśaḥ pratyayo 'vītāt śaktyarpaṇātkrameṇa[vā] /</l>\n<l>sahakārivaśādyaddhi śaktirūpaṃ [tat] indriyam // Āp_7 //</l>\n</lg>\n\n<lg>\n<l>sā cāviruddhā vijñapterevaṃ viṣayarūpakam /</l>\n<l>pravartate 'nādikālaṃ śaktiścānyonyahetuke // Āp_8 //</l>\n</lg>\n\n<p>ityācāryadiṅnāgakṛtā ālambanaparīkṣāprakaraṇakārikā samāptā</p>\n\n  </body>\n\n"
+  "file_title": "ālambanaparīkṣā",
+  "file_title_normal": "alambanapariksa",
+  "metadata": {
+    "original_title": "Ālambanaparīkṣā",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "N. Aiyaswami Shastri, Madras: The Adyar Library, 1942."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Ālambanaparīkṣā (Āp)"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ācāryadiṅnāgakṛtā"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "namaḥ sarvabuddhabodhisattvebhyaḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "yadyapīndriyavijñaptergrāhyāṃśaḥ(=aṇavaḥ) kāraṇaṃ bhavet|",
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atadābhatayā tasyā nākṣavadviṣayaḥ sa tu(aṇavaḥ) // Āp_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadābhāsā na tasmāt sā dravyābhāvāt dvicandravat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ bāhyadvayañcaiva na yuktaṃ matigocaraḥ // Āp_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sādhanaṃ sañcitākāramicchanti kila kecana /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṇvākāro na vijñapterarthaḥ kaṭhinatādivat // Āp_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhaveddhaṭaśarāvādestathā sati samā matiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ākārabhedādbhedaścet, nāsti tu dravyasatyaṇau // Āp_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pramāṇabhedābhāvāt saḥ, adravye 'sti tataḥ sa hi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṇūnāṃ parihāre hi tadābhajñānaviplavāt // Āp_5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadantarjñeyarūpaṃ tu vahirvadavabhāsate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "so 'rtho vijñānarūpatvāttatpratyayatayāpi ca // Āp_6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekāṃśaḥ pratyayo 'vītāt śaktyarpaṇātkrameṇa[vā] /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sahakārivaśādyaddhi śaktirūpaṃ [tat] indriyam // Āp_7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sā cāviruddhā vijñapterevaṃ viṣayarūpakam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pravartate 'nādikālaṃ śaktiścānyonyahetuke // Āp_8 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ityācāryadiṅnāgakṛtā ālambanaparīkṣāprakaraṇakārikā samāptā"
+    }
+  ]
 }

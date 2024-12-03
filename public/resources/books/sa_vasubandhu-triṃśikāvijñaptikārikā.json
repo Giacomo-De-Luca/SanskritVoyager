@@ -1,4 +1,533 @@
 {
-  "title": "sa_vasubandhu-triṃśikāvijñaptikārikā",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Atha Triṃśikāvijñaptikārikāḥ (Tvk)\nkṛtiriyamācāryavasubandhoḥ /</p>\n\n<lg>\n<l>ātmadharmopacāro hi vividho yaḥ pravartate /</l>\n<l>vijñānapariṇāme 'sau pariṇāmaḥ sa ca tridhā // Tvk_1 //</l>\n</lg>\n\n<lg>\n<l>vipāko mananākhyaśca vijñaptirviṣayasya ca /</l>\n<l>tatrālayākhyaṃ vijñānaṃ vipākaḥ sarvabījakam // Tvk_2 //</l>\n</lg>\n\n<lg>\n<l>asaṃviditakopādisthānavijñaptikaṃ ca tat /</l>\n<l>sadā sparśamanaskāravitsañjñācetanānvitam // Tvk_3 //</l>\n</lg>\n\n<lg>\n<l>upekṣā vedanā tatrānivṛtāvyākṛtaṃ ca tat /</l>\n<l>tathā sparśādayastacca vartate srotasaughavat // Tvk_4 //</l>\n</lg>\n\n<lg>\n<l>tasya vyāvṛtirarhatve tadāśritya pravartate /</l>\n<l>tadālambaṃ manonāma vijñānaṃ mananātmakam // Tvk_5 //</l>\n</lg>\n\n<lg>\n<l>kleśaiścaturbhiḥ sahitaṃ nivṛtāvyākṛtaiḥ sadā /</l>\n<l>ātmaduṣṭyātmamohātmamānātmasnehasañjñitaiḥ // Tvk_6 //</l>\n</lg>\n\n<lg>\n<l>yatrajastanmayairanyaiḥ sparśādyaiścārhato na tat /</l>\n<l>na nirodhasamāpattau mārge lokottare na ca // Tvk_7 //</l>\n</lg>\n\n<lg>\n<l>dvitīyaḥ pariṇāmo 'yaṃ tṛtīyaḥ ṣaḍvidhasya yā /</l>\n<l>viṣayasyopalabdhiḥ sā kuśalākuśalādvayā // Tvk_8 //</l>\n</lg>\n\n<lg>\n<l>sarvatragairviniyataiḥ kuśalaiścaitasairasau /</l>\n<l>samprayuktā tathā kleśairūpakleśaistrivedanā // Tvk_9 //</l>\n</lg>\n\n<lg>\n<l>ādyāḥ sparśādayaśchandādhimokṣasmṛtayaḥ saha /</l>\n<l>samādhidhībhyāṃ niyatāḥ śraddhātha hrirapatrapā // Tvk_10 //</l>\n</lg>\n\n<lg>\n<l>alobhādi trayaṃ vīryaṃ praśrabdhiḥ sāpramādikā /</l>\n<l>ahiṃsā kuśalāḥ kleśā rāgapratighamūḍhayaḥ // Tvk_11 //</l>\n</lg>\n\n<lg>\n<l>mānadṛgvicikitsāśca krodhopanahane punaḥ /</l>\n<l>mrakṣaḥ pradāśa īrṣyārtha mātsaryaṃ saha māyayā // Tvk_12 //</l>\n</lg>\n\n<lg>\n<l>śāṭhyaṃ mado 'vihiṃsāhrīratrapā styānamuddhavaḥ /</l>\n<l>āśraddhamatha kausīdyaṃ pramādo muṣitā smṛtiḥ // Tvk_13 //</l>\n</lg>\n\n<lg>\n<l>vikṣepo 'samprajanyaṃ ca kaukṛtyaṃ middhameva ca /</l>\n<l>vitarkaśca vicāraścetyupakleśā dvaye dvidhā // Tvk_14 //</l>\n</lg>\n\n<lg>\n<l>pañcānāṃ mūlavijñāne yathāpratyayamudbhavaḥ /</l>\n<l>vijñānānāṃ saha na vā taraṅgāṇāṃ yathā jale // Tvk_15 //</l>\n</lg>\n\n<lg>\n<l>manovijñānasambhūtiḥ sarvadāsañjñikādṛte /</l>\n<l>samāpattidvayānmiddhānmūrchanādapyacittakāt // Tvk_16 //</l>\n</lg>\n\n<lg>\n<l>vijñānapariṇāmo 'yaṃ vikalpo yadvikalpyate /</l>\n<l>tena tannāsti tenedaṃ sarvaṃ vijñaptimātrakam // Tvk_17 //</l>\n</lg>\n\n<lg>\n<l>sarvabījaṃ hi vijñānaṃ pariṇāmastathā tathā /</l>\n<l>yātyanyonyavaśād yena vikalpaḥ sa sa jāyate // Tvk_18 //</l>\n</lg>\n\n<lg>\n<l>karmaṇo vāsanā grāhadvayavāsanayā saha /</l>\n<l>kṣīṇe pūrvavipāke 'nyadvipākaṃ janayanti tat // Tvk_19 //</l>\n</lg>\n\n<lg>\n<l>yena yena vikalpena yadyad vastu vikalpyate /</l>\n<l>parikalpita evāsau svabhāvo na sa vidyate // Tvk_20 //</l>\n</lg>\n\n<lg>\n<l>paratantrasvabhāvastu vikalpaḥ pratyayodbhavaḥ /</l>\n<l>niṣpannastasya pūrveṇa sadā rahitatā tu yā // Tvk_21 //</l>\n</lg>\n\n<lg>\n<l>ata eva sa naivānyo nānanyaḥ paratantrataḥ /</l>\n<l>anityatādivad vācyo nādṛṣṭe 'smin sa dṛśyate // Tvk_22 //</l>\n</lg>\n\n<lg>\n<l>trividhasya svabhāvasya trividhāṃ niḥsvabhāvatām /</l>\n<l>sandhāya sarvadharmāṇāṃ deśitā niḥsvabhāvatā // Tvk_23 //</l>\n</lg>\n\n<lg>\n<l>prathamo lakṣaṇenaiva niḥsvabhāvo 'paraḥ punaḥ /</l>\n<l>na svayambhāva etasyetyaparā niḥsvabhāvatā // Tvk_24 //</l>\n</lg>\n\n<lg>\n<l>dharmāṇāṃ paramārthaśca sa yatastathatāpi saḥ /</l>\n<l>sarvakālaṃ tathābhāvāt saiva vijñaptimātratā // Tvk_25 //</l>\n</lg>\n\n<lg>\n<l>yāvadvijñaptimātratve vijñānaṃ nāvatiṣṭhati /</l>\n<l>grāhadvayasyānuśayastāvanna vinivartate // Tvk_26 //</l>\n</lg>\n\n<lg>\n<l>vijñaptimātramevedamityapi hayupalambhataḥ /</l>\n<l>sthāpayannagrataḥ kiñcit tanmātre nāvatiṣṭhate // Tvk_27 //</l>\n</lg>\n\n<lg>\n<l>yadālambanaṃ vijñānaṃ naivopalabhate tadā /</l>\n<l>sthitaṃ vijñānamātratve grāhyābhāve tadagrahāt // Tvk_28 //</l>\n</lg>\n\n<lg>\n<l>acitto 'nupalambho 'sau jñānaṃ lokottaraṃ ca tat /</l>\n<l>āśrayasya parāvṛttirdvidhā dauṣṭhulyahānitaḥ // Tvk_29 //</l>\n</lg>\n\n<lg>\n<l>sa evānasravo dhāturacintyaḥ kuśalo dhruvaḥ /</l>\n<l>sukho vimuktikāyo 'sau dharmākhyo 'yaṃ mahāmuneḥ // Tvk_30 //</l>\n</lg>\n\n<p>triṃśikāvijñaptikārikāḥ samāptāḥ /</p>\n\n<p>kṛtiriyamācāryavasubandhoḥ /</p>\n\n  </body>\n\n"
+  "file_title": "vasubandhu-triṃśikāvijñaptikārikā",
+  "file_title_normal": "vasubandhu-trimsikavijnaptikarika",
+  "metadata": {
+    "original_title": "Triṃśikāvijñaptikārikā",
+    "author": "Vasubandhu",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Atha Triṃśikāvijñaptikārikāḥ (Tvk)\nkṛtiriyamācāryavasubandhoḥ /"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmadharmopacāro hi vividho yaḥ pravartate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñānapariṇāme 'sau pariṇāmaḥ sa ca tridhā // Tvk_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vipāko mananākhyaśca vijñaptirviṣayasya ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatrālayākhyaṃ vijñānaṃ vipākaḥ sarvabījakam // Tvk_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asaṃviditakopādisthānavijñaptikaṃ ca tat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sadā sparśamanaskāravitsañjñācetanānvitam // Tvk_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upekṣā vedanā tatrānivṛtāvyākṛtaṃ ca tat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā sparśādayastacca vartate srotasaughavat // Tvk_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasya vyāvṛtirarhatve tadāśritya pravartate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadālambaṃ manonāma vijñānaṃ mananātmakam // Tvk_5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kleśaiścaturbhiḥ sahitaṃ nivṛtāvyākṛtaiḥ sadā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmaduṣṭyātmamohātmamānātmasnehasañjñitaiḥ // Tvk_6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yatrajastanmayairanyaiḥ sparśādyaiścārhato na tat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na nirodhasamāpattau mārge lokottare na ca // Tvk_7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvitīyaḥ pariṇāmo 'yaṃ tṛtīyaḥ ṣaḍvidhasya yā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣayasyopalabdhiḥ sā kuśalākuśalādvayā // Tvk_8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvatragairviniyataiḥ kuśalaiścaitasairasau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samprayuktā tathā kleśairūpakleśaistrivedanā // Tvk_9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādyāḥ sparśādayaśchandādhimokṣasmṛtayaḥ saha /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samādhidhībhyāṃ niyatāḥ śraddhātha hrirapatrapā // Tvk_10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "alobhādi trayaṃ vīryaṃ praśrabdhiḥ sāpramādikā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ahiṃsā kuśalāḥ kleśā rāgapratighamūḍhayaḥ // Tvk_11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mānadṛgvicikitsāśca krodhopanahane punaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mrakṣaḥ pradāśa īrṣyārtha mātsaryaṃ saha māyayā // Tvk_12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śāṭhyaṃ mado 'vihiṃsāhrīratrapā styānamuddhavaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āśraddhamatha kausīdyaṃ pramādo muṣitā smṛtiḥ // Tvk_13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vikṣepo 'samprajanyaṃ ca kaukṛtyaṃ middhameva ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vitarkaśca vicāraścetyupakleśā dvaye dvidhā // Tvk_14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pañcānāṃ mūlavijñāne yathāpratyayamudbhavaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñānānāṃ saha na vā taraṅgāṇāṃ yathā jale // Tvk_15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "manovijñānasambhūtiḥ sarvadāsañjñikādṛte /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samāpattidvayānmiddhānmūrchanādapyacittakāt // Tvk_16 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñānapariṇāmo 'yaṃ vikalpo yadvikalpyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tena tannāsti tenedaṃ sarvaṃ vijñaptimātrakam // Tvk_17 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvabījaṃ hi vijñānaṃ pariṇāmastathā tathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yātyanyonyavaśād yena vikalpaḥ sa sa jāyate // Tvk_18 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmaṇo vāsanā grāhadvayavāsanayā saha /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣīṇe pūrvavipāke 'nyadvipākaṃ janayanti tat // Tvk_19 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yena yena vikalpena yadyad vastu vikalpyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parikalpita evāsau svabhāvo na sa vidyate // Tvk_20 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paratantrasvabhāvastu vikalpaḥ pratyayodbhavaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niṣpannastasya pūrveṇa sadā rahitatā tu yā // Tvk_21 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ata eva sa naivānyo nānanyaḥ paratantrataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anityatādivad vācyo nādṛṣṭe 'smin sa dṛśyate // Tvk_22 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trividhasya svabhāvasya trividhāṃ niḥsvabhāvatām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sandhāya sarvadharmāṇāṃ deśitā niḥsvabhāvatā // Tvk_23 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prathamo lakṣaṇenaiva niḥsvabhāvo 'paraḥ punaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na svayambhāva etasyetyaparā niḥsvabhāvatā // Tvk_24 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmāṇāṃ paramārthaśca sa yatastathatāpi saḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvakālaṃ tathābhāvāt saiva vijñaptimātratā // Tvk_25 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yāvadvijñaptimātratve vijñānaṃ nāvatiṣṭhati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "grāhadvayasyānuśayastāvanna vinivartate // Tvk_26 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñaptimātramevedamityapi hayupalambhataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sthāpayannagrataḥ kiñcit tanmātre nāvatiṣṭhate // Tvk_27 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadālambanaṃ vijñānaṃ naivopalabhate tadā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sthitaṃ vijñānamātratve grāhyābhāve tadagrahāt // Tvk_28 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "acitto 'nupalambho 'sau jñānaṃ lokottaraṃ ca tat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āśrayasya parāvṛttirdvidhā dauṣṭhulyahānitaḥ // Tvk_29 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa evānasravo dhāturacintyaḥ kuśalo dhruvaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sukho vimuktikāyo 'sau dharmākhyo 'yaṃ mahāmuneḥ // Tvk_30 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "triṃśikāvijñaptikārikāḥ samāptāḥ /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kṛtiriyamācāryavasubandhoḥ /"
+    }
+  ]
 }

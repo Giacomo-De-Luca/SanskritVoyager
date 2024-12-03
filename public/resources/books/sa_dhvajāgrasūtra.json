@@ -1,4 +1,167 @@
 {
-  "title": "sa_dhvajāgrasūtra",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Dhvajāgrasūtra</p>\n\n<p>1 evaṃ mayā śrutam / ekasmiṃ samaye bhagavāṃ śrāvastyāṃ viharati sma jetavane anāthapiṇḍadasyārāme /\n<hi rend='blue'>SHT III 504 only <hi rend='it'>śrāvastyām</hi></hi>\n2 tatra bhagavāṃ bhikṣūn āmantrayate sma /\n<hi rend='blue'>SHT III 504: <hi rend='it'>āmantrayati /</hi></hi>\n3 sati vo bhikṣava araṇyagatānāṃ vā vṛkṣamūlagatānāṃ vā śūnyāgāragatānāṃ vā utpadyeta bhayaṃ vā chambitatvaṃ vā romaharṣo vā /\n4 māṃ yūyaṃ tasmiṃ samaye ākārataḥ samanusmarata /\n5 iti hi sa bhagavāṃs tathāgato 'rhāṃ samyaksaṃbuddho vidyācaraṇasaṃpanna<hi rend='it'>ḥ</hi> sugato lokavid anuttaraḥ puruṣadamyasārathi<hi rend='it'>ḥ</hi> śāstā devamanuṣyāṇāṃ buddho bhagavāṃ /\n6 māṃ vas tasmiṃ samaye ākārataḥ samanusmaratāṃ / yad utpatsyate bhayaṃ vā chambitatvaṃ vā romaharṣo vā tat prahāsyate /\n7 bhūtapūrvaṃ bhikṣava<hi rend='it'>ḥ</hi> śakro devendro devāsurasaṃgrāme pratyupasthite devāṃs trāyastriṃśān āmantrayati /\n8 sati vo māriṣā devāsurasaṃgrāme samabhirūḍhāṇām utpadyeta bhayaṃ vā chambitatvaṃ vā romaharṣo vā /\n9 mama vas tasmiṃ samaye vaijayanto dhvajāgraḥ samanusmartavyaḥ / mama vas tasmiṃ samaye vaijayantaṃ dhvajāgraṃ samanusmaratāṃ / yad utpatsyate bhayaṃ vā chambitatvaṃ vā romaharṣo vā tat prahāsyate /\n10 evam eva sati vo bhikṣava araṇyagatānāṃ vā vṛkṣamūlagatānāṃ vā śunyāgāragatānāṃ vā utpadyeta bhayaṃ vā chambitatvaṃ vā romaharṣo vā /\n11 māṃ yūyaṃ tasmiṃ samaye ākārataḥ samanusmarata / iti hi sa bhagavāṃ yāvad buddho bhagavāṃ /\n<hi rend='blue'>the complete text without abbreviation as in paragraph 5 'bhagavāṃs tathāgato ... budddho bhagavāṃ' is attested in SHT 581a r3-6, 596r3-4, Or.15004/79+80rw-z (ed. in BLSF II), 15007/288v1-2 (ed. in BLSF III), 15009/352r4 ed. (in BLSF III)</hi>\n12 māṃ vas tasmiṃ samaye ākārataḥ samanusmaratāṃ yad utpatsyate bhayaṃ vā chambitatvaṃ vā romaharṣo vā tat prahāsyate /\n13 tat kasmād dhetoḥ / sa hi śakro devendraḥ sarāgaḥ sadveṣaḥ samoha aparimukto jātijarāvyādhimaraṇaśokaparidevaduḥkhadaurmanasyopāyāsebhyaḥ aparimukto duḥkhād iti vadāmi /\n14 bhīru chambī uttrāsī palāyī sa eka<hi rend='it'>d</hi>ā bibhety api chaṃbaty apy uttrās<hi rend='it'>a</hi>ty api palāyaty api /\n15 ahaṃ khalu tathāgato loke utpanna arhāṃ samyaksaṃbuddho vidyācaraṇasaṃpannaḥ sugato lokavid anuttaraḥ puruṣadamyasārathi<hi rend='it'>ḥ</hi> śāstā devamanuṣyāṇāṃ buddho bhagavāṃ /\n16 vigatarāgo vigatadveṣo vigatamohaḥ parimukto jātijarāvyādhimaraṇaśokaparidevaduḥkhadaurmanasyopāyāsebhyaḥ parimukto duḥkhād iti vadāmi /\n17 abhīrur acchaṃbī anuttrāsī apalāyī /\n18 tasya mama bhikṣava abhīruṇa acchambina anuttrāsina apalāyinaḥ śrotavyaṃ vacanaṃ kartavyaṃ anuśāsanaṃ karaṇīyam idaṃ sthānam iti /\n19 idam avocad bhagavāṃ āptamanasas te bhikṣavo bhagavato bhāṣitam abhyanandam /\n20 dhvajāgrasūtraṃ / samāptaḥ //</p>\n\n  </body>\n\n"
+  "file_title": "dhvajāgrasūtra",
+  "file_title_normal": "dhvajagrasutra",
+  "metadata": {
+    "original_title": "Dhvajāgrasūtra",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "E. Waldschmidt: \"Kleine Brāhmī-Schriftrolle\". IN: Nachrichten der Akademie der Wissenschaften in Göttingen 1959, pp. 8-13 [reprint in: E. Waldschmidt. Von Ceylon bis Turfan, Schriften zur Geschichte, Literatur, Religion und Kunst des indischen Kulturraumes (Festgabe zum 70. Geburtstag). Göttingen 1967, pp. 379-383]."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Dhvajāgrasūtra"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "1 evaṃ mayā śrutam / ekasmiṃ samaye bhagavāṃ śrāvastyāṃ viharati sma jetavane anāthapiṇḍadasyārāme /",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "blue"
+          },
+          "text": "SHT III 504 only",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "it"
+              },
+              "text": "śrāvastyām"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "2 tatra bhagavāṃ bhikṣūn āmantrayate sma /"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "blue"
+          },
+          "text": "SHT III 504:",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "it"
+              },
+              "text": "āmantrayati /"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "3 sati vo bhikṣava araṇyagatānāṃ vā vṛkṣamūlagatānāṃ vā śūnyāgāragatānāṃ vā utpadyeta bhayaṃ vā chambitatvaṃ vā romaharṣo vā /\n4 māṃ yūyaṃ tasmiṃ samaye ākārataḥ samanusmarata /\n5 iti hi sa bhagavāṃs tathāgato 'rhāṃ samyaksaṃbuddho vidyācaraṇasaṃpanna"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ḥ"
+        },
+        {
+          "tag": "text",
+          "text": "sugato lokavid anuttaraḥ puruṣadamyasārathi"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ḥ"
+        },
+        {
+          "tag": "text",
+          "text": "śāstā devamanuṣyāṇāṃ buddho bhagavāṃ /\n6 māṃ vas tasmiṃ samaye ākārataḥ samanusmaratāṃ / yad utpatsyate bhayaṃ vā chambitatvaṃ vā romaharṣo vā tat prahāsyate /\n7 bhūtapūrvaṃ bhikṣava"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ḥ"
+        },
+        {
+          "tag": "text",
+          "text": "śakro devendro devāsurasaṃgrāme pratyupasthite devāṃs trāyastriṃśān āmantrayati /\n8 sati vo māriṣā devāsurasaṃgrāme samabhirūḍhāṇām utpadyeta bhayaṃ vā chambitatvaṃ vā romaharṣo vā /\n9 mama vas tasmiṃ samaye vaijayanto dhvajāgraḥ samanusmartavyaḥ / mama vas tasmiṃ samaye vaijayantaṃ dhvajāgraṃ samanusmaratāṃ / yad utpatsyate bhayaṃ vā chambitatvaṃ vā romaharṣo vā tat prahāsyate /\n10 evam eva sati vo bhikṣava araṇyagatānāṃ vā vṛkṣamūlagatānāṃ vā śunyāgāragatānāṃ vā utpadyeta bhayaṃ vā chambitatvaṃ vā romaharṣo vā /\n11 māṃ yūyaṃ tasmiṃ samaye ākārataḥ samanusmarata / iti hi sa bhagavāṃ yāvad buddho bhagavāṃ /"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "blue"
+          },
+          "text": "the complete text without abbreviation as in paragraph 5 \"bhagavāṃs tathāgato ... budddho bhagavāṃ\" is attested in SHT 581a r3-6, 596r3-4, Or.15004/79+80rw-z (ed. in BLSF II), 15007/288v1-2 (ed. in BLSF III), 15009/352r4 ed. (in BLSF III)"
+        },
+        {
+          "tag": "text",
+          "text": "12 māṃ vas tasmiṃ samaye ākārataḥ samanusmaratāṃ yad utpatsyate bhayaṃ vā chambitatvaṃ vā romaharṣo vā tat prahāsyate /\n13 tat kasmād dhetoḥ / sa hi śakro devendraḥ sarāgaḥ sadveṣaḥ samoha aparimukto jātijarāvyādhimaraṇaśokaparidevaduḥkhadaurmanasyopāyāsebhyaḥ aparimukto duḥkhād iti vadāmi /\n14 bhīru chambī uttrāsī palāyī sa eka"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "d"
+        },
+        {
+          "tag": "text",
+          "text": "ā bibhety api chaṃbaty apy uttrās"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "a"
+        },
+        {
+          "tag": "text",
+          "text": "ty api palāyaty api /\n15 ahaṃ khalu tathāgato loke utpanna arhāṃ samyaksaṃbuddho vidyācaraṇasaṃpannaḥ sugato lokavid anuttaraḥ puruṣadamyasārathi"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ḥ"
+        },
+        {
+          "tag": "text",
+          "text": "śāstā devamanuṣyāṇāṃ buddho bhagavāṃ /\n16 vigatarāgo vigatadveṣo vigatamohaḥ parimukto jātijarāvyādhimaraṇaśokaparidevaduḥkhadaurmanasyopāyāsebhyaḥ parimukto duḥkhād iti vadāmi /\n17 abhīrur acchaṃbī anuttrāsī apalāyī /\n18 tasya mama bhikṣava abhīruṇa acchambina anuttrāsina apalāyinaḥ śrotavyaṃ vacanaṃ kartavyaṃ anuśāsanaṃ karaṇīyam idaṃ sthānam iti /\n19 idam avocad bhagavāṃ āptamanasas te bhikṣavo bhagavato bhāṣitam abhyanandam /\n20 dhvajāgrasūtraṃ / samāptaḥ //"
+        }
+      ]
+    }
+  ]
 }

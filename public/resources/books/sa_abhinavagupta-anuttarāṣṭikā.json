@@ -1,4 +1,379 @@
 {
-  "title": "sa_abhinavagupta-anuttarāṣṭikā",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n    <div>\n\n<lg xml:id='AgAna_1 '>\n<l>saṃkrāmo 'tra na bhāvanā na ca kathāyuktir na carcā na ca <lb/>dhyānaṃ vā na ca dhāraṇā na ca japābhyāsaprayāso na ca |</l>\n<l>tat kiṃ nāma suniścitaṃ vada paraṃ satyaṃ ca tacchrūyatāṃ <lb/>na tyāgī na parigrahī bhaja sukhaṃ sarvaṃ yathāvasthitaḥ ||</l>\n</lg>\n\n<lg xml:id='AgAna_2 '>\n<l>saṃsāro 'sti na tattvatas tanubhṛtāṃ bandhasya vārtaiva kā <lb/>bandho yasya na jātu tasya vitathā muktasya muktikriyā |</l>\n<l>mithyāmohakṛd eṣa rajjubhujagacchāyāpiśācabhramo mā kiṃcit tyaja <lb/>mā gṛhāṇa vihara [1] svastho yathāvasthitaḥ ||</l>\n</lg>\n\n<lg xml:id='AgAna_3 '>\n<l>pūjapūjakapūjyabhedasaraṇiḥ keyaṃ kathānuttare saṃkrāmaḥ <lb/>kila kasya kena vidadhe ko vā praveśakramaḥ |</l>\n<l>māyeyam na cidadvayāt paratayā bhinnāpy aho vartate sarvaṃ <lb/>svānubhavasvabhāvavimalaṃ cintāṃ vṛthā mā kṛthāḥ ||</l>\n</lg>\n\n<lg xml:id='AgAna_4 '>\n<l>ānando 'tra na vittamadhyamadavan naivāṅganāsaṅgavat <lb/>dīpārkendukṛtaprabhāprakaravan naiva prakāśodayaḥ |</l>\n<l>harṣaḥ saṃbhṛtabhedamuktisukhabhūr bhārāvatāropamaḥ <lb/>sarvādvaitapadasya vismṛtanidheḥ prāptiḥ prakāśodayaḥ ||</l>\n</lg>\n\n<lg xml:id='AgAna_5 '>\n<l>rāgadveṣasukhāsukhodayalayāhaṅkāradainyādayo ye bhāvāḥ <lb/>pravibhānti viśvavapuṣo bhinnasvabhāvā na te |</l>\n<l>vyaktiṃ paśyasi yasya yasya sahasā tattattadekātmatāsaṃvidrūpam <lb/>avekṣya kiṃ na ramase tadbhāvanānirbharaḥ ||</l>\n</lg>\n\n<lg xml:id='AgAna_6 '>\n<l>pūrvābhāvabhavakriyā hi sahasā bhāvāḥ sadā 'smin bhave <lb/>madhyākāravikārasaṃkaravatāṃ teṣāṃ kutaḥ satyatā |</l>\n<l>niḥsatye capale prapañcanicaye svapnabhrame peśale <lb/>śaṅkātaṅkakalaṅkayuktikalanātītaḥ prabuddho bhava ||</l>\n</lg>\n\n<lg xml:id='AgAna_7 '>\n<l>bhāvānāṃ na samudbhavo 'sti sahajas tvadbhāvitā bhānty amī <lb/>niḥsatyā api satyatām anubhavabhrāntyā bhajanti kṣaṇam |</l>\n<l>tvatsaṅkalpaja eṣa viśvamahimā nāsty asya janmānyataḥ <lb/>tasmāt tvaṃ vibhavena bhāsi bhuvaneṣv ekopy anekātmakaḥ ||</l>\n</lg>\n\n<lg xml:id='AgAna_8 '>\n<l>yat satyaṃ yad asatyam alpabahulaṃ nityaṃ na nityaṃ ca yat <lb/>yan māyāmalinaṃ yad ātmavimalaṃ ciddarpaṇe rājate |</l>\n<l>tat sarvaṃ svavimarśasaṃvidudayād rūpaprakāśātmakaṃ jñātvā <lb/>svānubhavādhirūḍhamahimā viśveśvaratvaṃ bhaja ||</l>\n</lg>\n\n<trailer>|| iti śrīmadācāryābhinavaguptapādair viracitānuttarāṣṭikā samāptā ||</trailer>\n\n</div>\n<div>\n\n<note>[1] var. vilasa</note>\n</div>\n<div>\n\n<note>Gandharva-nagaram / DSO Sanskrit Archive</note>\n\n</div>\n<div>\n\n  </div>\n</body>\n\n"
+  "file_title": "abhinavagupta-anuttarāṣṭikā",
+  "file_title_normal": "abhinavagupta-anuttarastika",
+  "metadata": {
+    "original_title": "Anuttarāṣṭikā",
+    "author": "Abhinavagupta",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Marino Faliero",
+        "when": "July 1998"
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Marino Faliero",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgAna_1 "
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃkrāmo 'tra na bhāvanā na ca kathāyuktir na carcā na ca",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "dhyānaṃ vā na ca dhāraṇā na ca japābhyāsaprayāso na ca |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tat kiṃ nāma suniścitaṃ vada paraṃ satyaṃ ca tacchrūyatāṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "na tyāgī na parigrahī bhaja sukhaṃ sarvaṃ yathāvasthitaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgAna_2 "
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃsāro 'sti na tattvatas tanubhṛtāṃ bandhasya vārtaiva kā",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "bandho yasya na jātu tasya vitathā muktasya muktikriyā |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mithyāmohakṛd eṣa rajjubhujagacchāyāpiśācabhramo mā kiṃcit tyaja",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "mā gṛhāṇa vihara [1] svastho yathāvasthitaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgAna_3 "
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pūjapūjakapūjyabhedasaraṇiḥ keyaṃ kathānuttare saṃkrāmaḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "kila kasya kena vidadhe ko vā praveśakramaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "māyeyam na cidadvayāt paratayā bhinnāpy aho vartate sarvaṃ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "svānubhavasvabhāvavimalaṃ cintāṃ vṛthā mā kṛthāḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgAna_4 "
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ānando 'tra na vittamadhyamadavan naivāṅganāsaṅgavat",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "dīpārkendukṛtaprabhāprakaravan naiva prakāśodayaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "harṣaḥ saṃbhṛtabhedamuktisukhabhūr bhārāvatāropamaḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "sarvādvaitapadasya vismṛtanidheḥ prāptiḥ prakāśodayaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgAna_5 "
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rāgadveṣasukhāsukhodayalayāhaṅkāradainyādayo ye bhāvāḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "pravibhānti viśvavapuṣo bhinnasvabhāvā na te |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vyaktiṃ paśyasi yasya yasya sahasā tattattadekātmatāsaṃvidrūpam",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "avekṣya kiṃ na ramase tadbhāvanānirbharaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgAna_6 "
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pūrvābhāvabhavakriyā hi sahasā bhāvāḥ sadā 'smin bhave",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "madhyākāravikārasaṃkaravatāṃ teṣāṃ kutaḥ satyatā |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "niḥsatye capale prapañcanicaye svapnabhrame peśale",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "śaṅkātaṅkakalaṅkayuktikalanātītaḥ prabuddho bhava ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgAna_7 "
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhāvānāṃ na samudbhavo 'sti sahajas tvadbhāvitā bhānty amī",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "niḥsatyā api satyatām anubhavabhrāntyā bhajanti kṣaṇam |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tvatsaṅkalpaja eṣa viśvamahimā nāsty asya janmānyataḥ",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "tasmāt tvaṃ vibhavena bhāsi bhuvaneṣv ekopy anekātmakaḥ ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgAna_8 "
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yat satyaṃ yad asatyam alpabahulaṃ nityaṃ na nityaṃ ca yat",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "yan māyāmalinaṃ yad ātmavimalaṃ ciddarpaṇe rājate |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tat sarvaṃ svavimarśasaṃvidudayād rūpaprakāśātmakaṃ jñātvā",
+              "children": [
+                {
+                  "tag": "lb",
+                  "attributes": {}
+                },
+                {
+                  "tag": "text",
+                  "text": "svānubhavādhirūḍhamahimā viśveśvaratvaṃ bhaja ||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "trailer",
+          "attributes": {},
+          "text": "|| iti śrīmadācāryābhinavaguptapādair viracitānuttarāṣṭikā samāptā ||"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "note",
+          "attributes": {},
+          "text": "[1] var. vilasa"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "note",
+          "attributes": {},
+          "text": "Gandharva-nagaram / DSO Sanskrit Archive"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {}
+    }
+  ]
 }

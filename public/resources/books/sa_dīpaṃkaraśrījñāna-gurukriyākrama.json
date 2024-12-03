@@ -1,4 +1,78 @@
 {
-  "title": "sa_dīpaṃkaraśrījñāna-gurukriyākrama",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Guru-kriyā-kramaḥ</p>\n\n<p>sarvabuddhabodhisattvebhyo namaḥ</p>\n\n<p>prathamaṃ prāmāṇika ācāryaḥ śiṣye prasāda-sampratyayābhilāṣātmikāṃ śraddhāṃ janayet / tato bodhicittānuśaṃsām uktvā utsāhaṃ janayet / tataḥ paraṃ viśiṣṭavihāre viśiṣṭapūjopakaraṇaṃ sthāpayet / āryasaṃghān āmantrya, praṇamya, pādau prakṣālya, āsanaṃ pradāya, uttarānuttarapūjopakaraṇaiḥ sampūjya pūjāmeghamantrānapi triruccaret /</p>\n\n<p>stotā sugataviśiṣṭaguṇasmaraṇadvārā sādaraṃ stutvā tattadvṛddhikarāṇyapi padāni uccaret / tataśca deśanā-anumodanā-adhyeṣaṇā-prārthanā-pariṇāmanādayaḥ karaṇīyāḥ / tataḥ śraddhāvān śiṣya ācārya praṇamet / adhyeṣaṇādibhirdvividhaṃ bodhicittaṃ samutpādya teṣāṃ svasvabhāvaṃ bhedaṃ vaiśiṣṭyañcāpi khyāpayet /</p>\n\n<p>tataḥ bodhicaryā (ṇāṃ_) ṣaṭpāramitānāṃ, catuḥsaṃgrahavastūnāṃ caturapramāṇādīnāṃ ca lakṣaṇaṃ, hetuṃ, phalaṃ, śikṣākramaṃ, cyutyacyutidoṣaguṇān yathāvidhiśikṣādikamapi vistareṇa nirdiśet / sā ca apramādena samprajanyena smṛtyā ca grahaṇīyeti śikṣeta /</p>\n\n<p>teṣāṃ lakṣaṇaṃ kramaṃ cyutyacyutidoṣaguṇādīnapi śikṣeta / tadanuṣṭhānāyāpi tīvravīryamutpādya nidhyānaduḥkhādhivāsanākṣāntim avikṣipta-samādhiṃ prajñāniḥsvabhāvatāṃ ca jñātvā triśikṣāṃ trividhaprajñāṃ vā samādhāya caryāpathavidhinā śikṣeta iti nirdiśet / ante praṇidhānena parisamāpayed ityapi vadet /</p>\n\n<p>ayaṃ hi ācāryadeśanākriyākramaḥ / śiṣyo 'pi yathāvidhirupadiṣṭaḥ tathā śikṣeta / ayaṃ tu lākṣaṇikamahāyānacittotpāda-śikṣā-deśanā-vidhiḥ kramo vā audārikatayā darśitaḥ / vistareṇa tu parato jñātavyam /</p>\n\n<p>saṃkṣiptagurukriyākramaḥ mahāpaṇḍitācāryadīpaṅkaraśrījñānaviracitaḥ samāptaḥ //</p>\n\n  </body>\n\n"
+  "file_title": "dīpaṃkaraśrījñāna-gurukriyākrama",
+  "file_title_normal": "dipamkarasrijnana-gurukriyakrama",
+  "metadata": {
+    "original_title": "Gurukriyākrama",
+    "author": "Dīpaṃkaraśrījñāna [= Atīśa]",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Guru-kriyā-kramaḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sarvabuddhabodhisattvebhyo namaḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "prathamaṃ prāmāṇika ācāryaḥ śiṣye prasāda-sampratyayābhilāṣātmikāṃ śraddhāṃ janayet / tato bodhicittānuśaṃsām uktvā utsāhaṃ janayet / tataḥ paraṃ viśiṣṭavihāre viśiṣṭapūjopakaraṇaṃ sthāpayet / āryasaṃghān āmantrya, praṇamya, pādau prakṣālya, āsanaṃ pradāya, uttarānuttarapūjopakaraṇaiḥ sampūjya pūjāmeghamantrānapi triruccaret /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "stotā sugataviśiṣṭaguṇasmaraṇadvārā sādaraṃ stutvā tattadvṛddhikarāṇyapi padāni uccaret / tataśca deśanā-anumodanā-adhyeṣaṇā-prārthanā-pariṇāmanādayaḥ karaṇīyāḥ / tataḥ śraddhāvān śiṣya ācārya praṇamet / adhyeṣaṇādibhirdvividhaṃ bodhicittaṃ samutpādya teṣāṃ svasvabhāvaṃ bhedaṃ vaiśiṣṭyañcāpi khyāpayet /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "tataḥ bodhicaryā (ṇāṃ_) ṣaṭpāramitānāṃ, catuḥsaṃgrahavastūnāṃ caturapramāṇādīnāṃ ca lakṣaṇaṃ, hetuṃ, phalaṃ, śikṣākramaṃ, cyutyacyutidoṣaguṇān yathāvidhiśikṣādikamapi vistareṇa nirdiśet / sā ca apramādena samprajanyena smṛtyā ca grahaṇīyeti śikṣeta /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "teṣāṃ lakṣaṇaṃ kramaṃ cyutyacyutidoṣaguṇādīnapi śikṣeta / tadanuṣṭhānāyāpi tīvravīryamutpādya nidhyānaduḥkhādhivāsanākṣāntim avikṣipta-samādhiṃ prajñāniḥsvabhāvatāṃ ca jñātvā triśikṣāṃ trividhaprajñāṃ vā samādhāya caryāpathavidhinā śikṣeta iti nirdiśet / ante praṇidhānena parisamāpayed ityapi vadet /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ayaṃ hi ācāryadeśanākriyākramaḥ / śiṣyo 'pi yathāvidhirupadiṣṭaḥ tathā śikṣeta / ayaṃ tu lākṣaṇikamahāyānacittotpāda-śikṣā-deśanā-vidhiḥ kramo vā audārikatayā darśitaḥ / vistareṇa tu parato jñātavyam /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "saṃkṣiptagurukriyākramaḥ mahāpaṇḍitācāryadīpaṅkaraśrījñānaviracitaḥ samāptaḥ //"
+    }
+  ]
 }

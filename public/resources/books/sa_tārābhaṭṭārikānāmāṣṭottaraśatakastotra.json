@@ -1,4 +1,953 @@
 {
-  "title": "sa_tārābhaṭṭārikānāmāṣṭottaraśatakastotra",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Āryatārābhaṭṭārikānāmāṣṭottaraśatakastotra</p>\n\n<p>oṃ namaḥ śrīmadāryatārāyai</p>\n\n<lg>\n<l>śrīmatpotalake ramye nānādhātuvirājite /</l>\n<l>nānādrumalatākīrṇe nānāpakṣinikūjite // Tbh_1</l>\n</lg>\n<lg>\n<l>nānānirjharajhaṃkāre nānāmṛgasamākule /</l>\n<l>nānākusumajātībhiḥ samantād adhivāsite // Tbh_2</l>\n</lg>\n<lg>\n<l>nānāhṛdayaphalopete ṣaṭpadodgītanisvane /</l>\n<l>kinnarair madhurair gītair mattavāraṇasaṃkule // Tbh_3</l>\n</lg>\n<lg>\n<l>siddhavidyādhāragaṇaiḥ gandharvaiś ca ninādite /</l>\n<l>munibhir vītarāgaiś ca satataṃ saṃniṣevite // Tbh_4</l>\n</lg>\n<lg>\n<l>bodhisatvagaṇaiś cānyaiḥ daśabhūmīśvarair api /</l>\n<l>āyatārādibhir devīvidyārājñīsahasrakaiḥ // Tbh_5</l>\n</lg>\n<lg>\n<l>krodharājagaṇaiś cānyaiḥ hayagrīvādibhir vṛte /</l>\n<l>sarvasatvahitodyukto bhagavān avalokitaḥ // Tbh_6</l>\n</lg>\n<lg>\n<l>vijahāra tataḥ śrīmān padmagarbhāsane sthitaḥ /</l>\n<l>mahatā tapasā yukto maitryā ca kṛpayānvitaḥ // Tbh_7</l>\n</lg>\n<lg>\n<l>dharmaṃ dideśa tasyāṃ sa mahatyāṃ devaparṣadi /</l>\n<l>tatropaviṣṭam āgamya vajrapāṇir mahābalaḥ // Tbh_8</l>\n</lg>\n<lg>\n<l>paramakṛpayā yuktaḥ papracchety avalokitam /</l>\n<l>taskaroragasiṃhāgnigajavyāghrāmbusaṃkaṭe // Tbh_9</l>\n</lg>\n<lg>\n<l>sīdanty amī mune satvā magnāḥ saṃsārasāgare /</l>\n<l>baddhāḥ saṃsārakaiḥ pāśai rāgadveṣatamopahaiḥ // Tbh_10</l>\n</lg>\n<lg>\n<l>mucyante yena saṃsārāt tan me brūhi mahāmune /</l>\n<l>evam ukte jagannāthaḥ sa śrīmān avalokitaḥ // Tbh_10bis</l>\n</lg>\n<lg>\n<l>uvāca madhurāṃ vāṇīṃ vajrapāṇiṃ prabodhinam /</l>\n<l>śṛṇu guhyakarājendra amitābhasya tāyinaḥ // Tbh_11</l>\n</lg>\n<lg>\n<l>praṇidhānavaśotpannā mamājñā lokamātaraḥ /</l>\n<l>mahākaruṇayopetā jagaduddharaṇoddhṛtāḥ // Tbh_12</l>\n</lg>\n<lg>\n<l>uditādityasaṃkāśāḥ pūrṇenduvadanaprabhāḥ /</l>\n<l>bhāsayanti drumāṃs tārāḥ sadevāsuramānuṣān // Tbh_13</l>\n</lg>\n<lg>\n<l>kampayanti trayo lokān trāsyantī yakṣarākṣasān /</l>\n<l>nīlotpalakarā devī mā bhair mā bhair iti bruvan // Tbh_14</l>\n</lg>\n<lg>\n<l>jagatsaṃrakṣaṇārthāya aham utpāditā jinaiḥ /</l>\n<l>kāntāre śastrasaṃparke nānābhayasamākule // Tbh_15</l>\n</lg>\n<lg>\n<l>smaraṇād eva nāmāni satvān rakṣāmy ahaṃ sadā /</l>\n<l>tārayiṣyāmy ahaṃ nātha nānābhayamahārṇavāt // Tbh_16</l>\n</lg>\n<lg>\n<l>tena tāreti maṃ loke gāyanti munipuṃgavāḥ /</l>\n<l>kṛtāñjalipuṭā bhūtvā tataḥ sādarasādhvasāḥ // Tbh_17</l>\n</lg>\n<lg>\n<l>jvalatīryantarīkṣestha idaṃ vacanam abravīt /</l>\n<l>nāmāṣṭaśatakaṃ brūhi yat purā kīrtitaṃ jinaiḥ // Tbh_18</l>\n</lg>\n<lg>\n<l>dāśabhūmīśvarair nāthair bodhisatvair maharddhikaiḥ /</l>\n<l>sarvapāpaharaṃ puṇyaṃ māṅgalyaṃ kīrtivardhanam // Tbh_19</l>\n</lg>\n<lg>\n<l>dhanahānyakaraṃ caiva ārogyapuṣṭivardhanam /</l>\n<l>maitrīm ālambya satvānāṃ tat kīrtaya mahāmune // Tbh_20</l>\n</lg>\n<lg>\n<l>evam ukte 'tha bhagavān prahasann avalokitaḥ /</l>\n<l>vyavalokya diśaḥ sarvā maitryā sphuraṇayā dṛśā // Tbh_21</l>\n</lg>\n<lg>\n<l>dakṣiṇakaram uddhṛtya puṇyalakṣaṇamaṇḍitam /</l>\n<l>tam uvāca mahāprājñaḥ sādhu sādhu mahātapaḥ // Tbh_22</l>\n</lg>\n<lg>\n<l>nāmāni śṛṇu mahābhāga sarvasatvaikavatsalaḥ /</l>\n<l>yāni saṃkīrtya manujāḥ samyak te syur dhaneśvarāḥ // Tbh_23</l>\n</lg>\n<lg>\n<l>sarvavyādhivinirmuktāḥ sarvaiśvaryaguṇānvitāḥ /</l>\n<l>akālamṛtyunirdagdhāś cyutā yānti sukhāvatīm // Tbh_24</l>\n</lg>\n<p>tāny ahaṃ saṃpravakṣyāmi devasaṃghāḥ śṛṇudhva me\n<l>anumodeta saddharme bhaviṣyadhvaṃ sunirvṛtāḥ // Tbh_25</l>\n<lg>\n<l>oṃ locane sulocane tāre tārotsave sarvasatvānukampini /</l>\n<l>sarvasatvottāriṇi sahasrabhuje sahasranetre // Tbh_26</l>\n</lg>\n<lg>\n<l>oṃ namo bhagavate 'valokya āvalokyā /</l>\n<l>sarvasatvānāṃ cāhaṃ phuṭ svāhā // Tbh_27</l>\n</lg>\n<lg>\n<l>oṃ śuddhe viśuddhe śodhanaviśodhani /</l>\n<l>sugatātmaje maitrīhṛdaye nirmale śyāme śyāmarūpiṇi // Tbh_28</l>\n</lg>\n<lg>\n<l>mahāprājñe pravare pravarabhūṣite parājite /</l>\n<l>mahāraudri viśvarūpi mahāyaśa // Tbh_29</l>\n</lg>\n<lg>\n<l>kalpāgnimahātejā lokadhātrīmahāyaśā /</l>\n<l>sarasvatī viśālākṣī prajñāśrībuddhivardhanī // Tbh_30</l>\n</lg>\n<lg>\n<l>oṃ dhṛtidā puṣṭidā svāhā oṃkārā kāmarūpiṇī /</l>\n<l>sarvasatvahitodyuktā saṃgrāme tāraṇī jayā // Tbh_31</l>\n</lg>\n<lg>\n<l>prajñāpāramitādevī āryātārā manoramā /</l>\n<l>dundubhisakhinī pūrṇavidyārājñī priyaṃvadā // Tbh_32</l>\n</lg>\n<lg>\n<l>candrānanā mahāgaurī ajitā pītavāsasā /</l>\n<l>mahāmāyā mahāśvetā mahābalaparākramā // Tbh_33</l>\n</lg>\n<lg>\n<l>mahāraudrī mahācaṇḍī duṣṭasatvanisūdanī /</l>\n<l>praśāntā śāntarūpā ca vijayā jvalanaprabhā // Tbh_34</l>\n</lg>\n<lg>\n<l>vidyunmālī dhvajī khaḍgī cakrī cāpayutāyudhā /</l>\n<l>jambhanī stambhanī kālī kālarātrī niśācarī // Tbh_35</l>\n</lg>\n<lg>\n<l>rakṣaṇī mohinī śāntā kāntā vibhāvinī śubhā /</l>\n<l>brāhmaṇī vedamātā ca guhā ca guhavāsinī // Tbh_36</l>\n</lg>\n<lg>\n<l>māṅgalyā śaṅkarī saumyā jātavedā manojavā /</l>\n<l>kāpālinī mahābhāgā saṃdhyā satyāparājitā // Tbh_37</l>\n</lg>\n<lg>\n<l>sārthavāhā kṛpadṛṣṭī naṣṭamārgapradarśanī /</l>\n<l>varadā śāsanī śāstrī strīrūpāmitavikramā // Tbh_38</l>\n</lg>\n<lg>\n<l>śavalī yoginī siddhā cāṇḍālī cāmṛtā dhruvā /</l>\n<l>dhanyā puṇyā mahābhāgā subhāgā priyadarśanī // Tbh_39</l>\n</lg>\n<lg>\n<l>kṛtāntatrāsanī bhīmā ugrā ugramahātapā /</l>\n<l>jagadekahitodyuktā śaraṇya bhaktivatsalā // Tbh_40</l>\n</lg>\n<lg>\n<l>vāgīśvarī śivā sūkṣmā nityā sarvārthamātṛkā /</l>\n<l>sarvārthasādhanī bhadrā goptrī dhātrī dhanaṃjayā // Tbh_41</l>\n</lg>\n<lg>\n<l>abhayā gautamī puṇyā śrīmallokeśvarātmajā /</l>\n<l>tārā nāmaguṇānantā sarvāśāparipūraṇī // Tbh_42</l>\n</lg>\nnāmāṣṭottaraśatakaṃ tat kīrtitaṃ hitena vaḥ /\n<l>rahasyam adbhutaṃ guhyaṃ devānām api durlabham / 43</l>\n<lg>\n<l>saubhāgyaṃ bhāgyakaraṇaṃ sarvakīlbiṣanāśanam /</l>\n<l>sarvavyādhipraśamanaṃ sarvasatvasukhāvaham // Tbh_44</l>\n</lg>\n<lg>\n<l>trikāraṃ yaḥ paṭhed dhīmān śuciḥ snānasamāhitaḥ /</l>\n<l>acireṇaiva kālena rājyaśriyam avāpnuyāt // Tbh_45</l>\n</lg>\n<lg>\n<l>duḥkhitaḥ syāt sukhī nityadaridro dhanavān bhavet /</l>\n<l>jaḍo bhaven mahāprājño medhāvī ca na saṃśayaḥ // Tbh_46</l>\n</lg>\n<lg>\n<l>bandhanān mucyate baddho vyavahāre jayo bhavet /</l>\n<l>śatravo mitratāṃ yānti śṛṅgiṇaś cātha daṃṣṭriṇaḥ // Tbh_47</l>\n</lg>\n<lg>\n<l>saṃgrāme saṃkaṭe durge nānābhayasamākule /</l>\n<l>smaraṇād eva nāmāni sarvapāpāny apohati // Tbh_48</l>\n</lg>\n<lg>\n<l>nākālamṛtyur bhavati prāpnoti vipulāṃ śriyam /</l>\n<l>mānuśyaṃ saphalaṃ janma yasya kasya mahātmanaḥ // Tbh_49</l>\n</lg>\n<lg>\n<l>yaś cedaṃ prātar utthāya mānavaḥ kīrtayiṣyati /</l>\n<l>sa dīrghakālam āyuṣmān śriyaṃ ca labhate naraḥ // Tbh_50</l>\n</lg>\n<lg>\n<l>devā nāgās tathā yakṣā gandharvāḥ kaṭapūtanāḥ /</l>\n<l>piśācarākṣasā bhūtā mātaro raudratejasaḥ // Tbh_51</l>\n</lg>\n<lg>\n<l>kṣayāpasmārakārakaś caiva kṣatakākhorḍakādayaḥ /</l>\n<l>ḍākinyās tārakā pretāḥ skandā mārā mahāgrahāḥ // Tbh_52</l>\n</lg>\n<lg>\n<l>chāyām api na laṅghante kiṃ punas tasya vigrahaḥ /</l>\n<l>duṣṭasatvā na vādhante vyādhayo nākramanti ca // Tbh_53</l>\n</lg>\n<lg>\n<l>devāsuram api saṃgrāmam anubhavanti maharddhikāḥ /</l>\n<l>sarvaiśvaryaguṇair yuktaḥ putrapautraiś ca vardhate // Tbh_54</l>\n</lg>\n<l>jātismaro bhaved dhīmān kulīnaḥ priyadarśanaḥ // Tbh_55</l>\n<l>prītimāṃś ca mahāvāgmī sarvaśāstraviśāradaḥ // Tbh_56</l>\n<lg>\n<l>kalyāṇamitrasaṃsevī bodhicittavibhūṣitaḥ /</l>\n<l>sadāvirahito buddhair yatra yatropapadyate // Tbh_57</l>\n</lg></p>\n\n<p>ity āryatārābhaṭṭārikāyā nāmāṣṭottaraśatakaṃ buddhabhāṣitaṃ samāptam /</p>\n\n<p>// śubham //</p>\n\n  </body>\n\n"
+  "file_title": "tārābhaṭṭārikānāmāṣṭottaraśatakastotra",
+  "file_title_normal": "tarabhattarikanamastottarasatakastotra",
+  "metadata": {
+    "original_title": "Tārābhaṭṭārikānāmāṣṭottaraśatakastotra",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Godefroy de Blonay: Matériaux pour servir à l'histoire de la déesse buddhique Tārā, Paris 1895 (Bibliothèque de l'École des Hautes Études, 107), pp. 48-53."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Āryatārābhaṭṭārikānāmāṣṭottaraśatakastotra"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "oṃ namaḥ śrīmadāryatārāyai"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrīmatpotalake ramye nānādhātuvirājite /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nānādrumalatākīrṇe nānāpakṣinikūjite // Tbh_1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nānānirjharajhaṃkāre nānāmṛgasamākule /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nānākusumajātībhiḥ samantād adhivāsite // Tbh_2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nānāhṛdayaphalopete ṣaṭpadodgītanisvane /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kinnarair madhurair gītair mattavāraṇasaṃkule // Tbh_3"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "siddhavidyādhāragaṇaiḥ gandharvaiś ca ninādite /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "munibhir vītarāgaiś ca satataṃ saṃniṣevite // Tbh_4"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhisatvagaṇaiś cānyaiḥ daśabhūmīśvarair api /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āyatārādibhir devīvidyārājñīsahasrakaiḥ // Tbh_5"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "krodharājagaṇaiś cānyaiḥ hayagrīvādibhir vṛte /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvasatvahitodyukto bhagavān avalokitaḥ // Tbh_6"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijahāra tataḥ śrīmān padmagarbhāsane sthitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahatā tapasā yukto maitryā ca kṛpayānvitaḥ // Tbh_7"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmaṃ dideśa tasyāṃ sa mahatyāṃ devaparṣadi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatropaviṣṭam āgamya vajrapāṇir mahābalaḥ // Tbh_8"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paramakṛpayā yuktaḥ papracchety avalokitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "taskaroragasiṃhāgnigajavyāghrāmbusaṃkaṭe // Tbh_9"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sīdanty amī mune satvā magnāḥ saṃsārasāgare /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "baddhāḥ saṃsārakaiḥ pāśai rāgadveṣatamopahaiḥ // Tbh_10"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mucyante yena saṃsārāt tan me brūhi mahāmune /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evam ukte jagannāthaḥ sa śrīmān avalokitaḥ // Tbh_10bis"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uvāca madhurāṃ vāṇīṃ vajrapāṇiṃ prabodhinam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śṛṇu guhyakarājendra amitābhasya tāyinaḥ // Tbh_11"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "praṇidhānavaśotpannā mamājñā lokamātaraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahākaruṇayopetā jagaduddharaṇoddhṛtāḥ // Tbh_12"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uditādityasaṃkāśāḥ pūrṇenduvadanaprabhāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāsayanti drumāṃs tārāḥ sadevāsuramānuṣān // Tbh_13"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kampayanti trayo lokān trāsyantī yakṣarākṣasān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nīlotpalakarā devī mā bhair mā bhair iti bruvan // Tbh_14"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jagatsaṃrakṣaṇārthāya aham utpāditā jinaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāntāre śastrasaṃparke nānābhayasamākule // Tbh_15"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "smaraṇād eva nāmāni satvān rakṣāmy ahaṃ sadā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tārayiṣyāmy ahaṃ nātha nānābhayamahārṇavāt // Tbh_16"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tena tāreti maṃ loke gāyanti munipuṃgavāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtāñjalipuṭā bhūtvā tataḥ sādarasādhvasāḥ // Tbh_17"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jvalatīryantarīkṣestha idaṃ vacanam abravīt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāmāṣṭaśatakaṃ brūhi yat purā kīrtitaṃ jinaiḥ // Tbh_18"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dāśabhūmīśvarair nāthair bodhisatvair maharddhikaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvapāpaharaṃ puṇyaṃ māṅgalyaṃ kīrtivardhanam // Tbh_19"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhanahānyakaraṃ caiva ārogyapuṣṭivardhanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "maitrīm ālambya satvānāṃ tat kīrtaya mahāmune // Tbh_20"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evam ukte 'tha bhagavān prahasann avalokitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyavalokya diśaḥ sarvā maitryā sphuraṇayā dṛśā // Tbh_21"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dakṣiṇakaram uddhṛtya puṇyalakṣaṇamaṇḍitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tam uvāca mahāprājñaḥ sādhu sādhu mahātapaḥ // Tbh_22"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāmāni śṛṇu mahābhāga sarvasatvaikavatsalaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yāni saṃkīrtya manujāḥ samyak te syur dhaneśvarāḥ // Tbh_23"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvavyādhivinirmuktāḥ sarvaiśvaryaguṇānvitāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "akālamṛtyunirdagdhāś cyutā yānti sukhāvatīm // Tbh_24"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "tāny ahaṃ saṃpravakṣyāmi devasaṃghāḥ śṛṇudhva me",
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anumodeta saddharme bhaviṣyadhvaṃ sunirvṛtāḥ // Tbh_25"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "oṃ locane sulocane tāre tārotsave sarvasatvānukampini /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvasatvottāriṇi sahasrabhuje sahasranetre // Tbh_26"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "oṃ namo bhagavate 'valokya āvalokyā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvasatvānāṃ cāhaṃ phuṭ svāhā // Tbh_27"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "oṃ śuddhe viśuddhe śodhanaviśodhani /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sugatātmaje maitrīhṛdaye nirmale śyāme śyāmarūpiṇi // Tbh_28"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mahāprājñe pravare pravarabhūṣite parājite /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mahāraudri viśvarūpi mahāyaśa // Tbh_29"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kalpāgnimahātejā lokadhātrīmahāyaśā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarasvatī viśālākṣī prajñāśrībuddhivardhanī // Tbh_30"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "oṃ dhṛtidā puṣṭidā svāhā oṃkārā kāmarūpiṇī /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvasatvahitodyuktā saṃgrāme tāraṇī jayā // Tbh_31"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prajñāpāramitādevī āryātārā manoramā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dundubhisakhinī pūrṇavidyārājñī priyaṃvadā // Tbh_32"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "candrānanā mahāgaurī ajitā pītavāsasā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mahāmāyā mahāśvetā mahābalaparākramā // Tbh_33"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mahāraudrī mahācaṇḍī duṣṭasatvanisūdanī /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "praśāntā śāntarūpā ca vijayā jvalanaprabhā // Tbh_34"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vidyunmālī dhvajī khaḍgī cakrī cāpayutāyudhā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jambhanī stambhanī kālī kālarātrī niśācarī // Tbh_35"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rakṣaṇī mohinī śāntā kāntā vibhāvinī śubhā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "brāhmaṇī vedamātā ca guhā ca guhavāsinī // Tbh_36"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "māṅgalyā śaṅkarī saumyā jātavedā manojavā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāpālinī mahābhāgā saṃdhyā satyāparājitā // Tbh_37"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sārthavāhā kṛpadṛṣṭī naṣṭamārgapradarśanī /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "varadā śāsanī śāstrī strīrūpāmitavikramā // Tbh_38"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śavalī yoginī siddhā cāṇḍālī cāmṛtā dhruvā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhanyā puṇyā mahābhāgā subhāgā priyadarśanī // Tbh_39"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kṛtāntatrāsanī bhīmā ugrā ugramahātapā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jagadekahitodyuktā śaraṇya bhaktivatsalā // Tbh_40"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vāgīśvarī śivā sūkṣmā nityā sarvārthamātṛkā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvārthasādhanī bhadrā goptrī dhātrī dhanaṃjayā // Tbh_41"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "abhayā gautamī puṇyā śrīmallokeśvarātmajā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tārā nāmaguṇānantā sarvāśāparipūraṇī // Tbh_42"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "nāmāṣṭottaraśatakaṃ tat kīrtitaṃ hitena vaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rahasyam adbhutaṃ guhyaṃ devānām api durlabham / 43"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saubhāgyaṃ bhāgyakaraṇaṃ sarvakīlbiṣanāśanam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvavyādhipraśamanaṃ sarvasatvasukhāvaham // Tbh_44"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "trikāraṃ yaḥ paṭhed dhīmān śuciḥ snānasamāhitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "acireṇaiva kālena rājyaśriyam avāpnuyāt // Tbh_45"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "duḥkhitaḥ syāt sukhī nityadaridro dhanavān bhavet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jaḍo bhaven mahāprājño medhāvī ca na saṃśayaḥ // Tbh_46"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bandhanān mucyate baddho vyavahāre jayo bhavet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śatravo mitratāṃ yānti śṛṅgiṇaś cātha daṃṣṭriṇaḥ // Tbh_47"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃgrāme saṃkaṭe durge nānābhayasamākule /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "smaraṇād eva nāmāni sarvapāpāny apohati // Tbh_48"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nākālamṛtyur bhavati prāpnoti vipulāṃ śriyam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mānuśyaṃ saphalaṃ janma yasya kasya mahātmanaḥ // Tbh_49"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yaś cedaṃ prātar utthāya mānavaḥ kīrtayiṣyati /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sa dīrghakālam āyuṣmān śriyaṃ ca labhate naraḥ // Tbh_50"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "devā nāgās tathā yakṣā gandharvāḥ kaṭapūtanāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "piśācarākṣasā bhūtā mātaro raudratejasaḥ // Tbh_51"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kṣayāpasmārakārakaś caiva kṣatakākhorḍakādayaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ḍākinyās tārakā pretāḥ skandā mārā mahāgrahāḥ // Tbh_52"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "chāyām api na laṅghante kiṃ punas tasya vigrahaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "duṣṭasatvā na vādhante vyādhayo nākramanti ca // Tbh_53"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "devāsuram api saṃgrāmam anubhavanti maharddhikāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvaiśvaryaguṇair yuktaḥ putrapautraiś ca vardhate // Tbh_54"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jātismaro bhaved dhīmān kulīnaḥ priyadarśanaḥ // Tbh_55"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prītimāṃś ca mahāvāgmī sarvaśāstraviśāradaḥ // Tbh_56"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kalyāṇamitrasaṃsevī bodhicittavibhūṣitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sadāvirahito buddhair yatra yatropapadyate // Tbh_57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ity āryatārābhaṭṭārikāyā nāmāṣṭottaraśatakaṃ buddhabhāṣitaṃ samāptam /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// śubham //"
+    }
+  ]
 }

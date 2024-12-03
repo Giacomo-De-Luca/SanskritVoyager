@@ -1,4 +1,239 @@
 {
-  "title": "sa_dīpaṃkaraśrījñāna-samādhisaṃbhāraparivarta",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Samādhisaṃbhāraparivartaḥ</p>\n\n<p>lokanāthāya namaḥ</p>\n\n<lg>\n<l>bodhicittaṃ dṛḍhaṃ kuryāt pūrva kāruṇyaśaktijam /</l>\n<l>bhavabhogasukhe 'saktaḥ parigrahaparāṅmukhaḥ // 1 //</l>\n</lg>\n\n<lg>\n<l>śraddhādidhanasampanno guruṃ buddhasamaṃ bhajet /</l>\n<l>taddiṣṭasamayācāraṃ paripālitumudyataḥ // 2 //</l>\n</lg>\n\n<lg>\n<l>kumbhaguhyābheṣekaṃ tu prasādāllabhate guroḥ /</l>\n<l>kāyavāk cittasaṃśuddhaḥ siddhipātraṃ sa sādhakaḥ // 3 //</l>\n</lg>\n\n<lg>\n<l>samādhyaṅgasamudbhūtasaṃbhārapāripūritaḥ /</l>\n<l>śīghraṃ siddhyāptirevaṃ ca guhyamantranayasthitiḥ // 4 //</l>\n</lg>\n\n<lg>\n<l>samādhyaṅgacyutau tasya vipakṣasthititastathā /</l>\n<l>janmakoṭisahasraiśca samādhirna prasidhyati // 5 //</l>\n</lg>\n\n<lg>\n<l>tatsamādhiprasidhyartha guhyavṛttasthayogavit /</l>\n<l>tad bhinnaṃ cintanaṃ tyaktvā dṛḍhavīryeṇa codyamet // 6 //</l>\n</lg>\n\n<lg>\n<l>samādheryāni cāṅgāni vipakṣastadviniścaye /</l>\n<l>samādhyaṅgaṃ vipakṣaśca saṃkṣepeṇa samucyate // 7 //</l>\n</lg>\n\n<lg>\n<l>śīlasampattiyuktatvaṃ bhogeṣu nirapekṣatā /</l>\n<l>kṣāntirdṛḍhapratijñā ca janasaṃsargavarjanam // 8 //</l>\n</lg>\n\n<lg>\n<l>kāyavāk cittakāryeṣu samprajanyasamanvayaḥ /</l>\n<l>buddhakāyastutismṛtyā kāyānusmṛtisaṃyutiḥ // 9 //</l>\n</lg>\n\n<lg>\n<l>yasmin kāle tu yatkārya dārḍhrya tasya hyanusmṛtau /</l>\n<l>pañcāvaraṇahāniśca yuktakṛd bhaktamānatā // 10 //</l>\n</lg>\n\n<lg>\n<l>samastalokadharmeṣu cittopekṣā sadā tathā /</l>\n<l>saṃlekho 'ṅgāni cemāni vipakṣastadviparyayaḥ // 11 //</l>\n</lg>\n\n<l>samādhisambhārakṛtairhi puṇyaiḥ samādhiṃ vajropamametu lokaḥ / 12, a ba /</l>\n\n<p>samādhisambhāraparivarto mahāpaṇḍitācāryadīpaṅkaraśrījñānapādaviracitaḥ samāptaḥ //</p>\n\n<p>tenaiva bhāratīyopādhyāyena mahāsaṃśodhakalokacakṣuṣā bhikṣu-śākyamatinā ca anūdya nirṇītaḥ //</p>\n\n  </body>\n\n"
+  "file_title": "dīpaṃkaraśrījñāna-samādhisaṃbhāraparivarta",
+  "file_title_normal": "dipamkarasrijnana-samadhisambharaparivarta",
+  "metadata": {
+    "original_title": "Samādhisaṃbhāraparivarta",
+    "author": "Dīpaṃkaraśrījñāna [= Atīśa]",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Samādhisaṃbhāraparivartaḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "lokanāthāya namaḥ"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhicittaṃ dṛḍhaṃ kuryāt pūrva kāruṇyaśaktijam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhavabhogasukhe 'saktaḥ parigrahaparāṅmukhaḥ // 1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śraddhādidhanasampanno guruṃ buddhasamaṃ bhajet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "taddiṣṭasamayācāraṃ paripālitumudyataḥ // 2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kumbhaguhyābheṣekaṃ tu prasādāllabhate guroḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāyavāk cittasaṃśuddhaḥ siddhipātraṃ sa sādhakaḥ // 3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samādhyaṅgasamudbhūtasaṃbhārapāripūritaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śīghraṃ siddhyāptirevaṃ ca guhyamantranayasthitiḥ // 4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samādhyaṅgacyutau tasya vipakṣasthititastathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "janmakoṭisahasraiśca samādhirna prasidhyati // 5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatsamādhiprasidhyartha guhyavṛttasthayogavit /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tad bhinnaṃ cintanaṃ tyaktvā dṛḍhavīryeṇa codyamet // 6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samādheryāni cāṅgāni vipakṣastadviniścaye /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samādhyaṅgaṃ vipakṣaśca saṃkṣepeṇa samucyate // 7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śīlasampattiyuktatvaṃ bhogeṣu nirapekṣatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣāntirdṛḍhapratijñā ca janasaṃsargavarjanam // 8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāyavāk cittakāryeṣu samprajanyasamanvayaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhakāyastutismṛtyā kāyānusmṛtisaṃyutiḥ // 9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yasmin kāle tu yatkārya dārḍhrya tasya hyanusmṛtau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pañcāvaraṇahāniśca yuktakṛd bhaktamānatā // 10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samastalokadharmeṣu cittopekṣā sadā tathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃlekho 'ṅgāni cemāni vipakṣastadviparyayaḥ // 11 //"
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "samādhisambhārakṛtairhi puṇyaiḥ samādhiṃ vajropamametu lokaḥ / 12, a ba /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "samādhisambhāraparivarto mahāpaṇḍitācāryadīpaṅkaraśrījñānapādaviracitaḥ samāptaḥ //"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "tenaiva bhāratīyopādhyāyena mahāsaṃśodhakalokacakṣuṣā bhikṣu-śākyamatinā ca anūdya nirṇītaḥ //"
+    }
+  ]
 }

@@ -1,4 +1,89 @@
 {
-  "title": "sa_dharmakīrti-pramāṇaviniścaya-fragment",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>r1: d anvayam āpādayati / pratiṣedhaniṣedhasya vidhānarūpatvāt* / asataḥ sapakṣān na nivṛttir ity asapakṣa eva nāstīti cet* / neti saiva nivṛtter nirvṛttiḥ asataḥ katham iṣṭā / abhāvapratiṣedho hi bhāvo</p>\n\n<p>2: 'saty apy asti / bhāvapratiṣedhas tu na saṃbhavatīty askhalitaprajño devānāṃpriyo yas tadviṣayaṃ pratiṣedhaṃ necchati / asad abhāva iti ca vyavaharati / nirloṭhitaś cāyam artho 'sati nāstitety</p>\n\n<p>3: arthāntare / tena neha pratanyate / na cāsann ātmā sattāsādhanavṛtteḥ sandigdhaḥ syāt* / na ca pareṇa tathopagata iti // apramāṇād abhyupagamāt tathaiva bhavati / atiprasaṅgāt* /</p>\n\n<p>4: na copagamabalena sapakṣāsapakṣau vyavasthāpya pramāṇapravartanaṃ yuktam* / evaṃ hy āgamasiddha ātmā syāt* / nānumānasiddhaḥ / tasmād avyatireke 'py asataḥ / sapakṣād vyatirekaḥ sandigdhaḥ</p>\n\n<p>5: syāt* prāṇādīnāṃ / ātmanaḥ sandehāt* / ata eva vipakṣād api / ekatra hi niyame siddhe 'nyanivartanaṃ</p>\n\n<p>v1: sidhyet* / anyathā kvacid dṛṣṭe 'bhāvasidhāv api syād evādṛṣṭe saṃśayaḥ / tathā hy asakalavyaktibhedavyāpino 'py arthāḥ kecit tajjātisaṃbhavino dṛṣṭāḥ pārthivālohalekhyavat* / virodhasya cādṛṣṭeḥ saṃdeha</p>\n\n<p>2: eva / nairātmyena prāṇādīnāṃ uktalakṣaṇasya virodhasyāsiddheḥ / sandigdho nairātmyād vyatirekaḥ / ātmapratiniyame hi tatkāryātmatayā prāṇādīnāṃ nairātmyena saha virodhaḥ</p>\n\n<p>3: syāt* / sa ca na sidhyatīty uktam* / astu nāma nirātmakebhyo vyatirekaḥ prāṇādīnāṃ tadbhāve ca nairātmyavyāvṛttiḥ / tathāpi nānairātmyād ātmā jīvaccharīre sidhyati / yenāyaṃ na vyatirekasyābhāvaṃ</p>\n\n<p>4: bhāvam icchati / yathā vyatirekābhave 'pi sapakṣe prāṇādir neṣṭaḥ / sapakṣāvyatirekī ced dhetur hetur ato 'nvayī / nānvayavyatirekī ced anairātmyaṃ na sātmakaṃ / iti saṃgrahaślokaḥ /</p>\n\n<p>5: na prāṇādisaṃbhavena nairātmyavyāvartanād ātmagati / kiṃ tarhi vidhimukhenaiva prāṇādayaḥ</p>\n\n  </body>\n\n"
+  "file_title": "dharmakīrti-pramāṇaviniścaya-fragment",
+  "file_title_normal": "dharmakirti-pramanaviniscaya-fragment",
+  "metadata": {
+    "original_title": "Pramāṇaviniścaya-fragment",
+    "author": "Dharmakīrti",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "K. Matsuda und E. Steinkellner: \"The Sanskrit Manuscripts of Dharmakīrti's Pramāṇaviniścaya: Report on a Single Folio Fragment from the National Archives Collection, Kathmandu\", WZKS 35 (1991), pp. 139-149."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "r1: d anvayam āpādayati / pratiṣedhaniṣedhasya vidhānarūpatvāt* / asataḥ sapakṣān na nivṛttir ity asapakṣa eva nāstīti cet* / neti saiva nivṛtter nirvṛttiḥ asataḥ katham iṣṭā / abhāvapratiṣedho hi bhāvo"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "2: 'saty apy asti / bhāvapratiṣedhas tu na saṃbhavatīty askhalitaprajño devānāṃpriyo yas tadviṣayaṃ pratiṣedhaṃ necchati / asad abhāva iti ca vyavaharati / nirloṭhitaś cāyam artho 'sati nāstitety"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "3: arthāntare / tena neha pratanyate / na cāsann ātmā sattāsādhanavṛtteḥ sandigdhaḥ syāt* / na ca pareṇa tathopagata iti // apramāṇād abhyupagamāt tathaiva bhavati / atiprasaṅgāt* /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "4: na copagamabalena sapakṣāsapakṣau vyavasthāpya pramāṇapravartanaṃ yuktam* / evaṃ hy āgamasiddha ātmā syāt* / nānumānasiddhaḥ / tasmād avyatireke 'py asataḥ / sapakṣād vyatirekaḥ sandigdhaḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "5: syāt* prāṇādīnāṃ / ātmanaḥ sandehāt* / ata eva vipakṣād api / ekatra hi niyame siddhe 'nyanivartanaṃ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "v1: sidhyet* / anyathā kvacid dṛṣṭe 'bhāvasidhāv api syād evādṛṣṭe saṃśayaḥ / tathā hy asakalavyaktibhedavyāpino 'py arthāḥ kecit tajjātisaṃbhavino dṛṣṭāḥ pārthivālohalekhyavat* / virodhasya cādṛṣṭeḥ saṃdeha"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "2: eva / nairātmyena prāṇādīnāṃ uktalakṣaṇasya virodhasyāsiddheḥ / sandigdho nairātmyād vyatirekaḥ / ātmapratiniyame hi tatkāryātmatayā prāṇādīnāṃ nairātmyena saha virodhaḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "3: syāt* / sa ca na sidhyatīty uktam* / astu nāma nirātmakebhyo vyatirekaḥ prāṇādīnāṃ tadbhāve ca nairātmyavyāvṛttiḥ / tathāpi nānairātmyād ātmā jīvaccharīre sidhyati / yenāyaṃ na vyatirekasyābhāvaṃ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "4: bhāvam icchati / yathā vyatirekābhave 'pi sapakṣe prāṇādir neṣṭaḥ / sapakṣāvyatirekī ced dhetur hetur ato 'nvayī / nānvayavyatirekī ced anairātmyaṃ na sātmakaṃ / iti saṃgrahaślokaḥ /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "5: na prāṇādisaṃbhavena nairātmyavyāvartanād ātmagati / kiṃ tarhi vidhimukhenaiva prāṇādayaḥ"
+    }
+  ]
 }

@@ -1,4 +1,74 @@
 {
-  "title": "sa_dīpaṃkaraśrījñāna-āpattideśanāvidhi",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Āpattideśanāvidhiḥ</p>\n\n<p>namo buddhāya</p>\n\n<p>'guravo mahāvajradharādajaḥ, daśadigavasthitāśca sarvabuddhabodhisattvāḥ mām samanvāharantu / bhadanto māṃ samanvāharatu / ahamevaṃnāmā anādisaṃsārāt prabhṛtipratyutpannaparyantaṃ rāga-dveṣa-mohavaśāt kāyavāṅmanasā daśākuśalāni kṛtavān, pañcānantaryāṇi, pañca tatsabhāgāni, prātimokṣasaṃvaravirodhaḥ, bodhisattvaśikṣāvirodhaḥ, guhyamantra-samayādi-virodhaḥ, samāsato 'bhyudaya-niḥśreyasavighnabhūtāḥ, saṃsārāpāyahetubhūtāśca ye ke 'pi āpattidoṣarāśayaḥ (santi) tān sarvān guruvajradharādīnāṃ, daśadigavasthitānāṃ sarvabuddhabodhisattvānāṃ, bhadantasya ca agrato deśayāmi, āviṣkaromi, na praticchādayāmi / āviṣkṛtena mama sparśavihāro bhavati,anāviṣkṛtena evanna bhavatī ti trirvadet /</p>\n\n<p>tato darśana-saṃvara-pṛcchānantaram 'upāyaṃ', 'sādhu' ceti vadet /</p>\n\n<p>prathamasaṃyojanavidhiḥ- evannāmāhaṃ anādisaṃsārāt prabhṛti kleśabāhulyāt pramādādivaśād vā doṣāpattirāśibahulaḥ, tān saṃghasya agrataḥ pratideṣṭukāmaḥ, ato 'nugṛhyatām iti / ante āpattita uddhṛto 'smītyatīva kṛtajño 'smīti dharmānurupakāryam anumodaye iti vadet /</p>\n\n<p>'āpattideśanāvidhiḥ ācāryadīpaṅkaraśrījñānaviracitaḥ samāptaḥ /</p>\n\n<p>tenaiva bhāratīyopādhyāyena bhoṭīyalokacakṣuṣā bhikṣu-jayaśīlena ca anūdya nirṇītaḥ /</p>\n\n  </body>\n\n"
+  "file_title": "dīpaṃkaraśrījñāna-āpattideśanāvidhi",
+  "file_title_normal": "dipamkarasrijnana-apattidesanavidhi",
+  "metadata": {
+    "original_title": "Āpattideśanāvidhi",
+    "author": "Dīpaṃkaraśrījñāna [= Atīśa]",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Ramesh Chandra Negi, Atishavirachita Ekadasa grantha."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Āpattideśanāvidhiḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "namo buddhāya"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "\"guravo mahāvajradharādajaḥ, daśadigavasthitāśca sarvabuddhabodhisattvāḥ mām samanvāharantu / bhadanto māṃ samanvāharatu / ahamevaṃnāmā anādisaṃsārāt prabhṛtipratyutpannaparyantaṃ rāga-dveṣa-mohavaśāt kāyavāṅmanasā daśākuśalāni kṛtavān, pañcānantaryāṇi, pañca tatsabhāgāni, prātimokṣasaṃvaravirodhaḥ, bodhisattvaśikṣāvirodhaḥ, guhyamantra-samayādi-virodhaḥ, samāsato 'bhyudaya-niḥśreyasavighnabhūtāḥ, saṃsārāpāyahetubhūtāśca ye ke 'pi āpattidoṣarāśayaḥ (santi) tān sarvān guruvajradharādīnāṃ, daśadigavasthitānāṃ sarvabuddhabodhisattvānāṃ, bhadantasya ca agrato deśayāmi, āviṣkaromi, na praticchādayāmi / āviṣkṛtena mama sparśavihāro bhavati,anāviṣkṛtena evanna bhavatī ti trirvadet /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "tato darśana-saṃvara-pṛcchānantaram \"upāyaṃ\", \"sādhu\" ceti vadet /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "prathamasaṃyojanavidhiḥ- evannāmāhaṃ anādisaṃsārāt prabhṛti kleśabāhulyāt pramādādivaśād vā doṣāpattirāśibahulaḥ, tān saṃghasya agrataḥ pratideṣṭukāmaḥ, ato 'nugṛhyatām iti / ante āpattita uddhṛto 'smītyatīva kṛtajño 'smīti dharmānurupakāryam anumodaye iti vadet /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "\"āpattideśanāvidhiḥ ācāryadīpaṅkaraśrījñānaviracitaḥ samāptaḥ /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "tenaiva bhāratīyopādhyāyena bhoṭīyalokacakṣuṣā bhikṣu-jayaśīlena ca anūdya nirṇītaḥ /"
+    }
+  ]
 }

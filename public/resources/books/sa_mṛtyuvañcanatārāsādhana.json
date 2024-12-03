@@ -1,4 +1,148 @@
 {
-  "title": "sa_mṛtyuvañcanatārāsādhana",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Mṛtyuvañcanatārāsādhana</p>\n\n<p>// namaḥ sitatārāyai //</p>\n\n<lg>\n<l>pūrvavac chūnyatāparyantaṃ vibhāvya</l>\n<l>sitāravindamadhyasthāṃ tāṃbhūtāṃ candraviṣṭarām /</l>\n<l>ābaddhavajraparyaṅkāṃ varadotpaladhāriṇīm // Mvts_1 //</l>\n</lg>\n\n<lg>\n<l>śaraccandrakarākārāṃ pṛṣṭhacandrasamāśritām /</l>\n<l>sarvālaṅkārasaṃpūrṇāṃ ṣoḍaśābdavapuḥkramām // Mvts_2 //</l>\n</lg>\n\n<lg>\n<l>dhyātvāryatārāṃ hṛdaye tasyāś cakraṃ sitadyuti /</l>\n<l>aṣṭakoṣṭhakam aṣṭābhir akṣaraiḥ paripūritam // Mvts_3 //</l>\n</lg>\n\n<lg>\n<l>oṃhāvyañjanamadhyasthasādhyanāmādyanābhikam /</l>\n<l>dhyāyād ekāgracittaḥ san ṣaṇ māsān dṛḍhaniścayaḥ // Mvts_4 //</l>\n</lg>\n\n<p>japed akhinnacittaḥ san mantram enaṃ daśākṣaram //</p>\n\n<l>tatrāiṣa mantraḥ oṃ tāre tuttāre ture svāhā // Mvts_5 //</l>\n\n<lg>\n<l>mṛtyudoṣair na liptaḥ syāt tārāhṛccakrabhāvakaḥ /</l>\n<l>lābhī ca sarvasiddhīnāṃ ṣaṇmāsāvadhi tatparaḥ // Mvts_6 //</l>\n</lg>\n\n<p>// mṛtyuvañcanatārāsādhanam //</p>\n\n  </body>\n\n"
+  "file_title": "mṛtyuvañcanatārāsādhana",
+  "file_title_normal": "mrtyuvancanatarasadhana",
+  "metadata": {
+    "original_title": "Mṛtyuvañcanatārāsādhana",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Johannes Schneider",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Johannes Schneider",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Johannes Schneider: Vāgīśvarakīrtis Mṛtyuvañcanopadeśa, eine buddhistische Lehrschrift zur Abwehr des Todes. Wien : Verlag der Österreichischen Akademie der Wissenschaften 2010. (Beiträge zur Kultur- und Geistesgeschichte Asiens ; 66) (Denkschriften der philosophisch-historischen Klasse ; 394) ISBN 978-3-7001-6722-8, p. 225"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Mṛtyuvañcanatārāsādhana"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// namaḥ sitatārāyai //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pūrvavac chūnyatāparyantaṃ vibhāvya"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sitāravindamadhyasthāṃ tāṃbhūtāṃ candraviṣṭarām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ābaddhavajraparyaṅkāṃ varadotpaladhāriṇīm // Mvts_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śaraccandrakarākārāṃ pṛṣṭhacandrasamāśritām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvālaṅkārasaṃpūrṇāṃ ṣoḍaśābdavapuḥkramām // Mvts_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhyātvāryatārāṃ hṛdaye tasyāś cakraṃ sitadyuti /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṣṭakoṣṭhakam aṣṭābhir akṣaraiḥ paripūritam // Mvts_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "oṃhāvyañjanamadhyasthasādhyanāmādyanābhikam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhyāyād ekāgracittaḥ san ṣaṇ māsān dṛḍhaniścayaḥ // Mvts_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "japed akhinnacittaḥ san mantram enaṃ daśākṣaram //"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "tatrāiṣa mantraḥ oṃ tāre tuttāre ture svāhā // Mvts_5 //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛtyudoṣair na liptaḥ syāt tārāhṛccakrabhāvakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lābhī ca sarvasiddhīnāṃ ṣaṇmāsāvadhi tatparaḥ // Mvts_6 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// mṛtyuvañcanatārāsādhanam //"
+    }
+  ]
 }

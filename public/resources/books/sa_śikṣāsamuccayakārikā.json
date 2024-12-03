@@ -1,4 +1,474 @@
 {
-  "title": "sa_śikṣāsamuccayakārikā",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Śikṣāsamuccayakārikā (Śsk)</p>\n\n<lg>\n<l>yadā mama pareṣāṃ ca bhayaṃ duḥkhaṃ ca na priyam /</l>\n<l>tadātmanaḥ ko viśeṣo yattaṃ rakṣāmi netaram // Śsk_1 //</l>\n</lg>\n\n<lg>\n<l>duḥkhāntaṃ kartukāmena sukhāntaṃ gantumicchatā /</l>\n<l>śraddhāmūlaṃ dṛḍhīkṛtya bodhau kāryā matirdṛḍhā // Śsk_2 //</l>\n</lg>\n\n<lg>\n<l>(śikṣādaro) mahāyānādbodhisattvasya saṃvaraḥ /</l>\n<l>marmasthānānyato vidyādyenānāpattiko bhavet // Śsk_3 //</l>\n</lg>\n\n<lg>\n<l>ātmabhāvasya bhogānāṃ tryadhvavṛtteḥ śubhasya ca /</l>\n<l>utsargaḥ sarvasattvebhyastadrakṣā śuddhivardhanam // Śsk_4 //</l>\n</lg>\n\n<lg>\n<l>paribhogāya sattvānāmātmabhāvādi dīyate /</l>\n<l>arakṣite kuto bhogaḥ ki dattaṃ yanna bhujyate // Śsk_5 //</l>\n</lg>\n\n<lg>\n<l>tasmātsattvopabhogārthamātmabhāvādi pālayet /</l>\n<l>kalyāṇamitrānutsargāt sūtrāṇāṃ ca sadekṣaṇāt // Śsk_6 //</l>\n</lg>\n\n<lg>\n<l>tatrātmabhāve kā rakṣā yadanarthavivarjanam /</l>\n<l>kenaitallabhyate sarvaṃ niṣphalaspandavarjanāt // Śsk_7 //</l>\n</lg>\n\n<lg>\n<l>etatsidhyetsadā smṛtyā smṛtistīvrādarādbhavet /</l>\n<l>ādaraḥ śamamāhātmyaṃ jñātvātāpena jāyate // Śsk_8 //</l>\n</lg>\n\n<lg>\n<l>samāhito yathābhūtaṃ prajānātītyavadanmuniḥ /</l>\n<l>śamācca na caleccitaṃ bāhyaceṣṭā nivartanāt // Śsk_9 //</l>\n</lg>\n\n<lg>\n<l>sarvatrāpacalo mandamatisnigdhābhibhāṣaṇāt /</l>\n<l>āvavarjayejjanaṃ bhavyamādeyaścāpi jāyate // Śsk_10 //</l>\n</lg>\n\n<lg>\n<l>anādeyaṃ tu taṃ lokaḥ paribhūya jināṅkuram /</l>\n<l>bhasmacchanno yathā vahniḥ pacyeta narakādiṣu // Śsk_11 //</l>\n</lg>\n\n<lg>\n<l>ratnameghe jinenoktastena saṅkṣepasaṃvaraḥ /</l>\n<l>yenāprasādaḥ sattvānāṃ tadyatnena vivarjayet // Śsk_12 //</l>\n</lg>\n\n<lg>\n<l>eṣā rakṣātmabhāvasya bhaiṣajyavasānādibhiḥ /</l>\n<l>ātmatṛṣṇopabhogāttu kliṣṭāpattiḥ prajāyate // Śsk_13 //</l>\n</lg>\n\n<lg>\n<l>sukṛṭārambhiṇā bhāvyaṃ mātrajñena ca sarvataḥ /</l>\n<l>iti śikṣāpadādasya bhogarakṣā na duṣkarā // Śsk_14 //</l>\n</lg>\n\n<lg>\n<l>svārthavipāka vaitṛṣṇyācchubhaṃ saṃrakṣitaṃ bhavet /</l>\n<l>paścātāpaṃ na kurvīta na ca kṛtvā prakāśayet // Śsk_15 //</l>\n</lg>\n\n<lg>\n<l>lābhasatkārabhītaḥ syādunnatiṃ varjayetsadā /</l>\n<l>bodhisattvaḥ prasannaḥ syāddharme vimatimutsṛjet // Śsk_16 //</l>\n</lg>\n\n<lg>\n<l>śodhitasyātmabhāvasyabhogaḥ pathyo bhaviṣyati /</l>\n<l>samyaksiddhasya bhaktasya niṣkaṇasyeva dehinām // Śsk_17 //</l>\n</lg>\n\n<lg>\n<l>tṛṇacchanna yathā śasyaṃ rogaiḥ sīdati naidhate /</l>\n<l>buddhāṅkurastathā vṛddhiṃ kleśacchanno na gacchati // Śsk_18 //</l>\n</lg>\n\n<lg>\n<l>ātmabhāvasya kā śuddhiḥ pāpakleśaviśodhanam /</l>\n<l>sambuddhottayarthasāreṇa yatnabhāve tvapāyagaḥ // Śsk_19 //</l>\n</lg>\n\n<lg>\n<l>kṣameta śrutameṣeta saṃśrayeta vanaṃ tataḥ /</l>\n<l>sāmādhānāya yujyeta bhāvayedaśubhādikam // Śsk_20 //</l>\n</lg>\n\n<lg>\n<l>bhogaśuddhiṃ ca jānīyātsamyagājīvaśodhanāt /</l>\n<l>śūnyatākaruṇāgarbheceṣṭitātpuṇyaśodhanam // Śsk_21 //</l>\n</lg>\n\n<lg>\n<l>grahītāraḥ subahavaḥ svalpaṃ ceda manena kim /</l>\n<l>na cātitṛptijanakaṃ vardhanīyamidaṃ tataḥ // Śsk_22 //</l>\n</lg>\n\n<lg>\n<l>ātmabhāvasya kā vṛddhirbalānālasyavardhanam /</l>\n<l>śūnyatākaruṇāgarbhāddānādbhogasya vardhanam // Śsk_23 //</l>\n</lg>\n\n<lg>\n<l>kṛtvādāveva yatnena vyavasāyāśayau dṛḍhau /</l>\n<l>karuṇāṃ ca puraskṛtya yateta śubhavṛddhaye // Śsk_24 //</l>\n</lg>\n\n<lg>\n<l>bhadracaryāvidhiḥ kāryo vandanādiḥ sahādarāt /</l>\n<l>śraddhādīnāṃ sadābhyāso maitrī buddhādyanusmṛtiḥ // Śsk_25 //</l>\n</lg>\n\n<lg>\n<l>sarvāvasthāsu sattvārtho dharmadānaṃ nirāmiṣam /</l>\n<l>bodhicittaṃ ca puṇyasya vṛddhihetuḥ samāsataḥ // Śsk_26 //</l>\n</lg>\n\n<lg>\n<l>siddhiḥ samyakprahāṇānāmapramādāviyojanāt /</l>\n<l>smṛtyātha samprajanyena yoniśaścintanena ca // Śsk_27 //</l>\n</lg>\n\n  </body>\n\n"
+  "file_title": "śikṣāsamuccayakārikā",
+  "file_title_normal": "siksasamuccayakarika",
+  "metadata": {
+    "original_title": "Śikṣāsamuccayakārikā",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Śikṣāsamuccayakārikā (Śsk)"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadā mama pareṣāṃ ca bhayaṃ duḥkhaṃ ca na priyam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadātmanaḥ ko viśeṣo yattaṃ rakṣāmi netaram // Śsk_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "duḥkhāntaṃ kartukāmena sukhāntaṃ gantumicchatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śraddhāmūlaṃ dṛḍhīkṛtya bodhau kāryā matirdṛḍhā // Śsk_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "(śikṣādaro) mahāyānādbodhisattvasya saṃvaraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "marmasthānānyato vidyādyenānāpattiko bhavet // Śsk_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmabhāvasya bhogānāṃ tryadhvavṛtteḥ śubhasya ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utsargaḥ sarvasattvebhyastadrakṣā śuddhivardhanam // Śsk_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paribhogāya sattvānāmātmabhāvādi dīyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "arakṣite kuto bhogaḥ ki dattaṃ yanna bhujyate // Śsk_5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmātsattvopabhogārthamātmabhāvādi pālayet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalyāṇamitrānutsargāt sūtrāṇāṃ ca sadekṣaṇāt // Śsk_6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatrātmabhāve kā rakṣā yadanarthavivarjanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kenaitallabhyate sarvaṃ niṣphalaspandavarjanāt // Śsk_7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etatsidhyetsadā smṛtyā smṛtistīvrādarādbhavet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādaraḥ śamamāhātmyaṃ jñātvātāpena jāyate // Śsk_8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samāhito yathābhūtaṃ prajānātītyavadanmuniḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śamācca na caleccitaṃ bāhyaceṣṭā nivartanāt // Śsk_9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvatrāpacalo mandamatisnigdhābhibhāṣaṇāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āvavarjayejjanaṃ bhavyamādeyaścāpi jāyate // Śsk_10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anādeyaṃ tu taṃ lokaḥ paribhūya jināṅkuram /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhasmacchanno yathā vahniḥ pacyeta narakādiṣu // Śsk_11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ratnameghe jinenoktastena saṅkṣepasaṃvaraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yenāprasādaḥ sattvānāṃ tadyatnena vivarjayet // Śsk_12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eṣā rakṣātmabhāvasya bhaiṣajyavasānādibhiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmatṛṣṇopabhogāttu kliṣṭāpattiḥ prajāyate // Śsk_13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sukṛṭārambhiṇā bhāvyaṃ mātrajñena ca sarvataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti śikṣāpadādasya bhogarakṣā na duṣkarā // Śsk_14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svārthavipāka vaitṛṣṇyācchubhaṃ saṃrakṣitaṃ bhavet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paścātāpaṃ na kurvīta na ca kṛtvā prakāśayet // Śsk_15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lābhasatkārabhītaḥ syādunnatiṃ varjayetsadā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhisattvaḥ prasannaḥ syāddharme vimatimutsṛjet // Śsk_16 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śodhitasyātmabhāvasyabhogaḥ pathyo bhaviṣyati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samyaksiddhasya bhaktasya niṣkaṇasyeva dehinām // Śsk_17 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tṛṇacchanna yathā śasyaṃ rogaiḥ sīdati naidhate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhāṅkurastathā vṛddhiṃ kleśacchanno na gacchati // Śsk_18 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmabhāvasya kā śuddhiḥ pāpakleśaviśodhanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sambuddhottayarthasāreṇa yatnabhāve tvapāyagaḥ // Śsk_19 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣameta śrutameṣeta saṃśrayeta vanaṃ tataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāmādhānāya yujyeta bhāvayedaśubhādikam // Śsk_20 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhogaśuddhiṃ ca jānīyātsamyagājīvaśodhanāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyatākaruṇāgarbheceṣṭitātpuṇyaśodhanam // Śsk_21 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "grahītāraḥ subahavaḥ svalpaṃ ceda manena kim /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na cātitṛptijanakaṃ vardhanīyamidaṃ tataḥ // Śsk_22 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmabhāvasya kā vṛddhirbalānālasyavardhanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyatākaruṇāgarbhāddānādbhogasya vardhanam // Śsk_23 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtvādāveva yatnena vyavasāyāśayau dṛḍhau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karuṇāṃ ca puraskṛtya yateta śubhavṛddhaye // Śsk_24 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhadracaryāvidhiḥ kāryo vandanādiḥ sahādarāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śraddhādīnāṃ sadābhyāso maitrī buddhādyanusmṛtiḥ // Śsk_25 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvāvasthāsu sattvārtho dharmadānaṃ nirāmiṣam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodhicittaṃ ca puṇyasya vṛddhihetuḥ samāsataḥ // Śsk_26 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "siddhiḥ samyakprahāṇānāmapramādāviyojanāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "smṛtyātha samprajanyena yoniśaścintanena ca // Śsk_27 //"
+        }
+      ]
+    }
+  ]
 }

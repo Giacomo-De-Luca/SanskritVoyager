@@ -1,4 +1,368 @@
 {
-  "title": "sa_nādabindūpaniṣad",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Nādabindūpaniṣat</p>\n\n<lg>\n<l>oṃ</l>\n<l>akāro dakṣiṇaḥ pakṣa ukāras tūttaraḥ smṛtaḥ /</l>\n<l>makāras tasya pucchaṃ vā ardhamātrā śiras tathā // NbiUp_1 //</l>\n</lg>\n\n<lg>\n<l>pādau rajas tamas tasya śarīraṃ sattvam ucyate /</l>\n<l>dharmaś ca dakṣiṇaṃ cakṣur adharmaś cottaraṃ smṛtam // NbiUp_2 //</l>\n</lg>\n\n<lg>\n<l>bhūr lokaḥ pādayos tasya bhuvar lokas tu jānunoḥ /</l>\n<l>svar lokaḥ kaṭideśe tu nābhideśe mahar jagat // NbiUp_3 //</l>\n</lg>\n\n<lg>\n<l>janalokas tu hṛdaye kaṇṭhadeśe tapas tataḥ /</l>\n<l>bhruvor lalāṭamadhye tu satyaloko vyavasthitaḥ // NbiUp_4 //</l>\n</lg>\n\n<lg>\n<l>sahasram iti cātra mantra eva pradarśitaḥ /</l>\n<l>evam enaṃ samārūḍho haṃsaṃ yogavicakṣaṇaḥ // NbiUp_5 //</l>\n</lg>\n\n<lg>\n<l>na badhyate karmacārī pāpakoṭiśatair api /</l>\n<l>āgneyī prathamā mātrā vāyavyaiṣā vaśānugā // NbiUp_6 //</l>\n</lg>\n\n<lg>\n<l>bhānumaṇḍalasaṃkāśā bhaven mātrā tathottarā /</l>\n<l>paramā cārdhamātrā ca vāruṇīṃ tāṃ vidur budhāḥ // NbiUp_7 //</l>\n</lg>\n\n<lg>\n<l>kalātrayānanā vāpi tāsāṃ mātrāpratiṣṭhitā /</l>\n<l>eṣa oṃkāra ākhyāto dhāraṇābhir nibodhata // NbiUp_8 //</l>\n</lg>\n\n<lg>\n<l>yoṣiṇī prathamā mātrā vidyunmālā tathāparā /</l>\n<l>pataṃgī ca tṛtīyā syāc caturthī vāyuveginī // NbiUp_9 //</l>\n</lg>\n\n<lg>\n<l>pañcamīnām adheyā ca ṣaṣṭhī caindrī vidhīyate /</l>\n<l>saptamī vaiṣṇavī nāma śaṃkarī ca tathāṣṭamī // NbiUp_10 //</l>\n</lg>\n\n<lg>\n<l>navamī mahatī nāma dhruveti daśamī matā /</l>\n<l>ekādaśī bhaven maunī brāhmīti dvādaśī matā // NbiUp_11 //</l>\n</lg>\n\n<lg>\n<l>prathamāyāṃ tu mātrāyāṃ yadi prāṇair viyujyate /</l>\n<l>sa rājā bhārate varṣe sārvabhaumaḥ prajāyate // NbiUp_12 //</l>\n</lg>\n\n<lg>\n<l>dvitīyāyāṃ samutkrānto bhaved yakṣo mahātmavān /</l>\n<l>vidyādharas tṛtīyāyāṃ gandharvas tu caturthikām // NbiUp_13 //</l>\n</lg>\n\n<lg>\n<l>pañcamyām atha mātrāyāṃ yadi prāṇair viyujyate /</l>\n<l>uṣitaḥ sahadevatvaṃ somaloke mahīyate // NbiUp_14 //</l>\n</lg>\n\n<lg>\n<l>ṣaṣṭhyām indrasya sāyujyaṃ saptamyāṃ vaiṣṇavaṃ padam /</l>\n<l>aṣṭamyāṃ vrajate rudraṃ paśūnāṃ ca patiṃ tathā // NbiUp_15 //</l>\n</lg>\n\n<lg>\n<l>navamyāṃ ca maharlokaṃ daśamyāṃ ca dhruvaṃ vrajet /</l>\n<l>ekādaśyāṃ tapolokaṃ dvādaśyāṃ brahma śāśvatam // NbiUp_16 //</l>\n</lg>\n\n<lg>\n<l>tataḥ paraṃ śuddhaṃ vyāpakaṃ niṣkalaṃ śivam /</l>\n<l>sadoditaṃ paraṃ brahma jyotiṣām udayo yataḥ // NbiUp_17 //</l>\n</lg>\n\n<lg>\n<l>atīndriyaṃ guṇātītaṃ mano līnaṃ yadā bhavet /</l>\n<l>anaupamyam abhāvaṃ ca yogayuktaṃ tadādiśet // NbiUp_18 //</l>\n</lg>\n\n<lg>\n<l>tadbhaktas tatsamāsaktaḥ śanair muñcet kalevaram /</l>\n<l>susthito yogacāreṇa sarvasaṅgavivarjitaḥ // NbiUp_19 //</l>\n</lg>\n\n<lg>\n<l>tato vilīnapāśo 'sau vimalaḥ kevalaḥ prabhuḥ /</l>\n<l>tenaiva brahmabhāvena paramānandam aśnute // NbiUp_20 //</l>\n</lg>\n\n  </body>\n\n"
+  "file_title": "nādabindūpaniṣad",
+  "file_title_normal": "nadabindupanisad",
+  "metadata": {
+    "original_title": "Nādabindūpaniṣad",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Oliver Hellwig",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Oliver Hellwig",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Ramamaya Tarkaratna In: The Atharvana-Upanishads. - Calcutta : Ganesha Press, 1872 (Bibliotheca Indica ; 76)"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Nādabindūpaniṣat"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "oṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "akāro dakṣiṇaḥ pakṣa ukāras tūttaraḥ smṛtaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "makāras tasya pucchaṃ vā ardhamātrā śiras tathā // NbiUp_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pādau rajas tamas tasya śarīraṃ sattvam ucyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmaś ca dakṣiṇaṃ cakṣur adharmaś cottaraṃ smṛtam // NbiUp_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūr lokaḥ pādayos tasya bhuvar lokas tu jānunoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svar lokaḥ kaṭideśe tu nābhideśe mahar jagat // NbiUp_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "janalokas tu hṛdaye kaṇṭhadeśe tapas tataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhruvor lalāṭamadhye tu satyaloko vyavasthitaḥ // NbiUp_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sahasram iti cātra mantra eva pradarśitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evam enaṃ samārūḍho haṃsaṃ yogavicakṣaṇaḥ // NbiUp_5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na badhyate karmacārī pāpakoṭiśatair api /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āgneyī prathamā mātrā vāyavyaiṣā vaśānugā // NbiUp_6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhānumaṇḍalasaṃkāśā bhaven mātrā tathottarā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paramā cārdhamātrā ca vāruṇīṃ tāṃ vidur budhāḥ // NbiUp_7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalātrayānanā vāpi tāsāṃ mātrāpratiṣṭhitā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eṣa oṃkāra ākhyāto dhāraṇābhir nibodhata // NbiUp_8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yoṣiṇī prathamā mātrā vidyunmālā tathāparā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pataṃgī ca tṛtīyā syāc caturthī vāyuveginī // NbiUp_9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pañcamīnām adheyā ca ṣaṣṭhī caindrī vidhīyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saptamī vaiṣṇavī nāma śaṃkarī ca tathāṣṭamī // NbiUp_10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "navamī mahatī nāma dhruveti daśamī matā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekādaśī bhaven maunī brāhmīti dvādaśī matā // NbiUp_11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prathamāyāṃ tu mātrāyāṃ yadi prāṇair viyujyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa rājā bhārate varṣe sārvabhaumaḥ prajāyate // NbiUp_12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvitīyāyāṃ samutkrānto bhaved yakṣo mahātmavān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidyādharas tṛtīyāyāṃ gandharvas tu caturthikām // NbiUp_13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pañcamyām atha mātrāyāṃ yadi prāṇair viyujyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uṣitaḥ sahadevatvaṃ somaloke mahīyate // NbiUp_14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṣaṣṭhyām indrasya sāyujyaṃ saptamyāṃ vaiṣṇavaṃ padam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṣṭamyāṃ vrajate rudraṃ paśūnāṃ ca patiṃ tathā // NbiUp_15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "navamyāṃ ca maharlokaṃ daśamyāṃ ca dhruvaṃ vrajet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekādaśyāṃ tapolokaṃ dvādaśyāṃ brahma śāśvatam // NbiUp_16 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tataḥ paraṃ śuddhaṃ vyāpakaṃ niṣkalaṃ śivam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sadoditaṃ paraṃ brahma jyotiṣām udayo yataḥ // NbiUp_17 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atīndriyaṃ guṇātītaṃ mano līnaṃ yadā bhavet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anaupamyam abhāvaṃ ca yogayuktaṃ tadādiśet // NbiUp_18 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadbhaktas tatsamāsaktaḥ śanair muñcet kalevaram /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "susthito yogacāreṇa sarvasaṅgavivarjitaḥ // NbiUp_19 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tato vilīnapāśo 'sau vimalaḥ kevalaḥ prabhuḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tenaiva brahmabhāvena paramānandam aśnute // NbiUp_20 //"
+        }
+      ]
+    }
+  ]
 }

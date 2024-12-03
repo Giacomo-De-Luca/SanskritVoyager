@@ -1,0 +1,1812 @@
+{
+  "file_title": "annaṃbhatta-tarkasaṃgraha",
+  "file_title_normal": "annambhatta-tarkasamgraha",
+  "metadata": {
+    "original_title": "Tarkasaṃgraha",
+    "author": "Annaṃbhatta",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Takuya Ono",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Takuya Ono",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_1"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AnTs_1ab"
+          },
+          "text": "nidhāya hṛdi viśveśaṃ vidhāya guruvandanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AnTs_1cd"
+          },
+          "text": "bālānāṃ sukhabodhāya kriyate tarkasaṃgrahaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_1"
+      },
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {
+                "{http://www.w3.org/XML/1998/namespace}id": "AnTs_1ab"
+              },
+              "text": "nidhāya hṛdi viśveśaṃ vidhāya guru-vandanam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {
+                "{http://www.w3.org/XML/1998/namespace}id": "AnTs_1cd"
+              },
+              "text": "bālānāṃ sukha-bodhāya kriyate tarka-saṃgrahaḥ //"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_2"
+      },
+      "text": "dravyaguṇakarmasāmānyaviśeṣasamavāyābhāvāḥ sapta padārthāḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_2"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "dravya-guṇa-karma-sāmānya-viśeṣa-samavāya-abhāvāḥ sapta pada-arthāḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_3"
+      },
+      "text": "tatra dravyāṇi pṛthivyaptejovāyvākāśakāladigātmamanāṃsi navaiva //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_3"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "tatra dravyāṇi pṛthivy-ap-tejo-vāyv-ākāśa-kāla-dig-ātma-manāṃsi nava-eva //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_4"
+      },
+      "text": "rūparasagandhasparśasaṃkhyāparimāṇapṛthaktvasaṃyogavibhāgaparatvāparatvagurutvadravatvasnehaśabdabuddhisukhaduḥkhecchādveṣaprayatnadharmādharmasaṃskārāś caturviṃśati guṇāḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_4"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "rūpa-rasa-gandha-sparśa-saṃkhyā-parimāṇa-pṛthaktva-saṃyoga-vibhāga-paratva-aparatva-gurutva-dravatva-sneha-śabda-buddhi-sukha-duḥkha-icchā-dveṣa-prayatna-dharma-adharma-saṃskārāś caturviṃśati guṇāḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_5"
+      },
+      "text": "utkṣepaṇāvakṣepaṇākuñcanaprasāraṇagamanāni pañca karmāṇi //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_5"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "utkṣepaṇa-avakṣepaṇa-ākuñcana-prasāraṇa-gamanāni pañca karmāṇi //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_6"
+      },
+      "text": "param aparaṃ ceti dvividhaṃ sāmānyam //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_6"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "param aparaṃ ca iti dvividhaṃ sāmānyam //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_7"
+      },
+      "text": "nityadravyavṛttayo viśeṣās tv anantā eva //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_7"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "nitya-dravya-vṛttayo viśeṣās tv an-antā eva //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_8"
+      },
+      "text": "samavāyas tv eka eva //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_8"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "samavāyas tv eka eva //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_9"
+      },
+      "text": "abhāvaś caturvidhaḥ / prāgabhāvaḥ pradhvaṃsābhāvo 'tyantābhāvo 'nyonyābhāvaś ceti //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_9"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "abhāvaś caturvidhaḥ / prāg-abhāvaḥ pradhvaṃsa-abhāvo 'tyanta-abhāvo 'nyonya-abhāvaś ca iti //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_10"
+      },
+      "text": "gandhavatī pṛthivī / sā dvividhā nityānityā ca / nityā paramāṇurūpā / anityā kāryarūpā / punas trividhā śarīrendriyaviṣayabhedāt / śarīram asmadādīnām / indriyaṃ gandhagrāhakaṃ ghrāṇaṃ nāsāgravarti / viṣayo mṛtpāṣāṇādiḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_10"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "gandhavatī pṛthivī / sā dvividhā nitya-anityā ca / nityā paramāṇu-rūpā / anityā kārya-rūpā / punas trividhā śarīra-indriya-viṣaya-bhedāt / śarīram asmad-ādīnām / indriyaṃ gandha-grāhakaṃ ghrāṇaṃ nāsa-agravarti / viṣayo mṛt-pāṣāṇa-ādiḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_11"
+      },
+      "text": "śitasparśavatya āpaḥ / tā dvividhāḥ nityā anityāś ca / ntyāḥ paramāṇurūpāḥ / anityāḥ kāryarūpāḥ. / punas trividhāḥ. śarīrendriyaviṣayabhedāt / śarīraṃ varuṇaloke / indriyaṃ rasagrāhakaṃ rasanaṃ jihvāgravarti / viṣayaḥ saritsamudrādiḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_11"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "śita-sparśavatya āpaḥ / tā dvividhāḥ nityā anityāś ca / ntyāḥ paramāṇu-rūpāḥ / anityāḥ kārya-rūpāḥ. / punas trividhāḥ. śarīra-indriya-viṣaya-bhedāt / śarīraṃ varuṇa-loke / indriyaṃ rasa-grāhakaṃ rasanaṃ jihva-agravarti / viṣayaḥ sarit-samudra-ādiḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_12"
+      },
+      "text": "uṣṇasparśavat tejaḥ / tad dvividhaṃ nityam anityaṃ ca / niyyaṃ paramāṇurūpam / anityaṃ kāryarūpam / punas trividhaṃ śarīrendriyaviṣayabhedāt / śarīram ādityaloke / indriyaṃ rūpagrāhakaṃ cakṣuḥ kṛṣṇatārāgravarti / viṣayaś caturvidhaḥ / bhaumadivyaudaryākarajabhedāt / bhaumaṃ vahnyādikam / abindhanaṃ divyaṃ vidyudādi / bhuktasya pariṇāmahetur audaryam. ākarajaṃ suvarṇādi //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_12"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "uṣṇa-sparśavat tejaḥ / tad dvividhaṃ nityam anityaṃ ca / niyyaṃ paramāṇu-rūpam / anityaṃ kārya-rūpam / punas trividhaṃ śarīra-indriya-viṣaya-bhedāt / śarīram ādityaloke / indriyaṃ rūpa-grāhakaṃ cakṣuḥ kṛṣṇatāra-agravarti / viṣayaś caturvidhaḥ / bhauma-divya-audarya-ākaraja-bhedāt / bhaumaṃ vahny-ādikam / abindhanaṃ divyaṃ vidyud-ādi / bhuktasya pariṇāma-hetur audaryam. ākarajaṃ suvarṇa-ādi //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_13"
+      },
+      "text": "rūparahitasparśavān vāyuḥ / sa dvividho nityo 'nityaś ca / nityaḥ paramāṇurūpaḥ / anityaḥ kāryarūpaḥ / punas trividhaḥ śarīrendriyaviṣayabhedāt / śarīraṃ vāyuloke / indriyaṃ sparśagrāhakaṃ tvaksarvaśarīravarti / viṣayo vṛkṣādikampanahetuḥ // śarīrāntaḥsaṃcārī vāyuḥ prāṇaḥ / sa caiko 'py upādhibhedāt prāṇāpānādisaṃjñā labhate //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_13"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "rūpa-rahita-sparśavān vāyuḥ / sa dvividho nityo 'nityaś ca / nityaḥ paramāṇu-rūpaḥ / anityaḥ kārya-rūpaḥ / punas trividhaḥ śarīra-indriya-viṣaya-bhedāt / śarīraṃ vāyu-loke / indriyaṃ sparśa-grāhakaṃ tvak-sarva-śarīravarti / viṣayo vṛkṣa-ādi-kampana-hetuḥ // śarīra-antaḥsaṃcārī vāyuḥ prāṇaḥ / sa ca eko 'py upādhi-bhedāt prāṇa-apāna-ādi-saṃjñā labhate //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_14"
+      },
+      "text": "śabdaguṇam ākāśam / tac caikaṃ vibhu nityaṃ ca //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_14"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "śabda-guṇam ākāśam / tac ca ekaṃ vibhu nityaṃ ca //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_15"
+      },
+      "text": "atītādivyavahārahetuḥ kālaḥ / sa caiko vibhur nityaś ca //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_15"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "atīta-ādi-vyavahāra-hetuḥ kālaḥ / sa ca eko vibhur nityaś ca //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_16"
+      },
+      "text": "prācyādivyavahārahetur dik / sā caikā vibhvī nityā ca //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_16"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "prācya-ādi-vyavahāra-hetur dik / sā ca ekā vibhvī nityā ca //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_17"
+      },
+      "text": "jñānādhikaraṇam ātmā / sa dvividhaḥ paramātmā jīvātmā ca / tatreśvaraḥ sarvajñaḥ paramātmaika eva / jīvātmā pratiśarīraṃ bhinno vibhur nityaś ca //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_17"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "jñāna-adhikaraṇam ātmā / sa dvividhaḥ param-ātmā jīva-ātmā ca / tatrā iśvaraḥ sarvajñaḥ param-ātmā-eka eva / jīva-ātmā pratiśarīraṃ bhinno vibhur nityaś ca //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_18"
+      },
+      "text": "sukhādyupalabdhisādhanam indriyaṃ manaḥ / tac ca pratyātmaniyatatvād anantaṃ paramāṇurūpaṃ nityaṃ ca //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_18"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "sukha-ādy-upalabdhi-sādhanam indriyaṃ manaḥ / tac ca pratyātma-niyatatvād anantaṃ paramāṇu-rūpaṃ nityaṃ ca //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_19"
+      },
+      "text": "cakṣurmātragrāhyo guṇo rūpam / tac ca śuklanīlapītaraktaharitakapiśacitrabhedāt saptavidhaṃ pṛthivījalatejovṛtti / tatra pṛthivyāṃ saptavidham / abhāsvaraśuklaṃ jale / bhāsvaraśuklaṃ tejasi //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_19"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "cakṣur-mātra-grāhyo guṇo rūpam / tac ca śukla-nīla-pīta-rakta-harita-kapiśa-citra-bhedāt saptavidhaṃ pṛthivī-jala-tejo-vṛtti / tatra pṛthivyāṃ saptavidham / abhāsvara-śuklaṃ jale / bhāsvara-śuklaṃ tejasi //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_20"
+      },
+      "text": "rasanagrāhyo guṇo rasaḥ / sa ca madhurāmlalavaṇakaṭukaṣāyatiktabhedāt ṣaḍvidhaḥ / pṛthivyāṃ ṣaḍvidhaḥ / jale madhura eva //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_20"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "rasana-grāhyo guṇo rasaḥ / sa ca madhu-rāmla-lavaṇa-kaṭu-kaṣāya-tikta-bhedāt ṣaḍvidhaḥ / pṛthivyāṃ ṣaḍvidhaḥ / jale madhura eva //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_21"
+      },
+      "text": "ghrāṇagrāhyo guṇo gandhaḥ / sa ca dvividhaḥ surabhirasurabhiś ca / pṛthivīmātravṛttiḥ /"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_21"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "ghrāṇa-grāhyo guṇo gandhaḥ / sa ca dvividhaḥ surabhir-asurabhiś ca / pṛthivī-mātra-vṛttiḥ /"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_22"
+      },
+      "text": "tvagindriyamātragrāhyo guṇo saparśaḥ / sa ca trividhaḥ śitoṣṇānuṣṇāśītabhedāt / pṛthivyaptejovāyuvṛttiḥ / tatra śīto jale / uṣṇas tejasi / anuṣṇāśītaḥ pṛthivīvāyvoḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_22"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "tvag-indriya-mātra-grāhyo guṇo saparśaḥ / sa ca trividhaḥ śita-uṣṇa-anuṣṇa-aśīta-bhedāt / pṛthivy-ap-tejo-vāyu-vṛttiḥ / tatra śīto jale / uṣṇas tejasi / anuṣṇa-aśītaḥ pṛthivī-vāyvoḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_23"
+      },
+      "text": "rūpādicatuṣṭayaṃ pṛthivyāṃ pākajam anityaṃ ca / anyatrāpākajaṃ nityam antyaṃ ca / nityagataṃ nityam / anityagatam anityam //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_23"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "rūpa-ādi-catuṣṭayaṃ pṛthivyāṃ pākajam anityaṃ ca / anyatra apākajaṃ nityam antyaṃ ca / nityagataṃ nityam / anityagatam anityam //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_24"
+      },
+      "text": "ekatvādivyavahārahetuḥ saṃkhyā / navadravyavṛttir ekatvādiparārdhaparyantā / ekatvaṃ nityam anityaṃ ca / nityagataṃ nityam anityagatam anityam / dvitvādikaṃ tu sarvatrānityam eva //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_24"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "ekatva-ādi-vyavahāra-hetuḥ saṃkhyā / nava-dravya-vṛttir ekatva-ādi-parārdha-paryantā / ekatvaṃ nityam anityaṃ ca / nityagataṃ nityam anityagatam anityam / dvitva-ādikaṃ tu sarvatra a-nityam eva //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_25"
+      },
+      "text": "mānavyavahārakāraṇaṃ parimāṇaṃ / navadravyavṛtti / tac caturvidham / aṇu mahad dīrghaṃ hrasvaṃ ceti //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_25"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "māna-vyavahāra-kāraṇaṃ parimāṇaṃ / nava-dravya-vṛtti / tac caturvidham / aṇu mahad dīrghaṃ hrasvaṃ ca iti //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_26"
+      },
+      "text": "pṛthagvyavahārakāraṇaṃ pṛthagtvaṃ / sarvadravyavṛtti //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_26"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "pṛthag-vyavahāra-kāraṇaṃ pṛthagtvaṃ / sarvadravyavṛtti //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_27"
+      },
+      "text": "saṃyuktavyavahārahetuḥ saṃyogaḥ / sarvadravyavṛttiḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_27"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "saṃyukta-vyavahāra-hetuḥ saṃyogaḥ / sarvadravyavṛttiḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_28"
+      },
+      "text": "saṃyoganāśako guṇo vibhāgaḥ / sarvadravyavṛttiḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_28"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "saṃyoga-nāśako guṇo vibhāgaḥ / sarvadravyavṛttiḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_29"
+      },
+      "text": "parāparavyavahārāsādhāraṇakāraṇe paratvāparatve / pṛthivyādicatuṣṭayamanovṛttīti / te dvividhe dikkṛte kālakṛte ca / dūrasthe dikkṛtaṃ paratvam / samīpasthe dikkṛtam aparatvam / jyeṣṭhe kālakṛthaṃ paratvam / kaniṣṭhe kālakṛtam aparatvam //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_29"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "para-apara-vyavahāra-asādhāraṇa-kāraṇe paratva-aparatve / pṛthivy-ādi-catuṣṭaya-mano-vṛtti iti / te dvividhe dik-kṛte kāla-kṛte ca / dūra-sthe dik-kṛtaṃ paratvam / samīpasthe dik-kṛtam aparatvam / jyeṣṭhe kāla-kṛthaṃ paratvam / kaniṣṭhe kāla-kṛtam aparatvam //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_30"
+      },
+      "text": "ādyapatanāsamavāyikāraṇaṃ gurutvaṃ / pṛthivījalavṛtti //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_30"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "ādya-patana-asamavāyi-kāraṇaṃ gurutvaṃ / pṛthivī-jala-vṛtti //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_31"
+      },
+      "text": "ādyasyandanāsamavāyikāraṇaṃ dravatvaṃ pṛthivyaptejovṛtti / tad dvividhaṃ sāṃsiddhikaṃ naimittikaṃ ca / sāṃsiddhikaṃ jale naimittikaṃ pṛthivītejasoḥ / pṛthivyāṃ ghṛtādāvagnisaṃyogajanyaṃ daravatvam / tejasi suvarṇādau //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_31"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "ādya-syandana-asamavāyi-kāraṇaṃ dravatvaṃ pṛthivy-ap-tejo-vṛtti / tad dvividhaṃ sāṃsiddhikaṃ naimittikaṃ ca / sāṃsiddhikaṃ jale naimittikaṃ pṛthivī-tejasoḥ / pṛthivyāṃ ghṛta-ādāv-agni-saṃyogajanyaṃ daravatvam / tejasi suvarṇādau //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_32"
+      },
+      "text": "cūrṇādipiṇḍībhāvahetur guṇaḥ snehaḥ / jalamātravṛttiḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_32"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "cūrṇa-ādi-piṇḍī-bhāva-hetur guṇaḥ snehaḥ / jala-mātra-vṛttiḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_33"
+      },
+      "text": "śrotragrāhyo guṇaḥ śabdaḥ / ākāśamātravṛttiḥ / sa dvividho dvanyātmako varṇātmakaś ceti / dvanyātmako bheryādau / varṇātmakaḥ saṃskṛtabhāṣādirūpaḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_33"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "śrotra-grāhyo guṇaḥ śabdaḥ / ākāśa-mātra-vṛttiḥ / sa dvividho dvany-ātmako varṇa-ātmakaś ca iti / dvany-ātmako bhery-ādau / varṇa-ātmakaḥ saṃskṛta-bhāṣā-ādi-rūpaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_34"
+      },
+      "text": "sarvavyavahārahetur buddhir jñānam / sā dvividhā smṛtiranubhavaś ca / saṃskāramātrajanyaṃ jñānaṃ smṛtiḥ / tadbhinnaṃ jñānam anubhavaḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_34"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "sarva-vyavahāra-hetur buddhir jñānam / sā dvividhā smṛtir-anubhavaś ca / saṃskāra-mātra-janyaṃ jñānaṃ smṛtiḥ / tad-bhinnaṃ jñānam anubhavaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_35"
+      },
+      "text": "sa dvividho yathārtho 'yathārthaś ca / tadvati tatprakārako 'nubhavo yathārthaḥ / yathā rajata idaṃ rajatam iti jñānam / sa eva pramety ucyate / tadabhāvavati tatprakārako 'nubhavo 'yathārthaḥ / yathā śuktāv idaṃ rajatam iti jñānam //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_35"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "sa dvividho yathārtho 'yathārthaś ca / tad-vati tat-prakārako 'nubhavo yathārthaḥ / yathā rajata idaṃ rajatam iti jñānam / sa eva prama īty ucyate / tad-abhāva-vati tat-prakārako 'nubhavo 'yathārthaḥ / yathā śuktāv idaṃ rajatam iti jñānam //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_36"
+      },
+      "text": "yathārthānubhavaś caturvidhaḥ pratyakṣānumityupamitiśabdabhedāt / tatkaraṇam api caturvidhaṃ pratyakṣānumānopamānaśabdabhedāt //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_36"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "yathārtha-anubhavaś caturvidhaḥ pratyakṣa-anumity-upamiti-śabda-bhedāt / tat-karaṇam api caturvidhaṃ pratyakṣa-anumāna-upamāna-śabda-bhedāt //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_37"
+      },
+      "text": "asādhāraṇam kāraṇaṃ karaṇam /"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_37"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "asādhāraṇam kāraṇaṃ karaṇam /"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_38"
+      },
+      "text": "kāryaniyatapūrvavṛtti kāraṇam /"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_38"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "kārya-niyata-pūrva-vṛtti kāraṇam /"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_39"
+      },
+      "text": "kāryaṃ prāgabhāvapratiyogi /"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_39"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "kāryaṃ prāg-abhāva-pratiyogi /"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_40"
+      },
+      "text": "kāraṇaṃ trividhaṃ samavāyyasamavāyinimittabhedāt / yat samavetaṃ kāryam utpadyate tat samavāyikāraṇam / yathā tantavaḥ paṭasya paṭaś ca khagatarūpādeḥ / kāryeṇa kāraṇena vā sahaikasminn arthe samavetatve sati yat kāraṇaṃ tad asamavāyikāraṇam / yathā tantusaṃyogaḥ paṭasya tanturūpaṃ paṭarūpasya / tadubhayabhinnaṃ kāraṇaṃ nimittakāraṇam / yathā turīvemādikaṃ paṭasya /"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_40"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "kāraṇaṃ trividhaṃ samavāyy-asamavāyi-nimitta-bhedāt / yat samavetaṃ kāryam utpadyate tat samavāyikāraṇam / yathā tantavaḥ paṭasya paṭaś ca khagata-rūpādeḥ / kāryeṇa kāraṇena vā saha ekasminn arthe samavetatve sati yat kāraṇaṃ tad asamavāyikāraṇam / yathā tantusaṃyogaḥ paṭasya tanturūpaṃ paṭarūpasya / tad-ubhaya-bhinnaṃ kāraṇaṃ nimittakāraṇam / yathā turī-vema-ādikaṃ paṭasya /"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_41"
+      },
+      "text": "tad etattrividhakāraṇamadhye yad asādhāraṇaṃ kāraṇaṃ tad eva karaṇam //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_41"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "tad etat-trividha-kāraṇa-madhye yad asādhāraṇaṃ kāraṇaṃ tad eva karaṇam //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_42"
+      },
+      "text": "tatra pratyakṣajñānakaraṇaṃ pratyakṣam / indriyārthasannikarṣajanyaṃ jñānaṃ pratyakṣam /tad dvividhaṃ nirvikalpakaṃ savikalpakaṃ ceti / tatra nirvikalpakaṃ jñānaṃ nirvikalpakaṃ yathedaṃ kiṃcit / saparakārakaṃ jñānaṃ savikalpakaṃ yathā ḍittho'yam brahmaṇo'yaṃ śyāmo'yam iti //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_42"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "tatra pratyakṣa-jñāna-karaṇaṃ pratyakṣam / indriya-artha-sannikarṣa-janyaṃ jñānaṃ pratyakṣam /tad dvividhaṃ nirvikalpakaṃ savikalpakaṃ ca iti / tatra nirvikalpakaṃ jñānaṃ nirvikalpakaṃ yatha īdaṃ kiṃcit / saparakārakaṃ jñānaṃ savikalpakaṃ yathā ḍittho'yam brahmaṇo'yaṃ śyāmo'yam iti //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_43"
+      },
+      "text": "pratyakṣajñānahetur indriyārthasannikarṣaḥ ṣaḍvidhaḥ / saṃyogaḥ saṃyuktasamavāyaḥ saṃyuktasamavetasamavāyaḥ samavāyaḥ samavetasamavāyo viśeṣaṇaviśeṣyabhāvaś ceti / cakṣuṣā ghaṭapratyakṣajanane saṃyogaḥ sannikarṣaḥ / ghaṭarūpapratyakṣajanane saṃyuktasamavāyaḥ sannikarṣaḥ cakṣuḥsaṃyukte ghaṭe rūpasya samavāyāt / rūpatvasāmānyapratyakṣe saṃyuktasamavetasamavāyaḥ sannikarṣaḥ cakṣuḥsaṃyukte ghaṭe rūpaṃ samavetaṃ tatra rūpatvasya samavāyāt / śrotreṇa śabdasyākāśaguṇatvāt guṇaguṇinoś ca samavāyāt / śabdatvasākṣātkāre samavetasamavāyaḥ sannikarṣaḥ śrotrasamavete śabde śabdatvasya samavāyāt / abhāvaparatyakṣe viśeṣaṇaviśeṣyabhāvaḥ sannikarṣo ghaṭābhāvavad bhṛtalam ity atra cakṣuḥsaṃyukte bhūtale ghaṭābhāvasya viśeṣaṇatvāt / evaṃ snnikarṣaṣaṭkajanyaṃ jñānaṃ pratyakṣam / tatkaraṇam indriyam / tasmād indriyaṃ pratyakṣapramāṇam iti siddham //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_43"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "pratyakṣa-jñāna-hetur indriya-artha-sannikarṣaḥ ṣaḍvidhaḥ / saṃyogaḥ saṃyukta-samavāyaḥ saṃyukta-samaveta-samavāyaḥ samavāyaḥ samaveta-samavāyo viśeṣaṇa-viśeṣya-bhāvaś ca iti / cakṣuṣā ghaṭa-pratyakṣa-janane saṃyogaḥ sannikarṣaḥ / ghaṭa-rūpa-pratyakṣa-janane saṃyukta-samavāyaḥ sannikarṣaḥ cakṣuḥsaṃyukte ghaṭe rūpasya samavāyāt / rūpatva-sāmānyapratyakṣe saṃyukta-samaveta-samavāyaḥ sannikarṣaḥ cakṣuḥ-saṃyukte ghaṭe rūpaṃ samavetaṃ tatra rūpatvasya samavāyāt / śrotreṇa śabdasyā akāśa-guṇatvāt guṇa-guṇinoś ca samavāyāt / śabdatva-sākṣātkāre samaveta-samavāyaḥ sannikarṣaḥ śrotra-samavete śabde śabdatvasya samavāyāt / abhāvaparatyakṣe viśeṣaṇa-viśeṣya-bhāvaḥ sannikarṣo ghaṭa-abhāvavad bhṛtalam ity atra cakṣuḥ-saṃyukte bhūtale ghaṭa-abhāvasya viśeṣaṇatvāt / evaṃ snnikarṣa-ṣaṭka-janyaṃ jñānaṃ pratyakṣam / tatkaraṇam indriyam / tasmād indriyaṃ pratyakṣa-pramāṇam iti siddham //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_44"
+      },
+      "text": "anumitikaraṇam anumānam / parāmarśajanyaṃ jñānam anumitiḥ / vyāptiviśiṣṭapakṣadharmatājñānaṃ parāmarśaḥ / yathā vahnivyāpyadhūmavān ayaṃ parvata iti jñānaṃ parāmarśaḥ / taj janyaṃ parvato vahnimān iti jñānam anumitiḥ / yatra yatra dhūmas tatrāgnir iti sāhacaryaniyamo vyāptiḥ / vyāpyasya parvatādivṛttitvaṃ pakṣadharmatā //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_44"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "anumiti-karaṇam anumānam / parāmarśajanyaṃ jñānam anumitiḥ / vyāpti-viśiṣṭa-pakṣa-dharmatā-jñānaṃ parāmarśaḥ / yathā vahni-vyāpya-dhūmavān ayaṃ parvata iti jñānaṃ parāmarśaḥ / taj janyaṃ parvato vahnimān iti jñānam anumitiḥ / yatra yatra dhūmas tatra agnir iti sāhacarya-niyamo vyāptiḥ / vyāpyasya parvata-ādi-vṛttitvaṃ pakṣadharmatā //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_45"
+      },
+      "text": "anumānaṃ dvividhaṃ svārthaṃ parārthaṃ ca / tatra svārthaṃ svānumitihetuḥ / tathā hi svayam eva bhūyo darśanena yatra dhūmas tatra agnir iti mahānasādau vyāptiṃ gṛhītvā parvatasamīpaṃ gatas tadgate cāgnau sandihānaḥ parvate dhūmaṃ paśyan vyāptiṃ smarati yatra dhūmas tatrāgnir iti / tadantaraṃ vahnivyāpyadhūmavān ayaṃ parvata iti jñānam utpadyate / ayam eva liṅgaparāmarṣaṃ ity ucyate / tasmāt parvato vahnimān iti jñānam anumitir utpadyate / tad etat svārthānumānam / yat tu svayaṃ dhūmād agnim anumāya parapratipattyarthaṃ pañcāvayavavākyaṃ prayukte tat parārthānumānam / yathā parvato vahnimān dhūmavattvāt / yo yo dhūmavān sa vahnimān yathā mahānasaḥ / tathā cāyam / tasmāt tatheti / anena pratipāditāl lingāt paro'py agniṃ pratipadyate //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_45"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "anumānaṃ dvividhaṃ sva-arthaṃ para-arthaṃ ca / tatra sva-arthaṃ sva-anumiti-hetuḥ / tathā hi svayam eva bhūyo darśanena yatra dhūmas tatra agnir iti mahānasādau vyāptiṃ gṛhītvā parvatasamīpaṃ gatas tad-gate ca agnau sandihānaḥ parvate dhūmaṃ paśyan vyāptiṃ smarati yatra dhūmas tatra agnir iti / tad-antaraṃ vahni-vyāpya-dhūmavān ayaṃ parvata iti jñānam utpadyate / ayam eva liṅgaparāmarṣaṃ ity ucyate / tasmāt parvato vahnimān iti jñānam anumitir utpadyate / tad etat sva-artha-anumānam / yat tu svayaṃ dhūmād agnim anumāya para-pratipatty-arthaṃ pañca-avayava-vākyaṃ prayukte tat para-artha-anumānam / yathā parvato vahnimān dhūmavattvāt / yo yo dhūmavān sa vahnimān yathā mahānasaḥ / tathā ca-ayam / tasmāt tatha īti / anena pratipāditāl lingāt paro'py agniṃ pratipadyate //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_46"
+      },
+      "text": "pratijñāhetūdāharaṇopanayanigamāni pañcāvayavaḥ / parvato vahnimān iti pratijñā / dhūmavattvād iti hetuḥ / yo yo dhūmavān sa so'gnimān yathā mahānasa ity udāharaṇam / tathā cāyam iti upanayaḥ / tasmāt tatheti nigamanam //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_46"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "pratijñā-hetu-udāharaṇa-upanaya-nigamāni pañca-avayavaḥ / parvato vahnimān iti pratijñā / dhūmavattvād iti hetuḥ / yo yo dhūmavān sa so'gnimān yathā mahānasa ity udāharaṇam / tathā ca ayam iti upanayaḥ / tasmāt tatha īti nigamanam //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_47"
+      },
+      "text": "svārthānumitiparārthānumityor liṅgaparāmarśa eva karaṇam / tasmāl liṅgaparāmarśā'numānam //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_47"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "sva-artha-anumiti-para-artha-anumityor liṅga-parāmarśa eva karaṇam / tasmāl liṅga-parāmarśā'numānam //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_48"
+      },
+      "text": "liṅgaṃ trividham / anvayavyatireki kevalānvayi kevalavyatireki ceti / anvayena vyatirekeṇa ca vyāptimad anvayavyatireki / yathā vahnau sādhye dhūmavattvam / yatra dhūmas tatrāgnir yathā mahānasa ity anvayavyāptiḥ / yatra vahnir nāsti tatra dhūmo'pi nāsti yathā mahāhrada iti vyatirekavyāptiḥ / anvayamātravyāptikaṃ kevalānvayi yathā ghaṭo'bhidheyaḥ prameyatvāt paṭavat / atra prameyatvābhidhyatvayor vyatirekavyāptir nāsti sarvasyāpi prameyatvād abhidheyatvāc ca / vyatirekamātravyāptikaṃ kevalavyatireki yathā pṛthivī tarebhyo bhidyate gandhavattvāt / yad itarebhyo na bhidyate na tad gandhavat / yathā jalam / na ceyaṃ tathā / tasmān na tatheti atra yad gandhavat tad itarabhinnam ity anvayadṛṣṭanto nāsti pṛthivīmātrasya pakṣatvāt //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_48"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "liṅgaṃ trividham / anvaya-vyatireki kevala-anvayi kevala-vyatireki ca iti / anvayena vyatirekeṇa ca vyāptimad anvaya-vyatireki / yathā vahnau sādhye dhūmavattvam / yatra dhūmas tatra agnir yathā mahānasa ity anvaya-vyāptiḥ / yatra vahnir na asti tatra dhūmo'pi na asti yathā mahāhrada iti vyatireka-vyāptiḥ / anvaya-mātra-vyāptikaṃ kevala-anvayi yathā ghaṭo'bhidheyaḥ prameyatvāt paṭavat / atra prameyatva-abhidhyatvayor vyatirekavyāptir na asti sarvasya api prameyatvād abhidheyatvāc ca / vyatirekamātravyāptikaṃ kevala-vyatireki yathā pṛthivī tarebhyo bhidyate gandhavattvāt / yad itarebhyo na bhidyate na tad gandhavat / yathā jalam / na ca iyaṃ tathā / tasmān na tatha īti atra yad gandhavat tad itara-bhinnam ity anvayadṛṣṭanto na asti pṛthivī-mātrasya pakṣatvāt //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_49"
+      },
+      "text": "saṃdigdhasādhyavān pakṣaḥ / yathā dhūmavattve hetau parvataḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_49"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "saṃdigdha-sādhyavān pakṣaḥ / yathā dhūmavattve hetau parvataḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_50"
+      },
+      "text": "niścitasādhyavān sapakṣaḥ / yathā tatraiva mahānasaḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_50"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "niścita-sādhyavān sapakṣaḥ / yathā tatra eva mahānasaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_51"
+      },
+      "text": "niścitasādhyābhāvavān vipakṣaḥ / yathā tatraiva mahāhradaḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_51"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "niścita-sādhya-abhāvavān vipakṣaḥ / yathā tatra eva mahāhradaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_52"
+      },
+      "text": "savyabhicāraviruddhasatpakṣāsiddhabādhitāḥ pañca hetvābhāsāḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_52"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "savyabhicāra-viruddha-satpakṣa-asiddha-bādhitāḥ pañca hetvābhāsāḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_53"
+      },
+      "text": "savyabhicāro'naikāntikaḥ / sa trividhaḥ / sādhāraṇāsādhāraṇānupasaṃhāribhedāt / tatra sādhyābhāvavadvṛttiḥ sādhāraṇo anaikāntikaḥ / yathā parvato vahnimān prameyatvād iti prameyatvasya vahnyabhāvavati hrade vidyamānatvāt / sarvasapakṣavipakṣavyāvṛtto'sādhāraṇaḥ / yathā śabdo nityaḥ śabdatvād iti / śabdatvaṃ sarvebhyo nityebhyo'ntyebhyaś ca vyāvṛttaṃ śabdamātravṛtti / anvayavyatirekadṛṣṭāntarahito'nupasaṃhārī / yathā sarvam anityaṃ prameyatvād iti / atra sarvasyāpi pakṣatvād dṛṣṭānto nāsti //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_53"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "savyabhicāro'naikāntikaḥ / sa trividhaḥ / sādhāraṇa-asādhāraṇa-anupasaṃhāri-bhedāt / tatra sādhya-abhāvavad-vṛttiḥ sādhāraṇo anaikāntikaḥ / yathā parvato vahnimān prameyatvād iti prameyatvasya vahny-abhāvavati hrade vidyamānatvāt / sarva-sapakṣa-vipakṣa-vyāvṛtto'sādhāraṇaḥ / yathā śabdo nityaḥ śabdatvād iti / śabdatvaṃ sarvebhyo nityebhyo'ntyebhyaś ca vyāvṛttaṃ śabda-mātra-vṛtti / anvaya-vyatireka-dṛṣṭānta-rahito'nupasaṃhārī / yathā sarvam anityaṃ prameyatvād iti / atra sarvasya api pakṣatvād dṛṣṭānto na asti //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_54"
+      },
+      "text": "sādhyābhāvavyāpto hetur viruddhaḥ / yatra śabdo nityaḥ kṛtakatvād iti / kṛtakatvaṃ hi nityatvābhāvenānityatvena vyāptam //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_54"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "sādhya-abhāva-vyāpto hetur viruddhaḥ / yatra śabdo nityaḥ kṛtakatvād iti / kṛtakatvaṃ hi nityatva-abhāvena a-nityatvena vyāptam //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_55"
+      },
+      "text": "yasya sādhyabhāvasādhakaṃ hetvantaraṃ vidyate sa satpratipakṣaḥ / yathā śabdo nityaḥ śrāvaṇatvāc chabdatvavad iti / śabdo'nityaḥ kāryatvād ghaṭavad iti //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_55"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "yasya sādhya-bhāva-sādhakaṃ hetv-antaraṃ vidyate sa satpratipakṣaḥ / yathā śabdo nityaḥ śrāvaṇatvāc chabdatvavad iti / śabdo'nityaḥ kāryatvād ghaṭavad iti //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_56"
+      },
+      "text": "asiddhas trividhaḥ / āśrayāsiddhaḥ svarūpāsiddho vyāpyatvāsiddhaś ceti / āśrayāsiddho yathā gaganāravindaṃ surabhy aravindatvāt sarojāravindavat / atra gaganāravindam āśrayaḥ / sa ca nāsty eva / svarūpāsiddho yathā śabdo guṇaś cākṣuṣatvāt / atra cākṣuṣatvaṃ śabde nāsti śabdasya śrāvaṇatvāt / sopādhiko vyāpyatvāsiddhaḥ / sādhyavyāpakatve sati sādhanāvyāpaka upādhiḥ / sādhyasamānādhikaraṇātyantābhāvāpratiyogitvaṃ sādhyavyāpakatvam / sādhanavann iṣṭātyantābhāvapratiyogitvaṃ sādhāraṇāvyapakatvam / parvato dhūmavān vahnimattvād ity atrārdrendhasaṃyoga upādhiḥ / tathā hi / yatra dhūmas tatrārdrendhnasaṃyoga iti sādhyavyāpakatā / yatra vahnis tatrārdrendhanasaṃyogābhāvād iti sādhanāvyāpakatā / evaṃ sādhyavyāpakatve sati sādhanāvyāpakatvād ardrendhanasaṃyoga upādhiḥ / sopādhikatvād vahnimattvaṃ vyāpyatvāsiddham //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_56"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "asiddhas trividhaḥ / āśraya-asiddhaḥ svarūpa-asiddho vyāpyatva-asiddhaś ca iti / āśraya-asiddho yathā gagana-aravindaṃ surabhy aravindatvāt saro-ja-aravindavat / atra gagana-aravindam āśrayaḥ / sa ca na asty eva / svarūpa-asiddho yathā śabdo guṇaś cākṣuṣatvāt / atra cākṣuṣatvaṃ śabde na asti śabdasya śrāvaṇatvāt / sa-upādhiko vyāpyatva-asiddhaḥ / sādhya-vyāpakatve sati sādhana-avyāpaka upādhiḥ / sādhya-samāna-adhikaraṇa-atyanta-abhāva-apratiyogitvaṃ sādhya-vyāpakatvam / sādhanavann iṣṭa-atyanta-abhāva-pratiyogitvaṃ sādhāraṇa-avyapakatvam / parvato dhūmavān vahnimattvād ity atrā ardra-indhasaṃyoga upādhiḥ / tathā hi / yatra dhūmas tatrā ardra-indhna-saṃyoga iti sādhya-vyāpakatā / yatra vahnis tatrā ardra-indhana-saṃyoga-abhāvād iti sādhana-avyāpakatā / evaṃ sādhya-vyāpakatve sati sādhana-avyāpakatvād ardra-indhana-saṃyoga upādhiḥ / sa-upādhikatvād vahnimattvaṃ vyāpyatva-asiddham //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_57"
+      },
+      "text": "yasya sādhyābhāvaḥ pramāṇāntareṇa niścitaḥ sa bādhitaḥ / yathā vahnir anuṣṇo dravyatvād iti / atrānuṣṇatvaṃ sādhyaṃ tadabhāva uṣṇatvaṃ spārśanapratyakṣeṇa gṛhyata iti bādhitatvam //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_57"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "yasya sādhya-abhāvaḥ pramāṇa-antareṇa niścitaḥ sa bādhitaḥ / yathā vahnir anuṣṇo dravyatvād iti / atra anuṣṇatvaṃ sādhyaṃ tad-abhāva uṣṇatvaṃ spārśana-pratyakṣeṇa gṛhyata iti bādhitatvam //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_58"
+      },
+      "text": "upamitikaraṇam upamānam / saṃjñāsaṃjñisaṃbandhajñānam upamitiḥ / tatkaraṇaṃ sādṛśyajñānam / atideśavākyārthasmaraṇam avāntaravyāpāraḥ / tathā hi kaś cid gavayaśabdārtham ajānan kutaś cid āraṇyakapuruṣād gosadṛśo gavaya iti śrutvā vanaṃ gato vākyārthaṃ smaran gosadṛṣaṃ piṇḍaṃ paśyati / tadanantaram asau gavayaśabdavācya ity upamitir utpadyte //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_58"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "upamiti-karaṇam upamānam / saṃjñā-saṃjñi-saṃbandha-jñānam upamitiḥ / tat-karaṇaṃ sādṛśya-jñānam / atideśa-vākya-artha-smaraṇam avāntara-vyāpāraḥ / tathā hi kaś cid gavaya-śabda-artham ajānan kutaś cid āraṇyaka-puruṣād go-sadṛśo gavaya iti śrutvā vanaṃ gato vākya-arthaṃ smaran go-sadṛṣaṃ piṇḍaṃ paśyati / tad-anantaram asau gavaya-śabda-vācya ity upamitir utpadyte //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_59"
+      },
+      "text": "āptavākyaṃ śabdaḥ / āptas tu yathārthavaktā / vākyaṃ padasamūhaḥ / yathā gām ānayeti / śaktaṃ padam / asmāt padād ayam artho boddhavya itīśvarasaṃketaḥ śaktiḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_59"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "āpta-vākyaṃ śabdaḥ / āptas tu yatha ārtha-vaktā / vākyaṃ pada-samūhaḥ / yathā gām ānaya iti / śaktaṃ padam / asmāt padād ayam artho boddhavya itī iśvara-saṃketaḥ śaktiḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_60"
+      },
+      "text": "ākāṅkṣā yogyatā saṃnidhiś ca vākyārthajñānahetuḥ / padasya padāntaravyatirekaprayuktānvayānanubhāvakatvam ākāṅkṣā / arthābādho yogyatā / padānāmavilambenoccāraṇaṃ saṃnidhiḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_60"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "ākāṅkṣā yogyatā saṃnidhiś ca vākya-artha-jñāna-hetuḥ / padasya pada-antara-vyatireka-prayukta-anvaya-ananubhāvakatvam ākāṅkṣā / artha-abādho yogyatā / padānām-avilambena uccāraṇaṃ saṃnidhiḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_61"
+      },
+      "text": "ākāṅkṣādirahitaṃ vākyam apramāṇam / yathā gaur aśvaḥ puruṣo hastīti na pramāṇam ākāṅkṣāvirahāt / agninā siñced iti na pramāṇaṃ yogyatāvirahāt / prahare prehare'sahoccāritāni gām ānayetyādipadāni na pramāṇaṃ saṃnidhyabhāvāt //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_61"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "ākāṅkṣā-ādi-rahitaṃ vākyam apramāṇam / yathā gaur aśvaḥ puruṣo hasti īti na pramāṇam ākāṅkṣā-virahāt / agninā siñced iti na pramāṇaṃ yogyatā-virahāt / prahare prehare-'saha uccāritāni gām ānaya ity-ādi-padāni na pramāṇaṃ saṃnidhy-abhāvāt //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_62"
+      },
+      "text": "vākyaṃ dvividham / vaidikaṃ laukikaṃ ca / vaidikam īśvaroktatvāt sarvam eva pramāṇam / laukikaṃ tv āptoktaṃ pramāṇam / anyad apramāṇam //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_62"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "vākyaṃ dvividham / vaidikaṃ laukikaṃ ca / vaidikam īśvara-uktatvāt sarvam eva pramāṇam / laukikaṃ tv āpta-uktaṃ pramāṇam / anyad apramāṇam //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_63"
+      },
+      "text": "vākyārthajñānaṃ śabdajñānam / tatkaraṇaṃ śabdaḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_63"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "vākya-artha-jñānaṃ śabda-jñānam / tat-karaṇaṃ śabdaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_64"
+      },
+      "text": "ayathārthānubhavas trividhaḥ saṃśayaviparyayatarkabhedāt / ekasmin dharmini viruddhanānādharmavaiśiṣṭyāvagāhi jñānaṃ saṃśayaḥ / yathā sthāṇur vā purṣo veti / mithyājñānaṃ viparyayaḥ / yathā śuktāv idaṃ rajatam iti / vyāpyāropeṇa vyāpakāropas tarkaḥ yathā yadi vahnir na syāt tarhi dhūmo'pi na syād iti //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_64"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "ayathā-artha-anubhavas trividhaḥ saṃśaya-viparyaya-tarka-bhedāt / ekasmin dharmini viruddha-nānā-dharma-vaiśiṣṭya-avagāhi jñānaṃ saṃśayaḥ / yathā sthāṇur vā purṣo va īti / mithyā-jñānaṃ viparyayaḥ / yathā śuktāv idaṃ rajatam iti / vyāpyā aropeṇa vyāpaka-āropas tarkaḥ yathā yadi vahnir na syāt tarhi dhūmo'pi na syād iti //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_65"
+      },
+      "text": "smṛtir api dvividhā / yathārthāyathārthā ca pramājanyā yathārthā / apramājanyāyathārthā //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_65"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "smṛtir api dvividhā / yathā-artha-ayathā-arthā ca pramā-janyā yathā-arthā / apramā-janya ā-yathā-arthā //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_66"
+      },
+      "text": "sarveśām anukūlatayā vedanīyaṃ sukham //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_66"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "sarveśām anukūlatayā vedanīyaṃ sukham //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_67"
+      },
+      "text": "sarveśāṃ pratikūlatayā vedanīyaṃ duḥkham //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_67"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "sarveśāṃ pratikūlatayā vedanīyaṃ duḥkham //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_68"
+      },
+      "text": "icchā kāmaḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_68"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "icchā kāmaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_69"
+      },
+      "text": "krodho dveṣaḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_69"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "krodho dveṣaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_70"
+      },
+      "text": "kṛtiḥ prayatnaḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_70"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "kṛtiḥ prayatnaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_71"
+      },
+      "text": "vihitakarmajanyo dharmaḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_71"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "vihita-karma-janyo dharmaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_72"
+      },
+      "text": "niṣiddhakarmajanyas tv adharmaḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_72"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "niṣiddha-karma-janyas tv adharmaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_73"
+      },
+      "text": "buddhyādayo'ṣṭāv ātmamātraviśeṣaguṇāḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_73"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "buddhy-ādayo'ṣṭāv ātma-mātraviśeṣa-guṇāḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_74"
+      },
+      "text": "buddhīcchāprayatnā dvividhāḥ / nityā anityāś ca / nityā īśvarasya / anityā jīvasya //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_74"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "buddhi-icchā-prayatnā dvividhāḥ / nityā anityāś ca / nityā īśvarasya / anityā jīvasya //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_75"
+      },
+      "text": "saṃskāras trividhaḥ / vego bhāvanā sthitisthāpakaś ceti / vegaḥ pṛthivyādicatuṣṭayamanovṛttiḥ / anubhavajanyā smṛtihetur bhāvanātmamātravṛttiḥ / anyathā kṛtasya punas tadavasthāpādakaḥ sthitisthāpakaḥ kaṭādipṛthivīvṛttiḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_75"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "saṃskāras trividhaḥ / vego bhāvanā sthiti-sthāpakaś ca iti / vegaḥ pṛthivy-ādi-catuṣṭaya-mano-vṛttiḥ / anubhava-janyā smṛti-hetur bhāvanā ātma-mātra-vṛttiḥ / anyathā kṛtasya punas tad-avasthā-pādakaḥ sthiti-sthāpakaḥ kaṭa-ādi-pṛthivī-vṛttiḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_76"
+      },
+      "text": "calanātmakaṃ karma / ūrdhvadeśasaṃyogahetur utkṣepaṇam / adhodeśasaṃyogahetur apakṣepaṇam / śarīrasaṃnikṛṣṭasaṃyogahetur ākuñcanam / viprakṛṣṭasaṃyogahetuḥ prasāraṇam / anyat sarvaṃ gamanam / pṛthivyādicatuṣṭayamanomātravṛtti //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_76"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "calana-ātmakaṃ karma / ūrdhva-deśa-saṃyoga-hetur utkṣepaṇam / adho-deśa-saṃyoga-hetur apakṣepaṇam / śarīra-saṃnikṛṣṭa-saṃyoga-hetur ākuñcanam / viprakṛṣṭa-saṃyoga-hetuḥ prasāraṇam / anyat sarvaṃ gamanam / pṛthivy-ādi-catuṣṭaya-mano-mātra-vṛtti //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_77"
+      },
+      "text": "nityam ekam anekānugataṃ sāmānyam / dravyaguṇakarmavṛtti / tad dvividhaṃ parāparabhedāt / paraṃ sattā / aparaṃ dravyatvādiḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_77"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "nityam ekam aneka-anugataṃ sāmānyam / dravya-guṇa-karma-vṛtti / tad dvividhaṃ para-apara-bhedāt / paraṃ sattā / aparaṃ dravyatva-ādiḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_78"
+      },
+      "text": "nityadravyavṛttayo vyāvartakā viśeṣāḥ //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_78"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "nitya-dravya-vṛttayo vyāvartakā viśeṣāḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_79"
+      },
+      "text": "nityasaṃbandhaḥ samavāyaḥ / ayutasiddhavṛttiḥ / yayor dvayor madhya ekam avinaśyadaparāśritam evāvatiṣṭate tāv ayutasiddau / yathāvayavāvayavinau guṇaguṇinau kriyākriyāvantau jātivyaktī viśeṣanityadravye ceti //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_79"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "nitya-saṃbandhaḥ samavāyaḥ / ayuta-siddha-vṛttiḥ / yayor dvayor madhya ekam avinaśyad-apara-āśritam eva avatiṣṭate tāv ayutasiddau / yatha āvayava-avayavinau guṇa-guṇinau kriyā-kriyāvantau jāti-vyaktī viśeṣa-nitya-dravye ca iti //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_80"
+      },
+      "text": "anādiḥ sāntaḥ prāgabhāvaḥ / utpatteḥ pūrvaṃ kāryasya / sādir anantaḥ pradhvaṃsaḥ / utpattyanantaraṃ kāryasya / traikālikasaṃsargāvacchinnapratiyogitāko'tyantābhāvaḥ / yathā bhūtale ghaṭo nāstīti / tādātmyasaṃbandhāvacchinnapratiyogitāko'nyonyābhāvaḥ yathā ghaṭaḥ paṭo na bhavatīti //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_80"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "an-ādiḥ sa-antaḥ prāg-abhāvaḥ / utpatteḥ pūrvaṃ kāryasya / sa-ādir an-antaḥ pradhvaṃsaḥ / utpatty-an-antaraṃ kāryasya / traikālika-saṃsarga-avacchinna-pratiyogitāko'tyanta-abhāvaḥ / yathā bhūtale ghaṭo na asti iti / tādātmya-saṃbandha-avacchinna-pratiyogitāko'nyonya-abhāvaḥ yathā ghaṭaḥ paṭo na bhavati iti //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_81"
+      },
+      "text": "sarveṣāṃ padārthānāṃ yathāyatham ukteṣv antarbhāvāt saptaiva padārthā iti siddham //"
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_81"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "sarveṣāṃ pada-arthānāṃ yathā-yatham ukteṣv antarbhāvāt sapta eva pada-arthā iti siddham //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AnTs_p25365"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāṇādanyāyamatayor bālāvyutpattisiddhaye /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "annaṃbhaṭṭena viduṣā racitas tarkasaṃgrahaḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "note",
+      "attributes": {
+        "type": "analysis",
+        "corresp": "#AnTs_p25365"
+      },
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāṇāda-nyāya-matayor bālā-vyutpatti-siddhaye /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "annaṃbhaṭṭena viduṣā racitas tarkasaṃgrahaḥ //"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

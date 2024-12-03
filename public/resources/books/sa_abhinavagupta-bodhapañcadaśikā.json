@@ -1,4 +1,339 @@
 {
-  "title": "sa_abhinavagupta-bodhapañcadaśikā",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n<div>\n<lg xml:id='AgBpd_1'>\n<l>anastamitabhārūpas tejasāṃ tamasām api |</l>\n<l>ya eko 'ntar yadantaś ca tejāṃsi ca tamāṃsi ca ||</l>\n</lg>\n\n<lg xml:id='AgBpd_2'>\n<l>sa eva sarvabhūtānāṃ svabhāvaḥ parameśvaraḥ |</l>\n<l>bhāvajātaṃ hi tasyaiva śaktir īśvaratāmayī ||</l>\n</lg>\n\n<lg xml:id='AgBpd_3'>\n<l>śaktiś ca śaktimadrūpād vyatirekam na vāñchati |</l>\n<l>tādātmyam anayor nityaṃ vahnidāhikayor iva ||</l>\n</lg>\n\n<lg xml:id='AgBpd_4'>\n<l>sa eva bhairavo devo jagadbharaṇalakṣaṇaḥ |</l>\n<l>svātmādṛṣe samagraṃ hi yacchaktyā pratibimbitam ||</l>\n</lg>\n\n<lg xml:id='AgBpd_5'>\n<l>tasyaivaiṣā parā devī svarūpāmarśanotsukā |</l>\n<l>pūrṇatvaṃ sarvabhaveṣu yasyā nālpaṃ na cādhikam ||</l>\n</lg>\n\n<lg xml:id='AgBpd_6'>\n<l>eṣa devo 'nayā devyā nityaṃ krīḍārasotsukaḥ |</l>\n<l>vicitrān sṛṣṭisaṃhārān vidhatte yugapad vibhuḥ ||</l>\n</lg>\n\n<lg xml:id='AgBpd_7'>\n<l>atidurghaṭakāritvam asyānuttaram eva yat |</l>\n<l>etad eva svatantratvam aisvaryaṃ bodharūpatā ||</l>\n</lg>\n\n<lg xml:id='AgBpd_8'>\n<l>paricchinnaprakāśatvaṃ jaḍasya kila lakṣaṇam |</l>\n<l>jaḍād vilakṣaṇo bodho yato na parimīyate ||</l>\n</lg>\n\n<lg xml:id='AgBpd_9'>\n<l>evam asya svatantrasya nijaśaktyupabhedinaḥ |</l>\n<l>svātmagāḥ sṛṣṭisaṃhārāḥ svarūpatvena saṃsthitāḥ ||</l>\n</lg>\n\n<lg xml:id='AgBpd_10'>\n<l>teṣu vaicitryam atyantam ūrdhvādhas tiryag eva yat |</l>\n<l>bhuvanāni tadaṃśāś ca sukhaduḥkhamatiś ca yā ||</l>\n</lg>\n\n<lg xml:id='AgBpd_11'>\n<l>yad etasyāparijñānaṃ tatsvātantryaṃ hi varṇitam |</l>\n<l>sa eva khalu saṃsāro mūḍānāṃ yo vibhīṣakaḥ ||</l>\n</lg>\n\n<lg xml:id='AgBpd_12'>\n<l>tatprasādarasād eva gurvāgamata eva vā |</l>\n<l>śāstrād vā parameśasya yasmāt kasmād upāgatam ||</l>\n</lg>\n\n<lg xml:id='AgBpd_13'>\n<l>yat tattvasya parijñānaṃ sa mokṣaḥ parameśataḥ |</l>\n<l>tat pūrṇatvaṃ prabuddhānāṃ jīvanmuktiś ca sā smṛtā ||</l>\n</lg>\n\n<lg xml:id='AgBpd_14'>\n<l>etau bandhavimokṣau ca parameśasvarūpataḥ |</l>\n<l>na bhidyete na bhedo hi tattvataḥ parameśvare ||</l>\n</lg>\n\n<lg xml:id='AgBpd_15'>\n<l>ittham icchākalājñānaśaktiśūlāmbujāśritaḥ |</l>\n<l>bhairavaḥ sarvabhāvānāṃ svabhāvaḥ pariśīlyate ||</l>\n</lg>\n\n<l>sukumāramatīn śiṣyān prabodhayitum añjasā |</l>\n<l>ime 'bhinavaguptena ślokāḥ pañcadaśoditāḥ ||</l>\n\n</div>\n<div>\n\n</div>\n<div>\n\n<note>Gandharva-nagaram / DSO Sanskrit Archive</note>\n\n  </div>\n</body>\n\n"
+  "file_title": "abhinavagupta-bodhapañcadaśikā",
+  "file_title_normal": "abhinavagupta-bodhapancadasika",
+  "metadata": {
+    "original_title": "Bodhapañcadaśikā",
+    "author": "Abhinavagupta",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Marino Faliero",
+        "when": "July 1998"
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Marino Faliero",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBpd_1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "anastamitabhārūpas tejasāṃ tamasām api |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ya eko 'ntar yadantaś ca tejāṃsi ca tamāṃsi ca ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBpd_2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sa eva sarvabhūtānāṃ svabhāvaḥ parameśvaraḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhāvajātaṃ hi tasyaiva śaktir īśvaratāmayī ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBpd_3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śaktiś ca śaktimadrūpād vyatirekam na vāñchati |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tādātmyam anayor nityaṃ vahnidāhikayor iva ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBpd_4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sa eva bhairavo devo jagadbharaṇalakṣaṇaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svātmādṛṣe samagraṃ hi yacchaktyā pratibimbitam ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBpd_5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasyaivaiṣā parā devī svarūpāmarśanotsukā |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pūrṇatvaṃ sarvabhaveṣu yasyā nālpaṃ na cādhikam ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBpd_6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "eṣa devo 'nayā devyā nityaṃ krīḍārasotsukaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vicitrān sṛṣṭisaṃhārān vidhatte yugapad vibhuḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBpd_7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "atidurghaṭakāritvam asyānuttaram eva yat |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "etad eva svatantratvam aisvaryaṃ bodharūpatā ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBpd_8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "paricchinnaprakāśatvaṃ jaḍasya kila lakṣaṇam |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jaḍād vilakṣaṇo bodho yato na parimīyate ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBpd_9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "evam asya svatantrasya nijaśaktyupabhedinaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svātmagāḥ sṛṣṭisaṃhārāḥ svarūpatvena saṃsthitāḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBpd_10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "teṣu vaicitryam atyantam ūrdhvādhas tiryag eva yat |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhuvanāni tadaṃśāś ca sukhaduḥkhamatiś ca yā ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBpd_11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yad etasyāparijñānaṃ tatsvātantryaṃ hi varṇitam |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sa eva khalu saṃsāro mūḍānāṃ yo vibhīṣakaḥ ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBpd_12"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tatprasādarasād eva gurvāgamata eva vā |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śāstrād vā parameśasya yasmāt kasmād upāgatam ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBpd_13"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yat tattvasya parijñānaṃ sa mokṣaḥ parameśataḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tat pūrṇatvaṃ prabuddhānāṃ jīvanmuktiś ca sā smṛtā ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBpd_14"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "etau bandhavimokṣau ca parameśasvarūpataḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na bhidyete na bhedo hi tattvataḥ parameśvare ||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AgBpd_15"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ittham icchākalājñānaśaktiśūlāmbujāśritaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhairavaḥ sarvabhāvānāṃ svabhāvaḥ pariśīlyate ||"
+            }
+          ]
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sukumāramatīn śiṣyān prabodhayitum añjasā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ime 'bhinavaguptena ślokāḥ pañcadaśoditāḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {}
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "note",
+          "attributes": {},
+          "text": "Gandharva-nagaram / DSO Sanskrit Archive"
+        }
+      ]
+    }
+  ]
 }

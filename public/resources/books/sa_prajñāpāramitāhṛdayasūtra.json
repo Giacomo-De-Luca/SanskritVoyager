@@ -1,4 +1,77 @@
 {
-  "title": "sa_prajñāpāramitāhṛdayasūtra",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Prajñāpāramitā-hṛdaya-sūtra</p>\n\n<p>Oṃ Namo Bhagavatyai Ārya-prajāpāramitāyai!</p>\n\n<p>Ārya Āvalokiteśvaro bodhisattvo gambhīraṃ\nprajñāpāramitā-cāryāṃ caramāṇo\nvyavalokayati sma, pañca-skandhās tāṃś ca\nsvabhāva-śūnyān paśyati sma.</p>\n\n<p>Iha Śāriputra rūpaṃ śūnyatā, śūnyat'aiva rūpaṃ,\nrūpān na pṛthak śūnyatā,\nśūnyatāyā na pṛthag rūpaṃ,\nyad rūpaṃ sā śūnyatā,\nyā śūnyatā tad rūpaṃ.\nEvam eva vedanā-saṃjñā-saṃskārā-vijñānam.</p>\n\n<p>Iha Śāriputra sarva-dharmāḥ śūnyatā-lakṣaṇā\nanutpannā aniruddhā amalā avimalā anūnā aparipūrṇāḥ.\nTasmāc Chāriputra śūnyatāyāṃ na rūpaṃ\nna vedanā na saṃjñā na saṃskārāḥ na vijñānaṃ,\nna cakṣuḥ-śrotra-ghrāṇa-jihvā-kāya-manāṃsi,\nna rūpa-śabda-gandha-rasa-spraṣṭavya-dharmāḥ,\nna cakṣur-dhātur yāvan na mano-vijñāna-dhātuḥ,\nn'āvidyā n'āvidyā-kṣayo yāvan na jarā-maraṇaṃ\nna jarā-maraṇa-kṣayo na duḥkha-samudaya-nirodha-mārgā\nna jñānaṃ na prāptir n'āprāptiḥ.</p>\n\n<p>Tasmāc Chāriputra aprāptitvād bodhisattvo\nprajñā-pāramitām āśritya viharaty acitt'āvaraṇaḥ.\nCitt'āvaraṇa-nāstitvād atrasto\nviparyās'ātikrānto niṣṭhā-nirvāṇaḥ.\nTradhva-vyavasthitāḥ sarva-buddhāḥ\nprajñāpāramitām āśritya anuttarāṃ\nsamyak-sambodhim abhisambuddhāḥ.</p>\n\n<p>Tasmāj jñātavyaṃ prajñāpāramitā mahā-mantro\nmahā-vidyā-mantro'nuttara-mantro\nsamasama-mantraḥ sarva-duḥkha-praśamanaḥ satyam amithyatvāt.\nPrajñāpāramitāyām ukto mantraḥ, tadyathā -\nOṃ gate gate pāragate pārasaṃgate bodhi svāhā.</p>\n\n<p>Ity ārya-prajñāpāramitā-hṛdayaṃ samāptam.</p>\n\n  </body>\n\n"
+  "file_title": "prajñāpāramitāhṛdayasūtra",
+  "file_title_normal": "prajnaparamitahrdayasutra",
+  "metadata": {
+    "original_title": "Prajñāpāramitāhṛdayasūtra",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "n.n.",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "n.n.",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Prajñāpāramitā-hṛdaya-sūtra"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Oṃ Namo Bhagavatyai Ārya-prajāpāramitāyai!"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Ārya Āvalokiteśvaro bodhisattvo gambhīraṃ\nprajñāpāramitā-cāryāṃ caramāṇo\nvyavalokayati sma, pañca-skandhās tāṃś ca\nsvabhāva-śūnyān paśyati sma."
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Iha Śāriputra rūpaṃ śūnyatā, śūnyat'aiva rūpaṃ,\nrūpān na pṛthak śūnyatā,\nśūnyatāyā na pṛthag rūpaṃ,\nyad rūpaṃ sā śūnyatā,\nyā śūnyatā tad rūpaṃ.\nEvam eva vedanā-saṃjñā-saṃskārā-vijñānam."
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Iha Śāriputra sarva-dharmāḥ śūnyatā-lakṣaṇā\nanutpannā aniruddhā amalā avimalā anūnā aparipūrṇāḥ.\nTasmāc Chāriputra śūnyatāyāṃ na rūpaṃ\nna vedanā na saṃjñā na saṃskārāḥ na vijñānaṃ,\nna cakṣuḥ-śrotra-ghrāṇa-jihvā-kāya-manāṃsi,\nna rūpa-śabda-gandha-rasa-spraṣṭavya-dharmāḥ,\nna cakṣur-dhātur yāvan na mano-vijñāna-dhātuḥ,\nn'āvidyā n'āvidyā-kṣayo yāvan na jarā-maraṇaṃ\nna jarā-maraṇa-kṣayo na duḥkha-samudaya-nirodha-mārgā\nna jñānaṃ na prāptir n'āprāptiḥ."
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Tasmāc Chāriputra aprāptitvād bodhisattvo\nprajñā-pāramitām āśritya viharaty acitt'āvaraṇaḥ.\nCitt'āvaraṇa-nāstitvād atrasto\nviparyās'ātikrānto niṣṭhā-nirvāṇaḥ.\nTradhva-vyavasthitāḥ sarva-buddhāḥ\nprajñāpāramitām āśritya anuttarāṃ\nsamyak-sambodhim abhisambuddhāḥ."
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Tasmāj jñātavyaṃ prajñāpāramitā mahā-mantro\nmahā-vidyā-mantro'nuttara-mantro\nsamasama-mantraḥ sarva-duḥkha-praśamanaḥ satyam amithyatvāt.\nPrajñāpāramitāyām ukto mantraḥ, tadyathā -\nOṃ gate gate pāragate pārasaṃgate bodhi svāhā."
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Ity ārya-prajñāpāramitā-hṛdayaṃ samāptam."
+    }
+  ]
 }

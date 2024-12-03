@@ -1,4 +1,207 @@
 {
-  "title": "sa_dīpaṃkaraśrījñāna-mahāyānapathasādhanasaṃgraha",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Mahāyānapathasādhanasaṅgrahaḥ</p>\n\n<p>namaḥ sarvabuddhabodhisattvebhyaḥ</p>\n\n<lg>\n<l>sarvātītādyabuddhānāṃ janakatvāt pitarau tathā /</l>\n<l>bhaktyā sādhanadharmāśca vākcittābhyāṃ mudā nataḥ // 1 //</l>\n</lg>\n\n<lg>\n<l>acintyāṃ mahatīṃ bodhiṃ jighṛkṣuścedanuttarām /</l>\n<l>bodheḥ sādhananiṣṭhatvāt sādhanaṃ sārato bhajet // 2 //</l>\n</lg>\n\n<lg>\n<l>sa ca triśaraṇaṃ gattvā nivārya sakalāśubhān /</l>\n<l>adhiśīlaṃ bhajecchuddhaṃ bodhicittasya vāhanam // 3 //</l>\n</lg>\n\n<lg>\n<l>āśritya kaśayā bhūyas tāḍayan maraṇasmṛteḥ /</l>\n<l>bhavamārga mahābhītiṃ krāmetainaṃ ca satvaram // 4 //</l>\n</lg>\n\n<lg>\n<l>abhayabuddhabhūprāptaḥ praṇidhānapade sthitaḥ /</l>\n<l>sattvasaṃvaramādhāya ṣaṭ ca pāramitādikāḥ // 5 //</l>\n</lg>\n\n<lg>\n<l>sattvacaryāścarettadvat tatprajñopāyasaṅgraham /</l>\n<l>śikṣetāsthitanirvāṇaṃ tatsāro dvividhastathā // 6 //</l>\n</lg>\n\n<lg>\n<l>rāgadraryarahito nityaṃ pāvakārthī tathāraṇim /</l>\n<l>bhāvayet satataṃ bhaktyā buddhaḥ śīghraṃ tato bhavet // 7 //</l>\n</lg>\n\n<lg>\n<l>parārtha maṇivannityam anābhogaṃ karoti saḥ /</l>\n<l>mahāyānasya śikṣeyuḥ dhanyāḥ sādhanasaṅgraham // 8 //</l>\n</lg>\n\n<lg>\n<l>cittaṃ sudhālavaiḥ raktaṃ buddhayśuddhau ca duḥspṛśam /</l>\n<l>etatsaṅgrahapuṇyena jagad yātu mahāpatham // 9 //</l>\n</lg>\n\n<l>buddhabhūmimahaṃ cāptvā bhaveyaṃ lokanāyakaḥ // 10 a ba //</l>\n\n<p>'atisaṃkṣiptamahāyānapathasādhanaṃ' mahācāryadīpaṅkaraśrījñānaviracitaṃ samāptam //</p>\n\n<p>bhāratasya tenaiva upādhyāya-paṇḍitena lokacakṣuṣā bhikṣuṇā kalyāṇamatinā (dge vahi blo gros) ca anūdya nirṇītam //</p>\n\n  </body>\n\n"
+  "file_title": "dīpaṃkaraśrījñāna-mahāyānapathasādhanasaṃgraha",
+  "file_title_normal": "dipamkarasrijnana-mahayanapathasadhanasamgraha",
+  "metadata": {
+    "original_title": "Mahāyānapathasādhanasaṃgraha",
+    "author": "Dīpaṃkaraśrījñāna [= Atīśa]",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Mahāyānapathasādhanasaṅgrahaḥ"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "namaḥ sarvabuddhabodhisattvebhyaḥ"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvātītādyabuddhānāṃ janakatvāt pitarau tathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhaktyā sādhanadharmāśca vākcittābhyāṃ mudā nataḥ // 1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "acintyāṃ mahatīṃ bodhiṃ jighṛkṣuścedanuttarām /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bodheḥ sādhananiṣṭhatvāt sādhanaṃ sārato bhajet // 2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa ca triśaraṇaṃ gattvā nivārya sakalāśubhān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adhiśīlaṃ bhajecchuddhaṃ bodhicittasya vāhanam // 3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āśritya kaśayā bhūyas tāḍayan maraṇasmṛteḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhavamārga mahābhītiṃ krāmetainaṃ ca satvaram // 4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhayabuddhabhūprāptaḥ praṇidhānapade sthitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sattvasaṃvaramādhāya ṣaṭ ca pāramitādikāḥ // 5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sattvacaryāścarettadvat tatprajñopāyasaṅgraham /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śikṣetāsthitanirvāṇaṃ tatsāro dvividhastathā // 6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rāgadraryarahito nityaṃ pāvakārthī tathāraṇim /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvayet satataṃ bhaktyā buddhaḥ śīghraṃ tato bhavet // 7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parārtha maṇivannityam anābhogaṃ karoti saḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahāyānasya śikṣeyuḥ dhanyāḥ sādhanasaṅgraham // 8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cittaṃ sudhālavaiḥ raktaṃ buddhayśuddhau ca duḥspṛśam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etatsaṅgrahapuṇyena jagad yātu mahāpatham // 9 //"
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "buddhabhūmimahaṃ cāptvā bhaveyaṃ lokanāyakaḥ // 10 a ba //"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "'atisaṃkṣiptamahāyānapathasādhanaṃ' mahācāryadīpaṅkaraśrījñānaviracitaṃ samāptam //"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "bhāratasya tenaiva upādhyāya-paṇḍitena lokacakṣuṣā bhikṣuṇā kalyāṇamatinā (dge vahi blo gros) ca anūdya nirṇītam //"
+    }
+  ]
 }

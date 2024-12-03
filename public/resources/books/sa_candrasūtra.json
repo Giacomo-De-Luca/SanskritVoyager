@@ -1,4 +1,597 @@
 {
-  "title": "sa_candrasūtra",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Candrasūtra</p>\n\n<p>1. evaṃ mayā śrutam ekasama<hi rend='it'>yaṃ bhagavāñ</hi> śrāvastyāṃ viharati jet<hi rend='it'>a</hi>v<hi rend='it'>a</hi>n<hi rend='it'>a</hi> anāthapiṇḍad<hi rend='it'>ā</hi>r<hi rend='it'>ā</hi>m<hi rend='it'>e /</hi>\n2. tena khalu samayena rāhuṇā asurendreṇa sarvaṃ candramaṇḍalam āvṛtam* <hi rend='it'>/</hi>\n3. <hi rend='it'>atha</hi> yā devatā tasmiṃ<hi rend='it'>ś</hi> candramaṇḍala adhyuṣitā sā bhītā trast<hi rend='it'>ā</hi> saṃvignā āhṛṣṭaromakūpā yena bhagavāṃs teno<hi rend='it'>pajagāma /</hi> upetya bha<hi rend='it'>ga</hi>v<hi rend='it'>a</hi>tpādau śirasā <hi rend='it'>vanditvaikāṃ</hi>te 'sthād ekāntasthitā sā devatā tasyāṃ velāyāṃ gāthā babhāṣe //</p>\n\n<p><hi rend='blue'>Ed. bhitā but MS reads bhītā</hi>\n4.\nbuddhavīra namas te 'stu vipramuktāya sarvataḥ\nsaṃbādhapratipannāsmi tasya me śaraṇaṃ bhava :\n<hi rend='blue'>Ed. buddha vīra</hi></p>\n\n<lg>\n<l>5.</l>\n<l>arhantaṃ sugataṃ loke candramāḥ śaraṇaṃ gataḥ</l>\n<l>rāhoś candramasaṃ muñca buddhā lokānukampakāḥ //</l>\n</lg>\n\n<p>6. bhagavān āha //</p>\n\n<p>tamonudaṃ taṃ nabhasi prabhākaraṃ virocanaṃ śukla<hi rend='it'>v</hi>iśuddhavarcasam*\nrāho ś<hi rend='it'>a</hi>śāṅkaṃ grasa māntarīkṣe praj<hi rend='it'>ā</hi>pr<hi rend='it'>a</hi>dīpaṃ drutam utsṛjainam* //</p>\n\n<p>7. atha rāhuṇā as<hi rend='it'>u</hi>rendreṇa tvaritatvaritaṃ candramaṇḍalam utsṛṣṭam* ⟨/⟩\ntataḥ sa<hi rend='it'>ṃ</hi>tvaramāṇo 'sau rāhuś candram avāsṛ<hi rend='it'>jat*</hi>\n<hi rend='it'>saṃsvinnagātro vya</hi>thitaḥ saṃbhr<hi rend='it'>ānta āturo ya</hi>thā //</p>\n\n<p>8. adrākṣīd baḍir vairocano <hi rend='it'>rāhuṇā</hi> asurendreṇa tvaritatvaritaṃ candr<hi rend='it'>a</hi>maṇḍala<hi rend='it'>m utsṛṣṭam* / dṛṣṭvā ca baḍi</hi>r gāthāṃ babhāṣe //</p>\n\n<p>9.\nki<hi rend='it'>ṃ</hi> nu sa<hi rend='it'>ṃ</hi>tv<hi rend='it'>aramāṇas</hi> tv<hi rend='it'>aṃ</hi> rāhuś candraṃ vimuñcasi ·\nsaṃsvinnagātro vyathitaḥ saṃ<hi rend='it'>bhrānta āturo yathā</hi> <hi rend='it'>//</hi></p>\n\n<l rend='blue'>Cf. Pelliot Sanskrit bleu 449 Ac: /// ro yathā //</l>\n<p>10. <hi rend='it'>rāhur avocat* //</hi></p>\n\n<p><hi rend='it'>sa</hi>ptadhā me sphalen mūrdhā<hi rend='it'> jīvan na sukha</hi>m āp<hi rend='it'>nu</hi>yāṃ\nta<hi rend='it'>tra buddh</hi>ābhigītena muñceyaṃ śaśinaṃ na cet*\n<hi rend='blue'>Cf. Pelliot Sanskrit bleu 449 Ac: rāhu prāha // saptadhā me sphal[e] mūrdhā</hi>\n11. <hi rend='it'>baḍir vairocano 'vocat* /</hi>\nx x x x x - - - x x x x madarśi<hi rend='it'>nāṃ\nteṣāṃ gāthābhigītena rāhuś candraṃ vimuñcati //</hi>\n<hi rend='blue'>Cf. Pelliot Sanskrit bleu 449 Ad: + + + + + .. .. .. .. .. .. .. (bh)i(g)itena muñce</hi>\n12. <hi rend='it'>candrasūtraṃ samāptam* //</hi>\n</p>\n  </body>\n\n"
+  "file_title": "candrasūtra",
+  "file_title_normal": "candrasutra",
+  "metadata": {
+    "original_title": "Candrasūtra",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "K. Wille: \"Neue Fragmente des Candrasūtra\". In: Bauddhasāhityastabakāvalī, Essays and Studies on Buddhist Sanskrit Literature dedicated to Claus Vogel by Colleagues, Students, and Friends, ed. D. Dimitrov, M. Hahn, and R. Steiner. Marburg 2008 (Indica et Tibetica, 36), pp. 339-351."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Candrasūtra"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "1. evaṃ mayā śrutam ekasama",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "yaṃ bhagavāñ"
+        },
+        {
+          "tag": "text",
+          "text": "śrāvastyāṃ viharati jet"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "a"
+        },
+        {
+          "tag": "text",
+          "text": "v"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "a"
+        },
+        {
+          "tag": "text",
+          "text": "n"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "a"
+        },
+        {
+          "tag": "text",
+          "text": "anāthapiṇḍad"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ā"
+        },
+        {
+          "tag": "text",
+          "text": "r"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ā"
+        },
+        {
+          "tag": "text",
+          "text": "m"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "e /"
+        },
+        {
+          "tag": "text",
+          "text": "2. tena khalu samayena rāhuṇā asurendreṇa sarvaṃ candramaṇḍalam āvṛtam*"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "/"
+        },
+        {
+          "tag": "text",
+          "text": "3."
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "atha"
+        },
+        {
+          "tag": "text",
+          "text": "yā devatā tasmiṃ"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ś"
+        },
+        {
+          "tag": "text",
+          "text": "candramaṇḍala adhyuṣitā sā bhītā trast"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ā"
+        },
+        {
+          "tag": "text",
+          "text": "saṃvignā āhṛṣṭaromakūpā yena bhagavāṃs teno"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "pajagāma /"
+        },
+        {
+          "tag": "text",
+          "text": "upetya bha"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ga"
+        },
+        {
+          "tag": "text",
+          "text": "v"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "a"
+        },
+        {
+          "tag": "text",
+          "text": "tpādau śirasā"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "vanditvaikāṃ"
+        },
+        {
+          "tag": "text",
+          "text": "te 'sthād ekāntasthitā sā devatā tasyāṃ velāyāṃ gāthā babhāṣe //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "blue"
+          },
+          "text": "Ed. bhitā but MS reads bhītā"
+        },
+        {
+          "tag": "text",
+          "text": "4.\nbuddhavīra namas te 'stu vipramuktāya sarvataḥ\nsaṃbādhapratipannāsmi tasya me śaraṇaṃ bhava :"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "blue"
+          },
+          "text": "Ed. buddha vīra"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "5."
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "arhantaṃ sugataṃ loke candramāḥ śaraṇaṃ gataḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rāhoś candramasaṃ muñca buddhā lokānukampakāḥ //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "6. bhagavān āha //"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "tamonudaṃ taṃ nabhasi prabhākaraṃ virocanaṃ śukla",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "v"
+        },
+        {
+          "tag": "text",
+          "text": "iśuddhavarcasam*\nrāho ś"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "a"
+        },
+        {
+          "tag": "text",
+          "text": "śāṅkaṃ grasa māntarīkṣe praj"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ā"
+        },
+        {
+          "tag": "text",
+          "text": "pr"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "a"
+        },
+        {
+          "tag": "text",
+          "text": "dīpaṃ drutam utsṛjainam* //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "7. atha rāhuṇā as",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "u"
+        },
+        {
+          "tag": "text",
+          "text": "rendreṇa tvaritatvaritaṃ candramaṇḍalam utsṛṣṭam* ⟨/⟩\ntataḥ sa"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ṃ"
+        },
+        {
+          "tag": "text",
+          "text": "tvaramāṇo 'sau rāhuś candram avāsṛ"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "jat*"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "saṃsvinnagātro vya"
+        },
+        {
+          "tag": "text",
+          "text": "thitaḥ saṃbhr"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ānta āturo ya"
+        },
+        {
+          "tag": "text",
+          "text": "thā //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "8. adrākṣīd baḍir vairocano",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "rāhuṇā"
+        },
+        {
+          "tag": "text",
+          "text": "asurendreṇa tvaritatvaritaṃ candr"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "a"
+        },
+        {
+          "tag": "text",
+          "text": "maṇḍala"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "m utsṛṣṭam* / dṛṣṭvā ca baḍi"
+        },
+        {
+          "tag": "text",
+          "text": "r gāthāṃ babhāṣe //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "9.\nki",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ṃ"
+        },
+        {
+          "tag": "text",
+          "text": "nu sa"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ṃ"
+        },
+        {
+          "tag": "text",
+          "text": "tv"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "aramāṇas"
+        },
+        {
+          "tag": "text",
+          "text": "tv"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "aṃ"
+        },
+        {
+          "tag": "text",
+          "text": "rāhuś candraṃ vimuñcasi ·\nsaṃsvinnagātro vyathitaḥ saṃ"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "bhrānta āturo yathā"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "//"
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {
+        "rend": "blue"
+      },
+      "text": "Cf. Pelliot Sanskrit bleu 449 Ac: /// ro yathā //"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "10.",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "rāhur avocat* //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "sa"
+        },
+        {
+          "tag": "text",
+          "text": "ptadhā me sphalen mūrdhā"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "jīvan na sukha"
+        },
+        {
+          "tag": "text",
+          "text": "m āp"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "nu"
+        },
+        {
+          "tag": "text",
+          "text": "yāṃ\nta"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "tra buddh"
+        },
+        {
+          "tag": "text",
+          "text": "ābhigītena muñceyaṃ śaśinaṃ na cet*"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "blue"
+          },
+          "text": "Cf. Pelliot Sanskrit bleu 449 Ac: rāhu prāha // saptadhā me sphal[e] mūrdhā"
+        },
+        {
+          "tag": "text",
+          "text": "11."
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "baḍir vairocano 'vocat* /"
+        },
+        {
+          "tag": "text",
+          "text": "x x x x x - - - x x x x madarśi"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "nāṃ\nteṣāṃ gāthābhigītena rāhuś candraṃ vimuñcati //"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "blue"
+          },
+          "text": "Cf. Pelliot Sanskrit bleu 449 Ad: + + + + + .. .. .. .. .. .. .. (bh)i(g)itena muñce"
+        },
+        {
+          "tag": "text",
+          "text": "12."
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "candrasūtraṃ samāptam* //"
+        }
+      ]
+    }
+  ]
 }

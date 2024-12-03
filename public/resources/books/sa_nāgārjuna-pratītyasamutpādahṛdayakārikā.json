@@ -1,4 +1,166 @@
 {
-  "title": "sa_nāgārjuna-pratītyasamutpādahṛdayakārikā",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Pratītyasamutpādahṛdayakārikā (Pshk)</p>\n\n<p>nāgārjunakṛtā</p>\n\n<lg>\n<l>dvādaśa ye 'ṅgaviśeṣā muninoddiṣṭāḥ pratītyasambhūtāḥ /</l>\n<l>te kleśakarmaduḥkheṣu saṅgṛhītāstriṣu yathāvat // Pshk_1 //</l>\n</lg>\n\n<lg>\n<l>ādyāṣṭamanavamāḥ syuḥ kleśāḥ karma dvitīyadaśamau ca /</l>\n<l>śeṣāḥ sapta ca duḥkhaṃ trisaṅgrahā dvādaśa tu dharmāḥ // Pshk_2 //</l>\n</lg>\n\n<lg>\n<l>tribhyo bhavati dvandvaṃ dvandvātprabhavanti sapta saptabhyaḥ /</l>\n<l>traya udbhavanti bhūyastadeva[tu] bhramati bhavacakram // Pshk_3 //</l>\n</lg>\n\n<lg>\n<l>hetuphalañca[hi]sarvaṃ jagadanyo nāsti kaścidiha sattvaḥ /</l>\n<l>śūnyebhya eva śūnyā dharmāḥ prabhavanti dharmebhyaḥ // Pshk_4 //</l>\n</lg>\n\n<lg>\n<l>svādhyāyadīpamudrādarpaṇaghoṣa 'rkakāntabījāmlaiḥ /</l>\n<l>skandhapratisandhirasaṅkramaśca vidvadbhiravadhāryau // Pshk_5 //</l>\n</lg>\n\n<lg>\n<l>ya ucchedaṃ prakalpayatyatisūkṣme 'pi vastuni /</l>\n<l>pratītyasambhavasyārthamavijñaḥ sa na paśyati // Pshk_6 //</l>\n</lg>\n\n<lg>\n<l>nāpaneyamataḥ kiñcit prakṣepyaṃ nāpi kiñcana /</l>\n<l>draṣṭavyaṃ bhūtato bhūtaṃ bhūtadarśī vimucyate // Pshk_7 //</l>\n</lg>\n\n<p>pratītyasamutpādahṛdayakārikā ācārya nāgārjunakṛtā samāptā /</p>\n\n  </body>\n\n"
+  "file_title": "nāgārjuna-pratītyasamutpādahṛdayakārikā",
+  "file_title_normal": "nagarjuna-pratityasamutpadahrdayakarika",
+  "metadata": {
+    "original_title": "Pratītyasamutpādahṛdayakārikā",
+    "author": "Nāgārjuna",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Gyaltsen Namdrol: Pratityasamutpadahrdaya and Aryadharmadhatugarbhavivarana. Sarnath : CIHTS 1997, p. 29"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Pratītyasamutpādahṛdayakārikā (Pshk)"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "nāgārjunakṛtā"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvādaśa ye 'ṅgaviśeṣā muninoddiṣṭāḥ pratītyasambhūtāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "te kleśakarmaduḥkheṣu saṅgṛhītāstriṣu yathāvat // Pshk_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādyāṣṭamanavamāḥ syuḥ kleśāḥ karma dvitīyadaśamau ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śeṣāḥ sapta ca duḥkhaṃ trisaṅgrahā dvādaśa tu dharmāḥ // Pshk_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tribhyo bhavati dvandvaṃ dvandvātprabhavanti sapta saptabhyaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "traya udbhavanti bhūyastadeva[tu] bhramati bhavacakram // Pshk_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hetuphalañca[hi]sarvaṃ jagadanyo nāsti kaścidiha sattvaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyebhya eva śūnyā dharmāḥ prabhavanti dharmebhyaḥ // Pshk_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svādhyāyadīpamudrādarpaṇaghoṣa 'rkakāntabījāmlaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "skandhapratisandhirasaṅkramaśca vidvadbhiravadhāryau // Pshk_5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ya ucchedaṃ prakalpayatyatisūkṣme 'pi vastuni /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratītyasambhavasyārthamavijñaḥ sa na paśyati // Pshk_6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāpaneyamataḥ kiñcit prakṣepyaṃ nāpi kiñcana /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "draṣṭavyaṃ bhūtato bhūtaṃ bhūtadarśī vimucyate // Pshk_7 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "pratītyasamutpādahṛdayakārikā ācārya nāgārjunakṛtā samāptā /"
+    }
+  ]
 }

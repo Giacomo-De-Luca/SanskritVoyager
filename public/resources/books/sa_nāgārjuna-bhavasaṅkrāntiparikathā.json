@@ -1,4 +1,320 @@
 {
-  "title": "sa_nāgārjuna-bhavasaṅkrāntiparikathā",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Nāgārjuna: Bhavasaṅkrāntiparikathā</p>\n\n<p>namaḥ kumārabhūtāya mañjuśriye /</p>\n\n<lg>\n<l>bhāvānna jāyate 'bhāvo nābhāvādapi jāyate /</l>\n<l>bhāva utpaddyate nityaṃ bhābo bhrāntiḥ khapuṣpavat // 1 //</l>\n</lg>\n\n<lg>\n<l>sati dharme nabhastulye khatulyaṃ jāyate param /</l>\n<l>pratītya sarva khasamaṃ bhāvastasmādabhāvavān // 2 //</l>\n</lg>\n\n<lg>\n<l>sbabhāvataḥ karma nāsti heturnāsti phalaṃ na ca /</l>\n<l>na viddyata idaṃ sarbaṃ loko nāsti na bhañjanam // 3 //</l>\n</lg>\n\n<lg>\n<l>anutpannaśca yo bhāvaḥ paraṃ (sa) janayetkatham /</l>\n<l>lokaḥ prathamato 'jātaḥ kenāpi na hi nirmitaḥ /</l>\n<l>somasiṃhapurītulyo loko bhramyatyanarthake // 4 //</l>\n</lg>\n\n<lg>\n<l>loko vikalpadutpanno vikalpaścittasaṃbhavaḥ /</l>\n<l>cittaṃ hi kāyāśrayakaṃ tasmātkāyo vicāryate // 5 //</l>\n</lg>\n\n<lg>\n<l>rūpaṃ śūnyaṃ vedanā niḥsvabhāvā saṃjñā nāste nāsti saṃskārabhāvaḥ /</l>\n<l>bhūtaṃ hitvā cittacaitte ca nastastasmātkāyaḥ kalpahīnasvabhāvaḥ // 6 //</l>\n</lg>\n\n<lg>\n<l>citta nāsti na dharmāste na kāyo nāpi dhātavaḥ /</l>\n<l>advayīkaraṇaṃ hīdaṃ tattvaṃ vidvadbhirucyate // 7 //</l>\n</lg>\n\n<lg>\n<l>anālambamidaṃ sarvamanālambaṃ prabhāṣitam /</l>\n<l>kṛtvā matimanālambāmanālambaṃ samuddhitaṃ // 8 //</l>\n</lg>\n\n<lg>\n<l>dānaśīlakṣamāvīryadhyānādau suniṣevite /</l>\n<l>acireṇaiva kālena paramāṃ bodhimāpsyati // 9 //</l>\n</lg>\n\n<lg>\n<l>upāyaprajñayosthitvā sattvāṃśca karuṇāpayet /</l>\n<l>sarvajñānaṃ śighrameva lapsyate nahi saṃśayaḥ // 10 //</l>\n</lg>\n\n<lg>\n<l>nāmamātramidaṃ sarvaṃ saṃjñāmātre pratiṣṭhitam /</l>\n<l>nābhidhānātpṛthagbhūtamabhidheyaṃ na vidyate // 11 //</l>\n</lg>\n\n<lg>\n<l>anāmakāḥ sarvadharmā nirātmānaḥ prakīrtitāḥ /</l>\n<l>ime dharmā abhūtāśca kalpanāyāḥ samuddhitāḥ /</l>\n<l>kalpanā sāpi śūnyeyaṃ yayā śūnyeti kalpitāḥ // 12 //</l>\n</lg>\n\n<lg>\n<l>cakṣu paśyati rūpāṇi tattvavaktrā yaducyate /</l>\n<l>mithyābhimānalokasya sāṃvṛtaṃ satyamīritam // 13 //</l>\n</lg>\n\n<lg>\n<l>sāmagryā darśanaṃ yatra prakāśayati nāyakaḥ /</l>\n<l>prāhopacārabhūmiṃ tāṃ paramārthasya buddhimān // 14 //</l>\n</lg>\n\n<lg>\n<l>na cakṣuḥ prekṣate rūpaṃ mano dharmānnvetti ca /</l>\n<l>etattu paraṃ satyaṃ lokasya viṣayo na yat // 15 //</l>\n</lg>\n\n<lg>\n<l>cakṣurnāsti na rūpañca dṛśyaṃ nāsti na manaskriyā /</l>\n<l>cittaṃ svapnasamaṃ bhrāntiḥ sarvaṃ na sadasanna ca // 16 //</l>\n</lg>\n\n<p>ācārya āryanāgārjunakṛta bhavasaṅkrāntiparikathā sampūrṇā //</p>\n\n  </body>\n\n"
+  "file_title": "nāgārjuna-bhavasaṅkrāntiparikathā",
+  "file_title_normal": "nagarjuna-bhavasankrantiparikatha",
+  "metadata": {
+    "original_title": "Bhavasaṅkrāntiparikathā (reconstructed text)",
+    "author": "Nāgārjuna",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Pandit Aiswamy Shastri: Bhavasankrantiparikatha. Madras : Adyar Library, 1938, pp. 1-7."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Nāgārjuna: Bhavasaṅkrāntiparikathā"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "namaḥ kumārabhūtāya mañjuśriye /"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvānna jāyate 'bhāvo nābhāvādapi jāyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāva utpaddyate nityaṃ bhābo bhrāntiḥ khapuṣpavat // 1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sati dharme nabhastulye khatulyaṃ jāyate param /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratītya sarva khasamaṃ bhāvastasmādabhāvavān // 2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sbabhāvataḥ karma nāsti heturnāsti phalaṃ na ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na viddyata idaṃ sarbaṃ loko nāsti na bhañjanam // 3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anutpannaśca yo bhāvaḥ paraṃ (sa) janayetkatham /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lokaḥ prathamato 'jātaḥ kenāpi na hi nirmitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "somasiṃhapurītulyo loko bhramyatyanarthake // 4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "loko vikalpadutpanno vikalpaścittasaṃbhavaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cittaṃ hi kāyāśrayakaṃ tasmātkāyo vicāryate // 5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpaṃ śūnyaṃ vedanā niḥsvabhāvā saṃjñā nāste nāsti saṃskārabhāvaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūtaṃ hitvā cittacaitte ca nastastasmātkāyaḥ kalpahīnasvabhāvaḥ // 6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "citta nāsti na dharmāste na kāyo nāpi dhātavaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "advayīkaraṇaṃ hīdaṃ tattvaṃ vidvadbhirucyate // 7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anālambamidaṃ sarvamanālambaṃ prabhāṣitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtvā matimanālambāmanālambaṃ samuddhitaṃ // 8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dānaśīlakṣamāvīryadhyānādau suniṣevite /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "acireṇaiva kālena paramāṃ bodhimāpsyati // 9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upāyaprajñayosthitvā sattvāṃśca karuṇāpayet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvajñānaṃ śighrameva lapsyate nahi saṃśayaḥ // 10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāmamātramidaṃ sarvaṃ saṃjñāmātre pratiṣṭhitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nābhidhānātpṛthagbhūtamabhidheyaṃ na vidyate // 11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anāmakāḥ sarvadharmā nirātmānaḥ prakīrtitāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ime dharmā abhūtāśca kalpanāyāḥ samuddhitāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kalpanā sāpi śūnyeyaṃ yayā śūnyeti kalpitāḥ // 12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cakṣu paśyati rūpāṇi tattvavaktrā yaducyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mithyābhimānalokasya sāṃvṛtaṃ satyamīritam // 13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāmagryā darśanaṃ yatra prakāśayati nāyakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāhopacārabhūmiṃ tāṃ paramārthasya buddhimān // 14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na cakṣuḥ prekṣate rūpaṃ mano dharmānnvetti ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etattu paraṃ satyaṃ lokasya viṣayo na yat // 15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cakṣurnāsti na rūpañca dṛśyaṃ nāsti na manaskriyā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cittaṃ svapnasamaṃ bhrāntiḥ sarvaṃ na sadasanna ca // 16 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ācārya āryanāgārjunakṛta bhavasaṅkrāntiparikathā sampūrṇā //"
+    }
+  ]
 }

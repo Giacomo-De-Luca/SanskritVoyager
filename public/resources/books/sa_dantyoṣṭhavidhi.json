@@ -1,4 +1,421 @@
 {
-  "title": "sa_dantyoṣṭhavidhi",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<lg>\n<l>atharvāṇam ṛṣiṃ devaṃ devahayaśirodharam |</l>\n<l>praṇamya sampravakṣyāmi dantyoṣṭhavidhivistaram || 1.1 ||</l>\n</lg>\n\n<lg>\n<l>chandasy adhyayane prāpte viduṣām atha dhīmatām |</l>\n<l>bakāre saṃśayo nityam auṣṭhyaṃ dantyam iti sma ha || 1.2 ||</l>\n</lg>\n\n<lg>\n<l>tasmāt tadvidhi nirṇaye saṃśayachedanāya ca |</l>\n<l>muktā dantyā prayojyāma auṣṭhyān vakṣye kramāhitaḥ || 1.3 ||</l>\n</lg>\n\n<lg>\n<l>bhaparaṃ yatra dṛśyetāniṃgye sparśanaṃ kva cit |</l>\n<l>auṣṭyaṃ tatra pade dhīro bibhīto bibhratīr yathā || 1.4 ||</l>\n</lg>\n\n<lg>\n<l>ādyudātte bale bāṇe bila śabde tathaiva ca |</l>\n<l>samaste 'pi yatra syātām antodātto viśiṣyate || 1.5 ||</l>\n</lg>\n\n<lg>\n<l>baladābalānugrāhabaladhanvā tathaiva ca |</l>\n<l>balāsaṃ bāhū ācāryāḥ sarvāsv eva vibhaktiṣu || 1.6 ||</l>\n</lg>\n\n<lg>\n<l>balī balena barhiś cābalena balīyase |</l>\n<l>bradhnaḥ kilbiṣaṃ vaḥ ketuḥ kumbaṃ bādhiṣṭa bāliti || 1.7 ||</l>\n</lg>\n\n<lg>\n<l>bāhuṃ bohi tathā baṃdhur bahubādhe bṛhac ca yat |</l>\n<l>pibati bruvate caiva yathārthāḥ samprakīrttitāḥ || 1.8 ||</l>\n</lg>\n\n<lg>\n<l>bastavāsino bāhvaṃkair bāhuvīrye tathaiva ca |</l>\n<l>bahavaḥ kābavaṃ bāhvor bodha bahve tathaiva ca || 1.9 ||</l>\n</lg>\n\n<lg>\n<l>tathāa badhnyaṃ tābuvaṃ bahvīr navamaḥ saṃprakīrttitāḥ |</l>\n<l>ete sarveṣu śabdeṣu prathamasparśyā hi matāḥ || 1.10 ||</l>\n</lg>\n\n<lg>\n<l>vaibādha devabandhuṃ ca vibaddhas tu vibandhuṣu |</l>\n<l>dvitīya sparśyo vijñeyo vibabādhe tathaiva ca || 1.11 ||</l>\n</lg>\n\n<lg>\n<l>bāhau bāhavo bahulaṃ budhnyaṃ baddhkam eva ca |</l>\n<l>ete sarve bhavanty oṣṭhyā ye noktās te tu dantajāḥ || 1.12 ||</l>\n</lg>\n\n<p>iti prathamo 'dhyāyaḥ |</p>\n\n<lg>\n<l>adharād uttare bhāge bhāgāt prativibhāgaśaḥ |</l>\n<l>daśanāgreṇa saṃspṛṣṭyo na tu pīḍāsu yojayet || 2.1 ||</l>\n</lg>\n\n<lg>\n<l>kambalaṃ balbajaṃ bījaṃ libujā baṇmhāṃ asi |</l>\n<l>biṣkale brahma barjahye śabale bedhiṣe bayaḥ || 2.2 ||</l>\n</lg>\n\n<lg>\n<l>bahiṣṭhaḥ budhnyaḥ paḍbīśam arbudaṃ badhiras tathā |</l>\n<l>ābayobinduḥ saṃbiṃbaṃ kāhābām udumbalam || 2.3 ||</l>\n</lg>\n\n<lg>\n<l>kabru pībasi baṃdhuraṃ kaṃbūkāṃ balinas tathā |</l>\n<l>kuberaḥ stambajaṃ babhraupabdaiḥ paribedhire || 2.4 ||</l>\n</lg>\n\n<lg>\n<l>asaṃbādhe nairbādhyena baddhe buddhāni kulbajaṃ |</l>\n<l>bato batāsi bandhuṃ ca bisaṃ klībaṃ buje bujaḥ || 2.5 ||</l>\n</lg>\n\n<lg>\n<l>badhāna prābaṃdhāyāś colbaṃ kāberkas tathā |</l>\n<l>ābedhur ailabaś caivābedhe balhikāni ca || 2.6 ||</l>\n</lg>\n\n<lg>\n<l>abodhi bārhatsāme ghoṣabuddhā tathaiva ca |</l>\n<l>baṃdhanaṃ yatra śeṣaṃ syād ābadhe me nidraśanam || 2.7 ||</l>\n</lg>\n\n<lg>\n<l>alābu bajaḥ bāṇaṃ syād ādyudātto yadā bhavet |</l>\n<l>brahma śabdaṃ tu sarvārtham auṣṭhyam eva vidur budhāḥ || 2.8 ||</l>\n</lg>\n\n<lg>\n<l>chubukābdaṣkaye bāle keśabāle tathaiva ca |</l>\n<l>adhibāle vayaḥ proktaḥ śeṣeṣu parimāṇataḥ || 2.9 ||</l>\n</lg>\n\n<lg>\n<l>bibhed ādiṣu bhedāś ca pari pūrvaṃ bale tathā |</l>\n<l>baṃdhu vā siṃdhurapara eteṣāṃ tu balaḥ kva cit || 2.10 ||</l>\n</lg>\n\n<lg>\n<l>tuchubdaś cubukaś caiva babhūvuś ca babhūvuṣī |</l>\n<l>ete sarve parityajya bakāronyonya bhakṣana || 2.11 ||</l>\n</lg>\n\n<p>|| iti dvitīyo 'adhyāyaḥ ||</p>\n\n<p>|| dantyoṣṭhavidhiḥ samāptaḥ ||</p>\n\n  </body>\n\n"
+  "file_title": "dantyoṣṭhavidhi",
+  "file_title_normal": "dantyosthavidhi",
+  "metadata": {
+    "original_title": "Dantyoṣṭhavidhi",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Arlo Griffiths",
+        "when": "1 August 2006"
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Arlo Griffiths",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Pandita Ramagopala Sastri: The Dantosthavidhih or the Fourth Kahsna Treatise of the Atharvaveda edited with an introduction, translation and an index. Lahore, 1921."
+  },
+  "body": [
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atharvāṇam ṛṣiṃ devaṃ devahayaśirodharam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "praṇamya sampravakṣyāmi dantyoṣṭhavidhivistaram || 1.1 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "chandasy adhyayane prāpte viduṣām atha dhīmatām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bakāre saṃśayo nityam auṣṭhyaṃ dantyam iti sma ha || 1.2 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmāt tadvidhi nirṇaye saṃśayachedanāya ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "muktā dantyā prayojyāma auṣṭhyān vakṣye kramāhitaḥ || 1.3 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhaparaṃ yatra dṛśyetāniṃgye sparśanaṃ kva cit |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "auṣṭyaṃ tatra pade dhīro bibhīto bibhratīr yathā || 1.4 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādyudātte bale bāṇe bila śabde tathaiva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samaste 'pi yatra syātām antodātto viśiṣyate || 1.5 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "baladābalānugrāhabaladhanvā tathaiva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "balāsaṃ bāhū ācāryāḥ sarvāsv eva vibhaktiṣu || 1.6 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "balī balena barhiś cābalena balīyase |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bradhnaḥ kilbiṣaṃ vaḥ ketuḥ kumbaṃ bādhiṣṭa bāliti || 1.7 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bāhuṃ bohi tathā baṃdhur bahubādhe bṛhac ca yat |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pibati bruvate caiva yathārthāḥ samprakīrttitāḥ || 1.8 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bastavāsino bāhvaṃkair bāhuvīrye tathaiva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bahavaḥ kābavaṃ bāhvor bodha bahve tathaiva ca || 1.9 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathāa badhnyaṃ tābuvaṃ bahvīr navamaḥ saṃprakīrttitāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ete sarveṣu śabdeṣu prathamasparśyā hi matāḥ || 1.10 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vaibādha devabandhuṃ ca vibaddhas tu vibandhuṣu |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvitīya sparśyo vijñeyo vibabādhe tathaiva ca || 1.11 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bāhau bāhavo bahulaṃ budhnyaṃ baddhkam eva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ete sarve bhavanty oṣṭhyā ye noktās te tu dantajāḥ || 1.12 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "iti prathamo 'dhyāyaḥ |"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adharād uttare bhāge bhāgāt prativibhāgaśaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "daśanāgreṇa saṃspṛṣṭyo na tu pīḍāsu yojayet || 2.1 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kambalaṃ balbajaṃ bījaṃ libujā baṇmhāṃ asi |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "biṣkale brahma barjahye śabale bedhiṣe bayaḥ || 2.2 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bahiṣṭhaḥ budhnyaḥ paḍbīśam arbudaṃ badhiras tathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ābayobinduḥ saṃbiṃbaṃ kāhābām udumbalam || 2.3 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kabru pībasi baṃdhuraṃ kaṃbūkāṃ balinas tathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kuberaḥ stambajaṃ babhraupabdaiḥ paribedhire || 2.4 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asaṃbādhe nairbādhyena baddhe buddhāni kulbajaṃ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bato batāsi bandhuṃ ca bisaṃ klībaṃ buje bujaḥ || 2.5 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "badhāna prābaṃdhāyāś colbaṃ kāberkas tathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ābedhur ailabaś caivābedhe balhikāni ca || 2.6 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abodhi bārhatsāme ghoṣabuddhā tathaiva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "baṃdhanaṃ yatra śeṣaṃ syād ābadhe me nidraśanam || 2.7 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "alābu bajaḥ bāṇaṃ syād ādyudātto yadā bhavet |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "brahma śabdaṃ tu sarvārtham auṣṭhyam eva vidur budhāḥ || 2.8 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "chubukābdaṣkaye bāle keśabāle tathaiva ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adhibāle vayaḥ proktaḥ śeṣeṣu parimāṇataḥ || 2.9 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bibhed ādiṣu bhedāś ca pari pūrvaṃ bale tathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "baṃdhu vā siṃdhurapara eteṣāṃ tu balaḥ kva cit || 2.10 ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tuchubdaś cubukaś caiva babhūvuś ca babhūvuṣī |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ete sarve parityajya bakāronyonya bhakṣana || 2.11 ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "|| iti dvitīyo 'adhyāyaḥ ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "|| dantyoṣṭhavidhiḥ samāptaḥ ||"
+    }
+  ]
 }

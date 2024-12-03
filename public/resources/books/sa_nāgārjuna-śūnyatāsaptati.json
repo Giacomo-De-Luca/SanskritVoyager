@@ -1,4 +1,1217 @@
 {
-  "title": "sa_nāgārjuna-śūnyatāsaptati",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Śūnyatāsaptatiḥ (Śs)</p>\n\n<lg>\n<l>svopajñavṛttyā samanvitā utpādasthitibhaṅgāstināstihīnasamottamam /</l>\n<l>laukikavyavahārāttu buddhenoktaṃ na tattvataḥ // 1 //</l>\n</lg>\n\n<lg>\n<l>ātmā kaścinna cānātmā hyātmānātmetaraśca na /</l>\n<l>vācyaḥ sarvaḥ svabhāvena śūnyo nirvāṇasadṛśaḥ // 2 //</l>\n</lg>\n\n<lg>\n<l>hetupratyayasāmagrayāṃ sarvasyāṃ vā pṛthak pṛthak /</l>\n<l>sarvabhāvasvabhāvo na tasmācchūnyaṃ hi vidyate // 3 //</l>\n</lg>\n\n<lg>\n<l>bhāvo notpadyate bhāvān nābhāvo 'vidyamānataḥ /</l>\n<l>sadasanna virodhānna sthitibhaṅgau hyajātitaḥ // 4 //</l>\n</lg>\n\n<lg>\n<l>na jāyate yadā jātaṃ nājātamapi jāyate /</l>\n<l>jātājātācca naivaṃ hi jāyamāno 'pi jāyate // 5 //</l>\n</lg>\n\n<lg>\n<l>phale syāt phalavān hetuḥ nāstitve 'hetunā samaḥ /</l>\n<l>sadasattve virodhitvaṃ traikālye nopapadyate // 6 //</l>\n</lg>\n\n<lg>\n<l>naikatve 'nekavṛttirna no 'nekatve hi naikatā /</l>\n<l>tatpratītyasamutpannabhāvāste hyanimittakāḥ // 7 //</l>\n</lg>\n\n<lg>\n<l>dvādaśāṅgo hyanutpādaḥ samutpādaḥ pratītyajaḥ /</l>\n<l>ekacitte na tad yuktaṃ bahuṣvapi na yujyate // 8 //</l>\n</lg>\n\n<lg>\n<l>ātmā nāsti na cānātmā nityānitye duḥkhaṃ sukham /</l>\n<l>śucirnāśucirapyasti viparyāsā na santyataḥ // 9 //</l>\n</lg>\n\n<lg>\n<l>tadabhāve na cāvidyā viparyāsacatuṣkajā /</l>\n<l>tadabhāvānna saṃskārāḥ syuḥ śeṣā api tādṛśāḥ // 10 //</l>\n</lg>\n\n<lg>\n<l>saṃskāre 'satyavidyā na naiva sa tadabhāvataḥ /</l>\n<l>parasparaṃ hetubhūte svabhāvena na sidhyataḥ // 11 //</l>\n</lg>\n\n<lg>\n<l>svayaṃ svabhāvato 'siddhaṃ paraṃstajjanayet katham /</l>\n<l>ato 'siddhaparaistairna janyeran pratyayaiḥ pare // 12 //</l>\n</lg>\n\n<lg>\n<l>pitā putro na putro 'pi pitānyonyaṃ na tau vinā /</l>\n<l>tathā na yugapattau hi dvādaśāṅgaṃ tathaiva ca // 13 //</l>\n</lg>\n\n<lg>\n<l>pratītya viṣayān svapne na syād duḥkhaṃ sukhaṃ yathā /</l>\n<l>viṣayo na tathaivāpi taṃ pratītya pratītyajaḥ // 14 //</l>\n</lg>\n\n<lg>\n<l>svabhāvāddhi na bhāvāśceduttamādhamamadhyamāḥ /</l>\n<l>nānātve 'sati hetubhyo 'bhinirvṛttirna sidhyati // 15 //</l>\n</lg>\n\n<lg>\n<l>bhāvāḥ svabhāvataḥ siddhā no 'pratītya pratītya sat /</l>\n<l>niḥsvabhāvāḥ kuto bhāvāḥ svabhāvo 'pi nasthāpyate // 16 //</l>\n</lg>\n\n<lg>\n<l>svabhāvaparabhāvau vā bhaṅgo 'bhāve 'pi vā kutaḥ /</l>\n<l>svabhāvaparabhāvau cābhāvaste 'to viparyayāḥ // 17 //</l>\n</lg>\n\n<lg>\n<l>śūnyatve sati notpādo nirodho 'pi na vidyate /</l>\n<l>svabhāvaśūnyatāyāṃ hi kutaḥ syādudayavyayau // 18 //</l>\n</lg>\n\n<lg>\n<l>abhāve 'sati bhāvo na bhāvābhāvau na caikadā /</l>\n<l>ṛte bhāvaṃ na cābhāvo bhāvo 'bhāvaḥ sadā bhavet // 19 //</l>\n</lg>\n\n<lg>\n<l>na svato nāpi parato 'bhāvo bhāvaṃ vinā na hi /</l>\n<l>ata eva na bhāvo 'styabhāvo na tadabhāvataḥ // 20 //</l>\n</lg>\n\n<lg>\n<l>sati bhāve śāśvatatvaṃ vyucchedastadabhāvataḥ /</l>\n<l>ubhayaṃ hi sato bhāvād bhāvo 'to nābhyupeyate // 21 //</l>\n</lg>\n\n<lg>\n<l>santānāttanna santānaṃ bhāvo nirvartya naśyati /</l>\n<l>sidhyatīdaṃ na santānocchedadoṣaśca pūrvavat // 22 //</l>\n</lg>\n\n<lg>\n<l>dṛṣṭvā nirvṛttimārgoktiḥ śūnyatvānnodayavyayau /</l>\n<l>ado 'nyonyavirodhāddhi viruddhānaṃ ca darśanāt // 23 //</l>\n</lg>\n\n<lg>\n<l>yadyutpādanirodhau na nirvāṇaṃ kinnirodhataḥ /</l>\n<l>na nirvāṇamanutpādānirodhau yau svabhāvataḥ? // 24 //</l>\n</lg>\n\n<lg>\n<l>nirodho yadi nirvāṇaṃ hyucchedaḥ śāśvato 'nyathā /</l>\n<l>tasmād bhāvo na cābhāvo 'pyanutpādānirodhatā // 25 //</l>\n</lg>\n\n<lg>\n<l>kācitsthitirhi nirvāṇamabhāvo 'pi ca tad bhavet /</l>\n<l>abhāve 'pi hi tannaivābhāvābhāve 'pi tacca na // 26 //</l>\n</lg>\n\n<lg>\n<l>na svato lakṣaṇaṃ lakṣyāllakṣyaṃ sidhyati lakṣaṇāt /</l>\n<l>nāpyanyonyamasiddhasyāsiddho naiva hi sādhakaḥ // 27 //</l>\n</lg>\n\n<lg>\n<l>etena kāraṇaṃ kāryaṃ vedanāvedakādayaḥ /</l>\n<l>dṛśyadraṣṭrādikāḥ sarve ke 'pi coktā aśeṣataḥ // 28 //</l>\n</lg>\n\n<lg>\n<l>asthiteśca mithaḥ siddheḥ svato 'siddheśca samplavāt /</l>\n<l>bhāvābhāvācca traikālyamasanmātraṃ vikalpanā // 29 //</l>\n</lg>\n\n<lg>\n<l>utpādasthitibhaṅgā na trayaṃ saṃskṛtalakṣaṇam /</l>\n<l>tasmānna vidyate kiñcitsaṃskṛtaṃ nāpyasaṃskṛtam // 30 //</l>\n</lg>\n\n<lg>\n<l>bhagno na bhajyate 'bhagno 'pyasthitasya na ca sthitiḥ /</l>\n<l>sthitasyāpi sthitirnāsan saṃścāpyutpadyate na hi // 31 //</l>\n</lg>\n\n<lg>\n<l>na sannāsanna sadasannaiko nāneka ityapi /</l>\n<l>saṃskṛto 'saṃskṛtaḥ sarve koṭiṣvāsveva te gatāḥ // 32 //</l>\n</lg>\n\n<lg>\n<l>asti karmasvakatvaṃ hi karmakarmaphalaṃ tathā /</l>\n<l>karmaṇo 'vipraṇāśaśca dideśa bhagavān guruḥ // 33 //</l>\n</lg>\n\n<lg>\n<l>aniruddhamanutpannaṃ karmoktaṃ niḥsvabhāvakam /</l>\n<l>ātmagrahāddhi tajjātaṃ janako 'pi vikalpataḥ // 34 //</l>\n</lg>\n\n<lg>\n<l>yadi svabhāvataḥ karma tajjaḥ kāyo 'pi śāśvataḥ /</l>\n<l>vipākaduḥkhavanna syāt, syādātmaivāpi karma ca // 35 //</l>\n</lg>\n\n<lg>\n<l>karma pratyayajaṃ kiñcināstyapratyayajaṃ na ca /</l>\n<l>māyāvatsarvasaṃskārāḥ gandhabhukpurmarīcivat // 36 //</l>\n</lg>\n\n<lg>\n<l>kleśakāraṇakaṃ karma saṃskārāḥ kleśakarmataḥ /</l>\n<l>karmahetuśca kāyo 'pi trayaṃ śūnyaṃ svabhāvataḥ // 37 //</l>\n</lg>\n\n<lg>\n<l>karmaṇyasati kartā na dvayābhāve na tatphalam /</l>\n<l>tadabhāve na bhoktā syādasattvācca viviktatā // 38 //</l>\n</lg>\n\n<lg>\n<l>yo 'paśyatkarmaśūnyatvaṃ samyagjñānena kama na /</l>\n<l>karmaṇyasati karmabhyaḥ samutpannā na santi vai // 39 //</l>\n</lg>\n\n<lg>\n<l>nirmimīte yathā ṛddhyā bhagavāṃśca tathāgataḥ /</l>\n<l>tena nirmitakenāpi hyanyo nirmīyate punaḥ // 40 //</l>\n</lg>\n\n<lg>\n<l>buddhanirmitakaḥ śūnyaḥ kā tannirmitake kathā /</l>\n<l>yatkiñcitkalpanāmātrasattvaṃ taccobhayostathā // 41 //</l>\n</lg>\n\n<lg>\n<l>kartā nirmitakeneva karma nirmitasadṛśam /</l>\n<l>śūnyaṃ svabhāvato yatsat kalpanāmātrameva tat // 42 //</l>\n</lg>\n\n<lg>\n<l>karmakartā na nirvāṇaṃ yadi karma svabhāvataḥ /</l>\n<l>iṣṭāniṣṭaphalaṃ na syāttadbhāvo yadi nāsti vai // 43 //</l>\n</lg>\n\n<lg>\n<l>saccāpyasti hyasaccāpi sadasaccāpi vidyate /</l>\n<l>sugamā na hi buddhānāmābhiprāyikadeśanā // 44 //</l>\n</lg>\n\n<lg>\n<l>rūpaṃ ced bhūtato jātaṃ tadrūpaṃ syādatattvataḥ /</l>\n<l>svabhāvānna hi tannāpi paratastadabhāvataḥ // 45 //</l>\n</lg>\n\n<lg>\n<l>ekasminna catuḥsattvaṃ sannaikaṃ hi caturṣvapi /</l>\n<l>asaccaturmahābhūtāpekṣaṃ rūpaṃ kva sidhyati // 46 //</l>\n</lg>\n\n<lg>\n<l>liṅgāditi na talliṅgamatyantāgrahaṇānnanu /</l>\n<l>hetupratyayajaṃ sattve na liṅgaṃ neti yujyate // 47 //</l>\n</lg>\n\n<lg>\n<l>rūpasya grahaṇaṃ cet syātsvasvabhāvagraho bhavet /</l>\n<l>asannimittayā buddhyā hyasadrūpagrahaḥ katham // 48 //</l>\n</lg>\n\n<lg>\n<l>buddhyā kṣaṇikayā rūpaṃ nāpyate kṣaṇikaṃ yadā /</l>\n<l>tadānāgatarūpaṃ cātītaṃ kimiva gṛhyate // 49 //</l>\n</lg>\n\n<lg>\n<l>kadāpi varṇasaṃsthāne yadā naiva pṛthak pṛthak /</l>\n<l>naikagraho hi bhinnānāṃ hyubhe rūpaṃ prasidhyataḥ // 50 //</l>\n</lg>\n\n<lg>\n<l>na rūpe nāpi madhye hi cakṣurbuddhirna cakṣuṣoḥ /</l>\n<l>cakṣuḥ pratītya rūpaṃ ca viparyāso vikalpanā // 51 //</l>\n</lg>\n\n<lg>\n<l>cakṣuḥ paśyati nātmānaṃ rūpaṃ paśyennu tatkatham /</l>\n<l>cakṣurnirātmakaṃ rūpaṃ śeṣāṇyāyatanānyapi // 52 //</l>\n</lg>\n\n<lg>\n<l>cakṣuḥ svabhāvataḥ śūnyaṃ śūnyañca parabhāvataḥ /</l>\n<l>śūnyaṃ tathaiva rūpañca śeṣāṇyāyatanānyapi // 53 //</l>\n</lg>\n\n<lg>\n<l>saṃsparśena sahaikaṃ syāttadānyeṣāṃ hi śūnyatā /</l>\n<l>śūnyaṃ nāpekṣate 'śūnyaṃ hyaśūnyaṃ cāpi śūnyatām // 54 //</l>\n</lg>\n\n<lg>\n<l>nāsti svabhāvasaṃyogaḥ trikamasthitamapyasat /</l>\n<l>tatsvabhāvātmasaṃsparśo nāstyato vedanāpi sat // 55 //</l>\n</lg>\n\n<lg>\n<l>antarāyatanaṃ prāpya vijñānaṃ bāhyameva vā /</l>\n<l>jāyate 'to na vijñānaṃ śūnyaṃ māyāmarīcivat // 56 //</l>\n</lg>\n\n<lg>\n<l>vijñeyāpekṣayotpādādvijñānaṃ nāsti sad dhruvam /</l>\n<l>jñātuścāvidyamānatvamasattvājjñānajñeyayoḥ // 57 //</l>\n</lg>\n\n<lg>\n<l>kaścinnityo hyanityo vānityaṃ sarvaṃ ca nāsti vā /</l>\n<l>bhāve nityaṃ hyanityaṃ vā kathaṅkāraṃ tathā bhavet // 58 //</l>\n</lg>\n\n<lg>\n<l>rāgo dveṣaśca moho hi ceṣṭāniṣṭaviparyayaiḥ /</l>\n<l>pratyayajā hyato rāgo dveṣo mohaśca na svataḥ // 59 //</l>\n</lg>\n\n<lg>\n<l>yasmin rāgo bhavettasmin dveṣamohau yatastataḥ /</l>\n<l>vikalpato hi jāyante no vikalpo 'pi tattvataḥ // 60 //</l>\n</lg>\n\n<lg>\n<l>ye vikalpyā na te santi kalpyābhāve kva kalpanam /</l>\n<l>pratyayairjanitattvāddhi śūnye kalpyakakalpane // 61 //</l>\n</lg>\n\n<lg>\n<l>caturviparyayai rjātā nāvidyā tattvadarśanāt /</l>\n<l>tadabhāve na saṃskārāḥ syuḥ śeṣā api tādṛśāḥ // 62 //</l>\n</lg>\n\n<lg>\n<l>yadyatpratītya yajjātaṃ tadabhāve na tattataḥ /</l>\n<l>bhāvābhāvāśca saṃskārāsaṃskārāḥ śāntanirvṛtāḥ // 63 //</l>\n</lg>\n\n<lg>\n<l>hetupratyayajā bhāvāḥ kalpyante ye ca tatvataḥ /</l>\n<l>proktā śāstrā hyavidyā sā dvādaśāṅgaṃ tato bhavet // 64 //</l>\n</lg>\n\n<lg>\n<l>bhāvaśūnyatvasajjñānānnāvidyā tattvadarśanāt /</l>\n<l>so hyavidyānirodho 'to dvādaśāṅgaṃ nirudhyate // 65 //</l>\n</lg>\n\n<lg>\n<l>māyāmarīcigandharvapurabudbudaphenavat /</l>\n<l>saṃskārāḥ svapnasaṃkāśā vidyante 'lātacakravat // 66 //</l>\n</lg>\n\n<lg>\n<l>bhāvaḥ svabhāvataḥ kaścinnātrābhāvo 'pi vidyate /</l>\n<l>hetupratyayato jāto bhāvo 'bhāvaśca śūnyakaḥ // 67 //</l>\n</lg>\n\n<lg>\n<l>sarvabhāvasvabhāvānāṃ śūnyatvādupadiṣṭavān /</l>\n<l>sarve pratītyajā bhāvā ityatulyastathāgataḥ // 68 //</l>\n</lg>\n\n<lg>\n<l>tanmātraḥ paramārtho hi bhagavān buddha uktavān /</l>\n<l>lokavartanamāśritya sarvaṃ nānā yathārthataḥ // 69 //</l>\n</lg>\n\n<lg>\n<l>lokabhāsanabhaṅgo na dharmaḥ kaścinna tattvataḥ /</l>\n<l>bhīto 'jño 'kalpanirhāre saugate vacane tvataḥ // 70 //</l>\n</lg>\n\n<lg>\n<l>idampratītya cāstīdaṃ na rodho lokapaddhateḥ /</l>\n<l>pratītyajaḥ sa niḥsattvaḥ santyete niścayaḥ katham // 71 //</l>\n</lg>\n\n<lg>\n<l>tattvānvīkṣārataḥ śrāddha ukte kutrāpi na sthitaḥ /</l>\n<l>prāpya yuktyā nayaṃ śāntaḥ bhāvābhāvaprahāṇataḥ // 72 //</l>\n</lg>\n\n<lg>\n<l>idampratyayatājñānāt dṛṣṭijālavinirgataḥ /</l>\n<l>aspṛṣṭaṃ yāti nirvāṇaṃ rāgapratighamohahaḥ // 73 //</l>\n</lg>\n\n<p>śūnyatāsaptatervṛttiḥ ācāryanāgārjunapādakṛtā samāptā //</p>\n\n  </body>\n\n"
+  "file_title": "nāgārjuna-śūnyatāsaptati",
+  "file_title_normal": "nagarjuna-sunyatasaptati",
+  "metadata": {
+    "original_title": "Śūnyatāsaptati",
+    "author": "Nāgārjuna",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Acarya Sempa Dorje: Sunyata Saptati. Sarnath : Central Institute of High Tibetan Studies (CIHTS), 1985"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Śūnyatāsaptatiḥ (Śs)"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svopajñavṛttyā samanvitā utpādasthitibhaṅgāstināstihīnasamottamam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "laukikavyavahārāttu buddhenoktaṃ na tattvataḥ // 1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmā kaścinna cānātmā hyātmānātmetaraśca na /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vācyaḥ sarvaḥ svabhāvena śūnyo nirvāṇasadṛśaḥ // 2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hetupratyayasāmagrayāṃ sarvasyāṃ vā pṛthak pṛthak /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvabhāvasvabhāvo na tasmācchūnyaṃ hi vidyate // 3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvo notpadyate bhāvān nābhāvo 'vidyamānataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sadasanna virodhānna sthitibhaṅgau hyajātitaḥ // 4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na jāyate yadā jātaṃ nājātamapi jāyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jātājātācca naivaṃ hi jāyamāno 'pi jāyate // 5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "phale syāt phalavān hetuḥ nāstitve 'hetunā samaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sadasattve virodhitvaṃ traikālye nopapadyate // 6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "naikatve 'nekavṛttirna no 'nekatve hi naikatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatpratītyasamutpannabhāvāste hyanimittakāḥ // 7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvādaśāṅgo hyanutpādaḥ samutpādaḥ pratītyajaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekacitte na tad yuktaṃ bahuṣvapi na yujyate // 8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmā nāsti na cānātmā nityānitye duḥkhaṃ sukham /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śucirnāśucirapyasti viparyāsā na santyataḥ // 9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadabhāve na cāvidyā viparyāsacatuṣkajā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadabhāvānna saṃskārāḥ syuḥ śeṣā api tādṛśāḥ // 10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃskāre 'satyavidyā na naiva sa tadabhāvataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parasparaṃ hetubhūte svabhāvena na sidhyataḥ // 11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svayaṃ svabhāvato 'siddhaṃ paraṃstajjanayet katham /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ato 'siddhaparaistairna janyeran pratyayaiḥ pare // 12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pitā putro na putro 'pi pitānyonyaṃ na tau vinā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā na yugapattau hi dvādaśāṅgaṃ tathaiva ca // 13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratītya viṣayān svapne na syād duḥkhaṃ sukhaṃ yathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣayo na tathaivāpi taṃ pratītya pratītyajaḥ // 14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svabhāvāddhi na bhāvāśceduttamādhamamadhyamāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nānātve 'sati hetubhyo 'bhinirvṛttirna sidhyati // 15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvāḥ svabhāvataḥ siddhā no 'pratītya pratītya sat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niḥsvabhāvāḥ kuto bhāvāḥ svabhāvo 'pi nasthāpyate // 16 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svabhāvaparabhāvau vā bhaṅgo 'bhāve 'pi vā kutaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svabhāvaparabhāvau cābhāvaste 'to viparyayāḥ // 17 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyatve sati notpādo nirodho 'pi na vidyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svabhāvaśūnyatāyāṃ hi kutaḥ syādudayavyayau // 18 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhāve 'sati bhāvo na bhāvābhāvau na caikadā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṛte bhāvaṃ na cābhāvo bhāvo 'bhāvaḥ sadā bhavet // 19 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na svato nāpi parato 'bhāvo bhāvaṃ vinā na hi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ata eva na bhāvo 'styabhāvo na tadabhāvataḥ // 20 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sati bhāve śāśvatatvaṃ vyucchedastadabhāvataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ubhayaṃ hi sato bhāvād bhāvo 'to nābhyupeyate // 21 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "santānāttanna santānaṃ bhāvo nirvartya naśyati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sidhyatīdaṃ na santānocchedadoṣaśca pūrvavat // 22 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛṣṭvā nirvṛttimārgoktiḥ śūnyatvānnodayavyayau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ado 'nyonyavirodhāddhi viruddhānaṃ ca darśanāt // 23 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadyutpādanirodhau na nirvāṇaṃ kinnirodhataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na nirvāṇamanutpādānirodhau yau svabhāvataḥ? // 24 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirodho yadi nirvāṇaṃ hyucchedaḥ śāśvato 'nyathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmād bhāvo na cābhāvo 'pyanutpādānirodhatā // 25 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kācitsthitirhi nirvāṇamabhāvo 'pi ca tad bhavet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhāve 'pi hi tannaivābhāvābhāve 'pi tacca na // 26 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na svato lakṣaṇaṃ lakṣyāllakṣyaṃ sidhyati lakṣaṇāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāpyanyonyamasiddhasyāsiddho naiva hi sādhakaḥ // 27 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etena kāraṇaṃ kāryaṃ vedanāvedakādayaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛśyadraṣṭrādikāḥ sarve ke 'pi coktā aśeṣataḥ // 28 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asthiteśca mithaḥ siddheḥ svato 'siddheśca samplavāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvābhāvācca traikālyamasanmātraṃ vikalpanā // 29 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utpādasthitibhaṅgā na trayaṃ saṃskṛtalakṣaṇam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmānna vidyate kiñcitsaṃskṛtaṃ nāpyasaṃskṛtam // 30 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhagno na bhajyate 'bhagno 'pyasthitasya na ca sthitiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sthitasyāpi sthitirnāsan saṃścāpyutpadyate na hi // 31 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na sannāsanna sadasannaiko nāneka ityapi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃskṛto 'saṃskṛtaḥ sarve koṭiṣvāsveva te gatāḥ // 32 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asti karmasvakatvaṃ hi karmakarmaphalaṃ tathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmaṇo 'vipraṇāśaśca dideśa bhagavān guruḥ // 33 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aniruddhamanutpannaṃ karmoktaṃ niḥsvabhāvakam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmagrahāddhi tajjātaṃ janako 'pi vikalpataḥ // 34 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadi svabhāvataḥ karma tajjaḥ kāyo 'pi śāśvataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vipākaduḥkhavanna syāt, syādātmaivāpi karma ca // 35 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karma pratyayajaṃ kiñcināstyapratyayajaṃ na ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyāvatsarvasaṃskārāḥ gandhabhukpurmarīcivat // 36 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kleśakāraṇakaṃ karma saṃskārāḥ kleśakarmataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmahetuśca kāyo 'pi trayaṃ śūnyaṃ svabhāvataḥ // 37 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmaṇyasati kartā na dvayābhāve na tatphalam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadabhāve na bhoktā syādasattvācca viviktatā // 38 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yo 'paśyatkarmaśūnyatvaṃ samyagjñānena kama na /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmaṇyasati karmabhyaḥ samutpannā na santi vai // 39 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirmimīte yathā ṛddhyā bhagavāṃśca tathāgataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tena nirmitakenāpi hyanyo nirmīyate punaḥ // 40 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhanirmitakaḥ śūnyaḥ kā tannirmitake kathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yatkiñcitkalpanāmātrasattvaṃ taccobhayostathā // 41 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kartā nirmitakeneva karma nirmitasadṛśam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyaṃ svabhāvato yatsat kalpanāmātrameva tat // 42 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmakartā na nirvāṇaṃ yadi karma svabhāvataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iṣṭāniṣṭaphalaṃ na syāttadbhāvo yadi nāsti vai // 43 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saccāpyasti hyasaccāpi sadasaccāpi vidyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sugamā na hi buddhānāmābhiprāyikadeśanā // 44 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpaṃ ced bhūtato jātaṃ tadrūpaṃ syādatattvataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svabhāvānna hi tannāpi paratastadabhāvataḥ // 45 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekasminna catuḥsattvaṃ sannaikaṃ hi caturṣvapi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asaccaturmahābhūtāpekṣaṃ rūpaṃ kva sidhyati // 46 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "liṅgāditi na talliṅgamatyantāgrahaṇānnanu /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hetupratyayajaṃ sattve na liṅgaṃ neti yujyate // 47 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpasya grahaṇaṃ cet syātsvasvabhāvagraho bhavet /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asannimittayā buddhyā hyasadrūpagrahaḥ katham // 48 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhyā kṣaṇikayā rūpaṃ nāpyate kṣaṇikaṃ yadā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadānāgatarūpaṃ cātītaṃ kimiva gṛhyate // 49 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kadāpi varṇasaṃsthāne yadā naiva pṛthak pṛthak /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "naikagraho hi bhinnānāṃ hyubhe rūpaṃ prasidhyataḥ // 50 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na rūpe nāpi madhye hi cakṣurbuddhirna cakṣuṣoḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cakṣuḥ pratītya rūpaṃ ca viparyāso vikalpanā // 51 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cakṣuḥ paśyati nātmānaṃ rūpaṃ paśyennu tatkatham /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cakṣurnirātmakaṃ rūpaṃ śeṣāṇyāyatanānyapi // 52 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cakṣuḥ svabhāvataḥ śūnyaṃ śūnyañca parabhāvataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyaṃ tathaiva rūpañca śeṣāṇyāyatanānyapi // 53 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃsparśena sahaikaṃ syāttadānyeṣāṃ hi śūnyatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyaṃ nāpekṣate 'śūnyaṃ hyaśūnyaṃ cāpi śūnyatām // 54 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāsti svabhāvasaṃyogaḥ trikamasthitamapyasat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatsvabhāvātmasaṃsparśo nāstyato vedanāpi sat // 55 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "antarāyatanaṃ prāpya vijñānaṃ bāhyameva vā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jāyate 'to na vijñānaṃ śūnyaṃ māyāmarīcivat // 56 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñeyāpekṣayotpādādvijñānaṃ nāsti sad dhruvam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñātuścāvidyamānatvamasattvājjñānajñeyayoḥ // 57 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kaścinnityo hyanityo vānityaṃ sarvaṃ ca nāsti vā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāve nityaṃ hyanityaṃ vā kathaṅkāraṃ tathā bhavet // 58 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rāgo dveṣaśca moho hi ceṣṭāniṣṭaviparyayaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyayajā hyato rāgo dveṣo mohaśca na svataḥ // 59 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yasmin rāgo bhavettasmin dveṣamohau yatastataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vikalpato hi jāyante no vikalpo 'pi tattvataḥ // 60 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ye vikalpyā na te santi kalpyābhāve kva kalpanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyayairjanitattvāddhi śūnye kalpyakakalpane // 61 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caturviparyayai rjātā nāvidyā tattvadarśanāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadabhāve na saṃskārāḥ syuḥ śeṣā api tādṛśāḥ // 62 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadyatpratītya yajjātaṃ tadabhāve na tattataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvābhāvāśca saṃskārāsaṃskārāḥ śāntanirvṛtāḥ // 63 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hetupratyayajā bhāvāḥ kalpyante ye ca tatvataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "proktā śāstrā hyavidyā sā dvādaśāṅgaṃ tato bhavet // 64 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvaśūnyatvasajjñānānnāvidyā tattvadarśanāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "so hyavidyānirodho 'to dvādaśāṅgaṃ nirudhyate // 65 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyāmarīcigandharvapurabudbudaphenavat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃskārāḥ svapnasaṃkāśā vidyante 'lātacakravat // 66 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvaḥ svabhāvataḥ kaścinnātrābhāvo 'pi vidyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hetupratyayato jāto bhāvo 'bhāvaśca śūnyakaḥ // 67 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvabhāvasvabhāvānāṃ śūnyatvādupadiṣṭavān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarve pratītyajā bhāvā ityatulyastathāgataḥ // 68 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tanmātraḥ paramārtho hi bhagavān buddha uktavān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lokavartanamāśritya sarvaṃ nānā yathārthataḥ // 69 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lokabhāsanabhaṅgo na dharmaḥ kaścinna tattvataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhīto 'jño 'kalpanirhāre saugate vacane tvataḥ // 70 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "idampratītya cāstīdaṃ na rodho lokapaddhateḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratītyajaḥ sa niḥsattvaḥ santyete niścayaḥ katham // 71 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tattvānvīkṣārataḥ śrāddha ukte kutrāpi na sthitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāpya yuktyā nayaṃ śāntaḥ bhāvābhāvaprahāṇataḥ // 72 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "idampratyayatājñānāt dṛṣṭijālavinirgataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aspṛṣṭaṃ yāti nirvāṇaṃ rāgapratighamohahaḥ // 73 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "śūnyatāsaptatervṛttiḥ ācāryanāgārjunapādakṛtā samāptā //"
+    }
+  ]
 }

@@ -1,4 +1,113 @@
 {
-  "title": "sa_prajñāpāramitāhṛdayasūtrasaṃkṣiptamātṛkā",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<note><hi rend='bold'>Vaidya 97</hi></note>\n<p><hi rend='bold'>Prajñāpāramitāhṛdayasūtram |</hi> [saṃkṣiptamātṛkā ||]</p>\n\n<p>namaḥ sarvajñāya ||</p>\n\n<p>āryāvalokiteśvarabodhisattvo gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ caramāṇo vyavalokayati sma | pañca skandhāḥ, tāṃśca svabhāvaśūnyān paśyati sma ||</p>\n\n<p>iha śāriputra rūpaṃ śūnyatā, śūnyataiva rūpam | rūpānna pṛthak śūnyatā, śūnyatāyā na pṛthag rūpam | yadrūpaṃ sā śūnyatā, yā śūnyatā tadrūpam ||</p>\n\n<p>evameva vedanāsaṃjñāsaṃskāravijñānāni ||</p>\n\n<p>ihaṃ śāriputra sarvadharmāḥ śūnyatālakṣaṇā anutpannā aniruddhā amalā na vimalā nonā na paripūrṇāḥ | tasmācchāriputra śūnyatāyāṃ na rūpam, na vedanā, na saṃjñā, na saṃskārāḥ, na vijñānāni | na cakṣuḥśrotraghrāṇajihvākāyamanāṃsi, na rūpaśabdagandharasaspraṣṭavyadharmāḥ | na cakṣurdhāturyāvanna manodhātuḥ ||</p>\n\n<p>na vidyā nāvidyā na vidyākṣayo nāvidyākṣayo yāvanna jarāmaraṇaṃ na jarāmaraṇakṣayo na duḥkhasamudayanirodhamārgā na jñānaṃ na prāptitvam ||</p>\n\n<p>bodhisattvasya(śca?) prajñāpāramitāmāśritya viharati cittāvaraṇaḥ | cittāvaraṇanāstitvādatrasto viparyāsātikrānto niṣṭhanirvāṇaḥ | tryadhvavyavasthitāḥ sarvabuddhāḥ prajñāpāramitāmāśritya anuttarāṃ samyaksaṃbodhimabhisaṃbuddhāḥ ||</p>\n\n<p>tasmājjñātavyaḥ prajñāpāramitāmahāmantro mahāvidyāmantro 'nuttaramantro 'samasamamantraḥ sarvaduḥkhapraśamanaḥ satyamamithyatvāt prajñāpāramitāyāmukto mantraḥ | tadyathā - gate gate pāragate pārasaṃgate bodhi svāhā ||</p>\n\n<p>iti prajñāpāramitāhṛdayasūtraṃ samāptam ||</p>\n\n  </body>\n\n"
+  "file_title": "prajñāpāramitāhṛdayasūtrasaṃkṣiptamātṛkā",
+  "file_title_normal": "prajnaparamitahrdayasutrasamksiptamatrka",
+  "metadata": {
+    "original_title": "Prajñāpāramitāhṛdayasūtra, saṃkṣiptamātṛkā",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "P.L. Vaidya in: Mahayana-sutra-samgrahah, Part 1. Darbhanga: The Mithila Institute 1961 (Buddhist Sanskrit Texts, 17)"
+  },
+  "body": [
+    {
+      "tag": "note",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "bold"
+          },
+          "text": "Vaidya 97"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "bold"
+          },
+          "text": "Prajñāpāramitāhṛdayasūtram |"
+        },
+        {
+          "tag": "text",
+          "text": "[saṃkṣiptamātṛkā ||]"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "namaḥ sarvajñāya ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "āryāvalokiteśvarabodhisattvo gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ caramāṇo vyavalokayati sma | pañca skandhāḥ, tāṃśca svabhāvaśūnyān paśyati sma ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "iha śāriputra rūpaṃ śūnyatā, śūnyataiva rūpam | rūpānna pṛthak śūnyatā, śūnyatāyā na pṛthag rūpam | yadrūpaṃ sā śūnyatā, yā śūnyatā tadrūpam ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "evameva vedanāsaṃjñāsaṃskāravijñānāni ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ihaṃ śāriputra sarvadharmāḥ śūnyatālakṣaṇā anutpannā aniruddhā amalā na vimalā nonā na paripūrṇāḥ | tasmācchāriputra śūnyatāyāṃ na rūpam, na vedanā, na saṃjñā, na saṃskārāḥ, na vijñānāni | na cakṣuḥśrotraghrāṇajihvākāyamanāṃsi, na rūpaśabdagandharasaspraṣṭavyadharmāḥ | na cakṣurdhāturyāvanna manodhātuḥ ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "na vidyā nāvidyā na vidyākṣayo nāvidyākṣayo yāvanna jarāmaraṇaṃ na jarāmaraṇakṣayo na duḥkhasamudayanirodhamārgā na jñānaṃ na prāptitvam ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "bodhisattvasya(śca?) prajñāpāramitāmāśritya viharati cittāvaraṇaḥ | cittāvaraṇanāstitvādatrasto viparyāsātikrānto niṣṭhanirvāṇaḥ | tryadhvavyavasthitāḥ sarvabuddhāḥ prajñāpāramitāmāśritya anuttarāṃ samyaksaṃbodhimabhisaṃbuddhāḥ ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "tasmājjñātavyaḥ prajñāpāramitāmahāmantro mahāvidyāmantro 'nuttaramantro 'samasamamantraḥ sarvaduḥkhapraśamanaḥ satyamamithyatvāt prajñāpāramitāyāmukto mantraḥ | tadyathā - gate gate pāragate pārasaṃgate bodhi svāhā ||"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "iti prajñāpāramitāhṛdayasūtraṃ samāptam ||"
+    }
+  ]
 }

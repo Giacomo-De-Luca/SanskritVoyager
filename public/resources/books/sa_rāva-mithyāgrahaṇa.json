@@ -1,4 +1,2136 @@
 {
-  "title": "sa_rāva-mithyāgrahaṇa",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n      <div>\n\t<head>Śrīgaṇeśāya namaḥ <lb/>Mithyāgrahaṇam</head>\n\t<pb edRef='#Rāva1954' n='24'/>\n\t<p xml:id='RāMigra_1'><s n='24-01'>Caitramāsasya sāyaṃ samayaḥ.</s>\n\t  <s n='24-02'>Mohamayyā mājhagāvanāmani sthāne kasyacic chrīlasya gehe kanyāyā vivāhasya maṇḍapamaṇḍanādiprāthamikasaṃbhāro 'nuṣṭhīyate sma.</s>\n\t  <s n='24-03'>Kvacin maṅgalapāṭhakānāṃ purohitānāṃ madhuravacanaiḥ<orig>,</orig> kaṭhinamaṇikuṭṭimasya nikhananaracanena<orig>,</orig> kvacit karmakarāṇāṃ kalakalena<orig>,</orig> saṃcarajjanacaraṇavikṣepaṇadhvaninā<orig>,</orig> kṣubhitam iva bhavanam etad abhavat.</s>\n\t  <s n='24-04'>Paredyur hi kenacid dhanāḍhyena saha vatsāyā udvāho niścita āsīt.</s>\n\t  <s n='24-05'>Seyaṃ viṃśativarṣīyā kṛśāṅgī hrasvākṛtiḥ parimitavāgapi madhurasvarā<orig>,</orig> gauravarṇāpi nātirūpavaiśiṣṭyasaṃpannā<orig>,</orig> Amīnābhidhāpi Mīnākṣī saha sakhyā Saralābhidhayā saralasvabhāvayā gaganatalacaramārdhavartini bhagavati divasādhināyake rasālādivṛkṣabhūṣitāyāṃ vāṭikāyāṃ svapitur mandirapakṣadvārasamīpasthāyāṃ vijanakoṇe bakulataror ekasyādhaḥ saṃlāpaṃ kurvaty āsīt.</s>\n\t  <s n='24-06'>Patatriṇāṃ kilakilaravo 'staṃ gataḥ.</s>\n\t  <s n='24-07'>Ālolamālatīpuṣpasamūhād utpatyālikadambakāni tūṣṇīkāṃ bhejire.</s>\n\t</p>\n\t<p xml:id='RāMigra_2'><s n='24-08'>Saralā: Sakhi<orig>,</orig> vivāhamaṅgalavidhis te kasmin muhūrte niścito 'sti śvaḥ?</s>\n\t  <s n='24-09'>Amīnā: Astaṅgamanasamaye bhagavataḥ savituḥ.</s>\n\t  <s n='24-10'>Saralā: (sopahāsam) Ayi sakhi<orig>,</orig> varam adṛṣṭvā tatpāṇigrahaṇaṃ kathaṃ nāma pratipadyate tvayā?</s>\n\t  <s n='24-11'>Amīnā: Taddarśanena kim?</s>\n\t  <s n='24-12'>Bhāratavarṣe bhūyiṣṭhānāṃ kanyānāṃ varasya darśanāt prāg eva vivāho bhavati.</s>\n\t  <s n='24-13'>Anatikrāntaśaiśavāpi madīyāmbā vivāhāt pūrvaṃ me pitṛpādānāṃ darśanāmandānandam <corr resp='#BG'>ā</corr>labdhvāpi saha tair vastum agamat.</s>\n\t  <s n='24-14'>Ahaṃ tu viṃśativarṣīyāsmi.</s>\n\t  <s n='24-15'>Mātāpitarāv avalambamānā tayor ājñāṃ śirasāṅgīkṛtya niḥśaṅkaṃ niścitavarasya pāṇigrahaṇaṃ mudā kariṣye.</s>\n\t  <s n='24-16'>Saralā: Paraṃ yadi kumāro vivāhāt prāk paricitaḥ syāt tadā nijabhāvisukhāprāptau pratītā bhavet kumārī.</s>\n\t  <s n='24-17'>Ittham abhidhāya Saralā kiñcin natvā bhūtale vistāritabakulapuṣpanikarāt kānicid vicitya tadāmodam āsvādayat.</s>\n\t  <s n='24-18'>Amīnā: Hum! Pāścātyadeśīyānām evānukūlā prītivivāhādikalpanā.</s>\n\t  <s n='24-19'>Kṛtapraṇayavivāhānām api vadhūvarāṇāṃ vyabhicāraparasparasvabhāvā saṅgatyādikāraṇebhyaḥ pāścātyadeśeṣu vivāhaviśleṣasya vṛttaparamparā kriyāsamabhihāreṇa śrūyate.</s>\n\t  <s n='24-20'>Param asmadīyadeśe viralaḥ khalu vyatikaras tādṛśaḥ.</s>\n\t  <s n='24-21'>Ity Amīnā svapitur asakṛd uktaṃ vākyam udīrya kasyacit praphullagulamohorākhyadrumaviśeṣasyādho marakatopalakalpitāsandīṃ prati sakhīm anayat.</s>\n\t  <s n='24-22'>Amīnā: Sarale! Jānāsi tvaṃ yac chakuntalāduṣyantayor anurāgabaddhayor gāndharvavidhinā svairaṃ pariṇītayor api katipayakālottaraṃ vicchinnaprāyo 'bhūd vivāhaḥ.</s>\n\t  <pb edRef='#Rāva1954' n='25'/>\n\t  <s n='25-01'>Saralā: Paraṃ śāpaprabhāvāt kupitasya <corr resp='#BG'>Durvāsa</corr>munes tat saṃvṛttaṃ na tu tayor doṣāt.</s>\n\t</p>\n\t<p xml:id='RāMigra_3'><s n='25-02'>Kumāryāv ime āśaiśavāt prativeśinyāv āstām.</s>\n\t  <s n='25-03'>Yady api bhinnabhinnarītyā saṃvārdhite adhyāpite bhinnabhinnaś ca tayor naikaviṣayeṣu gṛhasaṃskāro 'bhūd<orig>,</orig> bhinnabhinne ca dharmamate abhūtāṃ tayos tad apīme parasparaṃ pratibaddhadṛḍhasakhye ciraṃ sthitavatyau.</s>\n\t  <s n='25-04'>Amīnā hi kanyāśālāyām adhyāpitāpi svātantryasukhaṃ nānvabhavat.</s>\n\t  <s n='25-05'>Seyaṃ vyaktitvavihīnā bhāvanāvarjitā vaivāhikaviṣaye na kam api pakṣam avālambata.</s>\n\t  <s n='25-06'>Tasyā vivāhavāṅniścayo Hamidanāmnā kenacid dhanāḍhyena śilpayantrasvāminā saha pitṛbhyāṃ vyadhāyi.</s>\n\t  <s n='25-07'>So 'yaṃ taruṇo mohamayyāṃ eva kṛtavāso 'bhūt.</s>\n\t  <s n='25-08'>Vastutaḥ pitur ājñayā kasyāpi kumārasya pāṇigrahaṇaṃ mugdheyam aṅgyakariṣyat.</s>\n\t</p>\n\t<p xml:id='RāMigra_4'><s n='25-09'>Atha paredyuḥ samāhitanānāvidhasaṃskāram Amīnāyāḥ pitur mandiraṃ mahotsavamayaṃ saṅgītanṛtyādidhvanimayaṃ divyamandiram iva vyabhāsiṣṭa.</s>\n\t  <s n='25-10'>Krameṇa samupatiṣṭhadbhiḥ prāghuṇikaiḥ sadanam etad vyarājata.</s>\n\t  <s n='25-11'>Āmadhyarātraṃ ca samucitabhojanaiḥ satkṛtaḥ prāghuṇikasamūho vārāṅganānṛtyasaṅgītādibhiḥ prāpitavinodaḥ śrīlasyālaye sukhaṃ kālam ayāpayat.</s>\n\t  <s n='25-12'>Nirvartitavivāhā prātastarāṃ ca vadhūr mṛgamadakarpūrādinā surabhidravyeṇānuliptasarvāṅgī dhautadukūlavasanā dhavalapuṣpamaṇḍitaśirā ratnakhacitakaṇṭhahārakuṇḍalakaṅkaṇābharaṇabhūṣitā patyur geham ayāt.</s>\n\t  <s n='25-13'>Bālasakhīṃ Saralāṃ visraṣṭum asahamānā navoḍheyaṃ pitur gehān nigamanāt prāg yathā pratiśrutaṃ pratidinaṃ vāhakena sārdhaṃ premodrekasaṃbhṛtaṃ patraṃ prāhiṇot.</s>\n\t  <s n='25-14'>Avarṇayac ca lekhe samudrataṭasthaṃ dīpamālāvihitabahulacākacakyaṃ hṛdayahāri saudhaṃ patyuḥ<orig>,</orig> samudbhāsamānaṃ saṃkhyātigāminā caturaviśiṣṭaveṣadhāriṇā paricchadena samanvitaṃ<orig>,</orig> nānāvidhapuṣpāmodasurabhitāntaḥpuraṃ<orig>,</orig> nijāmūlyaratnakhacitābharaṇajātaṃ<orig>,</orig> payonidher madhuramarmarormimālā yās tasyā mārtaṇḍatāpaklāntiṃ mantharīkurvanti sma divā<orig>,</orig> naktaṃ ca vījayantyo mandānilaṃ samacārayan.</s>\n\t  <s n='25-15'>Yac cāsan Hāmidasya bhūyāṃsi yantravāhanāni<orig>,</orig> mandurā cānekavājibhiḥ saṃbhṛtā.</s>\n\t  <s n='25-16'>Iti sarvam eva savistaram Amīnayā sagauravaṃ varṇitaṃ<orig>,</orig> paraṃ svabhārtāram adhikṛtya leśamātram api na kadāpi śaṃsitam iti Saralayā lakṣitam.</s>\n\t  <s n='25-17'>Na tu tayāpi Hāmidam uddiśya kim apy anuyuktam.</s>\n\t  <s n='25-18'>Navoḍheyaṃ pitur gehaṃ bālasakhīṃ cānavarataṃ smāraṃ smāraṃ patyur adṛṣṭapūrve 'samāne prāsāde calantī mātṛvirahitāṃ naṣṭādhvakāṃ navaśukīṃ mahāraṇye <corr resp='#BG'>drumād</corr> drumam uḍḍayamānam ivātmānam akalayad Amīnā.</s>\n\t  <s n='25-19'>Nirmito 'bhūd hi prāsādo 'yaṃ nānāmūlyadurlabhopalajātena.</s>\n\t  <s n='25-20'>Aṃtarāṅgaṇe sugahanagṛhābhyantarmārgaparamparā marakatastambhāvalambitā sthitā.</s>\n\t  <s n='25-21'>Sukhopabhājāṃ mogaladharādhipānāṃ kālād avaśiṣṭāś citritāh paṭalā viśvakarmasamaśilpikarmakauśalabhūṣitā āsan.</s>\n\t  <s n='25-22'>Antaḥpurasya bhūtalaṃ cotkṛṣṭapārasīkadeśīyakauśeyāstaraṇair ācchāditam abhūt.</s>\n\t  <s n='25-23'>Bhittayo 'pi kārmikakṣaumapaṭṭair āvṛttāḥ.</s>\n\t  <s n='25-24'>Antaḥpurasya viśālāṅgaṇaṃ parilambamānarajatapañjarakrīḍākulaṃ śukasārikākulaṃ kalaravamanoharam.</s>\n\t  <s n='25-25'>Pārśvavartiny ekasmin kāṣṭhajālālaye 'nye patatriṇo mayūrādayaḥ kujankalakalaiḥ pakṣasphuraṇaiḥ samañjīraśiñjananartanaiś cākrīḍan.</s>\n\t  <s n='25-26'>Vivāhāt pūrvaṃ mātugṛhe bhāvivivāhaviṣayaṃ vyacintayad Amīnā:</s>\n\t  <q><s n='25-27'>Api madvivāhaḥ śrīleṇa saha Hāmidena sukhāvaho bhavitā.</s>\n\t  <s n='25-28'>Kathaṃ nāmaikākinī viśālasaudhe 'smin kālaṃ yāpayituṃ prabhaveyam iti.“</s></q>\n\t</p>\n\t<p xml:id='RāMigra_5'><pb edRef='#Rāva1954' n='26'/>\n\t  <s n='26-01'>Amīnā hy ādau vyavasāyābhāvāc chūnyahṛdayam ātmānam apaśyat.</s>\n\t  <s n='26-02'>Tadbhartā hi prātastarāṃ nagarāt sārdhayojanadūrasthaṃ śilpayantrakāryālayaṃ prati gṛhāt nirgatya sāyaṃ sūryāstamanasamaye nyavartata.</s>\n\t  <s n='26-03'>Athāvicchinnaviviktatāyāṃ saudhasya taruṇīyaṃ tāmbūlaṃ carvantī<orig>,</orig> dāsībhih pādayor nipīḍyamānā<orig>,</orig> vidyudvyajanena cakrākāreṇa vījyamānā svabhāgyodayasopānaṃ manasi praśaṃsantī<orig>,</orig> ajñabhṛtyetarajanasaṃparkarahitā<orig>,</orig> caturasakhīvirahitā<orig>,</orig> vividhabhūṣaṇavihitaprabalacākacakyā<orig>,</orig> sugandhitailaprasādhitakeśakalāpā<orig>,</orig> añjanarañjitalocanāñcalā<orig>,</orig> hiraṇmayasūtrāṅkitapaṭṭāmbaradharā<orig>,</orig> sāgarormimālātuṣārakaṇikāpaharaṇaśītasya samīrasya sukhasparśam anubhavantī<orig>,</orig> śukasārikādipakṣiṇāṃ kalakalaṃ śṛṇvatī<orig>,</orig> aṭṭālikāyā aṭṭālikām aṅganād aṅganaṃ paunaḥpunyena paryaṭantī kālam ayāpayad Amīnā yāvat prāsūta yamalau sutau.</s>\n\t</p>\n\t<p xml:id='RāMigra_6'><s n='26-04'>Atha katipayavarṣottaraṃ tasyā bālasakhyāḥ saralāyāḥ kaścid viśvasanīya ṛjusvabhāvas taruṇaḥ pāṇim agṛḥnāt.</s>\n\t  <s n='26-05'>Tayoś ca vivāho vināḍambaraṃ niravartata.</s>\n\t  <s n='26-06'>Vyavasāya pravāsinaḥ Saralayāḥ patyur nāsīt sthiro nivāsaḥ kvāpi.</s>\n\t  <s n='26-07'>Paraṃ svakāryārthaṃ mohamayīṃ gatāgataṃ kurvann eṣa nagarīm imām adhivastuṃ matiṃ kṛtvā Saralāyā icchām anusarann Amīnāyāḥ prasādasyādhastāt dvitraprakoṣṭātmakaṃ vasatisthānam alpiṣṭham upalabdhavān.</s>\n\t  <s n='26-08'>Ativiśālasaudhe 'smin naikabhāṭakabhavanayukte bahutithaṃ kālam uṣitvāpi tatra nivāsino 'nyonyadṛṣṭipatham api prāyo neyuḥ.</s>\n\t  <s n='26-09'>Amīnāyā antaḥpuravalabhituṅgavātāyanād adho bhūtalasthasya Saralāyā gṛhasya sūkṣmakārpāsavastrācchāditavātāyanāntaḥprakoṣṭhaṃ sphuṭaṃ bahisto dṛkpatham agamat.</s>\n\t  <s n='26-10'>Yadā ca Saralāyāḥ patir nagarān nirayāt tadā sā manaso dvitīyanibandhanabhūtayāḥ sadane 'mīnāyā bhūyiṣṭham aho 'nayat.</s>\n\t  <s n='26-11'>Ime ca sahacaryau punaḥ saṅgamenāmandānandam anvabhūtām.</s>\n\t</p>\n\t<p xml:id='RāMigra_7'><s n='26-12'>Athāminā svadharmaniyamam anusṛtyā'vaguṇṭhanapaddhatiṃ nibhṛtavāsaviśeṣāvasthitim aṅgīkṛtya kvacid eva vihārāya <corr resp='#BG'>gṛhād</corr> bahir niragāt.</s>\n\t  <s n='26-13'>Ato nāgarikāṇāṃ prativeśināṃ vā vṛttānabhijñāpi krameṇa saṃjātabahuprajā paraṃ saṃtuṣṭā<orig>''</orig>sta.</s>\n\t  <s n='26-14'>Yadā yadā tu Saralā nijasukhātiśayaḥ svabhartuḥ sāhacaryaṃ<orig>,</orig> tadviprayogottarapratyāgamanotkaṇṭhā cobhayor ity ādiviśayam adhikṛtya samalapat<orig>,</orig> tadā tadāmīnāṃ vidūrabaddhadṛṣṭim alakṣayat sā.</s>\n\t  <s n='26-15'>Atha gacchati kale dṛṣṭyām Amīnayāḥ ko 'pi khedadyotako vikāro vyaloki.</s>\n\t  <s n='26-16'>Tayor nivāsayoḥ puraḥsthasya payonidhes taṭe saprema grathitānyonyakarau Saralāṃ tatpatiṃ ca rajanyāṃ śatapadīṃ kurvāṇā darśaṃ darśam Amīnāyāḥ viṣaṇṇatā vṛddhim agamat.</s>\n\t  <s n='26-17'>Sā ca dīrghaṃ niḥśvasatī durmanāyamāneva kvacid ātmānaṃ saroṣam aprākṣīt kuto niḥśvasyate mūḍhena tvayettham iti.</s>\n\t  <s n='26-18'>Tāvan nikhile 'hani bhartur mukhadarśanānandaṃ kṣaṇikam evopalabdhavatī sā.</s>\n\t  <s n='26-19'>Sahanivāsināv api tāv adhikādhikam asaṃbaddhau sthitau.</s>\n\t  <s n='26-20'>So 'yaṃ hi Hamido dyutapriyo naikakrīḍāmaṇḍaleṣu pratyahaṃ vinoditātmā gehaṃ nivartituṃ dine dine 'dhikādhikaṃ vyalambata.</s>\n\t  <s n='26-21'>Sā cādhīratayā patiṃ pratirātraṃ pratīkṣamāṇāsta.</s>\n\t  <s n='26-22'>Paraṃ krameṇa yadā svapatyāgamasamaya āprabhātaṃ vilambitaḥ samabhūt tadā mā pratīkṣasva māṃ<orig>,</orig> bhojanaṃ samāpya yathākālaṃ svapihi.</s>\n\t  <s n='26-23'>Ahaṃ hi suhṛdbhiḥ sagdhiṃ kariṣya iti Hamidas tām ajñāpayat.</s>\n\t  <s n='26-24'>Sā ca tasya vilambasya kāraṇaṃ nitarāṃ jñātukāmāpi kutas tvayā'dya cirāyitam iti taṃ praṣṭum alaṃ dhairyaṃ na vā dṛḍhāgrahaṃ bheje.</s>\n\t  <pb edRef='#Rāva1954' n='27'/>\n\t  <s n='27-01'>Evaṃ tayor vaivāhikasaṃbandhe kathāśeṣamātre saṃjāte hanta svapatiṃ sā nijasantater janaka ity evāvalokayamāsa.</s>\n\t  <s n='27-02'>Prāyeṇa bhūyasīnāṃ dhīmatīnāṃ paristhityedṛkśocanīyayā bhāvyam iti manvānā patipremānandarase svapne 'py anāsvādite 'pi nijāvasthāṃ śocanīyāṃ nāmanyatāmīnā manāg api.</s>\n\t</p>\n\t<p xml:id='RāMigra_8'><s n='27-03'>Athaikadeyaṃ payodhiphenapāṇḍure śayanīye kṛtapadā prasvāpasukham anubabhūva.</s>\n\t  <s n='27-04'>Samayo 'yaṃ kila grīṣmartoḥ.</s>\n\t  <s n='27-05'>Avasare 'smin sarvato niśānāthasya saṃpūrṇakalāprāyasya dyutidugdhā dhavaladharā nicayena dhavalitam āsīd dharātalam.</s>\n\t  <s n='27-06'>Jalanidher jalāni hīrakanicaya iva cākacakyaṃ bhejire.</s>\n\t  <s n='27-07'>Pihiteṣu bhavanadvāreṣu svasvaprakoṣṭheṣu parijanāḥ prasuptā āsan.</s>\n\t  <s n='27-08'>Amīnāpi prasvapatī kamapy atimātrāramyaṃ svapnam adrākṣīt.</s>\n\t  <s n='27-09'>Yat tadīyabālasakhyā Saralayā tadīyasarvasvam api viluṇṭhya sā Hamidasya harmyān niṣkāsiteti.</s>\n\t  <s n='27-10'>Caṇḍavātyayā sahasā prahateva sarutaṃ prabudhya śayanāt <corr resp='#BG'>samutthāya</corr> nayane parimṛjatī saṃbhrameṇa ruddhakaṇṭhā cakitacakiteva viśithilāṅgayaṣṭiḥ skhalatpādābhyāṃ samīpavartinaḥ saudhasyādho bhūtalasthaṃ Saralāyā nilayam avalokyantī vātāyanasamīpaṃ ciram avatasthe.</s>\n\t  <s n='27-11'>Nitāntaviviktatayā viṣaṇṇamanā Amīnā jalābdher ūrmimālāyā mandamandamarmaraṃ śrāvaṃ śrāvaṃ parimṛditamṛṇālinīva mlānāṅgī priyajanasya kasyāpi mṛdulasparśajuṣaḥ sāntvanasyābhilāṣukābhūt.</s>\n\t  <s n='27-12'>Tāvat Saralāyāḥ śayyāgāraṃ vidyuddīpakadyotitaṃ vyaloki tayā.</s>\n\t  <s n='27-13'>Vātāyanasya sūkṣmanepathyasya pṛṣṭhataḥ Saralāyāḥ sukumāraśarīrayaṣṭir itas tataś calantī dṛggocaratām agād Amīnayāḥ.</s>\n\t  <s n='27-14'>Bhartari niryate nagarān niśīthinyāṃ kinnāma kartuṃ pravṛttā syāt Saraleti vyacintayat savismayam Amīnā.</s>\n\t  <s n='27-15'>Atha yāvat sakhīṃ samāhvayituṃ pravartate sā tāvat tasyaiva saudhasyādho gṛhapṛṣṭhabhāgato nirgacchantīṃ Hamidasyākṛtim iva kasyāpi puruṣasyākṛtiṃ vyalokayad Amīnā.</s>\n\t  <s n='27-16'>Tadanu ca jhaṭiti Saralāyāḥ śayyāgṛhasya dipikā nirvāpitābhut.</s>\n\t  <s n='27-17'>Nīravaṃ nibhṛtaṃ pracalan puruṣo 'yaṃ svapatir iti kṣaṇaṃ sā na vyaśvasīt paraṃ yadā svaharmyasya bahir dvāram udghāṭyāntaḥ sa prāviśat tadāyaṃ Hamidam antarā na <corr resp='#BG'>ko 'py</corr> anya iti pratītā'bhūt.</s>\n\t  <s n='27-18'>Pāṇḍuvadanā vepamānavigrahā kiṃkartavyapratipattimūḍhā sthitavatī ca.</s>\n\t  <s n='27-19'>Prabhātaprāyaḥ samayo na cirād bhavitā.</s>\n\t  <s n='27-20'>Kuta etāvān vilambaḥ pratyāgamasya bhartuḥ<orig>,</orig> kutaś ca Saralāyāḥ śayanagṛhaṃ madhyarātre prakāśitaṃ syād ity anekavitarkajālenākrāntā vātāyanāt parāvṛtyonnidranetryābhānūdayaṃ saṃbhrāntā'ntaḥpure gatāgatam akarod Amīnā.</s>\n\t  <s n='27-21'>Paredyur niśīthe punar gavākṣasavidhe sā ciraṃ sthitvāpi Saralāyā nilayam andhatamasāvṛtam apaśyat.</s>\n\t  <s n='27-22'>Bahiḥ sarvatra praśāntatādevī vyarājat.</s>\n\t  <s n='27-23'>Yāminīkāminīvadanatilakabindur induś candrikāvyājenāmbaratalāt sudhādhārābhir dharātalam adhāvat.</s>\n\t  <s n='27-24'>Antarāntarā vāridhivīcimālānāṃ mandamandaravo 'mīnāyāḥ karṇaśaṣkulīm apūrayat.</s>\n\t  <s n='27-25'>Atha yāvat parāvartate sā vātāyanāt tāvat pādacāradhvanim iva kasyāpy aśrauṣīt.</s>\n\t  <s n='27-26'>Dhvaninānenākṛṣṭeva gavākṣasavidhaṃ punaḥ sā yayau.</s>\n\t  <s n='27-27'>Na cirāc ca samīpavartinaḥ saudhasyādhastalabhāgān nirgachantī Hamidasya śarīrākṛtiḥ punas tasyā dṛkpathe nyapatat.</s>\n\t  <s n='27-28'>Himadhavalavasanopari śyāmakṣaumaprāvāro raktaturkoṣṇīṣaś ca niśākarakaranicaye vailakṣaṇyaṃ bhejāte.</s>\n\t  <s n='27-29'>Tataś ca gavākṣajālaprasāritai rajatamārjanīnibhaiḥ kalānidhikaranikaraiḥ saṃśodhitāndhakāre payodhiphenasaṃdoheneva nirmite śayanīya upaviśya saṃdehakoponmathitahṛdayā mukham adhaḥ kṛtvā niḥśvasyoṣṇaṃ ca sā tūṣṇīṃ tasthau.</s>\n\t</p>\n\t<p xml:id='RāMigra_9'><pb edRef='#Rāva1954' n='28'/>\n\t  <s n='28-01'>Evaṃ catasṛṣu niśāsu naiśānveṣaṇam upākramatāmīnā yāvat sā Saralāyāḥ kapaṭasya saṃjātapratyayābhūt.</s>\n\t  <s n='28-02'>Saralāhamidayor madhye nibhṛtāsaktisambandhaviṣaye na ko 'pi saṃdehaleśa iti niścitamatiḥ sā samabhūt.</s>\n\t  <s n='28-03'>Pratinaktaṃ vyatikaram imaṃ pratyakṣīkṛtya lohitavadanā kopasphuradadharā jājvalyamānalocanā śayane kṛtapadā parśvadvaye muhurmuhur luṭhantī nairāśyād avātiṣṭhata.</s>\n\t  <s n='28-04'>Kutarkaparavaśeyaṃ kriyāsamabhihāreṇodgacchadroṣabāṣpā krodhāgninā lulitalulitāṅgakais tāmyati sma pratidinam.</s>\n\t  <s n='28-05'>Aho kathaṃ nādyāvadhi Saralāyā gūḍhakauṭilyaṃ na tarkitaṃ mandadhiyā mayeti muhurmuhur vicintayantī bhṛśam akupyad ātmane.</s>\n\t</p>\n\t<p xml:id='RāMigra_10'><s n='28-06'>Atha pūrvavad yadā saha sakhyā śūcīśilpaṃ kartuṃ Saralā tasyāḥ prāsādaṃ samāyāt tadāmīnā'tyantanirutsāhā kopenāntareva tātapyamānā<orig>,</orig> hāsyavivarjitā samatiṣṭhata.</s>\n\t  <s n='28-07'>Kaiścid api gṛhakāryavyavasthākleśair udvejitā syat sahacarīti Saralā tām ullāsayituṃ savinodaṃ prāyatata.</s>\n\t  <s n='28-08'>Param adhikādhikam audāsīnyam evāvalambya vimanāyamānā sthithavaty Amīnā.</s>\n\t  <s n='28-09'>Uccaiḥ pustakapaṭhanaṃ cikīrṣuṃ Saralāṃ sapadi sapadi sahastavikṣepaṃ pratyākhyāt sā.</s>\n\t  <s n='28-10'>Prativāraṃ yadā Saralā viśrambhālāpaṃ kartuṃ prāvartata tadā tadvacobhir bhūyo vituṣṭahṛdayam ivātmānaṃ sā prādarśayat.</s>\n\t  <s n='28-11'>Tadanu Saralā smāraṃ smāraṃ kaver uktim atiparicayād avajñā saṃtatagamanād <corr resp='#BG'>anādaro</corr> bhavatīti vyaramad gamanāt sakhyā harmyam.</s>\n\t  <s n='28-12'>Amīnāyā hṛdi tāvat sahacarīṃ prati vidveṣāgnir adhikādhikaṃ samudjvalat.</s>\n\t  <s n='28-13'>Anavarataṃ ca vyacintayat sā yadā bālyād yasyāṃ pūrṇaśo vyaśvasaṃ seyam adya katham īdṛgadharmakarmaṇi pravṛttābhūt tatrāpi nijasakhyāḥ saha vallabhena.</s>\n\t  <s n='28-14'>Madhuramadhuravacāṃsi matpuraḥ samudīrya parokṣaṃ mām kathaṃ sā pratāritavatī.</s>\n\t  <s n='28-15'>Ahaha! Kathaṃ kamalām iva vimalāṃ<orig>,</orig> śāradām iva viśāradāṃ<orig>,</orig> satīm iva satīṃ svāṃ pradarṣayantī malinahṛdayā sthitavaty etāvat kālam.</s>\n\t  <s n='28-16'>Ahaṃ ca tāṃ viśvasanīyāṃ prāṇapriyāṃ ca bhaginīm iva samabhāvayam.</s>\n\t  <s n='28-17'>Api Hāmidasya vaibhavena mohitā syāt sā yat svapateḥ patnīvatsalasya parokṣa vyabhicārakarmaṇi prāvartateyam.</s>\n\t  <s n='28-18'>Kīdṛśo 'yaṃ viśvāsaghātaḥ.</s>\n\t  <s n='28-19'>Kīdṛśīyaṃ cañcalatā cittasya<orig>,</orig> yan matsahacaryaiva viśveṣāṃ narmapātraṃ kṛtāsmi.</s>\n\t  <s n='28-20'>Ahaha! Kathaṃ nāma tasyā viṣayāsaktiṃ vatsareṣv eteṣu nāvidam.</s>\n\t  <s n='28-21'>Kutaś ceyaṃ matgehasavidhe kṛtāvāsābhūta.</s>\n\t  <s n='28-22'>Api bhartuḥ parokṣe nibhṛtadurācārāya vyavasitam itthaṃ tayā.</s>\n\t  <s n='28-23'>Bāhyato mugdhānanāyā vinayasaṃpannāyāś ca tasyā hṛdi kauṭilyāhiḥ katham āśritaḥ syāt.</s>\n\t  <s n='28-24'>Sarvā api sahacarya ātmānaṃ nirāgasaṃ pradarśayantyo 'viśvasanīyāḥ syuḥ.</s>\n\t  <s n='28-25'>Itthaṃ tarkavitarkakaṇṭakanikaravyathitā sā Saralāṃ prastutaviṣayam uddiśya viśakalayya praṣṭukāmāpi svapratiṣṭhāyā alīkadarpāj joṣaṃ sthitavatī.</s>\n\t  <s n='28-26'>Saralāyāś cirasakhyaṃ tadīyamadhuravacaś ca svapna ivendrajālam iva māyādarśanam ivāmināyāḥ pratyabhād idānīm.</s>\n\t  <s n='28-27'>Ādhiṃ cātmano rahasi sahamānāvātiṣṭhata sā.</s>\n\t</p>\n\t<p xml:id='RāMigra_11'><pb edRef='#Rāva1954' n='29'/>\n\t  <s n='29-01'>Atha gacchatsu varṣeṣu śiśur eko 'mīnāyāḥ kenāpi vyādhinā grasta ity <corr resp='#BG'>ākarṇya</corr> tasya śuśrūṣāyāṃ sakhyai sahāyyaṃ praditsuḥ Saralā sānunayaṃ patradvārā tasyai <corr resp='#BG'>nyavedayat</corr>.</s>\n\t  <s n='29-02'>Paraṃ lekham imaṃ prāvaraṇād apasāryaiva yathāgataṃ vāhakāyād āpayad Amīnā.</s>\n\t  <s n='29-03'>Anena paramodvignāpi Saralā sakhyai nādruhyan manāg api.</s>\n\t  <s n='29-04'>Rugṇārbhakasyāmīnāyāś ca vṛttaṃ svasevakamukhād upalabhya joṣaṃ sthitā.</s>\n\t  <s n='29-05'>Athaikavatsarottaraṃ Hamido 'kasmāt kenāpi nirupāyarogeṇākrānto maraṇonmukhaḥ sthitaḥ.</s>\n\t  <s n='29-06'>Krameṇa sa ca naṣṭollāghatāśo nacirād vinaṣṭavāg āsanna<corr resp='#BG'>prāyo'ntakāla</corr> iti jñātvā Saralāyā gṛhasya diśam aṅgulyā nirdiśya muhurmuhuḥ kāpi <corr resp='#BG'>samāhūtayāmītīṅgitenaivāsūcayaj</corr> joṣam.</s>\n\t  <s n='29-07'>Bhartur āśayam avagatyāpi tasya parayoṣidāsaktim anabhinandamānā tatsūcanam avāmaṃstāmīnā.</s>\n\t  <s n='29-08'>Saralāyā ākṛtir hi hṛdi tasyāḥ śyāmaśyāmā mṛtyucchāyeva santatam <corr resp='#BG'>avasthitāsīt</corr>.</s>\n\t  <s n='29-09'>Atha pañcaṣadinottaraṃ bhagavato bhāskarasyāstamanasamaye Hamidaḥ prati paralokaṃ prasthitaḥ.</s>\n\t  <s n='29-10'>Tasya nidhanavṛttaṃ prativeśināṃ sapadi śrutipathe nyapatad acirāc ca <corr resp='#BG'>sarvato 'pi</corr> nagare prāsarat.</s>\n\t  <s n='29-11'>Bhartur mṛtyunā śokākulābhūd Amīneti na<orig>,</orig> paraṃ tasyākasmikāntena stambhitā nijaśayanāgare niścalātiṣṭhat.</s>\n\t  <s n='29-12'>Paricarāṇāṃ gamanāgamaninādena vṛddhasevakānām ākrośakallolena ca jāgaritā.</s>\n\t  <s n='29-13'>Tasyā bālakāḥ saṃbhrāntāḥ saṃtrastāś cābhyadhāvan mātuḥ śayyālayam.</s>\n\t  <s n='29-14'>Sā ca bālavatsalā gāḍhaṃ tān pariṣvajya mṛdulavacobhiś ca samāsvāsya nijaparyaṅke śāyitavatī.</s>\n\t  <s n='29-15'>Supteṣu teṣu Hamidasya sevako niḥśabdaṃ tām upetya nyavedayad yathāsnāpito dhūpito gandhādirūṣito vigrahaḥ svāminah.</s>\n\t  <s n='29-16'>Na cirād āyāsyanti nāgarikā anukampina<orig>,</orig> ito neṣyanty adhaḥ svāminaḥ pūtadeham uttaravidher anuṣṭhānārtham.</s>\n\t  <s n='29-17'>Purohitā hi samāyātāḥ.</s>\n\t  <s n='29-18'>Ity uktayā śīghram āyāmi tāvad iti pratyuktas tayā paricārako 'pāsarat.</s>\n\t  <s n='29-19'>Patyur antimadarśanasyecchayā 'mīnāntaḥpurān nirgatya dīrghadīrghagṛhābhyantaramārgān dīpamālābhir udbhāsitān samullaṅghya prāsādasya viśālasopānasamīpasthasya Hamidasya śayyāgṛhasya saṃnidhiṃ kathaṃ katham api prāpa.</s>\n\t  <s n='29-20'>Atha yāvat prakoṣṭhasya dvāram udghāṭayitum sā pravartate tāvat paśyati sopānapaṅktim ārohantīṃ śanaiḥ śanaiḥ Saralām.</s>\n\t  <s n='29-21'>Niśāmyaināṃ śītaśītasamīreṇa kampamānāṅgayaṣṭir iva tasthau vidhavā.</s>\n\t  <s n='29-22'>Avanatamukhī Saralā ca yāvat sahānubhūtiṃ pradarśayitum icchantī sakhīṃ saprema samāliṅgituṃ karapallavau vistārayati tāvad Amīnā tāṃ sahastavikṣepaṃ nivārya bravīti kaṭusvareṇa samāyātāsi niḥsaṃśayaṃ vallabhasyāntimadarśanāyeti.</s>\n\t  <s n='29-23'>Naivaṃ naivam.</s>\n\t  <s n='29-24'>Āyātāsmi khalu tvatkṛta iti paścāt pracalitā vikampitaśirāḥ pratyuvāca Saralā.</s>\n\t  <s n='29-25'>Apradattapratyuttarā ghanasaṃśayatamasāvṛtahṛdayā yāvad Amīnā bhartur āvāsadvāraṃ samudghāṭayati tāvad antaḥ kāñcana kāñcanāṅgīm aṅganāṃ dṛṣṭvā sākrośaṃ pṛṣṭhataḥ pracalitā'mīnā.</s>\n\t  <s n='29-26'><q>Kim idam? Keyam? Kuta iyam! Ahaha!</q> ity udīrayantī khalitasvareṇa cakitā visphāritalocanā sthambiteva sā sthitā.</s>\n\t  <s n='29-27'>Puṣpamālācchāditasya Hamidasya hi śayanasya savidhaṃ vinyastajānuḥ śyāmasūkṣmadukūlāmbaraveṣṭitāṅgayaṣṭiś cāruvadanā gauravarṇā śirīṣasukumāratanur mṛtasya pādayor nihitaśirāḥ śokajvālāvaliḍheva haridrākṣālitavadaneva niḥśabdaṃ vilapantī muktakaṇṭhaṃ kācit taruṇī vyaloki.</s>\n\t  <s n='29-28'>Amīnayā sānuyogaṃ nirdiṣṭām enām ālokya Saralā karṇe 'japat:</s>\n\t  <q><s n='29-29'>Sakhi sahaja evāsyāḥ śokodvegajanito vilāpo vigatāsoḥ prāṇeśvarasya kṛte.</s>\n\t  <pb edRef='#Rāva1954' n='30'/>\n\t  <s n='30-01'>Tayor dīrghānurāgābhijñayā tvayā bhāvyam.</s>\n\t  <s n='30-02'>Viditavṛttāḥ sarve 'pi prativeśino <corr resp='#BG'>'treti</corr>.</s></q>\n\t  <s n='30-03'>Katham? Kadā? Tvam evāsya praṇeśvarīti <corr resp='#BG'>mayākalitam iti</corr> prālapad Amīnā'sphuṭam.</s>\n\t  <s n='30-04'>Vismitā stambhiteva vacanam Amīnāyā nāvagacchantīva kṣaṇaṃ visphāritanayanāvātiṣṭhata Saralā.</s>\n\t  <s n='30-05'>Tataś ca vivarṇavadanam Amīnāyā vilokya sā savegam abhāṇīt.</s>\n\t  <q><s n='30-06'>Ayi mūḍhamate! Yathaihikasampattivaibhavaiśvaryādibhiḥ sanāthīkṛtāsi tvaṃ vidhinā<orig>,</orig> tathaiva tena patyuḥ premodrekasampattyaikasukhabhākkṛto 'sti jano 'yam.</s>\n\t  <s n='30-07'>Prāṇeśvaram antareṇetarapuruṣā me bhrātṛsamānā eva.</s></q>\n\t  <s n='30-08'>Iti samudīrya viratavacanā<orig>''</orig>ste Saralā tāvad Amīnā lajjayā natamukhī niḥśabdā sthitavatī.</s>\n\t  <s n='30-09'>Muhūrtottaraṃ labdhaprakṛtir uvāca Saralā punaḥ.</s>\n\t  <q><s n='30-10'>Avagatam idānīṃ mayā tava māṃ prati durāgrahahalāhalavikārasya kāraṇam.</s>\n\t  <s n='30-11'>Bālasakhyām anindyāyāṃ kutarkajanitaduṣṭasaṃśayapiśācabhāram āropya pañcasu varṣeṣv eteṣu tāṃ hanta dṛkpathād akāraṇaṃ niṣkāsya durmanāyamānam ātmānaṃ paryatāpayas tvaṃ vṛthā.</s>\n\t  <s n='30-12'>Vākpratiṣṭhāni dehināṃ vyavahāratantrāṇi.</s>\n\t  <s n='30-13'>Vāci khalu satyāsatyahetavo vyavasthitāḥ.</s>\n\t  <s n='30-14'>Yadi saralavacanena mām aprakṣyas tvaṃ tarhi yāthārthyam avediṣyaḥ.</s>\n\t  <s n='30-15'>Paraṃ hṛdi nibhṛtaṃ vaimanasyam āśritya vṛthā saṃśayajanitābhidrohāgnisantaptā mṛgīva ghorasaṃdehajanitakopavyāghrā<orig>''</orig>ghrātā nibhṛtam aśrupravāhair vṛthā snātā kriyāsamabhihāreṇa māṃ hṛdi śapantī ca dīrghakālaṃ sthitāsi.</s>\n\t  <s n='30-16'>Kāmaṃ tava bhartuś ceṣṭitaṃ nocitam āsīt khalu.</s>\n\t  <s n='30-17'>Paraṃ yavanadharmeṇa svadāretarāyāḥ parakīyāyāḥ aṅgīkāro yathānyāyam iti pratipadyata ity api viditam āsīt te.</s></q>\n\t  <s n='30-18'>Ākarṇyaitan nipatyāmīnā Saralāyāḥ pādayor viśithilavacanavinyāsā'timandasvarā lajjayā<orig>''</orig>nana āvirbhūtavividhabhāvabhaṅgā baddhāñjalir abravīt.</s>\n\t  <q><s n='30-19'>Sakhi! Kṣamyatāṃ<orig>,</orig> kṣamyatāṃ jano 'yam.</s>\n\t  <s n='30-20'>Sanāthāpy ahaṃ cirāt parāṅmukhībhūte nāthe 'nāthībhūteva kathaṃ kathamapi kālam ayāpayam.</s>\n\t  <s n='30-21'>Nāthasya nidhanenādya yathāpūrvaṃ nirviśeṣam avasthitāsmi khalu.</s>\n\t  <s n='30-22'>Paraṃ cirād ātmanaiva niḥsāritabālasakhī daivayogāt punar mayopalabdheti madbhāgyabhāskaro 'yam iti pramuditāntaraṅgāsmīti vacaḥ punaruktir eva syāt.</s>\n\t  <s n='30-23.1'>Hanta! Itaḥ param ājīvam āvām ubhe dṛḍhabaddhasakhye sthāsyāva</s></q>\n\t  <s n='30-23.2'>ity udīrya Saralāṃ gāḍham āśliṣya nijaśayanāgāram enām anayad Amīnā.</s>\n\t</p>\n      </div>\n    </body>\n  \n"
+  "file_title": "rāva-mithyāgrahaṇa",
+  "file_title_normal": "rava-mithyagrahana",
+  "metadata": {
+    "original_title": "Mithyāgrahaṇam",
+    "author": "Kṣamā Rāva",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Beate Guttandin",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Beate Guttandin",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2019-10-10"
+  },
+  "body": [
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "head",
+          "attributes": {},
+          "text": "Śrīgaṇeśāya namaḥ",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {}
+            },
+            {
+              "tag": "text",
+              "text": "Mithyāgrahaṇam"
+            }
+          ]
+        },
+        {
+          "tag": "pb",
+          "attributes": {
+            "edRef": "#Rāva1954",
+            "n": "24"
+          }
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "RāMigra_1"
+          },
+          "children": [
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-01"
+              },
+              "text": "Caitramāsasya sāyaṃ samayaḥ."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-02"
+              },
+              "text": "Mohamayyā mājhagāvanāmani sthāne kasyacic chrīlasya gehe kanyāyā vivāhasya maṇḍapamaṇḍanādiprāthamikasaṃbhāro 'nuṣṭhīyate sma."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-03"
+              },
+              "text": "Kvacin maṅgalapāṭhakānāṃ purohitānāṃ madhuravacanaiḥ",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "kaṭhinamaṇikuṭṭimasya nikhananaracanena"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "kvacit karmakarāṇāṃ kalakalena"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "saṃcarajjanacaraṇavikṣepaṇadhvaninā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "kṣubhitam iva bhavanam etad abhavat."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-04"
+              },
+              "text": "Paredyur hi kenacid dhanāḍhyena saha vatsāyā udvāho niścita āsīt."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-05"
+              },
+              "text": "Seyaṃ viṃśativarṣīyā kṛśāṅgī hrasvākṛtiḥ parimitavāgapi madhurasvarā",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "gauravarṇāpi nātirūpavaiśiṣṭyasaṃpannā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "Amīnābhidhāpi Mīnākṣī saha sakhyā Saralābhidhayā saralasvabhāvayā gaganatalacaramārdhavartini bhagavati divasādhināyake rasālādivṛkṣabhūṣitāyāṃ vāṭikāyāṃ svapitur mandirapakṣadvārasamīpasthāyāṃ vijanakoṇe bakulataror ekasyādhaḥ saṃlāpaṃ kurvaty āsīt."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-06"
+              },
+              "text": "Patatriṇāṃ kilakilaravo 'staṃ gataḥ."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-07"
+              },
+              "text": "Ālolamālatīpuṣpasamūhād utpatyālikadambakāni tūṣṇīkāṃ bhejire."
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "RāMigra_2"
+          },
+          "children": [
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-08"
+              },
+              "text": "Saralā: Sakhi",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "vivāhamaṅgalavidhis te kasmin muhūrte niścito 'sti śvaḥ?"
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-09"
+              },
+              "text": "Amīnā: Astaṅgamanasamaye bhagavataḥ savituḥ."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-10"
+              },
+              "text": "Saralā: (sopahāsam) Ayi sakhi",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "varam adṛṣṭvā tatpāṇigrahaṇaṃ kathaṃ nāma pratipadyate tvayā?"
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-11"
+              },
+              "text": "Amīnā: Taddarśanena kim?"
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-12"
+              },
+              "text": "Bhāratavarṣe bhūyiṣṭhānāṃ kanyānāṃ varasya darśanāt prāg eva vivāho bhavati."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-13"
+              },
+              "text": "Anatikrāntaśaiśavāpi madīyāmbā vivāhāt pūrvaṃ me pitṛpādānāṃ darśanāmandānandam",
+              "children": [
+                {
+                  "tag": "corr",
+                  "attributes": {
+                    "resp": "#BG"
+                  },
+                  "text": "ā"
+                },
+                {
+                  "tag": "text",
+                  "text": "labdhvāpi saha tair vastum agamat."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-14"
+              },
+              "text": "Ahaṃ tu viṃśativarṣīyāsmi."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-15"
+              },
+              "text": "Mātāpitarāv avalambamānā tayor ājñāṃ śirasāṅgīkṛtya niḥśaṅkaṃ niścitavarasya pāṇigrahaṇaṃ mudā kariṣye."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-16"
+              },
+              "text": "Saralā: Paraṃ yadi kumāro vivāhāt prāk paricitaḥ syāt tadā nijabhāvisukhāprāptau pratītā bhavet kumārī."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-17"
+              },
+              "text": "Ittham abhidhāya Saralā kiñcin natvā bhūtale vistāritabakulapuṣpanikarāt kānicid vicitya tadāmodam āsvādayat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-18"
+              },
+              "text": "Amīnā: Hum! Pāścātyadeśīyānām evānukūlā prītivivāhādikalpanā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-19"
+              },
+              "text": "Kṛtapraṇayavivāhānām api vadhūvarāṇāṃ vyabhicāraparasparasvabhāvā saṅgatyādikāraṇebhyaḥ pāścātyadeśeṣu vivāhaviśleṣasya vṛttaparamparā kriyāsamabhihāreṇa śrūyate."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-20"
+              },
+              "text": "Param asmadīyadeśe viralaḥ khalu vyatikaras tādṛśaḥ."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-21"
+              },
+              "text": "Ity Amīnā svapitur asakṛd uktaṃ vākyam udīrya kasyacit praphullagulamohorākhyadrumaviśeṣasyādho marakatopalakalpitāsandīṃ prati sakhīm anayat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "24-22"
+              },
+              "text": "Amīnā: Sarale! Jānāsi tvaṃ yac chakuntalāduṣyantayor anurāgabaddhayor gāndharvavidhinā svairaṃ pariṇītayor api katipayakālottaraṃ vicchinnaprāyo 'bhūd vivāhaḥ."
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "edRef": "#Rāva1954",
+                "n": "25"
+              }
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-01"
+              },
+              "text": "Saralā: Paraṃ śāpaprabhāvāt kupitasya",
+              "children": [
+                {
+                  "tag": "corr",
+                  "attributes": {
+                    "resp": "#BG"
+                  },
+                  "text": "Durvāsa"
+                },
+                {
+                  "tag": "text",
+                  "text": "munes tat saṃvṛttaṃ na tu tayor doṣāt."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "RāMigra_3"
+          },
+          "children": [
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-02"
+              },
+              "text": "Kumāryāv ime āśaiśavāt prativeśinyāv āstām."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-03"
+              },
+              "text": "Yady api bhinnabhinnarītyā saṃvārdhite adhyāpite bhinnabhinnaś ca tayor naikaviṣayeṣu gṛhasaṃskāro 'bhūd",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "bhinnabhinne ca dharmamate abhūtāṃ tayos tad apīme parasparaṃ pratibaddhadṛḍhasakhye ciraṃ sthitavatyau."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-04"
+              },
+              "text": "Amīnā hi kanyāśālāyām adhyāpitāpi svātantryasukhaṃ nānvabhavat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-05"
+              },
+              "text": "Seyaṃ vyaktitvavihīnā bhāvanāvarjitā vaivāhikaviṣaye na kam api pakṣam avālambata."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-06"
+              },
+              "text": "Tasyā vivāhavāṅniścayo Hamidanāmnā kenacid dhanāḍhyena śilpayantrasvāminā saha pitṛbhyāṃ vyadhāyi."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-07"
+              },
+              "text": "So 'yaṃ taruṇo mohamayyāṃ eva kṛtavāso 'bhūt."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-08"
+              },
+              "text": "Vastutaḥ pitur ājñayā kasyāpi kumārasya pāṇigrahaṇaṃ mugdheyam aṅgyakariṣyat."
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "RāMigra_4"
+          },
+          "children": [
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-09"
+              },
+              "text": "Atha paredyuḥ samāhitanānāvidhasaṃskāram Amīnāyāḥ pitur mandiraṃ mahotsavamayaṃ saṅgītanṛtyādidhvanimayaṃ divyamandiram iva vyabhāsiṣṭa."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-10"
+              },
+              "text": "Krameṇa samupatiṣṭhadbhiḥ prāghuṇikaiḥ sadanam etad vyarājata."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-11"
+              },
+              "text": "Āmadhyarātraṃ ca samucitabhojanaiḥ satkṛtaḥ prāghuṇikasamūho vārāṅganānṛtyasaṅgītādibhiḥ prāpitavinodaḥ śrīlasyālaye sukhaṃ kālam ayāpayat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-12"
+              },
+              "text": "Nirvartitavivāhā prātastarāṃ ca vadhūr mṛgamadakarpūrādinā surabhidravyeṇānuliptasarvāṅgī dhautadukūlavasanā dhavalapuṣpamaṇḍitaśirā ratnakhacitakaṇṭhahārakuṇḍalakaṅkaṇābharaṇabhūṣitā patyur geham ayāt."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-13"
+              },
+              "text": "Bālasakhīṃ Saralāṃ visraṣṭum asahamānā navoḍheyaṃ pitur gehān nigamanāt prāg yathā pratiśrutaṃ pratidinaṃ vāhakena sārdhaṃ premodrekasaṃbhṛtaṃ patraṃ prāhiṇot."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-14"
+              },
+              "text": "Avarṇayac ca lekhe samudrataṭasthaṃ dīpamālāvihitabahulacākacakyaṃ hṛdayahāri saudhaṃ patyuḥ",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "samudbhāsamānaṃ saṃkhyātigāminā caturaviśiṣṭaveṣadhāriṇā paricchadena samanvitaṃ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "nānāvidhapuṣpāmodasurabhitāntaḥpuraṃ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "nijāmūlyaratnakhacitābharaṇajātaṃ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "payonidher madhuramarmarormimālā yās tasyā mārtaṇḍatāpaklāntiṃ mantharīkurvanti sma divā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "naktaṃ ca vījayantyo mandānilaṃ samacārayan."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-15"
+              },
+              "text": "Yac cāsan Hāmidasya bhūyāṃsi yantravāhanāni",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "mandurā cānekavājibhiḥ saṃbhṛtā."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-16"
+              },
+              "text": "Iti sarvam eva savistaram Amīnayā sagauravaṃ varṇitaṃ",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "paraṃ svabhārtāram adhikṛtya leśamātram api na kadāpi śaṃsitam iti Saralayā lakṣitam."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-17"
+              },
+              "text": "Na tu tayāpi Hāmidam uddiśya kim apy anuyuktam."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-18"
+              },
+              "text": "Navoḍheyaṃ pitur gehaṃ bālasakhīṃ cānavarataṃ smāraṃ smāraṃ patyur adṛṣṭapūrve 'samāne prāsāde calantī mātṛvirahitāṃ naṣṭādhvakāṃ navaśukīṃ mahāraṇye",
+              "children": [
+                {
+                  "tag": "corr",
+                  "attributes": {
+                    "resp": "#BG"
+                  },
+                  "text": "drumād"
+                },
+                {
+                  "tag": "text",
+                  "text": "drumam uḍḍayamānam ivātmānam akalayad Amīnā."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-19"
+              },
+              "text": "Nirmito 'bhūd hi prāsādo 'yaṃ nānāmūlyadurlabhopalajātena."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-20"
+              },
+              "text": "Aṃtarāṅgaṇe sugahanagṛhābhyantarmārgaparamparā marakatastambhāvalambitā sthitā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-21"
+              },
+              "text": "Sukhopabhājāṃ mogaladharādhipānāṃ kālād avaśiṣṭāś citritāh paṭalā viśvakarmasamaśilpikarmakauśalabhūṣitā āsan."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-22"
+              },
+              "text": "Antaḥpurasya bhūtalaṃ cotkṛṣṭapārasīkadeśīyakauśeyāstaraṇair ācchāditam abhūt."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-23"
+              },
+              "text": "Bhittayo 'pi kārmikakṣaumapaṭṭair āvṛttāḥ."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-24"
+              },
+              "text": "Antaḥpurasya viśālāṅgaṇaṃ parilambamānarajatapañjarakrīḍākulaṃ śukasārikākulaṃ kalaravamanoharam."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-25"
+              },
+              "text": "Pārśvavartiny ekasmin kāṣṭhajālālaye 'nye patatriṇo mayūrādayaḥ kujankalakalaiḥ pakṣasphuraṇaiḥ samañjīraśiñjananartanaiś cākrīḍan."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "25-26"
+              },
+              "text": "Vivāhāt pūrvaṃ mātugṛhe bhāvivivāhaviṣayaṃ vyacintayad Amīnā:"
+            },
+            {
+              "tag": "q",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "25-27"
+                  },
+                  "text": "Api madvivāhaḥ śrīleṇa saha Hāmidena sukhāvaho bhavitā."
+                },
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "25-28"
+                  },
+                  "text": "Kathaṃ nāmaikākinī viśālasaudhe 'smin kālaṃ yāpayituṃ prabhaveyam iti.“"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "RāMigra_5"
+          },
+          "children": [
+            {
+              "tag": "pb",
+              "attributes": {
+                "edRef": "#Rāva1954",
+                "n": "26"
+              }
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-01"
+              },
+              "text": "Amīnā hy ādau vyavasāyābhāvāc chūnyahṛdayam ātmānam apaśyat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-02"
+              },
+              "text": "Tadbhartā hi prātastarāṃ nagarāt sārdhayojanadūrasthaṃ śilpayantrakāryālayaṃ prati gṛhāt nirgatya sāyaṃ sūryāstamanasamaye nyavartata."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-03"
+              },
+              "text": "Athāvicchinnaviviktatāyāṃ saudhasya taruṇīyaṃ tāmbūlaṃ carvantī",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "dāsībhih pādayor nipīḍyamānā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "vidyudvyajanena cakrākāreṇa vījyamānā svabhāgyodayasopānaṃ manasi praśaṃsantī"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "ajñabhṛtyetarajanasaṃparkarahitā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "caturasakhīvirahitā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "vividhabhūṣaṇavihitaprabalacākacakyā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "sugandhitailaprasādhitakeśakalāpā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "añjanarañjitalocanāñcalā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "hiraṇmayasūtrāṅkitapaṭṭāmbaradharā"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "sāgarormimālātuṣārakaṇikāpaharaṇaśītasya samīrasya sukhasparśam anubhavantī"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "śukasārikādipakṣiṇāṃ kalakalaṃ śṛṇvatī"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "aṭṭālikāyā aṭṭālikām aṅganād aṅganaṃ paunaḥpunyena paryaṭantī kālam ayāpayad Amīnā yāvat prāsūta yamalau sutau."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "RāMigra_6"
+          },
+          "children": [
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-04"
+              },
+              "text": "Atha katipayavarṣottaraṃ tasyā bālasakhyāḥ saralāyāḥ kaścid viśvasanīya ṛjusvabhāvas taruṇaḥ pāṇim agṛḥnāt."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-05"
+              },
+              "text": "Tayoś ca vivāho vināḍambaraṃ niravartata."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-06"
+              },
+              "text": "Vyavasāya pravāsinaḥ Saralayāḥ patyur nāsīt sthiro nivāsaḥ kvāpi."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-07"
+              },
+              "text": "Paraṃ svakāryārthaṃ mohamayīṃ gatāgataṃ kurvann eṣa nagarīm imām adhivastuṃ matiṃ kṛtvā Saralāyā icchām anusarann Amīnāyāḥ prasādasyādhastāt dvitraprakoṣṭātmakaṃ vasatisthānam alpiṣṭham upalabdhavān."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-08"
+              },
+              "text": "Ativiśālasaudhe 'smin naikabhāṭakabhavanayukte bahutithaṃ kālam uṣitvāpi tatra nivāsino 'nyonyadṛṣṭipatham api prāyo neyuḥ."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-09"
+              },
+              "text": "Amīnāyā antaḥpuravalabhituṅgavātāyanād adho bhūtalasthasya Saralāyā gṛhasya sūkṣmakārpāsavastrācchāditavātāyanāntaḥprakoṣṭhaṃ sphuṭaṃ bahisto dṛkpatham agamat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-10"
+              },
+              "text": "Yadā ca Saralāyāḥ patir nagarān nirayāt tadā sā manaso dvitīyanibandhanabhūtayāḥ sadane 'mīnāyā bhūyiṣṭham aho 'nayat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-11"
+              },
+              "text": "Ime ca sahacaryau punaḥ saṅgamenāmandānandam anvabhūtām."
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "RāMigra_7"
+          },
+          "children": [
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-12"
+              },
+              "text": "Athāminā svadharmaniyamam anusṛtyā'vaguṇṭhanapaddhatiṃ nibhṛtavāsaviśeṣāvasthitim aṅgīkṛtya kvacid eva vihārāya",
+              "children": [
+                {
+                  "tag": "corr",
+                  "attributes": {
+                    "resp": "#BG"
+                  },
+                  "text": "gṛhād"
+                },
+                {
+                  "tag": "text",
+                  "text": "bahir niragāt."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-13"
+              },
+              "text": "Ato nāgarikāṇāṃ prativeśināṃ vā vṛttānabhijñāpi krameṇa saṃjātabahuprajā paraṃ saṃtuṣṭā",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "''"
+                },
+                {
+                  "tag": "text",
+                  "text": "sta."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-14"
+              },
+              "text": "Yadā yadā tu Saralā nijasukhātiśayaḥ svabhartuḥ sāhacaryaṃ",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "tadviprayogottarapratyāgamanotkaṇṭhā cobhayor ity ādiviśayam adhikṛtya samalapat"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "tadā tadāmīnāṃ vidūrabaddhadṛṣṭim alakṣayat sā."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-15"
+              },
+              "text": "Atha gacchati kale dṛṣṭyām Amīnayāḥ ko 'pi khedadyotako vikāro vyaloki."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-16"
+              },
+              "text": "Tayor nivāsayoḥ puraḥsthasya payonidhes taṭe saprema grathitānyonyakarau Saralāṃ tatpatiṃ ca rajanyāṃ śatapadīṃ kurvāṇā darśaṃ darśam Amīnāyāḥ viṣaṇṇatā vṛddhim agamat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-17"
+              },
+              "text": "Sā ca dīrghaṃ niḥśvasatī durmanāyamāneva kvacid ātmānaṃ saroṣam aprākṣīt kuto niḥśvasyate mūḍhena tvayettham iti."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-18"
+              },
+              "text": "Tāvan nikhile 'hani bhartur mukhadarśanānandaṃ kṣaṇikam evopalabdhavatī sā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-19"
+              },
+              "text": "Sahanivāsināv api tāv adhikādhikam asaṃbaddhau sthitau."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-20"
+              },
+              "text": "So 'yaṃ hi Hamido dyutapriyo naikakrīḍāmaṇḍaleṣu pratyahaṃ vinoditātmā gehaṃ nivartituṃ dine dine 'dhikādhikaṃ vyalambata."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-21"
+              },
+              "text": "Sā cādhīratayā patiṃ pratirātraṃ pratīkṣamāṇāsta."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-22"
+              },
+              "text": "Paraṃ krameṇa yadā svapatyāgamasamaya āprabhātaṃ vilambitaḥ samabhūt tadā mā pratīkṣasva māṃ",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "bhojanaṃ samāpya yathākālaṃ svapihi."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-23"
+              },
+              "text": "Ahaṃ hi suhṛdbhiḥ sagdhiṃ kariṣya iti Hamidas tām ajñāpayat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "26-24"
+              },
+              "text": "Sā ca tasya vilambasya kāraṇaṃ nitarāṃ jñātukāmāpi kutas tvayā'dya cirāyitam iti taṃ praṣṭum alaṃ dhairyaṃ na vā dṛḍhāgrahaṃ bheje."
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "edRef": "#Rāva1954",
+                "n": "27"
+              }
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-01"
+              },
+              "text": "Evaṃ tayor vaivāhikasaṃbandhe kathāśeṣamātre saṃjāte hanta svapatiṃ sā nijasantater janaka ity evāvalokayamāsa."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-02"
+              },
+              "text": "Prāyeṇa bhūyasīnāṃ dhīmatīnāṃ paristhityedṛkśocanīyayā bhāvyam iti manvānā patipremānandarase svapne 'py anāsvādite 'pi nijāvasthāṃ śocanīyāṃ nāmanyatāmīnā manāg api."
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "RāMigra_8"
+          },
+          "children": [
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-03"
+              },
+              "text": "Athaikadeyaṃ payodhiphenapāṇḍure śayanīye kṛtapadā prasvāpasukham anubabhūva."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-04"
+              },
+              "text": "Samayo 'yaṃ kila grīṣmartoḥ."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-05"
+              },
+              "text": "Avasare 'smin sarvato niśānāthasya saṃpūrṇakalāprāyasya dyutidugdhā dhavaladharā nicayena dhavalitam āsīd dharātalam."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-06"
+              },
+              "text": "Jalanidher jalāni hīrakanicaya iva cākacakyaṃ bhejire."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-07"
+              },
+              "text": "Pihiteṣu bhavanadvāreṣu svasvaprakoṣṭheṣu parijanāḥ prasuptā āsan."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-08"
+              },
+              "text": "Amīnāpi prasvapatī kamapy atimātrāramyaṃ svapnam adrākṣīt."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-09"
+              },
+              "text": "Yat tadīyabālasakhyā Saralayā tadīyasarvasvam api viluṇṭhya sā Hamidasya harmyān niṣkāsiteti."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-10"
+              },
+              "text": "Caṇḍavātyayā sahasā prahateva sarutaṃ prabudhya śayanāt",
+              "children": [
+                {
+                  "tag": "corr",
+                  "attributes": {
+                    "resp": "#BG"
+                  },
+                  "text": "samutthāya"
+                },
+                {
+                  "tag": "text",
+                  "text": "nayane parimṛjatī saṃbhrameṇa ruddhakaṇṭhā cakitacakiteva viśithilāṅgayaṣṭiḥ skhalatpādābhyāṃ samīpavartinaḥ saudhasyādho bhūtalasthaṃ Saralāyā nilayam avalokyantī vātāyanasamīpaṃ ciram avatasthe."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-11"
+              },
+              "text": "Nitāntaviviktatayā viṣaṇṇamanā Amīnā jalābdher ūrmimālāyā mandamandamarmaraṃ śrāvaṃ śrāvaṃ parimṛditamṛṇālinīva mlānāṅgī priyajanasya kasyāpi mṛdulasparśajuṣaḥ sāntvanasyābhilāṣukābhūt."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-12"
+              },
+              "text": "Tāvat Saralāyāḥ śayyāgāraṃ vidyuddīpakadyotitaṃ vyaloki tayā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-13"
+              },
+              "text": "Vātāyanasya sūkṣmanepathyasya pṛṣṭhataḥ Saralāyāḥ sukumāraśarīrayaṣṭir itas tataś calantī dṛggocaratām agād Amīnayāḥ."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-14"
+              },
+              "text": "Bhartari niryate nagarān niśīthinyāṃ kinnāma kartuṃ pravṛttā syāt Saraleti vyacintayat savismayam Amīnā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-15"
+              },
+              "text": "Atha yāvat sakhīṃ samāhvayituṃ pravartate sā tāvat tasyaiva saudhasyādho gṛhapṛṣṭhabhāgato nirgacchantīṃ Hamidasyākṛtim iva kasyāpi puruṣasyākṛtiṃ vyalokayad Amīnā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-16"
+              },
+              "text": "Tadanu ca jhaṭiti Saralāyāḥ śayyāgṛhasya dipikā nirvāpitābhut."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-17"
+              },
+              "text": "Nīravaṃ nibhṛtaṃ pracalan puruṣo 'yaṃ svapatir iti kṣaṇaṃ sā na vyaśvasīt paraṃ yadā svaharmyasya bahir dvāram udghāṭyāntaḥ sa prāviśat tadāyaṃ Hamidam antarā na",
+              "children": [
+                {
+                  "tag": "corr",
+                  "attributes": {
+                    "resp": "#BG"
+                  },
+                  "text": "ko 'py"
+                },
+                {
+                  "tag": "text",
+                  "text": "anya iti pratītā'bhūt."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-18"
+              },
+              "text": "Pāṇḍuvadanā vepamānavigrahā kiṃkartavyapratipattimūḍhā sthitavatī ca."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-19"
+              },
+              "text": "Prabhātaprāyaḥ samayo na cirād bhavitā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-20"
+              },
+              "text": "Kuta etāvān vilambaḥ pratyāgamasya bhartuḥ",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "kutaś ca Saralāyāḥ śayanagṛhaṃ madhyarātre prakāśitaṃ syād ity anekavitarkajālenākrāntā vātāyanāt parāvṛtyonnidranetryābhānūdayaṃ saṃbhrāntā'ntaḥpure gatāgatam akarod Amīnā."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-21"
+              },
+              "text": "Paredyur niśīthe punar gavākṣasavidhe sā ciraṃ sthitvāpi Saralāyā nilayam andhatamasāvṛtam apaśyat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-22"
+              },
+              "text": "Bahiḥ sarvatra praśāntatādevī vyarājat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-23"
+              },
+              "text": "Yāminīkāminīvadanatilakabindur induś candrikāvyājenāmbaratalāt sudhādhārābhir dharātalam adhāvat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-24"
+              },
+              "text": "Antarāntarā vāridhivīcimālānāṃ mandamandaravo 'mīnāyāḥ karṇaśaṣkulīm apūrayat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-25"
+              },
+              "text": "Atha yāvat parāvartate sā vātāyanāt tāvat pādacāradhvanim iva kasyāpy aśrauṣīt."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-26"
+              },
+              "text": "Dhvaninānenākṛṣṭeva gavākṣasavidhaṃ punaḥ sā yayau."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-27"
+              },
+              "text": "Na cirāc ca samīpavartinaḥ saudhasyādhastalabhāgān nirgachantī Hamidasya śarīrākṛtiḥ punas tasyā dṛkpathe nyapatat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-28"
+              },
+              "text": "Himadhavalavasanopari śyāmakṣaumaprāvāro raktaturkoṣṇīṣaś ca niśākarakaranicaye vailakṣaṇyaṃ bhejāte."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "27-29"
+              },
+              "text": "Tataś ca gavākṣajālaprasāritai rajatamārjanīnibhaiḥ kalānidhikaranikaraiḥ saṃśodhitāndhakāre payodhiphenasaṃdoheneva nirmite śayanīya upaviśya saṃdehakoponmathitahṛdayā mukham adhaḥ kṛtvā niḥśvasyoṣṇaṃ ca sā tūṣṇīṃ tasthau."
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "RāMigra_9"
+          },
+          "children": [
+            {
+              "tag": "pb",
+              "attributes": {
+                "edRef": "#Rāva1954",
+                "n": "28"
+              }
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-01"
+              },
+              "text": "Evaṃ catasṛṣu niśāsu naiśānveṣaṇam upākramatāmīnā yāvat sā Saralāyāḥ kapaṭasya saṃjātapratyayābhūt."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-02"
+              },
+              "text": "Saralāhamidayor madhye nibhṛtāsaktisambandhaviṣaye na ko 'pi saṃdehaleśa iti niścitamatiḥ sā samabhūt."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-03"
+              },
+              "text": "Pratinaktaṃ vyatikaram imaṃ pratyakṣīkṛtya lohitavadanā kopasphuradadharā jājvalyamānalocanā śayane kṛtapadā parśvadvaye muhurmuhur luṭhantī nairāśyād avātiṣṭhata."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-04"
+              },
+              "text": "Kutarkaparavaśeyaṃ kriyāsamabhihāreṇodgacchadroṣabāṣpā krodhāgninā lulitalulitāṅgakais tāmyati sma pratidinam."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-05"
+              },
+              "text": "Aho kathaṃ nādyāvadhi Saralāyā gūḍhakauṭilyaṃ na tarkitaṃ mandadhiyā mayeti muhurmuhur vicintayantī bhṛśam akupyad ātmane."
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "RāMigra_10"
+          },
+          "children": [
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-06"
+              },
+              "text": "Atha pūrvavad yadā saha sakhyā śūcīśilpaṃ kartuṃ Saralā tasyāḥ prāsādaṃ samāyāt tadāmīnā'tyantanirutsāhā kopenāntareva tātapyamānā",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "hāsyavivarjitā samatiṣṭhata."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-07"
+              },
+              "text": "Kaiścid api gṛhakāryavyavasthākleśair udvejitā syat sahacarīti Saralā tām ullāsayituṃ savinodaṃ prāyatata."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-08"
+              },
+              "text": "Param adhikādhikam audāsīnyam evāvalambya vimanāyamānā sthithavaty Amīnā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-09"
+              },
+              "text": "Uccaiḥ pustakapaṭhanaṃ cikīrṣuṃ Saralāṃ sapadi sapadi sahastavikṣepaṃ pratyākhyāt sā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-10"
+              },
+              "text": "Prativāraṃ yadā Saralā viśrambhālāpaṃ kartuṃ prāvartata tadā tadvacobhir bhūyo vituṣṭahṛdayam ivātmānaṃ sā prādarśayat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-11"
+              },
+              "text": "Tadanu Saralā smāraṃ smāraṃ kaver uktim atiparicayād avajñā saṃtatagamanād",
+              "children": [
+                {
+                  "tag": "corr",
+                  "attributes": {
+                    "resp": "#BG"
+                  },
+                  "text": "anādaro"
+                },
+                {
+                  "tag": "text",
+                  "text": "bhavatīti vyaramad gamanāt sakhyā harmyam."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-12"
+              },
+              "text": "Amīnāyā hṛdi tāvat sahacarīṃ prati vidveṣāgnir adhikādhikaṃ samudjvalat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-13"
+              },
+              "text": "Anavarataṃ ca vyacintayat sā yadā bālyād yasyāṃ pūrṇaśo vyaśvasaṃ seyam adya katham īdṛgadharmakarmaṇi pravṛttābhūt tatrāpi nijasakhyāḥ saha vallabhena."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-14"
+              },
+              "text": "Madhuramadhuravacāṃsi matpuraḥ samudīrya parokṣaṃ mām kathaṃ sā pratāritavatī."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-15"
+              },
+              "text": "Ahaha! Kathaṃ kamalām iva vimalāṃ",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "śāradām iva viśāradāṃ"
+                },
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "satīm iva satīṃ svāṃ pradarṣayantī malinahṛdayā sthitavaty etāvat kālam."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-16"
+              },
+              "text": "Ahaṃ ca tāṃ viśvasanīyāṃ prāṇapriyāṃ ca bhaginīm iva samabhāvayam."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-17"
+              },
+              "text": "Api Hāmidasya vaibhavena mohitā syāt sā yat svapateḥ patnīvatsalasya parokṣa vyabhicārakarmaṇi prāvartateyam."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-18"
+              },
+              "text": "Kīdṛśo 'yaṃ viśvāsaghātaḥ."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-19"
+              },
+              "text": "Kīdṛśīyaṃ cañcalatā cittasya",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "yan matsahacaryaiva viśveṣāṃ narmapātraṃ kṛtāsmi."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-20"
+              },
+              "text": "Ahaha! Kathaṃ nāma tasyā viṣayāsaktiṃ vatsareṣv eteṣu nāvidam."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-21"
+              },
+              "text": "Kutaś ceyaṃ matgehasavidhe kṛtāvāsābhūta."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-22"
+              },
+              "text": "Api bhartuḥ parokṣe nibhṛtadurācārāya vyavasitam itthaṃ tayā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-23"
+              },
+              "text": "Bāhyato mugdhānanāyā vinayasaṃpannāyāś ca tasyā hṛdi kauṭilyāhiḥ katham āśritaḥ syāt."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-24"
+              },
+              "text": "Sarvā api sahacarya ātmānaṃ nirāgasaṃ pradarśayantyo 'viśvasanīyāḥ syuḥ."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-25"
+              },
+              "text": "Itthaṃ tarkavitarkakaṇṭakanikaravyathitā sā Saralāṃ prastutaviṣayam uddiśya viśakalayya praṣṭukāmāpi svapratiṣṭhāyā alīkadarpāj joṣaṃ sthitavatī."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-26"
+              },
+              "text": "Saralāyāś cirasakhyaṃ tadīyamadhuravacaś ca svapna ivendrajālam iva māyādarśanam ivāmināyāḥ pratyabhād idānīm."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "28-27"
+              },
+              "text": "Ādhiṃ cātmano rahasi sahamānāvātiṣṭhata sā."
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "RāMigra_11"
+          },
+          "children": [
+            {
+              "tag": "pb",
+              "attributes": {
+                "edRef": "#Rāva1954",
+                "n": "29"
+              }
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-01"
+              },
+              "text": "Atha gacchatsu varṣeṣu śiśur eko 'mīnāyāḥ kenāpi vyādhinā grasta ity",
+              "children": [
+                {
+                  "tag": "corr",
+                  "attributes": {
+                    "resp": "#BG"
+                  },
+                  "text": "ākarṇya"
+                },
+                {
+                  "tag": "text",
+                  "text": "tasya śuśrūṣāyāṃ sakhyai sahāyyaṃ praditsuḥ Saralā sānunayaṃ patradvārā tasyai"
+                },
+                {
+                  "tag": "corr",
+                  "attributes": {
+                    "resp": "#BG"
+                  },
+                  "text": "nyavedayat"
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-02"
+              },
+              "text": "Paraṃ lekham imaṃ prāvaraṇād apasāryaiva yathāgataṃ vāhakāyād āpayad Amīnā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-03"
+              },
+              "text": "Anena paramodvignāpi Saralā sakhyai nādruhyan manāg api."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-04"
+              },
+              "text": "Rugṇārbhakasyāmīnāyāś ca vṛttaṃ svasevakamukhād upalabhya joṣaṃ sthitā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-05"
+              },
+              "text": "Athaikavatsarottaraṃ Hamido 'kasmāt kenāpi nirupāyarogeṇākrānto maraṇonmukhaḥ sthitaḥ."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-06"
+              },
+              "text": "Krameṇa sa ca naṣṭollāghatāśo nacirād vinaṣṭavāg āsanna",
+              "children": [
+                {
+                  "tag": "corr",
+                  "attributes": {
+                    "resp": "#BG"
+                  },
+                  "text": "prāyo'ntakāla"
+                },
+                {
+                  "tag": "text",
+                  "text": "iti jñātvā Saralāyā gṛhasya diśam aṅgulyā nirdiśya muhurmuhuḥ kāpi"
+                },
+                {
+                  "tag": "corr",
+                  "attributes": {
+                    "resp": "#BG"
+                  },
+                  "text": "samāhūtayāmītīṅgitenaivāsūcayaj"
+                },
+                {
+                  "tag": "text",
+                  "text": "joṣam."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-07"
+              },
+              "text": "Bhartur āśayam avagatyāpi tasya parayoṣidāsaktim anabhinandamānā tatsūcanam avāmaṃstāmīnā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-08"
+              },
+              "text": "Saralāyā ākṛtir hi hṛdi tasyāḥ śyāmaśyāmā mṛtyucchāyeva santatam",
+              "children": [
+                {
+                  "tag": "corr",
+                  "attributes": {
+                    "resp": "#BG"
+                  },
+                  "text": "avasthitāsīt"
+                },
+                {
+                  "tag": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-09"
+              },
+              "text": "Atha pañcaṣadinottaraṃ bhagavato bhāskarasyāstamanasamaye Hamidaḥ prati paralokaṃ prasthitaḥ."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-10"
+              },
+              "text": "Tasya nidhanavṛttaṃ prativeśināṃ sapadi śrutipathe nyapatad acirāc ca",
+              "children": [
+                {
+                  "tag": "corr",
+                  "attributes": {
+                    "resp": "#BG"
+                  },
+                  "text": "sarvato 'pi"
+                },
+                {
+                  "tag": "text",
+                  "text": "nagare prāsarat."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-11"
+              },
+              "text": "Bhartur mṛtyunā śokākulābhūd Amīneti na",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "paraṃ tasyākasmikāntena stambhitā nijaśayanāgare niścalātiṣṭhat."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-12"
+              },
+              "text": "Paricarāṇāṃ gamanāgamaninādena vṛddhasevakānām ākrośakallolena ca jāgaritā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-13"
+              },
+              "text": "Tasyā bālakāḥ saṃbhrāntāḥ saṃtrastāś cābhyadhāvan mātuḥ śayyālayam."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-14"
+              },
+              "text": "Sā ca bālavatsalā gāḍhaṃ tān pariṣvajya mṛdulavacobhiś ca samāsvāsya nijaparyaṅke śāyitavatī."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-15"
+              },
+              "text": "Supteṣu teṣu Hamidasya sevako niḥśabdaṃ tām upetya nyavedayad yathāsnāpito dhūpito gandhādirūṣito vigrahaḥ svāminah."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-16"
+              },
+              "text": "Na cirād āyāsyanti nāgarikā anukampina",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": ","
+                },
+                {
+                  "tag": "text",
+                  "text": "ito neṣyanty adhaḥ svāminaḥ pūtadeham uttaravidher anuṣṭhānārtham."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-17"
+              },
+              "text": "Purohitā hi samāyātāḥ."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-18"
+              },
+              "text": "Ity uktayā śīghram āyāmi tāvad iti pratyuktas tayā paricārako 'pāsarat."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-19"
+              },
+              "text": "Patyur antimadarśanasyecchayā 'mīnāntaḥpurān nirgatya dīrghadīrghagṛhābhyantaramārgān dīpamālābhir udbhāsitān samullaṅghya prāsādasya viśālasopānasamīpasthasya Hamidasya śayyāgṛhasya saṃnidhiṃ kathaṃ katham api prāpa."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-20"
+              },
+              "text": "Atha yāvat prakoṣṭhasya dvāram udghāṭayitum sā pravartate tāvat paśyati sopānapaṅktim ārohantīṃ śanaiḥ śanaiḥ Saralām."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-21"
+              },
+              "text": "Niśāmyaināṃ śītaśītasamīreṇa kampamānāṅgayaṣṭir iva tasthau vidhavā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-22"
+              },
+              "text": "Avanatamukhī Saralā ca yāvat sahānubhūtiṃ pradarśayitum icchantī sakhīṃ saprema samāliṅgituṃ karapallavau vistārayati tāvad Amīnā tāṃ sahastavikṣepaṃ nivārya bravīti kaṭusvareṇa samāyātāsi niḥsaṃśayaṃ vallabhasyāntimadarśanāyeti."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-23"
+              },
+              "text": "Naivaṃ naivam."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-24"
+              },
+              "text": "Āyātāsmi khalu tvatkṛta iti paścāt pracalitā vikampitaśirāḥ pratyuvāca Saralā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-25"
+              },
+              "text": "Apradattapratyuttarā ghanasaṃśayatamasāvṛtahṛdayā yāvad Amīnā bhartur āvāsadvāraṃ samudghāṭayati tāvad antaḥ kāñcana kāñcanāṅgīm aṅganāṃ dṛṣṭvā sākrośaṃ pṛṣṭhataḥ pracalitā'mīnā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-26"
+              },
+              "children": [
+                {
+                  "tag": "q",
+                  "attributes": {},
+                  "text": "Kim idam? Keyam? Kuta iyam! Ahaha!"
+                },
+                {
+                  "tag": "text",
+                  "text": "ity udīrayantī khalitasvareṇa cakitā visphāritalocanā sthambiteva sā sthitā."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-27"
+              },
+              "text": "Puṣpamālācchāditasya Hamidasya hi śayanasya savidhaṃ vinyastajānuḥ śyāmasūkṣmadukūlāmbaraveṣṭitāṅgayaṣṭiś cāruvadanā gauravarṇā śirīṣasukumāratanur mṛtasya pādayor nihitaśirāḥ śokajvālāvaliḍheva haridrākṣālitavadaneva niḥśabdaṃ vilapantī muktakaṇṭhaṃ kācit taruṇī vyaloki."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "29-28"
+              },
+              "text": "Amīnayā sānuyogaṃ nirdiṣṭām enām ālokya Saralā karṇe 'japat:"
+            },
+            {
+              "tag": "q",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "29-29"
+                  },
+                  "text": "Sakhi sahaja evāsyāḥ śokodvegajanito vilāpo vigatāsoḥ prāṇeśvarasya kṛte."
+                },
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "edRef": "#Rāva1954",
+                    "n": "30"
+                  }
+                },
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-01"
+                  },
+                  "text": "Tayor dīrghānurāgābhijñayā tvayā bhāvyam."
+                },
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-02"
+                  },
+                  "text": "Viditavṛttāḥ sarve 'pi prativeśino",
+                  "children": [
+                    {
+                      "tag": "corr",
+                      "attributes": {
+                        "resp": "#BG"
+                      },
+                      "text": "'treti"
+                    },
+                    {
+                      "tag": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "30-03"
+              },
+              "text": "Katham? Kadā? Tvam evāsya praṇeśvarīti",
+              "children": [
+                {
+                  "tag": "corr",
+                  "attributes": {
+                    "resp": "#BG"
+                  },
+                  "text": "mayākalitam iti"
+                },
+                {
+                  "tag": "text",
+                  "text": "prālapad Amīnā'sphuṭam."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "30-04"
+              },
+              "text": "Vismitā stambhiteva vacanam Amīnāyā nāvagacchantīva kṣaṇaṃ visphāritanayanāvātiṣṭhata Saralā."
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "30-05"
+              },
+              "text": "Tataś ca vivarṇavadanam Amīnāyā vilokya sā savegam abhāṇīt."
+            },
+            {
+              "tag": "q",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-06"
+                  },
+                  "text": "Ayi mūḍhamate! Yathaihikasampattivaibhavaiśvaryādibhiḥ sanāthīkṛtāsi tvaṃ vidhinā",
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": ","
+                    },
+                    {
+                      "tag": "text",
+                      "text": "tathaiva tena patyuḥ premodrekasampattyaikasukhabhākkṛto 'sti jano 'yam."
+                    }
+                  ]
+                },
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-07"
+                  },
+                  "text": "Prāṇeśvaram antareṇetarapuruṣā me bhrātṛsamānā eva."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "30-08"
+              },
+              "text": "Iti samudīrya viratavacanā",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "''"
+                },
+                {
+                  "tag": "text",
+                  "text": "ste Saralā tāvad Amīnā lajjayā natamukhī niḥśabdā sthitavatī."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "30-09"
+              },
+              "text": "Muhūrtottaraṃ labdhaprakṛtir uvāca Saralā punaḥ."
+            },
+            {
+              "tag": "q",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-10"
+                  },
+                  "text": "Avagatam idānīṃ mayā tava māṃ prati durāgrahahalāhalavikārasya kāraṇam."
+                },
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-11"
+                  },
+                  "text": "Bālasakhyām anindyāyāṃ kutarkajanitaduṣṭasaṃśayapiśācabhāram āropya pañcasu varṣeṣv eteṣu tāṃ hanta dṛkpathād akāraṇaṃ niṣkāsya durmanāyamānam ātmānaṃ paryatāpayas tvaṃ vṛthā."
+                },
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-12"
+                  },
+                  "text": "Vākpratiṣṭhāni dehināṃ vyavahāratantrāṇi."
+                },
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-13"
+                  },
+                  "text": "Vāci khalu satyāsatyahetavo vyavasthitāḥ."
+                },
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-14"
+                  },
+                  "text": "Yadi saralavacanena mām aprakṣyas tvaṃ tarhi yāthārthyam avediṣyaḥ."
+                },
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-15"
+                  },
+                  "text": "Paraṃ hṛdi nibhṛtaṃ vaimanasyam āśritya vṛthā saṃśayajanitābhidrohāgnisantaptā mṛgīva ghorasaṃdehajanitakopavyāghrā",
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": "''"
+                    },
+                    {
+                      "tag": "text",
+                      "text": "ghrātā nibhṛtam aśrupravāhair vṛthā snātā kriyāsamabhihāreṇa māṃ hṛdi śapantī ca dīrghakālaṃ sthitāsi."
+                    }
+                  ]
+                },
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-16"
+                  },
+                  "text": "Kāmaṃ tava bhartuś ceṣṭitaṃ nocitam āsīt khalu."
+                },
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-17"
+                  },
+                  "text": "Paraṃ yavanadharmeṇa svadāretarāyāḥ parakīyāyāḥ aṅgīkāro yathānyāyam iti pratipadyata ity api viditam āsīt te."
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "30-18"
+              },
+              "text": "Ākarṇyaitan nipatyāmīnā Saralāyāḥ pādayor viśithilavacanavinyāsā'timandasvarā lajjayā",
+              "children": [
+                {
+                  "tag": "orig",
+                  "attributes": {},
+                  "text": "''"
+                },
+                {
+                  "tag": "text",
+                  "text": "nana āvirbhūtavividhabhāvabhaṅgā baddhāñjalir abravīt."
+                }
+              ]
+            },
+            {
+              "tag": "q",
+              "attributes": {},
+              "children": [
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-19"
+                  },
+                  "text": "Sakhi! Kṣamyatāṃ",
+                  "children": [
+                    {
+                      "tag": "orig",
+                      "attributes": {},
+                      "text": ","
+                    },
+                    {
+                      "tag": "text",
+                      "text": "kṣamyatāṃ jano 'yam."
+                    }
+                  ]
+                },
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-20"
+                  },
+                  "text": "Sanāthāpy ahaṃ cirāt parāṅmukhībhūte nāthe 'nāthībhūteva kathaṃ kathamapi kālam ayāpayam."
+                },
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-21"
+                  },
+                  "text": "Nāthasya nidhanenādya yathāpūrvaṃ nirviśeṣam avasthitāsmi khalu."
+                },
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-22"
+                  },
+                  "text": "Paraṃ cirād ātmanaiva niḥsāritabālasakhī daivayogāt punar mayopalabdheti madbhāgyabhāskaro 'yam iti pramuditāntaraṅgāsmīti vacaḥ punaruktir eva syāt."
+                },
+                {
+                  "tag": "s",
+                  "attributes": {
+                    "n": "30-23.1"
+                  },
+                  "text": "Hanta! Itaḥ param ājīvam āvām ubhe dṛḍhabaddhasakhye sthāsyāva"
+                }
+              ]
+            },
+            {
+              "tag": "s",
+              "attributes": {
+                "n": "30-23.2"
+              },
+              "text": "ity udīrya Saralāṃ gāḍham āśliṣya nijaśayanāgāram enām anayad Amīnā."
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

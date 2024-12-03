@@ -1,4 +1,1943 @@
 {
-  "title": "sa_kaṇāda-vaiśeṣikasūtra-alt",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n<div>\n<l>athāto dharmaṃ vyākhyāsyāmaḥ | KVs_1,1.1 |</l>\n\n<l>yato 'bhyudayaniḥśreyasasiddhiḥ sa dharmaḥ | KVs_1,1.2 |</l>\n\n<l>tadvacanādāmnāyasya prāmāṇyam | KVs_1,1.3 |</l>\n\n<l>dharmaviśeṣa prasūtāt dravyaguṇakarmasāmānya viśeṣasamavāyānāṃ padārthānāṃ sādharmyavaidharmyābhyāṃ tattvajñānānniḥśreyasam | KVs_1,1.4 |</l>\n\n<l>pṛthivyāpastejo vāyurākāśaṃ kālo digātmā mana iti dravyāṇi | KVs_1,1.5 |</l>\n\n<l>ruparasagandhasparśāḥ saṃkhyāḥ parimāṇāni pṛthaktvaṃ saṃyogavibhāgau paratvāparatve buddhayaḥ sukhaduḥkhe icchādveṣau prayatnāśca guṇāḥ | KVs_1,1.6 |</l>\n\n<l>utkṣepaṇamavakṣepaṇaṃ ākuñcanaṃ prasāraṇaṃ gamanamiti karmāṇi | KVs_1,1.7 |</l>\n\n<l>sadanityaṃ dravyavat kāryaṃ kāraṇaṃ sāmānyaviśeṣavaditi dravyaguṇakarmaṇāmaviśeṣaḥ | KVs_1,1.8 |</l>\n\n<l>dravyaguṇayoḥ sajātīyārambhakatvaṃ sādharmyam | KVs_1,1.9 |</l>\n\n<l>dravyāṇi dravyāntaramārabhante guṇāśca guṇāntaram | KVs_1,1.10 |</l>\n\n<l>karma karmasādhyaṃ na vidyate | KVs_1,1.11 |</l>\n\n<l>na dravyaṃ kāraṇaṃ ca bhavati | KVs_1,1.12 |</l>\n\n<l>ubhayathā guṇāḥ | KVs_1,1.13 |</l>\n\n<l>kāryavirodhi karma | KVs_1,1.14 |</l>\n\n<l>kriyāguṇavat samavāyikāraṇamiti dravyalakṣaṇam | KVs_1,1.15 |</l>\n\n<l>dravyāśrayyaguṇavān saṃyogavibhāgeṣvakāraṇamanapekṣa iti guṇalakṣaṇam | KVs_1,1.16 |</l>\n<l>ekadravyamaguṇaṃ saṃyogavibhāgeṣvanapekṣa kāraṇamiti karmalakṣaṇam | KVs_1,1.17 |</l>\n\n<l>dravyaguṇakarmaṇāṃ dravyaṃ kāraṇaṃ sāmānyam | KVs_1,1.18 |</l>\n\n<l>tathā guṇaḥ | KVs_1,1.19 |</l>\n\n<l>saṃyogavibhāgavegānāṃ karma samānam | KVs_1,1.20 |</l>\n\n<l>na dravyāṇāṃ karma | KVs_1,1.21 |</l>\n\n<l>vyatirekāt | KVs_1,1.22 |</l>\n\n<l>dravyāṇāṃ dravyaṃ kāryaṃ sāmānyam | KVs_1,1.23 |</l>\n\n<l>guṇavaidharmyānna karmaṇāṃ karma | KVs_1,1.24 |</l>\n\n<l>dvitvaprabhṛtayaḥ saṃkhyāḥ pṛthaktva saṃyoga vibhāgāśca | KVs_1,1.25 |</l>\n\n<l>asamavāyāt sāmānyakāryaṃ karma na vidyate | KVs_1,1.26 |</l>\n\n<l>saṃyogānāṃ dravyam | KVs_1,1.27 |</l>\n\n<l>rūpāṇāṃ rūpam | KVs_1,1.28 |</l>\n\n<l>gurutvaprayatnasaṃyogānāmutkṣepaṇam | KVs_1,1.29 |</l>\n\n<l>saṃyogavibhāgāśca karmaṇām | KVs_1,1.30 |</l>\n\n<l>kāraṇasāmānye dravyakarmaṇāṃ karmākāraṇamuktam | KVs_1,1.31 |</l>\n\n<l>kāraṇābhāvāt kāryābhāvaḥ | KVs_1,2.1 |</l>\n\n<l>na tu kāryābhāvāt kāraṇābhāvaḥ | KVs_1,2.2 |</l>\n\n<l>sāmānyaviśeṣa iti buddhyapekṣam | KVs_1,2.3 |</l>\n\n<l>bhāvo 'nuvṛttereva hetutvāt sāmānyameva | KVs_1,2.4 |</l>\n\n<l>dravyatvaṃ guṇatvaṃ karmatvaṃ ca sāmānyāni viśeṣāśca | KVs_1,2.5 |</l>\n\n<l>anyatrāntyebhyo viśeṣebhyaḥ | KVs_1,2.6 |</l>\n\n<l>saditi yato dravyaguṇakarmasu sā sattā | KVs_1,2.7 |</l>\n\n<l>dravyaguṇakarmabhyor'thāntaraṃ sattā | KVs_1,2.8 |</l>\n<l>guṇakarmasu ca bhāvānna karma na guṇaḥ | KVs_1,2.9 |</l>\n\n<l>sāmānyaviśeṣābhāvena ca | KVs_1,2.10 |</l>\n\n<l>anekadravyavattvena dravyatvamuktam | KVs_1,2.11 |</l>\n\n<l>sāmānyaviśeṣābhāvena ca | KVs_1,2.12 |</l>\n\n<l>tathā guṇeṣu bhāvādguṇatvamuktam | KVs_1,2.13 |</l>\n\n<l>sāmānyaviśeṣābhāvena ca | KVs_1,2.14 |</l>\n\n<l>karmasu bhāvātkarmatvamuktam | KVs_1,2.15 |</l>\n\n<l>sāmānyaviśeṣābhāvena ca | KVs_1,2.16 |</l>\n\n<l>saditi liṅgāviśeṣāt viśeṣaliṅgābhāvāccaiko bhāvaḥ | KVs_1,2.17 |</l>\n\n</div>\n<div>\n\n<l>rūparasagandhasparśavatī pṛthivī | KVs_2,1.1 |</l>\n\n<l>rūparasasparśavatya āpo dravāḥ snigdhāḥ | KVs_2,1.2 |</l>\n\n<l>tejo rūpasparśavat | KVs_2,1.3 |</l>\n\n<l>sparśavān vāyuḥ | KVs_2,1.4 |</l>\n\n<l>ta ākāśe na vidyante | KVs_2,1.5 |</l>\n\n<l>sarpirjatumadhūcchiṣṭānāṃ agnisaṃyogāddravatvamadbhiḥ sāmānyam | KVs_2,1.6 |</l>\n\n<l>trapusīsa loha rajata suvarṇānāmagnisaṃyogāddravatvamadbhiḥ sāmānyam | KVs_2,1.7 |</l>\n\n<l>viṣāṇī kakudmān prāntevāladhiḥ sāsnāvān iti gotve dṛṣṭaṃ liṅgam | KVs_2,1.8 |</l>\n\n<l>sparśaśca vāyoḥ | KVs_2,1.9 |</l>\n\n<l>na ca dṛṣṭānāṃ sparśa ityadṛṣṭaliṅgo vāyuḥ | KVs_2,1.10 |</l>\n\n<l>adravyavattvena dravyam | KVs_2,1.11 |</l>\n\n<l>kriyāvattvāt guṇavattvācca | KVs_2,1.12 |</l>\n\n<l>adravyatvena nityatvamuktam | KVs_2,1.13 |</l>\n\n<l>vāyorvāyusaṃmūrchanaṃ nānātvaliṅgam | KVs_2,1.14 |</l>\n<l>vāyusannikarṣe pratyakṣābhāvāt dṛṣṭaṃ liṅgaṃ na vidyate | KVs_2,1.15 |</l>\n\n<l>sāmānyato dṛṣṭāccāviśeṣaḥ | KVs_2,1.16 |</l>\n\n<l>tasmādāgamikam | KVs_2,1.17 |</l>\n\n<l>saṃjñākarma tvasmadviśiṣṭānāṃ liṅgam | KVs_2,1.18 |</l>\n\n<l>pratyakṣapravṛttatvāt saṃjñākarmaṇaḥ | KVs_2,1.19 |</l>\n\n<l>niṣkramaṇaṃ praveśanamityākāśasya liṅgam | KVs_2,1.20 |</l>\n\n<l>tadaliṅgamekadravyatvāt karmaṇaḥ | KVs_2,1.21 |</l>\n\n<l>kāraṇāntarānukipti vaidharmyācca | KVs_2,1.22 |</l>\n\n<l>saṃyogādabhāvaḥ karmaṇaḥ | KVs_2,1.23 |</l>\n\n<l>kāraṇaguṇapūrvakaḥ kāryaguṇo dṛṣṭaḥ | KVs_2,1.24 |</l>\n\n<l>kāryāntarāprādurbhāvācca śabdaḥ sparśavatāmaguṇaḥ | KVs_2,1.25 |</l>\n\n<l>paratra samavāyāt pratyakṣatvācca nātmaguṇo na manoguṇaḥ | KVs_2,1.26 |</l>\n\n<l>pariśeṣālliṅgamākāśasya | KVs_2,1.27 |</l>\n\n<l>dravyatvanityatve vāyunā vyākhyāte | KVs_2,1.28 |</l>\n\n<l>tattvambhāvena | KVs_2,1.29 |</l>\n\n<l>śabdāliṅgāviśeṣādviśeṣaliṅgābhāvācca | KVs_2,1.30 |</l>\n\n<l>tadanuvidhānādekapṛthaktvañceti | KVs_2,1.31 |</l>\n\n<l>puṣpavastrayoḥ sati sannikarṣe guṇāntarāprādurbhāvo vastre gandhābhāvaliṅgam | KVs_2,2.1 |</l>\n\n<l>vyavasthitaḥ pṛthivyāṃ gandhaḥ | KVs_2,2.2 |</l>\n\n<l>etenoṣṇatā vyākhyātā | KVs_2,2.3 |</l>\n\n<l>tejasa uṣṇatā | KVs_2,2.4 |</l>\n\n<l>apsu śītatā | KVs_2,2.5 |</l>\n\n<l>aparasminnaparaṃ yugapat ciraṃ kṣipramiti kālaliṅgāni | KVs_2,2.6 |</l>\n\n<l>dravyatva nityatve vāyunā vyākhyāte | KVs_2,2.7 |</l>\n\n<l>tattvambhāvena | KVs_2,2.8 |</l>\n\n<l>nityoṣvabhāvādanityeṣu bhāvāt kāraṇe kālākhyeti | KVs_2,2.9 |</l>\n\n<l>ita idamiti yatastaddiśyaṃ liṅgam | KVs_2,2.10 |</l>\n\n<l>dravyatva nityatve vāyunā vyākhyāte | KVs_2,2.11 |</l>\n\n<l>tattvambhāvena | KVs_2,2.12 |</l>\n\n<l>kāryaviśeṣeṇa nānātvam | KVs_2,2.13 |</l>\n\n<l>ādityasaṃyogāt bhūtapūrvāt bhaviṣyato bhūtācca prācī | KVs_2,2.14 |</l>\n\n<l>tathā dakṣiṇā pratīcī udīcī ca | KVs_2,2.15 |</l>\n\n<l>etena digantarālāni vyākhyātāni | KVs_2,2.16 |</l>\n\n<l>sāmānyapratyakṣādviśeṣasmṛteśca saṃśayaḥ | KVs_2,2.17 |</l>\n\n<l>dṛṣṭañca dṛṣṭavat | KVs_2,2.18 |</l>\n\n<l>yathādṛṣṭamayathādṛṣṭatvācca | KVs_2,2.19 |</l>\n\n<l>vidyāvidyātaśca saṃśayaḥ | KVs_2,2.20 |</l>\n\n<l>śrotragrahaṇo yor'thaḥ sa śabdaḥ | KVs_2,2.21 |</l>\n\n<l>tulyajātīyeṣvarthāntarabhūteṣu viśeṣasya ubhayathā dṛṣṭatvāt | KVs_2,2.22 |</l>\n\n<l>ekadravyatvānna dravyam | KVs_2,2.23 |</l>\n\n<l>nāpi karmācākṣuṣatvāt | KVs_2,2.24 |</l>\n\n<l>guṇasya sato 'pavargaḥ karmabhiḥ sādharmyam | KVs_2,2.25 |</l>\n\n<l>sato liṅgābhāvāt | KVs_2,2.26 |</l>\n\n<l>nityavaidharmyāt | KVs_2,2.27 |</l>\n\n<l>anityaścāyaṃ kāraṇataḥ | KVs_2,2.28 |</l>\n\n<l>ja cāsiddhaṃ vikārāt | KVs_2,2.29 |</l>\n\n<l>abhivyaktau doṣāt | KVs_2,2.30 |</l>\n\n<l>saṃyogādvibhāgācca śabdācca śabdaniṣpattiḥ | KVs_2,2.31 |</l>\n\n<l>liṅgāccānityaḥ śabdaḥ | KVs_2,2.32 |</l>\n\n<l>dvayostu pravṛttyorabhāvāt | KVs_2,2.33 |</l>\n\n<l>prathamāśabdāt | KVs_2,2.34 |</l>\n\n<l>sampratipattibhāvācca | KVs_2,2.35 |</l>\n\n<l>sandigdhāḥ sati bahutve | KVs_2,2.36 |</l>\n\n<l>saṃkhyābhāvaḥ sāmānyataḥ | KVs_2,2.37 |</l>\n\n</div>\n<div>\n\n<l>prasiddhā indriyārthāḥ | KVs_3,1.1 |</l>\n\n<l>indriyārthāprasiddhirindriyārthebhyor'thāntarasya hetuḥ | KVs_3,1.2 |</l>\n\n<l>so 'napadeśaḥ | KVs_3,1.3 |</l>\n\n<l>kāraṇājñānāt | KVs_3,1.4 |</l>\n\n<l>kāryeṣu jñānāt | KVs_3,1.5 |</l>\n\n<l>ajñānācca | KVs_3,1.6 |</l>\n\n<l>anyadeva heturityanapadeśaḥ | KVs_3,1.7 |</l>\n\n<l>arthāntaraṃ hyarthāntarasyānapadeśaḥ | KVs_3,1.8 |</l>\n\n<l>saṃyogi samavāyyekārthasamavāyi virodhi ca | KVs_3,1.9 |</l>\n\n<l>kāryaṃ kāryāntarasya | KVs_3,1.10 |</l>\n\n<l>virodhyabhūtaṃ bhūtasya | KVs_3,1.11 |</l>\n\n<l>bhūtamabhūtasya | KVs_3,1.12 |</l>\n\n<l>bhūto bhūtasya | KVs_3,1.13 |</l>\n\n<l>prasiddhipūrvakatvādapadeśasya | KVs_3,1.14 |</l>\n\n<l>aprasiddho 'napadeśo 'san sandigdhaścānapadeśaḥ | KVs_3,1.15 |</l>\n\n<l>yasmādviṣāṇī tasmādaśvaḥ | KVs_3,1.16 |</l>\n<l>yasmādviṣāṇī tasmādgauriticānaikāntikasyodāharaṇam | KVs_3,1.17 |</l>\n\n<l>ātmendriyārthasannikarṣādyanniṣpadyate tadanyat | KVs_3,1.18 |</l>\n\n<l>pravṛttinivṛttī ca pratyagātmani dṛṣṭe paratra liṅgam | KVs_3,1.19 |</l>\n\n<l>ātmendriyārthasannikarṣajñānasya bhāvo 'bhāvaśca manaso liṅgam | KVs_3,2.1 |</l>\n\n<l>tasya dravyatva nityatve vāyunā vyākhyāte | KVs_3,2.2 |</l>\n\n<l>prayatnāyaugapadyājjñānāyaugapadyāccaikam | KVs_3,2.3 |</l>\n\n<l>prāṇāpānanimeṣonmeṣajīvanamanogatīndriyāntara vikārāḥ sukhaduḥkhecchādveṣa prayatnāścātmano liṅgāni | KVs_3,2.4 |</l>\n\n<l>tasya dravyatvanityatve vāyunā vyākhyāte | KVs_3,2.5 |</l>\n\n<l>yajñadatta iti sannikarṣe pratyakṣābhāvāt dṛṣṭaṃ liṅgaṃ na vidyate | KVs_3,2.6 |</l>\n\n<l>sāmānyato dṛṣṭāccāviśeṣaḥ | KVs_3,2.7 |</l>\n\n<l>tasmādāgamikaḥ | KVs_3,2.8 |</l>\n\n<l>ahamiti śabdasya vyatirekānnāgamikam | KVs_3,2.9 |</l>\n\n<l>yadi dṛṣṭamanvakṣamahaṃ devadatto 'haṃ yajñadatta iti | KVs_3,2.10 |</l>\n\n<l>dṛṣṭyātmani liṅge eka eva dṛḍhatvāt pratyakṣavat pratyayaḥ | KVs_3,2.11 |</l>\n\n<l>devadatto gacchati yajñadatto gacchatītyupacārāccharīre pratyayaḥ | KVs_3,2.12 |</l>\n\n<l>sandigdhāstūpacārāḥ | KVs_3,2.13 |</l>\n\n<l>ahamiti pratyagātmani bhāvāt paratrābhāvādarthāntara pratyakṣaḥ | KVs_3,2.14 |</l>\n\n<l>devadatto gacchatītyupacārādabhimānāttāvaccharīrapratyakṣo 'haṅkāraḥ | KVs_3,2.15 |</l>\n\n<l>sandigdhastūpacāraḥ | KVs_3,2.16 |</l>\n\n<l>na tu śarīraviśeṣādyajñadatta viṣṇumitrayorjñānaviṣayaḥ | KVs_3,2.17 |</l>\n\n<l>ahamiti mukhyayogyābhyāṃ śabdavadvyatirekāvyabhicārādviśeṣa siddhernāgamikaḥ | KVs_3,2.18 |</l>\n\n<l>sukhaduḥkha jñānaniṣpattyaviśeṣādaikātmyam | KVs_3,2.19 |</l>\n\n<l>vyavasthāto nānā | KVs_3,2.20 |</l>\n<l>śāstrasāmarthyācca | KVs_3,2.21 |</l>\n\n</div>\n<div>\n\n<l>sadakāraṇavannityam | KVs_4,1.1 |</l>\n\n<l>tasya kāryaṃ liṅgam | KVs_4,1.2 |</l>\n\n<l>kāraṇabhāvāt kāryābhāvaḥ | KVs_4,1.3 |</l>\n\n<l>anitya iti viśeṣataḥ pratiṣedhabhāvaḥ | KVs_4,1.4 |</l>\n\n<l>avidyā | KVs_4,1.5 |</l>\n\n<l>mahatyanekadravyavattvāt rūpāccopalabdhiḥ | KVs_4,1.6 |</l>\n\n<l>satyapi dravyatve mahattve rūpasaṃskārābhāvādvāyoranupalabdhiḥ | KVs_4,1.7 |</l>\n\n<l>anekadravyasamavāyāt rūpaviśeṣācca rūpopalabdhiḥ | KVs_4,1.8 |</l>\n\n<l>tena rasagandhasparśeṣu jñānaṃ vyākhyātam | KVs_4,1.9 |</l>\n\n<l>tasyābhāvādavyabhicāraḥ | KVs_4,1.10 |</l>\n\n<l>saṃkhyāḥ parimāṇāni pṛthaktvaṃ saṃyoga vibhāgau paratvāparatve karma ca rūpadravyasamavāyāt cākṣuṣāṇi | KVs_4,1.11 |</l>\n\n<l>arūpiṣvacākṣuṣāṇi | KVs_4,1.12 |</l>\n\n<l>etena guṇatve bhāve ca sarvendriyaṃ jñānaṃ vyākhyātam | KVs_4,1.13 |</l>\n\n<l>tatpunaḥ pṛthivyādikāryadravyaṃ trividhaṃ śarīrendriyaviṣayasaṃjñakam | KVs_4,2.1 |</l>\n\n<l>pratyakṣāpratyakṣāṇāṃ saṃyogasyāpratyakṣatvāt pañcātmakaṃ na vidyate | KVs_4,2.2 |</l>\n\n<l>guṇāntarāprādurbhāvācca na tryātmakam | KVs_4,2.3 |</l>\n\n<l>aṇusaṃyogastvapratiṣiddhaḥ | KVs_4,2.4 |</l>\n\n<l>tatra śarīraṃ dvividhaṃ yonijamayonijaṃ ca | KVs_4,2.5 |</l>\n\n<l>aniyatadigdeśapūrvakatvāt | KVs_4,2.6 |</l>\n\n<l>dharmaviśeṣācca | KVs_4,2.7 |</l>\n\n<l>samākhyābhāvācca | KVs_4,2.8 |</l>\n\n<l>saṃjñāyā āditvāt | KVs_4,2.9 |</l>\n\n<l>santyayonijāḥ | KVs_4,2.10 |</l>\n\n<l>vedaliṅgācca | KVs_4,2.11 |</l>\n\n</div>\n<div>\n\n<l>ātmasaṃyoga prayatnābhyāṃ haste karma | KVs_5,1.1 |</l>\n\n<l>tathā hastasaṃyogācca musale karma | KVs_5,1.2 |</l>\n\n<l>abhighātaje musalādau karmaṇi vyatirekādakāraṇaṃ hastasaṃyogaḥ | KVs_5,1.3 |</l>\n\n<l>tathātmasaṃyogo hastakarmaṇi | KVs_5,1.4 |</l>\n\n<l>abhighātānmusalasaṃyogāddhaste karma | KVs_5,1.5 |</l>\n\n<l>ātmakarma hastasaṃyogācca | KVs_5,1.6 |</l>\n\n<l>saṃyogābhāve gurutvāt patanam | KVs_5,1.7 |</l>\n\n<l>nodanaviśeṣābhāvānnordhvaṃ na tiryaggamanam | KVs_5,1.8 |</l>\n\n<l>prayatnaviśeṣānnodana viśeṣaḥ | KVs_5,1.9 |</l>\n\n<l>nodanaviśeṣādudasanaviśeṣaḥ | KVs_5,1.10 |</l>\n\n<l>hastakarmaṇā dārakakarma vyākhyātam | KVs_5,1.11 |</l>\n\n<l>tathā dagdhasya visphoṭane | KVs_5,1.12 |</l>\n\n<l>yatnābhāve prasuptasya calanam | KVs_5,1.13 |</l>\n\n<l>tṛṇe karma vāyusaṃyogāt | KVs_5,1.14 |</l>\n\n<l>maṇigamanaṃ sūcyabhisarpaṇamadṛṣṭakāraṇam | KVs_5,1.15 |</l>\n\n<l>iṣāvayugapat saṃyogaviśeṣāḥ karmānyatve hetuḥ | KVs_5,1.16 |</l>\n\n<l>nodanādādyamiṣoḥ karma tatkarmakāritācca saṃskārāduttaraṃ tathottaramuttaraṃ ca | KVs_5,1.17 |</l>\n\n<l>saṃskārābhāve gurutvāt patanam | KVs_5,1.18 |</l>\n\n<l>nodanābhighātāt saṃyuktasaṃyogācca pṛthivyāṃ karma | KVs_5,2.1 |</l>\n\n<l>tadviśeṣeṇādṛṣṭakāritam | KVs_5,2.2 |</l>\n\n<l>apāṃ saṃyogābhāve gurutvāt patanam | KVs_5,2.3 |</l>\n\n<l>dravatvāt syandanam | KVs_5,2.4 |</l>\n\n<l>nāḍyā vāyusaṃyogādārohaṇam | KVs_5,2.5 |</l>\n\n<l>nodanāpīḍanāt saṃyuktasaṃyogācca | KVs_5,2.6 |</l>\n\n<l>vṛkṣābhisarpaṇamityadṛṣṭakāritam | KVs_5,2.7 |</l>\n\n<l>apāṃ saṅghāto vilayanaṃ ca tejaḥ saṃyogāt | KVs_5,2.8 |</l>\n\n<l>tatra visphūrjaturliṅgam | KVs_5,2.9 |</l>\n\n<l>vaidikaṃ ca | KVs_5,2.10 |</l>\n\n<l>apāṃ saṃyogādvibhāgācca stanayitnoḥ | KVs_5,2.11 |</l>\n\n<l>pṛthivīkarmaṇā tejaḥ karma vāyukarma ca vyākhyātam | KVs_5,2.12 |</l>\n\n<l>agnerūrdhvajvalanaṃ vāyostiryaggamanaṃ aṇūnāṃ manasaścādyaṃ karmādṛṣṭakāritam | KVs_5,2.13 |</l>\n\n<l>hastakarmaṇā manasaḥ karma vyākhyātam | KVs_5,2.14 |</l>\n\n<l>ātmendriyamanor'thasannikarṣāt sukha duḥkhe | KVs_5,2.15 |</l>\n\n<l>tadanārambha ātmasthe manasi śarīrasya duḥkhābhāvaḥ saṃyogaḥ | KVs_5,2.16 |</l>\n\n<l>apasarpaṇamupasarpaṇamaśita pītasaṃyogāḥ kāryāntara saṃyogāścetyadṛṣṭakāritāni | KVs_5,2.17 |</l>\n\n<l>tadabhāve saṃyogābhāvo 'prādurbhāvaśca mokṣaḥ | KVs_5,2.18 |</l>\n\n<l>dravyaguṇakarmaniṣpattivaidharmyādabhāvastamaḥ | KVs_5,2.19 |</l>\n\n<l>tejaso dravyāntareṇāvaraṇācca | KVs_5,2.20 |</l>\n\n<l>dikkālāvākāśaṃ ca kriyāvadvaidharmyānniṣkriyāṇi | KVs_5,2.21 |</l>\n\n<l>etena karmāṇi guṇāśca vyākhyātāḥ | KVs_5,2.22 |</l>\n\n<l>niṣkriyāṇāṃ samavāyaḥ karmabhyo niṣiddhaḥ | KVs_5,2.23 |</l>\n\n<l>kāraṇaṃ tvasamavāyino guṇāḥ | KVs_5,2.24 |</l>\n\n<l>guṇairdik vyākhyātā | KVs_5,2.25 |</l>\n\n<l>kāraṇena kālaḥ | KVs_5,2.26 |</l>\n\n</div>\n<div>\n\n<l>buddhipūrvā vākyakṛtirvede | KVs_6,1.1 |</l>\n\n<l>brāhmaṇe saṃjñākarma siddhiliṅgam | KVs_6,1.2 |</l>\n\n<l>buddhipūrvo dadātiḥ | KVs_6,1.3 |</l>\n\n<l>tathā pratigrahaḥ | KVs_6,1.4 |</l>\n\n<l>ātmāntaraguṇānāmātmāntare 'kāraṇatvāt | KVs_6,1.5 |</l>\n\n<l>tadduṣṭabhojane na vidyate | KVs_6,1.6 |</l>\n\n<l>duṣṭaṃ hiṃsāyām | KVs_6,1.7 |</l>\n\n<l>tasya samabhivyāhārato doṣaḥ | KVs_6,1.8 |</l>\n\n<l>tadaduṣṭe na vidyate | KVs_6,1.9 |</l>\n\n<l>punarviśiṣṭe pravṛttiḥ | KVs_6,1.10 |</l>\n\n<l>same hīne vā pravṛttiḥ | KVs_6,1.11 |</l>\n\n<l>etena hīnasamaviśiṣṭa dhārmikebhyaḥ parasvādānaṃ vyākhyātam | KVs_6,1.12 |</l>\n\n<l>tathā viruddhānāṃ tyāgaḥ | KVs_6,1.13 |</l>\n\n<l>hīne pare tyāgaḥ | KVs_6,1.14 |</l>\n\n<l>same ātmatyāgaḥ paratyāgo vā | KVs_6,1.15 |</l>\n\n<l>viśiṣṭe ātmatyāga iti | KVs_6,1.16 |</l>\n\n<l>dṛṣṭādṛṣṭa prayojanānāṃ dṛṣṭābhāve prayojanamabhyudayāya | KVs_6,2.1 |</l>\n\n<l>abhiṣecanopavāsa brahmacaryagurukulavāsavānaprastha yajñadāna prokṣaṇadiṅnakṣatramantrakālaniyamāścādṛṣṭāya | KVs_6,2.2 |</l>\n\n<l>cāturāśramyamupadhā anupadhāśca | KVs_6,2.3 |</l>\n\n<l>bhāvadoṣa upadhādoṣo 'nupadhā | KVs_6,2.4 |</l>\n<l>yadiṣṭarūparasagandhasparśaṃ prokṣitamabhyukṣitaṃ ca tacchuci | KVs_6,2.5 |</l>\n\n<l>aśucīti śucipratiṣedhaḥ | KVs_6,2.6 |</l>\n\n<l>arthāntaraṃ ca | KVs_6,2.7 |</l>\n\n<l>ayatasya śucibhojanādabhyudayo na vidyate niyamābhāvād vidyate vār'thāntaratvād yamasya | KVs_6,2.8 |</l>\n\n<l>asati cābhāvāt | KVs_6,2.9 |</l>\n\n<l>sukhādrāgaḥ | KVs_6,2.10 |</l>\n\n<l>tanmayatvācca | KVs_6,2.11 |</l>\n\n<l>adṛṣṭācca | KVs_6,2.12 |</l>\n\n<l>jātiviśeṣācca | KVs_6,2.13 |</l>\n\n<l>icchādveṣapūrvikā dharmādharma pravṛttiḥ | KVs_6,2.14 |</l>\n\n<l>tatsaṃyogo vibhāgaḥ | KVs_6,2.15 |</l>\n\n<l>ātmakarmasu mokṣo vyākhyātaḥ | KVs_6,2.16 |</l>\n\n</div>\n<div>\n\n<l>uktā guṇāḥ | KVs_7,1.1 |</l>\n\n<l>pṛthivyādi rūparasagandhasparśā dravyānityatvādanityāśca | KVs_7,1.2 |</l>\n\n<l>etena nityeṣu nityatvamuktam | KVs_7,1.3 |</l>\n\n<l>apsu tejasi vāyau ca nityā dravyanityavāt | KVs_7,1.4 |</l>\n\n<l>anityeṣvanityā dravyānityatvāt | KVs_7,1.5 |</l>\n\n<l>kāraṇaguṇapūrvakāḥ pṛthivyāṃ pākajāḥ | KVs_7,1.6 |</l>\n\n<l>ekadravyatvāt | KVs_7,1.7 |</l>\n\n<l>aṇormahataścopalabdhyanupalabdhī nitye vyākhyāte | KVs_7,1.8 |</l>\n\n<l>kāraṇa bahutvācca | KVs_7,1.9 |</l>\n\n<l>ato viparitamaṇu | KVs_7,1.10 |</l>\n\n<l>aṇu mahaditi tasmin viśeṣabhāvāt viśeṣābhāvācca | KVs_7,1.11 |</l>\n<l>ekakālatvāt | KVs_7,1.12 |</l>\n\n<l>dṛṣṭāntācca | KVs_7,1.13 |</l>\n\n<l>aṇutvamahattvayoraṇutvamahattvābhāvaḥ karmaguṇairvyākhyātaḥ | KVs_7,1.14 |</l>\n\n<l>karmabhiḥ karmāṇi guṇaiśca guṇā vyākhyātāḥ | KVs_7,1.15 |</l>\n\n<l>aṇutvamahattvābhyāṃ karmaguṇāśca vyākhyātāḥ | KVs_7,1.16 |</l>\n\n<l>etena dīrghatva hrasvatve vyākhyāte | KVs_7,1.17 |</l>\n\n<l>anitye 'nityam | KVs_7,1.18 |</l>\n\n<l>nitye nityam | KVs_7,1.19 |</l>\n\n<l>nityaṃ parimaṇḍalam | KVs_7,1.20 |</l>\n\n<l>avidyā ca vidyāliṅgam | KVs_7,1.21 |</l>\n\n<l>vibhavānmahānākāśaḥ tathā cātmā | KVs_7,1.22 |</l>\n\n<l>tadabhāvādaṇu manaḥ | KVs_7,1.23 |</l>\n\n<l>guṇairdigvyākhyātā | KVs_7,1.24 |</l>\n\n<l>kāraṇena kālaḥ | KVs_7,1.25 |</l>\n\n<l>ruparasagandhasparśavyatirekādarthāntaramekatvam | KVs_7,2.1 |</l>\n\n<l>tathā pṛthaktvam | KVs_7,2.2 |</l>\n\n<l>ekatvaikapṛthaktvayorekatvaikapṛthaktvābhāvo 'ṇutvamahattvābhyāṃ vyākhyātaḥ | KVs_7,2.3 |</l>\n\n<l>niḥ saṃkhyatvāt karmaguṇānāṃ sarvaikatvaṃ na vidyate | KVs_7,2.4 |</l>\n\n<l>bhrāntaṃ tat | KVs_7,2.5 |</l>\n\n<l>ekatvābhāvādbhaktistu na vidyate | KVs_7,2.6 |</l>\n\n<l>kāryakāraṇayorekatvaikapṛthaktvābhāvādekatvaikapṛthaktvaṃ na vidyate | KVs_7,2.7 |</l>\n\n<l>etadanityayorvyākhyātam | KVs_7,2.8 |</l>\n\n<l>anyatarakarmaja ubhakarmajaḥ saṃyogajaśca saṃyogaḥ | KVs_7,2.9 |</l>\n<l>etena vibhāgo vyākhyātaḥ | KVs_7,2.10 |</l>\n\n<l>saṃyogavibhāgayoḥ saṃyogavibhāgābhāvaḥ aṇutvamahattvābhyāṃ vyākhyātaḥ | KVs_7,2.11 |</l>\n\n<l>karmabhiḥ karmāṇi guṇairguṇā aṇutva mahattvābhyāmiti | KVs_7,2.12 |</l>\n\n<l>yutasiddhyabhāvāt kāryakāraṇayoḥ saṃyogavibhāgau na vidyete | KVs_7,2.13 |</l>\n\n<l>guṇatvāt | KVs_7,2.14 |</l>\n\n<l>guṇo 'pi vibhāvyate | KVs_7,2.15 |</l>\n\n<l>niṣkriyatvāt | KVs_7,2.16 |</l>\n\n<l>asati nāstīti ca prayogāt | KVs_7,2.17 |</l>\n\n<l>śabdārthāvasambandhau | KVs_7,2.18 |</l>\n\n<l>saṃyogino daṇḍāt samavāyino viśeṣācca | KVs_7,2.19 |</l>\n\n<l>sāmayikaḥ śabdādarthapratyayaḥ | KVs_7,2.20 |</l>\n\n<l>ekadikkābhyāmekakālābhyāṃ sannikṛṣṭaviprakṛṣṭābhyāṃ paramaparañca | KVs_7,2.21 |</l>\n\n<l>kāraṇaparatvāt kāraṇāparatvācca | KVs_7,2.22 |</l>\n\n<l>paratvāparatvayoḥ paratvāparatvābhāvo 'ṇutvamahattvābhyāṃ vyākhyātaḥ | KVs_7,2.23 |</l>\n\n<l>karmabhiḥ karmāṇi | KVs_7,2.24 |</l>\n\n<l>guṇairguṇāḥ | KVs_7,2.25 |</l>\n\n<l>ihedamiti yataḥ kāryakāraṇayoḥ sa samavāyaḥ | KVs_7,2.26 |</l>\n\n<l>tattvambhāvena | KVs_7,2.27 |</l>\n\n</div>\n<div>\n\n<l>dravyeṣu jñānaṃ vyākhyātam | KVs_8,1.1 |</l>\n\n<l>tatrātmā manaścāpratyakṣe | KVs_8,1.2 |</l>\n\n<l>jñānanirdeśe jñānaniṣpattividhiruktaḥ | KVs_8,1.3 |</l>\n\n<l>guṇakarmasu sannikṛṣṭeṣu jñānaniṣpatteḥ dravyaṃ kāraṇam | KVs_8,1.4 |</l>\n\n<l>sāmānyaviśeṣeṣu sāmānyaviśeṣābhāvāt tadeva jñānam | KVs_8,1.5 |</l>\n<l>sāmānyaviśeṣāpekṣaṃ dravyaguṇakarmasu | KVs_8,1.6 |</l>\n\n<l>dravye dravyaguṇakarmāpekṣam | KVs_8,1.7 |</l>\n\n<l>guṇakarmasu guṇakarmābhāvāt guṇakarmāpekṣaṃ na vidyate | KVs_8,1.8 |</l>\n\n<l>samavāyinaḥ śvaityācchvaitya buddheśca śvete budviste ete kāryakāraṇabhūte | KVs_8,1.9 |</l>\n\n<l>dravyeṣvanitaretarakāraṇāḥ | KVs_8,1.10 |</l>\n\n<l>kāraṇāyaugapadyāt kāraṇakramācca ghaṭapaṭādibuddhīnāṃ kramo na hetuphalabhāvāt | KVs_8,1.11 |</l>\n\n<l>ayameṣa tvayā kṛtaṃ bhojayainaṃ iti buddhyapekṣam | KVs_8,2.1 |</l>\n\n<l>dṛṣṭeṣu bhāvādadṛṣṭeṣvabhāvāt | KVs_8,2.2 |</l>\n\n<l>artha iti dravyaguṇakarmasu | KVs_8,2.3 |</l>\n\n<l>dravyeṣu pañcātmakatvaṃ pratiṣiddham | KVs_8,2.4 |</l>\n\n<l>bhūyastvāt gandhavattvācca pṛthivī gandhajñāne prakṛtiḥ | KVs_8,2.5 |</l>\n\n<l>tathāpastejo vāyuśca rasarūpasparśāviśeṣāt | KVs_8,2.6 |</l>\n\n</div>\n<div>\n\n<l>kriyāguṇavyapadeśābhāvāt prāgasat | KVs_9,1.1 |</l>\n\n<l>sadasat | KVs_9,1.2 |</l>\n\n<l>asataḥ kriyāguṇavyapadeśābhāvādarthāntaram | KVs_9,1.3 |</l>\n\n<l>saccāsat | KVs_9,1.4 |</l>\n\n<l>yaccānyadasadatastadasat | KVs_9,1.5 |</l>\n\n<l>asaditi bhūtapratyakṣābhāvāt bhūtasmṛtervirodhipratyakṣavat | KVs_9,1.6 |</l>\n\n<l>tathābhāve bhāvapratyakṣācca | KVs_9,1.7 |</l>\n\n<l>etenāghaṭo 'gauradharmaśca vyākhyātāḥ | KVs_9,1.8 |</l>\n\n<l>abhūtaṃ nāstītyanarthāntaram | KVs_9,1.9 |</l>\n\n<l>nāsti ghaṭo gehe iti sato ghaṭasya gehasaṃsargapratiṣedhaḥ | KVs_9,1.10 |</l>\n\n<l>ātmanyātmamanasoḥ saṃyogādātmapratyakṣam | KVs_9,1.11 |</l>\n\n<l>tathā dravyāntareṣu pratyakṣam | KVs_9,1.12 |</l>\n\n<l>asamāhitāntaḥ karaṇā upasaṃhṛtasamādhayasteṣāñca | KVs_9,1.13 |</l>\n\n<l>tatsamavāyātkarmaguṇeṣu | KVs_9,1.14 |</l>\n\n<l>ātmasamavāyādātmaguṇeṣu | KVs_9,1.15 |</l>\n\n<l>asyedaṃ kāryaṃ kāraṇaṃ saṃyogi virodhi samavāyi ceti laiṅgikam | KVs_9,2.1 |</l>\n\n<l>asyedaṃ kārya kāraṇasambandhaścāvayavādbhavati | KVs_9,2.2 |</l>\n\n<l>etena śābdaṃ vyākhyātam | KVs_9,2.3 |</l>\n\n<l>heturapadeśo liṅgaṃ pramāṇaṃ karaṇamityanarthāntaram | KVs_9,2.4 |</l>\n\n<l>asyedamiti buddhyapekṣitatvāt | KVs_9,2.5 |</l>\n\n<l>ātmanaḥ saṃyogaviśeṣāt saṃskārācca smṛtiḥ | KVs_9,2.6 |</l>\n\n<l>tathā svapnaḥ | KVs_9,2.7 |</l>\n\n<l>svapnāntikam | KVs_9,2.8 |</l>\n\n<l>dharmācca | KVs_9,2.9 |</l>\n\n<l>indriyadoṣātsaṃskāradoṣāccāvidyā | KVs_9,2.10 |</l>\n\n<l>tadduṣṭajñānam | KVs_9,2.11 |</l>\n\n<l>aduṣṭaṃ vidyā | KVs_9,2.12 |</l>\n\n<l>ārṣaṃ siddhadarśanaṃ ca dharmebhyaḥ | KVs_9,2.13 |</l>\n\n</div>\n<div>\n\n<l>iṣṭāniṣṭakāraṇaviśeṣādvirodhācca mithaḥ sukhaduḥkhayorthāntarabhāvaḥ | KVs_10,1.1 |</l>\n\n<l>saṃśayanirṇayāntarābhāvaśca jñānāntaratve hetuḥ | KVs_10,1.2 |</l>\n\n<l>tayorniṣpattiḥ pratyakṣalaiṅgikābhyām | KVs_10,1.3 |</l>\n<l>abhūdityapi | KVs_10,1.4 |</l>\n\n<l>sati ca kāryādarśanāt | KVs_10,1.5 |</l>\n\n<l>ekārthasamavāyi kāraṇāntareṣu dṛṣṭatvāt | KVs_10,1.6 |</l>\n\n<l>ekadeśe ityekasmin śiraḥ pṛṣṭhamudaraṃ marmāṇi tadviśeṣastadviśeṣebhyaḥ | KVs_10,1.7 |</l>\n\n<l>kāraṇamiti dravye kāryasamavāyāt | KVs_10,2.1 |</l>\n\n<l>saṃyogādvā | KVs_10,2.2 |</l>\n\n<l>kāraṇe samavāyāt karmāṇi | KVs_10,2.3 |</l>\n\n<l>tathā rūpe kāraṇaikārthasamavāyācca | KVs_10,2.4 |</l>\n\n<l>kāraṇasamavāyāt saṃyogaḥ paṭasya | KVs_10,2.5 |</l>\n\n<l>kāraṇākāraṇasamavāyācca | KVs_10,2.6 |</l>\n\n<l>saṃyuktasamavāyādagnervaiśeṣikam | KVs_10,2.7 |</l>\n\n<l>dṛṣṭānāṃ dṛṣṭaprayojanānāṃ dṛṣṭābhāve prayogo 'bhyudayāya | KVs_10,2.8 |</l>\n\n<l>tadvacanādāmnāyasya pramāṇyamiti | KVs_10,2.9 |</l>\n\n  </div>\n</body>\n\n"
+  "file_title": "kaṇāda-vaiśeṣikasūtra-alt",
+  "file_title_normal": "kanada-vaisesikasutra-alt",
+  "metadata": {
+    "original_title": "Vaiśeṣikasūtra",
+    "author": "Kaṇāda",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Sansknet Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Sansknet Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "athāto dharmaṃ vyākhyāsyāmaḥ | KVs_1,1.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yato 'bhyudayaniḥśreyasasiddhiḥ sa dharmaḥ | KVs_1,1.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvacanādāmnāyasya prāmāṇyam | KVs_1,1.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmaviśeṣa prasūtāt dravyaguṇakarmasāmānya viśeṣasamavāyānāṃ padārthānāṃ sādharmyavaidharmyābhyāṃ tattvajñānānniḥśreyasam | KVs_1,1.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pṛthivyāpastejo vāyurākāśaṃ kālo digātmā mana iti dravyāṇi | KVs_1,1.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ruparasagandhasparśāḥ saṃkhyāḥ parimāṇāni pṛthaktvaṃ saṃyogavibhāgau paratvāparatve buddhayaḥ sukhaduḥkhe icchādveṣau prayatnāśca guṇāḥ | KVs_1,1.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utkṣepaṇamavakṣepaṇaṃ ākuñcanaṃ prasāraṇaṃ gamanamiti karmāṇi | KVs_1,1.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sadanityaṃ dravyavat kāryaṃ kāraṇaṃ sāmānyaviśeṣavaditi dravyaguṇakarmaṇāmaviśeṣaḥ | KVs_1,1.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyaguṇayoḥ sajātīyārambhakatvaṃ sādharmyam | KVs_1,1.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyāṇi dravyāntaramārabhante guṇāśca guṇāntaram | KVs_1,1.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karma karmasādhyaṃ na vidyate | KVs_1,1.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na dravyaṃ kāraṇaṃ ca bhavati | KVs_1,1.12 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ubhayathā guṇāḥ | KVs_1,1.13 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāryavirodhi karma | KVs_1,1.14 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kriyāguṇavat samavāyikāraṇamiti dravyalakṣaṇam | KVs_1,1.15 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyāśrayyaguṇavān saṃyogavibhāgeṣvakāraṇamanapekṣa iti guṇalakṣaṇam | KVs_1,1.16 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekadravyamaguṇaṃ saṃyogavibhāgeṣvanapekṣa kāraṇamiti karmalakṣaṇam | KVs_1,1.17 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyaguṇakarmaṇāṃ dravyaṃ kāraṇaṃ sāmānyam | KVs_1,1.18 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā guṇaḥ | KVs_1,1.19 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃyogavibhāgavegānāṃ karma samānam | KVs_1,1.20 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na dravyāṇāṃ karma | KVs_1,1.21 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyatirekāt | KVs_1,1.22 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyāṇāṃ dravyaṃ kāryaṃ sāmānyam | KVs_1,1.23 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guṇavaidharmyānna karmaṇāṃ karma | KVs_1,1.24 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvitvaprabhṛtayaḥ saṃkhyāḥ pṛthaktva saṃyoga vibhāgāśca | KVs_1,1.25 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asamavāyāt sāmānyakāryaṃ karma na vidyate | KVs_1,1.26 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃyogānāṃ dravyam | KVs_1,1.27 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpāṇāṃ rūpam | KVs_1,1.28 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gurutvaprayatnasaṃyogānāmutkṣepaṇam | KVs_1,1.29 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃyogavibhāgāśca karmaṇām | KVs_1,1.30 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇasāmānye dravyakarmaṇāṃ karmākāraṇamuktam | KVs_1,1.31 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇābhāvāt kāryābhāvaḥ | KVs_1,2.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na tu kāryābhāvāt kāraṇābhāvaḥ | KVs_1,2.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāmānyaviśeṣa iti buddhyapekṣam | KVs_1,2.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvo 'nuvṛttereva hetutvāt sāmānyameva | KVs_1,2.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyatvaṃ guṇatvaṃ karmatvaṃ ca sāmānyāni viśeṣāśca | KVs_1,2.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anyatrāntyebhyo viśeṣebhyaḥ | KVs_1,2.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saditi yato dravyaguṇakarmasu sā sattā | KVs_1,2.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyaguṇakarmabhyor'thāntaraṃ sattā | KVs_1,2.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guṇakarmasu ca bhāvānna karma na guṇaḥ | KVs_1,2.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāmānyaviśeṣābhāvena ca | KVs_1,2.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anekadravyavattvena dravyatvamuktam | KVs_1,2.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāmānyaviśeṣābhāvena ca | KVs_1,2.12 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā guṇeṣu bhāvādguṇatvamuktam | KVs_1,2.13 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāmānyaviśeṣābhāvena ca | KVs_1,2.14 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmasu bhāvātkarmatvamuktam | KVs_1,2.15 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāmānyaviśeṣābhāvena ca | KVs_1,2.16 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saditi liṅgāviśeṣāt viśeṣaliṅgābhāvāccaiko bhāvaḥ | KVs_1,2.17 |"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūparasagandhasparśavatī pṛthivī | KVs_2,1.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūparasasparśavatya āpo dravāḥ snigdhāḥ | KVs_2,1.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tejo rūpasparśavat | KVs_2,1.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sparśavān vāyuḥ | KVs_2,1.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ta ākāśe na vidyante | KVs_2,1.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarpirjatumadhūcchiṣṭānāṃ agnisaṃyogāddravatvamadbhiḥ sāmānyam | KVs_2,1.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trapusīsa loha rajata suvarṇānāmagnisaṃyogāddravatvamadbhiḥ sāmānyam | KVs_2,1.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣāṇī kakudmān prāntevāladhiḥ sāsnāvān iti gotve dṛṣṭaṃ liṅgam | KVs_2,1.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sparśaśca vāyoḥ | KVs_2,1.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na ca dṛṣṭānāṃ sparśa ityadṛṣṭaliṅgo vāyuḥ | KVs_2,1.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adravyavattvena dravyam | KVs_2,1.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kriyāvattvāt guṇavattvācca | KVs_2,1.12 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adravyatvena nityatvamuktam | KVs_2,1.13 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāyorvāyusaṃmūrchanaṃ nānātvaliṅgam | KVs_2,1.14 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāyusannikarṣe pratyakṣābhāvāt dṛṣṭaṃ liṅgaṃ na vidyate | KVs_2,1.15 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāmānyato dṛṣṭāccāviśeṣaḥ | KVs_2,1.16 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmādāgamikam | KVs_2,1.17 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃjñākarma tvasmadviśiṣṭānāṃ liṅgam | KVs_2,1.18 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyakṣapravṛttatvāt saṃjñākarmaṇaḥ | KVs_2,1.19 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niṣkramaṇaṃ praveśanamityākāśasya liṅgam | KVs_2,1.20 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadaliṅgamekadravyatvāt karmaṇaḥ | KVs_2,1.21 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇāntarānukipti vaidharmyācca | KVs_2,1.22 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃyogādabhāvaḥ karmaṇaḥ | KVs_2,1.23 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇaguṇapūrvakaḥ kāryaguṇo dṛṣṭaḥ | KVs_2,1.24 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāryāntarāprādurbhāvācca śabdaḥ sparśavatāmaguṇaḥ | KVs_2,1.25 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paratra samavāyāt pratyakṣatvācca nātmaguṇo na manoguṇaḥ | KVs_2,1.26 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pariśeṣālliṅgamākāśasya | KVs_2,1.27 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyatvanityatve vāyunā vyākhyāte | KVs_2,1.28 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tattvambhāvena | KVs_2,1.29 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śabdāliṅgāviśeṣādviśeṣaliṅgābhāvācca | KVs_2,1.30 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadanuvidhānādekapṛthaktvañceti | KVs_2,1.31 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "puṣpavastrayoḥ sati sannikarṣe guṇāntarāprādurbhāvo vastre gandhābhāvaliṅgam | KVs_2,2.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyavasthitaḥ pṛthivyāṃ gandhaḥ | KVs_2,2.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etenoṣṇatā vyākhyātā | KVs_2,2.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tejasa uṣṇatā | KVs_2,2.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apsu śītatā | KVs_2,2.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aparasminnaparaṃ yugapat ciraṃ kṣipramiti kālaliṅgāni | KVs_2,2.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyatva nityatve vāyunā vyākhyāte | KVs_2,2.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tattvambhāvena | KVs_2,2.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nityoṣvabhāvādanityeṣu bhāvāt kāraṇe kālākhyeti | KVs_2,2.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ita idamiti yatastaddiśyaṃ liṅgam | KVs_2,2.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyatva nityatve vāyunā vyākhyāte | KVs_2,2.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tattvambhāvena | KVs_2,2.12 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāryaviśeṣeṇa nānātvam | KVs_2,2.13 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādityasaṃyogāt bhūtapūrvāt bhaviṣyato bhūtācca prācī | KVs_2,2.14 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā dakṣiṇā pratīcī udīcī ca | KVs_2,2.15 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etena digantarālāni vyākhyātāni | KVs_2,2.16 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāmānyapratyakṣādviśeṣasmṛteśca saṃśayaḥ | KVs_2,2.17 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛṣṭañca dṛṣṭavat | KVs_2,2.18 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathādṛṣṭamayathādṛṣṭatvācca | KVs_2,2.19 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidyāvidyātaśca saṃśayaḥ | KVs_2,2.20 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrotragrahaṇo yor'thaḥ sa śabdaḥ | KVs_2,2.21 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tulyajātīyeṣvarthāntarabhūteṣu viśeṣasya ubhayathā dṛṣṭatvāt | KVs_2,2.22 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekadravyatvānna dravyam | KVs_2,2.23 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāpi karmācākṣuṣatvāt | KVs_2,2.24 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guṇasya sato 'pavargaḥ karmabhiḥ sādharmyam | KVs_2,2.25 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sato liṅgābhāvāt | KVs_2,2.26 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nityavaidharmyāt | KVs_2,2.27 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anityaścāyaṃ kāraṇataḥ | KVs_2,2.28 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ja cāsiddhaṃ vikārāt | KVs_2,2.29 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhivyaktau doṣāt | KVs_2,2.30 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃyogādvibhāgācca śabdācca śabdaniṣpattiḥ | KVs_2,2.31 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "liṅgāccānityaḥ śabdaḥ | KVs_2,2.32 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvayostu pravṛttyorabhāvāt | KVs_2,2.33 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prathamāśabdāt | KVs_2,2.34 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sampratipattibhāvācca | KVs_2,2.35 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sandigdhāḥ sati bahutve | KVs_2,2.36 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃkhyābhāvaḥ sāmānyataḥ | KVs_2,2.37 |"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prasiddhā indriyārthāḥ | KVs_3,1.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "indriyārthāprasiddhirindriyārthebhyor'thāntarasya hetuḥ | KVs_3,1.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "so 'napadeśaḥ | KVs_3,1.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇājñānāt | KVs_3,1.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāryeṣu jñānāt | KVs_3,1.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ajñānācca | KVs_3,1.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anyadeva heturityanapadeśaḥ | KVs_3,1.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "arthāntaraṃ hyarthāntarasyānapadeśaḥ | KVs_3,1.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃyogi samavāyyekārthasamavāyi virodhi ca | KVs_3,1.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāryaṃ kāryāntarasya | KVs_3,1.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "virodhyabhūtaṃ bhūtasya | KVs_3,1.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūtamabhūtasya | KVs_3,1.12 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūto bhūtasya | KVs_3,1.13 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prasiddhipūrvakatvādapadeśasya | KVs_3,1.14 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aprasiddho 'napadeśo 'san sandigdhaścānapadeśaḥ | KVs_3,1.15 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yasmādviṣāṇī tasmādaśvaḥ | KVs_3,1.16 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yasmādviṣāṇī tasmādgauriticānaikāntikasyodāharaṇam | KVs_3,1.17 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmendriyārthasannikarṣādyanniṣpadyate tadanyat | KVs_3,1.18 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pravṛttinivṛttī ca pratyagātmani dṛṣṭe paratra liṅgam | KVs_3,1.19 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmendriyārthasannikarṣajñānasya bhāvo 'bhāvaśca manaso liṅgam | KVs_3,2.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasya dravyatva nityatve vāyunā vyākhyāte | KVs_3,2.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prayatnāyaugapadyājjñānāyaugapadyāccaikam | KVs_3,2.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāṇāpānanimeṣonmeṣajīvanamanogatīndriyāntara vikārāḥ sukhaduḥkhecchādveṣa prayatnāścātmano liṅgāni | KVs_3,2.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasya dravyatvanityatve vāyunā vyākhyāte | KVs_3,2.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yajñadatta iti sannikarṣe pratyakṣābhāvāt dṛṣṭaṃ liṅgaṃ na vidyate | KVs_3,2.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāmānyato dṛṣṭāccāviśeṣaḥ | KVs_3,2.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmādāgamikaḥ | KVs_3,2.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ahamiti śabdasya vyatirekānnāgamikam | KVs_3,2.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadi dṛṣṭamanvakṣamahaṃ devadatto 'haṃ yajñadatta iti | KVs_3,2.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛṣṭyātmani liṅge eka eva dṛḍhatvāt pratyakṣavat pratyayaḥ | KVs_3,2.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "devadatto gacchati yajñadatto gacchatītyupacārāccharīre pratyayaḥ | KVs_3,2.12 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sandigdhāstūpacārāḥ | KVs_3,2.13 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ahamiti pratyagātmani bhāvāt paratrābhāvādarthāntara pratyakṣaḥ | KVs_3,2.14 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "devadatto gacchatītyupacārādabhimānāttāvaccharīrapratyakṣo 'haṅkāraḥ | KVs_3,2.15 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sandigdhastūpacāraḥ | KVs_3,2.16 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na tu śarīraviśeṣādyajñadatta viṣṇumitrayorjñānaviṣayaḥ | KVs_3,2.17 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ahamiti mukhyayogyābhyāṃ śabdavadvyatirekāvyabhicārādviśeṣa siddhernāgamikaḥ | KVs_3,2.18 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sukhaduḥkha jñānaniṣpattyaviśeṣādaikātmyam | KVs_3,2.19 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyavasthāto nānā | KVs_3,2.20 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śāstrasāmarthyācca | KVs_3,2.21 |"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sadakāraṇavannityam | KVs_4,1.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasya kāryaṃ liṅgam | KVs_4,1.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇabhāvāt kāryābhāvaḥ | KVs_4,1.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anitya iti viśeṣataḥ pratiṣedhabhāvaḥ | KVs_4,1.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avidyā | KVs_4,1.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahatyanekadravyavattvāt rūpāccopalabdhiḥ | KVs_4,1.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "satyapi dravyatve mahattve rūpasaṃskārābhāvādvāyoranupalabdhiḥ | KVs_4,1.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anekadravyasamavāyāt rūpaviśeṣācca rūpopalabdhiḥ | KVs_4,1.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tena rasagandhasparśeṣu jñānaṃ vyākhyātam | KVs_4,1.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasyābhāvādavyabhicāraḥ | KVs_4,1.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃkhyāḥ parimāṇāni pṛthaktvaṃ saṃyoga vibhāgau paratvāparatve karma ca rūpadravyasamavāyāt cākṣuṣāṇi | KVs_4,1.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "arūpiṣvacākṣuṣāṇi | KVs_4,1.12 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etena guṇatve bhāve ca sarvendriyaṃ jñānaṃ vyākhyātam | KVs_4,1.13 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatpunaḥ pṛthivyādikāryadravyaṃ trividhaṃ śarīrendriyaviṣayasaṃjñakam | KVs_4,2.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyakṣāpratyakṣāṇāṃ saṃyogasyāpratyakṣatvāt pañcātmakaṃ na vidyate | KVs_4,2.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guṇāntarāprādurbhāvācca na tryātmakam | KVs_4,2.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṇusaṃyogastvapratiṣiddhaḥ | KVs_4,2.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatra śarīraṃ dvividhaṃ yonijamayonijaṃ ca | KVs_4,2.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aniyatadigdeśapūrvakatvāt | KVs_4,2.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmaviśeṣācca | KVs_4,2.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samākhyābhāvācca | KVs_4,2.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃjñāyā āditvāt | KVs_4,2.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "santyayonijāḥ | KVs_4,2.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vedaliṅgācca | KVs_4,2.11 |"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmasaṃyoga prayatnābhyāṃ haste karma | KVs_5,1.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā hastasaṃyogācca musale karma | KVs_5,1.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhighātaje musalādau karmaṇi vyatirekādakāraṇaṃ hastasaṃyogaḥ | KVs_5,1.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathātmasaṃyogo hastakarmaṇi | KVs_5,1.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhighātānmusalasaṃyogāddhaste karma | KVs_5,1.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmakarma hastasaṃyogācca | KVs_5,1.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃyogābhāve gurutvāt patanam | KVs_5,1.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nodanaviśeṣābhāvānnordhvaṃ na tiryaggamanam | KVs_5,1.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prayatnaviśeṣānnodana viśeṣaḥ | KVs_5,1.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nodanaviśeṣādudasanaviśeṣaḥ | KVs_5,1.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hastakarmaṇā dārakakarma vyākhyātam | KVs_5,1.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā dagdhasya visphoṭane | KVs_5,1.12 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yatnābhāve prasuptasya calanam | KVs_5,1.13 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tṛṇe karma vāyusaṃyogāt | KVs_5,1.14 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "maṇigamanaṃ sūcyabhisarpaṇamadṛṣṭakāraṇam | KVs_5,1.15 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iṣāvayugapat saṃyogaviśeṣāḥ karmānyatve hetuḥ | KVs_5,1.16 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nodanādādyamiṣoḥ karma tatkarmakāritācca saṃskārāduttaraṃ tathottaramuttaraṃ ca | KVs_5,1.17 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃskārābhāve gurutvāt patanam | KVs_5,1.18 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nodanābhighātāt saṃyuktasaṃyogācca pṛthivyāṃ karma | KVs_5,2.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadviśeṣeṇādṛṣṭakāritam | KVs_5,2.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apāṃ saṃyogābhāve gurutvāt patanam | KVs_5,2.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravatvāt syandanam | KVs_5,2.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāḍyā vāyusaṃyogādārohaṇam | KVs_5,2.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nodanāpīḍanāt saṃyuktasaṃyogācca | KVs_5,2.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vṛkṣābhisarpaṇamityadṛṣṭakāritam | KVs_5,2.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apāṃ saṅghāto vilayanaṃ ca tejaḥ saṃyogāt | KVs_5,2.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatra visphūrjaturliṅgam | KVs_5,2.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vaidikaṃ ca | KVs_5,2.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apāṃ saṃyogādvibhāgācca stanayitnoḥ | KVs_5,2.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pṛthivīkarmaṇā tejaḥ karma vāyukarma ca vyākhyātam | KVs_5,2.12 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "agnerūrdhvajvalanaṃ vāyostiryaggamanaṃ aṇūnāṃ manasaścādyaṃ karmādṛṣṭakāritam | KVs_5,2.13 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hastakarmaṇā manasaḥ karma vyākhyātam | KVs_5,2.14 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmendriyamanor'thasannikarṣāt sukha duḥkhe | KVs_5,2.15 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadanārambha ātmasthe manasi śarīrasya duḥkhābhāvaḥ saṃyogaḥ | KVs_5,2.16 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apasarpaṇamupasarpaṇamaśita pītasaṃyogāḥ kāryāntara saṃyogāścetyadṛṣṭakāritāni | KVs_5,2.17 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadabhāve saṃyogābhāvo 'prādurbhāvaśca mokṣaḥ | KVs_5,2.18 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyaguṇakarmaniṣpattivaidharmyādabhāvastamaḥ | KVs_5,2.19 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tejaso dravyāntareṇāvaraṇācca | KVs_5,2.20 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dikkālāvākāśaṃ ca kriyāvadvaidharmyānniṣkriyāṇi | KVs_5,2.21 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etena karmāṇi guṇāśca vyākhyātāḥ | KVs_5,2.22 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niṣkriyāṇāṃ samavāyaḥ karmabhyo niṣiddhaḥ | KVs_5,2.23 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇaṃ tvasamavāyino guṇāḥ | KVs_5,2.24 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guṇairdik vyākhyātā | KVs_5,2.25 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇena kālaḥ | KVs_5,2.26 |"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhipūrvā vākyakṛtirvede | KVs_6,1.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "brāhmaṇe saṃjñākarma siddhiliṅgam | KVs_6,1.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhipūrvo dadātiḥ | KVs_6,1.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā pratigrahaḥ | KVs_6,1.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmāntaraguṇānāmātmāntare 'kāraṇatvāt | KVs_6,1.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadduṣṭabhojane na vidyate | KVs_6,1.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "duṣṭaṃ hiṃsāyām | KVs_6,1.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasya samabhivyāhārato doṣaḥ | KVs_6,1.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadaduṣṭe na vidyate | KVs_6,1.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "punarviśiṣṭe pravṛttiḥ | KVs_6,1.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "same hīne vā pravṛttiḥ | KVs_6,1.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etena hīnasamaviśiṣṭa dhārmikebhyaḥ parasvādānaṃ vyākhyātam | KVs_6,1.12 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā viruddhānāṃ tyāgaḥ | KVs_6,1.13 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hīne pare tyāgaḥ | KVs_6,1.14 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "same ātmatyāgaḥ paratyāgo vā | KVs_6,1.15 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viśiṣṭe ātmatyāga iti | KVs_6,1.16 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛṣṭādṛṣṭa prayojanānāṃ dṛṣṭābhāve prayojanamabhyudayāya | KVs_6,2.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhiṣecanopavāsa brahmacaryagurukulavāsavānaprastha yajñadāna prokṣaṇadiṅnakṣatramantrakālaniyamāścādṛṣṭāya | KVs_6,2.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cāturāśramyamupadhā anupadhāśca | KVs_6,2.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvadoṣa upadhādoṣo 'nupadhā | KVs_6,2.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadiṣṭarūparasagandhasparśaṃ prokṣitamabhyukṣitaṃ ca tacchuci | KVs_6,2.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aśucīti śucipratiṣedhaḥ | KVs_6,2.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "arthāntaraṃ ca | KVs_6,2.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ayatasya śucibhojanādabhyudayo na vidyate niyamābhāvād vidyate vār'thāntaratvād yamasya | KVs_6,2.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asati cābhāvāt | KVs_6,2.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sukhādrāgaḥ | KVs_6,2.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tanmayatvācca | KVs_6,2.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adṛṣṭācca | KVs_6,2.12 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jātiviśeṣācca | KVs_6,2.13 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "icchādveṣapūrvikā dharmādharma pravṛttiḥ | KVs_6,2.14 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatsaṃyogo vibhāgaḥ | KVs_6,2.15 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmakarmasu mokṣo vyākhyātaḥ | KVs_6,2.16 |"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uktā guṇāḥ | KVs_7,1.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pṛthivyādi rūparasagandhasparśā dravyānityatvādanityāśca | KVs_7,1.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etena nityeṣu nityatvamuktam | KVs_7,1.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "apsu tejasi vāyau ca nityā dravyanityavāt | KVs_7,1.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anityeṣvanityā dravyānityatvāt | KVs_7,1.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇaguṇapūrvakāḥ pṛthivyāṃ pākajāḥ | KVs_7,1.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekadravyatvāt | KVs_7,1.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṇormahataścopalabdhyanupalabdhī nitye vyākhyāte | KVs_7,1.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇa bahutvācca | KVs_7,1.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ato viparitamaṇu | KVs_7,1.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṇu mahaditi tasmin viśeṣabhāvāt viśeṣābhāvācca | KVs_7,1.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekakālatvāt | KVs_7,1.12 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛṣṭāntācca | KVs_7,1.13 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṇutvamahattvayoraṇutvamahattvābhāvaḥ karmaguṇairvyākhyātaḥ | KVs_7,1.14 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmabhiḥ karmāṇi guṇaiśca guṇā vyākhyātāḥ | KVs_7,1.15 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṇutvamahattvābhyāṃ karmaguṇāśca vyākhyātāḥ | KVs_7,1.16 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etena dīrghatva hrasvatve vyākhyāte | KVs_7,1.17 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anitye 'nityam | KVs_7,1.18 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nitye nityam | KVs_7,1.19 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nityaṃ parimaṇḍalam | KVs_7,1.20 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avidyā ca vidyāliṅgam | KVs_7,1.21 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vibhavānmahānākāśaḥ tathā cātmā | KVs_7,1.22 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadabhāvādaṇu manaḥ | KVs_7,1.23 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guṇairdigvyākhyātā | KVs_7,1.24 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇena kālaḥ | KVs_7,1.25 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ruparasagandhasparśavyatirekādarthāntaramekatvam | KVs_7,2.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā pṛthaktvam | KVs_7,2.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekatvaikapṛthaktvayorekatvaikapṛthaktvābhāvo 'ṇutvamahattvābhyāṃ vyākhyātaḥ | KVs_7,2.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niḥ saṃkhyatvāt karmaguṇānāṃ sarvaikatvaṃ na vidyate | KVs_7,2.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhrāntaṃ tat | KVs_7,2.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekatvābhāvādbhaktistu na vidyate | KVs_7,2.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāryakāraṇayorekatvaikapṛthaktvābhāvādekatvaikapṛthaktvaṃ na vidyate | KVs_7,2.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etadanityayorvyākhyātam | KVs_7,2.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anyatarakarmaja ubhakarmajaḥ saṃyogajaśca saṃyogaḥ | KVs_7,2.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etena vibhāgo vyākhyātaḥ | KVs_7,2.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃyogavibhāgayoḥ saṃyogavibhāgābhāvaḥ aṇutvamahattvābhyāṃ vyākhyātaḥ | KVs_7,2.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmabhiḥ karmāṇi guṇairguṇā aṇutva mahattvābhyāmiti | KVs_7,2.12 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yutasiddhyabhāvāt kāryakāraṇayoḥ saṃyogavibhāgau na vidyete | KVs_7,2.13 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guṇatvāt | KVs_7,2.14 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guṇo 'pi vibhāvyate | KVs_7,2.15 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niṣkriyatvāt | KVs_7,2.16 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asati nāstīti ca prayogāt | KVs_7,2.17 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śabdārthāvasambandhau | KVs_7,2.18 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃyogino daṇḍāt samavāyino viśeṣācca | KVs_7,2.19 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāmayikaḥ śabdādarthapratyayaḥ | KVs_7,2.20 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekadikkābhyāmekakālābhyāṃ sannikṛṣṭaviprakṛṣṭābhyāṃ paramaparañca | KVs_7,2.21 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇaparatvāt kāraṇāparatvācca | KVs_7,2.22 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paratvāparatvayoḥ paratvāparatvābhāvo 'ṇutvamahattvābhyāṃ vyākhyātaḥ | KVs_7,2.23 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmabhiḥ karmāṇi | KVs_7,2.24 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guṇairguṇāḥ | KVs_7,2.25 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ihedamiti yataḥ kāryakāraṇayoḥ sa samavāyaḥ | KVs_7,2.26 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tattvambhāvena | KVs_7,2.27 |"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyeṣu jñānaṃ vyākhyātam | KVs_8,1.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatrātmā manaścāpratyakṣe | KVs_8,1.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānanirdeśe jñānaniṣpattividhiruktaḥ | KVs_8,1.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guṇakarmasu sannikṛṣṭeṣu jñānaniṣpatteḥ dravyaṃ kāraṇam | KVs_8,1.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāmānyaviśeṣeṣu sāmānyaviśeṣābhāvāt tadeva jñānam | KVs_8,1.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sāmānyaviśeṣāpekṣaṃ dravyaguṇakarmasu | KVs_8,1.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravye dravyaguṇakarmāpekṣam | KVs_8,1.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guṇakarmasu guṇakarmābhāvāt guṇakarmāpekṣaṃ na vidyate | KVs_8,1.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samavāyinaḥ śvaityācchvaitya buddheśca śvete budviste ete kāryakāraṇabhūte | KVs_8,1.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyeṣvanitaretarakāraṇāḥ | KVs_8,1.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇāyaugapadyāt kāraṇakramācca ghaṭapaṭādibuddhīnāṃ kramo na hetuphalabhāvāt | KVs_8,1.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ayameṣa tvayā kṛtaṃ bhojayainaṃ iti buddhyapekṣam | KVs_8,2.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛṣṭeṣu bhāvādadṛṣṭeṣvabhāvāt | KVs_8,2.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "artha iti dravyaguṇakarmasu | KVs_8,2.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dravyeṣu pañcātmakatvaṃ pratiṣiddham | KVs_8,2.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhūyastvāt gandhavattvācca pṛthivī gandhajñāne prakṛtiḥ | KVs_8,2.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathāpastejo vāyuśca rasarūpasparśāviśeṣāt | KVs_8,2.6 |"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kriyāguṇavyapadeśābhāvāt prāgasat | KVs_9,1.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sadasat | KVs_9,1.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asataḥ kriyāguṇavyapadeśābhāvādarthāntaram | KVs_9,1.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saccāsat | KVs_9,1.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yaccānyadasadatastadasat | KVs_9,1.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asaditi bhūtapratyakṣābhāvāt bhūtasmṛtervirodhipratyakṣavat | KVs_9,1.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathābhāve bhāvapratyakṣācca | KVs_9,1.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etenāghaṭo 'gauradharmaśca vyākhyātāḥ | KVs_9,1.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhūtaṃ nāstītyanarthāntaram | KVs_9,1.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāsti ghaṭo gehe iti sato ghaṭasya gehasaṃsargapratiṣedhaḥ | KVs_9,1.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmanyātmamanasoḥ saṃyogādātmapratyakṣam | KVs_9,1.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā dravyāntareṣu pratyakṣam | KVs_9,1.12 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asamāhitāntaḥ karaṇā upasaṃhṛtasamādhayasteṣāñca | KVs_9,1.13 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatsamavāyātkarmaguṇeṣu | KVs_9,1.14 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmasamavāyādātmaguṇeṣu | KVs_9,1.15 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asyedaṃ kāryaṃ kāraṇaṃ saṃyogi virodhi samavāyi ceti laiṅgikam | KVs_9,2.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asyedaṃ kārya kāraṇasambandhaścāvayavādbhavati | KVs_9,2.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etena śābdaṃ vyākhyātam | KVs_9,2.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "heturapadeśo liṅgaṃ pramāṇaṃ karaṇamityanarthāntaram | KVs_9,2.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asyedamiti buddhyapekṣitatvāt | KVs_9,2.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmanaḥ saṃyogaviśeṣāt saṃskārācca smṛtiḥ | KVs_9,2.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā svapnaḥ | KVs_9,2.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svapnāntikam | KVs_9,2.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmācca | KVs_9,2.9 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "indriyadoṣātsaṃskāradoṣāccāvidyā | KVs_9,2.10 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadduṣṭajñānam | KVs_9,2.11 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aduṣṭaṃ vidyā | KVs_9,2.12 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ārṣaṃ siddhadarśanaṃ ca dharmebhyaḥ | KVs_9,2.13 |"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iṣṭāniṣṭakāraṇaviśeṣādvirodhācca mithaḥ sukhaduḥkhayorthāntarabhāvaḥ | KVs_10,1.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃśayanirṇayāntarābhāvaśca jñānāntaratve hetuḥ | KVs_10,1.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tayorniṣpattiḥ pratyakṣalaiṅgikābhyām | KVs_10,1.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhūdityapi | KVs_10,1.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sati ca kāryādarśanāt | KVs_10,1.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekārthasamavāyi kāraṇāntareṣu dṛṣṭatvāt | KVs_10,1.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekadeśe ityekasmin śiraḥ pṛṣṭhamudaraṃ marmāṇi tadviśeṣastadviśeṣebhyaḥ | KVs_10,1.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇamiti dravye kāryasamavāyāt | KVs_10,2.1 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃyogādvā | KVs_10,2.2 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇe samavāyāt karmāṇi | KVs_10,2.3 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā rūpe kāraṇaikārthasamavāyācca | KVs_10,2.4 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇasamavāyāt saṃyogaḥ paṭasya | KVs_10,2.5 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāraṇākāraṇasamavāyācca | KVs_10,2.6 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃyuktasamavāyādagnervaiśeṣikam | KVs_10,2.7 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dṛṣṭānāṃ dṛṣṭaprayojanānāṃ dṛṣṭābhāve prayogo 'bhyudayāya | KVs_10,2.8 |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvacanādāmnāyasya pramāṇyamiti | KVs_10,2.9 |"
+        }
+      ]
+    }
+  ]
 }

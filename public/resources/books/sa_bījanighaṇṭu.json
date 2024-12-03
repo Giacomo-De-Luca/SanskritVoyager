@@ -1,4 +1,1127 @@
 {
-  "title": "sa_bījanighaṇṭu",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<lg>\n<l>atha vakṣye mantrakośaṃ yad uktaṃ bhūtaḍāmare /</l>\n<l>kramād bījavidhānaṃ ca śrutyarthajñānasambhavam // 1</l>\n</lg>\n<lg>\n<l>śrīśiva uvāca /</l>\n<l>a vidyujjihvā ā kālavajrī i garjinī ī dhūmrabhairavī u kālarātriḥ ū vidārī ṛ mahāraudrī ṝ bhayaṃkarī ḷ saṃhāriṇī lu karālinī e ūrdhvakeśī ai ugrabhairavī o bhīmākṣī au ḍākinī aṃ rudrarākiṇī aḥ caṇḍikā ka krodhīśaḥ kha vāmanaḥ ga caṇḍaḥ gha vikārī ṅa unmattabhairavaḥ ca jvālāmukhaḥ cha raktadaṃṣṭraḥ ja asitāṅgaḥ jha vaḍavāmukhaḥ ja vidyunmukhaḥ ṭa mahājvālaḥ ṭha kapālī ḍa bhīṣaṇaḥ ḍha ruruḥ ṇa saṃhārī ta bhairavaḥ tha daṇḍī da balibhuk dha ugrasūladhṛk na siṃhanādī pa kapardī pha karālāgniḥ ba bhayaṃkaraḥ bha bahurūpī ma mahākālaḥ ya jīvātmā ra kṣatajokṣitaḥ la balabhedī va raktapaṭaḥ śa caṇḍīśaḥ ṣa jvalanadhvajaḥ sa dhūmadhvajaḥ ha vyomavaktraḥ kṣa tryailokyagrasanātmakaḥ // 2</l>\n</lg>\n<l>vidyujjihvā kālavaktrā mahākālair alaṃkṛtā // 3</l>\n<l>viśabījaṃ śrutimukhaṃ dhruvaṃ hālāhalaṃ priye ca tat // 4</l>\n<lg>\n<l>caṇḍīśaḥ kṣatajārūḍho dhūmrabhairavyalaṃkṛtaḥ /</l>\n<l>nādabindusamāyukto bījaṃ viṣṇupriyā mataṃ śrīṃ // 5</l>\n</lg>\n<lg>\n<l>kṣatajastho vyomavaktro dhūmrabhairavyalaṃkṛtaḥ /</l>\n<l>nādabindusamāyukto bījaṃ prāthamikaṃ smṛtaṃ hrīṃ // 6</l>\n</lg>\n<lg>\n<l>krodhīśaḥ kṣatajārūḍho dhūmrabhairavyalaṃkṛtaḥ /</l>\n<l>nādabindusamāyuktaḥ pitṛbhūvāsinī smṛtaḥ krīṃ // 7</l>\n</lg>\n<lg>\n<l>vidārīyuktaṃ vyomāsyaṃ rudrarākiṇyalaṃkṛtam /</l>\n<l>kūrcaṃ kālaṃ krodhabījaṃ jānīhi vīravandite hūṃ // 8</l>\n</lg>\n<lg>\n<l>nādabindusamāyuktāṃ samādāyograbhairavīm /</l>\n<l>bhautikaṃ vāgbhavaṃ bījaṃ viddhi sārasvataṃ priye ai // 9</l>\n</lg>\n<l>pralayāgnir mahājvālaḥ khyātaś cāstramanuḥ priye phaṭ // 10</l>\n<l>krodhīśaraktabhīmākṣyo 'ṅkuśo 'yaṃ nādabindumān kroṃ // 11</l>\n<l>dviṭhaḥ śiro vahnijāyā svāhā jvalanavallabhā svāhā // 12</l>\n<lg>\n<l>krodhīśo balabhid dhūmrabhairavīnādabindubhiḥ /</l>\n<l>trimūrtir manmathaḥ kāmaḥ bījaṃ trailokyamohanam klīṃ // 13</l>\n</lg>\n<lg>\n<l>vyomāsyaḥ kālarātryārḍhyo varma bindīndusaṃyutaḥ /</l>\n<l>kathitaṃ kavacaṃ bījaṃ kulācārapriye 'male huṃ // 14</l>\n</lg>\n<lg>\n<l>vyomāsyaḥ kṣatajārūḍho ḍākinīnādabindubhiḥ /</l>\n<l>jyotir mantraḥ samākhyāto mahāpātakanāśanaḥ hrauṃ // 15</l>\n</lg>\n<lg>\n<l>saṃyukto dhūmrabhairavyā raktastho balibhojanaḥ /</l>\n<l>nādabindusamāyuktaḥ kiṅkiṇībījam uttamam drīṃ // 16</l>\n</lg>\n<lg>\n<l>bahurūpiṇam ādāya kṣatajokṣitasaṃsthitam /</l>\n<l>vidāryāliṅgitaṃ tadvad viśeṣārtho mahāmanuḥ bhrūṃ // 17</l>\n</lg>\n<lg>\n<l>dhūmradhvajādhaḥ kālāgniḥ sordhvakeśīndubindubhiḥ /</l>\n<l>yugāntakārakaṃ bījaṃ bhairaveṇa prakāśitam spheṃ // 18</l>\n</lg>\n<lg>\n<l>saṃhāriṇyāśritaṃ cordhvakeśinī tu kapardinam /</l>\n<l>nādabindusamāyuktaṃ bījaṃ vaitālikaṃ smṛtam pleṃ // 19</l>\n</lg>\n<lg>\n<l>sanādabinduṃ krodhīśaṃ gṛhya saṃhāriṇīsthitam /</l>\n<l>kampinībījam ity uktaṃ dviṭhenoktā manoharī klīṃ svāhā // 20</l>\n</lg>\n<lg>\n<l>kapardinaṃ samādāya kṣatajokṣitasaṃsthitam /</l>\n<l>saṃyuktaṃ dhūmrabhairavyā dhvāṅkṣo 'yaṃ nādabindumān prīṃ // 21</l>\n</lg>\n<lg>\n<l>kapālidvayam ādāya mahākālena maṇḍitam /</l>\n<l>samāsanam iti proktaṃ caṇḍikāḍhyaṃ manoharam ṭhaṃ ṭhaṃ ṭhaḥ ṭhaḥ // 22</l>\n</lg>\n<lg>\n<l>pralayāgnisthito dhūmadhvajo guhye sabindumān /</l>\n<l>saṃyukto dhūmrabhairavyā smṛtā phetkāriṇī priye sphīṃ // 23</l>\n</lg>\n<lg>\n<l>kṣatajastho vyomavaktro bindukhaṇḍendvalaṃkṛtaḥ /</l>\n<l>khadyotam iti vikhyātaṃ grāsinī kālarātriyuk hruṃ // 24</l>\n</lg>\n<lg>\n<l>kṣatajasthaṃ vyomavaktraṃ nādabindusamanvitam /</l>\n<l>vidārībhūṣaṇaṃ kṛtvā bījaṃ vaivasvatātmakaṃ hrūṃ // 25</l>\n</lg>\n<lg>\n<l>vyomavaktro dhūmadhvajo vāraṇaḥ pralayāgnikaḥ /</l>\n<l>ūrdhvakeśī kṣatārūḍhā binducandrārdhasaṃgatā // 26</l>\n</lg>\n<l>bījam ānandabhairavyā mūkānandakaraṃ param hasakhaphreṃ // 27</l>\n<lg>\n<l>akāre bhīṣaṇā kīrtiṃ vidyujjihveti kīrtitā /</l>\n<l>ākāre tāmasī kālavajrī ca kālabhairavī // 28</l>\n</lg>\n<lg>\n<l>ikāre garjinī caṇḍā vijñeyā rudrabhairavī /</l>\n<l>īkāre śūlinī khyātā caṇḍogrā dhūmrabhairavī // 29</l>\n</lg>\n<lg>\n<l>ukāre kālakūṭākhyā pracaṇḍā caṇḍavallabhā /</l>\n<l>vidāry ūkārake proktā tālajaṅghā kapālinī // 30</l>\n</lg>\n<lg>\n<l>ṛkāre syān mahāraudrī jvālinī yoginīty api /</l>\n<l>ṝkāre kālikā proktā pitṛkālī bhayaṃkarī // 31</l>\n</lg>\n<lg>\n<l>saṃhāriṇī ḷkāre syān meghanādograbhāṣiṇī /</l>\n<l>rudracaṇḍā kālarātriḥ ḹkāre ca karālinī // 32</l>\n</lg>\n<lg>\n<l>ūrdhvakeśī ca cāmuṇḍā nādiny ekārake smṛtā /</l>\n<l>aikāre koṭarākṣī ca māliny unmattabhairavī // 33</l>\n</lg>\n<lg>\n<l>jvāliny okāragā jñeyā bhīmākṣī caṇḍamālinī /</l>\n<l>aukāre ḍākinī siṃhanādinī caṇḍabhairavī // 34</l>\n</lg>\n<lg>\n<l>akrūrākhyā vidārī ca aṃkāre rudrarākiṇī /</l>\n<l>śeṣe kapālinī yāmyā caṇḍikā kuṇḍaladvayam // 35</l>\n</lg>\n<l>visargo nādaḥ sakalāḥ ṣaḍdaśoktāḥ svarā matāḥ // 36</l>\n<lg>\n<l>krodhīśo vāraṇaś caṇḍaḥ śaṅkā tūnmattabhairavaḥ /</l>\n<l>jvālāmukho raktadaṃṣṭro 'sitāṅgo balayāmukhaḥ // 37</l>\n</lg>\n<lg>\n<l>vidyunmukho mahājvali kapālī bhīṣaṇo guruḥ /</l>\n<l>prahārī rauravo daṇḍī balito 'tyugraśūladhṛk // 38</l>\n</lg>\n<lg>\n<l>siṃhanādī kapardī ca pralayāgnir bhayaṃkaraḥ /</l>\n<l>bahurūpī mahākālaḥ sthirātmā kṣatajokṣitaḥ // 39</l>\n</lg>\n<lg>\n<l>balabhedī raktapaṭaś caṇḍiśo jvalanadhvajaḥ /</l>\n<l>dhūmadhvajo vyomavaktras trailokyagrasanātmakaḥ // 40</l>\n</lg>\n<l>nayanaśrotrāsyanāsāhṛtsu nyāse daśa svarāḥ // 41</l>\n<lg>\n<l>dhvajinīdhūmrabhairavyāvabhāve ca dṛśoḥ smṛte /</l>\n<l>mūlārṇamuramādiṣṭaṃ hṛdayaṃ svaraśaktayaḥ // 42</l>\n</lg>\n<lg>\n<l>ādimadhyāvasāneṣu pūrvābhāve yathottaram /</l>\n<l>kaṇṭhāsyaḥ kālavaktreṇa mahākālena bhūṣitaḥ /</l>\n<l>tadādiḥ pañcaraśmiś ca sṛṣṭisthitilayaṃ viṣam // 43</l>\n</lg>\n<lg>\n<l>śūlinyā sahito 'gnisthaś caṇḍīśa indubindumān /</l>\n<l>etad viṣṇupriyābījaṃ yan mānyaṃ jagataḥ priyam // 44</l>\n</lg>\n<lg>\n<l>kṣatajastho vyomavaktraś caṇḍogrābindubhūṣitaḥ /</l>\n<l>adrijā raudrī bhūteśī bījam prāthamikaṃ priyam // 45</l>\n</lg>\n<lg>\n<l>krodhīśo raktasaṃsthaś ca dhūmrabhairavyalaṃkṛtaḥ /</l>\n<l>bindvindusaṃyuto bījam drāvaṇaṃ kledanaṃ smṛtam // 46</l>\n</lg>\n<lg>\n<l>vyomāsyo bindusaṃyuktas tālajaṅghāvibhūṣitaḥ /</l>\n<l>kūrcakālo mahākālaḥ krodhabījam nirañjanam // 47</l>\n</lg>\n<lg>\n<l>unmattabhairavī rudraḍākinyā ca vibhūṣitā /</l>\n<l>nādenālaṃkṛtā bījam vāgbhavaṃ buddhivardhanam // 48</l>\n</lg>\n<l>phaḍ ity astraṃ prasiddhaṃ syāj phaṭ // 49</l>\n<l>jvālāgnir vyāpakāṅkuśaḥ kror // 50</l>\n<l>śiraḥ svāhā dviṭho vahnijāyā jvalanavallabhā // 51</l>\n<l>dakṣajānudvayaṃ senduḥ devāsyaṃ vahnisundarī svāhā // 52</l>\n<l>indrāsanagato brahmā trimūrtīnduś ca manmathaḥ klīṃ // 53</l>\n<lg>\n<l>garjinīdhūmrabhairavyau dakṣavāmapayodharau /</l>\n<l>vyomāsyaḥ kālavaktrāḍhyo varmabindīndusaṃyutaḥ huṃ // 54</l>\n</lg>\n<lg>\n<l>śūnyaṃ kṣatajamārūḍhaṃ caṇḍabhairavyalaṃkṛtam /</l>\n<l>nādabinduyutaṃ mūrdhni jyotirmantra udāhṛto hrauṃ // 55</l>\n</lg>\n<lg>\n<l>ādidevena nirdiṣṭaṃ mantrakośam anuttamam /</l>\n<l>yad arthibhyaḥ purā guptaṃ tan mayādya prakāśitam // 56</l>\n</lg>\n<lg>\n<l>yakṣaḍāmaratantrasya mantrakośavivecanam /</l>\n<l>krodhīśena tu yat proktaṃ bhairavāya mahātmane // 57</l>\n</lg>\n<lg>\n<l>vidyuccaṇḍāśinī gaurī krośinī nāginī jayā /</l>\n<l>kiṃnarī yoginī yakṣī bhūtinī pretinī narī // 58</l>\n</lg>\n<lg>\n<l>grāsinī trāsinī caṇḍī kalety evaṃ prakīrtitā /</l>\n<l>kālabhairave 'marasarvāsu bhūtalāṅgalavarāsu ca // 59</l>\n</lg>\n<lg>\n<l>subhagā sumukhī caṇḍī pārvatī suratapriyā /</l>\n<l>urvaśī caindriṇī līlā kaṅkālī mekhalā śacī // 60</l>\n</lg>\n<lg>\n<l>māninī haṃsinī caulā kalanā bhūminīti ca /</l>\n<l>ādidevena nirdiṣṭāḥ prathamādhipaśaktayaḥ // 61</l>\n</lg>\n<lg>\n<l>vibhramo bāhulo daṇḍī bhairavo naṭakaḥ śukaḥ /</l>\n<l>vṛkodaro jaṭo bhīṣmaḥ kṣobhakaḥ khecaro naṭaḥ // 62</l>\n</lg>\n<lg>\n<l>niśācarā dhvajī bhīmo vicitraḥ kauśiko yamaḥ /</l>\n<l>liṅgī vatsādhiko bhṛṅgī maṇibhadro ghaṭotkacaḥ // 63</l>\n</lg>\n<lg>\n<l>mahānandī śuko daṇḍī sugrīvaḥ kalaho bhavaḥ /</l>\n<l>daṇḍī bhāṣāntako 'jeśo gargo haṃsaḥ pakṣaiścaro halī // 64</l>\n</lg>\n<lg>\n<l>caṇḍībījam iti khyātaṃ vidyunnāgāṅganāṃśukaiḥ /</l>\n<l>aurasādhike 'ṃśukādyā ca dhūminy asau kiṃnaraḥ smṛtaḥ // 65</l>\n</lg>\n<l>urvaśyālaṃkṛto haṃso haṃsendumastakoddhṛtaḥ hūṃ // 66</l>\n<l>vidyuccaṇḍā ca haṃsī ca ketur nāginyalaṃkṛtā ha // 67</l>\n<l>ḍiṇḍibhena saraktena kāminī bindubhiḥ śaśī śrīṃ // 68</l>\n<l>haṃsagrīvapārvatyā kapardīndvādyalaṃkṛtā hrīṃ // 69</l>\n<l>vigrahakalahakāminīndvādiprāṇahāriṇī krīṃ // 70</l>\n<l>vibhramo raktapārvatyai svāhā ulkāmukhī smṛtā // 71</l>\n<l>jvālaṃdharīti vikhyātā sabindvindukalā naṭī // 72</l>\n<l>haṃsaḥ sugrīvaḥ caṇḍādyaiḥ khadyotaiḥ parikīrtitā hraṃ // 73</l>\n<l>śyāmāliṅgitadeho 'sau khadyoto jyotir īritaḥ hrauṃ // 74</l>\n<l>yamaḥ sugrīvaḥ kāminīndrendvādyaiḥ kiṃnarīti ca hruṃ // 75</l>\n<l>sugrīvo 'pi yamaś caṇḍo nīlādyair vāṇa īritaḥ drāṃ // 76</l>\n<l>yamaḥ sugrīvabindvindujapādyaḥ piśitāśanaḥ druṃ // 77</l>\n<lg>\n<l>tyāginaṃ maṇibhadrasthaṃ pretinīndvādyalaṃkṛtam /</l>\n<l>yugāntakārakaṃ bījam bhairaveṇa prakāśitam sphreṃ // 78</l>\n</lg>\n<lg>\n<l>bhṛṅgiṇaṃ mekhalāyuktaṃ pretinīndvādyalaṃkṛtam /</l>\n<l>bījaṃ vaitālikaṃ proktaṃ dviṭhenoktā manoharī pleṃ svāhā // 79</l>\n</lg>\n<lg>\n<l>vibhramo dhūminī vidyuccaṇḍikādyas tu kākinī /</l>\n<l>dhvāṅkṣabījam iti khyātaṃ sarvatantreṣu gopitaṃ prīṃ // 80</l>\n</lg>\n<l>naṭadvayena dhūminyā ūrdhvakeśyā hy alaṃkṛtaṃ phreṃ // 81</l>\n<l>naṭo dhavānasaṃyukto naṭītīkṣṇapayodharaiḥ ṭaṃṭhaṃ // 82</l>\n<lg>\n<l>pārvatyāliṅgitaṃ maṇibhadrasthaṃ yoginīpriye /</l>\n<l>phetkāriṇīti vikhyātā vidyuccaṇḍavibhūṣitā sphīṃ // 83</l>\n</lg>\n<lg>\n<l>sugrīvāsthilayaḥ śrotre hṛdyatvāvikalādṛśaḥ /</l>\n<l>vikalāyāḥ svabhāve ca syād gaurīti ca pārvatī // 84</l>\n</lg>\n<lg>\n<l>mūlārṇamāsam ākhyātaṃ hṛdayaṃ svaraśaktayaḥ /</l>\n<l>bhavasthityavasāneṣu vijñātavyaṃ yathottaram // 85</l>\n</lg>\n<lg>\n<l>ādidevena nirdiṣṭaṃ jambudvīpe kalau yuge /</l>\n<l>mantrakośam idaṃ bhūtayakṣaḍāmaratantrayoḥ // 86</l>\n</lg>\n<l>martyānām upakārāya triṣu lokeṣu durlabham // 87</l>\n\n  </body>\n\n"
+  "file_title": "bījanighaṇṭu",
+  "file_title_normal": "bijanighantu",
+  "metadata": {
+    "original_title": "Bījanighaṇṭu",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Oliver Hellwig",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Oliver Hellwig",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Ram Kumar Rai in: Dictionaries of Tantrashastra. - Benares: Prachya Prakashan, 1984."
+  },
+  "body": [
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atha vakṣye mantrakośaṃ yad uktaṃ bhūtaḍāmare /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kramād bījavidhānaṃ ca śrutyarthajñānasambhavam // 1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrīśiva uvāca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "a vidyujjihvā ā kālavajrī i garjinī ī dhūmrabhairavī u kālarātriḥ ū vidārī ṛ mahāraudrī ṝ bhayaṃkarī ḷ saṃhāriṇī lu karālinī e ūrdhvakeśī ai ugrabhairavī o bhīmākṣī au ḍākinī aṃ rudrarākiṇī aḥ caṇḍikā ka krodhīśaḥ kha vāmanaḥ ga caṇḍaḥ gha vikārī ṅa unmattabhairavaḥ ca jvālāmukhaḥ cha raktadaṃṣṭraḥ ja asitāṅgaḥ jha vaḍavāmukhaḥ ja vidyunmukhaḥ ṭa mahājvālaḥ ṭha kapālī ḍa bhīṣaṇaḥ ḍha ruruḥ ṇa saṃhārī ta bhairavaḥ tha daṇḍī da balibhuk dha ugrasūladhṛk na siṃhanādī pa kapardī pha karālāgniḥ ba bhayaṃkaraḥ bha bahurūpī ma mahākālaḥ ya jīvātmā ra kṣatajokṣitaḥ la balabhedī va raktapaṭaḥ śa caṇḍīśaḥ ṣa jvalanadhvajaḥ sa dhūmadhvajaḥ ha vyomavaktraḥ kṣa tryailokyagrasanātmakaḥ // 2"
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "vidyujjihvā kālavaktrā mahākālair alaṃkṛtā // 3"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "viśabījaṃ śrutimukhaṃ dhruvaṃ hālāhalaṃ priye ca tat // 4"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caṇḍīśaḥ kṣatajārūḍho dhūmrabhairavyalaṃkṛtaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nādabindusamāyukto bījaṃ viṣṇupriyā mataṃ śrīṃ // 5"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣatajastho vyomavaktro dhūmrabhairavyalaṃkṛtaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nādabindusamāyukto bījaṃ prāthamikaṃ smṛtaṃ hrīṃ // 6"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "krodhīśaḥ kṣatajārūḍho dhūmrabhairavyalaṃkṛtaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nādabindusamāyuktaḥ pitṛbhūvāsinī smṛtaḥ krīṃ // 7"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidārīyuktaṃ vyomāsyaṃ rudrarākiṇyalaṃkṛtam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kūrcaṃ kālaṃ krodhabījaṃ jānīhi vīravandite hūṃ // 8"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nādabindusamāyuktāṃ samādāyograbhairavīm /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhautikaṃ vāgbhavaṃ bījaṃ viddhi sārasvataṃ priye ai // 9"
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "pralayāgnir mahājvālaḥ khyātaś cāstramanuḥ priye phaṭ // 10"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "krodhīśaraktabhīmākṣyo 'ṅkuśo 'yaṃ nādabindumān kroṃ // 11"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "dviṭhaḥ śiro vahnijāyā svāhā jvalanavallabhā svāhā // 12"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "krodhīśo balabhid dhūmrabhairavīnādabindubhiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "trimūrtir manmathaḥ kāmaḥ bījaṃ trailokyamohanam klīṃ // 13"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyomāsyaḥ kālarātryārḍhyo varma bindīndusaṃyutaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kathitaṃ kavacaṃ bījaṃ kulācārapriye 'male huṃ // 14"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyomāsyaḥ kṣatajārūḍho ḍākinīnādabindubhiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jyotir mantraḥ samākhyāto mahāpātakanāśanaḥ hrauṃ // 15"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃyukto dhūmrabhairavyā raktastho balibhojanaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nādabindusamāyuktaḥ kiṅkiṇībījam uttamam drīṃ // 16"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bahurūpiṇam ādāya kṣatajokṣitasaṃsthitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidāryāliṅgitaṃ tadvad viśeṣārtho mahāmanuḥ bhrūṃ // 17"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhūmradhvajādhaḥ kālāgniḥ sordhvakeśīndubindubhiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yugāntakārakaṃ bījaṃ bhairaveṇa prakāśitam spheṃ // 18"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃhāriṇyāśritaṃ cordhvakeśinī tu kapardinam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nādabindusamāyuktaṃ bījaṃ vaitālikaṃ smṛtam pleṃ // 19"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sanādabinduṃ krodhīśaṃ gṛhya saṃhāriṇīsthitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kampinībījam ity uktaṃ dviṭhenoktā manoharī klīṃ svāhā // 20"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kapardinaṃ samādāya kṣatajokṣitasaṃsthitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃyuktaṃ dhūmrabhairavyā dhvāṅkṣo 'yaṃ nādabindumān prīṃ // 21"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kapālidvayam ādāya mahākālena maṇḍitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samāsanam iti proktaṃ caṇḍikāḍhyaṃ manoharam ṭhaṃ ṭhaṃ ṭhaḥ ṭhaḥ // 22"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pralayāgnisthito dhūmadhvajo guhye sabindumān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃyukto dhūmrabhairavyā smṛtā phetkāriṇī priye sphīṃ // 23"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣatajastho vyomavaktro bindukhaṇḍendvalaṃkṛtaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "khadyotam iti vikhyātaṃ grāsinī kālarātriyuk hruṃ // 24"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣatajasthaṃ vyomavaktraṃ nādabindusamanvitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidārībhūṣaṇaṃ kṛtvā bījaṃ vaivasvatātmakaṃ hrūṃ // 25"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyomavaktro dhūmadhvajo vāraṇaḥ pralayāgnikaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ūrdhvakeśī kṣatārūḍhā binducandrārdhasaṃgatā // 26"
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "bījam ānandabhairavyā mūkānandakaraṃ param hasakhaphreṃ // 27"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "akāre bhīṣaṇā kīrtiṃ vidyujjihveti kīrtitā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ākāre tāmasī kālavajrī ca kālabhairavī // 28"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ikāre garjinī caṇḍā vijñeyā rudrabhairavī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "īkāre śūlinī khyātā caṇḍogrā dhūmrabhairavī // 29"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ukāre kālakūṭākhyā pracaṇḍā caṇḍavallabhā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidāry ūkārake proktā tālajaṅghā kapālinī // 30"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṛkāre syān mahāraudrī jvālinī yoginīty api /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṝkāre kālikā proktā pitṛkālī bhayaṃkarī // 31"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃhāriṇī ḷkāre syān meghanādograbhāṣiṇī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rudracaṇḍā kālarātriḥ ḹkāre ca karālinī // 32"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ūrdhvakeśī ca cāmuṇḍā nādiny ekārake smṛtā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aikāre koṭarākṣī ca māliny unmattabhairavī // 33"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jvāliny okāragā jñeyā bhīmākṣī caṇḍamālinī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aukāre ḍākinī siṃhanādinī caṇḍabhairavī // 34"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "akrūrākhyā vidārī ca aṃkāre rudrarākiṇī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śeṣe kapālinī yāmyā caṇḍikā kuṇḍaladvayam // 35"
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "visargo nādaḥ sakalāḥ ṣaḍdaśoktāḥ svarā matāḥ // 36"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "krodhīśo vāraṇaś caṇḍaḥ śaṅkā tūnmattabhairavaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jvālāmukho raktadaṃṣṭro 'sitāṅgo balayāmukhaḥ // 37"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidyunmukho mahājvali kapālī bhīṣaṇo guruḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prahārī rauravo daṇḍī balito 'tyugraśūladhṛk // 38"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "siṃhanādī kapardī ca pralayāgnir bhayaṃkaraḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bahurūpī mahākālaḥ sthirātmā kṣatajokṣitaḥ // 39"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "balabhedī raktapaṭaś caṇḍiśo jvalanadhvajaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhūmadhvajo vyomavaktras trailokyagrasanātmakaḥ // 40"
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "nayanaśrotrāsyanāsāhṛtsu nyāse daśa svarāḥ // 41"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhvajinīdhūmrabhairavyāvabhāve ca dṛśoḥ smṛte /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mūlārṇamuramādiṣṭaṃ hṛdayaṃ svaraśaktayaḥ // 42"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādimadhyāvasāneṣu pūrvābhāve yathottaram /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kaṇṭhāsyaḥ kālavaktreṇa mahākālena bhūṣitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadādiḥ pañcaraśmiś ca sṛṣṭisthitilayaṃ viṣam // 43"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūlinyā sahito 'gnisthaś caṇḍīśa indubindumān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etad viṣṇupriyābījaṃ yan mānyaṃ jagataḥ priyam // 44"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣatajastho vyomavaktraś caṇḍogrābindubhūṣitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adrijā raudrī bhūteśī bījam prāthamikaṃ priyam // 45"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "krodhīśo raktasaṃsthaś ca dhūmrabhairavyalaṃkṛtaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bindvindusaṃyuto bījam drāvaṇaṃ kledanaṃ smṛtam // 46"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyomāsyo bindusaṃyuktas tālajaṅghāvibhūṣitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kūrcakālo mahākālaḥ krodhabījam nirañjanam // 47"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "unmattabhairavī rudraḍākinyā ca vibhūṣitā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nādenālaṃkṛtā bījam vāgbhavaṃ buddhivardhanam // 48"
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "phaḍ ity astraṃ prasiddhaṃ syāj phaṭ // 49"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "jvālāgnir vyāpakāṅkuśaḥ kror // 50"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "śiraḥ svāhā dviṭho vahnijāyā jvalanavallabhā // 51"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "dakṣajānudvayaṃ senduḥ devāsyaṃ vahnisundarī svāhā // 52"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "indrāsanagato brahmā trimūrtīnduś ca manmathaḥ klīṃ // 53"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "garjinīdhūmrabhairavyau dakṣavāmapayodharau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyomāsyaḥ kālavaktrāḍhyo varmabindīndusaṃyutaḥ huṃ // 54"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyaṃ kṣatajamārūḍhaṃ caṇḍabhairavyalaṃkṛtam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nādabinduyutaṃ mūrdhni jyotirmantra udāhṛto hrauṃ // 55"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādidevena nirdiṣṭaṃ mantrakośam anuttamam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yad arthibhyaḥ purā guptaṃ tan mayādya prakāśitam // 56"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yakṣaḍāmaratantrasya mantrakośavivecanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "krodhīśena tu yat proktaṃ bhairavāya mahātmane // 57"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidyuccaṇḍāśinī gaurī krośinī nāginī jayā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kiṃnarī yoginī yakṣī bhūtinī pretinī narī // 58"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "grāsinī trāsinī caṇḍī kalety evaṃ prakīrtitā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kālabhairave 'marasarvāsu bhūtalāṅgalavarāsu ca // 59"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "subhagā sumukhī caṇḍī pārvatī suratapriyā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "urvaśī caindriṇī līlā kaṅkālī mekhalā śacī // 60"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māninī haṃsinī caulā kalanā bhūminīti ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādidevena nirdiṣṭāḥ prathamādhipaśaktayaḥ // 61"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vibhramo bāhulo daṇḍī bhairavo naṭakaḥ śukaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vṛkodaro jaṭo bhīṣmaḥ kṣobhakaḥ khecaro naṭaḥ // 62"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niśācarā dhvajī bhīmo vicitraḥ kauśiko yamaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "liṅgī vatsādhiko bhṛṅgī maṇibhadro ghaṭotkacaḥ // 63"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahānandī śuko daṇḍī sugrīvaḥ kalaho bhavaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "daṇḍī bhāṣāntako 'jeśo gargo haṃsaḥ pakṣaiścaro halī // 64"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "caṇḍībījam iti khyātaṃ vidyunnāgāṅganāṃśukaiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aurasādhike 'ṃśukādyā ca dhūminy asau kiṃnaraḥ smṛtaḥ // 65"
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "urvaśyālaṃkṛto haṃso haṃsendumastakoddhṛtaḥ hūṃ // 66"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "vidyuccaṇḍā ca haṃsī ca ketur nāginyalaṃkṛtā ha // 67"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "ḍiṇḍibhena saraktena kāminī bindubhiḥ śaśī śrīṃ // 68"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "haṃsagrīvapārvatyā kapardīndvādyalaṃkṛtā hrīṃ // 69"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "vigrahakalahakāminīndvādiprāṇahāriṇī krīṃ // 70"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "vibhramo raktapārvatyai svāhā ulkāmukhī smṛtā // 71"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "jvālaṃdharīti vikhyātā sabindvindukalā naṭī // 72"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "haṃsaḥ sugrīvaḥ caṇḍādyaiḥ khadyotaiḥ parikīrtitā hraṃ // 73"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "śyāmāliṅgitadeho 'sau khadyoto jyotir īritaḥ hrauṃ // 74"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "yamaḥ sugrīvaḥ kāminīndrendvādyaiḥ kiṃnarīti ca hruṃ // 75"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "sugrīvo 'pi yamaś caṇḍo nīlādyair vāṇa īritaḥ drāṃ // 76"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "yamaḥ sugrīvabindvindujapādyaḥ piśitāśanaḥ druṃ // 77"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tyāginaṃ maṇibhadrasthaṃ pretinīndvādyalaṃkṛtam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yugāntakārakaṃ bījam bhairaveṇa prakāśitam sphreṃ // 78"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhṛṅgiṇaṃ mekhalāyuktaṃ pretinīndvādyalaṃkṛtam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bījaṃ vaitālikaṃ proktaṃ dviṭhenoktā manoharī pleṃ svāhā // 79"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vibhramo dhūminī vidyuccaṇḍikādyas tu kākinī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhvāṅkṣabījam iti khyātaṃ sarvatantreṣu gopitaṃ prīṃ // 80"
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "naṭadvayena dhūminyā ūrdhvakeśyā hy alaṃkṛtaṃ phreṃ // 81"
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "naṭo dhavānasaṃyukto naṭītīkṣṇapayodharaiḥ ṭaṃṭhaṃ // 82"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pārvatyāliṅgitaṃ maṇibhadrasthaṃ yoginīpriye /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "phetkāriṇīti vikhyātā vidyuccaṇḍavibhūṣitā sphīṃ // 83"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sugrīvāsthilayaḥ śrotre hṛdyatvāvikalādṛśaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vikalāyāḥ svabhāve ca syād gaurīti ca pārvatī // 84"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mūlārṇamāsam ākhyātaṃ hṛdayaṃ svaraśaktayaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhavasthityavasāneṣu vijñātavyaṃ yathottaram // 85"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādidevena nirdiṣṭaṃ jambudvīpe kalau yuge /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mantrakośam idaṃ bhūtayakṣaḍāmaratantrayoḥ // 86"
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "martyānām upakārāya triṣu lokeṣu durlabham // 87"
+    }
+  ]
 }

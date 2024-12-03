@@ -1,4 +1,396 @@
 {
-  "title": "sa_viṃśikāvṛtti",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Viṃśikāvṛttiḥ (Vvṛ)</p>\n\n<lg>\n<l>vijñaptimātramevedamasadarthāvabhāsanāt /</l>\n<l>yadvat taimirikasyāsatkeśoṇḍrakādidarśanaṃ // Vvṛ_1 //</l>\n</lg>\n\n<lg>\n<l>na deśakālaniyamaḥ santānāniyamo na ca /</l>\n<l>na ca kṛtyakriyā yuktā vijñaptiryadi nārthataḥ // Vvṛ_2 //</l>\n</lg>\n\n<lg>\n<l>deśādiniyamaḥ siddhaḥ svapnavat pretavatpunaḥ /</l>\n<l>santānāniyamaḥ sarvaiḥ pūyanadyādidarśane // Vvṛ_3 //</l>\n</lg>\n\n<lg>\n<l>svapnopaghātavatkṛtyakriyā narakavatpunaḥ /</l>\n<l>sarvaṃ narakapālādidarśane taiśca bādhane // Vvṛ_4 //</l>\n</lg>\n\n<lg>\n<l>tiraścāṃ sambhavaḥ svarge yathā ca narake tathā /</l>\n<l>na pretānāṃ yatastajjaṃ duḥkhaṃ nānubhavanti te // Vvṛ_5 //</l>\n</lg>\n\n<p>yadi tatkarmabhistatra bhūtānāṃ sambhavastathā\n<l>iṣyate pariṇāmaśca kiṃ vijñānasya neṣyate // Vvṛ_6 //</l></p>\n\n<lg>\n<l>karmaṇo vāsanānyatra phalamanyatra kalpyate /</l>\n<l>tatraiva neṣyate yatra vāsanā kiṃ nu kāraṇaṃ // Vvṛ_7 //</l>\n</lg>\n\n<lg>\n<l>rūpādyāyatanāstitvaṃ tadvineyajanaṃ prati /</l>\n<l>abhiprāyavaśāduktamupapādukasattvavat // Vvṛ_8 //</l>\n</lg>\n\n<lg>\n<l>nāstīha satva ātmā vā dharmāstvete sahetukāḥ</l>\n<l>yataḥ svabījādvijñaptiryadābhāsā pravartate /</l>\n<l>dvividhāyatanatvena te tasyā munirabravīt // Vvṛ_9 //</l>\n</lg>\n\n<lg>\n<l>tathā pudgalanairātmyapraveśo hi anyathā punaḥ /</l>\n<l>deśanā dharmanairātmyapraveśaḥ kalpitātmanā // Vvṛ_10 //</l>\n</lg>\n\n<lg>\n<l>na tadekaṃ na cānekaṃ viṣayaḥ paramāṇuśaḥ /</l>\n<l>na ca te saṃhatā yasmātparamāṇurna sidhyati // Vvṛ_11 //</l>\n</lg>\n\n<lg>\n<l>ṣaṭkena yugapadyogātparamāṇoḥ ṣaḍaṃśatā /</l>\n<l>ṣaṇṇāṃ samānadeśatvātpiṇḍaḥ syādaṇumātrakaḥ // Vvṛ_12 //</l>\n</lg>\n\n<lg>\n<l>paramāṇorasaṃyoge tatsaṅghāte 'sti kasya saḥ /</l>\n<l>na cānavayavatvena tatsaṃyogād na sidhyati // Vvṛ_13 //</l>\n</lg>\n\n<lg>\n<l>dibhāgabhedo yasyāsti tasyaikatvaṃ na yujyate /</l>\n<l>chāyāvṛtī kathaṃ vā anyo na piṇḍaścenna tasya te // Vvṛ_14 //</l>\n</lg>\n\n<lg>\n<l>ekatve na krameṇetiryugapanna grahāgrahau /</l>\n<l>vicchinnānekavṛttiśca sūkṣmānīkṣā ca no bhavet // Vvṛ_15 //</l>\n</lg>\n\n<lg>\n<l>pratyakṣabuddhiḥ svapnādau yathā sa ca yadā tadā /</l>\n<l>na so 'rtho dṛśyate tasya pratyakṣatvaṃ kathaṃ mataṃ // Vvṛ_16 //</l>\n</lg>\n\n<lg>\n<l>uktaṃ yathā tadābhāsā vijñaptiḥ smaraṇaṃ tataḥ /</l>\n<l>svapnadṛgviṣayābhāvaṃ nāprabuddho 'vagacchati // Vvṛ_17 //</l>\n</lg>\n\n<lg>\n<l>anyonyādhipatitvena vijñaptiniyamo mithaḥ /</l>\n<l>middhenopahataṃ cittaṃ svapne tenāsamaṃ phalaṃ // Vvṛ_18 //</l>\n</lg>\n\n<lg>\n<l>maraṇaṃ paravijñaptiviśeṣādvikriyā yathā /</l>\n<l>smṛtilopādikānyeṣāṃ piśācādimanovaśāt // Vvṛ_19 //</l>\n</lg>\n\n<lg>\n<l>kathaṃ vā daṇḍakāraṇyaśūnyatvamṛṣikopataḥ /</l>\n<l>manodaṇḍo mahāvadyaḥ kathaṃ vā tena sidhyati // Vvṛ_20 //</l>\n</lg>\n\n<p>paracittavidāṃ jñānamayathārthaṃ kathaṃ yathā\n<l>svacittajñānam ajñānādyathā buddhasya gocaraḥ // Vvṛ_21 //</l></p>\n\n<lg>\n<l>vijñaptimātratāsiddhiḥ svaśaktisadṛśī mayā /</l>\n<l>kṛteyaṃ sarvathā sā tu na cintyā buddhagocaraḥ // Vvṛ_22 //</l>\n</lg>\n\n<p>viṃśatikā vijñaptimātratāsiddhiḥ / kṛtiriyamācāryavasubandhoḥ /</p>\n\n  </body>\n\n"
+  "file_title": "viṃśikāvṛtti",
+  "file_title_normal": "vimsikavrtti",
+  "metadata": {
+    "original_title": "Viṃśikāvṛtti",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Viṃśikāvṛttiḥ (Vvṛ)"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñaptimātramevedamasadarthāvabhāsanāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadvat taimirikasyāsatkeśoṇḍrakādidarśanaṃ // Vvṛ_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na deśakālaniyamaḥ santānāniyamo na ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na ca kṛtyakriyā yuktā vijñaptiryadi nārthataḥ // Vvṛ_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "deśādiniyamaḥ siddhaḥ svapnavat pretavatpunaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "santānāniyamaḥ sarvaiḥ pūyanadyādidarśane // Vvṛ_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svapnopaghātavatkṛtyakriyā narakavatpunaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvaṃ narakapālādidarśane taiśca bādhane // Vvṛ_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tiraścāṃ sambhavaḥ svarge yathā ca narake tathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na pretānāṃ yatastajjaṃ duḥkhaṃ nānubhavanti te // Vvṛ_5 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "yadi tatkarmabhistatra bhūtānāṃ sambhavastathā",
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iṣyate pariṇāmaśca kiṃ vijñānasya neṣyate // Vvṛ_6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmaṇo vāsanānyatra phalamanyatra kalpyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatraiva neṣyate yatra vāsanā kiṃ nu kāraṇaṃ // Vvṛ_7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpādyāyatanāstitvaṃ tadvineyajanaṃ prati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhiprāyavaśāduktamupapādukasattvavat // Vvṛ_8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāstīha satva ātmā vā dharmāstvete sahetukāḥ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yataḥ svabījādvijñaptiryadābhāsā pravartate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvividhāyatanatvena te tasyā munirabravīt // Vvṛ_9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā pudgalanairātmyapraveśo hi anyathā punaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "deśanā dharmanairātmyapraveśaḥ kalpitātmanā // Vvṛ_10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na tadekaṃ na cānekaṃ viṣayaḥ paramāṇuśaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na ca te saṃhatā yasmātparamāṇurna sidhyati // Vvṛ_11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṣaṭkena yugapadyogātparamāṇoḥ ṣaḍaṃśatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṣaṇṇāṃ samānadeśatvātpiṇḍaḥ syādaṇumātrakaḥ // Vvṛ_12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paramāṇorasaṃyoge tatsaṅghāte 'sti kasya saḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na cānavayavatvena tatsaṃyogād na sidhyati // Vvṛ_13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dibhāgabhedo yasyāsti tasyaikatvaṃ na yujyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "chāyāvṛtī kathaṃ vā anyo na piṇḍaścenna tasya te // Vvṛ_14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekatve na krameṇetiryugapanna grahāgrahau /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vicchinnānekavṛttiśca sūkṣmānīkṣā ca no bhavet // Vvṛ_15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyakṣabuddhiḥ svapnādau yathā sa ca yadā tadā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na so 'rtho dṛśyate tasya pratyakṣatvaṃ kathaṃ mataṃ // Vvṛ_16 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uktaṃ yathā tadābhāsā vijñaptiḥ smaraṇaṃ tataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svapnadṛgviṣayābhāvaṃ nāprabuddho 'vagacchati // Vvṛ_17 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anyonyādhipatitvena vijñaptiniyamo mithaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "middhenopahataṃ cittaṃ svapne tenāsamaṃ phalaṃ // Vvṛ_18 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "maraṇaṃ paravijñaptiviśeṣādvikriyā yathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "smṛtilopādikānyeṣāṃ piśācādimanovaśāt // Vvṛ_19 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kathaṃ vā daṇḍakāraṇyaśūnyatvamṛṣikopataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "manodaṇḍo mahāvadyaḥ kathaṃ vā tena sidhyati // Vvṛ_20 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "paracittavidāṃ jñānamayathārthaṃ kathaṃ yathā",
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svacittajñānam ajñānādyathā buddhasya gocaraḥ // Vvṛ_21 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñaptimātratāsiddhiḥ svaśaktisadṛśī mayā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛteyaṃ sarvathā sā tu na cintyā buddhagocaraḥ // Vvṛ_22 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "viṃśatikā vijñaptimātratāsiddhiḥ / kṛtiriyamācāryavasubandhoḥ /"
+    }
+  ]
 }

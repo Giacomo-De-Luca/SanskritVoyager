@@ -1,4 +1,87 @@
 {
-  "title": "sa_dhvajāgrakeyūrādhāriṇī",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Dhvajāgrakeyurādhāraṇī</p>\n\n<p>dhvajāgrakeyurā dhāraṇī</p>\n\n<p>namo ratna trayāya |</p>\n\n<p>namo bhagavate dhvajāgra rājāya tathāgatāya arhate samyak sambuddhāya tadyathā |</p>\n\n<p>jaya jaya vijaya vijaya jayavāhini-sam gari prabhañjani prabhañjani sarva śatruṇām jambhaya jambhaya stambhaya stambhaya mohaya mohaya bhagavati jayavāhini mātha mātha pra-mātha pra-mātha grasa grasa hasa hasa huṃ huṃ lambodari trinetre caturmukhe caturvaktre catur daṃṣṭre catur bhuje asi musala khaḍga triśūla vajra dhāraṇīrakṣa rakṣa mām |</p>\n\n<p>bhagavati hana hana daha daha paca paca mātha mātha pramātha pramātha huṃ huṃ phaṭphaṭbhañja bhañja sarva śatrūṇām |</p>\n\n<p>dhvajāgra keyure tisṭhat tisṭhat triṭa ulkā dhāraṇi trailokyanātha vidhvaṃśaya\npara sainya rakṣa rakṣa māṃ cala cala cili cili culu culu kala kala kili kili kulu kulu muncaṭṭa hāsaya vidhvaṃśaya parasainya bhramaya |</p>\n\n<p>buddha satyena dharma satyena saṃgha satyena satya vādināṃ satyena buddha satyāmatikrama dharma satyāṃ atikrama saṃgha satyāṃ atikrama satya vādinaṃ satyamatikrama |</p>\n\n<p>lambodare kuṭṭa kuṭṭa kuṭṭya kuṭṭya rudra mānaya biṣṇu mānaya candra sūrya mānaya trailokya adhipatya mānaya sarva devo mānaya sarva yakṣa rākṣasa gandharva kinnara mahoraga mānaya vidhvamsaya mama sarva śatru vaḥ rangha rangha ranghāpaya ranghāpaya jvala jvala puṣpa mālini liḍhi liḍhi triṭa triṭa bhṛkuti mukhaḥ parasainya kurucchedana karaṇha ha hi hi hu hu he he riṇi riṇi riṇā māte jayantu dhvaje |</p>\n\n<p>buddhāvalokite rakṣa rakṣa mama bhagavatāvalokite svāhā | guṇa rāja prabhāse svāhā | suryārka vimale svāhā | sarva graha nakṣatra dā me karaṇa svāhā |</p>\n\n  </body>\n\n"
+  "file_title": "dhvajāgrakeyūrādhāriṇī",
+  "file_title_normal": "dhvajagrakeyuradharini",
+  "metadata": {
+    "original_title": "Dhvajāgrakeyūrādhāriṇī",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31"
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Dhvajāgrakeyurādhāraṇī"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "dhvajāgrakeyurā dhāraṇī"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "namo ratna trayāya |"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "namo bhagavate dhvajāgra rājāya tathāgatāya arhate samyak sambuddhāya tadyathā |"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "jaya jaya vijaya vijaya jayavāhini-sam gari prabhañjani prabhañjani sarva śatruṇām jambhaya jambhaya stambhaya stambhaya mohaya mohaya bhagavati jayavāhini mātha mātha pra-mātha pra-mātha grasa grasa hasa hasa huṃ huṃ lambodari trinetre caturmukhe caturvaktre catur daṃṣṭre catur bhuje asi musala khaḍga triśūla vajra dhāraṇīrakṣa rakṣa mām |"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "bhagavati hana hana daha daha paca paca mātha mātha pramātha pramātha huṃ huṃ phaṭphaṭbhañja bhañja sarva śatrūṇām |"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "dhvajāgra keyure tisṭhat tisṭhat triṭa ulkā dhāraṇi trailokyanātha vidhvaṃśaya\npara sainya rakṣa rakṣa māṃ cala cala cili cili culu culu kala kala kili kili kulu kulu muncaṭṭa hāsaya vidhvaṃśaya parasainya bhramaya |"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "buddha satyena dharma satyena saṃgha satyena satya vādināṃ satyena buddha satyāmatikrama dharma satyāṃ atikrama saṃgha satyāṃ atikrama satya vādinaṃ satyamatikrama |"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "lambodare kuṭṭa kuṭṭa kuṭṭya kuṭṭya rudra mānaya biṣṇu mānaya candra sūrya mānaya trailokya adhipatya mānaya sarva devo mānaya sarva yakṣa rākṣasa gandharva kinnara mahoraga mānaya vidhvamsaya mama sarva śatru vaḥ rangha rangha ranghāpaya ranghāpaya jvala jvala puṣpa mālini liḍhi liḍhi triṭa triṭa bhṛkuti mukhaḥ parasainya kurucchedana karaṇha ha hi hi hu hu he he riṇi riṇi riṇā māte jayantu dhvaje |"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "buddhāvalokite rakṣa rakṣa mama bhagavatāvalokite svāhā | guṇa rāja prabhāse svāhā | suryārka vimale svāhā | sarva graha nakṣatra dā me karaṇa svāhā |"
+    }
+  ]
 }

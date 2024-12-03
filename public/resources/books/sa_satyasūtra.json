@@ -1,4 +1,160 @@
 {
-  "title": "sa_satyasūtra",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Satyasūtra</p>\n\n<p>1 śrāvastyāṃ nidānam /\n2 ye kecid bhikṣavaḥ samyag eva śraddhayā agārād anagārikāṃ pravrajaṃti sarve te caturṇām ā<hi rend='it'>rya</hi>satyānāṃ jñānāya /\n3 katameṣāṃ caturṇām /\n4 duḥkham āryasatyasya duḥkhasamudayasya duḥkhanirodhasya duḥkha<hi rend='it'>n</hi>i<hi rend='it'>r</hi>odhagāminī pratipad āryasatyasya jñānāya /\n5 tasmāt tarhi caturṇām āryasatyānām anabhisamitānām abhisamayāya atimātraṃ tīvra<hi rend='it'>ccha</hi>ndo vyāyāmaś cotsuḍhiś cāprativāṇiś ca smṛtyā saṃprajanyena ca yogaḥ karaṇīyaḥ /\n<hi rend='blue'>MS 'abhisamayāya adhimātra tivraś ca vyāyāmaś' for 'abhisamayāya adhimātraṃ tīvraś chandaś ca vyāyāmaś'?</hi>\n6 katameṣāṃ caturṇām /\n7 duḥkham ā<hi rend='it'>rya</hi>satyasya duḥkhasamudayasya <hi rend='it'>duḥkhanirodhasya</hi> duḥkhanirodhagāminī pratipad <hi rend='it'>ārya</hi>satyasya i<hi rend='it'>ti</hi> /\n8 + + .o + .ai .r. + <hi rend='it'>sa</hi>tyasūtraṃ samāptaḥ /\n9 rakṣaṃ bhavatu // + + + syasya svāhā //</p>\n\n  </body>\n\n"
+  "file_title": "satyasūtra",
+  "file_title_normal": "satyasutra",
+  "metadata": {
+    "original_title": "Satyasūtra",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "E. Waldschmidt: \"Kleine Brāhmī-Schriftrolle\". In: Nachrichten der Akademie der Wissenschaften in Göttingen 1959, pp. 18-19 [reprint in: E. Waldschmidt. Von Ceylon bis Turfan, Schriften zur Geschichte, Literatur, Religion und Kunst des indischen Kulturraumes (Festgabe zum 70. Geburtstag). Göttingen 1967, pp. 388-389]."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Satyasūtra"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "1 śrāvastyāṃ nidānam /\n2 ye kecid bhikṣavaḥ samyag eva śraddhayā agārād anagārikāṃ pravrajaṃti sarve te caturṇām ā",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "rya"
+        },
+        {
+          "tag": "text",
+          "text": "satyānāṃ jñānāya /\n3 katameṣāṃ caturṇām /\n4 duḥkham āryasatyasya duḥkhasamudayasya duḥkhanirodhasya duḥkha"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "n"
+        },
+        {
+          "tag": "text",
+          "text": "i"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "r"
+        },
+        {
+          "tag": "text",
+          "text": "odhagāminī pratipad āryasatyasya jñānāya /\n5 tasmāt tarhi caturṇām āryasatyānām anabhisamitānām abhisamayāya atimātraṃ tīvra"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ccha"
+        },
+        {
+          "tag": "text",
+          "text": "ndo vyāyāmaś cotsuḍhiś cāprativāṇiś ca smṛtyā saṃprajanyena ca yogaḥ karaṇīyaḥ /"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "blue"
+          },
+          "text": "MS \"abhisamayāya adhimātra tivraś ca vyāyāmaś\" for \"abhisamayāya adhimātraṃ tīvraś chandaś ca vyāyāmaś\"?"
+        },
+        {
+          "tag": "text",
+          "text": "6 katameṣāṃ caturṇām /\n7 duḥkham ā"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "rya"
+        },
+        {
+          "tag": "text",
+          "text": "satyasya duḥkhasamudayasya"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "duḥkhanirodhasya"
+        },
+        {
+          "tag": "text",
+          "text": "duḥkhanirodhagāminī pratipad"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ārya"
+        },
+        {
+          "tag": "text",
+          "text": "satyasya i"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ti"
+        },
+        {
+          "tag": "text",
+          "text": "/\n8 + + .o + .ai .r. +"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "sa"
+        },
+        {
+          "tag": "text",
+          "text": "tyasūtraṃ samāptaḥ /\n9 rakṣaṃ bhavatu // + + + syasya svāhā //"
+        }
+      ]
+    }
+  ]
 }

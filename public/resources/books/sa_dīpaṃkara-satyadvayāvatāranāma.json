@@ -1,4 +1,535 @@
 {
-  "title": "sa_dīpaṃkara-satyadvayāvatāranāma",
-  "body": "<body xmlns='http://www.tei-c.org/ns/1.0'>\n\n<p>Satyadvayāvatāranāma (Sda)</p>\n\n<p>// namo mahākāruṇikāya //</p>\n\n<lg>\n<l>dve satye samupāśritya buddhānāṃ dharmadeśanā /</l>\n<l>lokasaṃvṛtisatyaṃ ca satyaṃ ca paramārthataḥ // Sda_1 //</l>\n</lg>\n\n<lg>\n<l>saṃvṛttirmanyate dvedhā mithyā ca tathatā tathā /</l>\n<l>ādyā dvidhodacandraśca kusiddhāntavitarkaṇā // Sda_2 //</l>\n</lg>\n\n<lg>\n<l>avicāraikaramyā ca vināśotpādadharmiṇī /</l>\n<l>arthakriyāsamarthā ca tathatāsaṃvṛtirmatā // Sda_3 //</l>\n</lg>\n\n<lg>\n<l>eka evaparo hyarthaḥ paraiśca dvividho mataḥ /</l>\n<l>na kācid dharmatā siddhā kuto dvitryādikaṃ bhavet // Sda_4 //</l>\n</lg>\n\n<lg>\n<l>anutpādanirodhādi deśanāvākyalakṣitam /</l>\n<l>paramārthābhinnaśīlatvān naiva dharmā na dharmatā // Sda_5 //</l>\n</lg>\n\n<lg>\n<l>śūnyatāyāṃ vibhedastu kiñcinmātraṃ na vidyate /</l>\n<l>nirvikalpatayā bodhe śūnyatādṛṣṭirucyate // Sda_6 //</l>\n</lg>\n\n<lg>\n<l>uktaṃ sūtre sugambhīre taddarśanamadarśanam /</l>\n<l>tatra draṣṭā na dṛśyaṃ cāpyanādinidhanaṃ śivam // Sda_7 //</l>\n</lg>\n\n<lg>\n<l>nirvikalpaṃ nirālambaṃ bhāvābhāvavivarjitam /</l>\n<l>anāśrayāpratiṣṭhānam atulyaṃ nirgatāgatam // Sda_8 //</l>\n</lg>\n\n<lg>\n<l>anirvācyamanābhāsaṃ nirvikāramasaṃskṛtam /</l>\n<l>yogigamyamidaṃ kleśajñeyāvaraṇavarjitam // Sda_9 //</l>\n</lg>\n\n<lg>\n<l>pratyakṣamanumānañca taddvayaṃ bauddhasammatam /</l>\n<l>ubhābhyāṃ śūnyatā gamyetyarvāgdṛṅmohabhāṣitam // Sda_10 //</l>\n</lg>\n\n<lg>\n<l>prasajyeddharmatājñānaṃ tīrthike śrāvake 'pi ca /</l>\n<l>vijñānināñca kiṃ vācyaṃ mādhyamike 'viruddhatā // Sda_11 //</l>\n</lg>\n\n<lg>\n<l>tarhi sarve 'pi siddhāntā mānameyatayā samāḥ /</l>\n<l>sarvatarkaviruddhatvān mānameyāpi dharmatā // Sda_12 //</l>\n</lg>\n\n<lg>\n<l>bāhulyena kathaṃ na syāt pratyakṣaṃ cānumā vṛthā /</l>\n<l>tīrthyavādanivṛtyarthaṃ vidvadbhiḥ kṛtayaḥ kṛtāḥ // Sda_13 //</l>\n</lg>\n\n<lg>\n<l>savikalpāvikalpābhyāṃ jñānābhyāṃ nāvagamyate /</l>\n<l>āgame 'pi sphuṭaṃ vidvānācāryo bhavya āha ca // Sda_14 //</l>\n</lg>\n\n<lg>\n<l>śūnyatāvagatā kena vyākṛtā yā tathāgataiḥ /</l>\n<l>nāgāntevāsicandro hi dharmatāsatyadarśakaḥ // Sda_15 //</l>\n</lg>\n\n<lg>\n<l>tataḥ paramparāmnāyairdharmatāsatyagamyatā /</l>\n<l>dharmaskandhasahasrāṇi catvāryuktānyaśīti ca // Sda_16 //</l>\n</lg>\n\n<p>dharmatāntargataṃ sarvam muktistu śūnyatābodhes\n<l>tadarthā śeṣabhāvanā tathyasaṃvṛtimādhūya // Sda_17 //</l></p>\n\n<lg>\n<l>śūnyatābhyasane sati saṃvṛtihetoḥpuṇyādeḥ /</l>\n<l>paralokācca vañcyate viviktārthamajānānaḥ // Sda_18 //</l>\n</lg>\n\n<lg>\n<l>svalpaśrutisamāśritaḥ yo naraḥ puṇyakṛnnāsti /</l>\n<l>naṣṭaḥ kāpuruṣastu saḥ vināśayati durdṛṣṭā // Sda_19 //</l>\n</lg>\n\n<lg>\n<l>śūnyatā mandamedhasam candrācārya uvācaivam /</l>\n<l>upāyabhūtaṃ vyavahārasatyamupeyabhūtaṃ paramārthasatyam // Sda_20 //</l>\n</lg>\n\n<lg>\n<l>dvayorvibhedaṃ na hi veda yo sa vrajedapāyaṃ viparītabodhāt /</l>\n<l>vyavahāramanāgamya paramārtho na deśyate // Sda_21 //</l>\n</lg>\n\n<lg>\n<l>tathyasaṃvṛtisopānamantareṇa vipaścitaḥ /</l>\n<l>tattvaprāsādaśikharārohaṇaṃ na hi yujyate // Sda_22 //</l>\n</lg>\n\n<lg>\n<l>yathāyaṃ saṃvṛterbhāso yuktyā kiñcinna labhyate /</l>\n<l>paramārthastvalabdhatvam ādisaṃsthitadharmatā // Sda_23 //</l>\n</lg>\n\n<lg>\n<l>hetupratyayajanyatvāt saṃvṛtirbhāsavanmatā /</l>\n<l>ayuktaṃ śodhitum cet kairjalacandrādivinirmitam // Sda_24 //</l>\n</lg>\n\n<lg>\n<l>nānāpratyayajanyatvāt siddho bhāso 'khilastataḥ /</l>\n<l>pratyayānāṃ tu vicchedātsaṃvṛttyāpi na sambhavaḥ // Sda_25 //</l>\n</lg>\n\n<lg>\n<l>evaṃ dṛṣṭerasaṃmohāj jāte caryāviśodhane /</l>\n<l>unmārge 'gamanaṃ kṛtvākaniṣṭhaṃ sthānamāpnuyāt // Sda_26 //</l>\n</lg>\n\n<lg>\n<l>āyuṣyamalpaṃ bāhulāśca vidyā āyuḥpramāṇaṃ ca kiyanna vidmaḥ /</l>\n<l>svābhīṣṭameva pratilambhanīyaṃ haṃsairyathā kṣīramivāmbumadhyāt // Sda_27 //</l>\n</lg>\n\n<lg>\n<l>arvāgdṛśā mohavaśena cāpi kṣamo na satyadvayanirṇaye 'pi /</l>\n<l>uktīrgurūṇāmiha sampratītya nyastaṃ dvayaṃ nāgamataṃ hi satyam // Sda_28 //</l>\n</lg>\n\n<lg>\n<l>rājño 'nurodhena suvarṇadvīpe kṛte 'tra śrāddho yadi vā jano 'dya /</l>\n<l>gṛhṇātu samyak suparīkṣaṇena na śraddhayā naiva ca gauraveṇa // Sda_29 //</l>\n</lg>\n\n<lg>\n<l>sauvarṇarājena guroḥphalena saṃpreṣito devamatirhi bhikṣuḥ /</l>\n<l>tasyāgrahāt satyadvayāvatāro yuktyā sudhībhistviha vīkṣaṇīyaḥ // Sda_30 //</l>\n</lg>\n\n<p>ācāryadīpaṅkaraśrījñānaviracitaḥ satyadvayāvatāraḥ samāptaḥ /</p>\n\n<p>tenaiva paṇḍitena anuvādakena vīryasiṃhena cānūdya saṃśodhya ca nirṇītaḥ /</p>\n\n  </body>\n\n"
+  "file_title": "dīpaṃkara-satyadvayāvatāranāma",
+  "file_title_normal": "dipamkara-satyadvayavataranama",
+  "metadata": {
+    "original_title": "Satyadvayāvatāranāma",
+    "author": "Dīpaṃkara",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Sonam Rabten: Satyadvayavataradigrantha catustayam. Sarnath : Central Institute of High Tibetan Studies (CIHTS), 2000, pp. 91-94."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Satyadvayāvatāranāma (Sda)"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// namo mahākāruṇikāya //"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dve satye samupāśritya buddhānāṃ dharmadeśanā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lokasaṃvṛtisatyaṃ ca satyaṃ ca paramārthataḥ // Sda_1 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃvṛttirmanyate dvedhā mithyā ca tathatā tathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ādyā dvidhodacandraśca kusiddhāntavitarkaṇā // Sda_2 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avicāraikaramyā ca vināśotpādadharmiṇī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "arthakriyāsamarthā ca tathatāsaṃvṛtirmatā // Sda_3 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eka evaparo hyarthaḥ paraiśca dvividho mataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na kācid dharmatā siddhā kuto dvitryādikaṃ bhavet // Sda_4 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anutpādanirodhādi deśanāvākyalakṣitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paramārthābhinnaśīlatvān naiva dharmā na dharmatā // Sda_5 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyatāyāṃ vibhedastu kiñcinmātraṃ na vidyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirvikalpatayā bodhe śūnyatādṛṣṭirucyate // Sda_6 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uktaṃ sūtre sugambhīre taddarśanamadarśanam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatra draṣṭā na dṛśyaṃ cāpyanādinidhanaṃ śivam // Sda_7 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirvikalpaṃ nirālambaṃ bhāvābhāvavivarjitam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anāśrayāpratiṣṭhānam atulyaṃ nirgatāgatam // Sda_8 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anirvācyamanābhāsaṃ nirvikāramasaṃskṛtam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yogigamyamidaṃ kleśajñeyāvaraṇavarjitam // Sda_9 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyakṣamanumānañca taddvayaṃ bauddhasammatam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ubhābhyāṃ śūnyatā gamyetyarvāgdṛṅmohabhāṣitam // Sda_10 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prasajyeddharmatājñānaṃ tīrthike śrāvake 'pi ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñānināñca kiṃ vācyaṃ mādhyamike 'viruddhatā // Sda_11 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tarhi sarve 'pi siddhāntā mānameyatayā samāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvatarkaviruddhatvān mānameyāpi dharmatā // Sda_12 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bāhulyena kathaṃ na syāt pratyakṣaṃ cānumā vṛthā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tīrthyavādanivṛtyarthaṃ vidvadbhiḥ kṛtayaḥ kṛtāḥ // Sda_13 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "savikalpāvikalpābhyāṃ jñānābhyāṃ nāvagamyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āgame 'pi sphuṭaṃ vidvānācāryo bhavya āha ca // Sda_14 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyatāvagatā kena vyākṛtā yā tathāgataiḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāgāntevāsicandro hi dharmatāsatyadarśakaḥ // Sda_15 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tataḥ paramparāmnāyairdharmatāsatyagamyatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmaskandhasahasrāṇi catvāryuktānyaśīti ca // Sda_16 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "dharmatāntargataṃ sarvam muktistu śūnyatābodhes",
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadarthā śeṣabhāvanā tathyasaṃvṛtimādhūya // Sda_17 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyatābhyasane sati saṃvṛtihetoḥpuṇyādeḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paralokācca vañcyate viviktārthamajānānaḥ // Sda_18 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svalpaśrutisamāśritaḥ yo naraḥ puṇyakṛnnāsti /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "naṣṭaḥ kāpuruṣastu saḥ vināśayati durdṛṣṭā // Sda_19 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śūnyatā mandamedhasam candrācārya uvācaivam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upāyabhūtaṃ vyavahārasatyamupeyabhūtaṃ paramārthasatyam // Sda_20 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvayorvibhedaṃ na hi veda yo sa vrajedapāyaṃ viparītabodhāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyavahāramanāgamya paramārtho na deśyate // Sda_21 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathyasaṃvṛtisopānamantareṇa vipaścitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tattvaprāsādaśikharārohaṇaṃ na hi yujyate // Sda_22 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathāyaṃ saṃvṛterbhāso yuktyā kiñcinna labhyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paramārthastvalabdhatvam ādisaṃsthitadharmatā // Sda_23 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hetupratyayajanyatvāt saṃvṛtirbhāsavanmatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ayuktaṃ śodhitum cet kairjalacandrādivinirmitam // Sda_24 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nānāpratyayajanyatvāt siddho bhāso 'khilastataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyayānāṃ tu vicchedātsaṃvṛttyāpi na sambhavaḥ // Sda_25 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ dṛṣṭerasaṃmohāj jāte caryāviśodhane /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "unmārge 'gamanaṃ kṛtvākaniṣṭhaṃ sthānamāpnuyāt // Sda_26 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āyuṣyamalpaṃ bāhulāśca vidyā āyuḥpramāṇaṃ ca kiyanna vidmaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svābhīṣṭameva pratilambhanīyaṃ haṃsairyathā kṣīramivāmbumadhyāt // Sda_27 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "arvāgdṛśā mohavaśena cāpi kṣamo na satyadvayanirṇaye 'pi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uktīrgurūṇāmiha sampratītya nyastaṃ dvayaṃ nāgamataṃ hi satyam // Sda_28 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rājño 'nurodhena suvarṇadvīpe kṛte 'tra śrāddho yadi vā jano 'dya /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gṛhṇātu samyak suparīkṣaṇena na śraddhayā naiva ca gauraveṇa // Sda_29 //"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sauvarṇarājena guroḥphalena saṃpreṣito devamatirhi bhikṣuḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasyāgrahāt satyadvayāvatāro yuktyā sudhībhistviha vīkṣaṇīyaḥ // Sda_30 //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ācāryadīpaṅkaraśrījñānaviracitaḥ satyadvayāvatāraḥ samāptaḥ /"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "tenaiva paṇḍitena anuvādakena vīryasiṃhena cānūdya saṃśodhya ca nirṇītaḥ /"
+    }
+  ]
 }

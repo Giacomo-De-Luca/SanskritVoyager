@@ -1,0 +1,1604 @@
+{
+  "file_title": "ādiśeṣa-paramārthasāra",
+  "file_title_normal": "adisesa-paramarthasara",
+  "metadata": {
+    "original_title": "Paramārthasāra",
+    "author": "Ādiśeṣa",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Daniele Cuneo",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Daniele Cuneo",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2019-05-13"
+  },
+  "body": [
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_1"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paraṃ parasyāḥ prakṛter anādim ekaṃ niviṣṭaṃ bahudhā guhāsu |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvālayaṃ sarvacarācarasthaṃ tvām eva viṣṇuṃ śaranaṃ prapadye ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_2"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmāmburāśau nikhilo 'pi loko magno 'pi nācāmati nekṣate ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āścaryam etan mṛgatṛṣṇikābhe bhavāmburāśau ramate mṛṣaiva ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_3"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "garbhagṛhavāsasambhavajanmajarāmaraṇaviprayogābdhau |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jagad ālokya nimagnaṃ prāha guruṃ prāñjaliḥ śiṣyaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_4"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tvaṃ sāṅgavedavettā bhettā saṃśayagaṇasya ṛtavaktā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃsārārṇavataraṇapraśnaṃ pṛcchāmy ahaṃ bhagavan ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_5"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dīrghe 'smin saṃsāre saṃsarataḥ kasya kena sambandhaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karma śubhāśubhaphaladam anubhavati gatāgatair iha kaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_6"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmaguṇajālabaddho jīvaḥ saṃsarati kośakāra iva |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mohāndhakāragahanāt tasya kathaṃ bandhanān mokṣaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_7"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guṇapuruṣavibhāgajñe dharmādharmau na bandhakau bhavataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti gaditapūrvavākyaiḥ prakṛtiṃ puruṣaṃ ca me brūhi ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_8"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ity ādhāro bhagavān pṛṣṭaḥ śiṣyeṇa taṃ sa hovāca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viduṣām apy atigahanaṃ vaktavyam idaṃ śṛṇu tathāpi tvam ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_9"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "satyam iva jagad asatyaṃ mūlaprakṛter idaṃ kṛtaṃ yena |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "taṃ praṇipatyopendraṃ vakṣye paramārthasāram idam ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_10"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avyaktād aṇḍam abhūd aṇḍād brahmā tataḥ prajāsargaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyāmayī pravṛttiḥ saṃhriyata iyaṃ punaḥ kramaśaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_11"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyāmayo 'py acetā guṇakaraṇagaṇaḥ karoti karmāṇi |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadadhiṣṭātā dehī sacetano 'pi na karoti kiṃcid api ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_12"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadvad acetanam api san nikaṭasthe bhrāmake bhramati loham |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvat karaṇasamūhaś ceṣṭati cidadhiṣṭhite dehe ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_13"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadvat savitary udite karoti karmāṇi jīvaloko 'yam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na ca tāni karoti ravir na kārayati tadvad ātmāpi ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_14"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "manaso 'haṃkāravimūrcchitasya caitanyabodhitasyeha |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "puruṣābhimānasukhaduḥkhabhāvanā bhavati mūḍhasya ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_15"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kartā bhoktā draṣṭāsmi karmaṇām uttamādīnām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iti tat svabhāvavimalo 'bhimanyate sarvago 'py ātmā ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_16"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nānāvidhavarṇānāṃ varṇaṃ dhatte yathāmalaḥ sphaṭikaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvad upādher guṇabhāvitasya bhāvaṃ vibhur dhatte ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_17"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "gacchati gacchati salile dinakarabimbaṃ sthite sthitiṃ yāti |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "antaḥkaraṇe gacchati gacchaty ātmāpi tadvad iha ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_18"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rāhur adṛśyo 'pi yathā śaśibimbasthaḥ prakāśate jagati |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvagato 'pi tathātmā buddhistho dṛśyatām eti ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_19"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvagataṃ nirupamam advaitaṃ tac cetasā gamyam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yad buddhigataṃ brahmopalabhyate śiṣya bodhyaṃ tat ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_20"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhimano'haṃkārās tanmātrendriyagaṇāś ca bhūtagaṇaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃsārasargaparirakṣaṇakṣamāḥ prākṛtā heyāḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_21"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmādharmau sukhaduḥkhakalpanā svarganarakavāsaś ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utpattinidhanavarṇāśramā na santīha paramārthe ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_22"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛgatṛṣṇāyām udakaṃ śuktau rajataṃ bhujaṃgamo rajjvām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "taimirikacandrayugavad bhrāntaṃ nikhilaṃ jagadrūpam ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_23"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadvad dinakara eko vibhāti salilāśayeṣu sarveṣu |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvat sakalopadhiṣv avasthito bhāti paramātmā ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_24"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kham iva ghaṭādiṣv antar bahiḥ sthitaṃ brahma sarvapiṇḍeṣu |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dehe 'ham ity anātmani buddhiḥ saṃsārabandhāya ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_25"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvavikalpanahīnaḥ śuddho buddho 'jarāmaraḥ śāntaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "amalaḥ sakṛd vibhātaś cetana ātmā khavad vyāpī ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_26"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rasaphāṇitaśarkarikāguḍakhaṇḍā vikṛtayo yathaivekṣoḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvad avasthābhedāḥ paramātmany eva bahurūpāḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_27"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñānāntaryāmiprāṇavirāḍdehajātipiṇḍāntāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyavahārās tasyātmany ete 'vasthāviśeṣāḥ syuḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_28"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rajjvāṃ nāsti bhujaṃgaḥ sarpabhayaṃ bhavati hetunā kena |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvad dvaitavikalpabhrāntir avidyā na satyam idam ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_29"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "etat tad andhakāraṃ yad anātmany ātmatā bhrāntyā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na vidanti vāsudevaṃ sarvātmānaṃ narā mūḍhāḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_30"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāṇādyanantabhedair ātmānaṃ saṃvitatya jālam iva |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃharati vāsudevaḥ svavibhūtyā krīḍamāna iva ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_31"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tribhir eva viśvataijasaprājñais tair ādimadhyanidhanākhyaiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jāgratsvapnasuṣuptair bhramabhūtaiś chāditaṃ turyam ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_32"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mohayatīvātmānaṃ svamāyayā dvaitarūpayā devaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upalabhate svayam evaṃ guhāgataṃ puruṣam ātmānam ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_33"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jvalanād dhūmodgatibhir vividhākṛtir ambare yathā bhāti |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvad viṣṇau sṛṣṭiḥ svamāyayā dvaitavistarā bhāti ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_34"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śānta iva manasi sānte hṛṣṭe hṛṣṭa iva mūḍha iva mūḍhe |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyavahārastho na punaḥ paramārthata īśvaro bhavati ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_35"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jaladaharadhūmodgatibhir malinīkriyate yathā na gaganatalam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvat prakṛtivikārair aparāmṛṣṭaḥ paraḥ puruṣaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_36"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eksaminn api ca ghaṭe dhūmādimalavṛte śeṣāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na bhavanti malopetā yadvad jīvo 'pi tadvad iha ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_37"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dehendriyeṣu niyatāḥ karma guṇāḥ kurvate svabhogārtham |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāhaṃ kartā na mameti jānataḥ karma naiva badhnāti ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_38"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anyaśarīreṇa kṛtaṃ karma bhaved yena deha utpannaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tad avaśyaṃ bhoktavyaṃ bhogād eva kṣayo 'sya nirdiṣṭaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_39"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāgjñānotpatticitaṃ yat karma jñānaśikhiśikhālīḍham |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bījam iva dahanadagdhaṃ janmasamarthaṃ na tad bhavati ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_40"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānotpatter ūrdhvaṃ kriyamānaṃ karma yat tad api nāma |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na śliṣyati kartāraṃ puṣkarapattraṃ yathā vāri ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_41"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vāgdehamānasair iha karmacayaḥ kriyata iti buddhāḥ prāhuḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eko 'pi nāham eṣāṃ kartā tatkarmaṇāṃ nāsmi ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_42"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmaphalabījanāśāj janmavināśo na cātra saṃdehaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhvaivam apagatatamāḥ savitevābhāti bhārūpaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_43"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadvad iṣīkātūlaṃ pavanoddhūtaṃ hi daśa diśo yāti |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "brahmaṇi tattvajñānāt tathaiva karmāṇi tattvavidaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_44"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣīrād uddhṛtam ājyaṃ kṣiptaṃ yadvan na pūrvavat tasmin |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prakṛtiguṇebhyas tadvat pṛthakkṛtaś cetano nātmā ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_45"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guṇamayamāyāgahanaṃ nirdhūya yathā tamaḥ sahasrāṃśuḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bāhyābhyantaracārī saindhavaghanavad bhavet puruṣaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_46"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadvad deho 'vayavā mṛd eva tasya vikārajātāni |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvat sthāvarajaṅgamam advaitaṃ dvaitavad bhāti ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_47"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekasmāt kṣetrajñād bahvyaḥ kṣetrajñajātayo jātāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lohagatād iva dahanāt samantato viṣphuliṅgagaṇāḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_48"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "te guṇasaṃgamadoṣād baddhā iva dhānyajātayaḥ svatuṣaiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "janma labhante tāvad yāvan na jñānavahninā dagdhāḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_49"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "triguṇā caitanyātmani sarvagate 'vasthite 'khilādhāre |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kurute sṛṣṭim avidyā sarvatra spṛśyate tayā nātmā ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_50"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rajjvāṃ bhujaṃgahetuḥ prabhavavināśau yathā na staḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jagadutpattivināśau na ca kāraṇam asti tadvad iha ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_51"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "janmavināśanagamanāgamamalasambandhavarjito nityam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ākāśa iva ghaṭādiṣu sarvātmā sarvadopetaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_52"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmaśubhāśubhaphalasukhaduḥkhair yogo bhavaty upādhīnām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatsaṃsargād bandhas taskarasaṃgād ataskaravad ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_53"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dehaguṇakaraṇagocarasaṃgāt puruṣasya yāvad iha bhāvaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tāvan māyāpāśaiḥ saṃsāre baddha iva bhāti ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_54"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mātṛpitṛputrabāndhavadhanabhogavibhāgasaṃmūḍhāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "janmajarāmaraṇamaye cakra iva bhrāmyate jantuḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_55"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "lokavyvahārakṛtāṃ ya ihāvidyām upāsate mūḍhāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "te jananamaraṇadharmāṇo 'ndhaṃ tama etya khidyante ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_56"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "himaphenabudbudā iva jalasya dhūmo yathā vahneḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvat svabhāvabhūtā māyaiṣā kīrtitā viṣṇoḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_57"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ dvaitavikalpāṃ bhramasvarūpāṃ vimohanīṃ māyām |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utsṛjya sakalaniṣkalam advaitaṃ bhāvayed brahma ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_58"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadvat salile salilaṃ kṣīre kṣiraṃ samīraṇe vāyuḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvad brahmaṇi vimale bhāvanayā tanmayatvam upayāti ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_59"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "itthaṃ dvaitasamūhe bhāvanayā brahmabhūyam upayāte |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ko mohaḥ kaḥ śokaḥ sarvaṃ brahmāvalokayataḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_60"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vigatopādhiḥ sphaṭikaḥ svaprabhayā bhāti nirmalo yadvat |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cidīpaḥ svaprabhayā tathā vibhātīha nirupādhiḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_61"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "guṇagaṇakaraṇaśarīraprāṇais tanmātrajātisukhaduḥkhaiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aparāmṛṣṭo vyāpī cidrūpo 'yaṃ sadā vimalaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_62"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "draṣṭā śrotā ghrātā sparśayitā rasayitā grahītā ca |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dehī dehendriyadhīvivarjitaḥ syān na kartāsau ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_63"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eko naikatrāvasthito 'ham aiśvaryayogato vyāptaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ākāśavad akhilam idaṃ na kaścid apy atra saṃdehaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_64"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmaivedaṃ sarvaṃ niṣkalasakalaṃ yadaiva bhāvayati |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mohagahanād viyuktas tadaiva parameśvarībhūtaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_65"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yad yat siddhāntāgamatarkeṣu prabruvanti rāgāndhāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anumodāmas tat tat teṣāṃ sarvātmavādadhiyā ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_66"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvākāro bhagavān upāsyate yena yena bhāvena |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "taṃ taṃ bhāvaṃ bhūtvā cintāmaṇivat samabhyeti ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_67"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nārāyaṇam ātmānaṃ jñātvā sargasthitipralayahetum |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvajñaḥ sarvagataḥ sarvaḥ sarveśvaro bhavati ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_68"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmajñas tarati śucaṃ yasmād vidvān bibheti na kutaścit |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mṛtyor api maraṇabhayaṃ na bhavaty anyat kutas tasya ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_69"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣayavṛddhivadhyaghātakabandhanamokṣair vivarjitaṃ nityam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paramārthatattvam etad yad ato 'nyat tad anṛtaṃ sarvam ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_70"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ prakṛtiṃ puruṣaṃ vijñāya nirastakalpanājālaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ātmārāmaḥ praśamaṃ samāsthitaḥ kevalībhavati ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_71"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nalakadaliveṇuvāṇā naśyanti yathā svapuṣpam āsādya |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvat svabhāvabhūtāḥ svabhāvatāṃ prāpya naśyanti ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_72"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhinne 'jñānagranthau chinne saṃśayagaṇe śubhe kṣīṇe |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dagdhe ca janmabīje paramātmānaṃ hariṃ yāti ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_73"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mokṣasya naiva kiṃcid dhāmāsti na cāpi gamanam anyatra |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ajñānamayagranther bhedo yas taṃ vidur mokṣam ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_74"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhvaivam asatyam idaṃ viṣṇor māyātmakaṃ jagadrūpam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vigatadvandvopādhikabhogāsaṃgo bhavec chāntaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_75"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhvā vibhaktāṃ prakṛtiṃ puruṣaḥ saṃsāramadhyago bhavati |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirmuktaḥ sarvakarmabhir ambujapattraṃ yathā salilaiḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_76"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aśnan yadvā tadvā saṃvīto yena kenacic chāntaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yatra kvacana ca śāyī vimucyate sarvabhūtātmā ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_77"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "hayamedhasaharāṇy apy atha kurute brahmaghātalakṣāṇi |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paramārthavin na puṇyair na ca pāpaiḥ spṛśyate vimalaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_78"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "madakopaharṣamatsaraviṣādabhayaparuṣavarjy avāgbuddhiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "niḥstotravaṣaṭkāro jaḍavad vicared agādhamatiḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_79"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utpattināśavarjitam evaṃ paramārtham upalabhya |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtakṛtyasaphalajanmā sarvagatas tiṣṭhati yatheṣṭam ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_80"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vyāpinam abhinnam itthaṃ sarvātmānaṃ vidhūtanānātvam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirupamaparamānandaṃ yo veda sa tanmayo bhavati ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_81"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tīrthe śvapacagṛhe vā naṣṭasmṛtir api parityajan deham |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jñānasamakālamuktaḥ kaivalyaṃ yāti hataśokaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_82"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "puṇyāya tīrthasevā nirayāya śvapacasadananidhanagatiḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "puṇyāpuṇyakalaṃkasparśābhāve tu kiṃ tena ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_83"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vṛkṣāgrāc cyutapādo yadvad anicchan naraḥ kṣitau patati |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadvad guṇapuruṣajño 'nicchann api kevalībhavati ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_84"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paramārthamārgasādhanam ārabhyāprāpya yogam api nāma |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "suralokabhogabhogī muditamanā modate suciram ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_85"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viṣayeṣu sārvabhaumaḥ sarvajanaiḥ pūjyate yathā rājā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhuvaneṣu sarvadevair yogabhraṣṭas tathā pūjyaḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_86"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mahatā kālena mahān mānuṣyaṃ prāpya yogam abhyasya |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāpnoti divyam amṛtaṃ yat tat paramaṃ padaṃ viṣṇoḥ ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "PAS_87"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vedāntaśāstram akhilaṃ vilokya śeṣas tu jagadādhāraḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "āryapañcāśītyā babandha paramārthasāram idam ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "iti paramārthasāraṃ samāptam ||"
+    }
+  ]
+}

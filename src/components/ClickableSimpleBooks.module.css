@@ -15,6 +15,17 @@
   }
   
   
+.bookTitle {
+
+  font-family: 'LibertinusSans', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  scroll-margin-top: 60px;
+  
+}
 
   
   
@@ -22,4 +33,113 @@
     color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-dark-4)); /* Adjust the colors as needed  
     
     var(--mantine-color-red-4)*/
+  }
+
+  .lineContainer {
+    position: relative;
+    margin-bottom: 0.25rem;
+    display: inline;
+  }
+  
+  /* Tag-specific styles */
+  .lg {
+    display: block;
+    margin: 1.5rem 0;
+    padding-left: 1rem;
+  }
+  
+  .l {
+    display: block;
+    margin-bottom: 0.5rem;
+    padding-left: 2rem;
+  }
+  
+  .p {
+    margin-bottom: 1rem;
+    line-height: 1.6;
+  }
+  
+  .hi {
+    display: inline;
+  }
+  
+  /* Text formatting */
+  .bold {
+    font-weight: bold;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  /* Word interactions */
+  .word {
+    cursor: pointer;
+    transition: color 0.2s ease;
+  }
+  
+  .selectedWord {
+    color: orange;
+  }
+  
+  .hoveredWord {
+    color: gray;
+  }
+  
+  /* Word info display */
+  .wordInfo {
+    padding: 0.5rem 0 0.5rem 2rem;
+    margin: 0.25rem 0;
+    border-left: 2px solid #eee;
+    color: #666;
+  }
+  
+  .loaderContainer {
+    display: flex;
+    justify-content: flex-start;
+    padding: 0.5rem 0;
+  }
+  
+  /* Existing metadata styles remain the same */
+  .bookContainer {
+    padding: 1rem;
+  }
+  
+  .bookTitle {
+    margin-bottom: 0.5rem;
+    font-size: 2rem;
+    line-height: 1.2;
+  }
+  
+  .authorLine {
+    font-family: 'LibertinusSans', sans-serif;
+    font-size: 1.125rem;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    text-indent: 10%; /* Indent the first line by 10% of the containing block's width 
+    border-bottom: 1px solid light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-7));*/
+    padding-bottom: 1.5rem;
+    
+
+
+  }
+  
+  .metadataAccordion {
+    margin-bottom: 2rem;
+  }
+  
+  .metadataItem {
+    margin-bottom: 0.75rem;
+  }
+  
+  .contributorsList {
+    margin-top: 0.5rem;
+    padding-left: 1rem;
+  }
+  
+  .contributorItem {
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
   }

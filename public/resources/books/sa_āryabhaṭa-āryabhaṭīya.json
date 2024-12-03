@@ -1,0 +1,2729 @@
+{
+  "file_title": "āryabhaṭa-āryabhaṭīya",
+  "file_title_normal": "aryabhata-aryabhatiya",
+  "metadata": {
+    "original_title": "Āryabhaṭīya",
+    "author": "Āryabhaṭa",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "T. Hayashi",
+        "when": "18 June 1992"
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "T. Hayashi",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "K.S. Shukla's edition, New Delhi: INSA 1976."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "daśa-gītikā-pāda"
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_1.1"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.1a"
+          },
+          "text": "@praṇipatya %ekam anekam kam satyām devatām param brahma/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.1c"
+          },
+          "text": "āryabhaṭas %trīṇi @gadati gaṇitam kāla-kriyām golam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_1.2"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.2a"
+          },
+          "text": "varga-akṣarāṇi varge avarge avarga-akṣarāṇi kāt $ṅmau $yas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.2c"
+          },
+          "text": "#kha-%dvi-%navake svarās %nava varge avarge %nava antya-varge vā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_1.3"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.3a"
+          },
+          "text": "yuga-ravi-bha-gaṇās $khyughṛ śaśi $cayagiyiṅuśuchlṛ ku $ṅiśibuṇḷṣkhṛ prāk/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.3c"
+          },
+          "text": "śani $ḍhuṅvighva guru $khricyubha kuja $bhadlijhnukhṛ bhṛgu-budha-saurās//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_1.4"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.4a"
+          },
+          "text": "candra-ucca $rjuṣkhidha budha $suguśithṛna bhṛgu $jaṣabikhuchṛ śeṣa arkās/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.4c"
+          },
+          "text": "$buphinaca pāta-vilomās budha-ahni aja-arka-udayāt ca laṅkāyām//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_1.5"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.5a"
+          },
+          "text": "ka-ahas manavas $ḍha manu-yugās $śkha gatās te ca manu-yugās $chnā ca/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.5c"
+          },
+          "text": "kalpa-ādes yuga-#pādās $ga ca guru-divasāt ca bhāratāt pūrvam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_1.6"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.6a"
+          },
+          "text": "śaśi-rāśayas $ṭha cakram te aṃśa-kalā-yojanāni $yavaña-guṇās/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.6c"
+          },
+          "text": "prāṇena @eti kalām bham kha-yuga-aṃśe graha-javas bha-$va-aṃśe arkas//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_1.7"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.7a"
+          },
+          "text": "nṛ-$ṣi yojanam $ñilā bhū-vyāsas arka-indvor $ghriñā $giṇa $ka meros/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.7c"
+          },
+          "text": "bhṛgu-guru-budha-śani-bhaumās śaśi-$ṅa-$ña-$ṇa-$na-$ma-aṃśakās sama-arka-samās//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_1.8"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.8a"
+          },
+          "text": "$bha-apakramas graha-aṃśās śaśi-vikṣepas apamaṇḍalāt $jha-%ardham/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.8c"
+          },
+          "text": "śani-guru-kuja $kha-$ka-$ga-%ardham bhṛgu-budha $kha $sca-aṅgulas $gha-hastas $nā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_1.9"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.9a"
+          },
+          "text": "budha-bhṛgu-kuja-guru-śani $na-$va-$rā-$ṣa-$ha @gatvā aṃśakān %prathama-pātās/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.9c"
+          },
+          "text": "savitur amīṣām ca tathā $dvā-$ñakhi-$sā-$hdā-$hlya-$khicya manda-uccam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_1.10"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.10a"
+          },
+          "text": "$jha-%ardhāni manda-vṛttam śaśinas $cha $ga-$cha-$gha-$ḍha-$cha-$jha yathā uktebhyas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.10c"
+          },
+          "text": "$jhā-$gḍa-$glā-$rdha-$dḍa tathā śani-guru-kuja-bhṛgu-budha-ucca-śīghrebhyas//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_1.11"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.11a"
+          },
+          "text": "mandāt $ṅa-$kha-$da-$ja-$ḍā vakriṇām %dvitīye pade %caturthe ca/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.11c"
+          },
+          "text": "$jā-$ṇa-$kla-$chla-$jhna uccāt śīghrāt $giyiṅaśa ku-vāyu-kakṣyā-antyā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_1.12"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.12a"
+          },
+          "text": "$makhi $bhaki $phakhi $dhakhi $ṇakhi $ñakhi $ṅakhi $hasjha $skaki $kiṣga $śghaki $kighva/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.12c"
+          },
+          "text": "$ghlaki $kigra $hakya $dhaki $kica $sga $jhaśa $ṅva $kla $pta $pha $cha kalā-%ardha-jyās//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_1.13"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.13a"
+          },
+          "text": "%daśa-gītika-sūtram idam bhū-graha-caritam bha-pañjare @jñātvā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_1.13c"
+          },
+          "text": "graha-bha-gaṇa-paribhramaṇam sas @yāti @bhittvā param brahma//"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "gaṇita-pāda"
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.1"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.1a"
+          },
+          "text": "brahma-ku-śaśi-budha-bhṛgu-ravi-kuja-guru-koṇa-bha-gaṇān @namas-kṛtya/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.1c"
+          },
+          "text": "āryabhaṭas tu iha @nigadati kusuma-pure abhyarcitam jñānam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.2"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.2a"
+          },
+          "text": "%ekam %daśa ca %śatam ca %sahasram %ayuta-%niyute tathā %prayutam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.2c"
+          },
+          "text": "%koṭi-%arbudam ca %vṛndam sthānāt sthānam %daśa-guṇam @syāt//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.3"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.3a"
+          },
+          "text": "vargas sama-%catur-aśras phalam ca sadṛśa-%dvayasya saṃvargas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.3c"
+          },
+          "text": "sadṛśa-%traya-saṃvargas ghanas tathā %dvādaśa-aśris @syāt//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.4"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.4a"
+          },
+          "text": "bhāgam @haret avargān nityam %dvi-guṇena varga-mūlena/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.4c"
+          },
+          "text": "vargāt varge śuddhe labdham sthāna-antare mūlam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.5"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.5a"
+          },
+          "text": "aghanāt @bhajet %dvitīyāt %tri-guṇena ghanasya mūla-vargeṇa/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.5c"
+          },
+          "text": "vargas %tri-pūrva-guṇitas śodhyas %prathamāt ghanas ca ghanāt//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.6"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.6a"
+          },
+          "text": "%tri-bhujasya phala-śarīram sama-#dala-koṭī-bhujā-%ardha-saṃvargas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.6c"
+          },
+          "text": "ūrdhva-bhujā-tad-saṃvarga-%ardham sas ghanas %ṣaṣ-aśris iti//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.7"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.7a"
+          },
+          "text": "sama-pariṇāhasya-%ardham viṣkambha-%ardha-hatam eva vṛtta-phalam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.7c"
+          },
+          "text": "tad-nija-mūlena hatam ghana-gola-phalam niravaśeṣam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.8"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.8a"
+          },
+          "text": "āyāma-guṇe pārśve tad-yoga-hṛte sva-pāta-lekhe/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.8c"
+          },
+          "text": "vistara-yoga-%ardha-guṇe jñeyam kṣetra-phalam āyāme//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.9"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.9a"
+          },
+          "text": "sarveṣām kṣetrāṇām @prasādhya pārśve phalam tad-abhyāsas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.9c"
+          },
+          "text": "paridhes %ṣaṣ-bhāga-jyā viṣkambha-%ardhena sā tulyā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.10"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.10a"
+          },
+          "text": "%catur-adhikam %śatam %aṣṭa-guṇam %dvāṣaṣṭis tathā %sahasrāṇām/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.10c"
+          },
+          "text": "%ayuta-%dvaya-viṣkambhasya āsannas vṛtta-pariṇāhas//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.11"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.11a"
+          },
+          "text": "sama-vṛtta-paridhi-pādam @chindyāt %tri-bhujāt %catur-bhujāt ca eva/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.11c"
+          },
+          "text": "sama-cāpa-jyā-%ardhāni tu viṣkambha-%ardhe yathā iṣṭāni//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.12"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.12a"
+          },
+          "text": "%prathamāt cāpa-jyā-%ardhāt yair ūnam khaṇḍitam %dvitīya-%ardham/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.12c"
+          },
+          "text": "tad-%prathama-jyā-%ardha-aṃśais tais tais ūnāni śeṣāṇi//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.13"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.13a"
+          },
+          "text": "vṛttam bhrameṇa sādhyam ca %catur-bhujam ca karṇābhyām/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.13c"
+          },
+          "text": "sādhyā jalena sama-bhūs adhas-ūrdhvam lambakena eva//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.14"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.14a"
+          },
+          "text": "śaṅkos pramāṇa-vargam chāyā-vargeṇa saṃyutam @kṛtvā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.14c"
+          },
+          "text": "yat tasya varga-mūlam viṣkambha-%ardham sva-vṛttasya//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.15"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.15a"
+          },
+          "text": "śaṅku-guṇam śaṅku-bhujā-vivaram śaṅku-bhujayor viśeṣa-hṛtam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.15c"
+          },
+          "text": "yat labdham sā chāyā jñeyā śaṅkos sva-mūlāt hi//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.16"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.16a"
+          },
+          "text": "chāyā-guṇitam chāyā-agra-vivaram ūnena bhājitam koṭī/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.16c"
+          },
+          "text": "śaṅku-guṇā koṭī sā chāyā-bhaktā bhujā @bhavati//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.17"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.17a"
+          },
+          "text": "yas ca eva bhujā-vargas koṭī-vargas ca karṇa-vargas sas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.17c"
+          },
+          "text": "vṛtte śara-saṃvargas %ardha-jyā-vargas sas khalu dhanuṣos//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.18"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.18a"
+          },
+          "text": "grāsa-ūne %dve vṛtte grāsa-guṇe @bhājayet pṛthaktvena/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.18c"
+          },
+          "text": "grāsa-ūna-yoga-labdhau saṃpāta-śarau paraspara-tas//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.19"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.19a"
+          },
+          "text": "iṣṭam vi-%ekam dalitam sa-pūrvam uttara-guṇam sa-mukham madhyam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.19c"
+          },
+          "text": "iṣṭa-guṇitam iṣṭa-dhanam tu atha vā ādi-antam pada-%ardha-hatam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.20"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.20a"
+          },
+          "text": "gacchas %aṣṭa-uttara-guṇitāt %dvi-guṇa-ādi-uttara-viśeṣa-varga-yutāt/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.20c"
+          },
+          "text": "mūlam %dvi-guṇa-ādi-ūnam sva-uttara-bhajitam sa-#rūpa-ardham//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.21"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.21a"
+          },
+          "text": "%eka-uttara-ādi-upacites gacca-ādi-%eka-uttara-%tri-saṃvargas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.21c"
+          },
+          "text": "%ṣaṣ-bhaktas sas citi-ghanas sa-%eka-pada-ghanas vi-mūlas vā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.22"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.22a"
+          },
+          "text": "sa-%eka-sa-gaccha-padānām kramāt %tri-saṃvargitasya %ṣaṣṭhas aṃśas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.22c"
+          },
+          "text": "varga-citi-ghanas sas @bhavet citi-vargas ghana-citi-ghanas ca//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.23"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.23a"
+          },
+          "text": "samparkasya hi vargāt @viśodhayet eva varga-samparkam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.23c"
+          },
+          "text": "yat tasya @bhavati %ardham @vidyāt guṇa-kāra-saṃvargam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.24"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.24a"
+          },
+          "text": "%dvi-kṛti-guṇāt saṃvargāt %dvi-antara-vargeṇa saṃyutāt mūlam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.24c"
+          },
+          "text": "antara-yuktam hīnam tad-guṇa-kāra-%dvayam dalitam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.25"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.25a"
+          },
+          "text": "mūla-phalam sa-phalam kāla-mūla-guṇam %ardha-mūla-kṛti-yuktam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.25c"
+          },
+          "text": "tad-mūlam mūla-%ardha-ūnam kāla-hṛtam sva-mūla-phalam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.26"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.26a"
+          },
+          "text": "trairāśika-phala-rāśim tam atha icchā-rāśinā hatam @kṛtvā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.26c"
+          },
+          "text": "labdham pramāṇa-bhajitam tasmāt icchā-phalam idam @syāt//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.27"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.27a"
+          },
+          "text": "chedās paraspara-hatās @bhavanti guṇa-kāra-bhāga-hārāṇām/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.27c"
+          },
+          "text": "cheda-guṇam sa-chedam parasparam tat savarṇatvam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.28"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.28a"
+          },
+          "text": "guṇa-kārās bhāga-harās bhāga-harās te @bhavanti guṇa-kārās/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.28c"
+          },
+          "text": "yas kṣepas sas apacayas apacayas kṣepas ca viparīte//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.29"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.29a"
+          },
+          "text": "rāśi-ūnam rāśi-ūnam gaccha-dhanam piṇḍitam pṛthaktvena/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.29c"
+          },
+          "text": "vi-%ekena padena hṛtam sarva-dhanam tat @bhavati evam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.30"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.30a"
+          },
+          "text": "gulikā-antareṇa @vibhajet %dvayos puruṣayos tu rūpaka-viśeṣam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.30c"
+          },
+          "text": "labdham gulikā-mūlyam yadi artha-kṛtam @bhavati tulyam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.31"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.31a"
+          },
+          "text": "bhakte viloma-vivare gati-yogena anuloma-vivare %dvau/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.31c"
+          },
+          "text": "gati-antareṇa labdhau %dvi-yoga-kālau atīta-aiṣyau//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.32"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.32a"
+          },
+          "text": "adhika-agra-bhāga-hāram @chindyāt ūna-agra-bhāga-hāreṇa/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.32c"
+          },
+          "text": "śeṣa-paraspara-bhaktam mati-guṇam agra-antare kṣiptam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.33"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.33a"
+          },
+          "text": "adhas-upari-guṇitam antya-yuj-ūna-agra-cheda-bhājite śeṣam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.33c"
+          },
+          "text": "adhika-agra-cheda-guṇam %dvi-cheda-agram adhika-agra-yutam//"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kāla-kriyā-pāda"
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.1"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.1a"
+          },
+          "text": "varṣam %dvādaśa-māsās %triṃśat-divasas @bhavet sas māsas tu/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.1c"
+          },
+          "text": "%ṣaṣṭis nāḍyas divasas %ṣaṣṭis ca vināḍikā nāḍī//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.2"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.2a"
+          },
+          "text": "guru-akṣarāṇi %ṣaṣṭis vināḍikā ārkṣī %ṣaṭ eva vā prāṇās/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.2c"
+          },
+          "text": "evam kāla-vibhāgas kṣetra-vibhāgas tathā bha-gaṇāt//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.3"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.3a"
+          },
+          "text": "bha-gaṇās %dvayos %dvayos ye viśeṣa-śeṣās yuge %dvi-yogās te/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.3c"
+          },
+          "text": "ravi-śaśi-nakṣatra-gaṇās sammiśrās ca vyatīpātās//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.4"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.4a"
+          },
+          "text": "sva-ucca-bha-gaṇās sva-bha-gaṇais viśeṣitās sva-ucca-nīca-parivartās/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.4c"
+          },
+          "text": "guru-bha-gaṇās rāśi-guṇās aśvayuja-ādyās guror abdās//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.5"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.5a"
+          },
+          "text": "ravi-bha-gaṇās ravi-abdās ravi-śaśi-yogās @bhavanti śaśi-māsās/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.5c"
+          },
+          "text": "ravi-bhū-yogās divasās bha-āvartās ca api nākṣatrās//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.6"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.6a"
+          },
+          "text": "adhimāsakās yuge te ravi-māsebhyas adhikās tu ye cāndrās/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.6c"
+          },
+          "text": "śaśi-divasās vijñeyās bhū-divasa-ūnās tithi-pralayās//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.7"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.7a"
+          },
+          "text": "ravi-varṣam mānuṣyam tat api triṃśat-guṇam @bhavati pitryam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.7c"
+          },
+          "text": "pitryam %dvādaśa-guṇitam divyam varṣam vinirdiṣṭam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.8"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.8a"
+          },
+          "text": "divyam varṣa-%sahasram graha-sāmānyam yugam %dvi-5ṣaṭka-guṇam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.8c"
+          },
+          "text": "%aṣṭa-uttaram %sahasram brāhmas divasas graha-yugānām//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.9"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.9a"
+          },
+          "text": "utsarpiṇī yuga-%ardham paścāt apasarpiṇī yuga-%ardham ca/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.9c"
+          },
+          "text": "madhye yugasya suṣamā ādau ante duṣṣamā indu-uccāt//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.10"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.10a"
+          },
+          "text": "%ṣaṣṭi-abdānām %ṣaṣṭis yadā vyatītās trayas ca yuga-pādās/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.10c"
+          },
+          "text": "%tri-adhikā %viṃśatis abdās tadā iha mama janmanas atītās//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.11"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.11a"
+          },
+          "text": "yuga-varṣa-māsa-divasās samam pravṛttās tu caitra-śukla-ādes/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.11c"
+          },
+          "text": "kālas ayam anādi-antas graha-bhais @anumīyate kṣetre//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.12"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.12a"
+          },
+          "text": "%ṣaṣṭyā sūrya-abdānām @prapūrayanti grahās bha-pariṇāham/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.12c"
+          },
+          "text": "divyena nabhas-paridhim samam bhramantas sva-kakṣyāsu//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.13"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.13a"
+          },
+          "text": "maṇḍalam alpam adhastāt kālena alpena @pūrayati candras/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.13c"
+          },
+          "text": "upariṣṭāt sarveṣām mahat ca mahatā śanaiścārī//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.14"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.14a"
+          },
+          "text": "alpe hi maṇḍale alpā mahati mahāntas ca rāśayas jñeyās/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.14c"
+          },
+          "text": "aṃśās kalās tathā evam vibhāga-tulyās sva-kakṣyāsu//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.15"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.15a"
+          },
+          "text": "bhānām adhas śanaiścara-suraguru-bhauma-arka-śukra-budha-candrās/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.15c"
+          },
+          "text": "eṣām adhas ca bhūmis medhī-bhūtā kha-madhya-sthā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.16"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.16a"
+          },
+          "text": "%sapta ete horā-īśās śanaiścara-ādyās yathā-kramam śīghrās/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.16c"
+          },
+          "text": "śīghra-kramāt %caturthās @bhavanti sūrya-udayāt dinapās//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.17"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.17a"
+          },
+          "text": "kakṣyā-pratimaṇḍala-gās @bhramanti sarve grahās sva-cāreṇa/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.17c"
+          },
+          "text": "manda-uccāt anulomam pratilomam ca eva śīghra-uccāt//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.18"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.18a"
+          },
+          "text": "kakṣyā-maṇḍala-tulyam svam svam pratimaṇḍalam @bhavati eṣām/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.18c"
+          },
+          "text": "pratimaṇḍalasya madhyam ghana-bhū-madhyāt atikrāntam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.19"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.19a"
+          },
+          "text": "pratimaṇḍala-bhū-vivaram vyāsa-%ardham sva-ucca-nīca-vṛttasya/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.19c"
+          },
+          "text": "vṛtta-paridhau grahās te madhyama-cārāt @bhramanti evam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.20"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.20a"
+          },
+          "text": "yas śīghra-gatis sva-uccāt pratiloma-gatis sva-vṛtta-kakṣyāyām/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.20c"
+          },
+          "text": "anuloma-gatis vṛtte manda-gatis yas grahas @bhavati//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.21"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.21a"
+          },
+          "text": "anuloma-gāni mandāt śīghrāt pratiloma-gāni vṛttāni/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.21c"
+          },
+          "text": "kakṣyā-maṇḍala-lagna-sva-vṛtta-madhye grahas madhyas//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.22"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.22a"
+          },
+          "text": "kṣaya-dhana-dhana-kṣayās @syur manda-uccāt vyatyayena śīghra-uccāt/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.22c"
+          },
+          "text": "śani-guru-kujeṣu mandāt %ardham ṛṇam dhanam @bhavati pūrve//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.23"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.23a"
+          },
+          "text": "manda-uccāt śīghra-uccāt %ardham ṛṇam dhanam graheṣu mandeṣu/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.23c"
+          },
+          "text": "manda-uccāt sphuṭa-madhyās śīghra-uccāt ca sphuṭās jñeyās//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.24"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.24a"
+          },
+          "text": "śīghra-uccāt %ardha-ūnam kartavyam ṛṇam dhanam sva-manda-ucce/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.24c"
+          },
+          "text": "sphuṭa-madhyau tu bhṛgu-budhau siddhāt mandāt sphuṭau @bhavatas//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_3.25"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.25a"
+          },
+          "text": "bhū-tārā-graha-vivaram vyāsa-%ardha-hṛtas sva-karṇa-saṃvargas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_3.25c"
+          },
+          "text": "kakṣyāyām graha-vegas yas @bhavati sas manda-nīca-ucce//"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "gola-pāda"
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.1"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.1a"
+          },
+          "text": "meṣa-ādes kanyā-antam samam udac-apamaṇḍala-%ardham apayātam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.1c"
+          },
+          "text": "taulya-ādes mīna-antam śeṣa-%ardham dakṣiṇena eva//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.2"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.2a"
+          },
+          "text": "tārā-graha-indu-pātās @bhramanti ajasram apamaṇḍale arkas ca/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.2c"
+          },
+          "text": "arkāt ca maṇḍala-%ardhe @bhramati hi tasmin kṣiti-chāyā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.3"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.3a"
+          },
+          "text": "apamaṇḍalasya candras pātāt @yāti uttareṇa dakṣiṇa-tas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.3c"
+          },
+          "text": "kuja-guru-koṇās ca evam śīghra-uccena api budha-śukrau//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.4"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.4a"
+          },
+          "text": "candras aṃśais %dvādaśabhis avikṣiptas arka-antara-sthitas dṛśyas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.4c"
+          },
+          "text": "%navabhis bhṛgus bhṛgos tais %dvi-adhikais %dvi-adhikais yathā ślakṣṇās//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.5"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.5a"
+          },
+          "text": "bhū-graha-bhānām gola-%ardhāni sva-chāyayā vi-varṇāni/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.5c"
+          },
+          "text": "%ardhāni yathā-sāram sūrya-abhimukhāni @dīpyante//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.6"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.6a"
+          },
+          "text": "vṛtta-bha-pañjara-madhye kakṣyā-pariveṣṭitas kha-madhya-gatas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.6c"
+          },
+          "text": "mṛd-jala-śikhi-vāyu-mayas bhū-golas sarvatas vṛttas//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.7"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.7a"
+          },
+          "text": "yad-vat kadamba-puṣpa-granthis pracitas samantatas kusumais/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.7c"
+          },
+          "text": "tad-vat hi sarva-sattvais jala-jais sthala-jais ca bhū-golas//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.8"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.8a"
+          },
+          "text": "brahma-divasena bhūmes upariṣṭāt yojanam @bhavati vṛddhis/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.8c"
+          },
+          "text": "dina-tulyayā %eka-rātryā mṛd-upacitāyā @bhavati hānis//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.9"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.9a"
+          },
+          "text": "anuloma-gatis nau-sthas @paśyati acalam viloma-gam yad-vat/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.9c"
+          },
+          "text": "acalāni bhāni tad-vat sama-paścima-gāni laṅkāyām//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.10"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.10a"
+          },
+          "text": "udaya-astamaya-nimittam nityam pravaheṇa vāyunā kṣiptas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.10c"
+          },
+          "text": "laṅkā-sama-paścima-gas bha-pañjaras sa-grahas @bhramati//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.11"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.11a"
+          },
+          "text": "merus yojana-mātras prabhā-karas hima-vatā parikṣiptas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.11c"
+          },
+          "text": "nandana-vanasya madhye ratna-mayas sarva-tas vṛttas//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.12"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.12a"
+          },
+          "text": "svar-merū sthala-madhye narakas baḍavā-mukham ca jala-madhye/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.12c"
+          },
+          "text": "amara-marās @manyante parasparam adhas-sthitās niyatam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.13"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.13a"
+          },
+          "text": "udayas yas laṅkāyām sas astamayas savitur eva siddha-pure/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.13c"
+          },
+          "text": "madhya-ahnas yama-koṭyām romaka-viṣaye %ardha-rātras @syāt//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.14"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.14a"
+          },
+          "text": "sthala-jala-madhyāt laṅkā bhū-kakṣyāyās @bhavet %catur-bhāge/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.14c"
+          },
+          "text": "ujjayinī laṅkāyās tad-%catur-aṃśe sama-uttaratas//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.15"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.15a"
+          },
+          "text": "bhū-vyāsa-%ardhena ūnam dṛśyam deśāt samāt bha-gola-%ardham/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.15c"
+          },
+          "text": "%ardham bhūmi-channam bhū-vyāsa-%ardha-adhikam ca eva//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.16"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.16a"
+          },
+          "text": "devās @paśyanti bha-gola-%ardham udac-meru-saṃsthitās savyam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.16c"
+          },
+          "text": "%ardham tu apasavya-gatam dakṣiṇa-baḍavā-mukhe pretās//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.17"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.17a"
+          },
+          "text": "ravi-varṣa-%ardham devās @paśyanti uditam ravim tathā pretās/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.17c"
+          },
+          "text": "śaśi-māsa-%ardham pitaras śaśi-gās ku-dina-%ardham iha manu-jās//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.18"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.18a"
+          },
+          "text": "pūrva-aparam adhas-ūrdhvam maṇḍalam atha dakṣiṇa-uttaram ca eva/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.18c"
+          },
+          "text": "kṣiti-jam sama-pārśva-stham bhānām yatra udaya-astamayau//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.19"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.19a"
+          },
+          "text": "pūrva-apara-diś-lagnam kṣiti-jāt akṣa-agrayos ca lagnam yat/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.19c"
+          },
+          "text": "unmaṇḍalam @bhavet tat kṣaya-vṛddhī yatra divasa-niśos//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.20"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.20a"
+          },
+          "text": "pūrva-apara-diś-rekhā adhas ca ūrdhvā dakṣiṇa-uttara-sthā ca/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.20c"
+          },
+          "text": "etāsām sampātas draṣṭā yasmin @bhavet deśe//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.21"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.21a"
+          },
+          "text": "ūrdhvam adhastāt draṣṭur jñeyam dṛś-maṇḍalam graha-abhimukham/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.21c"
+          },
+          "text": "dṛś-kṣepa-maṇḍalam api prāc-lagnam @syāt %tri-rāśi-ūnam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_2.34"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_2.22a"
+          },
+          "text": "kāṣṭha-mayam sama-vṛttam samantatas sama-gurum laghum golam/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.22"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.22c"
+          },
+          "text": "pārata-taila-jalais tam @bhramayet sva-dhiyā ca kāla-samam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.23"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.23a"
+          },
+          "text": "dṛś-gola-%ardha-kapāle jyā-%ardhena @vikalpayet bha-gola-%ardham/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.23c"
+          },
+          "text": "viṣuvat-jīvā-akṣa-bhujā tasyās tu avalambaks koṭis//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.24"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.24a"
+          },
+          "text": "iṣṭa-apakrama-vargam vyāsa-%ardha-kṛtes @viśodhya yat mūlam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.24c"
+          },
+          "text": "viṣuvat-udac-dakṣiṇatas tat ahorātra-%ardha-viṣkambhas//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.25"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.25a"
+          },
+          "text": "iṣṭa-jyā-guṇitam ahorātra-vyāsa-%ardham eva kāṣṭha-antyam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.25c"
+          },
+          "text": "sva-ahorātra-%ardha-hṛtam phalam ajāt laṅkā-udaya-prāc-jyās//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.26"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.26a"
+          },
+          "text": "iṣṭa-apakrama-guṇitām akṣa-jyām lambakena @hṛtvā yā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.26c"
+          },
+          "text": "sva-ahorātre kṣiti-jā kṣaya-vṛddhi-jyā dina-niśos sā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.27"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.27a"
+          },
+          "text": "@udayati hi cakra-pādas cara-#dala-hīnena divasa-#pādena/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.27c"
+          },
+          "text": "%prathamas antyas ca atha anyau tad-sahitena krama-utkramaśas//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.28"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.28a"
+          },
+          "text": "sva-ahorātra-iṣṭa-jyā kṣiti-jāt avalambaka-āhatām @kṛtvā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.28c"
+          },
+          "text": "viṣkambha-%ardha-vibhakte dinasya gata-śeṣsayos śaṅkus//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.29"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.29a"
+          },
+          "text": "viṣuvat-jīvā-guṇitas sva-iṣṭas śaṅkus sva-lambakena hṛtas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.29c"
+          },
+          "text": "astamaya-udaya-sūtrāt dakṣiṇatas sūrya-śaṅku-agram//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.30"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.30a"
+          },
+          "text": "parama-apakrama-jīvām iṣṭa-jyā-%ardha-āhatām tatas @vibhajet/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.30c"
+          },
+          "text": "jyā lambakena labdhā arka-agrā pūrva-apare kṣiti-je//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.31"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.31a"
+          },
+          "text": "sā viṣuvat-jyā-ūnā ced viṣuvat-udac-lambakena saṅguṇitā/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.31c"
+          },
+          "text": "viṣuvat-jyayā vibhaktā labdhas pūrva-apare śaṅkus//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.32"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.32a"
+          },
+          "text": "kṣiti-jāt unnata-bhāgānām yā jyā sā paras @bhavet śaṅkus/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.32c"
+          },
+          "text": "madhyāt nata-bhāga-jyā chāyā śaṅkos tu tasya eva//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.33"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.33a"
+          },
+          "text": "madhya-jyā-udaya-jīvā-saṃvarge vyāsa-#dala-hṛte yat @syāt/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.33c"
+          },
+          "text": "tad-madhya-jyā-kṛtyos viśeṣa-mūlam sva-dṛś-kṣepas/"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.34"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.34a"
+          },
+          "text": "dṛś-dṛś-kṣepa-kṛti-viśeṣitasya mūlam sva-dṛś-gatis ku-vaśāt/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.34c"
+          },
+          "text": "kṣiti-je svā dṛś-chāyā bhū-vyāsa-%ardham nabhas-madhyāt//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.35"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.35a"
+          },
+          "text": "vikṣepa-guṇa-akṣa-jyā lambaka-bhaktā @bhavet ṛṇam udac-sthe/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.35c"
+          },
+          "text": "udaye dhanam astamaye dakṣiṇa-ge dhanam ṛṇam candre//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.36"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.36a"
+          },
+          "text": "vikṣepa-apakrama-guṇam utkramaṇam vistara-%ardha-kṛti-bhaktam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.36c"
+          },
+          "text": "udac-ṛṇa-dhanam udac-ayane dakṣiṇa-ge dhanam ṛṇam yāmye//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.37"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.37a"
+          },
+          "text": "candras jalam arkas agnis mṛd-bhū-chāyā api yā tamas tat hi/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.37c"
+          },
+          "text": "@chādayati śaśī sūryam śaśinam mahatī ca bhū-chāyā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.38"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.38a"
+          },
+          "text": "sphuṭa-śaśi-māsa-ante arkam pāta-āsannas yadā @praviśati indus/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.38c"
+          },
+          "text": "bhū-chāyām pakṣa-ante tadā adhika-ūnam grahaṇa-madhyam//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.39"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.39a"
+          },
+          "text": "bhū-ravi-vivaram @vibhajet bhū-guṇitam tu ravi-bhū-viśeṣeṇa/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.39c"
+          },
+          "text": "bhū-chāyā-dīrghatvam labdham bhū-gola-viṣkambhāt//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.40"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.40a"
+          },
+          "text": "chāyā-agra-candra-vivaram bhū-viṣkambheṇa tat samabhyastam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.40c"
+          },
+          "text": "bhū-chāyayā vibhaktam @vidyāt tamasas sva-viṣkambham//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.41"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.41a"
+          },
+          "text": "tad-śaśi-samparka-%ardha-kṛtes śaśi-vikṣepa-vargitam śodhyam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.41c"
+          },
+          "text": "sthiti-%ardham asya mūlam jñeyam candra-arka-dina-bhogāt//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.42"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.42a"
+          },
+          "text": "candra-vyāsa-%ardha-ūnasya vargitam yat tamas-maya-%ardhasya/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.42c"
+          },
+          "text": "vikṣepa-kṛti-vihīnam tasmāt mūlam vimarda-%ardham//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.43"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.43a"
+          },
+          "text": "tamasas viṣkambha-%ardham śaśi-viṣkambha-%ardha-varjitam @apohya/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.43c"
+          },
+          "text": "vikṣepāt yat śeṣam na @gṛhyate tat śaśāṅkasya//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.44"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.44a"
+          },
+          "text": "vikṣepa-varga-sahitāt sthiti-madhyāt iṣṭa-varjitāt mūlam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.44c"
+          },
+          "text": "samparka-%ardhāt śodhyam śeṣas tātkālikas grāsas//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.45"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.45a"
+          },
+          "text": "madhya-ahna-utkrama-guṇitas akṣas dakṣiṇatas %ardha-vistara-hṛtas dik/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.45c"
+          },
+          "text": "sthiti-%ardhāt ca arka-indvos %tri-rāśi-sahita-ayanāt sparśe//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.46"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.46a"
+          },
+          "text": "pragrahaṇa-ante dhūmras khaṇḍa-grahaṇe śaśī @bhavati kṛṣṇas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.46c"
+          },
+          "text": "sarva-grāse kapilas sa-kṛṣṇa-tāmras tamas-madhye//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.47"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.47a"
+          },
+          "text": "sūrya-indu-paridhi-yoge arka-%aṣṭama-bhāgas @bhavati anādeśyas/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.47c"
+          },
+          "text": "bhānos bhāsvara-bhāvāt su-accha-tanutvāt ca śaśi-paridhes//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.48"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.48a"
+          },
+          "text": "kṣiti-ravi-yogāt dina-kṛt ravi-indu-yogāt @prasādhayet ca indum/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.48c"
+          },
+          "text": "śaśi-tārā-graha-yogāt tathā eva tārā-grahās sarve//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.49"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.49a"
+          },
+          "text": "sat-asat-jñāna-samudrāt samuddhṛtam brahmaṇas prasādena/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.49c"
+          },
+          "text": "sat-jñāna-uttama-ratnam mayā nimagnam sva-mati-nāvā//"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "{http://www.w3.org/XML/1998/namespace}id": "AB_4.50"
+      },
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.50a"
+          },
+          "text": "āryabhaṭīyam nāmnā pūrvam svāyambhuavam sadā nityam/"
+        },
+        {
+          "tag": "l",
+          "attributes": {
+            "{http://www.w3.org/XML/1998/namespace}id": "AB_4.50c"
+          },
+          "text": "su-kṛta-āyuṣos praṇāśam @kurute pratikañcukam yas asya//"
+        }
+      ]
+    }
+  ]
+}
