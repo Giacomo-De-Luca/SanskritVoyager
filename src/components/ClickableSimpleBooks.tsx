@@ -45,6 +45,7 @@ interface TextElement {
   tag: string;
   attributes: Record<string, string>;
   text?: string;
+  translated_text?: string;
   children?: TextElement[];
 }
 
@@ -170,42 +171,94 @@ const ClickableSimpleBooks = ({
       element.attributes?.rend === 'it' ? classes.italic : '',
     ].filter(Boolean).join(' ');
   
-    // Container for all content
+    // Helper function to render clickable words
+    const renderWords = (text: string, isTranslation: boolean = false) => {
+      if (isTranslation) {
+        // For translations, split by <s> tags and make only Sanskrit words clickable
+        const parts = text.split(/(<s>.*?<\/s>)/);
+        return parts.map((part, partIndex) => {
+          if (part.startsWith('<s>') && part.endsWith('</s>')) {
+            // Extract Sanskrit word and make it clickable
+            const sanskritWord = part.replace(/<\/?s>/g, '').trim();
+            return (
+              <span
+                key={partIndex}
+                onClick={async () => {
+                  setSelectedWord(sanskritWord);
+                  setClickedWord(sanskritWord);
+                  setIsLoadingDebug(true);
+                  try {
+                    const data = await fetchMultidictData(sanskritWord, selectedDictionaries);
+                    setWordData(data);
+                  } finally {
+                    setIsLoadingDebug(false);
+                  }
+                }}
+                onMouseEnter={() => setHoveredWord(sanskritWord)}
+                onMouseLeave={() => setHoveredWord(null)}
+                className={`
+                  ${classes.word}
+                  ${classes.sanskritWord}
+                  ${selectedWord === sanskritWord ? classes.selectedWord : ''}
+                  ${hoveredWord === sanskritWord ? classes.hoveredWord : ''}
+                `}
+              >
+                {sanskritWord + ' '}
+              </span>
+            );
+          } else {
+            // Regular translation text - not clickable
+            return <span key={partIndex}>{part}</span>;
+          }
+        });
+      } else {
+        // Regular text handling (all words clickable)
+        return text.split(/\s+|\+/).map((word: string, wordIndex: number) => {
+          const trimmedWord = word.trim();
+          if (!trimmedWord) return null;
+          
+          return (
+            <span
+              key={wordIndex}
+              onClick={async () => {
+                setSelectedWord(trimmedWord);
+                setClickedWord(trimmedWord);
+                setIsLoadingDebug(true);
+                try {
+                  const data = await fetchMultidictData(trimmedWord, selectedDictionaries);
+                  setWordData(data);
+                } finally {
+                  setIsLoadingDebug(false);
+                }
+              }}
+              onMouseEnter={() => setHoveredWord(trimmedWord)}
+              onMouseLeave={() => setHoveredWord(null)}
+              className={`
+                ${classes.word}
+                ${selectedWord === trimmedWord ? classes.selectedWord : ''}
+                ${hoveredWord === trimmedWord ? classes.hoveredWord : ''}
+              `}
+            >
+              {word + ' '}
+            </span>
+          );
+        });
+      }
+    };
+  
     return (
       <div className={elementClasses}>
-        {/* Render the element's own text if it exists */}
         {element.text && (
           <div className={classes.lineContainer}>
-            {element.text.split(/\s+|\+/).map((word: string, wordIndex: number) => {
-              const trimmedWord = word.trim();
-              if (!trimmedWord) return null;
-              
-              return (
-                <span
-                  key={wordIndex}
-                  onClick={async () => {
-                    setSelectedWord(trimmedWord);
-                    setClickedWord(trimmedWord);
-                    setIsLoadingDebug(true);
-                    try {
-                      const data = await fetchMultidictData(trimmedWord, selectedDictionaries);
-                      setWordData(data);
-                    } finally {
-                      setIsLoadingDebug(false);
-                    }
-                  }}
-                  onMouseEnter={() => setHoveredWord(trimmedWord)}
-                  onMouseLeave={() => setHoveredWord(null)}
-                  className={`
-                    ${classes.word}
-                    ${selectedWord === trimmedWord ? classes.selectedWord : ''}
-                    ${hoveredWord === trimmedWord ? classes.hoveredWord : ''}
-                  `}
-                >
-                  {word + ' '}
-                </span>
-              );
-            })}
+            <div className={classes.originalText}>
+              {renderWords(element.text)}
+            </div>
+            
+            {element.translated_text && (
+              <div className={classes.translatedText}>
+                {renderWords(element.translated_text, true)}
+              </div>
+            )}
             
             {/* Show clicked word info if this text contains the clicked word */}
             {element.text.split(/\s+|\+/).some(word => word.trim() === clickedWord) && (
@@ -222,7 +275,6 @@ const ClickableSimpleBooks = ({
           </div>
         )}
   
-        {/* Render children if they exist */}
         {element.children?.map((child, index) => (
           <React.Fragment key={index}>
             {renderTextElement(child)}

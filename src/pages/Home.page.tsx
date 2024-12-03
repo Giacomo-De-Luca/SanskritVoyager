@@ -68,6 +68,7 @@ export function HomePage() {
     tag: string;
     attributes: Record<string, string>;
     text?: string;
+    translated_text?: string;
     children?: TextElement[];
   }
   
@@ -349,7 +350,7 @@ export function HomePage() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`/resources/books/${bookTitle}.json`);
+        const response = await fetch(`/public/resources/books/${bookTitle}.json`);
         if (!response.ok) {
           throw new Error(`Failed to fetch: ${response.status}`);
         }

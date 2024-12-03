@@ -29,8 +29,7 @@
     "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
     "license": {
       "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
-      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-      "translated_text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     "publication_date": "2020-07-31",
     "source": "Swami Kuvalayananda and S. A. Shukla's critical edition (Lonavla: Kaivalya Dham, n.d.)."
@@ -39,14 +38,12 @@
     {
       "tag": "head",
       "attributes": {},
-      "text": "Gorakṣa-śatakam",
-      "translated_text": "Gorakṣa-śataka"
+      "text": "Gorakṣa-śatakam"
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "oṃ parama-gurave gorakṣanāthāya namaḥ",
-      "translated_text": "Om, homage to the supreme guru <s>Gorakṣanātha</s>."
+      "text": "oṃ parama-gurave gorakṣanāthāya namaḥ"
     },
     {
       "tag": "lg",
@@ -64,8 +61,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "oṃ gorakṣa-śatakaṃ vakṣye",
-              "translated_text": "Om, I will recite the Gorakṣa-śataka."
+              "text": "oṃ gorakṣa-śatakaṃ vakṣye"
             },
             {
               "tag": "seg",
@@ -73,8 +69,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "bhava-pāśa-vimuktaye",
-              "translated_text": "For liberation from the bonds of existence."
+              "text": "bhava-pāśa-vimuktaye"
             }
           ]
         },
@@ -88,8 +83,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "ātma-bodha-karaṃ puṃsāṃ",
-              "translated_text": "It causes self-awareness in people."
+              "text": "ātma-bodha-karaṃ puṃsāṃ"
             },
             {
               "tag": "seg",
@@ -97,13 +91,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "viveka-dvāra-kuñcikām",
-              "translated_text": "The key to the door of discernment."
+              "text": "viveka-dvāra-kuñcikām"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -125,8 +117,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "etad vimukti-sopānam",
-              "translated_text": "This is the stairway to liberation."
+              "text": "etad vimukti-sopānam"
             },
             {
               "tag": "seg",
@@ -134,8 +125,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "etat kālasya vañcanam",
-              "translated_text": "This is the deception of time."
+              "text": "etat kālasya vañcanam"
             }
           ]
         },
@@ -149,8 +139,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "yad vyāvṛttaṃ mano mohād",
-              "translated_text": "When the mind is turned away from delusion."
+              "text": "yad vyāvṛttaṃ mano mohād"
             },
             {
               "tag": "seg",
@@ -158,13 +147,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "āsaktaṃ paramātmani",
-              "translated_text": "Attached to the Supreme Self."
+              "text": "āsaktaṃ paramātmani"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -186,8 +173,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "dvija-sevita-śākhasya",
-              "translated_text": "Of the branch served by the twice-born."
+              "text": "dvija-sevita-śākhasya"
             },
             {
               "tag": "seg",
@@ -195,8 +181,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "śruti-kalpa-taroḥ phalam",
-              "translated_text": "The fruit of the tree of Vedic knowledge."
+              "text": "śruti-kalpa-taroḥ phalam"
             }
           ]
         },
@@ -210,8 +195,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "śamanaṃ bhava-tāpasya",
-              "translated_text": "The pacification of worldly suffering."
+              "text": "śamanaṃ bhava-tāpasya"
             },
             {
               "tag": "seg",
@@ -219,13 +203,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "yogaṃ bhajati sajjanaḥ",
-              "translated_text": "The virtuous person practices yoga."
+              "text": "yogaṃ bhajati sajjanaḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -247,8 +229,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "āsanaṃ prāṇa-saṃyāmaḥ",
-              "translated_text": "Posture, breath control."
+              "text": "āsanaṃ prāṇa-saṃyāmaḥ"
             },
             {
               "tag": "seg",
@@ -256,8 +237,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "pratyāhāro'tha dhāraṇā",
-              "translated_text": "Withdrawal, and then concentration."
+              "text": "pratyāhāro'tha dhāraṇā"
             }
           ]
         },
@@ -271,8 +251,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "dhyānaṃ samādhir etāni",
-              "translated_text": "Meditation and absorption, these are."
+              "text": "dhyānaṃ samādhir etāni"
             },
             {
               "tag": "seg",
@@ -280,13 +259,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "yogāṅgāni bhavanti ṣaṭ",
-              "translated_text": "The six limbs of yoga."
+              "text": "yogāṅgāni bhavanti ṣaṭ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -308,8 +285,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "āsanāni tu tāvanti",
-              "translated_text": "As many postures as."
+              "text": "āsanāni tu tāvanti"
             },
             {
               "tag": "seg",
@@ -317,8 +293,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "yāvatyo jīva-jātayaḥ",
-              "translated_text": "There are species of living beings."
+              "text": "yāvatyo jīva-jātayaḥ"
             }
           ]
         },
@@ -332,8 +307,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "eteṣām akhilān bhedān",
-              "translated_text": "The distinctions among all these."
+              "text": "eteṣām akhilān bhedān"
             },
             {
               "tag": "seg",
@@ -341,13 +315,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "vijānāti maheśvaraḥ",
-              "translated_text": "Are known by the great lord."
+              "text": "vijānāti maheśvaraḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -369,8 +341,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "caturāśīti-lakṣāṇāṃ",
-              "translated_text": "Of eighty-four lakhs."
+              "text": "caturāśīti-lakṣāṇāṃ"
             },
             {
               "tag": "seg",
@@ -378,8 +349,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "ekam ekam udāhṛtam",
-              "translated_text": "One by one is mentioned."
+              "text": "ekam ekam udāhṛtam"
             }
           ]
         },
@@ -393,8 +363,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "tataḥ śivena pīṭhānāṃ",
-              "translated_text": "Then by Śiva, of seats."
+              "text": "tataḥ śivena pīṭhānāṃ"
             },
             {
               "tag": "seg",
@@ -402,13 +371,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "ṣoḍeśānaṃ śataṃ kṛtam",
-              "translated_text": "A hundred and sixteen are made."
+              "text": "ṣoḍeśānaṃ śataṃ kṛtam"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -430,8 +397,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "āsanebhyaḥ samastebhyo",
-              "translated_text": "Among all the postures."
+              "text": "āsanebhyaḥ samastebhyo"
             },
             {
               "tag": "seg",
@@ -439,8 +405,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "dvayam eva viśiṣyate",
-              "translated_text": "Two are especially distinguished."
+              "text": "dvayam eva viśiṣyate"
             }
           ]
         },
@@ -454,8 +419,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "ekaṃ siddhāsanaṃ proktaṃ",
-              "translated_text": "One is called <s>Siddhāsana</s>."
+              "text": "ekaṃ siddhāsanaṃ proktaṃ"
             },
             {
               "tag": "seg",
@@ -463,13 +427,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "dvitīyaṃ kamalāsanam",
-              "translated_text": "The second is <s>Kamalāsana</s>."
+              "text": "dvitīyaṃ kamalāsanam"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -491,8 +453,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "yoni-sthānakam aṅghri-mūla-ghaṭitaṃ kṛtvā dṛḍhaṃ vinyasen",
-              "translated_text": "Placing the heel at the base of the genitals, one should firmly establish."
+              "text": "yoni-sthānakam aṅghri-mūla-ghaṭitaṃ kṛtvā dṛḍhaṃ vinyasen"
             },
             {
               "tag": "seg",
@@ -500,8 +461,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "meḍhre pādam athaikam eva niyataṃ kṛtvā samaṃ vigraham",
-              "translated_text": "Then placing one foot on the genitals, keeping the body straight."
+              "text": "meḍhre pādam athaikam eva niyataṃ kṛtvā samaṃ vigraham"
             }
           ]
         },
@@ -515,8 +475,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "sthāṇuḥ saṃyamitendriyo'cala-dṛśā paśyan bhruvor antaram",
-              "translated_text": "Like a pillar, with controlled senses, gazing steadily at the space between the eyebrows."
+              "text": "sthāṇuḥ saṃyamitendriyo'cala-dṛśā paśyan bhruvor antaram"
             },
             {
               "tag": "seg",
@@ -524,13 +483,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "etan mokṣa-kavāṭa-bheda-janakaṃ siddhāsanaṃ procyate",
-              "translated_text": "This is called <s>Siddhāsana</s>, the opener of the gate of liberation."
+              "text": "etan mokṣa-kavāṭa-bheda-janakaṃ siddhāsanaṃ procyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -552,8 +509,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "vāmorūpari dakṣiṇaṃ hi caraṇaṃ saṃsthāpya vāmaṃ tathā",
-              "translated_text": "Placing the right foot over the left thigh and the left foot likewise."
+              "text": "vāmorūpari dakṣiṇaṃ hi caraṇaṃ saṃsthāpya vāmaṃ tathā"
             },
             {
               "tag": "seg",
@@ -561,8 +517,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "dakṣorūpari paścimena vidhinā dhṛtvā karābhyāṃ dṛḍham",
-              "translated_text": "Holding firmly with the hands, in the manner of the ancients."
+              "text": "dakṣorūpari paścimena vidhinā dhṛtvā karābhyāṃ dṛḍham"
             }
           ]
         },
@@ -576,8 +531,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "aṅguṣṭhau hṛdaye nidhāya cibukaṃ nāsāgram ālokayed",
-              "translated_text": "Placing the thumbs on the heart, gaze at the tip of the nose."
+              "text": "aṅguṣṭhau hṛdaye nidhāya cibukaṃ nāsāgram ālokayed"
             },
             {
               "tag": "seg",
@@ -585,13 +539,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "etad-vyādhi-vikāra-hāri yamināṃ padmāsanaṃ procyate",
-              "translated_text": "This is called <s>Padmāsana</s>, the destroyer of diseases for the self-controlled."
+              "text": "etad-vyādhi-vikāra-hāri yamināṃ padmāsanaṃ procyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -613,8 +565,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "ādhāraḥ prathamaṃ cakraṃ",
-              "translated_text": "The base is the first chakra."
+              "text": "ādhāraḥ prathamaṃ cakraṃ"
             },
             {
               "tag": "seg",
@@ -622,8 +573,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "svādhiṣṭhānaṃ dvitīyakam",
-              "translated_text": "The second is <s>Svādhiṣṭhāna</s>."
+              "text": "svādhiṣṭhānaṃ dvitīyakam"
             }
           ]
         },
@@ -637,8 +587,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "yoni-sthānaṃ dvayor madhye",
-              "translated_text": "The place of the yoni is between the two."
+              "text": "yoni-sthānaṃ dvayor madhye"
             },
             {
               "tag": "seg",
@@ -646,13 +595,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "kāma-rūpaṃ nigadyate",
-              "translated_text": "It is called <s>Kāma-rūpa</s>."
+              "text": "kāma-rūpaṃ nigadyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -674,8 +621,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "ādhārākhye guda-sthāne",
-              "translated_text": "In the place called <s>Ādhāra</s> at the anus."
+              "text": "ādhārākhye guda-sthāne"
             },
             {
               "tag": "seg",
@@ -683,8 +629,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "paṅkajaṃ yac caturdalam",
-              "translated_text": "There is a lotus with four petals."
+              "text": "paṅkajaṃ yac caturdalam"
             }
           ]
         },
@@ -698,8 +643,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "tan-madhye procyate yoniḥ",
-              "translated_text": "In its center is said to be the yoni."
+              "text": "tan-madhye procyate yoniḥ"
             },
             {
               "tag": "seg",
@@ -707,13 +651,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "kāmākhyā siddha-vanditā",
-              "translated_text": "<s>Kāmākhyā</s>, worshipped by the accomplished."
+              "text": "kāmākhyā siddha-vanditā"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -735,8 +677,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "yoni-madhye mahāliṅgaṃ",
-              "translated_text": "In the center of the yoni is the great <s>Liṅga</s>."
+              "text": "yoni-madhye mahāliṅgaṃ"
             },
             {
               "tag": "seg",
@@ -744,8 +685,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "paścimābhimukhaṃ sthitam",
-              "translated_text": "Facing west, it stands."
+              "text": "paścimābhimukhaṃ sthitam"
             }
           ]
         },
@@ -759,8 +699,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "mastake maṇivad bhinnaṃ",
-              "translated_text": "At the head, like a jewel, divided."
+              "text": "mastake maṇivad bhinnaṃ"
             },
             {
               "tag": "seg",
@@ -768,13 +707,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "yo jānāti sa yogavit",
-              "translated_text": "He who knows this is a knower of yoga."
+              "text": "yo jānāti sa yogavit"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -796,8 +733,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "tapta-cāmīkarābhāsaṃ",
-              "translated_text": "Resembling heated gold."
+              "text": "tapta-cāmīkarābhāsaṃ"
             },
             {
               "tag": "seg",
@@ -805,8 +741,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "taḍil-lekheva visphurat",
-              "translated_text": "Flashing like a streak of lightning."
+              "text": "taḍil-lekheva visphurat"
             }
           ]
         },
@@ -820,8 +755,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "caturasraṃ puraṃ vahner",
-              "translated_text": "A square city of fire."
+              "text": "caturasraṃ puraṃ vahner"
             },
             {
               "tag": "seg",
@@ -829,13 +763,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "adho-meḍhram evābhidhīyate",
-              "translated_text": "It is said to be below the genitals."
+              "text": "adho-meḍhram evābhidhīyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -857,8 +789,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "sva-śabdena bhavet prāṇaḥ",
-              "translated_text": "By its sound, <s>Prāṇa</s> becomes."
+              "text": "sva-śabdena bhavet prāṇaḥ"
             },
             {
               "tag": "seg",
@@ -866,8 +797,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "svādhiṣṭhānaṃ tad-āśrayaḥ",
-              "translated_text": "<s>Svādhiṣṭhāna</s> is its abode."
+              "text": "svādhiṣṭhānaṃ tad-āśrayaḥ"
             }
           ]
         },
@@ -881,8 +811,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "svādhiṣṭhānākhyayā tasmān",
-              "translated_text": "Therefore, it is known as <s>Svādhiṣṭhāna</s>."
+              "text": "svādhiṣṭhānākhyayā tasmān"
             },
             {
               "tag": "seg",
@@ -890,13 +819,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "meḍhram evābhidhīyate",
-              "translated_text": "The genitals are thus named."
+              "text": "meḍhram evābhidhīyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -918,8 +845,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "tantunā maṇivat proto",
-              "translated_text": "Threaded like a jewel."
+              "text": "tantunā maṇivat proto"
             },
             {
               "tag": "seg",
@@ -927,8 +853,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "yatra kandaḥ suṣumṇayā",
-              "translated_text": "Where the bulb is through the <s>Suṣumṇā</s>."
+              "text": "yatra kandaḥ suṣumṇayā"
             }
           ]
         },
@@ -942,8 +867,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "tan-nābhi-maṇḍalaṃ cakraṃ",
-              "translated_text": "That is the navel circle."
+              "text": "tan-nābhi-maṇḍalaṃ cakraṃ"
             },
             {
               "tag": "seg",
@@ -951,13 +875,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "procyate maṇi-pūrakam",
-              "translated_text": "It is called <s>Maṇipūraka</s>."
+              "text": "procyate maṇi-pūrakam"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -979,8 +901,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "ūrdhvaṃ meḍhrād adho nābheḥ",
-              "translated_text": "Above the genitals, below the navel."
+              "text": "ūrdhvaṃ meḍhrād adho nābheḥ"
             },
             {
               "tag": "seg",
@@ -988,8 +909,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "kanda-yoniḥ sva-gāṇḍavat",
-              "translated_text": "The bulb-yoni is like a bird's egg."
+              "text": "kanda-yoniḥ sva-gāṇḍavat"
             }
           ]
         },
@@ -1003,8 +923,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "tatra nāḍyaḥ samutpannāḥ",
-              "translated_text": "There arise the channels."
+              "text": "tatra nāḍyaḥ samutpannāḥ"
             },
             {
               "tag": "seg",
@@ -1012,13 +931,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "sahasrāṇi dvisaptatiḥ",
-              "translated_text": "Seventy-two thousand."
+              "text": "sahasrāṇi dvisaptatiḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1040,8 +957,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "teṣu nāḍi-sahasreṣu",
-              "translated_text": "Among those thousand channels."
+              "text": "teṣu nāḍi-sahasreṣu"
             },
             {
               "tag": "seg",
@@ -1049,8 +965,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "dvisaptatir udāhṛtāḥ",
-              "translated_text": "Seventy-two are mentioned."
+              "text": "dvisaptatir udāhṛtāḥ"
             }
           ]
         },
@@ -1064,8 +979,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "prādhānyāt prāṇa-vāhinyo",
-              "translated_text": "Primarily those that carry <s>Prāṇa</s>."
+              "text": "prādhānyāt prāṇa-vāhinyo"
             },
             {
               "tag": "seg",
@@ -1073,13 +987,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "bhūyas tatra daśa smṛtāḥ",
-              "translated_text": "Mostly, there are ten remembered."
+              "text": "bhūyas tatra daśa smṛtāḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1101,8 +1013,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "iḍā ca piṅgalā caiva",
-              "translated_text": "<s>Iḍā</s> and <s>Piṅgalā</s> indeed."
+              "text": "iḍā ca piṅgalā caiva"
             },
             {
               "tag": "seg",
@@ -1110,8 +1021,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "suṣumṇā ca tṛtīyakā",
-              "translated_text": "And <s>Suṣumṇā</s> as the third."
+              "text": "suṣumṇā ca tṛtīyakā"
             }
           ]
         },
@@ -1125,8 +1035,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "gāndhārī hasti-jihvā ca",
-              "translated_text": "<s>Gāndhārī</s> and <s>Hasti-jihvā</s> also."
+              "text": "gāndhārī hasti-jihvā ca"
             },
             {
               "tag": "seg",
@@ -1134,13 +1043,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "pūṣā caiva yaśasvinī",
-              "translated_text": "<s>Pūṣā</s> and indeed <s>Yaśasvinī</s>."
+              "text": "pūṣā caiva yaśasvinī"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1162,8 +1069,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "alambuṣā kuhūś caiva",
-              "translated_text": "<s>Alambuṣā</s> and <s>Kuhū</s> also."
+              "text": "alambuṣā kuhūś caiva"
             },
             {
               "tag": "seg",
@@ -1171,8 +1077,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "śaṅkhinī daśamī smṛtā",
-              "translated_text": "<s>Śaṅkhinī</s> is remembered as the tenth."
+              "text": "śaṅkhinī daśamī smṛtā"
             }
           ]
         },
@@ -1186,8 +1091,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "etan nāḍi-mayaṃ cakraṃ",
-              "translated_text": "This wheel made of channels."
+              "text": "etan nāḍi-mayaṃ cakraṃ"
             },
             {
               "tag": "seg",
@@ -1195,13 +1099,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "jñātavyaṃ yogibhiḥ sadā",
-              "translated_text": "Should always be known by yogis."
+              "text": "jñātavyaṃ yogibhiḥ sadā"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1223,8 +1125,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "iḍā vāme sthitā bhāge",
-              "translated_text": "<s>Iḍā</s> is situated on the left side."
+              "text": "iḍā vāme sthitā bhāge"
             },
             {
               "tag": "seg",
@@ -1232,8 +1133,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "piṅgalā dakṣiṇe tathā",
-              "translated_text": "<s>Piṅgalā</s> likewise on the right."
+              "text": "piṅgalā dakṣiṇe tathā"
             }
           ]
         },
@@ -1247,8 +1147,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "suṣumṇā madhya-deśe tu",
-              "translated_text": "<s>Suṣumṇā</s> is in the middle region."
+              "text": "suṣumṇā madhya-deśe tu"
             },
             {
               "tag": "seg",
@@ -1256,13 +1155,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "gāndhārī vāma-cakṣuṣi",
-              "translated_text": "<s>Gāndhārī</s> is in the left eye."
+              "text": "gāndhārī vāma-cakṣuṣi"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1284,8 +1181,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "dakṣiṇe hasti-jihvā ca",
-              "translated_text": "On the right is <s>Hasti-jihvā</s>."
+              "text": "dakṣiṇe hasti-jihvā ca"
             },
             {
               "tag": "seg",
@@ -1293,8 +1189,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "pūṣā karṇe ca dakṣiṇe",
-              "translated_text": "<s>Pūṣā</s> is in the right ear."
+              "text": "pūṣā karṇe ca dakṣiṇe"
             }
           ]
         },
@@ -1308,8 +1203,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "yaśasvinī vāma-karṇe",
-              "translated_text": "<s>Yaśasvinī</s> is in the left ear."
+              "text": "yaśasvinī vāma-karṇe"
             },
             {
               "tag": "seg",
@@ -1317,13 +1211,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "cāsane vāpy alambuṣā",
-              "translated_text": "<s>Alambuṣā</s> is also in the seat."
+              "text": "cāsane vāpy alambuṣā"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1345,8 +1237,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "kūhuś ca liṅga-deśe tu",
-              "translated_text": "<s>Kuhū</s> is in the genital area."
+              "text": "kūhuś ca liṅga-deśe tu"
             },
             {
               "tag": "seg",
@@ -1354,8 +1245,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "mūla-sthāne ca śaṅkhinī",
-              "translated_text": "In the root place is <s>Śaṅkhinī</s>."
+              "text": "mūla-sthāne ca śaṅkhinī"
             }
           ]
         },
@@ -1369,8 +1259,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "evaṃ dvāram upāśritya",
-              "translated_text": "Thus, at the doors are established."
+              "text": "evaṃ dvāram upāśritya"
             },
             {
               "tag": "seg",
@@ -1378,13 +1267,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "tiṣṭhanti daśa nāḍikāḥ",
-              "translated_text": "The ten <s>nāḍīs</s> remain."
+              "text": "tiṣṭhanti daśa nāḍikāḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1406,8 +1293,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "satataṃ prāṇa-vāhinyaḥ",
-              "translated_text": "Constantly carrying <s>Prāṇa</s>."
+              "text": "satataṃ prāṇa-vāhinyaḥ"
             },
             {
               "tag": "seg",
@@ -1415,8 +1301,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "soma-sūryāgni-devatāḥ",
-              "translated_text": "Having <s>Soma</s>, <s>Sūrya</s>, and <s>Agni</s> as deities."
+              "text": "soma-sūryāgni-devatāḥ"
             }
           ]
         },
@@ -1430,8 +1315,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "iḍā-piṅgalā-suṣumṇā ca",
-              "translated_text": "<s>Iḍā</s>, <s>Piṅgalā</s>, and <s>Suṣumṇā</s> also."
+              "text": "iḍā-piṅgalā-suṣumṇā ca"
             },
             {
               "tag": "seg",
@@ -1439,13 +1323,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "tisro nāḍya udāhṛtāḥ",
-              "translated_text": "Three channels are mentioned."
+              "text": "tisro nāḍya udāhṛtāḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1467,8 +1349,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "prāṇāpānau samānaś ca hy",
-              "translated_text": "<s>Prāṇa</s> and <s>Apāna</s>, and also <s>Samāna</s>."
+              "text": "prāṇāpānau samānaś ca hy"
             },
             {
               "tag": "seg",
@@ -1476,8 +1357,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "udāno vyāna eva ca",
-              "translated_text": "<s>Udāna</s> and indeed <s>Vyāna</s>."
+              "text": "udāno vyāna eva ca"
             }
           ]
         },
@@ -1491,8 +1371,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "nāgaḥ kūrmaś ca kṛkaro",
-              "translated_text": "<s>Nāga</s>, <s>Kūrma</s>, and <s>Kṛkara</s>."
+              "text": "nāgaḥ kūrmaś ca kṛkaro"
             },
             {
               "tag": "seg",
@@ -1500,13 +1379,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "devadatto dhanañjayaḥ",
-              "translated_text": "<s>Devadatta</s> and <s>Dhanañjaya</s>."
+              "text": "devadatto dhanañjayaḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1528,8 +1405,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "nāgādyāḥ pañca vikhyātāḥ",
-              "translated_text": "The five starting with <s>Nāga</s> are well-known."
+              "text": "nāgādyāḥ pañca vikhyātāḥ"
             },
             {
               "tag": "seg",
@@ -1537,8 +1413,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "prāṇādyāḥ pañca vāyavaḥ",
-              "translated_text": "The five winds starting with <s>Prāṇa</s>."
+              "text": "prāṇādyāḥ pañca vāyavaḥ"
             }
           ]
         },
@@ -1552,8 +1427,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "ete nāḍi-sahasreṣu",
-              "translated_text": "These, among the thousand channels."
+              "text": "ete nāḍi-sahasreṣu"
             },
             {
               "tag": "seg",
@@ -1561,13 +1435,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "vartante jīva-rūpiṇaḥ",
-              "translated_text": "Exist in the form of life."
+              "text": "vartante jīva-rūpiṇaḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1589,8 +1461,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "prāṇāpāna-vaśo jīvo hy",
-              "translated_text": "The life under the control of <s>Prāṇa</s> and <s>Apāna</s>."
+              "text": "prāṇāpāna-vaśo jīvo hy"
             },
             {
               "tag": "seg",
@@ -1598,8 +1469,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "adhaś cordhvaṃ ca dhāvati",
-              "translated_text": "Runs downward and upward."
+              "text": "adhaś cordhvaṃ ca dhāvati"
             }
           ]
         },
@@ -1613,8 +1483,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "vāma-dakṣiṇa-mārgeṇa",
-              "translated_text": "Through the left and right paths."
+              "text": "vāma-dakṣiṇa-mārgeṇa"
             },
             {
               "tag": "seg",
@@ -1622,13 +1491,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "cañcalatvān na dṛśyate",
-              "translated_text": "Due to restlessness, it is not seen."
+              "text": "cañcalatvān na dṛśyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1650,8 +1517,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "ākṣipto bhuvi daṇḍena",
-              "translated_text": "Struck on the ground with a stick."
+              "text": "ākṣipto bhuvi daṇḍena"
             },
             {
               "tag": "seg",
@@ -1659,8 +1525,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "yathoccalati kandukaḥ",
-              "translated_text": "As a ball rises."
+              "text": "yathoccalati kandukaḥ"
             }
           ]
         },
@@ -1674,8 +1539,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "prāṇāpāna-samākṣiptas",
-              "translated_text": "Thrown by <s>Prāṇa</s> and <s>Apāna</s>."
+              "text": "prāṇāpāna-samākṣiptas"
             },
             {
               "tag": "seg",
@@ -1683,13 +1547,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "tathā jīvo'nukṛṣyate",
-              "translated_text": "Thus, life is drawn."
+              "text": "tathā jīvo'nukṛṣyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1711,8 +1573,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "rajju-baddho yathā śyeno",
-              "translated_text": "Like a falcon bound by a cord."
+              "text": "rajju-baddho yathā śyeno"
             },
             {
               "tag": "seg",
@@ -1720,8 +1581,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "gato'py ākṛṣyate(?)",
-              "translated_text": "Even gone, it is drawn back."
+              "text": "gato'py ākṛṣyate(?)"
             }
           ]
         },
@@ -1735,8 +1595,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "guṇa-baddhas tathā jīvaḥ",
-              "translated_text": "Similarly, life is bound by qualities."
+              "text": "guṇa-baddhas tathā jīvaḥ"
             },
             {
               "tag": "seg",
@@ -1744,13 +1603,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "prāṇāpānena kṛṣyate",
-              "translated_text": "Is drawn by <s>Prāṇa</s> and <s>Apāna</s>."
+              "text": "prāṇāpānena kṛṣyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1772,8 +1629,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "apānaḥ karṣati prāṇaḥ",
-              "translated_text": "<s>Apāna</s> pulls <s>Prāṇa</s>."
+              "text": "apānaḥ karṣati prāṇaḥ"
             },
             {
               "tag": "seg",
@@ -1781,8 +1637,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "prāṇo'pānaṃ ca karṣati",
-              "translated_text": "<s>Prāṇa</s> pulls <s>Apāna</s>."
+              "text": "prāṇo'pānaṃ ca karṣati"
             }
           ]
         },
@@ -1796,8 +1651,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "ūrdhvādhaḥ saṃsthitāv etau",
-              "translated_text": "These two are situated above and below."
+              "text": "ūrdhvādhaḥ saṃsthitāv etau"
             },
             {
               "tag": "seg",
@@ -1805,13 +1659,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "yo jānāti sa yogavit",
-              "translated_text": "He who knows this is a knower of yoga."
+              "text": "yo jānāti sa yogavit"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1833,8 +1685,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "kandordhve kuṇḍalī-śaktir",
-              "translated_text": "Above the bulb is the <s>Kuṇḍalinī</s> power."
+              "text": "kandordhve kuṇḍalī-śaktir"
             },
             {
               "tag": "seg",
@@ -1842,8 +1693,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "aṣṭadhā kuṇḍalī-kṛtā",
-              "translated_text": "Coiled eight times."
+              "text": "aṣṭadhā kuṇḍalī-kṛtā"
             }
           ]
         },
@@ -1857,8 +1707,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "brahma-dvāra-mukhaṃ nityaṃ",
-              "translated_text": "Always at the opening of the <s>Brahma-dvāra</s>."
+              "text": "brahma-dvāra-mukhaṃ nityaṃ"
             },
             {
               "tag": "seg",
@@ -1866,13 +1715,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "mukhenāvṛtya tiṣṭhati",
-              "translated_text": "It remains covering with its mouth."
+              "text": "mukhenāvṛtya tiṣṭhati"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1894,8 +1741,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "prabuddhā vahni-yogena",
-              "translated_text": "Awakened by the union with fire."
+              "text": "prabuddhā vahni-yogena"
             },
             {
               "tag": "seg",
@@ -1903,8 +1749,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "manasā mārutā hatā",
-              "translated_text": "Struck by the mind and wind."
+              "text": "manasā mārutā hatā"
             }
           ]
         },
@@ -1918,8 +1763,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "prajīva-guṇam ādāya",
-              "translated_text": "Taking the quality of life."
+              "text": "prajīva-guṇam ādāya"
             },
             {
               "tag": "seg",
@@ -1927,13 +1771,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "vrajaty ūrdhvaṃ suṣumṇayā",
-              "translated_text": "Goes upwards through <s>Suṣumṇā</s>."
+              "text": "vrajaty ūrdhvaṃ suṣumṇayā"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -1955,8 +1797,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "mahāmudrāṃ namo-mudrām",
-              "translated_text": "<s>Mahāmudrā</s> and <s>Namo-mudrā</s>."
+              "text": "mahāmudrāṃ namo-mudrām"
             },
             {
               "tag": "seg",
@@ -1964,8 +1805,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "uḍḍiyānaṃ jalandharam",
-              "translated_text": "<s>Uḍḍiyāna</s> and <s>Jalandhara</s>."
+              "text": "uḍḍiyānaṃ jalandharam"
             }
           ]
         },
@@ -1979,8 +1819,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "mūla-bandhaṃ ca yo vetti",
-              "translated_text": "And he who knows the <s>Mūla-bandha</s>."
+              "text": "mūla-bandhaṃ ca yo vetti"
             },
             {
               "tag": "seg",
@@ -1988,13 +1827,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "sa yogī siddhi-bhājanam",
-              "translated_text": "That yogi is a vessel of perfection."
+              "text": "sa yogī siddhi-bhājanam"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2016,8 +1853,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "vakṣo-nyasta-hanur nipīḍya suciraṃ yoniṃ ca vāmāṅghriṇā",
-              "translated_text": "Pressing the chin on the chest and the yoni with the left heel for a long time."
+              "text": "vakṣo-nyasta-hanur nipīḍya suciraṃ yoniṃ ca vāmāṅghriṇā"
             },
             {
               "tag": "seg",
@@ -2025,8 +1861,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "hastābhyām avadhāritaṃ prasaritaṃ pādaṃ tathā dakṣiṇam",
-              "translated_text": "Holding the extended foot with the hands, also the right."
+              "text": "hastābhyām avadhāritaṃ prasaritaṃ pādaṃ tathā dakṣiṇam"
             }
           ]
         },
@@ -2040,8 +1875,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "āpūrya śvasanena kukṣi-yugalaṃ baddhvā śanai recayed",
-              "translated_text": "Filling the pair of bellies with breath, then slowly exhaling."
+              "text": "āpūrya śvasanena kukṣi-yugalaṃ baddhvā śanai recayed"
             },
             {
               "tag": "seg",
@@ -2049,13 +1883,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "eṣā pātaka-nāśinī sumahatī mudrā nṝṇāṃ procyate",
-              "translated_text": "This is called the great sin-destroying mudrā for people."
+              "text": "eṣā pātaka-nāśinī sumahatī mudrā nṝṇāṃ procyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2077,8 +1909,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "kapāla-kuhare jihvā",
-              "translated_text": "The tongue in the cavity of the skull."
+              "text": "kapāla-kuhare jihvā"
             },
             {
               "tag": "seg",
@@ -2086,8 +1917,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "praviṣṭā viparītagā",
-              "translated_text": "Entered and turned backwards."
+              "text": "praviṣṭā viparītagā"
             }
           ]
         },
@@ -2101,8 +1931,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "bhruvor antargatā dṛṣṭir",
-              "translated_text": "The gaze fixed between the eyebrows."
+              "text": "bhruvor antargatā dṛṣṭir"
             },
             {
               "tag": "seg",
@@ -2110,13 +1939,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "mudrā bhavati khecarī",
-              "translated_text": "Becomes the <s>Khecarī</s> mudrā."
+              "text": "mudrā bhavati khecarī"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2138,8 +1965,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "ūrdhvaṃ meḍhrād adho nābher",
-              "translated_text": "Above the genitals, below the navel."
+              "text": "ūrdhvaṃ meḍhrād adho nābher"
             },
             {
               "tag": "seg",
@@ -2147,8 +1973,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "uḍḍiyānaṃ pracakṣate",
-              "translated_text": "Is called <s>Uḍḍiyāna</s>."
+              "text": "uḍḍiyānaṃ pracakṣate"
             }
           ]
         },
@@ -2162,8 +1987,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "uḍḍiyāna-jayo bandho",
-              "translated_text": "Victory in <s>Uḍḍiyāna</s> is the bond."
+              "text": "uḍḍiyāna-jayo bandho"
             },
             {
               "tag": "seg",
@@ -2171,13 +1995,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "mṛtyu-mātaṅga-kesarī",
-              "translated_text": "The lion to the elephant of death."
+              "text": "mṛtyu-mātaṅga-kesarī"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2199,8 +2021,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "jālandhare kṛte bandhe",
-              "translated_text": "When the bond of <s>Jālandhara</s> is made."
+              "text": "jālandhare kṛte bandhe"
             },
             {
               "tag": "seg",
@@ -2208,8 +2029,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "kaṇṭha-saṅkoca-lakṣaṇe",
-              "translated_text": "Characterized by the contraction of the throat."
+              "text": "kaṇṭha-saṅkoca-lakṣaṇe"
             }
           ]
         },
@@ -2223,8 +2043,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "na pīyūṣaṃ pataty agnau",
-              "translated_text": "The nectar does not fall into the fire."
+              "text": "na pīyūṣaṃ pataty agnau"
             },
             {
               "tag": "seg",
@@ -2232,13 +2051,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "na ca vāyuḥ prakupyati",
-              "translated_text": "Nor does the wind become agitated."
+              "text": "na ca vāyuḥ prakupyati"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2260,8 +2077,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "pārṣṇi-bhāgena sampīḍya",
-              "translated_text": "Pressing with the heel."
+              "text": "pārṣṇi-bhāgena sampīḍya"
             },
             {
               "tag": "seg",
@@ -2269,8 +2085,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "yonim ākuñcayed gudam",
-              "translated_text": "Contract the yoni and anus."
+              "text": "yonim ākuñcayed gudam"
             }
           ]
         },
@@ -2284,8 +2099,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "apānam ūrdhvam ākṛṣya",
-              "translated_text": "Drawing <s>Apāna</s> upwards."
+              "text": "apānam ūrdhvam ākṛṣya"
             },
             {
               "tag": "seg",
@@ -2293,13 +2107,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "mūla-bandho nigadyate",
-              "translated_text": "Is called <s>Mūla-bandha</s>."
+              "text": "mūla-bandho nigadyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2321,8 +2133,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "yataḥ kāla-bhayāt brahmā",
-              "translated_text": "For fear of time, <s>Brahmā</s>."
+              "text": "yataḥ kāla-bhayāt brahmā"
             },
             {
               "tag": "seg",
@@ -2330,8 +2141,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "prāṇāyāma-parāyaṇaḥ",
-              "translated_text": "Devoted to <s>Prāṇāyāma</s>."
+              "text": "prāṇāyāma-parāyaṇaḥ"
             }
           ]
         },
@@ -2345,8 +2155,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "yogino munayaś caiva",
-              "translated_text": "And the yogis and sages."
+              "text": "yogino munayaś caiva"
             },
             {
               "tag": "seg",
@@ -2354,13 +2163,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "tataḥ prāṇaṃ nibandhayet",
-              "translated_text": "Therefore, bind the <s>Prāṇa</s>."
+              "text": "tataḥ prāṇaṃ nibandhayet"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2382,8 +2189,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "cale vāte calaṃ sarvaṃ",
-              "translated_text": "When the wind moves, all moves."
+              "text": "cale vāte calaṃ sarvaṃ"
             },
             {
               "tag": "seg",
@@ -2391,8 +2197,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "niścale niścalaṃ bhavet",
-              "translated_text": "When still, all becomes still."
+              "text": "niścale niścalaṃ bhavet"
             }
           ]
         },
@@ -2406,8 +2211,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "yogī sthāṇutvam āpnoti",
-              "translated_text": "The yogi achieves steadiness."
+              "text": "yogī sthāṇutvam āpnoti"
             },
             {
               "tag": "seg",
@@ -2415,13 +2219,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "tato vāyuṃ nibandhayet",
-              "translated_text": "Therefore, bind the wind."
+              "text": "tato vāyuṃ nibandhayet"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2443,8 +2245,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "ṣaṭ-triṃśad-aṅgulaṃ haṃsaḥ",
-              "translated_text": "The swan is thirty-six fingers long."
+              "text": "ṣaṭ-triṃśad-aṅgulaṃ haṃsaḥ"
             },
             {
               "tag": "seg",
@@ -2452,8 +2253,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "prayāṇaṃ kurute bahiḥ",
-              "translated_text": "Makes its journey outside."
+              "text": "prayāṇaṃ kurute bahiḥ"
             }
           ]
         },
@@ -2467,8 +2267,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "vāma-dakṣiṇa-mārgeṇa",
-              "translated_text": "Through the left and right paths."
+              "text": "vāma-dakṣiṇa-mārgeṇa"
             },
             {
               "tag": "seg",
@@ -2476,13 +2275,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "tataḥ prāṇo'bhidhīyate",
-              "translated_text": "Then it is called <s>Prāṇa</s>."
+              "text": "tataḥ prāṇo'bhidhīyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2504,8 +2301,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "baddha-padmāsano yogī",
-              "translated_text": "The yogi in <s>Padmāsana</s>."
+              "text": "baddha-padmāsano yogī"
             },
             {
               "tag": "seg",
@@ -2513,8 +2309,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "namaskṛtya guruṃ śivam",
-              "translated_text": "Saluting the guru, <s>Śiva</s>."
+              "text": "namaskṛtya guruṃ śivam"
             }
           ]
         },
@@ -2528,8 +2323,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "nāsāgra-dṛṣṭir ekākī",
-              "translated_text": "With gaze on the tip of the nose, alone."
+              "text": "nāsāgra-dṛṣṭir ekākī"
             },
             {
               "tag": "seg",
@@ -2537,13 +2331,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "prāṇāyāmaṃ samabhyaset",
-              "translated_text": "Should practice <s>Prāṇāyāma</s>."
+              "text": "prāṇāyāmaṃ samabhyaset"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2565,8 +2357,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "prāṇo deha-sthito vāyur",
-              "translated_text": "<s>Prāṇa</s> is the wind residing in the body."
+              "text": "prāṇo deha-sthito vāyur"
             },
             {
               "tag": "seg",
@@ -2574,8 +2365,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "āyāmas tan-nibandhanam",
-              "translated_text": "Its extension is its binding."
+              "text": "āyāmas tan-nibandhanam"
             }
           ]
         },
@@ -2589,8 +2379,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "eka-śvāsa-mayī mātrā",
-              "translated_text": "One breath is the measure."
+              "text": "eka-śvāsa-mayī mātrā"
             },
             {
               "tag": "seg",
@@ -2598,13 +2387,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "tad yogī gaganāyate",
-              "translated_text": "Then the yogi becomes like the sky."
+              "text": "tad yogī gaganāyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2626,8 +2413,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "baddha-padmāsano yogī",
-              "translated_text": "The yogi in <s>Padmāsana</s>."
+              "text": "baddha-padmāsano yogī"
             },
             {
               "tag": "seg",
@@ -2635,8 +2421,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "prāṇaṃ candreṇa pūrayet",
-              "translated_text": "Should fill the <s>Prāṇa</s> with the moon."
+              "text": "prāṇaṃ candreṇa pūrayet"
             }
           ]
         },
@@ -2650,8 +2435,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "dhārayitvā yathā-śakti",
-              "translated_text": "Holding as much as possible."
+              "text": "dhārayitvā yathā-śakti"
             },
             {
               "tag": "seg",
@@ -2659,13 +2443,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "bhūyaḥ sūryeṇa recayet",
-              "translated_text": "Then exhale with the sun."
+              "text": "bhūyaḥ sūryeṇa recayet"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2687,8 +2469,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "amṛtodadhi-saṅkāśaṃ",
-              "translated_text": "Resembling the ocean of nectar."
+              "text": "amṛtodadhi-saṅkāśaṃ"
             },
             {
               "tag": "seg",
@@ -2696,8 +2477,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "kṣīroda-dhavala-prabham",
-              "translated_text": "With the brilliance of milk."
+              "text": "kṣīroda-dhavala-prabham"
             }
           ]
         },
@@ -2711,8 +2491,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "dhyātvā candramayaṃ bimbaṃ",
-              "translated_text": "Meditating on the lunar orb."
+              "text": "dhyātvā candramayaṃ bimbaṃ"
             },
             {
               "tag": "seg",
@@ -2720,13 +2499,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "prāṇāyāme sukhī bhavet",
-              "translated_text": "Becomes happy in <s>Prāṇāyāma</s>."
+              "text": "prāṇāyāme sukhī bhavet"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2748,8 +2525,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "prāṇaṃ sūryeṇa cākṛṣya",
-              "translated_text": "Drawing <s>Prāṇa</s> with the sun."
+              "text": "prāṇaṃ sūryeṇa cākṛṣya"
             },
             {
               "tag": "seg",
@@ -2757,8 +2533,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "pūrayed udaraṃ śanaiḥ",
-              "translated_text": "Fill the belly slowly."
+              "text": "pūrayed udaraṃ śanaiḥ"
             }
           ]
         },
@@ -2772,8 +2547,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "kumbhayitvā vidhānena",
-              "translated_text": "Holding as per the method."
+              "text": "kumbhayitvā vidhānena"
             },
             {
               "tag": "seg",
@@ -2781,13 +2555,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "bhūyaś candreṇa recayet",
-              "translated_text": "Then exhale with the moon."
+              "text": "bhūyaś candreṇa recayet"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2809,8 +2581,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "prajvalaj-jvalana-jvālā",
-              "translated_text": "Flames of blazing fire."
+              "text": "prajvalaj-jvalana-jvālā"
             },
             {
               "tag": "seg",
@@ -2818,8 +2589,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "puñjam āditya-maṇḍalam",
-              "translated_text": "The orb of the sun."
+              "text": "puñjam āditya-maṇḍalam"
             }
           ]
         },
@@ -2833,8 +2603,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "dhyātvā nābhi-sthitaṃ yogī",
-              "translated_text": "Meditating at the navel, the yogi."
+              "text": "dhyātvā nābhi-sthitaṃ yogī"
             },
             {
               "tag": "seg",
@@ -2842,13 +2611,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "prāṇāyāme sukhī bhavet",
-              "translated_text": "Becomes happy in <s>Prāṇāyāma</s>."
+              "text": "prāṇāyāme sukhī bhavet"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2870,8 +2637,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "recakaḥ pūrakaś caiva",
-              "translated_text": "<s>Recaka</s> and <s>Pūraka</s> indeed."
+              "text": "recakaḥ pūrakaś caiva"
             },
             {
               "tag": "seg",
@@ -2879,8 +2645,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "kumbhakaḥ praṇavātmakaḥ",
-              "translated_text": "<s>Kumbhaka</s> is of the nature of <s>Praṇava</s>."
+              "text": "kumbhakaḥ praṇavātmakaḥ"
             }
           ]
         },
@@ -2894,8 +2659,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "prāṇāyāmo bhavet tredhā",
-              "translated_text": "<s>Prāṇāyāma</s> becomes threefold."
+              "text": "prāṇāyāmo bhavet tredhā"
             },
             {
               "tag": "seg",
@@ -2903,13 +2667,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "mātrā dvādaśa-saṃyutaḥ",
-              "translated_text": "With twelve units of measure."
+              "text": "mātrā dvādaśa-saṃyutaḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2931,8 +2693,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "dvādaśādhamake mātrā",
-              "translated_text": "In the lower, twelve units."
+              "text": "dvādaśādhamake mātrā"
             },
             {
               "tag": "seg",
@@ -2940,8 +2701,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "madhyame dviguṇās tataḥ",
-              "translated_text": "In the middle, twice that."
+              "text": "madhyame dviguṇās tataḥ"
             }
           ]
         },
@@ -2955,8 +2715,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "uttame triguṇā mātrāḥ",
-              "translated_text": "In the superior, thrice the units."
+              "text": "uttame triguṇā mātrāḥ"
             },
             {
               "tag": "seg",
@@ -2964,13 +2723,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "prāṇāyāmasya nirṇayaḥ",
-              "translated_text": "This is the determination of <s>Prāṇāyāma</s>."
+              "text": "prāṇāyāmasya nirṇayaḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -2992,8 +2749,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "adhame ca ghano gharmaḥ",
-              "translated_text": "In the lower, there is intense heat."
+              "text": "adhame ca ghano gharmaḥ"
             },
             {
               "tag": "seg",
@@ -3001,8 +2757,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "kampo bhavati madhyame",
-              "translated_text": "Trembling occurs in the middle."
+              "text": "kampo bhavati madhyame"
             }
           ]
         },
@@ -3016,8 +2771,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "uttiṣṭhaty uttame yogī",
-              "translated_text": "In the superior, the yogi rises."
+              "text": "uttiṣṭhaty uttame yogī"
             },
             {
               "tag": "seg",
@@ -3025,13 +2779,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "baddha-padmāsano muhuḥ",
-              "translated_text": "In the bound <s>Padmāsana</s>, repeatedly."
+              "text": "baddha-padmāsano muhuḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3053,8 +2805,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "aṅgānāṃ mardanaṃ śastaṃ",
-              "translated_text": "Massaging the limbs is beneficial."
+              "text": "aṅgānāṃ mardanaṃ śastaṃ"
             },
             {
               "tag": "seg",
@@ -3062,8 +2813,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "śrama-saṃjāta-vāriṇā",
-              "translated_text": "With sweat generated by effort."
+              "text": "śrama-saṃjāta-vāriṇā"
             }
           ]
         },
@@ -3077,8 +2827,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "kaṭv-amla-lavaṇa-tyāgī",
-              "translated_text": "Abandoning pungent, sour, and salty foods."
+              "text": "kaṭv-amla-lavaṇa-tyāgī"
             },
             {
               "tag": "seg",
@@ -3086,13 +2835,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "kṣīra-bhojanam ācaret",
-              "translated_text": "One should consume milk."
+              "text": "kṣīra-bhojanam ācaret"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3114,8 +2861,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "mandaṃ mandaṃ pibed vāyuṃ",
-              "translated_text": "Slowly, slowly drink the wind."
+              "text": "mandaṃ mandaṃ pibed vāyuṃ"
             },
             {
               "tag": "seg",
@@ -3123,8 +2869,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "mandaṃ mandaṃ viyojayet",
-              "translated_text": "Slowly, slowly release it."
+              "text": "mandaṃ mandaṃ viyojayet"
             }
           ]
         },
@@ -3138,8 +2883,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "nādhikaṃ stambhayed vāyuṃ",
-              "translated_text": "Do not excessively restrain the wind."
+              "text": "nādhikaṃ stambhayed vāyuṃ"
             },
             {
               "tag": "seg",
@@ -3147,13 +2891,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "na ca śīghraṃ vimocayet",
-              "translated_text": "Nor release it quickly."
+              "text": "na ca śīghraṃ vimocayet"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3175,8 +2917,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "ūrdhvam ākṛṣya cāpānaṃ",
-              "translated_text": "Drawing <s>Apāna</s> upwards."
+              "text": "ūrdhvam ākṛṣya cāpānaṃ"
             },
             {
               "tag": "seg",
@@ -3184,8 +2925,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "vātaṃ prāṇe niyojayet",
-              "translated_text": "Engage the wind in <s>Prāṇa</s>."
+              "text": "vātaṃ prāṇe niyojayet"
             }
           ]
         },
@@ -3199,8 +2939,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "mūrdhānaṃ nīyate śaktyā",
-              "translated_text": "The head is led by force."
+              "text": "mūrdhānaṃ nīyate śaktyā"
             },
             {
               "tag": "seg",
@@ -3208,13 +2947,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "sarva-pāpaiḥ pramucyate",
-              "translated_text": "Is freed from all sins."
+              "text": "sarva-pāpaiḥ pramucyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3236,8 +2973,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "prāṇāyāmo bhavaty evaṃ",
-              "translated_text": "<s>Prāṇāyāma</s> thus becomes."
+              "text": "prāṇāyāmo bhavaty evaṃ"
             },
             {
               "tag": "seg",
@@ -3245,8 +2981,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "pātakendhana-pātakaḥ",
-              "translated_text": "The destroyer of the fuel of sin."
+              "text": "pātakendhana-pātakaḥ"
             }
           ]
         },
@@ -3260,8 +2995,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "enombudhi-mahā-setuḥ",
-              "translated_text": "The great bridge over the ocean of sin."
+              "text": "enombudhi-mahā-setuḥ"
             },
             {
               "tag": "seg",
@@ -3269,13 +3003,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "procyate yogibhiḥ sadā",
-              "translated_text": "Is always proclaimed by yogis."
+              "text": "procyate yogibhiḥ sadā"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3297,8 +3029,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "āsanena rujo hanti",
-              "translated_text": "Destroys ailments with posture."
+              "text": "āsanena rujo hanti"
             },
             {
               "tag": "seg",
@@ -3306,8 +3037,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "prāṇāyāmena pātakam",
-              "translated_text": "Destroys sin with <s>Prāṇāyāma</s>."
+              "text": "prāṇāyāmena pātakam"
             }
           ]
         },
@@ -3321,8 +3051,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "vikāraṃ mānasaṃ yogī",
-              "translated_text": "The yogi, mental distortion."
+              "text": "vikāraṃ mānasaṃ yogī"
             },
             {
               "tag": "seg",
@@ -3330,13 +3059,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "pratyāhāreṇa sarvadā",
-              "translated_text": "Always with withdrawal."
+              "text": "pratyāhāreṇa sarvadā"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3358,8 +3085,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "candrāmṛta-mayīṃ dhārāṃ",
-              "translated_text": "The stream of lunar nectar."
+              "text": "candrāmṛta-mayīṃ dhārāṃ"
             },
             {
               "tag": "seg",
@@ -3367,8 +3093,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "pratyāhārati bhāskaraḥ",
-              "translated_text": "The sun withdraws."
+              "text": "pratyāhārati bhāskaraḥ"
             }
           ]
         },
@@ -3382,8 +3107,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "tat-pratyāharaṇaṃ tasya",
-              "translated_text": "That withdrawal of it."
+              "text": "tat-pratyāharaṇaṃ tasya"
             },
             {
               "tag": "seg",
@@ -3391,13 +3115,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "pratyāhāraḥ sa ucyate",
-              "translated_text": "Is called withdrawal."
+              "text": "pratyāhāraḥ sa ucyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3419,8 +3141,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "ekā strī bhujyate dvābhyām",
-              "translated_text": "One woman is enjoyed by two."
+              "text": "ekā strī bhujyate dvābhyām"
             },
             {
               "tag": "seg",
@@ -3428,8 +3149,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "āgatā soma-maṇḍalāt",
-              "translated_text": "Coming from the lunar orb."
+              "text": "āgatā soma-maṇḍalāt"
             }
           ]
         },
@@ -3443,8 +3163,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "tṛtīyo yo bhavet tābhyāṃ",
-              "translated_text": "The third who is with them."
+              "text": "tṛtīyo yo bhavet tābhyāṃ"
             },
             {
               "tag": "seg",
@@ -3452,13 +3171,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "sa bhavaty ajarāmaraḥ",
-              "translated_text": "He becomes ageless and immortal."
+              "text": "sa bhavaty ajarāmaraḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3480,8 +3197,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "nābhideśe bhavaty eko",
-              "translated_text": "In the navel region is one."
+              "text": "nābhideśe bhavaty eko"
             },
             {
               "tag": "seg",
@@ -3489,8 +3205,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "bhāskaro dahanātmakaḥ",
-              "translated_text": "The sun, of fiery nature."
+              "text": "bhāskaro dahanātmakaḥ"
             }
           ]
         },
@@ -3504,8 +3219,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "amṛtātmā sthito nityaṃ",
-              "translated_text": "The immortal soul is always situated."
+              "text": "amṛtātmā sthito nityaṃ"
             },
             {
               "tag": "seg",
@@ -3513,13 +3227,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "tālumūle ca candramāḥ",
-              "translated_text": "And the moon at the root of the palate."
+              "text": "tālumūle ca candramāḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3541,8 +3253,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "varṣaty adhomukhaś candro",
-              "translated_text": "The downward-facing moon rains."
+              "text": "varṣaty adhomukhaś candro"
             },
             {
               "tag": "seg",
@@ -3550,8 +3261,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "grasaty ūrdhva-mukho raviḥ",
-              "translated_text": "The upward-facing sun devours."
+              "text": "grasaty ūrdhva-mukho raviḥ"
             }
           ]
         },
@@ -3565,8 +3275,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "jñātavyaṃ karaṇaṃ tatra",
-              "translated_text": "The method is to be known there."
+              "text": "jñātavyaṃ karaṇaṃ tatra"
             },
             {
               "tag": "seg",
@@ -3574,13 +3283,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "yena pīyūṣam āpyate",
-              "translated_text": "By which nectar is obtained."
+              "text": "yena pīyūṣam āpyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3602,8 +3309,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "ūrdhva-nābhir adhas tālu",
-              "translated_text": "Above the navel, below the palate."
+              "text": "ūrdhva-nābhir adhas tālu"
             },
             {
               "tag": "seg",
@@ -3611,8 +3317,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "ūrdhva-bhānur adhaḥ śaśī",
-              "translated_text": "The upward sun, the downward moon."
+              "text": "ūrdhva-bhānur adhaḥ śaśī"
             }
           ]
         },
@@ -3626,8 +3331,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "karaṇaṃ viparītākhyaṃ",
-              "translated_text": "The method called inverted."
+              "text": "karaṇaṃ viparītākhyaṃ"
             },
             {
               "tag": "seg",
@@ -3635,13 +3339,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "guru-vaktreṇa labhyate",
-              "translated_text": "Is obtained from the guru's mouth."
+              "text": "guru-vaktreṇa labhyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3663,8 +3365,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "tridhā baddho vṛṣo yatra",
-              "translated_text": "Where the bull is tied threefold."
+              "text": "tridhā baddho vṛṣo yatra"
             },
             {
               "tag": "seg",
@@ -3672,8 +3373,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "rauravīti mahāsvanam",
-              "translated_text": "Roaring with a great sound."
+              "text": "rauravīti mahāsvanam"
             }
           ]
         },
@@ -3687,8 +3387,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "anāhataṃ ca tac cakraṃ",
-              "translated_text": "And the <s>Anāhata</s> that is the wheel."
+              "text": "anāhataṃ ca tac cakraṃ"
             },
             {
               "tag": "seg",
@@ -3696,13 +3395,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "hṛdaye yogino viduḥ",
-              "translated_text": "Known in the heart of the yogi."
+              "text": "hṛdaye yogino viduḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3724,8 +3421,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "anāhatam atikramya",
-              "translated_text": "Surpassing the <s>Anāhata</s>."
+              "text": "anāhatam atikramya"
             },
             {
               "tag": "seg",
@@ -3733,8 +3429,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "cākramya maṇipūrakam",
-              "translated_text": "Reaching the <s>Maṇipūraka</s>."
+              "text": "cākramya maṇipūrakam"
             }
           ]
         },
@@ -3748,8 +3443,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "prāpte prāṇaṃ mahāpadmaṃ",
-              "translated_text": "When the great lotus is reached by <s>Prāṇa</s>."
+              "text": "prāpte prāṇaṃ mahāpadmaṃ"
             },
             {
               "tag": "seg",
@@ -3757,13 +3451,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "yogitvam amṛtāyate",
-              "translated_text": "Yogic state becomes immortal."
+              "text": "yogitvam amṛtāyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3785,8 +3477,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "viśabdaḥ saṃsmṛto haṃso",
-              "translated_text": "The sound remembered as <s>Haṃsa</s>."
+              "text": "viśabdaḥ saṃsmṛto haṃso"
             },
             {
               "tag": "seg",
@@ -3794,8 +3485,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "nirmalaḥ śuddha ucyate",
-              "translated_text": "Is called pure and clean."
+              "text": "nirmalaḥ śuddha ucyate"
             }
           ]
         },
@@ -3809,8 +3499,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "ataḥ kaṇṭhe viśuddhākhye",
-              "translated_text": "Therefore, at the throat in <s>Viśuddha</s>."
+              "text": "ataḥ kaṇṭhe viśuddhākhye"
             },
             {
               "tag": "seg",
@@ -3818,13 +3507,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "cakraṃ cakra-vido viduḥ",
-              "translated_text": "The wheel is known by the knowers of the wheel."
+              "text": "cakraṃ cakra-vido viduḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3846,8 +3533,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "viśuddhe parame cakre",
-              "translated_text": "In the supreme wheel of <s>Viśuddha</s>."
+              "text": "viśuddhe parame cakre"
             },
             {
               "tag": "seg",
@@ -3855,8 +3541,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "dhṛtvā soma-kalā-jalam",
-              "translated_text": "Holding the nectar of the lunar phase."
+              "text": "dhṛtvā soma-kalā-jalam"
             }
           ]
         },
@@ -3870,8 +3555,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "māsena na kṣayaṃ yāti",
-              "translated_text": "It does not diminish in a month."
+              "text": "māsena na kṣayaṃ yāti"
             },
             {
               "tag": "seg",
@@ -3879,13 +3563,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "vañcayitvā mukhaṃ raveḥ",
-              "translated_text": "Deceiving the face of the sun."
+              "text": "vañcayitvā mukhaṃ raveḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3907,8 +3589,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "sampīḍya rasanāgreṇa",
-              "translated_text": "Pressing with the tip of the tongue."
+              "text": "sampīḍya rasanāgreṇa"
             },
             {
               "tag": "seg",
@@ -3916,8 +3597,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "rāja-danta-bilaṃ mahat",
-              "translated_text": "The great cavity of the royal tooth."
+              "text": "rāja-danta-bilaṃ mahat"
             }
           ]
         },
@@ -3931,8 +3611,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "dhyātvāmṛtamayīṃ devīṃ",
-              "translated_text": "Meditating on the goddess full of nectar."
+              "text": "dhyātvāmṛtamayīṃ devīṃ"
             },
             {
               "tag": "seg",
@@ -3940,13 +3619,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "ṣaṇ-māsena kavir bhavet",
-              "translated_text": "One becomes a poet in six months."
+              "text": "ṣaṇ-māsena kavir bhavet"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -3968,8 +3645,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "amṛtāpūrṇa-dehasya",
-              "translated_text": "Of the body full of nectar."
+              "text": "amṛtāpūrṇa-dehasya"
             },
             {
               "tag": "seg",
@@ -3977,8 +3653,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "yogino dvi-tri-vatsarāt",
-              "translated_text": "Of the yogi, in two or three years."
+              "text": "yogino dvi-tri-vatsarāt"
             }
           ]
         },
@@ -3992,8 +3667,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "ūrdhvaṃ pravartate reto'py",
-              "translated_text": "The seed moves upwards."
+              "text": "ūrdhvaṃ pravartate reto'py"
             },
             {
               "tag": "seg",
@@ -4001,13 +3675,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "aṇimādi-guṇodayaḥ",
-              "translated_text": "The rise of qualities like <s>Aṇimā</s>."
+              "text": "aṇimādi-guṇodayaḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4029,8 +3701,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "indhanāni yathā vahnis",
-              "translated_text": "As fire consumes fuel."
+              "text": "indhanāni yathā vahnis"
             },
             {
               "tag": "seg",
@@ -4038,8 +3709,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "taila-varti ca dīpakaḥ",
-              "translated_text": "And the lamp consumes the oil wick."
+              "text": "taila-varti ca dīpakaḥ"
             }
           ]
         },
@@ -4053,8 +3723,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "tathā somakalā-pūrṇaṃ",
-              "translated_text": "So the body full of lunar nectar."
+              "text": "tathā somakalā-pūrṇaṃ"
             },
             {
               "tag": "seg",
@@ -4062,13 +3731,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "dehī dehaṃ na muñcati",
-              "translated_text": "The embodied does not leave the body."
+              "text": "dehī dehaṃ na muñcati"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4090,8 +3757,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "āsanena samāyuktaḥ",
-              "translated_text": "United with posture."
+              "text": "āsanena samāyuktaḥ"
             },
             {
               "tag": "seg",
@@ -4099,8 +3765,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "prāṇāyāmena saṃyutaḥ",
-              "translated_text": "United with <s>Prāṇāyāma</s>."
+              "text": "prāṇāyāmena saṃyutaḥ"
             }
           ]
         },
@@ -4114,8 +3779,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "pratyāhāreṇa saṃyukto",
-              "translated_text": "United with withdrawal."
+              "text": "pratyāhāreṇa saṃyukto"
             },
             {
               "tag": "seg",
@@ -4123,13 +3787,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "dhāraṇāṃ ca samabhyaset",
-              "translated_text": "One should practice concentration."
+              "text": "dhāraṇāṃ ca samabhyaset"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4151,8 +3813,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "hṛdaye pañca-bhūtānāṃ",
-              "translated_text": "In the heart of the five elements."
+              "text": "hṛdaye pañca-bhūtānāṃ"
             },
             {
               "tag": "seg",
@@ -4160,8 +3821,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "dhāraṇāṃ ca pṛthak pṛthak",
-              "translated_text": "Concentration separately."
+              "text": "dhāraṇāṃ ca pṛthak pṛthak"
             }
           ]
         },
@@ -4175,8 +3835,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "manaso niścalatvena",
-              "translated_text": "With the steadiness of the mind."
+              "text": "manaso niścalatvena"
             },
             {
               "tag": "seg",
@@ -4184,13 +3843,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "dhāraṇā ca vidhīyate",
-              "translated_text": "Concentration is established."
+              "text": "dhāraṇā ca vidhīyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4212,8 +3869,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "yā pṛthvī hari-tāla-deśa-rucirā pītā lakārānvitā",
-              "translated_text": "The earth, like the color of orpiment, yellow and with the letter 'la'."
+              "text": "yā pṛthvī hari-tāla-deśa-rucirā pītā lakārānvitā"
             },
             {
               "tag": "seg",
@@ -4221,8 +3877,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "saṃyuktā kamalāsanena hi catuṣkoṇā hṛdi sthāyinī",
-              "translated_text": "Associated with <s>Kamalāsana</s>, square, residing in the heart."
+              "text": "saṃyuktā kamalāsanena hi catuṣkoṇā hṛdi sthāyinī"
             }
           ]
         },
@@ -4236,8 +3891,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "prāṇaṃ tatra vinīya pañca-ghaṭikāś cittānvitaṃ dhārayed",
-              "translated_text": "Directing <s>Prāṇa</s> there, meditate with the mind for five <s>ghaṭikās</s>."
+              "text": "prāṇaṃ tatra vinīya pañca-ghaṭikāś cittānvitaṃ dhārayed"
             },
             {
               "tag": "seg",
@@ -4245,13 +3899,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "eṣā stambhakarī sadā kṣitijayaṃ kuryād bhuvo dhāraṇā",
-              "translated_text": "This is the earth-conquering concentration, always causing stability."
+              "text": "eṣā stambhakarī sadā kṣitijayaṃ kuryād bhuvo dhāraṇā"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4273,8 +3925,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "ardhendu-pratimaṃ ca kunda-dhavalaṃ kaṇṭhe'mbu-tattavṃ sthitaṃ",
-              "translated_text": "The water element, resembling a half-moon, white as jasmine, residing in the throat."
+              "text": "ardhendu-pratimaṃ ca kunda-dhavalaṃ kaṇṭhe'mbu-tattavṃ sthitaṃ"
             },
             {
               "tag": "seg",
@@ -4282,8 +3933,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "yat pīyūṣa-va-kāra-bīja-sahitaṃ yuktaṃ sadā viṣṇunā",
-              "translated_text": "Which is associated with the nectar and the seed letter, always united with <s>Viṣṇu</s>."
+              "text": "yat pīyūṣa-va-kāra-bīja-sahitaṃ yuktaṃ sadā viṣṇunā"
             }
           ]
         },
@@ -4297,8 +3947,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "prāṇaṃ tatra vinīya pañca-ghaṭikāś cittānvitaṃ dhārayed",
-              "translated_text": "Directing <s>Prāṇa</s> there, meditate with the mind for five <s>ghaṭikās</s>."
+              "text": "prāṇaṃ tatra vinīya pañca-ghaṭikāś cittānvitaṃ dhārayed"
             },
             {
               "tag": "seg",
@@ -4306,13 +3955,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "eṣā durvaha-kāla-kūṭa-jaraṇā syād vāriṇī dhāraṇā",
-              "translated_text": "This difficult concentration overcomes the poison of time, called the water concentration."
+              "text": "eṣā durvaha-kāla-kūṭa-jaraṇā syād vāriṇī dhāraṇā"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4334,8 +3981,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "yat tāla-sthitam indra-gopa-sadṛśaṃ tattvaṃ trikoṇojjvalaṃ",
-              "translated_text": "The element residing in the palate, like the indra-gopa insect, shining triangularly."
+              "text": "yat tāla-sthitam indra-gopa-sadṛśaṃ tattvaṃ trikoṇojjvalaṃ"
             },
             {
               "tag": "seg",
@@ -4343,8 +3989,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "tejo-repha-mayaṃ pravāla-ruciraṃ rudreṇa yat saṅgatam",
-              "translated_text": "Consisting of light and the letter 'ra', brilliant as coral, united with <s>Rudra</s>."
+              "text": "tejo-repha-mayaṃ pravāla-ruciraṃ rudreṇa yat saṅgatam"
             }
           ]
         },
@@ -4358,8 +4003,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "prāṇaṃ tatra vinīya pañca-ghaṭikāś cittānvitaṃ dhārayed",
-              "translated_text": "Directing <s>Prāṇa</s> there, meditate with the mind for five <s>ghaṭikās</s>."
+              "text": "prāṇaṃ tatra vinīya pañca-ghaṭikāś cittānvitaṃ dhārayed"
             },
             {
               "tag": "seg",
@@ -4367,13 +4011,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "eṣā vahni-jayaṃ sadā vidadhate vaiśvānarī dhāraṇā",
-              "translated_text": "This concentration always achieves victory over fire, known as <s>Vaiśvānarī</s>."
+              "text": "eṣā vahni-jayaṃ sadā vidadhate vaiśvānarī dhāraṇā"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4395,8 +4037,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "yad bhinnāñjana-puñja-sānnibham idaṃ tattvaṃ bhruvor antare",
-              "translated_text": "The element like fragmented collyrium, between the eyebrows."
+              "text": "yad bhinnāñjana-puñja-sānnibham idaṃ tattvaṃ bhruvor antare"
             },
             {
               "tag": "seg",
@@ -4404,8 +4045,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "vṛttaṃ vāyumayaṃ ya-kāra-sahitaṃ yatreśvaro devatā",
-              "translated_text": "Round, consisting of air, with the letter 'ya', where the lord is the deity."
+              "text": "vṛttaṃ vāyumayaṃ ya-kāra-sahitaṃ yatreśvaro devatā"
             }
           ]
         },
@@ -4419,8 +4059,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "prāṇaṃ tatra vinīya pañca-ghaṭikāś cittānvitaṃ dhārayed",
-              "translated_text": "Directing <s>Prāṇa</s> there, meditate with the mind for five <s>ghaṭikās</s>."
+              "text": "prāṇaṃ tatra vinīya pañca-ghaṭikāś cittānvitaṃ dhārayed"
             },
             {
               "tag": "seg",
@@ -4428,13 +4067,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "eṣā khe gamanaṃ karoti yamināṃ syād vāyavī dhāraṇā",
-              "translated_text": "This concentration causes movement in the sky, known as <s>Vāyavī</s> for the restrained."
+              "text": "eṣā khe gamanaṃ karoti yamināṃ syād vāyavī dhāraṇā"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4456,8 +4093,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "ākāśaṃ suviśuddha-vāri-sadṛśaṃ yad brahma-randhre sthitaṃ",
-              "translated_text": "The space, like pure water, residing in the <s>Brahma-randhra</s>."
+              "text": "ākāśaṃ suviśuddha-vāri-sadṛśaṃ yad brahma-randhre sthitaṃ"
             },
             {
               "tag": "seg",
@@ -4465,8 +4101,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "tatrādyena sadā-śivena sahitaṃ śāntaṃ ha-kārākṣaram",
-              "translated_text": "There, united with the original, peaceful <s>Śiva</s>, the letter 'ha'."
+              "text": "tatrādyena sadā-śivena sahitaṃ śāntaṃ ha-kārākṣaram"
             }
           ]
         },
@@ -4480,8 +4115,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "prāṇaṃ tatra vinīya pañca-ghaṭikāś cittānvitaṃ dhārayed",
-              "translated_text": "Directing <s>Prāṇa</s> there, meditate with the mind for five <s>ghaṭikās</s>."
+              "text": "prāṇaṃ tatra vinīya pañca-ghaṭikāś cittānvitaṃ dhārayed"
             },
             {
               "tag": "seg",
@@ -4489,13 +4123,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "eṣā mokṣa-kavāṭa-pāṭana-paṭuḥ proktā nabho-dhāraṇā",
-              "translated_text": "This is called the sky concentration, skilled in opening the gate of liberation."
+              "text": "eṣā mokṣa-kavāṭa-pāṭana-paṭuḥ proktā nabho-dhāraṇā"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4517,8 +4149,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "stambhanī drāvaṇī caiva",
-              "translated_text": "Stabilizing and liquefying."
+              "text": "stambhanī drāvaṇī caiva"
             },
             {
               "tag": "seg",
@@ -4526,8 +4157,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "dahanī bhrāmaṇī tathā",
-              "translated_text": "Burning and whirling as well."
+              "text": "dahanī bhrāmaṇī tathā"
             }
           ]
         },
@@ -4541,8 +4171,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "śoṣaṇī ca bhavanty evaṃ",
-              "translated_text": "Drying also become thus."
+              "text": "śoṣaṇī ca bhavanty evaṃ"
             },
             {
               "tag": "seg",
@@ -4550,13 +4179,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "bhūtānāṃ pañca dhāraṇāḥ",
-              "translated_text": "The five concentrations of the elements."
+              "text": "bhūtānāṃ pañca dhāraṇāḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4578,8 +4205,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "karmaṇā manasā vācā",
-              "translated_text": "By action, mind, and speech."
+              "text": "karmaṇā manasā vācā"
             },
             {
               "tag": "seg",
@@ -4587,8 +4213,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "dhāraṇāḥ pañca durlabhāḥ",
-              "translated_text": "The five concentrations are difficult to obtain."
+              "text": "dhāraṇāḥ pañca durlabhāḥ"
             }
           ]
         },
@@ -4602,8 +4227,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "vidhāya satataṃ yogī",
-              "translated_text": "Having performed constantly, the yogi."
+              "text": "vidhāya satataṃ yogī"
             },
             {
               "tag": "seg",
@@ -4611,13 +4235,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "sarva-pāpaiḥ pramucyate",
-              "translated_text": "Is freed from all sins."
+              "text": "sarva-pāpaiḥ pramucyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4639,8 +4261,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "sarvaṃ cintā-samāvarti",
-              "translated_text": "All is encompassed by thought."
+              "text": "sarvaṃ cintā-samāvarti"
             },
             {
               "tag": "seg",
@@ -4648,8 +4269,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "yogino hṛdi vartate",
-              "translated_text": "It resides in the heart of the yogi."
+              "text": "yogino hṛdi vartate"
             }
           ]
         },
@@ -4663,8 +4283,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "yat tattve niścitaṃ cetas",
-              "translated_text": "That which is determined in the essence by the mind."
+              "text": "yat tattve niścitaṃ cetas"
             },
             {
               "tag": "seg",
@@ -4672,13 +4291,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "tat tu dhyānaṃ pracakṣate",
-              "translated_text": "That indeed is called meditation."
+              "text": "tat tu dhyānaṃ pracakṣate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4700,8 +4317,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "dvidhā bhavati tad dhyānaṃ",
-              "translated_text": "That meditation becomes twofold."
+              "text": "dvidhā bhavati tad dhyānaṃ"
             },
             {
               "tag": "seg",
@@ -4709,8 +4325,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "sa-guṇaṃ nirguṇaṃ tathā",
-              "translated_text": "With qualities and without qualities as well."
+              "text": "sa-guṇaṃ nirguṇaṃ tathā"
             }
           ]
         },
@@ -4724,8 +4339,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "saguṇaṃ varṇa-bhedena",
-              "translated_text": "With qualities, through the distinction of color."
+              "text": "saguṇaṃ varṇa-bhedena"
             },
             {
               "tag": "seg",
@@ -4733,13 +4347,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "nirguṇaṃ kevalaṃ viduḥ",
-              "translated_text": "Without qualities, known as absolute."
+              "text": "nirguṇaṃ kevalaṃ viduḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4761,8 +4373,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "ādhāraṃ prathamaṃ cakraṃ",
-              "translated_text": "The base is the first chakra."
+              "text": "ādhāraṃ prathamaṃ cakraṃ"
             },
             {
               "tag": "seg",
@@ -4770,8 +4381,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "tapta-kāñcana-sannibham",
-              "translated_text": "Resembling heated gold."
+              "text": "tapta-kāñcana-sannibham"
             }
           ]
         },
@@ -4785,8 +4395,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "nāsāgre dṛṣṭim ādāya",
-              "translated_text": "Gazing at the tip of the nose."
+              "text": "nāsāgre dṛṣṭim ādāya"
             },
             {
               "tag": "seg",
@@ -4794,13 +4403,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "dhyātvā muñcati kilbiṣam",
-              "translated_text": "Meditating, one is freed from sin."
+              "text": "dhyātvā muñcati kilbiṣam"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4822,8 +4429,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "svādhiṣṭhānaṃ dvitīyaṃ tu",
-              "translated_text": "The second is <s>Svādhiṣṭhāna</s>."
+              "text": "svādhiṣṭhānaṃ dvitīyaṃ tu"
             },
             {
               "tag": "seg",
@@ -4831,8 +4437,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "san-māṇikya-suśobhanam",
-              "translated_text": "Beautiful as a good ruby."
+              "text": "san-māṇikya-suśobhanam"
             }
           ]
         },
@@ -4846,8 +4451,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "nāsāgre dṛṣṭim ādāya",
-              "translated_text": "Gazing at the tip of the nose."
+              "text": "nāsāgre dṛṣṭim ādāya"
             },
             {
               "tag": "seg",
@@ -4855,13 +4459,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "dhyātvā muñcati pātakam",
-              "translated_text": "Meditating, one is freed from sin."
+              "text": "dhyātvā muñcati pātakam"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4883,8 +4485,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "taruṇāditya-saṃkāśaṃ",
-              "translated_text": "Resembling the young sun."
+              "text": "taruṇāditya-saṃkāśaṃ"
             },
             {
               "tag": "seg",
@@ -4892,8 +4493,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "cakraṃ ca maṇipūrakam",
-              "translated_text": "And the <s>Maṇipūraka</s> chakra."
+              "text": "cakraṃ ca maṇipūrakam"
             }
           ]
         },
@@ -4907,8 +4507,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "nāsāgre dṛṣṭim ādāya",
-              "translated_text": "Gazing at the tip of the nose."
+              "text": "nāsāgre dṛṣṭim ādāya"
             },
             {
               "tag": "seg",
@@ -4916,13 +4515,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "dhyātvā saṃkṣobhayej jagat",
-              "translated_text": "Meditating, one agitates the world."
+              "text": "dhyātvā saṃkṣobhayej jagat"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -4931,8 +4528,7 @@
     {
       "tag": "note",
       "attributes": {},
-      "text": "verse missing",
-      "translated_text": "verse missing"
+      "text": "verse missing"
     },
     {
       "tag": "lg",
@@ -4950,8 +4546,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "vidyut-prabhāvaṃ hṛt-padme",
-              "translated_text": "The lightning-like influence in the heart lotus."
+              "text": "vidyut-prabhāvaṃ hṛt-padme"
             },
             {
               "tag": "seg",
@@ -4959,8 +4554,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "prāṇāyāma-vibhedanaiḥ",
-              "translated_text": "By the distinctions of <s>Prāṇāyāma</s>."
+              "text": "prāṇāyāma-vibhedanaiḥ"
             }
           ]
         },
@@ -4974,8 +4568,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "nāsāgre dṛṣṭim ādāya",
-              "translated_text": "Gazing at the tip of the nose."
+              "text": "nāsāgre dṛṣṭim ādāya"
             },
             {
               "tag": "seg",
@@ -4983,13 +4576,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "dhyātvā brahma-mayo bhavet",
-              "translated_text": "Meditating, one becomes identified with Brahma."
+              "text": "dhyātvā brahma-mayo bhavet"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5011,8 +4602,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "santataṃ ghaṇṭikā-madhye",
-              "translated_text": "Continuously in the middle of the throat."
+              "text": "santataṃ ghaṇṭikā-madhye"
             },
             {
               "tag": "seg",
@@ -5020,8 +4610,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "viśuddhaṃ cāmṛtodbhavam",
-              "translated_text": "Pure, arising from nectar."
+              "text": "viśuddhaṃ cāmṛtodbhavam"
             }
           ]
         },
@@ -5035,8 +4624,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "nāsāgre dṛṣṭim ādāya",
-              "translated_text": "Gazing at the tip of the nose."
+              "text": "nāsāgre dṛṣṭim ādāya"
             },
             {
               "tag": "seg",
@@ -5044,13 +4632,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "dhyātvā brahma-mayo bhavet",
-              "translated_text": "Meditating, one becomes identified with Brahma."
+              "text": "dhyātvā brahma-mayo bhavet"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5072,8 +4658,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "bhruvor madhye sthitaṃ devaṃ",
-              "translated_text": "The deity situated between the eyebrows."
+              "text": "bhruvor madhye sthitaṃ devaṃ"
             },
             {
               "tag": "seg",
@@ -5081,8 +4666,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "snigdha-mauktika-sannibham",
-              "translated_text": "Resembling a smooth pearl."
+              "text": "snigdha-mauktika-sannibham"
             }
           ]
         },
@@ -5096,8 +4680,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "nāsāgre dṛṣṭim ādāya",
-              "translated_text": "Gazing at the tip of the nose."
+              "text": "nāsāgre dṛṣṭim ādāya"
             },
             {
               "tag": "seg",
@@ -5105,13 +4688,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "dhyātvā'nandamayo bhavet",
-              "translated_text": "Meditating, one becomes full of bliss."
+              "text": "dhyātvā'nandamayo bhavet"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5133,8 +4714,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "nirguṇaṃ ca śivaṃ śāntaṃ",
-              "translated_text": "Without qualities, <s>Śiva</s> is peaceful."
+              "text": "nirguṇaṃ ca śivaṃ śāntaṃ"
             },
             {
               "tag": "seg",
@@ -5142,8 +4722,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "gagane viśvatomukham",
-              "translated_text": "In the sky, facing everywhere."
+              "text": "gagane viśvatomukham"
             }
           ]
         },
@@ -5157,8 +4736,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "nāsāgre dṛṣṭim ādāya",
-              "translated_text": "Gazing at the tip of the nose."
+              "text": "nāsāgre dṛṣṭim ādāya"
             },
             {
               "tag": "seg",
@@ -5166,13 +4744,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "dhyātvā duḥkhād vimucyate",
-              "translated_text": "Meditating, one is freed from sorrow."
+              "text": "dhyātvā duḥkhād vimucyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5194,8 +4770,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "gudaṃ meḍhraṃ ca nābhiṃ ca",
-              "translated_text": "The anus, genitals, and navel."
+              "text": "gudaṃ meḍhraṃ ca nābhiṃ ca"
             },
             {
               "tag": "seg",
@@ -5203,8 +4778,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "hṛt-padme ca tad-ūrdhvataḥ",
-              "translated_text": "In the heart lotus and above it."
+              "text": "hṛt-padme ca tad-ūrdhvataḥ"
             }
           ]
         },
@@ -5218,8 +4792,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "ghaṇṭikāṃ lampikā-sthānaṃ",
-              "translated_text": "The place of the throat and the uvula."
+              "text": "ghaṇṭikāṃ lampikā-sthānaṃ"
             },
             {
               "tag": "seg",
@@ -5227,13 +4800,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "bhrū-madhye parameśvaram",
-              "translated_text": "The supreme lord between the eyebrows."
+              "text": "bhrū-madhye parameśvaram"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5255,8 +4826,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "nirmalaṃ gaganākāraṃ",
-              "translated_text": "Pure, like the sky."
+              "text": "nirmalaṃ gaganākāraṃ"
             },
             {
               "tag": "seg",
@@ -5264,8 +4834,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "marīci-jala-sannibham",
-              "translated_text": "Resembling the water of mirages."
+              "text": "marīci-jala-sannibham"
             }
           ]
         },
@@ -5279,8 +4848,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "ātmānaṃ sarvagaṃ dhyātvā",
-              "translated_text": "Meditating on the all-pervading self."
+              "text": "ātmānaṃ sarvagaṃ dhyātvā"
             },
             {
               "tag": "seg",
@@ -5288,13 +4856,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "yogī yogam avāpnuyāt",
-              "translated_text": "The yogi attains yoga."
+              "text": "yogī yogam avāpnuyāt"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5316,8 +4882,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "kathitāni yathaitāni",
-              "translated_text": "As these have been spoken."
+              "text": "kathitāni yathaitāni"
             },
             {
               "tag": "seg",
@@ -5325,8 +4890,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "dhyāna-sthānāni yoginām",
-              "translated_text": "The places of meditation for yogis."
+              "text": "dhyāna-sthānāni yoginām"
             }
           ]
         },
@@ -5340,8 +4904,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "upādhi-tattva-yuktāni",
-              "translated_text": "Endowed with attributes and essence."
+              "text": "upādhi-tattva-yuktāni"
             },
             {
               "tag": "seg",
@@ -5349,13 +4912,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "kurvanty aṣṭa-guṇodayam",
-              "translated_text": "They cause the rise of eight qualities."
+              "text": "kurvanty aṣṭa-guṇodayam"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5377,8 +4938,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "upādhiś ca tathā tattvaṃ",
-              "translated_text": "Attributes and essence likewise."
+              "text": "upādhiś ca tathā tattvaṃ"
             },
             {
               "tag": "seg",
@@ -5386,8 +4946,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "dvayam evam udāhṛtam",
-              "translated_text": "Both are thus mentioned."
+              "text": "dvayam evam udāhṛtam"
             }
           ]
         },
@@ -5401,8 +4960,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "upādhiḥ procyate varṇas",
-              "translated_text": "Attributes are called colors."
+              "text": "upādhiḥ procyate varṇas"
             },
             {
               "tag": "seg",
@@ -5410,13 +4968,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "tattvam ātmābhidhīyate",
-              "translated_text": "Essence is called the self."
+              "text": "tattvam ātmābhidhīyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5438,8 +4994,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "upādhir anyathā-jñānaṃ",
-              "translated_text": "Attribute is different knowledge."
+              "text": "upādhir anyathā-jñānaṃ"
             },
             {
               "tag": "seg",
@@ -5447,8 +5002,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "tattvaṃ saṃsthitam anyathā",
-              "translated_text": "Essence is established differently."
+              "text": "tattvaṃ saṃsthitam anyathā"
             }
           ]
         },
@@ -5462,8 +5016,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "samastopādhi-vidhvaṃsi",
-              "translated_text": "Destroyer of all attributes."
+              "text": "samastopādhi-vidhvaṃsi"
             },
             {
               "tag": "seg",
@@ -5471,13 +5024,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "sadābhyāsena yoginām",
-              "translated_text": "By constant practice of yogis."
+              "text": "sadābhyāsena yoginām"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5499,8 +5050,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "ātma-varṇena bhedena",
-              "translated_text": "With the distinction of self-color."
+              "text": "ātma-varṇena bhedena"
             },
             {
               "tag": "seg",
@@ -5508,8 +5058,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "dṛśyate sphāṭiko maṇiḥ",
-              "translated_text": "The crystal gem is seen."
+              "text": "dṛśyate sphāṭiko maṇiḥ"
             }
           ]
         },
@@ -5523,8 +5072,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "mukto yaḥ śakti-bhedena",
-              "translated_text": "He who is liberated by the distinction of power."
+              "text": "mukto yaḥ śakti-bhedena"
             },
             {
               "tag": "seg",
@@ -5532,13 +5080,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "so'yam ātmā praśasyate",
-              "translated_text": "This self is praised."
+              "text": "so'yam ātmā praśasyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5560,8 +5106,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "nirātaṅkaṃ nirālambaṃ",
-              "translated_text": "Without fear, without support."
+              "text": "nirātaṅkaṃ nirālambaṃ"
             },
             {
               "tag": "seg",
@@ -5569,8 +5114,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "niṣprapañcaṃ nirāśrayam",
-              "translated_text": "Without expansion, without refuge."
+              "text": "niṣprapañcaṃ nirāśrayam"
             }
           ]
         },
@@ -5584,8 +5128,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "nirāmayaṃ nirākāraṃ",
-              "translated_text": "Without disease, without form."
+              "text": "nirāmayaṃ nirākāraṃ"
             },
             {
               "tag": "seg",
@@ -5593,13 +5136,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "tattvaṃ tattvavido viduḥ",
-              "translated_text": "Essence is known by the knowers of essence."
+              "text": "tattvaṃ tattvavido viduḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5621,8 +5162,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "śabdādyāḥ pañca yā mātrā",
-              "translated_text": "The five measures of sound and the like."
+              "text": "śabdādyāḥ pañca yā mātrā"
             },
             {
               "tag": "seg",
@@ -5630,8 +5170,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "yāvat karṇādiṣu smṛtāḥ",
-              "translated_text": "As long as remembered in the ears and so forth."
+              "text": "yāvat karṇādiṣu smṛtāḥ"
             }
           ]
         },
@@ -5645,8 +5184,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "tāvad eva smṛtaṃ dhyānaṃ",
-              "translated_text": "So long is meditation remembered."
+              "text": "tāvad eva smṛtaṃ dhyānaṃ"
             },
             {
               "tag": "seg",
@@ -5654,13 +5192,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "tat-samādhir ataḥ param",
-              "translated_text": "That absorption is beyond that."
+              "text": "tat-samādhir ataḥ param"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5682,8 +5218,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "yadā saṃkṣīyate prāṇo",
-              "translated_text": "When <s>Prāṇa</s> is reduced."
+              "text": "yadā saṃkṣīyate prāṇo"
             },
             {
               "tag": "seg",
@@ -5691,8 +5226,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "mānasaṃ ca vilīyate",
-              "translated_text": "And the mind is dissolved."
+              "text": "mānasaṃ ca vilīyate"
             }
           ]
         },
@@ -5706,8 +5240,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "tadā sama-rasaikatvaṃ",
-              "translated_text": "Then there is the unity of equal essence."
+              "text": "tadā sama-rasaikatvaṃ"
             },
             {
               "tag": "seg",
@@ -5715,13 +5248,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "samādhir abhidhīyate",
-              "translated_text": "It is called absorption."
+              "text": "samādhir abhidhīyate"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5730,8 +5261,7 @@
     {
       "tag": "note",
       "attributes": {},
-      "text": "verse missing",
-      "translated_text": "verse missing"
+      "text": "verse missing"
     },
     {
       "tag": "lg",
@@ -5749,8 +5279,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "dhāraṇāḥ pañca-nāḍyas tu",
-              "translated_text": "The concentrations are of five <s>nāḍīs</s>."
+              "text": "dhāraṇāḥ pañca-nāḍyas tu"
             },
             {
               "tag": "seg",
@@ -5758,8 +5287,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "dhyānaṃ ca ṣaṣṭhi-nāḍikāḥ",
-              "translated_text": "Meditation is of sixty <s>nāḍikās</s>."
+              "text": "dhyānaṃ ca ṣaṣṭhi-nāḍikāḥ"
             }
           ]
         },
@@ -5773,8 +5301,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "dina-dvādaśakenaiva",
-              "translated_text": "In twelve parts of the day."
+              "text": "dina-dvādaśakenaiva"
             },
             {
               "tag": "seg",
@@ -5782,13 +5309,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "samādhiḥ prāṇa-saṃyamaḥ",
-              "translated_text": "Absorption is the control of <s>Prāṇa</s>."
+              "text": "samādhiḥ prāṇa-saṃyamaḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5810,8 +5335,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "na gandhaṃ na rasaṃ rūpaṃ",
-              "translated_text": "Neither smell, nor taste, nor form."
+              "text": "na gandhaṃ na rasaṃ rūpaṃ"
             },
             {
               "tag": "seg",
@@ -5819,8 +5343,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "na sparśaṃ na ca niḥsvanam",
-              "translated_text": "Nor touch, nor even sound."
+              "text": "na sparśaṃ na ca niḥsvanam"
             }
           ]
         },
@@ -5834,8 +5357,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "ātmānaṃ na paraṃ vetti",
-              "translated_text": "Knows neither self nor other."
+              "text": "ātmānaṃ na paraṃ vetti"
             },
             {
               "tag": "seg",
@@ -5843,13 +5365,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "yogī yuktaḥ samādhinā",
-              "translated_text": "The yogi united in absorption."
+              "text": "yogī yuktaḥ samādhinā"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5871,8 +5391,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "khādyate na ca kālena",
-              "translated_text": "Is not consumed by time."
+              "text": "khādyate na ca kālena"
             },
             {
               "tag": "seg",
@@ -5880,8 +5399,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "bādhyate na ca karmaṇā",
-              "translated_text": "Is not afflicted by actions."
+              "text": "bādhyate na ca karmaṇā"
             }
           ]
         },
@@ -5895,8 +5413,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "sādhyate na ca kenāpi",
-              "translated_text": "Is not subdued by anyone."
+              "text": "sādhyate na ca kenāpi"
             },
             {
               "tag": "seg",
@@ -5904,13 +5421,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "yogī yuktaḥ samādhinā",
-              "translated_text": "The yogi united in absorption."
+              "text": "yogī yuktaḥ samādhinā"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5932,8 +5447,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "nirmalaṃ niścalaṃ nityaṃ",
-              "translated_text": "Pure, immovable, eternal."
+              "text": "nirmalaṃ niścalaṃ nityaṃ"
             },
             {
               "tag": "seg",
@@ -5941,8 +5455,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "niṣkriyaṃ nirguṇaṃ mahat",
-              "translated_text": "Inactive, without qualities, great."
+              "text": "niṣkriyaṃ nirguṇaṃ mahat"
             }
           ]
         },
@@ -5956,8 +5469,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "vyoma-vijñānam ānandaṃ",
-              "translated_text": "Knowledge of space, bliss."
+              "text": "vyoma-vijñānam ānandaṃ"
             },
             {
               "tag": "seg",
@@ -5965,13 +5477,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "brahma brahma-vido viduḥ",
-              "translated_text": "Brahma is known by the knowers of Brahma."
+              "text": "brahma brahma-vido viduḥ"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -5993,8 +5503,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "dugdhe kṣīraṃ dhṛte sarpir",
-              "translated_text": "In milk, the cream, in ghee."
+              "text": "dugdhe kṣīraṃ dhṛte sarpir"
             },
             {
               "tag": "seg",
@@ -6002,8 +5511,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "agnau vahnir ivārpitaḥ",
-              "translated_text": "In fire, the flame as placed."
+              "text": "agnau vahnir ivārpitaḥ"
             }
           ]
         },
@@ -6017,8 +5525,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "advayatvaṃ vrajen nityaṃ",
-              "translated_text": "Always attains non-duality."
+              "text": "advayatvaṃ vrajen nityaṃ"
             },
             {
               "tag": "seg",
@@ -6026,13 +5533,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "yogavit parame pade",
-              "translated_text": "The knower of yoga in the supreme state."
+              "text": "yogavit parame pade"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -6054,8 +5559,7 @@
                 "type": "pāda",
                 "n": "a"
               },
-              "text": "bhava-bhaya-vane vahnir",
-              "translated_text": "The fire in the forest of worldly fear."
+              "text": "bhava-bhaya-vane vahnir"
             },
             {
               "tag": "seg",
@@ -6063,8 +5567,7 @@
                 "type": "pāda",
                 "n": "b"
               },
-              "text": "mukti-sopāna-mārgataḥ",
-              "translated_text": "On the path of the stairway to liberation."
+              "text": "mukti-sopāna-mārgataḥ"
             }
           ]
         },
@@ -6078,8 +5581,7 @@
                 "type": "pāda",
                 "n": "c"
               },
-              "text": "advayatvaṃ vrajen nityaṃ",
-              "translated_text": "Always attains non-duality."
+              "text": "advayatvaṃ vrajen nityaṃ"
             },
             {
               "tag": "seg",
@@ -6087,13 +5589,11 @@
                 "type": "pāda",
                 "n": "d"
               },
-              "text": "yogavit parame pade",
-              "translated_text": "The knower of yoga in the supreme state."
+              "text": "yogavit parame pade"
             },
             {
               "tag": "text",
-              "text": "//",
-              "translated_text": "//"
+              "text": "//"
             }
           ]
         }
@@ -6102,8 +5602,7 @@
     {
       "tag": "trailer",
       "attributes": {},
-      "text": "gorakṣa-śatakaṃ samāptam",
-      "translated_text": "The Gorakṣa-śataka is completed."
+      "text": "gorakṣa-śatakaṃ samāptam"
     }
   ]
 }
