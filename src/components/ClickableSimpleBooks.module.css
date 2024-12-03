@@ -143,3 +143,21 @@
     margin-bottom: 0.5rem;
     line-height: 1.4;
   }
+
+  
+  .originalText {
+    margin-bottom: 0.5rem;
+  }
+  
+  .translatedText {
+    color: #666;
+    font-size: 0.95em;
+    margin-left: 2rem;
+    margin-bottom: 0.5rem;
+    font-style: italic;
+  }
+  
+  .sanskritWord {
+    color: #2c5282;
+    text-underline-offset: 3px;
+  }
