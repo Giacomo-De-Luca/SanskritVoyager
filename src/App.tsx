@@ -1,20 +1,23 @@
 import '@mantine/core/styles.css';
-import { MantineProvider, ColorSchemeScript } from '@mantine/core';
+import { MantineProvider } from '@mantine/core';
 import { Router } from './Router';
 import { theme } from './theme';
+import { localStorageColorSchemeManager } from './localStorageColorSchemeManager';
+
+
+const colorSchemeManager = localStorageColorSchemeManager({
+  key: 'mantine-color-scheme',
+});
+
 
 
 export default function App() {
   return (
-    <>
-    <ColorSchemeScript />
     <MantineProvider theme={theme} 
-    
+    colorSchemeManager={colorSchemeManager}
     // defaultColorScheme="light"
     >
       <Router />
     </MantineProvider>
-  );
-  </>
   );
 }
