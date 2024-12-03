@@ -173,9 +173,17 @@ const ClickableSimpleBooks = ({
   
     // Helper function to render clickable words
     const renderWords = (text: string, isTranslation: boolean = false) => {
+
+      const transformedText = text
+      .replace(/[A-Za-z]+_(\d+\.\d+) /g, ' $1 ')
+      .replace(/[A-Za-z]+_(\d+)/g, ' $1 ')
+          
+
+
+
       if (isTranslation) {
         // For translations, split by <s> tags and make only Sanskrit words clickable
-        const parts = text.split(/(<s>.*?<\/s>)/);
+        const parts = transformedText.split(/(<s>.*?<\/s>)/);
         return parts.map((part, partIndex) => {
           if (part.startsWith('<s>') && part.endsWith('</s>')) {
             // Extract Sanskrit word and make it clickable
@@ -213,7 +221,7 @@ const ClickableSimpleBooks = ({
         });
       } else {
         // Regular text handling (all words clickable)
-        return text.split(/\s+|\+/).map((word: string, wordIndex: number) => {
+        return transformedText.split(/\s+|\+/).map((word: string, wordIndex: number) => {
           const trimmedWord = word.trim();
           if (!trimmedWord) return null;
           

@@ -1,0 +1,1052 @@
+{
+  "file_title": "nāgārjuna-yuktiṣaṣṭikakārikā",
+  "file_title_normal": "nagarjuna-yuktisastikakarika",
+  "metadata": {
+    "original_title": "Yuktiṣaṣṭikakārikā Sanskrit reconstruction",
+    "author": "Nāgārjuna",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "B. Kumar: \"The Critical Edition of Yuktiṣaṣṭika-Kārikā of Nāgārjuna\", The Tibet Journal 18.3 (1993), pp. 3-16."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "atha yuktiṣaṣṭikārikā nāma\nmañjuśrikumārabhutāya namaḥ"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "namastasmai munīndrāya pratītyopādadeśine |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yenānenā vidhānena niṣiddhāvudayavyayau ||"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvābhāvavyatikrāntā matiryeṣāmanāśritā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tairgambhīro niralambaḥ pratyayārthaḥ pratīyate || Yukti_1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvadoṣākarastāvadabhāvo vinivāritaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirvartyate yathā yuktayā bhāvo 'pi śrvavaṇaṃ kuru || Yukti_2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvo yadi bhavetsaty yathā bālairvikalpitaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vimokṣastadabhāvena ko necchet kim na kārnāt || Yukti_3"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vimokṣo nāsti bhāvena bhāvo nāsti hyabhāvataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvābhāvaparijñānānmahātmā 'pi vimucyate || Yukti_4"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirvāṇam caiva lokaṃ ca manyante tattvadarśinaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "naiva lokaṃ na nirvānaṃ manyante tattvadarśinaḥ || Yukti_5"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirvānaṃ ca bhavaścaiva dvayameva na vidyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parijñānaṃ bhavasyaiva nirvāṇamiti kathyate || Yukti_6"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sambhavavibhave bhāve nirodhaḥ kalpito yathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyākṛto nirodho 'yam sadbhistathaivamiṣyate || Yukti_7"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samskṛto na parijñāto nirodho vibhave sati |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyakṣam bhūyate kasmin vibhavo jñāyate katham || Yukti_8"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadi skandhanirodhena bhavenna kleśasamkṣayaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadā cāyaṃ niruddhaḥ syāttadā mokṣo bhavisyati || Yukti_9"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avidyā pratyayotpannam samyagjñānena paśyataḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "notpādaśca nirodhasca yuktaḥ ko 'pyupalabhyate || Yukti_10"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evam paśyati dharmaḥ yo nirvānam vā katam tathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmajñānam paraṃ yatra bhedastu tatra vidyate || Yukti_11"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atisukṣmasya bhāvasya jātiryena vikalpitā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyayodbhavamartham na paśyati so 'vicakṣaṇaḥ || Yukti_12"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samklesakṣīnabhikṣūṇām samsārāccennivāryate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kutaḥ sampannabuddhaiśca tasyārambho na bhāṣitaḥ || Yukti_13"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ārambhe sati caikānte bhavedṛṣṭiparigraḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yaḥ pratītyasamutpādastasya purvaṃ paraṃ vā kim || Yukti_14"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samutpannaṃ kathaṃ purvaṃ paścāt punarnivāryate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "purvāparāntavihīno mokṣaḥ khyātirmāyopamaḥ || Yukti_15"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhavatīdam yadā māyā namkṣyatīti tadaiva hi |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "māyājñānaparābhūto māyājñānena mohitaḥ || Yukti_16"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā marīcikā māyā bhavam buddhayā hi paśyati |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "purvāntam vāparāntam vā na dṛṣṭayā parikliśyate || Yukti_17"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samskṛtam ye hi manyante bhangotpādavikalpitam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratītyotpādacakreṇa vijānanti na te jagat || Yukti_18"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tadāśritya yadutpannaṃ notpannaṃ svayamevahi |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svayam yadā yadutpannamutpannam nāma tat katham || Yukti_19"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śāntam hetukṣayādeva kṣīṇam nāmāvabudhyate |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svabhāvena hi yatkṣīṇam tat kṣīṇamucyate katham || Yukti_20"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na kaścidanutpannam nirodho 'pi na vai tathā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utpādabhangakarmaṇābhiprāyārthaḥ pradarśitaḥ || Yukti_21"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utpādajñānato bhaṅgo bhaṅgajñānādanityatā |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anityatvāvabodhācca saddharmo hi vibodhitaḥ || Yukti_22"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yaḥ pratītyasamutpāda utpādabhaṅgavarjitam |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parijānāti tenaivanuttīryata bhavābudhiḥ || Yukti_23"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sadasadbhirviparyastā ātmabhāvāḥ pṛthagjanāḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kleśavamśagatāḥ sattvā ātmacinttena vañcitāḥ || Yukti_24"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vivudhairbhāvyate bhāveh śunyo 'nityo 'nātmakaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "moṣadharmacayaścaiva vivikta iti dṛśyate || Yukti_25"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "amūlatvāt sthitirnaiva nirālambo nirāśrayaḥ |"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avidyāhetusambhūta ādimadhyāntavarjitaḥ || Yukti_26"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kadalīvasāram yadgandharvanagaram yathā |",
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mohapuryāmivivannau yo māyāvat paśyati jagat | 27"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "atra brahmādiloko vai satya ivāvabhāsane |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "satyanmṛṣetyuktamāryena tatra kā śiṣyate parā || Yukti_28"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "loko 'vidyāndhabhūto 'sau tṛṣnāstrotasā cālitaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tṛṣnārahitavijñasya puṇyadṛṣṭi samā kutaḥ || Yukti_29"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ādau tattvamidaṃ dṛṣṭam sarvamstīti kathyate |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jānannarthānnasakto 'pi paścānnunam vivicyate || Yukti_30"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na jānāti viviktārtha śrutimātram pravartate |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yeṣām puṇyamavicchinnamutsannā itare janāḥ || Yukti_31"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "karmāni phalayuktāni proktam samyagidam jagat |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tatsvabhāvaparijñānamanutpannam hi desitam || Yukti_32"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aham mameti kathitam yathākaryavaśājjanaiḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tathā kāryavaśāt proktāḥ skandhāyatanadhātavaḥ || Yukti_33"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mahābhūtādaya khyātā vijñāne nicayastathā |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tajjñānena viyukttena mṛṣaiva na vikalpitam || Yukti_34"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nirvānam satyamekam hi jinairyadabhidhīyate |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nāva śiṣṭam tadā satyamevam vijñena kalpitam || Yukti_35"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yāvacittasya vikṣepastāvanmārasya gocaraḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "evambhūto bhavedyatra nā doṣo jāyate kathaṃ || Yukti_36"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "avidyāpratyayo loko yasmādbuddhaiḥ prakīrtitaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vikalpastena loko 'yamiti kim nopapadyate || Yukti_37"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "avidyāyām niruddhāyām nirodho jāyate yathā |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ajñānato hi samkalpa iti kim na vidhīyate || Yukti_38"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "hetutaḥ sambhavo yasya sthiti rna pratyayairvinā |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vigamaḥ pratyayābhāvāt so 'stītyavagataḥ kutaḥ || Yukti_39"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "paramam bhāvāmaśritya sthitiścedbhāvavādinaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tadaiva hi sthitā mārge na kaściditasmayastataḥ || Yukti_40"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "buddhamārge śritāḥ sarve 'nityamiti vādinaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kena vādena gṛhyante bhāvāḥ santi parā iti || Yukti_41"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "eṣa vāsāviti yatra vimarśo nopalabhyate |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "idam satyamado veti paṇḍitaiḥ kathamucyatai || Yukti_42"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nānupādāya taiścāpi loko vātmābhikāṅkṣate |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nityānityāderūtpādah mithyādṛṣṭyā tu hāritaḥ || Yukti_43"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yeṣām bhāvāsmupādāya tattvā steṣām prasāditāḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tatra liṅgādayo doṣāḥ prajāyante na vā kathaṃ || Yukti_44"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yān hi dharmānupādāya dṛṣṭaścandro jale yathā |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tatra satyam mṛṣā naiva kāmaṃ dṛṣṭyā na hāritaḥ || Yukti_45"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rāgadveṣodbhavastīvra-duṣṭadṛṣṭiparigraḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vivādāstatsamutthāśca bhāvābhyupagame sati || Yukti_46"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sa hetuḥ sarvadṛṣṭīnām kleśotpatti rna tam vinā |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasmāttsmin parijñāte dṛṣṭikleśaparikṣayaḥ || Yukti_47"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "parijñāñca keneti pratītyotpādadarśanāt |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pratītya jātañca'jātamāha tattvavidām varaḥ || Yukti_48"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mithyājñāne paribhūya yo 'satye satyadhārakaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "parigraho vitarkādeḥ kramādrāgakriyā matā || Yukti_49"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mahātmanām na pakṣo vā vitarko vā na vidyate |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yeṣām na vidyate pakṣeḥ parapakṣaḥ kutasteṣām || Yukti_50"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yasminneva samāśrito daṣṭaḥ kleśaviṣadharaih |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "calaṃ vāniṣṭhitam cittaṃ na tiṣṭhatyanāśritam || Yukti_51"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sāśraya cittavāna sattveḥ kleśodbhūto viṣo mahān |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sadā pṛthagajano hīnaḥ kleśasarpena gṛhītaḥ || Yukti_52"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prativimbe yathā rāgo loke ca mohavandhanāt |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "viṣayapinjaro sakto bālo hi satyasamjñayā || Yukti_53"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "cakṣurbhyām viṣayānnāma vimbajñānena paśyati |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "karmapaṅkeṣvanāsakto bhāvo yathā mahātmanaḥ || Yukti_54"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rūpāsaktā janā muḍhā madhyamā rāgavarjitāḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rūpasvabhāvavijño yo vimukto buddhimān paraḥ || Yukti_55"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vivṛtya sukhacintāyāḥ vītarāgavivarjitaḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "māyāpumvadvipaśyanānnivṛtaḥ sa bhaviṣyati || Yukti_56"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mithyājñānabhitapto yaḥ kleśasamdoṣabhāgbhāvet |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhāvābhāvau vikalpanādarthajñānam na jāyate || Yukti_57"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nāśrayḥ vītarāgā vai bhavanti rāgavarjitāḥ |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "arāge rāgavardhāste na sāśrayā mahātmanaḥ || Yukti_58"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yeṣām viviktacetasām calam cittam cañcalam |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kleśasarpermathito 'pi tīṇo 'khinno bhavāmbuddheḥ || Yukti_59"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śāstreṇānena janānām punyam jñānam ca sancitam |"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "punyajñānakriyodbhūtam dvāvāptotu param tathā || Yukti_60"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "iti yuktiṣaṣṭikārikā samāptā |"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "āryanāgārjunamukhaniḥ satam, śāstramidaṃ"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāratīyapaṇḍita muditaśripaṇḍitācchurtam"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ca bhoṭavāsinā pātchava prāntīya suryakīrtirnāma"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhoṭapaṇḍitena likhitaṃ bhoṭabhāṣāyamiti ||"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "śubhamastu |"
+    }
+  ]
+}

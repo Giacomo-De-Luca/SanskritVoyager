@@ -29,7 +29,8 @@
     "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
     "license": {
       "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
-      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "translated_text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
     },
     "publication_date": "2020-07-31",
     "source": "B. Kumar: \"The Critical Edition of Yuktiṣaṣṭika-Kārikā of Nāgārjuna\", The Tibet Journal 18.3 (1993), pp. 3-16."
@@ -38,7 +39,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha yuktiṣaṣṭikārikā nāma\nmañjuśrikumārabhutāya namaḥ"
+      "text": "atha yuktiṣaṣṭikārikā nāma\nmañjuśrikumārabhutāya namaḥ",
+      "translated_text": "Now, the treatise named Yukti-Sixty, Salutations to <s>Mañjuśrīkumāra</s>, the youth"
     },
     {
       "tag": "lg",
@@ -47,12 +49,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "namastasmai munīndrāya pratītyopādadeśine |"
+          "text": "namastasmai munīndrāya pratītyopādadeśine |",
+          "translated_text": "Salutations to that chief sage who imparted the teaching of <s>Pratītyasamutpāda</s> (dependent origination),"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yenānenā vidhānena niṣiddhāvudayavyayau ||"
+          "text": "yenānenā vidhānena niṣiddhāvudayavyayau ||",
+          "translated_text": "By whom, through this method, are denied both arising and ceasing"
         }
       ]
     },
@@ -63,12 +67,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhāvābhāvavyatikrāntā matiryeṣāmanāśritā |"
+          "text": "bhāvābhāvavyatikrāntā matiryeṣāmanāśritā |",
+          "translated_text": "Their thought surpasses being and non-being, unestablished in any abode,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tairgambhīro niralambaḥ pratyayārthaḥ pratīyate || Yukti_1"
+          "text": "tairgambhīro niralambaḥ pratyayārthaḥ pratīyate || Yukti_1",
+          "translated_text": "By them, the deep, unsupported meaning of conditions is understood"
         }
       ]
     },
@@ -79,12 +85,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sarvadoṣākarastāvadabhāvo vinivāritaḥ |"
+          "text": "sarvadoṣākarastāvadabhāvo vinivāritaḥ |",
+          "translated_text": "The embodiment of all faults as long as it is existent is contradicted,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "nirvartyate yathā yuktayā bhāvo 'pi śrvavaṇaṃ kuru || Yukti_2"
+          "text": "nirvartyate yathā yuktayā bhāvo 'pi śrvavaṇaṃ kuru || Yukti_2",
+          "translated_text": "So indeed, by reasoning is non-existence too resolved, hear this carefully"
         }
       ]
     },
@@ -95,12 +103,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhāvo yadi bhavetsaty yathā bālairvikalpitaḥ |"
+          "text": "bhāvo yadi bhavetsaty yathā bālairvikalpitaḥ |",
+          "translated_text": "If being were to exist truly, as imagined by the naive,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vimokṣastadabhāvena ko necchet kim na kārnāt || Yukti_3"
+          "text": "vimokṣastadabhāvena ko necchet kim na kārnāt || Yukti_3",
+          "translated_text": "Liberation, by the non-existence of that, who would not desire, for what reason not?"
         }
       ]
     },
@@ -111,12 +121,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "vimokṣo nāsti bhāvena bhāvo nāsti hyabhāvataḥ |"
+          "text": "vimokṣo nāsti bhāvena bhāvo nāsti hyabhāvataḥ |",
+          "translated_text": "Liberation does not exist through being, being does not exist through non-being,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhāvābhāvaparijñānānmahātmā 'pi vimucyate || Yukti_4"
+          "text": "bhāvābhāvaparijñānānmahātmā 'pi vimucyate || Yukti_4",
+          "translated_text": "Even the great soul is liberated through the understanding of being and non-being"
         }
       ]
     },
@@ -127,12 +139,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "nirvāṇam caiva lokaṃ ca manyante tattvadarśinaḥ |"
+          "text": "nirvāṇam caiva lokaṃ ca manyante tattvadarśinaḥ |",
+          "translated_text": "The knowers of truth believe both <s>Nirvāṇa</s> and the world,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "naiva lokaṃ na nirvānaṃ manyante tattvadarśinaḥ || Yukti_5"
+          "text": "naiva lokaṃ na nirvānaṃ manyante tattvadarśinaḥ || Yukti_5",
+          "translated_text": "Do not regard either the world or Nirvāṇa as existent"
         }
       ]
     },
@@ -143,12 +157,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "nirvānaṃ ca bhavaścaiva dvayameva na vidyate |"
+          "text": "nirvānaṃ ca bhavaścaiva dvayameva na vidyate |",
+          "translated_text": "Nirvāṇa and becoming too, these two indeed do not exist,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "parijñānaṃ bhavasyaiva nirvāṇamiti kathyate || Yukti_6"
+          "text": "parijñānaṃ bhavasyaiva nirvāṇamiti kathyate || Yukti_6",
+          "translated_text": "Comprehension alone of becoming is called Nirvāṇa"
         }
       ]
     },
@@ -159,12 +175,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sambhavavibhave bhāve nirodhaḥ kalpito yathā |"
+          "text": "sambhavavibhave bhāve nirodhaḥ kalpito yathā |",
+          "translated_text": "As in existence and non-existence, cessation is conceived,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "māyākṛto nirodho 'yam sadbhistathaivamiṣyate || Yukti_7"
+          "text": "māyākṛto nirodho 'yam sadbhistathaivamiṣyate || Yukti_7",
+          "translated_text": "This cessation created by illusion is accepted as true by the wise"
         }
       ]
     },
@@ -175,12 +193,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "samskṛto na parijñāto nirodho vibhave sati |"
+          "text": "samskṛto na parijñāto nirodho vibhave sati |",
+          "translated_text": "Conditioned cessation is not known while non-existence prevails,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pratyakṣam bhūyate kasmin vibhavo jñāyate katham || Yukti_8"
+          "text": "pratyakṣam bhūyate kasmin vibhavo jñāyate katham || Yukti_8",
+          "translated_text": "How can perception occur in that, how is non-existence known?"
         }
       ]
     },
@@ -191,12 +211,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yadi skandhanirodhena bhavenna kleśasamkṣayaḥ |"
+          "text": "yadi skandhanirodhena bhavenna kleśasamkṣayaḥ |",
+          "translated_text": "If by the cessation of the <s>Skandhas</s> (aggregates), the affliction does not diminish,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yadā cāyaṃ niruddhaḥ syāttadā mokṣo bhavisyati || Yukti_9"
+          "text": "yadā cāyaṃ niruddhaḥ syāttadā mokṣo bhavisyati || Yukti_9",
+          "translated_text": "When it is restrained, then liberation will occur"
         }
       ]
     },
@@ -207,12 +229,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "avidyā pratyayotpannam samyagjñānena paśyataḥ |"
+          "text": "avidyā pratyayotpannam samyagjñānena paśyataḥ |",
+          "translated_text": "The one who sees the origin of ignorance through true knowledge,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "notpādaśca nirodhasca yuktaḥ ko 'pyupalabhyate || Yukti_10"
+          "text": "notpādaśca nirodhasca yuktaḥ ko 'pyupalabhyate || Yukti_10",
+          "translated_text": "He does not discern any suitable generation or destruction"
         }
       ]
     },
@@ -223,12 +247,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "evam paśyati dharmaḥ yo nirvānam vā katam tathā |"
+          "text": "evam paśyati dharmaḥ yo nirvānam vā katam tathā |",
+          "translated_text": "Who thus sees <s>Dharma</s> or <s>Nirvāṇa</s> in such a manner,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "dharmajñānam paraṃ yatra bhedastu tatra vidyate || Yukti_11"
+          "text": "dharmajñānam paraṃ yatra bhedastu tatra vidyate || Yukti_11",
+          "translated_text": "Where supreme knowledge of Dharma exists, there distinction is recognized"
         }
       ]
     },
@@ -239,12 +265,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "atisukṣmasya bhāvasya jātiryena vikalpitā |"
+          "text": "atisukṣmasya bhāvasya jātiryena vikalpitā |",
+          "translated_text": "By whom the birth of the most subtle being is conceived,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pratyayodbhavamartham na paśyati so 'vicakṣaṇaḥ || Yukti_12"
+          "text": "pratyayodbhavamartham na paśyati so 'vicakṣaṇaḥ || Yukti_12",
+          "translated_text": "He is unwise, not seeing the meaning born from conditions"
         }
       ]
     },
@@ -255,12 +283,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "samklesakṣīnabhikṣūṇām samsārāccennivāryate |"
+          "text": "samklesakṣīnabhikṣūṇām samsārāccennivāryate |",
+          "translated_text": "If those monks free from afflictions are restrained from Samsara,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kutaḥ sampannabuddhaiśca tasyārambho na bhāṣitaḥ || Yukti_13"
+          "text": "kutaḥ sampannabuddhaiśca tasyārambho na bhāṣitaḥ || Yukti_13",
+          "translated_text": "Why is the effort for that not spoken of by the enlightened ones?"
         }
       ]
     },
@@ -271,12 +301,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ārambhe sati caikānte bhavedṛṣṭiparigraḥ |"
+          "text": "ārambhe sati caikānte bhavedṛṣṭiparigraḥ |",
+          "translated_text": "ārambhe sati caikānte bhavedṛṣṭiparigraḥ |"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yaḥ pratītyasamutpādastasya purvaṃ paraṃ vā kim || Yukti_14"
+          "text": "yaḥ pratītyasamutpādastasya purvaṃ paraṃ vā kim || Yukti_14",
+          "translated_text": "What is prior and subsequent of this <s>Pratītyasamutpāda</s> (dependent origination)?"
         }
       ]
     },
@@ -287,12 +319,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "samutpannaṃ kathaṃ purvaṃ paścāt punarnivāryate |"
+          "text": "samutpannaṃ kathaṃ purvaṃ paścāt punarnivāryate |",
+          "translated_text": "How is what has arisen first later restrained again?"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "purvāparāntavihīno mokṣaḥ khyātirmāyopamaḥ || Yukti_15"
+          "text": "purvāparāntavihīno mokṣaḥ khyātirmāyopamaḥ || Yukti_15",
+          "translated_text": "Liberation devoid of beginning and end is like an illusion,"
         }
       ]
     },
@@ -303,12 +337,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhavatīdam yadā māyā namkṣyatīti tadaiva hi |"
+          "text": "bhavatīdam yadā māyā namkṣyatīti tadaiva hi |",
+          "translated_text": "When this being is known as illusion, it perishes right then"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "māyājñānaparābhūto māyājñānena mohitaḥ || Yukti_16"
+          "text": "māyājñānaparābhūto māyājñānena mohitaḥ || Yukti_16",
+          "translated_text": "Defeated by knowledge of illusion, bewildered by that same knowledge"
         }
       ]
     },
@@ -319,12 +355,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yathā marīcikā māyā bhavam buddhayā hi paśyati |"
+          "text": "yathā marīcikā māyā bhavam buddhayā hi paśyati |",
+          "translated_text": "Just as one sees water in a mirage by wisdom,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "purvāntam vāparāntam vā na dṛṣṭayā parikliśyate || Yukti_17"
+          "text": "purvāntam vāparāntam vā na dṛṣṭayā parikliśyate || Yukti_17",
+          "translated_text": "He does not suffer by seeing either the prior or the subsequent"
         }
       ]
     },
@@ -335,12 +373,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "samskṛtam ye hi manyante bhangotpādavikalpitam |"
+          "text": "samskṛtam ye hi manyante bhangotpādavikalpitam |",
+          "translated_text": "Those who consider the conditioned as conceived from breaking and formation,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pratītyotpādacakreṇa vijānanti na te jagat || Yukti_18"
+          "text": "pratītyotpādacakreṇa vijānanti na te jagat || Yukti_18",
+          "translated_text": "They do not comprehend the world through the wheel of conditioned origination"
         }
       ]
     },
@@ -351,12 +391,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tadāśritya yadutpannaṃ notpannaṃ svayamevahi |"
+          "text": "tadāśritya yadutpannaṃ notpannaṃ svayamevahi |",
+          "translated_text": "That which arises, relying on it, is not self-arisen at all"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "svayam yadā yadutpannamutpannam nāma tat katham || Yukti_19"
+          "text": "svayam yadā yadutpannamutpannam nāma tat katham || Yukti_19",
+          "translated_text": "When it is self-arisen, how can it be called arisen?"
         }
       ]
     },
@@ -367,12 +409,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "śāntam hetukṣayādeva kṣīṇam nāmāvabudhyate |"
+          "text": "śāntam hetukṣayādeva kṣīṇam nāmāvabudhyate |",
+          "translated_text": "What is extinguished is named so just by the destruction of causes"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "svabhāvena hi yatkṣīṇam tat kṣīṇamucyate katham || Yukti_20"
+          "text": "svabhāvena hi yatkṣīṇam tat kṣīṇamucyate katham || Yukti_20",
+          "translated_text": "By nature, when something extinguishes, how can it be said to be extinguished?"
         }
       ]
     },
@@ -383,12 +427,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "na kaścidanutpannam nirodho 'pi na vai tathā |"
+          "text": "na kaścidanutpannam nirodho 'pi na vai tathā |",
+          "translated_text": "Nothing is non-arisen, cessation too is likewise not so"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "utpādabhangakarmaṇābhiprāyārthaḥ pradarśitaḥ || Yukti_21"
+          "text": "utpādabhangakarmaṇābhiprāyārthaḥ pradarśitaḥ || Yukti_21",
+          "translated_text": "The intent and meaning of creation and cessation are demonstrated"
         }
       ]
     },
@@ -399,12 +445,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "utpādajñānato bhaṅgo bhaṅgajñānādanityatā |"
+          "text": "utpādajñānato bhaṅgo bhaṅgajñānādanityatā |",
+          "translated_text": "From the knowledge of creation, cessation; from the knowledge of cessation, impermanence"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "anityatvāvabodhācca saddharmo hi vibodhitaḥ || Yukti_22"
+          "text": "anityatvāvabodhācca saddharmo hi vibodhitaḥ || Yukti_22",
+          "translated_text": "And by realizing impermanence, the true <s>Dharma</s> is revealed"
         }
       ]
     },
@@ -415,12 +463,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yaḥ pratītyasamutpāda utpādabhaṅgavarjitam |"
+          "text": "yaḥ pratītyasamutpāda utpādabhaṅgavarjitam |",
+          "translated_text": "That dependent origination which is free from creation and cessation,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "parijānāti tenaivanuttīryata bhavābudhiḥ || Yukti_23"
+          "text": "parijānāti tenaivanuttīryata bhavābudhiḥ || Yukti_23",
+          "translated_text": "By knowing that itself, the ocean of existence is crossed over"
         }
       ]
     },
@@ -431,12 +481,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sadasadbhirviparyastā ātmabhāvāḥ pṛthagjanāḥ |"
+          "text": "sadasadbhirviparyastā ātmabhāvāḥ pṛthagjanāḥ |",
+          "translated_text": "Mistaken by view of existence and nonexistence are individual beings,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kleśavamśagatāḥ sattvā ātmacinttena vañcitāḥ || Yukti_24"
+          "text": "kleśavamśagatāḥ sattvā ātmacinttena vañcitāḥ || Yukti_24",
+          "translated_text": "Beings caught in suffering lineage, deceived by self-conceit"
         }
       ]
     },
@@ -447,12 +499,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "vivudhairbhāvyate bhāveh śunyo 'nityo 'nātmakaḥ |"
+          "text": "vivudhairbhāvyate bhāveh śunyo 'nityo 'nātmakaḥ |",
+          "translated_text": "It is contemplated by the learned that being is empty, impermanent, selfless"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "moṣadharmacayaścaiva vivikta iti dṛśyate || Yukti_25"
+          "text": "moṣadharmacayaścaiva vivikta iti dṛśyate || Yukti_25",
+          "translated_text": "And the heap of defiling qualities is indeed seen as distinctive"
         }
       ]
     },
@@ -463,12 +517,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "amūlatvāt sthitirnaiva nirālambo nirāśrayaḥ |"
+          "text": "amūlatvāt sthitirnaiva nirālambo nirāśrayaḥ |",
+          "translated_text": "Due to lack of root, there is no stability, unsupported, unestablished"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "avidyāhetusambhūta ādimadhyāntavarjitaḥ || Yukti_26"
+          "text": "avidyāhetusambhūta ādimadhyāntavarjitaḥ || Yukti_26",
+          "translated_text": "Arising from the cause of ignorance, devoid of beginning, middle, and end"
         }
       ]
     },
@@ -480,7 +536,8 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "mohapuryāmivivannau yo māyāvat paśyati jagat | 27"
+          "text": "mohapuryāmivivannau yo māyāvat paśyati jagat | 27",
+          "translated_text": "In the city of illusion, the deluded one sees the world as illusion"
         },
         {
           "tag": "lg",
@@ -489,12 +546,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "atra brahmādiloko vai satya ivāvabhāsane |"
+              "text": "atra brahmādiloko vai satya ivāvabhāsane |",
+              "translated_text": "Here, the world of Brahma and others appear as if real,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "satyanmṛṣetyuktamāryena tatra kā śiṣyate parā || Yukti_28"
+              "text": "satyanmṛṣetyuktamāryena tatra kā śiṣyate parā || Yukti_28",
+              "translated_text": "But it is spoken thus by the noble one, what remains beyond that?"
             }
           ]
         },
@@ -505,12 +564,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "loko 'vidyāndhabhūto 'sau tṛṣnāstrotasā cālitaḥ |"
+              "text": "loko 'vidyāndhabhūto 'sau tṛṣnāstrotasā cālitaḥ |",
+              "translated_text": "That world is blind from ignorance, moved by the stream of craving,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tṛṣnārahitavijñasya puṇyadṛṣṭi samā kutaḥ || Yukti_29"
+              "text": "tṛṣnārahitavijñasya puṇyadṛṣṭi samā kutaḥ || Yukti_29",
+              "translated_text": "For the wise devoid of craving, where is the vision of merit equal?"
             }
           ]
         },
@@ -521,12 +582,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "ādau tattvamidaṃ dṛṣṭam sarvamstīti kathyate |"
+              "text": "ādau tattvamidaṃ dṛṣṭam sarvamstīti kathyate |",
+              "translated_text": "Initially, this reality is seen, everything is said to exist,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "jānannarthānnasakto 'pi paścānnunam vivicyate || Yukti_30"
+              "text": "jānannarthānnasakto 'pi paścānnunam vivicyate || Yukti_30",
+              "translated_text": "Knowing things, not attached, discernment truly arises thereafter"
             }
           ]
         },
@@ -537,12 +600,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "na jānāti viviktārtha śrutimātram pravartate |"
+              "text": "na jānāti viviktārtha śrutimātram pravartate |",
+              "translated_text": "He does not know the distinct meaning, only the hearing continues"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "yeṣām puṇyamavicchinnamutsannā itare janāḥ || Yukti_31"
+              "text": "yeṣām puṇyamavicchinnamutsannā itare janāḥ || Yukti_31",
+              "translated_text": "Whose merit is uninterrupted, others indeed are worn out"
             }
           ]
         },
@@ -553,12 +618,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "karmāni phalayuktāni proktam samyagidam jagat |"
+              "text": "karmāni phalayuktāni proktam samyagidam jagat |",
+              "translated_text": "Actions endowed with fruits are rightly declared in this world"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tatsvabhāvaparijñānamanutpannam hi desitam || Yukti_32"
+              "text": "tatsvabhāvaparijñānamanutpannam hi desitam || Yukti_32",
+              "translated_text": "The comprehension of their nature has been taught as never arisen"
             }
           ]
         },
@@ -569,12 +636,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "aham mameti kathitam yathākaryavaśājjanaiḥ |"
+              "text": "aham mameti kathitam yathākaryavaśājjanaiḥ |",
+              "translated_text": "I and mine are spoken of by people following the effect,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tathā kāryavaśāt proktāḥ skandhāyatanadhātavaḥ || Yukti_33"
+              "text": "tathā kāryavaśāt proktāḥ skandhāyatanadhātavaḥ || Yukti_33",
+              "translated_text": "So too are the aggregates, sense bases, and elements spoken of by the effect"
             }
           ]
         },
@@ -585,12 +654,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "mahābhūtādaya khyātā vijñāne nicayastathā |"
+              "text": "mahābhūtādaya khyātā vijñāne nicayastathā |",
+              "translated_text": "The great elements and others are known as collections in consciousness,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tajjñānena viyukttena mṛṣaiva na vikalpitam || Yukti_34"
+              "text": "tajjñānena viyukttena mṛṣaiva na vikalpitam || Yukti_34",
+              "translated_text": "Separated from that awareness, they are falsely imagined"
             }
           ]
         },
@@ -601,12 +672,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "nirvānam satyamekam hi jinairyadabhidhīyate |"
+              "text": "nirvānam satyamekam hi jinairyadabhidhīyate |",
+              "translated_text": "Nirvāna, indeed, is declared as the only truth by the conquerors"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "nāva śiṣṭam tadā satyamevam vijñena kalpitam || Yukti_35"
+              "text": "nāva śiṣṭam tadā satyamevam vijñena kalpitam || Yukti_35",
+              "translated_text": "It is not left over then, thus conceived as truth by the wise"
             }
           ]
         },
@@ -617,12 +690,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "yāvacittasya vikṣepastāvanmārasya gocaraḥ |"
+              "text": "yāvacittasya vikṣepastāvanmārasya gocaraḥ |",
+              "translated_text": "As long as there is distraction of the mind, so long it is the field of <s>Māra</s>,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "evambhūto bhavedyatra nā doṣo jāyate kathaṃ || Yukti_36"
+              "text": "evambhūto bhavedyatra nā doṣo jāyate kathaṃ || Yukti_36",
+              "translated_text": "Where it is thus, no fault arises, how is this possible?"
             }
           ]
         },
@@ -633,12 +708,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "avidyāpratyayo loko yasmādbuddhaiḥ prakīrtitaḥ |"
+              "text": "avidyāpratyayo loko yasmādbuddhaiḥ prakīrtitaḥ |",
+              "translated_text": "Since the world born from ignorance is proclaimed by the Buddhas,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "vikalpastena loko 'yamiti kim nopapadyate || Yukti_37"
+              "text": "vikalpastena loko 'yamiti kim nopapadyate || Yukti_37",
+              "translated_text": "This world is therefore fluctuation, why is this not appropriate?"
             }
           ]
         },
@@ -649,12 +726,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "avidyāyām niruddhāyām nirodho jāyate yathā |"
+              "text": "avidyāyām niruddhāyām nirodho jāyate yathā |",
+              "translated_text": "When ignorance is restrained, cessation arises consequently"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "ajñānato hi samkalpa iti kim na vidhīyate || Yukti_38"
+              "text": "ajñānato hi samkalpa iti kim na vidhīyate || Yukti_38",
+              "translated_text": "From ignorance arises conception, why is this not decreed?"
             }
           ]
         },
@@ -665,12 +744,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "hetutaḥ sambhavo yasya sthiti rna pratyayairvinā |"
+              "text": "hetutaḥ sambhavo yasya sthiti rna pratyayairvinā |",
+              "translated_text": "Whose origination is by cause, not existence without conditions,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "vigamaḥ pratyayābhāvāt so 'stītyavagataḥ kutaḥ || Yukti_39"
+              "text": "vigamaḥ pratyayābhāvāt so 'stītyavagataḥ kutaḥ || Yukti_39",
+              "translated_text": "Dissolution cometh forth from absence of conditions, how is it understood as existence"
             }
           ]
         },
@@ -681,12 +762,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "paramam bhāvāmaśritya sthitiścedbhāvavādinaḥ |"
+              "text": "paramam bhāvāmaśritya sthitiścedbhāvavādinaḥ |",
+              "translated_text": "Resting on supreme existence, if stability, for the advocates of being"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tadaiva hi sthitā mārge na kaściditasmayastataḥ || Yukti_40"
+              "text": "tadaiva hi sthitā mārge na kaściditasmayastataḥ || Yukti_40",
+              "translated_text": "Then indeed they are stable on the path, there is no one more amazed then"
             }
           ]
         },
@@ -697,12 +780,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "buddhamārge śritāḥ sarve 'nityamiti vādinaḥ |"
+              "text": "buddhamārge śritāḥ sarve 'nityamiti vādinaḥ |",
+              "translated_text": "All are resting on the path of the Buddha, speakers of impermanence"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "kena vādena gṛhyante bhāvāḥ santi parā iti || Yukti_41"
+              "text": "kena vādena gṛhyante bhāvāḥ santi parā iti || Yukti_41",
+              "translated_text": "By what argument are things affirmed, saying others exist?"
             }
           ]
         },
@@ -713,12 +798,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "eṣa vāsāviti yatra vimarśo nopalabhyate |"
+              "text": "eṣa vāsāviti yatra vimarśo nopalabhyate |",
+              "translated_text": "Where there is no apprehension of discrimination as this or that"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "idam satyamado veti paṇḍitaiḥ kathamucyatai || Yukti_42"
+              "text": "idam satyamado veti paṇḍitaiḥ kathamucyatai || Yukti_42",
+              "translated_text": "How is it declared by the wise, as this is truth, that is nonexistence"
             }
           ]
         },
@@ -729,12 +816,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "nānupādāya taiścāpi loko vātmābhikāṅkṣate |"
+              "text": "nānupādāya taiścāpi loko vātmābhikāṅkṣate |",
+              "translated_text": "Without apprehending them, the world also does not wish for self"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "nityānityāderūtpādah mithyādṛṣṭyā tu hāritaḥ || Yukti_43"
+              "text": "nityānityāderūtpādah mithyādṛṣṭyā tu hāritaḥ || Yukti_43",
+              "translated_text": "Eternal, non-eternal and others' production is taken away by wrong view"
             }
           ]
         },
@@ -745,12 +834,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "yeṣām bhāvāsmupādāya tattvā steṣām prasāditāḥ |"
+              "text": "yeṣām bhāvāsmupādāya tattvā steṣām prasāditāḥ |",
+              "translated_text": "For whom beings are perceived truly, their essences are clear"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tatra liṅgādayo doṣāḥ prajāyante na vā kathaṃ || Yukti_44"
+              "text": "tatra liṅgādayo doṣāḥ prajāyante na vā kathaṃ || Yukti_44",
+              "translated_text": "There, how do signs and other defects arise, or not arise?"
             }
           ]
         },
@@ -761,12 +852,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "yān hi dharmānupādāya dṛṣṭaścandro jale yathā |"
+              "text": "yān hi dharmānupādāya dṛṣṭaścandro jale yathā |",
+              "translated_text": "As the moon is seen in the water without comprehending it"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tatra satyam mṛṣā naiva kāmaṃ dṛṣṭyā na hāritaḥ || Yukti_45"
+              "text": "tatra satyam mṛṣā naiva kāmaṃ dṛṣṭyā na hāritaḥ || Yukti_45",
+              "translated_text": "There, truth is not false, desire is not lost by view"
             }
           ]
         },
@@ -777,12 +870,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "rāgadveṣodbhavastīvra-duṣṭadṛṣṭiparigraḥ |"
+              "text": "rāgadveṣodbhavastīvra-duṣṭadṛṣṭiparigraḥ |",
+              "translated_text": "Born of passion and aversion, intense is the grasp of wrong view"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "vivādāstatsamutthāśca bhāvābhyupagame sati || Yukti_46"
+              "text": "vivādāstatsamutthāśca bhāvābhyupagame sati || Yukti_46",
+              "translated_text": "Disputes arise along with acceptance of existence"
             }
           ]
         },
@@ -793,12 +888,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "sa hetuḥ sarvadṛṣṭīnām kleśotpatti rna tam vinā |"
+              "text": "sa hetuḥ sarvadṛṣṭīnām kleśotpatti rna tam vinā |",
+              "translated_text": "That cause is the origin of all views of affliction, not without it"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tasmāttsmin parijñāte dṛṣṭikleśaparikṣayaḥ || Yukti_47"
+              "text": "tasmāttsmin parijñāte dṛṣṭikleśaparikṣayaḥ || Yukti_47",
+              "translated_text": "Therefore, with it understood, defilement and affliction are reduced"
             }
           ]
         },
@@ -809,12 +906,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "parijñāñca keneti pratītyotpādadarśanāt |"
+              "text": "parijñāñca keneti pratītyotpādadarśanāt |",
+              "translated_text": "How is realization? By viewing the rise of dependent origination"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "pratītya jātañca'jātamāha tattvavidām varaḥ || Yukti_48"
+              "text": "pratītya jātañca'jātamāha tattvavidām varaḥ || Yukti_48",
+              "translated_text": "The best of the knowers of truth says, depending arisen and unborn"
             }
           ]
         },
@@ -825,12 +924,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "mithyājñāne paribhūya yo 'satye satyadhārakaḥ |"
+              "text": "mithyājñāne paribhūya yo 'satye satyadhārakaḥ |",
+              "translated_text": "Who abides in truth, overcoming false knowledge,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "parigraho vitarkādeḥ kramādrāgakriyā matā || Yukti_49"
+              "text": "parigraho vitarkādeḥ kramādrāgakriyā matā || Yukti_49",
+              "translated_text": "Attachment, and of unstable thought, regarded as the activity of passion in stages"
             }
           ]
         },
@@ -841,12 +942,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "mahātmanām na pakṣo vā vitarko vā na vidyate |"
+              "text": "mahātmanām na pakṣo vā vitarko vā na vidyate |",
+              "translated_text": "The great-souled ones have no side or imagination"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "yeṣām na vidyate pakṣeḥ parapakṣaḥ kutasteṣām || Yukti_50"
+              "text": "yeṣām na vidyate pakṣeḥ parapakṣaḥ kutasteṣām || Yukti_50",
+              "translated_text": "For whom there is no faction, how can opponents exist for them?"
             }
           ]
         },
@@ -857,12 +960,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "yasminneva samāśrito daṣṭaḥ kleśaviṣadharaih |"
+              "text": "yasminneva samāśrito daṣṭaḥ kleśaviṣadharaih |",
+              "translated_text": "Where residing, bitten by the snakes of afflictions"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "calaṃ vāniṣṭhitam cittaṃ na tiṣṭhatyanāśritam || Yukti_51"
+              "text": "calaṃ vāniṣṭhitam cittaṃ na tiṣṭhatyanāśritam || Yukti_51",
+              "translated_text": "The mind fluctuates or remains unsteady without residence"
             }
           ]
         },
@@ -873,12 +978,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "sāśraya cittavāna sattveḥ kleśodbhūto viṣo mahān |"
+              "text": "sāśraya cittavāna sattveḥ kleśodbhūto viṣo mahān |",
+              "translated_text": "With support, the mind persists in beings, a great poison from afflictions"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "sadā pṛthagajano hīnaḥ kleśasarpena gṛhītaḥ || Yukti_52"
+              "text": "sadā pṛthagajano hīnaḥ kleśasarpena gṛhītaḥ || Yukti_52",
+              "translated_text": "The common people are always inferior, grasped by the serpent of afflictions"
             }
           ]
         },
@@ -889,12 +996,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "prativimbe yathā rāgo loke ca mohavandhanāt |"
+              "text": "prativimbe yathā rāgo loke ca mohavandhanāt |",
+              "translated_text": "As in the reflection is attachment, in the world too due to the bonds of delusion"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "viṣayapinjaro sakto bālo hi satyasamjñayā || Yukti_53"
+              "text": "viṣayapinjaro sakto bālo hi satyasamjñayā || Yukti_53",
+              "translated_text": "Restricted in the cage of sense objects, the child by false perception"
             }
           ]
         },
@@ -905,12 +1014,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "cakṣurbhyām viṣayānnāma vimbajñānena paśyati |"
+              "text": "cakṣurbhyām viṣayānnāma vimbajñānena paśyati |",
+              "translated_text": "With eyes, he sees names of objects by perception of form"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "karmapaṅkeṣvanāsakto bhāvo yathā mahātmanaḥ || Yukti_54"
+              "text": "karmapaṅkeṣvanāsakto bhāvo yathā mahātmanaḥ || Yukti_54",
+              "translated_text": "As the state of the great soul is unattached in the mire of actions"
             }
           ]
         },
@@ -921,12 +1032,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "rūpāsaktā janā muḍhā madhyamā rāgavarjitāḥ |"
+              "text": "rūpāsaktā janā muḍhā madhyamā rāgavarjitāḥ |",
+              "translated_text": "People stuck to forms are deluded, middling are those free of passion"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "rūpasvabhāvavijño yo vimukto buddhimān paraḥ || Yukti_55"
+              "text": "rūpasvabhāvavijño yo vimukto buddhimān paraḥ || Yukti_55",
+              "translated_text": "He who knows the nature of form is liberated, the wise beyond others"
             }
           ]
         },
@@ -937,12 +1050,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "vivṛtya sukhacintāyāḥ vītarāgavivarjitaḥ |"
+              "text": "vivṛtya sukhacintāyāḥ vītarāgavivarjitaḥ |",
+              "translated_text": "Having opened the thought of happiness, devoid of both desire and aversion"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "māyāpumvadvipaśyanānnivṛtaḥ sa bhaviṣyati || Yukti_56"
+              "text": "māyāpumvadvipaśyanānnivṛtaḥ sa bhaviṣyati || Yukti_56",
+              "translated_text": "By the vision of knowing illusion as a deceit, he will be restrained"
             }
           ]
         },
@@ -953,12 +1068,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "mithyājñānabhitapto yaḥ kleśasamdoṣabhāgbhāvet |"
+              "text": "mithyājñānabhitapto yaḥ kleśasamdoṣabhāgbhāvet |",
+              "translated_text": "Who is scorched by false knowledge, becomes one sharing in the defects of afflictions"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "bhāvābhāvau vikalpanādarthajñānam na jāyate || Yukti_57"
+              "text": "bhāvābhāvau vikalpanādarthajñānam na jāyate || Yukti_57",
+              "translated_text": "Knowledge of meaning is not borne from conception of being and non-being"
             }
           ]
         },
@@ -969,12 +1086,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "nāśrayḥ vītarāgā vai bhavanti rāgavarjitāḥ |"
+              "text": "nāśrayḥ vītarāgā vai bhavanti rāgavarjitāḥ |",
+              "translated_text": "Those free of desire indeed become free from attachment,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "arāge rāgavardhāste na sāśrayā mahātmanaḥ || Yukti_58"
+              "text": "arāge rāgavardhāste na sāśrayā mahātmanaḥ || Yukti_58",
+              "translated_text": "Without desire, attachment does not increase, nor do they rely on support"
             }
           ]
         },
@@ -985,12 +1104,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "yeṣām viviktacetasām calam cittam cañcalam |"
+              "text": "yeṣām viviktacetasām calam cittam cañcalam |",
+              "translated_text": "The minds of those of distinct consciousness are unstable and restless,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "kleśasarpermathito 'pi tīṇo 'khinno bhavāmbuddheḥ || Yukti_59"
+              "text": "kleśasarpermathito 'pi tīṇo 'khinno bhavāmbuddheḥ || Yukti_59",
+              "translated_text": "Even if churned by the snake of defilement, he is unworried from the ocean of existence"
             }
           ]
         },
@@ -1001,26 +1122,31 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "śāstreṇānena janānām punyam jñānam ca sancitam |"
+              "text": "śāstreṇānena janānām punyam jñānam ca sancitam |",
+              "translated_text": "By this scripture, the people's merit and wisdom are gathered"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "punyajñānakriyodbhūtam dvāvāptotu param tathā || Yukti_60"
+              "text": "punyajñānakriyodbhūtam dvāvāptotu param tathā || Yukti_60",
+              "translated_text": "Arisen from the virtuous actions born of wisdom, both the supreme should be attained therefore"
             }
           ]
         }
-      ]
+      ],
+      "translated_text": "Like the core of a plantain tree, like the city of the Gandharvas,"
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "iti yuktiṣaṣṭikārikā samāptā |"
+      "text": "iti yuktiṣaṣṭikārikā samāptā |",
+      "translated_text": "Thus, the treatise of Yukti-Sixty is complete"
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "āryanāgārjunamukhaniḥ satam, śāstramidaṃ"
+      "text": "āryanāgārjunamukhaniḥ satam, śāstramidaṃ",
+      "translated_text": "From the mouth of the venerable <s>Nāgārjuna</s>, this scripture"
     },
     {
       "tag": "lg",
@@ -1029,24 +1155,28 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhāratīyapaṇḍita muditaśripaṇḍitācchurtam"
+          "text": "bhāratīyapaṇḍita muditaśripaṇḍitācchurtam",
+          "translated_text": "Listened to by the Indian Pandit <s>Muditaśri</s>"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ca bhoṭavāsinā pātchava prāntīya suryakīrtirnāma"
+          "text": "ca bhoṭavāsinā pātchava prāntīya suryakīrtirnāma",
+          "translated_text": "And by the Tibetan inhabitant, named <s>Sūryakīrti</s> of the Pātchava region"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhoṭapaṇḍitena likhitaṃ bhoṭabhāṣāyamiti ||"
+          "text": "bhoṭapaṇḍitena likhitaṃ bhoṭabhāṣāyamiti ||",
+          "translated_text": "Written by the Tibetan Pandit in the Tibetan language"
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "śubhamastu |"
+      "text": "śubhamastu |",
+      "translated_text": "May there be auspiciousness"
     }
   ]
 }
