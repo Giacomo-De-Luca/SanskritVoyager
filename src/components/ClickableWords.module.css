@@ -77,6 +77,10 @@
 
 }
 
+.accordionTitle {
+
+    font-family: "LinuxLinoleum", sans-serif;
+}
 .textClickable {
 
   /*cursor: pointer;*/

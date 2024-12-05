@@ -139,84 +139,102 @@ const ClickableSimpleBooks = ({
   
     // Helper function to render clickable words
     const renderWords = (text: string, isTranslation: boolean = false) => {
-
       const transformedText = text
-      .replace(/[A-Za-z]+_(\d+\.\d+) /g, ' $1 ')
-      .replace(/[A-Za-z]+_(\d+)/g, ' $1 ')
-          
+        .replace(/[A-Za-z]+_(\d+\.\d+) /g, ' $1 ')
+        .replace(/[A-Za-z]+_(\d+)/g, ' $1 ')
+        .replace(/\//g, '|')
+        .replace(/\.(?!\d)/g, '|');
 
-
+      const segments = transformedText.split(/(?<!\|)\|(?!\|)/);
 
       if (isTranslation) {
-        // For translations, split by <s> tags and make only Sanskrit words clickable
-        const parts = transformedText.split(/(<s>.*?<\/s>)/);
-        return parts.map((part, partIndex) => {
-          if (part.startsWith('<s>') && part.endsWith('</s>')) {
-            // Extract Sanskrit word and make it clickable
-            const sanskritWord = part.replace(/<\/?s>/g, '').trim();
-            return (
-              <span
-                key={partIndex}
-                onClick={async () => {
-                  setSelectedWord(sanskritWord);
-                  setClickedWord(sanskritWord);
-                  setIsLoadingDebug(true);
-                  try {
-                    const data = await fetchMultidictData(sanskritWord, selectedDictionaries);
-                    setWordData(data);
-                  } finally {
-                    setIsLoadingDebug(false);
-                  }
-                }}
-                onMouseEnter={() => setHoveredWord(sanskritWord)}
-                onMouseLeave={() => setHoveredWord(null)}
-                className={`
-                  ${classes.word}
-                  ${classes.sanskritWord}
-                  ${selectedWord === sanskritWord ? classes.selectedWord : ''}
-                  ${hoveredWord === sanskritWord ? classes.hoveredWord : ''}
-                `}
-              >
-                {sanskritWord + ' '}
-              </span>
-            );
-          } else {
-            // Regular translation text - not clickable
-            return <span key={partIndex}>{part}</span>;
-          }
-        });
-      } else {
-        // Regular text handling (all words clickable)
-        return transformedText.split(/\s+|\+/).map((word: string, wordIndex: number) => {
-          const trimmedWord = word.trim();
-          if (!trimmedWord) return null;
-          
+        return segments.map((segment, segmentIndex) => {
+          const parts = segment.split(/(<s>.*?<\/s>)/);
           return (
-            <span
-              key={wordIndex}
-              onClick={async () => {
-                setSelectedWord(trimmedWord);
-                setClickedWord(trimmedWord);
-                setIsLoadingDebug(true);
-                try {
-                  const data = await fetchMultidictData(trimmedWord, selectedDictionaries);
-                  setWordData(data);
-                } finally {
-                  setIsLoadingDebug(false);
+            <React.Fragment key={segmentIndex}>
+              {parts.map((part, partIndex) => {
+                if (part.startsWith('<s>') && part.endsWith('</s>')) {
+                  const sanskritWord = part.replace(/<\/?s>/g, '').trim();
+                  return (
+                    <span
+                      key={`${segmentIndex}-${partIndex}`}
+                      onClick={async () => {
+                        setSelectedWord(sanskritWord);
+                        setClickedWord(sanskritWord);
+                        setIsLoadingDebug(true);
+                        try {
+                          const data = await fetchMultidictData(sanskritWord, selectedDictionaries);
+                          setWordData(data);
+                        } finally {
+                          setIsLoadingDebug(false);
+                        }
+                      }}
+                      onMouseEnter={() => setHoveredWord(sanskritWord)}
+                      onMouseLeave={() => setHoveredWord(null)}
+                      className={`
+                        ${classes.word}
+                        ${classes.sanskritWord}
+                        ${selectedWord === sanskritWord ? classes.selectedWord : ''}
+                        ${hoveredWord === sanskritWord ? classes.hoveredWord : ''}
+                      `}
+                    >
+                      {sanskritWord + ' '}
+                    </span>
+                  );
+                } else {
+                  return <span key={`${segmentIndex}-${partIndex}`}>{part}</span>;
                 }
-              }}
-              onMouseEnter={() => setHoveredWord(trimmedWord)}
-              onMouseLeave={() => setHoveredWord(null)}
-              className={`
-                ${classes.word}
-                ${selectedWord === trimmedWord ? classes.selectedWord : ''}
-                ${hoveredWord === trimmedWord ? classes.hoveredWord : ''}
-              `}
-            >
-              {word + ' '}
-            </span>
+              })}
+              {segmentIndex < segments.length - 1 && (
+                <>
+                  <span className={classes.pipeMark}>|</span>
+                  <br />
+                </>
+              )}
+            </React.Fragment>
           );
         });
+      } else {
+        return segments.map((segment, segmentIndex) => (
+          <React.Fragment key={segmentIndex}>
+            {segment.split(/\s+|\+/).map((word: string, wordIndex: number) => {
+              const trimmedWord = word.trim();
+              if (!trimmedWord) return null;
+              
+              return (
+                <span
+                  key={`${segmentIndex}-${wordIndex}`}
+                  onClick={async () => {
+                    setSelectedWord(trimmedWord);
+                    setClickedWord(trimmedWord);
+                    setIsLoadingDebug(true);
+                    try {
+                      const data = await fetchMultidictData(trimmedWord, selectedDictionaries);
+                      setWordData(data);
+                    } finally {
+                      setIsLoadingDebug(false);
+                    }
+                  }}
+                  onMouseEnter={() => setHoveredWord(trimmedWord)}
+                  onMouseLeave={() => setHoveredWord(null)}
+                  className={`
+                    ${classes.word}
+                    ${selectedWord === trimmedWord ? classes.selectedWord : ''}
+                    ${hoveredWord === trimmedWord ? classes.hoveredWord : ''}
+                  `}
+                >
+                  {word + ' '}
+                </span>
+              );
+            })}
+            {segmentIndex < segments.length - 1 && (
+              <>
+                <span className={classes.pipeMark}>|</span>
+                <br />
+              </>
+            )}
+          </React.Fragment>
+        ));
       }
     };
   
@@ -308,7 +326,11 @@ const ClickableSimpleBooks = ({
 
         <Accordion className={classes.metadataAccordion}>
           <Accordion.Item value="metadata">
-            <Accordion.Control>Additional Information</Accordion.Control>
+            <Accordion.Control
+              className={classes.accordionTitle}
+              >
+                Additional Information
+              </Accordion.Control>
             <Accordion.Panel>
               {metadata.publisher && (
                 <Text className={classes.metadataItem}>
@@ -343,7 +365,7 @@ const ClickableSimpleBooks = ({
                   <div className={classes.contributorsList}>
                     {metadata.contributors.map((contributor, index) => (
                       <Text key={index} className={classes.contributorItem}>
-                        <b>{contributor.role}:</b> {contributor.name}
+                        <b>{contributor.role.charAt(0).toUpperCase() + contributor.role.slice(1)}:</b> {contributor.name}
                         {contributor.when && ` (${contributor.when})`}
                       </Text>
                     ))}

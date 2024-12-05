@@ -97,6 +97,9 @@ export function HomePage() {
 
   const shouldUseColumn = isMobile || (isTablet && isNavbarVisible);
 
+  const vhActual = `calc(100vh - 56px)`;
+  const vhActualHalf = `calc((100vh - 56px)/2)`; // Correct
+
   // here starts what should be a separate component
   // make a separate component for the clickable words in the text
   // split the text into words
@@ -331,18 +334,20 @@ export function HomePage() {
           transition: 'padding-left 0.3s ease',
           width: '100%', // Ensure grid doesn't exceed viewport
           maxWidth: '100vw', // Prevent horizontal scroll
-          maxHeight: '100vh', // Added to prevent vertical overflow
+          maxHeight: vhActual, // Added to prevent vertical overflow
           
      
         }}
       >
         {text !== '' || bookTitle !== null ? (
         <Grid.Col 
-          span={isMobile ? 12 : 6}
+          span={isMobile ? 12 : isTablet && isNavbarVisible ? 12 : 6}
           className={`${classes.noScroll} ${classes.textDisplay}`}
           style={{
             marginTop: isMobile ? '20px' : '100px',
-            maxHeight: isMobile ? (selectedWord !== "" ? '50vh': '100vh') : '100vh',
+            maxHeight: isMobile ? (selectedWord !== "" ? vhActualHalf: vhActual) :
+                       isTablet && isNavbarVisible ? (selectedWord !== "" ? vhActualHalf: vhActual):
+                       vhActual,
             width: isMobile ? '100%' : '50%',  // Changed to percentage
             paddingLeft: isTablet ? '0' : (isNavbarVisible ? '100px' : '0px'),
             paddingRight: isMobile? '0px' : isTablet ? '40px' : (isNavbarVisible ? '100px' : '120px'),
@@ -368,8 +373,8 @@ export function HomePage() {
               lineHeight: '1.6',
               paddingTop: isMobile ? '50px' : '0px',  // Added to ensure padding
               maxHeight: isMobile 
-              ? (isTextEmpty ? '0vh' : (selectedWord !== "" ? '50vh': '100vh'))
-              : '100vh', // Added to prevent vertical overflow
+              ? (isTextEmpty ? '0vh' : (selectedWord !== "" ? vhActualHalf: vhActual))
+              : vhActual, // Added to prevent vertical overflow
 
             }}
             
@@ -448,11 +453,13 @@ export function HomePage() {
         {text !== '' || bookTitle !== null ? (
           selectedWord !== "" ? (
           <Grid.Col 
-            span={isMobile ? 12 : 6}
+            span={isMobile ? 12 : isTablet && isNavbarVisible ? 12 : 6}
             className={`${classes.noScroll} ${classes.wordInfoHalf}`}
             style={{
               marginTop: isMobile ? '20px' : '80px',
-              maxHeight: isMobile ? (isTextEmpty ? '100vh' : '50vh') : '100vh',              
+              maxHeight: isMobile ? (selectedWord !== "" ? vhActualHalf: vhActual) :
+              isTablet && isNavbarVisible ? (selectedWord !== "" ? vhActualHalf: vhActual):
+              vhActual,          
               width: isMobile ? '100%' : '50%',  // Changed to percentage
               paddingLeft: isMobile ? '0' : (isNavbarVisible ? '50px' : '0px'),
               paddingRight: isMobile ? '0' : (isNavbarVisible ? '80px' : '40px'),

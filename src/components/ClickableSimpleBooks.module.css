@@ -104,6 +104,12 @@
   .bookContainer {
     padding: 1rem;
   }
+
+
+  .accordionTitle .mantine-Accordion-controlTitle {
+    color: light-dark(var(--mantine-color-grey-3), var(--mantine-color-grey-5));
+  }
+
   
   .bookTitle {
     margin-bottom: 0.5rem;
