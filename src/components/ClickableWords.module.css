@@ -1,0 +1,104 @@
+
+.genericIcon {
+    color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-dark-2));
+    margin-right: var(--mantine-spacing-sm);
+    width: rem(25px);
+    height: rem(25px);
+  }
+
+
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.noScroll::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.noScroll {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.wordInfoFull{
+
+  @media (max-width: 600px) {
+    width: 100vw; /* 100% of the viewport width */
+    padding-right: 0px;
+  }
+}
+
+.wordInfoHalf{
+
+  @media (max-width: 600px) {
+    margin-top: 0px;
+    padding-right: 0px !important;
+
+  }
+}
+
+.readingButton {
+  color: light-dark(var(--mantine-color-gray-9), var(--mantine-color-dark-1));
+  background-color: transparent;
+
+}
+
+
+.readingButton:hover {
+  color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-dark-3)); /* Adjust the colors as needed */
+  background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-dark-6));
+
+}
+
+
+
+
+.navbarBox {
+
+  flex: '0 0 15%';
+
+
+  @media (max-width: 600px) {
+    flex: '0 0 5%'; /* 100% of the viewport width */
+  }
+
+    
+  
+}
+
+.textDisplay {
+
+  margin-top: '120px';
+
+  @media (max-width: 1000px) {
+    margin-top: 40px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+}
+
+.textClickable {
+
+  /*cursor: pointer;*/
+  letter-spacing: 0.01em;
+
+}
+
+.loaderContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.additionalWord {
+
+  color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-dark-2));
+
+}
+
+
+.additionalWord:hover {
+  color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-dark-4)); /* Adjust the colors as needed */
+}

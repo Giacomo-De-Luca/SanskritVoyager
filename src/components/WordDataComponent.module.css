@@ -29,7 +29,7 @@
     margin-top: 1.5rem;
     text-indent: 0%; /* Indent the first line by 10% of the containing block's width */
     padding-bottom: 1.5rem;
-    border-bottom: 1px solid light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-7));
+    border-bottom: 1px solid light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
 
 
 }
@@ -47,7 +47,7 @@
     font-size: 2.5rem;
     font-weight: 400;
     letter-spacing: -0.02em;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     margin-top: 1rem;
     scroll-margin-top: 60px;
 }
@@ -57,6 +57,16 @@
     font-size: 1.1rem;
     color: var(--mantine-color-gray-6);
     margin-bottom: 1rem;
+    margin-top: 0; /* Ensure no margin at the top */
+    padding-top: 0; /* Ensure no padding at the top */
+    text-indent: 1%;
+
+
+}
+
+.pronunciation:hover {
+    text-decoration: underline;
+    color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-4));
 }
 
 .etymologySection {
@@ -80,8 +90,10 @@
 }
 
 .grammarSection {
-    padding-top: 1rem;
-    border-top: 1px solid light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-7))
+    padding-top: 0.6rem;
+    border-top: 1px solid light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
+    padding-bottom: 0.2rem;
+    margin-bottom: 0.2rem;
     }
 
 .grammarMain {
@@ -92,27 +104,53 @@
     
 }
 
+.grammarMainIndeclinable {
+    font-size: 1rem;
+    color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-red-4));
+    margin-bottom: 0rem;
+    /* font-family: 'Optima', sans-serif; */
+    
+}
+
 .grammarDetail {
-    font-size: 0.875rem;
+    font-size: 1rem;
     font-style: italic;
-    color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-5));
-    font-family: 'Optima', sans-serif;
+    color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-5));
+    font-family: 'LibertinusSans', sans-serif;
     font-weight: 500;
+    padding-bottom: 1rem;
+    margin-bottom: 0.6rem;
+    margin-top: 0rem;
+    padding-top: 0rem;
 
 }
+
+.grammarDetailEmpty {
+    border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
+    display: inline-block; /* Ensure the border is as long as the content */
+    padding-bottom: 0.5rem; /* Less padding when empty */
+    margin-bottom: 0.6rem;
+    width: 100%; /* Make the border span the full width of the div */
+    margin-top: 0rem;
+    padding-top: 0rem;
+
+
+  }
+
 
 
 .vocabularySection {
     padding-top: 0.3rem;
     font-family: 'LibertinusSans', sans-serif;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: 500;
-    color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-3));
+    color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-5));
 
     letter-spacing: 0.01em;
     padding-bottom: 1.2rem;
     margin-bottom: 1.3rem;
-    border-bottom: 1px solid light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-7));
+    border-bottom: 1px solid light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
+    
     
 
 }

@@ -19,42 +19,8 @@ import {
 } from '@mantine/core';
 import { useScrollIntoView } from '@mantine/hooks';
 import classes from './ClickableSimpleBooks.module.css';
+import { BookText, TextElement, Metadata }  from '../types/bookTypes';
 
-interface Contributor {
-  role: string;
-  name: string;
-  when: string;
-}
-
-interface License {
-  text: string;
-  target: string;
-}
-
-interface Metadata {
-  original_title: string;
-  author?: string;
-  contributors?: Contributor[];
-  publisher?: string;
-  license?: License;
-  publication_date?: string;
-  source?: string;
-}
-
-interface TextElement {
-  tag: string;
-  attributes: Record<string, string>;
-  text?: string;
-  translated_text?: string;
-  children?: TextElement[];
-}
-
-interface BookText {
-  file_title?: string;
-  file_title_normal?: string;
-  metadata?: Metadata;
-  body?: TextElement[];
-}
 
 
 interface ClickableSimpleBooksProps {

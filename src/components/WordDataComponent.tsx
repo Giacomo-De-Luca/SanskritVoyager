@@ -93,11 +93,23 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                 {longEntry[0]}
               </h1>
 
-              {longEntry[0] !== longEntry[5] && 
-                <p className={classes.pronunciation}>
-                  {longEntry[5]}
+              {longEntry[0] !== longEntry[5] && (
+                <p >
+                  {longEntry[5].split(/(-|—(?=\w))/).map((part, index) => {
+                    if (!part.trim()) return part;
+                    
+                    return (
+                      <span
+                        key={`pron-${index}`}
+                        onClick={() => handleWordClick(part, index)}
+                        className={classes.pronunciation}
+                      >
+                        {part}
+                      </span>
+                    );
+                  })}
                 </p>
-              }
+              )}
 
               {longEntry[0] !== longEntry[4] && 
                 <p className={classes.etymologySection}>
@@ -107,7 +119,15 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
               }
 
               <p className={classes.grammarSection}>
-                <div className={classes.grammarMain}>{longEntry[1]}</div>
+                <p 
+                className={
+                  longEntry[1] === "indeclineable"
+                    ? classes.grammarMainIndeclinable
+                    : classes.grammarMain
+                }
+                >
+                  {longEntry[1]}
+                  </p>
               </p>
 
               {longEntry[2] && longEntry[2].map((inflection, index) => {
@@ -136,7 +156,13 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                 }
 
                 return (
-                  <span key={index} className={classes.grammarDetail}>
+                  <span key={index} 
+                  className={
+                    caseFull && numberFull
+                      ? classes.grammarDetail
+                      : classes.grammarDetailEmpty
+                  }
+                  >
                     {longEntry[3].length > 1 && (
                       <>
                         {caseFull}, {numberFull}
@@ -192,7 +218,7 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
 
                 </div>
               )}
-              <hr />
+              {/* </hr> */}
             </div>
           );
         } else if (entry.length === 3) {

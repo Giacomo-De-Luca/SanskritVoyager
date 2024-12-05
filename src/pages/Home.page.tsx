@@ -15,7 +15,9 @@ import { UiSwitch } from '@/components/HeaderSearch';
 import DictionarySelectComponent from '@/components/DictionarySelect';
 import BookSelect from '@/components/BookSelect';
 import  ClickableSimpleBooks  from '@/components/ClickableSimpleBooks';
-
+import ClickableWords from '@/components/ClickableWords';
+import { WordEntry, GroupedEntries } from '../types/wordTypes';
+import { BookText } from '../types/bookTypes';
 
 
 interface Translation {
@@ -42,43 +44,6 @@ export function HomePage() {
   // selected book title in the combobox
   const [ bookTitle, setBookTitle ] = useState<string | null>(null);
 
-  // retrieved book text
-  interface Contributor {
-    role: string;
-    name: string;
-    when: string;
-  }
-  
-  interface License {
-    text: string;
-    target: string;
-  }
-  
-  interface Metadata {
-    original_title: string;
-    author?: string;
-    contributors?: Contributor[];
-    publisher?: string;
-    license?: License;
-    publication_date?: string;
-    source?: string;
-  }
-  
-  interface TextElement {
-    tag: string;
-    attributes: Record<string, string>;
-    text?: string;
-    translated_text?: string;
-    children?: TextElement[];
-  }
-  
-  interface BookText {
-    file_title?: string;
-    file_title_normal?: string;
-    metadata?: Metadata;
-    body?: TextElement[];
-  }
-
   const [bookText, setBookText] = useState<BookText>({});
   
   // dictionary selected
@@ -87,7 +52,6 @@ export function HomePage() {
   const isTextEmpty = text === "" && Object.keys(bookText).length === 0;
   console.log('isTextEmpty:', isTextEmpty);
 
-
   // reduce array for the clickable links to wordData
   type GroupedEntries = {
     [key: string]: WordEntry[];
@@ -95,7 +59,8 @@ export function HomePage() {
   
   // Add loading state
   const [isLoadingWordData, setIsLoadingWordData] = useState(false);
-  
+
+  // media queries
   const isSmallMobile = useMediaQuery('(max-height: 724px)');
   const isMobile = useMediaQuery('(max-width: 768px)');
   const isTablet = useMediaQuery('(max-width: 1340px)');
@@ -132,10 +97,8 @@ export function HomePage() {
 
   const shouldUseColumn = isMobile || (isTablet && isNavbarVisible);
 
-
   // here starts what should be a separate component
   // make a separate component for the clickable words in the text
-
   // split the text into words
   const words = textTranslit ? textTranslit.split(/\s+|\\+/) : [];
 
@@ -197,7 +160,6 @@ export function HomePage() {
           }
         }
       }
-
       if (element) {
         // Add a small delay to ensure DOM is ready
         setTimeout(() => {
@@ -212,101 +174,6 @@ export function HomePage() {
   }, [clickedAdditionalWord]);
 
 
-  const clickable_words = lines.map((line, lineIndex) => {
-    const words = line.split(/\s+|\+/);
-    const hasClickedWord = words.some(word => word.trim() === clickedWord);
-
-    return (
-      <div key={lineIndex} style={{ marginBottom: '8px' }}>
-      <p>
-        {words.map((word: string, wordIndex: number) => {
-          const trimmedWord = word.trim();
-          return (
-            <span
-              key={wordIndex}
-              onClick={async () => {
-                setSelectedWord(trimmedWord);
-                setClickedWord(trimmedWord);
-                setIsLoadingWordData(true);
-                
-                try {
-                  const data = await fetchMultidictData(trimmedWord, selectedDictionaries);
-                  console.log(data);
-                  setWordData(data);
-                } finally {
-                  setIsLoadingWordData(false);
-                }
-              }}
-              onMouseEnter={() => setHoveredWord(trimmedWord)}
-              onMouseLeave={() => setHoveredWord(null)}
-              style={{ 
-                color: selectedWord === trimmedWord ? 'orange' : 'inherit',
-                ...(hoveredWord === trimmedWord ? { color: 'gray' } : {}),
-                cursor: 'pointer',
-              }}
-            >
-              {word + ' '}
-            </span>
-          );
-        })}
-      </p>
-      {hasClickedWord && (
-        <p style={{ paddingLeft: '16px', color: '#666', marginTop: '4px' }}>
-          {isLoadingWordData ? (
-          <div className= {classes.loaderContainer}>
-            <Loader type="dots" size="sm" color='rgba(191, 191, 191, 1)' />
-          </div>
-          ) : (
-            wordData.length > 0 && (() => {
-              const groupedEntries = wordData.reduce<GroupedEntries>((acc, entry) => {
-                const key = entry[4] || 'default';
-                if (!acc[key]) {
-                  acc[key] = [];
-                }
-                acc[key].push(entry);
-                return acc;
-              }, {});
-
-              return Object.entries(groupedEntries).map(([originalWord, entries], groupIndex) => {
-                const uniqueWords = Array.from(new Set(entries.map(entry => entry[0])));
-                
-                return (
-                  <span key={groupIndex} style={{ marginRight: '8px' }}>
-                    {uniqueWords.map((word, wordIndex) => (
-                      <>
-                        <span
-                          key={wordIndex}
-                          className= {classes.additionalWord}
-                          onClick={async () => {
-                            setClickedAdditionalWord(word);
-                            
-                          }}
-                          style={{
-                            cursor: 'pointer',
-                            whiteSpace: 'nowrap', // Prevent line breaks within words
-                                                      
-                            marginRight: wordIndex < uniqueWords.length - 1 ? '4px' : '0',
-                          }}
-                        >
-                          {word}
-                        </span>
-                        {wordIndex < uniqueWords.length - 1 && (
-                          <span style={{ margin: '0 4px', color: '#666' }}>|</span>
-                        )}
-                      </>
-                    ))}
-                  </span>
-                );
-              });
-            })()
-          )}
-        </p>
-      )}
-    </div>
-  );
-});
-
-
   // If there is only one word, set it as the selected word
   useEffect(() => {
     if (words.length === 1) {
@@ -315,29 +182,6 @@ export function HomePage() {
   }, [words]);
 
   
-
-
-    // Define types for the different entry structures
-  type InflectionEntry = [string, string]; // [caseAbbr, numberAbbr]
-  type LongEntry = [
-    string,  // entry[0] - word
-    string,  // entry[1] - grammar
-    InflectionEntry[],  // entry[2] - inflections
-    string[],  // entry[3] - inflection_wordsIAST
-    string,  // entry[4] - etymology
-    string,  // entry[5] - pronunciation
-    { [dictionaryName: string]: { [wordName: string]: string[] } }  // entry[6] - vocabulary entries
-  ];
-
-  type ShortEntry = [
-    string,  // entry[0] - word
-    string,  // entry[1] - components
-    { [dictionaryName: string]: { [wordName: string]: string[] } }  // entry[6] - vocabulary entries
-  ];
-
-  type WordEntry = LongEntry | ShortEntry;
-
-
   useEffect(() => {
     if (selectedWord) {
       fetchMultidictData(selectedWord, selectedDictionaries).then(data => {
@@ -350,7 +194,7 @@ export function HomePage() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`/resources/books/${bookTitle}.json`);
+        const response = await fetch(`/public/resources/books/${bookTitle}.json`);
         if (!response.ok) {
           throw new Error(`Failed to fetch: ${response.status}`);
         }
@@ -377,14 +221,14 @@ export function HomePage() {
       />
 
     <div style={{ display: 'flex' }}>  
-      <div // navbar component
+      <div // navbar component should be a separate one
         className={classes.navbarBox}
         style={{ flex: isMobile? '0 0 8%' : '0 0 10%', 
                   minWidth: isNavbarVisible? '400px': '0px' }}
         >
       {isNavbarVisible && (
         <NavbarSimple>
-
+        
         <Stack  
           gap="3px"
           justify="flex-end"
@@ -474,10 +318,6 @@ export function HomePage() {
       paddingRight: isMobile ? '16px' : undefined
       }}>
 
-
-
-            
-
       <Grid 
         gutter= {isTablet ? "lg" : 'xl'}
         className={classes.wholeGrid}
@@ -502,7 +342,7 @@ export function HomePage() {
           className={`${classes.noScroll} ${classes.textDisplay}`}
           style={{
             marginTop: isMobile ? '20px' : '100px',
-            maxHeight: isMobile ? '50vh' : '100vh',
+            maxHeight: isMobile ? (selectedWord !== "" ? '50vh': '100vh') : '100vh',
             width: isMobile ? '100%' : '50%',  // Changed to percentage
             paddingLeft: isTablet ? '0' : (isNavbarVisible ? '100px' : '0px'),
             paddingRight: isMobile? '0px' : isTablet ? '40px' : (isNavbarVisible ? '100px' : '120px'),
@@ -527,12 +367,35 @@ export function HomePage() {
               cursor: 'pointer',
               lineHeight: '1.6',
               paddingTop: isMobile ? '50px' : '0px',  // Added to ensure padding
-              maxHeight: isMobile ? (isTextEmpty ? '0vh' : '50vh') : '100vh', // Added to prevent vertical overflow
+              maxHeight: isMobile 
+              ? (isTextEmpty ? '0vh' : (selectedWord !== "" ? '50vh': '100vh'))
+              : '100vh', // Added to prevent vertical overflow
 
             }}
             
           >
-            {clickable_words}
+              <ClickableWords
+                lines={lines}
+                selectedWord={selectedWord}
+                setSelectedWord={setSelectedWord}
+                hoveredWord={hoveredWord}
+                setHoveredWord={setHoveredWord}
+                selectedDictionaries={selectedDictionaries}
+                wordData={wordData}
+                isLoadingWordData={isLoadingWordData}
+                clickedWord={clickedWord}
+                setClickedWord={setClickedWord}
+                onWordClick={async (word) => {
+                  setIsLoadingWordData(true);
+                  try {
+                    const data = await fetchMultidictData(word, selectedDictionaries);
+                    setWordData(data);
+                  } finally {
+                    setIsLoadingWordData(false);
+                  }
+                }}
+                onAdditionalWordClick={(word) => setClickedAdditionalWord(word)}
+              />
             <ClickableSimpleBooks
               bookText={bookText}
               selectedWord={selectedWord}
@@ -545,8 +408,6 @@ export function HomePage() {
               selectedDictionaries={selectedDictionaries}
               hoveredWord = {hoveredWord}
               setHoveredWord = {setHoveredWord}
-             
-
 
             />
           </div>
@@ -585,6 +446,7 @@ export function HomePage() {
         ) : ("")
         }
         {text !== '' || bookTitle !== null ? (
+          selectedWord !== "" ? (
           <Grid.Col 
             span={isMobile ? 12 : 6}
             className={`${classes.noScroll} ${classes.wordInfoHalf}`}
@@ -601,7 +463,7 @@ export function HomePage() {
           >
             <WordDataComponent wordData={wordData} setWordData={setWordData} selectedDictionaries={selectedDictionaries} isMobile={isMobile} />
           </Grid.Col>
-        ) : (
+        ) : "") : (
           <Grid.Col 
             span={12}
             className={`${classes.noScroll} ${classes.wordInfoFull}`}
