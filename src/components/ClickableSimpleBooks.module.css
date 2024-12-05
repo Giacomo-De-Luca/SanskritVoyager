@@ -1,18 +1,15 @@
 
 .loaderContainer {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: left;
+    align-items: left;
+    padding: 0.5rem 0;
+
   }
   
 
 
 
-.additionalWord {
-
-    color: light-dark(var(--mantine-color-purple-6), var(--mantine-color-purple-2));
-  
-  }
   
   
 .bookTitle {
@@ -80,25 +77,31 @@
   
   .selectedWord {
     color: orange;
+    text-decoration: underline;
   }
   
   .hoveredWord {
     color: gray;
   }
   
-  /* Word info display */
   .wordInfo {
     padding: 0.5rem 0 0.5rem 2rem;
-    margin: 0.25rem 0;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
     border-left: 2px solid #eee;
     color: #666;
+    display: flex;
+    flex-wrap: wrap; /* Allow wrapping when needed */
+    align-items: center;
+    gap: 4px; /* Consistent spacing between wrapped lines */
   }
   
-  .loaderContainer {
-    display: flex;
-    justify-content: flex-start;
-    padding: 0.5rem 0;
+  .additionalWord {
+    color: light-dark(var(--mantine-color-grape-8), var(--mantine-color-grape-4));
+    display: inline-flex; /* Better alignment with flex container */
+    align-items: center;
   }
+
   
   /* Existing metadata styles remain the same */
   .bookContainer {
@@ -110,7 +113,7 @@
     color: light-dark(var(--mantine-color-grey-3), var(--mantine-color-grey-5));
   }
 
-  
+
   .bookTitle {
     margin-bottom: 0.5rem;
     font-size: 2rem;
