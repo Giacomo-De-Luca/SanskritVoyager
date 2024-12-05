@@ -128,9 +128,8 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                 >
                   {longEntry[1]}
                   </p>
-              </p>
 
-              {longEntry[2] && longEntry[2].map((inflection, index) => {
+                  {longEntry[2] && longEntry[2].map((inflection, index) => {
                 let caseAbbr = inflection[0];
                 let numberAbbr = inflection[1];
 
@@ -179,6 +178,9 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                   useColor={true}
                 />
               )}
+              </p>
+
+              
 
               {shouldShowVocabulary && (
                 <div>

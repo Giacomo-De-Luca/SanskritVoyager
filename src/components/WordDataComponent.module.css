@@ -90,16 +90,18 @@
 }
 
 .grammarSection {
-    padding-top: 0.6rem;
+    padding-top: 1rem;
     border-top: 1px solid light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
-    padding-bottom: 0.2rem;
-    margin-bottom: 0.2rem;
+    padding-bottom: 1rem;
+    margin-bottom: 0.4rem;
+    border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
     }
 
 .grammarMain {
     font-size: 1rem;
     color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-4));
     margin-bottom: 0.75rem;
+    margin-top: 0rem;
     /* font-family: 'Optima', sans-serif; */
     
 }
