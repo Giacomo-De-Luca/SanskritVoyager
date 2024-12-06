@@ -119,9 +119,6 @@ const ClickableSimpleBooks = ({
   }, [isLoadingDebug, wordData, clickedWord]);
 
 
-
-
-
   const groupEntries = (data: typeof wordData) => {
     const groupedEntries: GroupedEntries = {};
     for (const entry of data) {
@@ -170,8 +167,8 @@ const ClickableSimpleBooks = ({
       const transformedText = isTranslation 
         ? text 
         : text
-            .replace(/[A-Za-z]+_(\d+\.\d+) /g, ' $1 ')
-            .replace(/[A-Za-z]+_(\d+)/g, ' $1 ')
+            .replace(/([A-Za-z]+)_(\d+\.\d+)\s/g, '$2 ') // Modified to use numbered groups
+            .replace(/([A-Za-z]+)_(\d+)/g, '$2 ')
             .replace(/\//g, '|')
             .replace(/\.(?!\d)/g, '|');
     
