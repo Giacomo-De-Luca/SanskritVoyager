@@ -102,3 +102,29 @@
 .additionalWord:hover {
   color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-dark-4)); /* Adjust the colors as needed */
 }
+
+.chevronButton {
+  position: sticky !important;
+  top: 0 !important;
+  right: 4px !important;
+  z-index: 10;
+  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  float: right;
+  margin-bottom: -40px;
+  background-color: var(--mantine-color-body) !important; /* Uses Mantine's body background color */
+  border-radius: 50%;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+  margin-left: 8px; /* Add some space from the text */
+  color: light-dark(var(--mantine-color-dark-3), var(--mantine-color-dark-1)); /* Adjust the colors as needed */
+
+}
+.chevronButton[data-rotated="true"] {
+  transform: rotate(180deg);
+}
+.chevronButton[data-rotated="true"] {
+  transform: rotate(180deg);
+}
+
+.wordInfoTransition {
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}

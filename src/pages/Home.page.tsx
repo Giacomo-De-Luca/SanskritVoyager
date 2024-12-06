@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { ActionToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle';
-import { Select, MultiSelect, Grid, Textarea, Button, Loader, Text, Stack } from '@mantine/core';
+import { Select, MultiSelect, Grid, Textarea, Button, Loader, Text, Stack, ActionIcon } from '@mantine/core';
 import { FileInput } from '@mantine/core';
 import {  ComboboxItem, Container, lighten, darken } from '@mantine/core';
 import { useDisclosure, useDebouncedState, useMediaQuery } from '@mantine/hooks';
@@ -8,7 +8,7 @@ import WordDataComponent from '@/components/WordDataComponent';
 import { fetchWordData, fetchMultidictData, transliterateText, handleTranslate } from './Api';
 import { HeaderSearch } from '@/components/HeaderSearch';
 import { NavbarSimple } from '@/components/NavbarSimple';
-import { IconVocabularyOff } from '@tabler/icons-react';
+import { IconVocabularyOff, IconChevronUp, IconChevronDown } from '@tabler/icons-react';
 import { IconClipboardCheck, IconCopy, IconClipboard} from '@tabler/icons-react';
 import classes from './HomePage.module.css';
 import { UiSwitch } from '@/components/HeaderSearch';
@@ -57,6 +57,10 @@ export function HomePage() {
     [key: string]: WordEntry[];
   };
   
+  const [isWordInfoVisible, setIsWordInfoVisible] = useState(true);
+
+
+
   // Add loading state
   const [isLoadingWordData, setIsLoadingWordData] = useState(false);
 
@@ -176,6 +180,31 @@ export function HomePage() {
     }
   }, [clickedAdditionalWord]);
 
+  // New effect for wordData changes
+  useEffect(() => {
+    if (wordData.length > 0) {
+      // Wait for the DOM to update with new wordData
+      setTimeout(() => {
+        const firstWord = wordData[0][0]; // Get the first word from wordData
+        let element = document.querySelector(`h1[data-word="${firstWord}"]`);
+        
+        if (!element) {
+          const allH1s = document.querySelectorAll('h1');
+          for (const h1 of allH1s) {
+            if (h1.textContent?.trim() === firstWord) {
+              element = h1;
+              break;
+            }
+          }
+        }
+
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }, 100);
+    }
+  }, [wordData]);
+
 
   // If there is only one word, set it as the selected word
   useEffect(() => {
@@ -184,6 +213,11 @@ export function HomePage() {
     }
   }, [words]);
 
+  useEffect(() => {
+  if (selectedWord !== '') {
+    setIsWordInfoVisible(true);
+  }
+}, [selectedWord]);
   
   useEffect(() => {
     if (selectedWord) {
@@ -197,7 +231,7 @@ export function HomePage() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`/resources/books/${bookTitle}.json`);
+        const response = await fetch(`/public/resources/books/${bookTitle}.json`);
         if (!response.ok) {
           throw new Error(`Failed to fetch: ${response.status}`);
         }
@@ -335,8 +369,7 @@ export function HomePage() {
           width: '100%', // Ensure grid doesn't exceed viewport
           maxWidth: '100vw', // Prevent horizontal scroll
           maxHeight: vhActual, // Added to prevent vertical overflow
-          
-     
+          paddingLeft: isMobile ? '0' : (isTablet ? '0' : (isNavbarVisible ? '0px' : '0px')),          
         }}
       >
         {text !== '' || bookTitle !== null ? (
@@ -345,11 +378,16 @@ export function HomePage() {
           className={`${classes.noScroll} ${classes.textDisplay}`}
           style={{
             marginTop: isMobile ? '20px' : '100px',
-            maxHeight: isMobile ? (selectedWord !== "" ? vhActualHalf: vhActual) :
-                       isTablet && isNavbarVisible ? (selectedWord !== "" ? vhActualHalf: vhActual):
-                       vhActual,
+            maxHeight: isMobile ? 
+            (selectedWord !== "" ? 
+              (isWordInfoVisible ? vhActualHalf : vhActual) 
+              : vhActual
+            ) :
+            isTablet && isNavbarVisible ? 
+              (selectedWord !== "" ? vhActualHalf : vhActual) 
+              : vhActual,
             width: isMobile ? '100%' : '50%',  // Changed to percentage
-            paddingLeft: isTablet ? '0' : (isNavbarVisible ? '100px' : '0px'),
+            paddingLeft: isTablet ? '0' : (isNavbarVisible ? '100px' : (isMobile ? '0px': '120px')),
             paddingRight: isMobile? '0px' : isTablet ? '40px' : (isNavbarVisible ? '100px' : '120px'),
             transition: 'padding-left 0.3s ease',
             overflowY: 'auto',
@@ -373,9 +411,13 @@ export function HomePage() {
               lineHeight: '1.6',
               paddingTop: isMobile ? '50px' : '0px',  // Added to ensure padding
               maxHeight: isMobile 
-              ? (isTextEmpty ? '0vh' : (selectedWord !== "" ? vhActualHalf: vhActual))
-              : vhActual, // Added to prevent vertical overflow
-
+                ? (isTextEmpty ? '0vh' : 
+                    (selectedWord !== "" ? 
+                      (isWordInfoVisible ? vhActualHalf : vhActual) 
+                      : vhActual
+                    )
+                  )
+                : vhActual,
             }}
             
           >
@@ -452,24 +494,45 @@ export function HomePage() {
         }
         {text !== '' || bookTitle !== null ? (
           selectedWord !== "" ? (
-          <Grid.Col 
-            span={isMobile ? 12 : isTablet && isNavbarVisible ? 12 : 6}
-            className={`${classes.noScroll} ${classes.wordInfoHalf}`}
-            style={{
-              marginTop: isMobile ? '20px' : '80px',
-              maxHeight: isMobile ? (selectedWord !== "" ? vhActualHalf: vhActual) :
-              isTablet && isNavbarVisible ? (selectedWord !== "" ? vhActualHalf: vhActual):
-              vhActual,          
-              width: isMobile ? '100%' : '50%',  // Changed to percentage
-              paddingLeft: isMobile ? '0' : (isNavbarVisible ? '50px' : '0px'),
-              paddingRight: isMobile ? '0' : (isNavbarVisible ? '80px' : '40px'),
-              transition: 'padding-left 0.3s ease',
-              overflowY: 'auto',
+              <Grid.Col 
+                span={isMobile ? (isWordInfoVisible ? 12 : 0) : (isTablet && isNavbarVisible ? 12 : 6)}
+                className={`${classes.noScroll} ${classes.wordInfoHalf} ${classes.wordInfoTransition}`}
+                style={{
+                  marginTop: isMobile ? '20px' : '80px',
+                  maxHeight: isMobile ? (selectedWord !== "" ? vhActualHalf: vhActual) :
+                  isTablet && isNavbarVisible ? (selectedWord !== "" ? vhActualHalf: vhActual):
+                  vhActual,          
+                  width: isMobile ? (isWordInfoVisible ? '100%' : '0%') : '50%',
+                  paddingLeft: isMobile ? '0' : (isNavbarVisible ? '50px' : '0px'),
+                  paddingRight: isMobile ? '0' : (isNavbarVisible ? '80px' : (isTablet ?'40px': '160px')),
+                  overflowY: 'auto',
+                  position: 'relative',
+                  opacity: isMobile && !isWordInfoVisible ? 0 : 1,
+                  visibility: isMobile && !isWordInfoVisible ? 'hidden' : 'visible',
+                  transition: 'all 0.3s ease',
 
-            }}
-          >
-            <WordDataComponent wordData={wordData} setWordData={setWordData} selectedDictionaries={selectedDictionaries} isMobile={isMobile} />
-          </Grid.Col>
+                  
+                }}
+              >
+                {isMobile && (
+                  <ActionIcon
+                      className={classes.chevronButton}
+                      onClick={() => setIsWordInfoVisible(!isWordInfoVisible)}
+                      data-rotated={!isWordInfoVisible}
+                      aria-label={isWordInfoVisible ? "Collapse word info" : "Expand word info"}
+                      variant="transparent"
+                      size="lg"
+                    >
+                      <IconChevronDown size={20} stroke={1.5}  />
+                </ActionIcon>
+                )}
+                <WordDataComponent 
+                  wordData={wordData} 
+                  setWordData={setWordData} 
+                  selectedDictionaries={selectedDictionaries} 
+                  isMobile={isMobile} 
+                />
+              </Grid.Col>
         ) : "") : (
           <Grid.Col 
             span={12}

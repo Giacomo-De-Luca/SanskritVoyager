@@ -1,5 +1,7 @@
 import React from 'react';
-import { Loader } from '@mantine/core';
+import { Loader, ActionIcon } from '@mantine/core';
+import { IconCopy, IconCopyCheck } from '@tabler/icons-react';
+import { useClipboard } from '@mantine/hooks';
 import classes from './ClickableWords.module.css';
 import { WordEntry, GroupedEntries } from '../types/wordTypes';
 
@@ -46,14 +48,33 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
     }
   };
 
+  const clipboard = useClipboard({ timeout: 500 });
+
+
   return (
     <>
+
+      <ActionIcon
+        className={classes.copyButton}
+        onClick={() => clipboard.copy(lines.join('\n'))}
+        variant="subtle"
+        size="lg"
+        aria-label="Copy text"
+      >
+        {clipboard.copied ? (
+          <IconCopyCheck size={20} stroke={1.5} />
+        ) : (
+          <IconCopy size={20} stroke={1.5} />
+        )}
+      </ActionIcon>
+      
+      <div style={{ marginTop: '4.5rem', }}>
       {lines.map((line, lineIndex) => {
         const words = line.split(/\s+|\+/);
         const hasClickedWord = words.some(word => word.trim() === clickedWord);
 
         return (
-          <div key={lineIndex} style={{ marginBottom: '8px' }}>
+          <div key={lineIndex} style={{ marginBottom: '8px', }}>
             <p>
               {words.map((word: string, wordIndex: number) => {
                 const trimmedWord = word.trim();
@@ -127,6 +148,7 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
           </div>
         );
       })}
+      </div>
     </>
   );
 };

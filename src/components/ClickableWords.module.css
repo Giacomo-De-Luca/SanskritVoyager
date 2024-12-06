@@ -106,3 +106,25 @@
 .selectedAdditionalWord {
     color: light-dark(var(--mantine-color-orange-6), var(--mantine-color-orange-4));
   }
+
+
+  .copyButton {
+    position: sticky !important;
+    top: 10px !important;
+    right: -100px !important;
+    z-index: 10;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    float: right;
+    margin-bottom: -40px;
+    background-color: var(--mantine-color-body) !important;
+    border-radius: 50%;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0.1);
+    margin-left: 8px;
+    color: light-dark(var(--mantine-color-dark-3), var(--mantine-color-dark-1)); /* Adjust the colors as needed */
+
+  }
+  
+  .copyButton[data-copied="true"] {
+    color: var(--mantine-color-teal-6);
+  }
+
