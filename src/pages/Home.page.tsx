@@ -374,7 +374,7 @@ export function HomePage() {
       >
         {text !== '' || bookTitle !== null ? (
         <Grid.Col 
-          span={isMobile ? 12 : isTablet && isNavbarVisible ? 12 : 6}
+          span={isMobile ? 12 : isTablet && isNavbarVisible ? 12 : (selectedWord !== "" ? 6 : 12)}
           className={`${classes.noScroll} ${classes.textDisplay}`}
           style={{
             marginTop: isMobile ? '20px' : '100px',
@@ -387,8 +387,26 @@ export function HomePage() {
               (selectedWord !== "" ? vhActualHalf : vhActual) 
               : vhActual,
             width: isMobile ? '100%' : '50%',  // Changed to percentage
-            paddingLeft: isTablet ? '0' : (isNavbarVisible ? '100px' : (isMobile ? '0px': '120px')),
-            paddingRight: isMobile? '0px' : isTablet ? '40px' : (isNavbarVisible ? '100px' : '120px'),
+            paddingLeft: 
+            isMobile ? '0px' : //mobile
+                  (isTablet ?       // tablet
+                    (isNavbarVisible ? 
+                      (selectedWord !== "" ? '40px' : '100px') :
+                      (selectedWord !== "" ? '60px' : '120px')) 
+                      :
+                    (isNavbarVisible ?    // desktop
+                      (selectedWord !== "" ? '80px' : '250px') :
+                      (selectedWord !== "" ? '100px' : '350px'))
+                  ),
+            paddingRight: isMobile ? '0px' :
+                  (isTablet ? 
+                    (isNavbarVisible ? 
+                      (selectedWord !== "" ? '40px' : '100px') :
+                      (selectedWord !== "" ? '60px' : '120px')) :
+                    (isNavbarVisible ? 
+                      (selectedWord !== "" ? '80px' : '150px') :
+                      (selectedWord !== "" ? '100px' : '350px'))
+                  ),
             transition: 'padding-left 0.3s ease',
             overflowY: 'auto',
             overflowX: 'hidden',

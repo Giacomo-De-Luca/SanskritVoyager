@@ -44,11 +44,14 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
       .then((data) => {
         console.log('Fetched data:', data); // Debugging statement
         // Map the array of strings into the desired format
-        const formattedData = data.map((title: string) => ({
+        const formattedData = data
+        .map((title: string) => ({
           value: removeDiacritics(title.replace(/_/g, ' ').replace(/-/g, ' ')),
-          label: capitalizeWords(title.replace(/^sa/, '').replace(/^ta/, '').replace(/_/g, ' ').replace(/-/g, ' ')), // Replace initial "sa" and underscores with spaces, then convert to CamelCase
+          label: capitalizeWords(title.replace(/^sa/, '').replace(/^ta/, '').replace(/_/g, ' ').replace(/-/g, ' ')),
           original: title
-        }));
+        }))
+        .sort((a: { value: string; label: string; original: string }, b: { value: string; label: string; original: string }) => a.label.localeCompare(b.label)); // Sort alphabetically by label
+
         console.log('Formatted data:', formattedData); // Debugging statement
         setBookTitlesList(formattedData);
       })
