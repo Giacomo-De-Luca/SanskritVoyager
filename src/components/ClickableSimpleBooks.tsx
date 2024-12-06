@@ -163,6 +163,41 @@ const ClickableSimpleBooks = ({
         return null;
       }
 
+      const safeSplitText = (text: string): string[] => {
+        // Try the modern approach first
+        try {
+          // Original regex with lookbehind
+          return text.split(/(?<!\|)\|(?!\|)/);
+        } catch (e) {
+          // Fallback approach for browsers without lookbehind support
+          const segments: string[] = [];
+          let currentSegment = '';
+          
+          // Iterate through the text character by character
+          for (let i = 0; i < text.length; i++) {
+            if (text[i] === '|') {
+              // Check if it's part of '||'
+              if (text[i-1] === '|' || text[i+1] === '|') {
+                currentSegment += '|';
+              } else {
+                // It's a single pipe, split here
+                segments.push(currentSegment);
+                currentSegment = '';
+              }
+            } else {
+              currentSegment += text[i];
+            }
+          }
+          
+          // Don't forget the last segment
+          if (currentSegment) {
+            segments.push(currentSegment);
+          }
+          
+          return segments;
+        }
+      };
+
       // Only apply transformations to non-translated text
       const transformedText = isTranslation 
         ? text 
@@ -172,7 +207,7 @@ const ClickableSimpleBooks = ({
             .replace(/\//g, '|')
             .replace(/\.(?!\d)/g, '|');
     
-      const segments = transformedText.split(/(?<!\|)\|(?!\|)/);
+      const segments = safeSplitText(transformedText);
     
       return segments.map((segment, segmentIndex) => {
         if (isTranslation) {
