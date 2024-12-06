@@ -230,7 +230,7 @@ const ClickableSimpleBooks = ({
                       <span
                         key={`${segmentIndex}-${partIndex}`}
                         onClick={async () => {
-                          setSelectedWord(sanskritWord);
+                          setSelectedWord(sanskritWord.toLowerCase());
                           setClickedWord(sanskritWord);
                           setIsLoadingDebug(true);
                           try {
