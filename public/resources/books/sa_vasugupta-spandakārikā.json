@@ -29,7 +29,8 @@
     "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
     "license": {
       "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
-      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "translated_text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
     },
     "publication_date": "2020-07-31"
   },
@@ -41,7 +42,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "prathamo niḥṣyandaḥ"
+          "text": "prathamo niḥṣyandaḥ",
+          "translated_text": "The first effusion"
         },
         {
           "tag": "lg",
@@ -50,12 +52,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "yasyonmeṣanimeṣābhyāṃ jagataḥ pralayodayau |"
+              "text": "yasyonmeṣanimeṣābhyāṃ jagataḥ pralayodayau |",
+              "translated_text": "By whose opening and closing of the eyes, the dissolution and creation of the world occur,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "taṃ śakticakravibhavaprabhavaṃ śaṅkaraṃ stumaḥ || 1 ||"
+              "text": "taṃ śakticakravibhavaprabhavaṃ śaṅkaraṃ stumaḥ || 1 ||",
+              "translated_text": "we praise <s>Śaṅkara</s>, the origin of the power and glory of the <s>Śakti</s> circle."
             }
           ]
         },
@@ -66,12 +70,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "yatra sthitam idaṃ sarvaṃ kāryaṃ yasmāc ca nirgataṃ |"
+              "text": "yatra sthitam idaṃ sarvaṃ kāryaṃ yasmāc ca nirgataṃ |",
+              "translated_text": "Where this entire effect is situated, from which it has emerged,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tasyānāvṛtarūpatvān na nirodho 'sti kutracit || 2 ||"
+              "text": "tasyānāvṛtarūpatvān na nirodho 'sti kutracit || 2 ||",
+              "translated_text": "because of its unobstructed nature, there is no cessation anywhere."
             }
           ]
         },
@@ -82,12 +88,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "jāgradādi vibhede 'pi tadabhinne prasarpati |"
+              "text": "jāgradādi vibhede 'pi tadabhinne prasarpati |",
+              "translated_text": "Even in the distinctions such as waking, it pervades in its undivided form,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "nivartate nijānnaiva svabhāvād upalabdhṛtaḥ || 3 ||"
+              "text": "nivartate nijānnaiva svabhāvād upalabdhṛtaḥ || 3 ||",
+              "translated_text": "it does not withdraw from its own nature due to the perceiver."
             }
           ]
         },
@@ -98,12 +106,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "ahaṃ sukhī ca duḥkhī ca raktaś ca ityadisamvidaḥ |"
+              "text": "ahaṃ sukhī ca duḥkhī ca raktaś ca ityadisamvidaḥ |",
+              "translated_text": "\"I am happy, I am sorrowful, I am attached,\" such cognitions,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "sukhādyavasthānusyūte vartante 'nyatra tāḥ sphuṭam || 4 ||"
+              "text": "sukhādyavasthānusyūte vartante 'nyatra tāḥ sphuṭam || 4 ||",
+              "translated_text": "clearly exist elsewhere, interwoven with states of happiness and the like."
             }
           ]
         },
@@ -114,12 +124,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "na duḥkhaṃ na sukhaṃ yatra na grāhyam grāhakaṃ na ca |"
+              "text": "na duḥkhaṃ na sukhaṃ yatra na grāhyam grāhakaṃ na ca |",
+              "translated_text": "Where there is neither sorrow nor happiness, neither the grasped nor the grasper,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "na cāsti mūḍhabhāvo 'pi tad asti paramārthataḥ || 5 ||"
+              "text": "na cāsti mūḍhabhāvo 'pi tad asti paramārthataḥ || 5 ||",
+              "translated_text": "nor is there a state of delusion, that exists in the highest reality."
             }
           ]
         },
@@ -130,12 +142,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "yataḥ karaṇavargo 'yaṃ vimūḍho 'mūḍhavat svayam |"
+              "text": "yataḥ karaṇavargo 'yaṃ vimūḍho 'mūḍhavat svayam |",
+              "translated_text": "Since this group of instruments, though deluded, behaves like the undeluded itself,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "sahāntareṇa cakreṇa pravṛttisthitisaṃhṛtiḥ || 6 ||"
+              "text": "sahāntareṇa cakreṇa pravṛttisthitisaṃhṛtiḥ || 6 ||",
+              "translated_text": "with the internal wheel, there is creation, maintenance, and dissolution."
             }
           ]
         },
@@ -146,12 +160,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "labhate tatprayatnena parīkṣyaṃ tattvam ādarāt |"
+              "text": "labhate tatprayatnena parīkṣyaṃ tattvam ādarāt |",
+              "translated_text": "One attains that essence through effort, examining with reverence,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "yataḥ svatantratā tasya sarvatreyam akṛtrimā || 7 ||"
+              "text": "yataḥ svatantratā tasya sarvatreyam akṛtrimā || 7 ||",
+              "translated_text": "because its independence is this, everywhere, uncontrived."
             }
           ]
         },
@@ -162,12 +178,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "na hīcchānodanasyāyam prerakatvena vartate |"
+              "text": "na hīcchānodanasyāyam prerakatvena vartate |",
+              "translated_text": "For this does not function as an instigator of desire and impulse,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "api tv ātmabalasparśāt puruṣas tatsamo bhavet || 8 ||"
+              "text": "api tv ātmabalasparśāt puruṣas tatsamo bhavet || 8 ||",
+              "translated_text": "but by the touch of self-power, a man becomes equal to that."
             }
           ]
         },
@@ -178,12 +196,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "nijāśuddhyāsamarthasya kartavyeṣv abhilāṣiṇaḥ |"
+              "text": "nijāśuddhyāsamarthasya kartavyeṣv abhilāṣiṇaḥ |",
+              "translated_text": "For one desiring action, incapable due to inner impurity,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "yadā kṣobhaḥ pralīyeta tadā syāt paramam padam || 9 ||"
+              "text": "yadā kṣobhaḥ pralīyeta tadā syāt paramam padam || 9 ||",
+              "translated_text": "when the agitation dissolves, then the supreme state is attained."
             }
           ]
         },
@@ -194,12 +214,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "tadāsyākṛtrimo dharmo jñatvakartṛtvalakṣaṇah |"
+              "text": "tadāsyākṛtrimo dharmo jñatvakartṛtvalakṣaṇah |",
+              "translated_text": "Then his uncontrived nature is characterized by knowing and doing,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "yatas tadepsitaṃ sarvaṃ jānāti ca karoti ca || 10 ||"
+              "text": "yatas tadepsitaṃ sarvaṃ jānāti ca karoti ca || 10 ||",
+              "translated_text": "because he knows and accomplishes all that is desired."
             }
           ]
         },
@@ -210,12 +232,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "tam adhiṣṭhātṛbhāvena svabhāvam avalokayan |"
+              "text": "tam adhiṣṭhātṛbhāvena svabhāvam avalokayan |",
+              "translated_text": "Observing his nature with the attitude of a ruler,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "smayamāna ivāste yas tasyeyaṃ kusṛtiḥ kutaḥ || 11 ||"
+              "text": "smayamāna ivāste yas tasyeyaṃ kusṛtiḥ kutaḥ || 11 ||",
+              "translated_text": "he seems to smile, for where is this bad conduct for him?"
             }
           ]
         },
@@ -226,12 +250,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "nābhāvo bhāvyatām eti na ca tatrāsty amūḍhatā |"
+              "text": "nābhāvo bhāvyatām eti na ca tatrāsty amūḍhatā |",
+              "translated_text": "Non-existence does not become real, nor is there non-delusion there,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "yato 'bhiyogasaṃsparśāt tadāsid iti niścayah || 12 ||"
+              "text": "yato 'bhiyogasaṃsparśāt tadāsid iti niścayah || 12 ||",
+              "translated_text": "because from the touch of effort, there is certainty that it was."
             }
           ]
         },
@@ -242,12 +268,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "atas tatkṛtrimaṃ jñeyaṃ sauṣuptapadavat sadā |"
+              "text": "atas tatkṛtrimaṃ jñeyaṃ sauṣuptapadavat sadā |",
+              "translated_text": "Therefore, that is known as artificial, always like the state of deep sleep,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "na tv evaṃ smaryamāṇatvaṃ tat tattvam pratipadyate || 13 ||"
+              "text": "na tv evaṃ smaryamāṇatvaṃ tat tattvam pratipadyate || 13 ||",
+              "translated_text": "but such memorization does not attain that reality."
             }
           ]
         },
@@ -258,12 +286,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "avasthāyugalaṃ cātra kāryakartṛtvaśabditam |"
+              "text": "avasthāyugalaṃ cātra kāryakartṛtvaśabditam |",
+              "translated_text": "The pair of states here is termed as effect and doership,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "kāryatā kṣayiṇī tatra kartṛtvam punar akṣayam || 14 ||"
+              "text": "kāryatā kṣayiṇī tatra kartṛtvam punar akṣayam || 14 ||",
+              "translated_text": "effecthood is perishable there, while doership is again imperishable."
             }
           ]
         },
@@ -274,12 +304,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "kāryonmukhaḥ prayatno yaḥ kevalaṃ so 'tra lupyate |"
+              "text": "kāryonmukhaḥ prayatno yaḥ kevalaṃ so 'tra lupyate |",
+              "translated_text": "The effort inclined towards effect alone is here destroyed,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tasmin lupte vilupto 'smīty abudhaḥ pratipadyate || 15 ||"
+              "text": "tasmin lupte vilupto 'smīty abudhaḥ pratipadyate || 15 ||",
+              "translated_text": "when that is destroyed, the ignorant assumes \"I am destroyed.\""
             }
           ]
         },
@@ -290,12 +322,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "na tu yo 'ntarmukho bhāvah sarvajñātvaguṇāspadam |"
+              "text": "na tu yo 'ntarmukho bhāvah sarvajñātvaguṇāspadam |",
+              "translated_text": "But the inner-directed state, which is the abode of omniscience,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tasya lopaḥ kadācit syād anyasyānupalambhanāt || 16 ||"
+              "text": "tasya lopaḥ kadācit syād anyasyānupalambhanāt || 16 ||",
+              "translated_text": "its loss may sometimes occur due to the non-perception of another."
             }
           ]
         },
@@ -306,12 +340,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "tasyopalabdhiḥ satataṃ tripadāvyabhicāriṇī |"
+              "text": "tasyopalabdhiḥ satataṃ tripadāvyabhicāriṇī |",
+              "translated_text": "Its realization is always unwavering in the three states,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "nityaṃ syāt suprabuddhasya tadādyante parasya tu || 17 ||"
+              "text": "nityaṃ syāt suprabuddhasya tadādyante parasya tu || 17 ||",
+              "translated_text": "it is eternal for the well-awakened, in the beginning and end of the other."
             }
           ]
         },
@@ -322,12 +358,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "jñānajñeyasvarūpiṇyā śaktyā paramayā yutaḥ |"
+              "text": "jñānajñeyasvarūpiṇyā śaktyā paramayā yutaḥ |",
+              "translated_text": "Endowed with the supreme power of the nature of knowledge and the known,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "padadvaye vibhur bhāti tadanyatra tu cinmayaḥ || 18 ||"
+              "text": "padadvaye vibhur bhāti tadanyatra tu cinmayaḥ || 18 ||",
+              "translated_text": "in the two states, the all-pervasive shines, but elsewhere, it is consciousness itself."
             }
           ]
         },
@@ -338,12 +376,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "guṇādispandaniḥṣyandāḥ sāmānyaspandasaṃśrayāt |"
+              "text": "guṇādispandaniḥṣyandāḥ sāmānyaspandasaṃśrayāt |",
+              "translated_text": "The effusions of qualities and others, from the support of the general vibration,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "labdhātmalābhaḥ satataṃ syur jñasyāparipanthinaḥ || 19 ||"
+              "text": "labdhātmalābhaḥ satataṃ syur jñasyāparipanthinaḥ || 19 ||",
+              "translated_text": "having gained self-attainment, are always without obstruction for the knower."
             }
           ]
         },
@@ -354,12 +394,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "aprabudhadhiyas tv ete svasthitisthaganodyatāḥ |"
+              "text": "aprabudhadhiyas tv ete svasthitisthaganodyatāḥ |",
+              "translated_text": "But for the unawakened intellects, these are inclined to obstruct their own state,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "pātayanti duruttāre ghore saṃsāravartmani || 20 ||"
+              "text": "pātayanti duruttāre ghore saṃsāravartmani || 20 ||",
+              "translated_text": "they cause a fall into the difficult-to-cross, terrible path of <s>saṃsāra</s>."
             }
           ]
         },
@@ -370,12 +412,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "ataḥ satatam udyuktaḥ spandatattvaviviktaye |"
+              "text": "ataḥ satatam udyuktaḥ spandatattvaviviktaye |",
+              "translated_text": "Therefore, always engaged in distinguishing the essence of vibration,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "jāgrad eva nijam bhāvam acireṇādhigacchati || 21 ||"
+              "text": "jāgrad eva nijam bhāvam acireṇādhigacchati || 21 ||",
+              "translated_text": "one quickly realizes one's own nature even while awake."
             }
           ]
         },
@@ -386,12 +430,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "atikruddhaḥ prahṛṣṭo vā kiṃ karomīti vā mṛśan |"
+              "text": "atikruddhaḥ prahṛṣṭo vā kiṃ karomīti vā mṛśan |",
+              "translated_text": "Whether extremely angry, pleased, or pondering \"What should I do?\","
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "dhāvan va yat padaṃ gacchet tatra spandaḥ pratiṣṭhitaḥ || 22 ||"
+              "text": "dhāvan va yat padaṃ gacchet tatra spandaḥ pratiṣṭhitaḥ || 22 ||",
+              "translated_text": "or running, whatever state one reaches, there the vibration is established."
             }
           ]
         },
@@ -402,12 +448,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "yām avasthāṃ samālambya yad ayam mama vakṣyati |"
+              "text": "yām avasthāṃ samālambya yad ayam mama vakṣyati |",
+              "translated_text": "Relying on whatever state, whatever this one will say to me,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tadavaśyaṃ kariṣye 'ham iti saṃkalpya tiṣṭhati || 23 ||"
+              "text": "tadavaśyaṃ kariṣye 'ham iti saṃkalpya tiṣṭhati || 23 ||",
+              "translated_text": "he stands resolved, \"I will certainly do that.\""
             }
           ]
         },
@@ -418,12 +466,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "tām aśrityordhvamārgeṇa candrasūryāv ubhāv api |"
+              "text": "tām aśrityordhvamārgeṇa candrasūryāv ubhāv api |",
+              "translated_text": "Relying on that, by the upward path, both <s>Candra</s> and <s>Sūrya</s>,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "sauṣumne 'dhvanyastamito hitvā brahmā.ṅdagocaram || 24 ||"
+              "text": "sauṣumne 'dhvanyastamito hitvā brahmā.ṅdagocaram || 24 ||",
+              "translated_text": "having abandoned the path of <s>Sauṣumna</s>, reach the realm of <s>Brahma</s>."
             }
           ]
         },
@@ -434,136 +484,154 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "tadā tasmin mahāvyomni pralīnaśaśibhāskare |"
+              "text": "tadā tasmin mahāvyomni pralīnaśaśibhāskare |",
+              "translated_text": "Then, in that great sky, with the moon and sun dissolved,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "sauṣuptapadavan mūḍhaḥ prabuddhaḥ syād anāvṛtaḥ || 25 ||"
-            }
-          ]
-        },
-        {
-          "tag": "p",
-          "attributes": {},
-          "text": "dvitīyo niḥṣyandaḥ"
-        },
-        {
-          "tag": "lg",
-          "attributes": {},
-          "children": [
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "tadākramya balam mantrāḥ sarvajñābalaśālinaḥ |"
-            },
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "pravartante 'dhikārāya karaṇānīva dehinām || 1 ||"
-            }
-          ]
-        },
-        {
-          "tag": "lg",
-          "attributes": {},
-          "children": [
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "tatraiva sampralīyante śāntarūpā nirañjanāḥ |"
-            },
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "sahārādhakacittena tenaite śivadharmiṇaḥ || 2 ||"
-            }
-          ]
-        },
-        {
-          "tag": "lg",
-          "attributes": {},
-          "children": [
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "yasmāt sarvamayo jīvaḥ sarvabhāvasamudbhavāt |"
-            },
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "tatsaṃvedanarūpeṇa tādātmyapratipattitaḥ || 3 ||"
-            }
-          ]
-        },
-        {
-          "tag": "lg",
-          "attributes": {},
-          "children": [
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "tasmāc chabdārthacintāsu na sāvasthā na yā śivaḥ |"
-            },
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "bhoktaiva bhogyabhāvena sadā sarvatra saṃsthitaḥ || 4 ||"
-            }
-          ]
-        },
-        {
-          "tag": "lg",
-          "attributes": {},
-          "children": [
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "iti vā yasya saṃvittiḥ krīḍātvenākhilaṃ jagat |"
-            },
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "sa paśyan satataṃ yukto jīvanmukto na saṃśayaḥ || 5 ||"
-            }
-          ]
-        },
-        {
-          "tag": "lg",
-          "attributes": {},
-          "children": [
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "ayam evodayas tasya dhyeyasya dhyāyicetasi |"
-            },
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "tadātmatāsamāpattir icchataḥ sādhakasya yā || 6 ||"
-            }
-          ]
-        },
-        {
-          "tag": "lg",
-          "attributes": {},
-          "children": [
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "iyam evāmṛtaprāptir ayam evātmano grahaḥ |"
-            },
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "iyaṃ nirvāṇa-dīkṣā ca śivasadbhāvadāyini || 7 ||"
+              "text": "sauṣuptapadavan mūḍhaḥ prabuddhaḥ syād anāvṛtaḥ || 25 ||",
+              "translated_text": "like the state of deep sleep, the deluded becomes awakened, unobstructed."
             }
           ]
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "tṛtīyo niḥṣyandaḥ"
+          "text": "dvitīyo niḥṣyandaḥ",
+          "translated_text": "The second effusion"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tadākramya balam mantrāḥ sarvajñābalaśālinaḥ |",
+              "translated_text": "Having seized that strength, the <s>mantras</s>, endowed with the power of omniscience,"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pravartante 'dhikārāya karaṇānīva dehinām || 1 ||",
+              "translated_text": "operate for authority, like the organs for embodied beings."
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tatraiva sampralīyante śāntarūpā nirañjanāḥ |",
+              "translated_text": "There itself, they dissolve, peaceful in form, stainless,"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sahārādhakacittena tenaite śivadharmiṇaḥ || 2 ||",
+              "translated_text": "along with the mind of the worshipper, these are of the nature of <s>Śiva</s>."
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yasmāt sarvamayo jīvaḥ sarvabhāvasamudbhavāt |",
+              "translated_text": "Since the living being is all-pervading, from the emergence of all states,"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tatsaṃvedanarūpeṇa tādātmyapratipattitaḥ || 3 ||",
+              "translated_text": "by the nature of that awareness, through the realization of identity."
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tasmāc chabdārthacintāsu na sāvasthā na yā śivaḥ |",
+              "translated_text": "Therefore, in the contemplation of sound and meaning, there is no state which is not <s>Śiva</s>"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhoktaiva bhogyabhāvena sadā sarvatra saṃsthitaḥ || 4 ||",
+              "translated_text": "The enjoyer, by the nature of the enjoyable, is always established everywhere"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "iti vā yasya saṃvittiḥ krīḍātvenākhilaṃ jagat |",
+              "translated_text": "Thus, for whom there is awareness that the entire world is a play"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sa paśyan satataṃ yukto jīvanmukto na saṃśayaḥ || 5 ||",
+              "translated_text": "He, seeing constantly, is united and liberated while living, without doubt"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ayam evodayas tasya dhyeyasya dhyāyicetasi |",
+              "translated_text": "This indeed is the arising of that which is to be meditated upon in the mind of the meditator"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tadātmatāsamāpattir icchataḥ sādhakasya yā || 6 ||",
+              "translated_text": "The attainment of identity with that, for the aspirant who desires it"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "iyam evāmṛtaprāptir ayam evātmano grahaḥ |",
+              "translated_text": "This indeed is the attainment of immortality, this indeed is the grasping of the self"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "iyaṃ nirvāṇa-dīkṣā ca śivasadbhāvadāyini || 7 ||",
+              "translated_text": "This is the initiation into liberation, which grants the true nature of <s>Śiva</s>"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "tṛtīyo niḥṣyandaḥ",
+          "translated_text": "The third effusion"
         },
         {
           "tag": "p",
@@ -573,7 +641,27 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "somasūryodayaṃ kṛtvā sampādayati dehinaḥ || 1 |"
+              "text": "somasūryodayaṃ kṛtvā sampādayati dehinaḥ || 1 |",
+              "translated_text": "Having caused the rise of <s>Soma</s> and <s>Sūrya</s>, accomplishes for the embodied"
+            }
+          ],
+          "translated_text": "As desired, the creator, having established the meanings in the heart while awake"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tathā svapne 'py abhīṣṭārthān praṇayasyānatikramāt |",
+              "translated_text": "Similarly, in dreams, the desired objects, due to the absence of transgression"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nityaṃ sphuṭataraṃ madhye sthito 'vaśyaṃ prakāśayet || 2 ||",
+              "translated_text": "Always more clearly, established in the middle, will definitely reveal"
             }
           ]
         },
@@ -584,12 +672,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "tathā svapne 'py abhīṣṭārthān praṇayasyānatikramāt |"
+              "text": "anyathā tu svatantrā syāt sṛṣṭis taddharmakatvataḥ |",
+              "translated_text": "Otherwise, creation would be independent, due to its nature"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "nityaṃ sphuṭataraṃ madhye sthito 'vaśyaṃ prakāśayet || 2 ||"
+              "text": "satataṃ laukikasyeva jāgratsvapnapadadvaye || 3 ||",
+              "translated_text": "Always, like the worldly one, in the two states of waking and dreaming"
             }
           ]
         },
@@ -600,12 +690,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "anyathā tu svatantrā syāt sṛṣṭis taddharmakatvataḥ |"
+              "text": "yathā hi artho 'sphuṭo dṛṣṭaḥ sāvadhāne 'pi cetasi |",
+              "translated_text": "Just as an object, indistinct, is seen even in a focused mind"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "satataṃ laukikasyeva jāgratsvapnapadadvaye || 3 ||"
+              "text": "bhūyaḥ sphuṭataro bhāti svabalodyogabhāvitaḥ || 4 ||",
+              "translated_text": "Appears clearer, enhanced by one's own effort"
             }
           ]
         },
@@ -616,12 +708,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "yathā hi artho 'sphuṭo dṛṣṭaḥ sāvadhāne 'pi cetasi |"
+              "text": "tathā yat paramārthena yena yatra yathā sthitam |",
+              "translated_text": "Thus, that which is in reality, by which, where, as it is established"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "bhūyaḥ sphuṭataro bhāti svabalodyogabhāvitaḥ || 4 ||"
+              "text": "tat tathā balam ākramya na cirāt sampravartate || 5 ||",
+              "translated_text": "That, thus seizing strength, does not take long to manifest"
             }
           ]
         },
@@ -632,12 +726,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "tathā yat paramārthena yena yatra yathā sthitam |"
+              "text": "durbalo 'pi tadākramya yataḥ kārye pravartate |",
+              "translated_text": "Even the weak, seizing that, proceeds in action"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tat tathā balam ākramya na cirāt sampravartate || 5 ||"
+              "text": "ācchādayed bubhukṣāṃ ca tathā yo 'ti bubhukṣitaḥ || 6 ||",
+              "translated_text": "Covers hunger, thus one who is very hungry"
             }
           ]
         },
@@ -648,12 +744,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "durbalo 'pi tadākramya yataḥ kārye pravartate |"
+              "text": "anenādhiṣṭhite dehe yathā sarvajñatādayaḥ |",
+              "translated_text": "In this body, established, as omniscience and others"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "ācchādayed bubhukṣāṃ ca tathā yo 'ti bubhukṣitaḥ || 6 ||"
+              "text": "tathā svātmany adhiṣṭhānāt sarvatraivam bhaviṣyati || 7 ||",
+              "translated_text": "Thus, by establishment in one's self, it will be everywhere"
             }
           ]
         },
@@ -664,12 +762,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "anenādhiṣṭhite dehe yathā sarvajñatādayaḥ |"
+              "text": "glānir vilu.ṅthikā dehe tasyāścājñānataḥ sṛtiḥ |",
+              "translated_text": "Weakness is a thief in the body, and its wandering is due to ignorance"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tathā svātmany adhiṣṭhānāt sarvatraivam bhaviṣyati || 7 ||"
+              "text": "tad unmeṣaviluptaṃ cet kutaḥ sā syād ahetukā || 8 ||",
+              "translated_text": "If that is vanished in awakening, how can it be causeless?"
             }
           ]
         },
@@ -680,12 +780,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "glānir vilu.ṅthikā dehe tasyāścājñānataḥ sṛtiḥ |"
+              "text": "ekacintāprasaktasya yataḥ syād aparodayaḥ |",
+              "translated_text": "For one engrossed in single thought, how can there be another arising?"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tad unmeṣaviluptaṃ cet kutaḥ sā syād ahetukā || 8 ||"
+              "text": "unmeṣaḥ sa tu vijñeyaḥ svayaṃ tam upalakṣayet || 9 ||",
+              "translated_text": "That awakening should be known, one should observe it oneself"
             }
           ]
         },
@@ -696,12 +798,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "ekacintāprasaktasya yataḥ syād aparodayaḥ |"
+              "text": "ato bindur ato nādo rūpam asmād ato rasaḥ |",
+              "translated_text": "From this, the point, from this the sound, from this the form, from this the essence"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "unmeṣaḥ sa tu vijñeyaḥ svayaṃ tam upalakṣayet || 9 ||"
+              "text": "pravartante 'cireṇaiva kṣobhakatvena dehinaḥ || 10 ||",
+              "translated_text": "They proceed quickly, agitating the embodied"
             }
           ]
         },
@@ -712,12 +816,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "ato bindur ato nādo rūpam asmād ato rasaḥ |"
+              "text": "didṛkṣayeva sarvārthān yadā vyāpyāvatiṣṭhate |",
+              "translated_text": "When, as if desiring to see all things, it pervades and abides"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "pravartante 'cireṇaiva kṣobhakatvena dehinaḥ || 10 ||"
+              "text": "tadā kiṃ bahunoktena svayam eva avabhotsyate || 11 ||",
+              "translated_text": "Then, what is the use of speaking much? One will know it oneself"
             }
           ]
         },
@@ -728,12 +834,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "didṛkṣayeva sarvārthān yadā vyāpyāvatiṣṭhate |"
+              "text": "prabuddhaḥ sarvadā tiṣṭhej jñānenālokya gocaram |",
+              "translated_text": "Awakened, one should always remain, seeing the field with knowledge"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tadā kiṃ bahunoktena svayam eva avabhotsyate || 11 ||"
+              "text": "ekatrāropayet sarvaṃ tato 'nyena na pīḍyate || 12 ||",
+              "translated_text": "Should place all in one, then not be afflicted by another"
             }
           ]
         },
@@ -744,12 +852,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "prabuddhaḥ sarvadā tiṣṭhej jñānenālokya gocaram |"
+              "text": "śabdarāśisamutthasya śaktivargasya bhogyatām |",
+              "translated_text": "The enjoyment of the group of powers arising from the mass of sounds"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "ekatrāropayet sarvaṃ tato 'nyena na pīḍyate || 12 ||"
+              "text": "kalāviluptavibhavo gataḥ san sa paśuḥ smṛtaḥ || 13 ||",
+              "translated_text": "Having lost the wealth of art, gone, he is considered a bound soul"
             }
           ]
         },
@@ -760,12 +870,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "śabdarāśisamutthasya śaktivargasya bhogyatām |"
+              "text": "parāmṛtarasāpāyas tasya yaḥ pratyayodbhavaḥ |",
+              "translated_text": "The loss of supreme nectar, for him whose consciousness arises"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "kalāviluptavibhavo gataḥ san sa paśuḥ smṛtaḥ || 13 ||"
+              "text": "tenāsvatantratām eti sa ca tanmātragocaraḥ || 14 ||",
+              "translated_text": "By that, he attains non-independence, and he is in the domain of the elements"
             }
           ]
         },
@@ -776,12 +888,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "parāmṛtarasāpāyas tasya yaḥ pratyayodbhavaḥ |"
+              "text": "svarūpāvaraṇe cāsya śaktayaḥ satatotthitāḥ |",
+              "translated_text": "In the covering of his own form, the powers are always arising"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tenāsvatantratām eti sa ca tanmātragocaraḥ || 14 ||"
+              "text": "yataḥ śabdānuvedhena na vinā pratyayodbhavaḥ || 15 ||",
+              "translated_text": "Because without the penetration of sound, consciousness does not arise"
             }
           ]
         },
@@ -792,12 +906,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "svarūpāvaraṇe cāsya śaktayaḥ satatotthitāḥ |"
+              "text": "seyaṃ kriyātmikā śaktiḥ śivasya paśuvartinī |",
+              "translated_text": "This is the action-based power, of <s>Śiva</s>, acting on the bound souls"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "yataḥ śabdānuvedhena na vinā pratyayodbhavaḥ || 15 ||"
+              "text": "bandhayitrī svamārgasthā jñāta siddhyupapādikā || 16 ||",
+              "translated_text": "Binding, established in its own path, known to bring about success"
             }
           ]
         },
@@ -808,12 +924,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "seyaṃ kriyātmikā śaktiḥ śivasya paśuvartinī |"
+              "text": "tanmātrodayarūpena mano 'haṃbuddhivartinā |",
+              "translated_text": "In the form of the rise of the elements, existing in the mind, ego, and intellect"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "bandhayitrī svamārgasthā jñāta siddhyupapādikā || 16 ||"
+              "text": "puryaṣṭakena saṃruddhas taduttham pratyayodbhavam || 17 ||",
+              "translated_text": "Restrained by the eight-fold city, the arising of consciousness from that"
             }
           ]
         },
@@ -824,12 +942,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "tanmātrodayarūpena mano 'haṃbuddhivartinā |"
+              "text": "bhuṅkte paravaśo bhogaṃ tadbhāvāt saṃsared ataḥ |",
+              "translated_text": "Enjoys the experience, being dependent, from that state, he transmigrates"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "puryaṣṭakena saṃruddhas taduttham pratyayodbhavam || 17 ||"
+              "text": "saṃsṛtipralayasyāsya kāraṇaṃ sampracakṣmahe || 18 ||",
+              "translated_text": "We explain the cause of this cycle of birth and dissolution"
             }
           ]
         },
@@ -840,35 +960,22 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "bhuṅkte paravaśo bhogaṃ tadbhāvāt saṃsared ataḥ |"
+              "text": "yadā tv ekatra saṃrūḍhas tadā tasya layodayau |",
+              "translated_text": "When indeed established in one, then his dissolution and arising"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "saṃsṛtipralayasyāsya kāraṇaṃ sampracakṣmahe || 18 ||"
-            }
-          ]
-        },
-        {
-          "tag": "lg",
-          "attributes": {},
-          "children": [
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "yadā tv ekatra saṃrūḍhas tadā tasya layodayau |"
-            },
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "niyacchan bhoktṛtām eti tataś cakreśvaro bhavet || 19 ||"
+              "text": "niyacchan bhoktṛtām eti tataś cakreśvaro bhavet || 19 ||",
+              "translated_text": "Restraining, he attains the state of enjoyer, then becomes the lord of the circle"
             }
           ]
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "caturtho niḥṣyandaḥ"
+          "text": "caturtho niḥṣyandaḥ",
+          "translated_text": "The fourth effusion"
         },
         {
           "tag": "lg",
@@ -877,12 +984,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "agādhasaṃśayāmbhodhisamuttaraṇatārinīm |"
+              "text": "agādhasaṃśayāmbhodhisamuttaraṇatārinīm |",
+              "translated_text": "The one who ferries across the ocean of deep doubt"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "vande vicitrārthapadāṃ citrāṃ tāṃ gurubhāratīm || 1 ||"
+              "text": "vande vicitrārthapadāṃ citrāṃ tāṃ gurubhāratīm || 1 ||",
+              "translated_text": "I bow to that varied, wondrous teacher, with diverse meanings"
             }
           ]
         },
@@ -893,12 +1002,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "labdhvāpy alabhyam etaj jñānadhanaṃ hṛdguhāntakṛtanihiteḥ |"
+              "text": "labdhvāpy alabhyam etaj jñānadhanaṃ hṛdguhāntakṛtanihiteḥ |",
+              "translated_text": "Having obtained even the unobtainable, this wealth of knowledge, hidden in the heart's cave"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "vasuguptavac chivāya hi bhavati sadā sarvalokasya || 2 ||"
+              "text": "vasuguptavac chivāya hi bhavati sadā sarvalokasya || 2 ||",
+              "translated_text": "Like <s>Vasugupta</s>, it indeed becomes for the good of all the world"
             }
           ]
         }
@@ -911,7 +1022,8 @@
         {
           "tag": "note",
           "attributes": {},
-          "text": "Gandharva-nagaram / DSO Sanskrit Archive"
+          "text": "Gandharva-nagaram / DSO Sanskrit Archive",
+          "translated_text": "Gandharva-nagaram / DSO Sanskrit Archive"
         }
       ]
     }
