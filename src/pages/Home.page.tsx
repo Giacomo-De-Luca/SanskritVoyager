@@ -231,7 +231,7 @@ export function HomePage() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`/public/resources/books/${bookTitle}.json`);
+        const response = await fetch(`/resources/books/${bookTitle}.json`);
         if (!response.ok) {
           throw new Error(`Failed to fetch: ${response.status}`);
         }
@@ -420,9 +420,11 @@ export function HomePage() {
                 : vhActual,
             }}
             
-          >
+          > 
+            {textTranslit !== '' && (
               <ClickableWords
                 lines={lines}
+                textTranslit={textTranslit}
                 selectedWord={selectedWord}
                 setSelectedWord={setSelectedWord}
                 hoveredWord={hoveredWord}
@@ -443,6 +445,7 @@ export function HomePage() {
                 }}
                 onAdditionalWordClick={(word) => setClickedAdditionalWord(word)}
               />
+              )}
             <ClickableSimpleBooks
               bookText={bookText}
               selectedWord={selectedWord}

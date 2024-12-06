@@ -8,6 +8,7 @@ import { WordEntry, GroupedEntries } from '../types/wordTypes';
 interface ClickableWordsProps {
   lines: string[];
   selectedWord: string;
+  textTranslit: string;
   setSelectedWord: (word: string) => void;
   hoveredWord: string | null;
   setHoveredWord: (word: string | null) => void;
@@ -32,7 +33,8 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
   clickedWord,
   setClickedWord,
   onWordClick,
-  onAdditionalWordClick
+  onAdditionalWordClick,
+  textTranslit
 }) => {
   const handleWordClick = async (trimmedWord: string) => {
     setSelectedWord(trimmedWord);
@@ -53,7 +55,7 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
 
   return (
     <>
-
+      {textTranslit !== "" && (
       <ActionIcon
         className={classes.copyButton}
         onClick={() => clipboard.copy(lines.join('\n'))}
@@ -67,6 +69,7 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
           <IconCopy size={20} stroke={1.5} />
         )}
       </ActionIcon>
+      )}
       
       <div style={{ marginTop: '4.5rem', }}>
       {lines.map((line, lineIndex) => {
