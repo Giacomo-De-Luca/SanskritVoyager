@@ -169,3 +169,30 @@
     color: #2c5282;
     text-underline-offset: 3px;
   }
+
+
+/* New styles for text display modes */
+.originalOnly .translatedText {
+  display: none;
+}
+
+.translationOnly .originalText {
+  display: none;
+}
+
+.translationOnly .translatedText {
+  margin-left: 0; /* Remove the indent when showing only translations */
+  font-style: normal; /* Remove italic style when showing only translations */
+}
+
+/* Adjust spacing for single text display */
+.originalOnly .lineContainer,
+.translationOnly .lineContainer {
+  margin-bottom: 1rem; /* Increase spacing between lines when showing single text type */
+}
+
+/* Ensure proper text alignment when showing only translations */
+.translationOnly {
+  color: inherit; /* Reset the color to match original text */
+  font-size: 1em; /* Reset font size to match original text */
+}

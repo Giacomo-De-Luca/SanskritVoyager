@@ -18,7 +18,7 @@ import  ClickableSimpleBooks  from '@/components/ClickableSimpleBooks';
 import ClickableWords from '@/components/ClickableWords';
 import { WordEntry, GroupedEntries } from '../types/wordTypes';
 import { BookText } from '../types/bookTypes';
-
+import TranslationControl from '@/components/TranslationControl';
 
 interface Translation {
   English: string;
@@ -45,6 +45,8 @@ export function HomePage() {
   const [ bookTitle, setBookTitle ] = useState<string | null>(null);
 
   const [bookText, setBookText] = useState<BookText>({});
+
+  const [textType, setTextType] = useState('both');
   
   // dictionary selected
   const [ selectedDictionaries, setSelectedDictionaries ] = useState<string[]>([]);
@@ -76,6 +78,7 @@ export function HomePage() {
   // navbar visibility
   const [isNavbarVisible, setIsNavbarVisible] = useState(!isMobile);
   console.log('isNavbarVisible:', isNavbarVisible);
+  
 
 
   // toggle navbar visibility
@@ -297,6 +300,14 @@ export function HomePage() {
           setBookTitle={setBookTitle}
           bookTitle={bookTitle}
          />
+
+        { bookTitle !== null && (
+                  <TranslationControl 
+                  textType= {textType}
+                  setTextType={setTextType}
+                  />)
+        }
+
         </Stack>
 
 
@@ -330,6 +341,8 @@ export function HomePage() {
             maxRows={8}
           />
 
+          
+      
           <Button 
           className= {classes.readingButton}
           leftSection={<IconVocabularyOff size={14} />}
@@ -341,6 +354,10 @@ export function HomePage() {
           >
             {'Start Reading'}
           </Button>
+
+         
+
+          
 
           
 
@@ -476,6 +493,7 @@ export function HomePage() {
               selectedDictionaries={selectedDictionaries}
               hoveredWord = {hoveredWord}
               setHoveredWord = {setHoveredWord}
+              textType = {textType}
 
             />
           </div>

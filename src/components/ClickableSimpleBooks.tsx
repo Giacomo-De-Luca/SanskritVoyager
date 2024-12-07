@@ -35,6 +35,7 @@ interface ClickableSimpleBooksProps {
   selectedDictionaries: string[];
   hoveredWord: string | null;
   setHoveredWord: React.Dispatch<React.SetStateAction<string | null>>;
+  textType: string;
 }
 
 type GroupedEntries = {
@@ -72,6 +73,7 @@ const ClickableSimpleBooks = ({
   wordData,
   setClickedAdditionalWord,
   selectedDictionaries,
+  textType,
   hoveredWord,
   setHoveredWord,
 }: ClickableSimpleBooksProps) => {
@@ -205,7 +207,8 @@ const ClickableSimpleBooks = ({
             .replace(/([A-Za-z]+)_(\d+\.\d+)\s/g, '$2 ') // Modified to use numbered groups
             .replace(/([A-Za-z]+)_(\d+)/g, '$2 ')
             .replace(/\//g, '|')
-            .replace(/\.(?!\d)/g, '|');
+            .replace(/\.(?!\d)/g, '|')
+            .replace(/\*/g, '');
     
       const segments = safeSplitText(transformedText);
     
@@ -334,28 +337,38 @@ const ClickableSimpleBooks = ({
   
     return (
       <div className={elementClasses}>
-        {element.text && (
-          <div className={classes.lineContainer}>
+      {element.text && (
+        <div className={`${classes.lineContainer} ${
+          textType === 'or' ? classes.originalOnly : 
+          textType === 'tran' ? classes.translationOnly : ''
+        }`}>
+          {/* Only render original text if textType is 'both' or 'or' */}
+          {(textType === 'both' || textType === 'or') && (
             <div className={classes.originalText}>
               {renderWords(element.text)}
             </div>
-            
-            {element.translated_text && (
-              <div className={classes.translatedText}>
-                {renderWords(element.translated_text, true)}
-              </div>
-            )}
-          </div>
-        )}
-  
-        {element.children?.map((child, index) => (
-          <React.Fragment key={index}>
-            {renderTextElement(child)}
-          </React.Fragment>
-        ))}
-      </div>
-    );
-  };
+          )}
+          
+          {/* Only render translated text if textType is 'both' or 'tran' */}
+          {element.translated_text && (textType === 'both' || textType === 'tran') && (
+            <div className={`${classes.translatedText} ${
+              textType === 'tran' ? classes.translationOnly : ''
+            }`}>
+              {renderWords(element.translated_text, true)}
+            </div>
+          )}
+        </div>
+      )}
+
+      {element.children?.map((child, index) => (
+        <React.Fragment key={index}>
+          {renderTextElement(child)}
+        </React.Fragment>
+      ))}
+    </div>
+  );
+};
+
 
   const renderClickedWordInfo = () => {
     if (!isLoadingDebug && wordData.length > 0) {
@@ -464,15 +477,16 @@ const ClickableSimpleBooks = ({
   return (
     <div className={classes.bookContainer}>
       {renderMetadata()}
-      {/* Main Text Content */}
-      <div className={classes.textContent}>
+      <div className={`${classes.textContent} ${
+        textType === 'or' ? classes.originalOnly :
+        textType === 'tran' ? classes.translationOnly : ''
+      }`}>
         {bookText.body?.map((element, index) => (
           <React.Fragment key={index}>
             {renderTextElement(element)}
           </React.Fragment>
         ))}
       </div>
-
       <div ref={sentinelRef} style={{ height: '1px' }} />
     </div>
   );
