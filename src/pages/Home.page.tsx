@@ -409,21 +409,21 @@ export function HomePage() {
             isMobile ? '0px' : //mobile
                   (isTablet ?       // tablet
                     (isNavbarVisible ? 
-                      (selectedWord !== "" ? '40px' : '100px') :
-                      (selectedWord !== "" ? '60px' : '120px')) 
+                      (selectedWord !== "" ? '40px' : '60px') : //navbar
+                      (selectedWord !== "" ? '0px' : '120px')) // no navbar
                       :
                     (isNavbarVisible ?    // desktop
-                      (selectedWord !== "" ? '80px' : '250px') :
-                      (selectedWord !== "" ? '100px' : '350px'))
+                      (selectedWord !== "" ? '80px' : '250px') : // navbar
+                      (selectedWord !== "" ? '100px' : '350px')) // no navbar
                   ),
             paddingRight: isMobile ? '0px' :
                   (isTablet ? 
-                    (isNavbarVisible ? 
-                      (selectedWord !== "" ? '40px' : '100px') :
-                      (selectedWord !== "" ? '60px' : '120px')) :
-                    (isNavbarVisible ? 
-                      (selectedWord !== "" ? '80px' : '150px') :
-                      (selectedWord !== "" ? '100px' : '350px'))
+                    (isNavbarVisible ?  // tablet
+                      (selectedWord !== "" ? '40px' : '30px') :  // navbar
+                      (selectedWord !== "" ? '60px' : '120px')) : // no navbar
+                    (isNavbarVisible ?   // desktop
+                      (selectedWord !== "" ? '80px' : '150px') : // navbar
+                      (selectedWord !== "" ? '100px' : '350px')) // no navbar
                   ),
             transition: 'padding-left 0.3s ease',
             overflowY: 'auto',
@@ -579,8 +579,8 @@ export function HomePage() {
             className={`${classes.noScroll} ${classes.wordInfoFull}`}
             style={{
               width: '100%',  // Added explicit width
-              paddingLeft: isMobile ? '16px' : (isNavbarVisible ? '17vw' : '22vw'),
-              paddingRight: isMobile ? '16px' : (isNavbarVisible ? '15vw' : '20vw'),
+              paddingLeft: isMobile ? '16px' : (isNavbarVisible ? '60px' : '120px'),
+              paddingRight: isMobile ? '16px' : (isNavbarVisible ? '40px' : '120px'),
               marginTop: '60px',
             }}
           >
