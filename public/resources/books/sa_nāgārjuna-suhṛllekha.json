@@ -29,7 +29,8 @@
     "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
     "license": {
       "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
-      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "translated_text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
     },
     "publication_date": "2020-07-31",
     "source": "Padma Tendzin: Suhridlekha. Varanasi : Central Institute of High Tibetan Studies (CIHTS), 2002."
@@ -38,12 +39,14 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "ācāryanāgārjunaviracitaḥ"
+      "text": "ācāryanāgārjunaviracitaḥ",
+      "translated_text": "Composed by <s>Ācārya Nāgārjuna</s>"
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Suhṛllekhaḥ (Sl)"
+      "text": "Suhṛllekhaḥ (Sl)",
+      "translated_text": "<s>Suhṛllekha</s> (Friendly Letter)"
     },
     {
       "tag": "lg",
@@ -52,12 +55,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "prakṛtisukṛtārhaguṇāḍhya sugatavacobhyaḥ samudānītāśca mayā /"
+          "text": "prakṛtisukṛtārhaguṇāḍhya sugatavacobhyaḥ samudānītāśca mayā /",
+          "translated_text": "Rich in virtues worthy of natural merit, collected from the words of the <s>Sugata</s> (Buddha),"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "śubhamālakṣya kṛtā vai kāścidāryāgītayastvayā ca śravyāḥ // Sl_1 //"
+          "text": "śubhamālakṣya kṛtā vai kāścidāryāgītayastvayā ca śravyāḥ // Sl_1 //",
+          "translated_text": "Having observed the auspicious, some noble songs have been composed and should be heard by you."
         }
       ]
     },
@@ -68,12 +73,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "dārumayī hyapi pratimā sampūjyate kāpi sugatasya vidvadbhiḥ /"
+          "text": "dārumayī hyapi pratimā sampūjyate kāpi sugatasya vidvadbhiḥ /",
+          "translated_text": "Even a wooden image of the <s>Sugata</s> is worshiped by the learned,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tathāmanojñaṃ kāvyaṃ saddharmāśrayācca mamedaṃ na nindyam // Sl_2 //"
+          "text": "tathāmanojñaṃ kāvyaṃ saddharmāśrayācca mamedaṃ na nindyam // Sl_2 //",
+          "translated_text": "Thus, this delightful poetry, being based on the true <s>Dharma</s>, is not to be criticized by me."
         }
       ]
     },
@@ -84,12 +91,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "mahāmuneratimadhuraṃ manye vacanaṃ bhavatāvagatameva syāt /"
+          "text": "mahāmuneratimadhuraṃ manye vacanaṃ bhavatāvagatameva syāt /",
+          "translated_text": "I consider the words of the great sage exceedingly sweet, and they should indeed be understood by you,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ākalpitaṃ tu sudhayā nanvatidhavalaṃ na dṛśyate candrikayā? // Sl_3 //"
+          "text": "ākalpitaṃ tu sudhayā nanvatidhavalaṃ na dṛśyate candrikayā? // Sl_3 //",
+          "translated_text": "But is not the imagined moonlight exceedingly pure, not seen by the moon?"
         }
       ]
     },
@@ -100,12 +109,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "jinairbuddhadharmasaṃghaśīlatyāgadevādiṣaḍanusmṛtayaḥ /"
+          "text": "jinairbuddhadharmasaṃghaśīlatyāgadevādiṣaḍanusmṛtayaḥ /",
+          "translated_text": "The six recollections, taught by the <s>Jina</s> (Buddha), include <s>Buddha</s>, <s>Dharma</s>, <s>Saṃgha</s>, morality, renunciation, and deities,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pradarśitāstāstu tadguṇasambhāraiḥ pṛthaganusmaraṇīyāśca // Sl_4 //"
+          "text": "pradarśitāstāstu tadguṇasambhāraiḥ pṛthaganusmaraṇīyāśca // Sl_4 //",
+          "translated_text": "Let them be displayed, and with those qualities, they should be individually remembered."
         }
       ]
     },
@@ -116,12 +127,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "daśakuśalāḥ karmapathāḥ kāyavākcittaiḥ sarvadābhyasanīyāḥ /"
+          "text": "daśakuśalāḥ karmapathāḥ kāyavākcittaiḥ sarvadābhyasanīyāḥ /",
+          "translated_text": "The ten virtuous paths of action, by body, speech, and mind, should always be practiced,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "madyādibhirnivṛte puṇyamayaiścājīvaiḥ suprasannaḥ syāḥ // Sl_5 //"
+          "text": "madyādibhirnivṛte puṇyamayaiścājīvaiḥ suprasannaḥ syāḥ // Sl_5 //",
+          "translated_text": "With abstinence from intoxicants and other virtuous livelihoods, one becomes truly content."
         }
       ]
     },
@@ -132,12 +145,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "jñātvā calāmasārāṃ sampattiṃ dvijabhikṣudīnamitrebhyaḥ /"
+          "text": "jñātvā calāmasārāṃ sampattiṃ dvijabhikṣudīnamitrebhyaḥ /",
+          "translated_text": "Knowing the fleeting and unsubstantial nature of wealth, to the twice-born, mendicants, the poor, and friends,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "dānaṃ deyaṃ vidhinā janmāntareṣu na dānāt paraṃ mitram // Sl_6 //"
+          "text": "dānaṃ deyaṃ vidhinā janmāntareṣu na dānāt paraṃ mitram // Sl_6 //",
+          "translated_text": "Gifts should be given according to the rule; in future births, there is no friend greater than giving."
         }
       ]
     },
@@ -148,12 +163,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "śīlaṃ sevyamamiśraṃ tvayānupahatālaṃghitānupaliptaṃ ca /"
+          "text": "śīlaṃ sevyamamiśraṃ tvayānupahatālaṃghitānupaliptaṃ ca /",
+          "translated_text": "Unmixed morality should be cultivated by you, unbroken, untransgressed, and untainted,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "carācarapratiṣṭhaṃ tu guṇāśrayaṃ bhūvacca rājate śīlam // Sl_7 //"
+          "text": "carācarapratiṣṭhaṃ tu guṇāśrayaṃ bhūvacca rājate śīlam // Sl_7 //",
+          "translated_text": "Established among the moving and unmoving, based on virtues, morality shines like the earth."
         }
       ]
     },
@@ -164,12 +181,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ṣaḍimā dānaṃ śīlaṃ kṣāntivīryadhyānaprajñāḥ pāramitāḥ /"
+          "text": "ṣaḍimā dānaṃ śīlaṃ kṣāntivīryadhyānaprajñāḥ pāramitāḥ /",
+          "translated_text": "The six perfections are giving, morality, patience, energy, meditation, and wisdom,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "aprameyāḥ saṃvardhya bhavecca bhavasāgarapārago jinendraḥ // Sl_8 //"
+          "text": "aprameyāḥ saṃvardhya bhavecca bhavasāgarapārago jinendraḥ // Sl_8 //",
+          "translated_text": "By cultivating these immeasurable perfections, one becomes a <s>Jinendra</s> (Lord of Conquerors), crossing the ocean of existence."
         }
       ]
     },
@@ -180,12 +199,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yatra pūjā pitṝṇāṃ kulaṃ tadācāryabrahmabhiḥ samṛddham /"
+          "text": "yatra pūjā pitṝṇāṃ kulaṃ tadācāryabrahmabhiḥ samṛddham /",
+          "translated_text": "Where the worship of ancestors is, that family is enriched by teachers and the divine,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tatpūjayā ca kīrtistadanantaraṃ cādhigamyate 'bhyudayo 'pi // Sl_9 //"
+          "text": "tatpūjayā ca kīrtistadanantaraṃ cādhigamyate 'bhyudayo 'pi // Sl_9 //",
+          "translated_text": "Through that worship, fame, and subsequently prosperity, is attained."
         }
       ]
     },
@@ -196,12 +217,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "hiṃsācaurye madirā kāmāticāramṛṣoktinṛtyagītāni /"
+          "text": "hiṃsācaurye madirā kāmāticāramṛṣoktinṛtyagītāni /",
+          "translated_text": "Violence, theft, intoxication, sexual misconduct, false speech, dancing, and singing,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tyājyānyakālabhaktaṃ mālāgandhādiviśeṣoccaśayanāni // Sl_10 //"
+          "text": "tyājyānyakālabhaktaṃ mālāgandhādiviśeṣoccaśayanāni // Sl_10 //",
+          "translated_text": "Should be abandoned, as well as eating at improper times, garlands, perfumes, and luxurious beds."
         }
       ]
     },
@@ -212,12 +235,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "anukṛtyārhacchīlaṃ kuryādupoṣadhamaṣṭābhiraṅgaiścet /"
+          "text": "anukṛtyārhacchīlaṃ kuryādupoṣadhamaṣṭābhiraṅgaiścet /",
+          "translated_text": "By emulating worthy conduct, one should observe the <s>Uposatha</s> with its eight parts,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "labhate hi pumān strī vā suramyakāmāvacarādidevakāyam // Sl_11 //"
+          "text": "labhate hi pumān strī vā suramyakāmāvacarādidevakāyam // Sl_11 //",
+          "translated_text": "For then a man or woman attains the body of a deity in the delightful <s>Kāmāvacara</s> realm."
         }
       ]
     },
@@ -228,12 +253,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "mātsaryaśāṭhyamāyābhimānāsaktikausīdyarāgadveṣān /"
+          "text": "mātsaryaśāṭhyamāyābhimānāsaktikausīdyarāgadveṣān /",
+          "translated_text": "Jealousy, deceit, hypocrisy, pride, attachment, lethargy, desire, and hatred,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kularūpayauvanaśrutabalādijaṃ madaṃ ripumiva paripaśyecca // Sl_12 //"
+          "text": "kularūpayauvanaśrutabalādijaṃ madaṃ ripumiva paripaśyecca // Sl_12 //",
+          "translated_text": "Should be regarded like an enemy, as they arise from family, beauty, youth, learning, and strength."
         }
       ]
     },
@@ -244,12 +271,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "apramādo 'mṛtapadaṃ pramādo mṛtyupadamiti muninādiṣṭam /"
+          "text": "apramādo 'mṛtapadaṃ pramādo mṛtyupadamiti muninādiṣṭam /",
+          "translated_text": "Non-negligence is the path to immortality, negligence is the path to death, as taught by the sage,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kuśaladharmasya vṛddhaye sadāpramādo 'bhyasanīyastvayā caiva // Sl_13 //"
+          "text": "kuśaladharmasya vṛddhaye sadāpramādo 'bhyasanīyastvayā caiva // Sl_13 //",
+          "translated_text": "For the growth of virtuous <s>Dharma</s>, non-negligence should always be practiced by you."
         }
       ]
     },
@@ -260,12 +289,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pūrvapramattaḥ ko 'pi meghānnirgatenduriva tato 'pramādī /"
+          "text": "pūrvapramattaḥ ko 'pi meghānnirgatenduriva tato 'pramādī /",
+          "translated_text": "Someone previously negligent, like the moon emerging from clouds, then becomes non-negligent,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sa hi nandāṅgulimālodayanājātaśatrusadṛśaḥ suśobheta // Sl_14 //"
+          "text": "sa hi nandāṅgulimālodayanājātaśatrusadṛśaḥ suśobheta // Sl_14 //",
+          "translated_text": "He shines like <s>Nanda</s>, <s>Aṅgulimāla</s>, <s>Udayana</s>, and <s>Ajātaśatru</s>."
         }
       ]
     },
@@ -276,12 +307,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kṣāntisamaṃ naiva tapastatastvayā na krodhāvasaro deyaḥ /"
+          "text": "kṣāntisamaṃ naiva tapastatastvayā na krodhāvasaro deyaḥ /",
+          "translated_text": "There is no asceticism equal to patience, therefore you should not give occasion to anger,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "buddhenānumataṃ vai padamavaivartikaṃ krodhaprahāṇena // Sl_15 //"
+          "text": "buddhenānumataṃ vai padamavaivartikaṃ krodhaprahāṇena // Sl_15 //",
+          "translated_text": "For the state of non-regression is approved by the <s>Buddha</s> through the abandonment of anger."
         }
       ]
     },
@@ -292,12 +325,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "akrośīdavadhīnmāmajaiṣīnmāmahārṣīd vai vittaṃ me /"
+          "text": "akrośīdavadhīnmāmajaiṣīnmāmahārṣīd vai vittaṃ me /",
+          "translated_text": "He abused me, he beat me, he defeated me, he robbed me,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vairairebhiḥ kalahastyajati ya etad vairaṃ sa sukhaṃ śete // Sl_16 //"
+          "text": "vairairebhiḥ kalahastyajati ya etad vairaṃ sa sukhaṃ śete // Sl_16 //",
+          "translated_text": "One who abandons enmity through these quarrels sleeps happily."
         }
       ]
     },
@@ -308,12 +343,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "jale 'vanau pāṣāṇe citramiva cittaṃ tridhā khalu sattvānām /"
+          "text": "jale 'vanau pāṣāṇe citramiva cittaṃ tridhā khalu sattvānām /",
+          "translated_text": "Like a drawing on water, land, or stone, the mind is indeed threefold among beings,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kleśavatāṃ hi prathamo dharmābhilāṣiṇāmantimo jyāyān // Sl_17 //"
+          "text": "kleśavatāṃ hi prathamo dharmābhilāṣiṇāmantimo jyāyān // Sl_17 //",
+          "translated_text": "The first for those afflicted by defilements, the last is superior for those desiring <s>Dharma</s>."
         }
       ]
     },
@@ -324,12 +361,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "vācastridhā janebhyaḥ proktā jinena madhurasatyamithyākhyā /"
+          "text": "vācastridhā janebhyaḥ proktā jinena madhurasatyamithyākhyā /",
+          "translated_text": "Speech is threefold as taught by the <s>Jina</s>: sweet, true, and false,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kramaśo madhuḥ puṣpāśucitulyāścaramā ca pariharttavyaitāsu // Sl_18 //"
+          "text": "kramaśo madhuḥ puṣpāśucitulyāścaramā ca pariharttavyaitāsu // Sl_18 //",
+          "translated_text": "Respectively, like honey, flowers, and impurity; the last should be avoided among these."
         }
       ]
     },
@@ -340,12 +379,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "caturvidhā vai puruṣāḥ prakāśātprakāśe tamasastamasi punaḥ /"
+          "text": "caturvidhā vai puruṣāḥ prakāśātprakāśe tamasastamasi punaḥ /",
+          "translated_text": "There are four kinds of people: from light to light, from darkness to darkness again,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tamaḥ prakāśād gacchati tamasastejasi pudgalo varaḥ prathamaḥ // Sl_19 //"
+          "text": "tamaḥ prakāśād gacchati tamasastejasi pudgalo varaḥ prathamaḥ // Sl_19 //",
+          "translated_text": "From darkness to light, and from light to darkness; the best is the one who goes from darkness to light."
         }
       ]
     },
@@ -356,12 +397,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "janānāṃ tvāmraphalamiva pakvamapakve pakve 'pakvatulyaṃ ca /"
+          "text": "janānāṃ tvāmraphalamiva pakvamapakve pakve 'pakvatulyaṃ ca /",
+          "translated_text": "Among people, like a ripe mango fruit, unripe, ripe, and like unripe in ripe,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "apakve 'pakvaṃ tathā pakve pakvamiva bhāti cāturvidhyam // Sl_20 //"
+          "text": "apakve 'pakvaṃ tathā pakve pakvamiva bhāti cāturvidhyam // Sl_20 //",
+          "translated_text": "In the unripe, unripe, and in the ripe, like ripe; such is the fourfold nature."
         }
       ]
     },
@@ -372,12 +415,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "paradārānna tu paśyed dṛṣṭe ca jñeyā avasthānurūpyeṇa /"
+          "text": "paradārānna tu paśyed dṛṣṭe ca jñeyā avasthānurūpyeṇa /",
+          "translated_text": "One should not look at others' spouses, and if seen, they should be regarded according to their status,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kanyāmbābhaginīvad āsaktāvapyaśucimeva cintayecca // Sl_21 //"
+          "text": "kanyāmbābhaginīvad āsaktāvapyaśucimeva cintayecca // Sl_21 //",
+          "translated_text": "Like a daughter, mother, or sister; even in attachment, one should think of them as impure."
         }
       ]
     },
@@ -388,12 +433,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "rakṣeccañcalacittaṃ śrutiputranidhiprāṇasadṛśaṃ ca nitarām /"
+          "text": "rakṣeccañcalacittaṃ śrutiputranidhiprāṇasadṛśaṃ ca nitarām /",
+          "translated_text": "One should protect the restless mind, like one's son, wealth, or life,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "cittaṃ pariharttavyaṃ śatrusarpaviṣāyudhāgnisamāt kāmāt // Sl_22 //"
+          "text": "cittaṃ pariharttavyaṃ śatrusarpaviṣāyudhāgnisamāt kāmāt // Sl_22 //",
+          "translated_text": "The mind should be avoided like an enemy, snake, poison, weapon, or fire from desire."
         }
       ]
     },
@@ -404,12 +451,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kāmastvanarthajanakaḥ proktaḥ kimpākaphalasamo jinendreṇa /"
+          "text": "kāmastvanarthajanakaḥ proktaḥ kimpākaphalasamo jinendreṇa /",
+          "translated_text": "<s>Kāma</s> (desire) is said to be the cause of misfortune, like the fruit of a <s>kimpāka</s>, by the <s>Jinendra</s>,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pāśaistasya hi baddho bhavacārake lokaḥ sa prahātavyaḥ // Sl_23 //"
+          "text": "pāśaistasya hi baddho bhavacārake lokaḥ sa prahātavyaḥ // Sl_23 //",
+          "translated_text": "The world is bound by its snares in the prison of existence, and it should be abandoned."
         }
       ]
     },
@@ -420,12 +469,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "calādhruvāṇi ṣaḍakṣāṇi jayanti samare vā śatrūnapi caike /"
+          "text": "calādhruvāṇi ṣaḍakṣāṇi jayanti samare vā śatrūnapi caike /",
+          "translated_text": "The unstable and impermanent six senses conquer in battle or even enemies,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tayośca sudhiyaḥ prathamaṃ varamindriyavijetāraṃ ca manyante // Sl_24 //"
+          "text": "tayośca sudhiyaḥ prathamaṃ varamindriyavijetāraṃ ca manyante // Sl_24 //",
+          "translated_text": "And among them, the wise consider the first one as the best, the conqueror of the senses."
         }
       ]
     },
@@ -436,12 +487,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yuvatiśarīraṃ hi pūti yannavāśucidvāramaśucibhāṇḍasamam /"
+          "text": "yuvatiśarīraṃ hi pūti yannavāśucidvāramaśucibhāṇḍasamam /",
+          "translated_text": "Indeed, the body of a young woman is foul, having nine impure openings, like an impure vessel,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "carmāvṛtaduṣpūraṃ bhūṣitamapi bhūṣaṇaiḥ pṛthag draṣṭavyam // Sl_25 //"
+          "text": "carmāvṛtaduṣpūraṃ bhūṣitamapi bhūṣaṇaiḥ pṛthag draṣṭavyam // Sl_25 //",
+          "translated_text": "Covered with skin, hard to fill, even if adorned with ornaments, it should be seen separately."
         }
       ]
     },
@@ -452,12 +505,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kṛmipīḍito hi kuṣṭhī sukhalipsayā ca yathā vahnimāśrayate /"
+          "text": "kṛmipīḍito hi kuṣṭhī sukhalipsayā ca yathā vahnimāśrayate /",
+          "translated_text": "As a leper afflicted by worms seeks fire for the desire of happiness,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pīḍā na yāti śāntiṃ tathaiva hi kāmāsaktirapi boddhavyā // Sl_26 //"
+          "text": "pīḍā na yāti śāntiṃ tathaiva hi kāmāsaktirapi boddhavyā // Sl_26 //",
+          "translated_text": "The pain does not find peace; similarly, attachment to desire should be understood."
         }
       ]
     },
@@ -468,12 +523,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "paramārthaṃ prativettuṃ sarvabhāveṣu savidhi manasi nidhāyaiva /"
+          "text": "paramārthaṃ prativettuṃ sarvabhāveṣu savidhi manasi nidhāyaiva /",
+          "translated_text": "To truly comprehend, placing with method in the mind all states,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sa ca khalu bhāvayitavyo na hi tattulyo 'paro guṇayuto dharmaḥ // Sl_27 //"
+          "text": "sa ca khalu bhāvayitavyo na hi tattulyo 'paro guṇayuto dharmaḥ // Sl_27 //",
+          "translated_text": "And indeed, it should be meditated upon, for no other virtue-laden <s>dharma</s> is equal to it."
         }
       ]
     },
@@ -484,12 +541,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sukulīno 'pi na pūjyo jñānaśīlavimukho śrutirūpavān pumān /"
+          "text": "sukulīno 'pi na pūjyo jñānaśīlavimukho śrutirūpavān pumān /",
+          "translated_text": "Even if well-born, not worthy of honor is a man devoid of knowledge and character, though possessing learning and beauty,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "guṇadvayaitadyuktaḥ pūjyate so 'nyaguṇairhīno 'pi satatam // Sl_28 //"
+          "text": "guṇadvayaitadyuktaḥ pūjyate so 'nyaguṇairhīno 'pi satatam // Sl_28 //",
+          "translated_text": "One endowed with these two virtues is honored, even if lacking in other qualities, always."
         }
       ]
     },
@@ -500,12 +559,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "aṣṭasu lokadharmeṣu lokavit samatayā pravartayeccittam /"
+          "text": "aṣṭasu lokadharmeṣu lokavit samatayā pravartayeccittam /",
+          "translated_text": "In the eight worldly conditions, the wise should engage the mind with equanimity,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "hānilābhayaśo 'yaśo 'nuśaṃsānindāsukhaduḥkheṣvaśocyeṣu // Sl_29 //"
+          "text": "hānilābhayaśo 'yaśo 'nuśaṃsānindāsukhaduḥkheṣvaśocyeṣu // Sl_29 //",
+          "translated_text": "In gain and loss, fame and infamy, praise and blame, pleasure and pain, which are not to be mourned."
         }
       ]
     },
@@ -516,12 +577,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhavadbhirbrāhmaṇabhikṣudevātithimātāpitṛkulamahiṣībhyaḥ /"
+          "text": "bhavadbhirbrāhmaṇabhikṣudevātithimātāpitṛkulamahiṣībhyaḥ /",
+          "translated_text": "By you, towards <s>Brahmins</s>, mendicants, deities, guests, mother, father, family, and queen,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pāpaṃ nācaraṇiyaṃ yataḥ katamo 'pi na narakaphalasya bhāgī // Sl_30 //"
+          "text": "pāpaṃ nācaraṇiyaṃ yataḥ katamo 'pi na narakaphalasya bhāgī // Sl_30 //",
+          "translated_text": "Sin should not be committed, for not any one of them is a partaker of hellish fruit."
         }
       ]
     },
@@ -532,12 +595,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "na ca kṛntati pāpakarma tatkṣaṇamastrapātavat kamapi pāpinam /"
+          "text": "na ca kṛntati pāpakarma tatkṣaṇamastrapātavat kamapi pāpinam /",
+          "translated_text": "And sinful action does not cut off anyone at that moment like a weapon's blow,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "mṛtyorhi samaye kintu tatkarmaṇaḥ phalamabhimukhībhavatyeva // Sl_31 //"
+          "text": "mṛtyorhi samaye kintu tatkarmaṇaḥ phalamabhimukhībhavatyeva // Sl_31 //",
+          "translated_text": "But at the time of death, the fruit of that action indeed confronts."
         }
       ]
     },
@@ -548,12 +613,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "saptadhanānyuktāni śraddhāśīlatyāgāmalaśrutadhiyaḥ /"
+          "text": "saptadhanānyuktāni śraddhāśīlatyāgāmalaśrutadhiyaḥ /",
+          "translated_text": "Seven treasures are stated: faith, morality, renunciation, purity, learning, wisdom,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "apatrapā hrī muninā mudhaivāparadhanāni hi sādhāraṇāni // Sl_32 //"
+          "text": "apatrapā hrī muninā mudhaivāparadhanāni hi sādhāraṇāni // Sl_32 //",
+          "translated_text": "Shame, modesty; by the sage, other wealths are indeed common and worthless."
         }
       ]
     },
@@ -564,12 +631,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "dyūtakrīḍā kautukadarśanālasyakumitrasaṅgamadirāśca /"
+          "text": "dyūtakrīḍā kautukadarśanālasyakumitrasaṅgamadirāśca /",
+          "translated_text": "Gambling, shows of curiosity, laziness, association with bad friends, and liquor,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "niśāviharaṇaṃ ṣaḍime tyājyā durgatidā yaśovināśakāśca // Sl_33 //"
+          "text": "niśāviharaṇaṃ ṣaḍime tyājyā durgatidā yaśovināśakāśca // Sl_33 //",
+          "translated_text": "Night wandering, these six should be abandoned, as they lead to ruin and destroy fame."
         }
       ]
     },
@@ -580,12 +649,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sanarāmaraśāsakena santoṣaḥ sarvadhanapradhānamuktam /"
+          "text": "sanarāmaraśāsakena santoṣaḥ sarvadhanapradhānamuktam /",
+          "translated_text": "By the ruler of men and gods, contentment is declared the foremost of all wealths,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "santoṣo 'nuṣṭheyaḥ dhanaṃ vinaiva sa dhanikaḥ sati santoṣe // Sl_34 //"
+          "text": "santoṣo 'nuṣṭheyaḥ dhanaṃ vinaiva sa dhanikaḥ sati santoṣe // Sl_34 //",
+          "translated_text": "Contentment should be practiced, for without wealth, one is wealthy if there is contentment."
         }
       ]
     },
@@ -596,12 +667,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yathā samṛddhāḥ puruṣā duḥkhino bhavanti naiva tathālpecchukāḥ /"
+          "text": "yathā samṛddhāḥ puruṣā duḥkhino bhavanti naiva tathālpecchukāḥ /",
+          "translated_text": "As prosperous men become unhappy, not so those with few desires,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yāvatyaḥ santi phaṇā ārya, duḥkhakarāḥ, nāgasya tāvatyaḥ // Sl_35 //"
+          "text": "yāvatyaḥ santi phaṇā ārya, duḥkhakarāḥ, nāgasya tāvatyaḥ // Sl_35 //",
+          "translated_text": "Just as there are as many hoods, noble one, causing pain, of the serpent."
         }
       ]
     },
@@ -612,12 +685,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "patnī tyājyā trividhā prakṛtyā ripusambaddhā svaghātikeva /"
+          "text": "patnī tyājyā trividhā prakṛtyā ripusambaddhā svaghātikeva /",
+          "translated_text": "A wife should be abandoned of three kinds by nature: connected with enemies, like a self-destroyer,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "patyurapamānakartrī svairā laghuvastucauryaratā steyīva // Sl_36 //"
+          "text": "patyurapamānakartrī svairā laghuvastucauryaratā steyīva // Sl_36 //",
+          "translated_text": "One who dishonors her husband, promiscuous, inclined to petty theft, like a thief."
         }
       ]
     },
@@ -628,12 +703,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhaginīsamānukūlā mitravad hṛdayaṅgamā ca sevanīyā /"
+          "text": "bhaginīsamānukūlā mitravad hṛdayaṅgamā ca sevanīyā /",
+          "translated_text": "Like a sister, agreeable, like a friend, cherished in the heart, should be served,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "mātevopakāriṇī pūjyā sevikevājñākṛd devīva // Sl_37 //"
+          "text": "mātevopakāriṇī pūjyā sevikevājñākṛd devīva // Sl_37 //",
+          "translated_text": "Helpful like a mother, venerable, like a servant obeying orders, like a goddess."
         }
       ]
     },
@@ -644,12 +721,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "vihāya rāgadveṣau bhojanamauṣadhivadavagatya seveta /"
+          "text": "vihāya rāgadveṣau bhojanamauṣadhivadavagatya seveta /",
+          "translated_text": "Abandoning attachment and aversion, food should be taken as medicine,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kāyasthityai nitarāṃ na ca saundaryagarvamānārthaṃ sevyam // Sl_38 //"
+          "text": "kāyasthityai nitarāṃ na ca saundaryagarvamānārthaṃ sevyam // Sl_38 //",
+          "translated_text": "For the maintenance of the body, not excessively, nor for pride in beauty or arrogance."
         }
       ]
     },
@@ -660,12 +739,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "dinamakhilaṃ śubhakārye yāpayed rātrerādyantau yāmau ca /"
+          "text": "dinamakhilaṃ śubhakārye yāpayed rātrerādyantau yāmau ca /",
+          "translated_text": "The entire day should be spent in auspicious activities, and the first and last watches of the night,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "dhīman, madhye yāme śayīta yato hi na bhaved viphalā nidrā // Sl_39 //"
+          "text": "dhīman, madhye yāme śayīta yato hi na bhaved viphalā nidrā // Sl_39 //",
+          "translated_text": "Wise one, in the middle watch, one should sleep, for sleep would not be fruitless."
         }
       ]
     },
@@ -676,12 +757,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "maitrīkaruṇopekṣāmuditāśca sadā samyag bhāvayitavyāḥ /"
+          "text": "maitrīkaruṇopekṣāmuditāśca sadā samyag bhāvayitavyāḥ /",
+          "translated_text": "Friendliness, compassion, equanimity, and joy should always be properly cultivated,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "alabdhe 'nuttarapade dhruvameva brahmaloke sukhāvāptiḥ // Sl_40 //"
+          "text": "alabdhe 'nuttarapade dhruvameva brahmaloke sukhāvāptiḥ // Sl_40 //",
+          "translated_text": "In the unattained supreme state, surely there is attainment of happiness in <s>Brahmaloka</s>."
         }
       ]
     },
@@ -692,12 +775,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kāmān prītivicārau sukhañca duḥkhañca vihāya caturbhireva /"
+          "text": "kāmān prītivicārau sukhañca duḥkhañca vihāya caturbhireva /",
+          "translated_text": "Desires, thoughts of love, pleasure, and pain, abandoning all four,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "dhyānairbrahmābhāsvaraśubhakṛtsnabṛhatphalabhāginaśca bhavanti // Sl_41 //"
+          "text": "dhyānairbrahmābhāsvaraśubhakṛtsnabṛhatphalabhāginaśca bhavanti // Sl_41 //",
+          "translated_text": "Through meditations, they become partakers of the luminous, auspicious, complete and great fruit of <s>Brahma</s>."
         }
       ]
     },
@@ -708,12 +793,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kuśalākuśalaṃ ca karma sadābhiniveśāpratipakṣavastuguṇaiḥ /"
+          "text": "kuśalākuśalaṃ ca karma sadābhiniveśāpratipakṣavastuguṇaiḥ /",
+          "translated_text": "Both skillful and unskillful actions, with constant engagement and opposing qualities,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pañcabhiścotpadyate tasmād yatanīyaṃ kuśalacaryāyām // Sl_42 //"
+          "text": "pañcabhiścotpadyate tasmād yatanīyaṃ kuśalacaryāyām // Sl_42 //",
+          "translated_text": "Arise from five, hence effort should be made in virtuous conduct."
         }
       ]
     },
@@ -724,12 +811,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yathālpakṣāranīraṃ parivartayatyalpajalarasaṃ na gāṅgam /"
+          "text": "yathālpakṣāranīraṃ parivartayatyalpajalarasaṃ na gāṅgam /",
+          "translated_text": "Just as a small amount of salty water changes the taste of a little water, not the <s>Ganges</s>,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pāpaṃ tathaiva cālpaṃ nāśayatyalpakuśalaṃ na pūrṇakuśalam // Sl_43 //"
+          "text": "pāpaṃ tathaiva cālpaṃ nāśayatyalpakuśalaṃ na pūrṇakuśalam // Sl_43 //",
+          "translated_text": "Similarly, a little sin destroys a little virtue, not complete virtue."
         }
       ]
     },
@@ -740,12 +829,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "auddhatyaṃ kaukṛtyaṃ vyāpādaḥ styānamiddhe ca kāmecchā /"
+          "text": "auddhatyaṃ kaukṛtyaṃ vyāpādaḥ styānamiddhe ca kāmecchā /",
+          "translated_text": "Restlessness, remorse, ill-will, sloth, torpor, and desire,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vicikitseti pañcaiva kuśaladhanahārakāṇīmāni jñeyāni // Sl_44 //"
+          "text": "vicikitseti pañcaiva kuśaladhanahārakāṇīmāni jñeyāni // Sl_44 //",
+          "translated_text": "And doubt; these five are known as the thieves of virtuous wealth."
         }
       ]
     },
@@ -756,12 +847,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "uttamāḥ pañcadharmāḥ śraddhāvīrye smṛtisamādhiprajñāśca /"
+          "text": "uttamāḥ pañcadharmāḥ śraddhāvīrye smṛtisamādhiprajñāśca /",
+          "translated_text": "The five superior <s>dharmas</s> are faith, energy, mindfulness, concentration, and wisdom,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "balendriyāṇi cāgryāṇi kathyante yatanīyameteṣu tasmād // Sl_45 //"
+          "text": "balendriyāṇi cāgryāṇi kathyante yatanīyameteṣu tasmād // Sl_45 //",
+          "translated_text": "And the foremost powers and faculties, hence effort should be made in these."
         }
       ]
     },
@@ -772,12 +865,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "vyādhijarāmaraṇapriyaviyogavacca karmaparāyaṇāḥ sarve /"
+          "text": "vyādhijarāmaraṇapriyaviyogavacca karmaparāyaṇāḥ sarve /",
+          "translated_text": "All, devoted to actions, like disease, old age, death, and separation from loved ones,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "punaḥ punastu cintayā pratipakṣeṇaivaṃ prahīyate mānaḥ // Sl_46 //"
+          "text": "punaḥ punastu cintayā pratipakṣeṇaivaṃ prahīyate mānaḥ // Sl_46 //",
+          "translated_text": "Again and again, by thinking in opposition, thus pride is diminished."
         }
       ]
     },
@@ -788,12 +883,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "svargaṃ mokṣaṃ cecchet samyagdṛṣṭistāvad bhāvanīyaiva /"
+          "text": "svargaṃ mokṣaṃ cecchet samyagdṛṣṭistāvad bhāvanīyaiva /",
+          "translated_text": "If one desires heaven and liberation, right view should indeed be cultivated,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kṛtāni mithyādṛṣṭyā puruṣaiḥ sucaritānyapi viṣamavipākāni // Sl_47 //"
+          "text": "kṛtāni mithyādṛṣṭyā puruṣaiḥ sucaritānyapi viṣamavipākāni // Sl_47 //",
+          "translated_text": "For actions done with wrong view, even if good, ripen with adverse results."
         }
       ]
     },
@@ -804,12 +901,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "anātmāśucirduḥkhī pudgalo 'nityaśca samyagvijñeyaḥ /"
+          "text": "anātmāśucirduḥkhī pudgalo 'nityaśca samyagvijñeyaḥ /",
+          "translated_text": "The non-self, impure, sorrowful, and impermanent individual must be rightly understood"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "smṛtyupasthānarahitā vinaśyante ca viparyāsaiścaturbhiḥ // Sl_48 //"
+          "text": "smṛtyupasthānarahitā vinaśyante ca viparyāsaiścaturbhiḥ // Sl_48 //",
+          "translated_text": "Those devoid of mindfulness perish through four perversions"
         }
       ]
     },
@@ -820,12 +919,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "uktaṃ rūpaṃ nātmā rūpavāṃśca nātmā rūpe naivātmā /"
+          "text": "uktaṃ rūpaṃ nātmā rūpavāṃśca nātmā rūpe naivātmā /",
+          "translated_text": "It is said that form is not the self, nor is the self possessed of form, nor is the self in form"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "na cātmanyasti rūpaṃ śūnyamevaṃ skandhacatuṣkamapi jñeyam // Sl_49 //"
+          "text": "na cātmanyasti rūpaṃ śūnyamevaṃ skandhacatuṣkamapi jñeyam // Sl_49 //",
+          "translated_text": "Nor is form in the self; thus, the four aggregates are to be known as empty"
         }
       ]
     },
@@ -836,12 +937,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "skandhā na hi jāyante yadṛcchayā na prakṛtīśvarakālebhyaḥ /"
+          "text": "skandhā na hi jāyante yadṛcchayā na prakṛtīśvarakālebhyaḥ /",
+          "translated_text": "The aggregates do not arise by chance, nor from <s>Prakṛti<s/> (primordial nature), <s>Īśvara<s/> (God), or time"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "nāhetoḥ svabhāvato jñeyā ajñānena tṛṣṇayā jātāḥ // Sl_50 //"
+          "text": "nāhetoḥ svabhāvato jñeyā ajñānena tṛṣṇayā jātāḥ // Sl_50 //",
+          "translated_text": "Nor from a cause, nor by nature; they are born from ignorance and craving"
         }
       ]
     },
@@ -852,12 +955,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kālaḥ pacati bhūtāni kālaḥ saṃharate prajāḥ /"
+          "text": "kālaḥ pacati bhūtāni kālaḥ saṃharate prajāḥ /",
+          "translated_text": "<s>Kāla<s/> (time) cooks all beings, <s>Kāla<s/> withdraws the creatures"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kālaḥ supteṣu jāgarti kālo hi duratikramaḥ //"
+          "text": "kālaḥ supteṣu jāgarti kālo hi duratikramaḥ //",
+          "translated_text": "<s>Kāla<s/> remains awake among the sleeping; indeed, <s>Kāla<s/> is insurmountable"
         }
       ]
     },
@@ -868,12 +973,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ātmani mithyādṛṣṭiḥ śīlavrataparāmarśo vicikitsā ca /"
+          "text": "ātmani mithyādṛṣṭiḥ śīlavrataparāmarśo vicikitsā ca /",
+          "translated_text": "False view in the self, clinging to rules and vows, and doubt"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "muktipuradvārāṇāṃ bādhakaṃ saṃyojanatrayamavagacchet // Sl_51 //"
+          "text": "muktipuradvārāṇāṃ bādhakaṃ saṃyojanatrayamavagacchet // Sl_51 //",
+          "translated_text": "Are to be understood as the three fetters obstructing the gates of liberation"
         }
       ]
     },
@@ -884,12 +991,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ātmāpekṣo mokṣaḥ parasmānna labhyate kimapi sāhāyyam /"
+          "text": "ātmāpekṣo mokṣaḥ parasmānna labhyate kimapi sāhāyyam /",
+          "translated_text": "Liberation depends on the self, no assistance is obtained from another"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "catvāryāryasatyāni vṛttasthaḥ śrutacintābhirabhyasyecca // Sl_52 //"
+          "text": "catvāryāryasatyāni vṛttasthaḥ śrutacintābhirabhyasyecca // Sl_52 //",
+          "translated_text": "One should practice the four noble truths with conduct, study, and reflection"
         }
       ]
     },
@@ -900,12 +1009,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "adhiśīlacittaprajñāstistro 'pi śikṣāḥ sadaiva śikṣaṇīyāḥ /"
+          "text": "adhiśīlacittaprajñāstistro 'pi śikṣāḥ sadaiva śikṣaṇīyāḥ /",
+          "translated_text": "The three trainings of higher morality, mind, and wisdom should always be cultivated"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "etāsvantarbhūtāni śatamekapañcāśacca śikṣāpadāni // Sl_53 //"
+          "text": "etāsvantarbhūtāni śatamekapañcāśacca śikṣāpadāni // Sl_53 //",
+          "translated_text": "Within these are included one hundred and fifty rules of training"
         }
       ]
     },
@@ -916,12 +1027,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "rājan, buddhenoktaḥ kāyagatā smṛtiścaikāyano mārgaḥ /"
+          "text": "rājan, buddhenoktaḥ kāyagatā smṛtiścaikāyano mārgaḥ /",
+          "translated_text": "O king, the mindfulness related to the body is said by the Buddha to be the sole path"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "rakṣedimaṃ sayatnaṃ smṛtināśācca sarvadharmapradhvaṃsaḥ // Sl_54 //"
+          "text": "rakṣedimaṃ sayatnaṃ smṛtināśācca sarvadharmapradhvaṃsaḥ // Sl_54 //",
+          "translated_text": "One should protect this with effort, for from the destruction of mindfulness comes the destruction of all <s>dharmas<s/>"
         }
       ]
     },
@@ -932,12 +1045,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bahubādhaṃ tu jīvanaṃ vāyūdbhūtajalabudbudavadanityaṃ ca /"
+          "text": "bahubādhaṃ tu jīvanaṃ vāyūdbhūtajalabudbudavadanityaṃ ca /",
+          "translated_text": "Life is full of many troubles, like a bubble formed by the wind on water, and impermanent"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "āścaryaṃ jāgarteḥ kṣaṇamidaṃ niḥśvāsocchvāsanidrābhyaḥ // Sl_55 //"
+          "text": "āścaryaṃ jāgarteḥ kṣaṇamidaṃ niḥśvāsocchvāsanidrābhyaḥ // Sl_55 //",
+          "translated_text": "It is a wonder that this moment of wakefulness exists amidst breaths and sleep"
         }
       ]
     },
@@ -948,12 +1063,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "viśaraṇagalanaḥ pūtiḥ śoṣāsāraśucisvabhāvaḥ kāyaḥ /"
+          "text": "viśaraṇagalanaḥ pūtiḥ śoṣāsāraśucisvabhāvaḥ kāyaḥ /",
+          "translated_text": "The body is of a nature that decays, decomposes, putrefies, dries, is insubstantial, and impure"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "rajaḥsadharmī cānte sadā viyogaśīlo naśvaro jñeyaḥ // Sl_56 //"
+          "text": "rajaḥsadharmī cānte sadā viyogaśīlo naśvaro jñeyaḥ // Sl_56 //",
+          "translated_text": "Like dust in nature, it is always separable and perishable"
         }
       ]
     },
@@ -964,12 +1081,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pṛthvīmerusamudrāḥ saptārkajvālairnāvaśiṣyante /"
+          "text": "pṛthvīmerusamudrāḥ saptārkajvālairnāvaśiṣyante /",
+          "translated_text": "The earth, <s>Meru<s/>, and oceans, with the seven suns' flames, will not remain"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "dhūlimātraṃ hi mūrtāḥ kā kathā durbalavapuṣāṃ mānavānām // Sl_57 //"
+          "text": "dhūlimātraṃ hi mūrtāḥ kā kathā durbalavapuṣāṃ mānavānām // Sl_57 //",
+          "translated_text": "They will become mere dust; what to say of the frail bodies of men"
         }
       ]
     },
@@ -980,12 +1099,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "itthaṃ sarvamanityaṃ hyanātmakamaśaraṇamanāthamaniketam /"
+          "text": "itthaṃ sarvamanityaṃ hyanātmakamaśaraṇamanāthamaniketam /",
+          "translated_text": "Thus, everything is impermanent, non-self, without refuge, without protector, without abode"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kadalītaruriva rājan cittamapasārayāsārasaṃsārāt // Sl_58 //"
+          "text": "kadalītaruriva rājan cittamapasārayāsārasaṃsārāt // Sl_58 //",
+          "translated_text": "Like a banana tree, O king, remove the mind from the essence-less <s>saṃsāra<s/>"
         }
       ]
     },
@@ -996,12 +1117,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "mahārṇavayugacchidre hi kūrmagrīvārpaṇācca mānuṣaṃ janma /"
+          "text": "mahārṇavayugacchidre hi kūrmagrīvārpaṇācca mānuṣaṃ janma /",
+          "translated_text": "Human birth is like placing a tortoise's neck through a yoke in the great ocean"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tiryagādisudurlabhaṃ saphalīkuru saddharmābhyāsānnarendra // Sl_59 //"
+          "text": "tiryagādisudurlabhaṃ saphalīkuru saddharmābhyāsānnarendra // Sl_59 //",
+          "translated_text": "Difficult to obtain like lower births, make it fruitful by practicing the true <s>Dharma<s/>, O king"
         }
       ]
     },
@@ -1012,12 +1135,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kecid ratnālaṅkṛtakanakapātraṃ ca pūrayanti purīṣeṇa /"
+          "text": "kecid ratnālaṅkṛtakanakapātraṃ ca pūrayanti purīṣeṇa /",
+          "translated_text": "Some fill a jewel-adorned golden vessel with excrement"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tato 'pyasāvatimūḍho yaśca nṛjanma labdhvāpi pāpamācarati // Sl_60 //"
+          "text": "tato 'pyasāvatimūḍho yaśca nṛjanma labdhvāpi pāpamācarati // Sl_60 //",
+          "translated_text": "More foolish than that is he who, having obtained human birth, commits sin"
         }
       ]
     },
@@ -1028,12 +1153,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pratirūpadeśavāsaḥ satpuruṣasamāśrayaḥ śubhapraṇidhānaṃ ca /"
+          "text": "pratirūpadeśavāsaḥ satpuruṣasamāśrayaḥ śubhapraṇidhānaṃ ca /",
+          "translated_text": "Dwelling in a suitable place, relying on good people, and making auspicious resolutions"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "svakīyapūrvakuśalaṃ hyetaccakracatuṣkaṃ hi vidyate tvayi // Sl_61 //"
+          "text": "svakīyapūrvakuśalaṃ hyetaccakracatuṣkaṃ hi vidyate tvayi // Sl_61 //",
+          "translated_text": "These are the four wheels of one's previous merit that exist in you"
         }
       ]
     },
@@ -1044,12 +1171,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kalyāṇamitrasevā brahmacaryapūrtaye deśitā muninā /"
+          "text": "kalyāṇamitrasevā brahmacaryapūrtaye deśitā muninā /",
+          "translated_text": "Service to noble friends is taught by the sage for the fulfillment of celibacy"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sevyaḥ sadā supuruṣaḥ śamaḥ prāpto yato jinamapekṣya bahubhiḥ // Sl_62 //"
+          "text": "sevyaḥ sadā supuruṣaḥ śamaḥ prāpto yato jinamapekṣya bahubhiḥ // Sl_62 //",
+          "translated_text": "Always serve a virtuous person, peace is attained by many through reliance on the <s>Jina<s/>"
         }
       ]
     },
@@ -1060,12 +1189,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "mithyādṛk pratyante narakapretatiryakṣūtpadyamānaḥ /"
+          "text": "mithyādṛk pratyante narakapretatiryakṣūtpadyamānaḥ /",
+          "translated_text": "Those with false views are born in hell, among pretas, and animals"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "mleccho jaḍaśca sattvo yo hyutpanno buddhavirahite // Sl_63 //"
+          "text": "mleccho jaḍaśca sattvo yo hyutpanno buddhavirahite // Sl_63 //",
+          "translated_text": "The being born in a land without the Buddha is a barbarian and dull"
         }
       ]
     },
@@ -1076,12 +1207,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "dīrghāyuṣi devakule janilabdhaścāṣṭākṣaṇā ime doṣāḥ /"
+          "text": "dīrghāyuṣi devakule janilabdhaścāṣṭākṣaṇā ime doṣāḥ /",
+          "translated_text": "These faults are in one born in a long-lived divine family, having eight inopportune moments"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ebhī rahito bhūtvā kṣaṇaṃ labdhvā janmanivṛttau prayateta // Sl_64 //"
+          "text": "ebhī rahito bhūtvā kṣaṇaṃ labdhvā janmanivṛttau prayateta // Sl_64 //",
+          "translated_text": "Being free from these, having obtained a moment, one should strive for cessation of rebirth"
         }
       ]
     },
@@ -1092,12 +1225,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "iṣṭavighātavyādhimṛtyujarādiduḥkhāvahaḥ saṃsāraḥ /"
+          "text": "iṣṭavighātavyādhimṛtyujarādiduḥkhāvahaḥ saṃsāraḥ /",
+          "translated_text": "<s>Saṃsāra<s/> brings sufferings such as the loss of the desired, disease, death, and old age"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "virajya tataḥ śṛṇu tāvad doṣānetasyāvagacchan naradeva // Sl_65 //"
+          "text": "virajya tataḥ śṛṇu tāvad doṣānetasyāvagacchan naradeva // Sl_65 //",
+          "translated_text": "Renouncing it, listen then, realizing these faults, O king of men"
         }
       ]
     },
@@ -1108,12 +1243,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "mitratvena ca śatruḥ putratvena pitāmbā ca bhāryātvena /"
+          "text": "mitratvena ca śatruḥ putratvena pitāmbā ca bhāryātvena /",
+          "translated_text": "As a friend, an enemy; as a son, a father; and as a wife, a mother"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "parivartyotpadyante tasmānna niyataṃ kimapīha saṃsāre // Sl_66 //"
+          "text": "parivartyotpadyante tasmānna niyataṃ kimapīha saṃsāre // Sl_66 //",
+          "translated_text": "Arise through transformation; therefore, nothing is certain here in <s>saṃsāra<s/>"
         }
       ]
     },
@@ -1124,12 +1261,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "catuḥsamudrajalādapi janairadhikaṃ jananyāḥ stanyaṃ pītam /"
+          "text": "catuḥsamudrajalādapi janairadhikaṃ jananyāḥ stanyaṃ pītam /",
+          "translated_text": "More than the water in the four oceans is the mother's milk drunk by beings"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pṛthagjanānanusṛtya hi punastato 'pyadhikañca pāsyanti lokāḥ // Sl_67 //"
+          "text": "pṛthagjanānanusṛtya hi punastato 'pyadhikañca pāsyanti lokāḥ // Sl_67 //",
+          "translated_text": "Following different births, beings will again drink even more than that"
         }
       ]
     },
@@ -1140,12 +1279,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ātmanaścāsthipuñjaṃ merusamaṃ tato 'dhikamuccairjāyeta /"
+          "text": "ātmanaścāsthipuñjaṃ merusamaṃ tato 'dhikamuccairjāyeta /",
+          "translated_text": "The pile of one's bones would grow as high as <s>Meru<s/> and even higher"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhūmimṛdā badarāṇāṃ gulikābhirna gaṇanā sambhavāmbānām // Sl_68 //"
+          "text": "bhūmimṛdā badarāṇāṃ gulikābhirna gaṇanā sambhavāmbānām // Sl_68 //",
+          "translated_text": "With the earth's soil and berries, the counting of waters is not possible"
         }
       ]
     },
@@ -1156,12 +1297,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "lokapūjyo 'pi śakraḥ patati ca punaḥ karmavaśāddhi saṃsāre /"
+          "text": "lokapūjyo 'pi śakraḥ patati ca punaḥ karmavaśāddhi saṃsāre /",
+          "translated_text": "Even <s>Śakra<s/>, worshipped by the world, falls again due to karma in <s>saṃsāra<s/>"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tadvacca cakravartī rājāpi punarbhavati hi dāso loke // Sl_69 //"
+          "text": "tadvacca cakravartī rājāpi punarbhavati hi dāso loke // Sl_69 //",
+          "translated_text": "Likewise, the <s>cakravartī<s/> king also becomes a servant again in the world"
         }
       ]
     },
@@ -1172,12 +1315,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "svarge 'psarasāṃ saukhyaṃ kucataṭisparśajaṃ caiva ciramanubhūya /"
+          "text": "svarge 'psarasāṃ saukhyaṃ kucataṭisparśajaṃ caiva ciramanubhūya /",
+          "translated_text": "Having long enjoyed the pleasure of the touch of celestial maidens' breasts in heaven"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "narake duḥsahaduḥkhaṃ peṣaṇachedanabhedanayantrairbhuṅkte // Sl_70 //"
+          "text": "narake duḥsahaduḥkhaṃ peṣaṇachedanabhedanayantrairbhuṅkte // Sl_70 //",
+          "translated_text": "One experiences unbearable suffering in hell with crushing, cutting, and breaking instruments"
         }
       ]
     },
@@ -1188,12 +1333,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sukhade sumeruśikhare ciramanubhavaṃścaraṃścaraṇasparśasukham /"
+          "text": "sukhade sumeruśikhare ciramanubhavaṃścaraṃścaraṇasparśasukham /",
+          "translated_text": "sukhade sumeruśikhare ciramanubhavaṃścaraṃścaraṇasparśasukham /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "cañcalakukkulakuṇapairgāḍhaṃ duḥkhaṃ cintayet sadā manasā // Sl_71 //"
+          "text": "cañcalakukkulakuṇapairgāḍhaṃ duḥkhaṃ cintayet sadā manasā // Sl_71 //",
+          "translated_text": "One should always contemplate deeply with the mind on the intense suffering caused by restless worms and corpses"
         }
       ]
     },
@@ -1204,12 +1351,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "devāṅganāsevite nandane ramye copavane ca vihṛtya /"
+          "text": "devāṅganāsevite nandane ramye copavane ca vihṛtya /",
+          "translated_text": "Having enjoyed in the beautiful grove of <s>Nandana</s> attended by celestial maidens,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "asipatravane teṣāṃ hastapādakarṇanāsāśca chidyante // Sl_72 //"
+          "text": "asipatravane teṣāṃ hastapādakarṇanāsāśca chidyante // Sl_72 //",
+          "translated_text": "In the forest of sword-like leaves, their hands, feet, ears, and noses are cut off"
         }
       ]
     },
@@ -1220,12 +1369,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "suvadanadevasutābhiḥ svarṇotpalairyutāyāṃ mandākinyām /"
+          "text": "suvadanadevasutābhiḥ svarṇotpalairyutāyāṃ mandākinyām /",
+          "translated_text": "In the <s>Mandākinī</s> adorned with golden lotuses and beautiful celestial maidens,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "snātvā punaśca narake kṣāroṣṇodakavaitaraṇyāṃ hi patanti // Sl_73 //"
+          "text": "snātvā punaśca narake kṣāroṣṇodakavaitaraṇyāṃ hi patanti // Sl_73 //",
+          "translated_text": "After bathing, they again fall into the hell of <s>Vaitaraṇī</s> with hot and saline water"
         }
       ]
     },
@@ -1236,12 +1387,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "deveṣu kāmasukhaṃ ca kāmavītarāgasukhaṃ brahmalokeṣu /"
+          "text": "deveṣu kāmasukhaṃ ca kāmavītarāgasukhaṃ brahmalokeṣu /",
+          "translated_text": "In the realms of the gods, there is pleasure from desire, and in the realms of <s>Brahma</s>, pleasure from detachment from desire,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "prāpyāvīcau satataṃ labhyate 'gnerindhanībhūya ca duḥkham // Sl_74 //"
+          "text": "prāpyāvīcau satataṃ labhyate 'gnerindhanībhūya ca duḥkham // Sl_74 //",
+          "translated_text": "Having attained these, constant suffering is obtained by becoming fuel for fire in <s>Avīci</s>"
         }
       ]
     },
@@ -1252,12 +1405,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "padamavāpya suryendvoḥ svakāyaprabhayā pradīpya hi saṃsāram /"
+          "text": "padamavāpya suryendvoḥ svakāyaprabhayā pradīpya hi saṃsāram /",
+          "translated_text": "Having attained the position of <s>Sūrya</s> and <s>Indu</s>, illuminating the world with the light of their own bodies,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tamasi ca ghane praviṣṭaḥ prasāritamapi ca svīyakaraṃ na paśyati // Sl_75 //"
+          "text": "tamasi ca ghane praviṣṭaḥ prasāritamapi ca svīyakaraṃ na paśyati // Sl_75 //",
+          "translated_text": "Entering into dense darkness, one does not see even their own outstretched hand"
         }
       ]
     },
@@ -1268,12 +1423,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "evaṃ mṛtyuṃ jñātvā grāhyastrividhapuṇyamayadīpālokaḥ /"
+          "text": "evaṃ mṛtyuṃ jñātvā grāhyastrividhapuṇyamayadīpālokaḥ /",
+          "translated_text": "Thus knowing death, one should grasp the light of the threefold meritorious lamp,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "anyathā ravīndubhyāmamardanīye 'ndhatamasi praveṣṭavyam // Sl_76 //"
+          "text": "anyathā ravīndubhyāmamardanīye 'ndhatamasi praveṣṭavyam // Sl_76 //",
+          "translated_text": "Otherwise, one must enter the crushing darkness which is not dispelled by <s>Ravi</s> and <s>Indu</s>"
         }
       ]
     },
@@ -1284,12 +1441,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "duṣṭācaraṇe lagnāḥ sattvāḥ saṃjīvakālasūtratapaneṣu /"
+          "text": "duṣṭācaraṇe lagnāḥ sattvāḥ saṃjīvakālasūtratapaneṣu /",
+          "translated_text": "Beings attached to evil conduct, in the tortures of the cords of life,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "rauravāvīcyādau hi saṃghāte cāpi narake sadā duḥkham // Sl_77 //"
+          "text": "rauravāvīcyādau hi saṃghāte cāpi narake sadā duḥkham // Sl_77 //",
+          "translated_text": "In <s>Raurava</s>, <s>Avīci</s>, and other such hells, there is always suffering"
         }
       ]
     },
@@ -1300,12 +1459,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "niṣpīḍyante tilavat kecanānye cūrṇavat peṣyante ca /"
+          "text": "niṣpīḍyante tilavat kecanānye cūrṇavat peṣyante ca /",
+          "translated_text": "Some are squeezed like sesame seeds, others are ground like powder,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "chidyante śāṇenānye dīryante tathā tīkṣṇaparaśunāpi // Sl_78 //"
+          "text": "chidyante śāṇenānye dīryante tathā tīkṣṇaparaśunāpi // Sl_78 //",
+          "translated_text": "Some are cut with a whetstone, others are split with a sharp axe"
         }
       ]
     },
@@ -1316,12 +1477,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "āsye 'nyeṣāṃ tadvat pātyate jvalitaṃ tāvallauhadravam /"
+          "text": "āsye 'nyeṣāṃ tadvat pātyate jvalitaṃ tāvallauhadravam /",
+          "translated_text": "Into the mouths of others, molten iron is poured in the same way,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "āropyante kecana sakaṇṭake taptāyase sadā śūle // Sl_79 //"
+          "text": "āropyante kecana sakaṇṭake taptāyase sadā śūle // Sl_79 //",
+          "translated_text": "Some are impaled on hot iron stakes with thorns"
         }
       ]
     },
@@ -1332,12 +1495,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "śvabhiḥ kecana krūrairlauhadantairvidīryante garjadbhiḥ /"
+          "text": "śvabhiḥ kecana krūrairlauhadantairvidīryante garjadbhiḥ /",
+          "translated_text": "Some are torn apart by cruel dogs with iron teeth, roaring,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "utthāya karau vivaśā luñcyante tīkṣṇanakhatuṇḍaiśca kākaiḥ // Sl_80 //"
+          "text": "utthāya karau vivaśā luñcyante tīkṣṇanakhatuṇḍaiśca kākaiḥ // Sl_80 //",
+          "translated_text": "Rising up, their hands are helplessly plucked by crows with sharp nails and beaks"
         }
       ]
     },
@@ -1348,12 +1513,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kecit kṛmisaṃsparśād māṃsādakṛṣṇamakṣikāyutapātācca /"
+          "text": "kecit kṛmisaṃsparśād māṃsādakṛṣṇamakṣikāyutapātācca /",
+          "translated_text": "Some, due to the touch of worms, and the falling of black flies on their flesh,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vṛddhaṃ vraṇantvasahyaṃ bhakṣyamāṇaṃ rudanti cākulā bhūmyām // Sl_81 //"
+          "text": "vṛddhaṃ vraṇantvasahyaṃ bhakṣyamāṇaṃ rudanti cākulā bhūmyām // Sl_81 //",
+          "translated_text": "Being devoured, cry out in distress on the ground, unable to bear the unbearable wounds"
         }
       ]
     },
@@ -1364,12 +1531,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "dahyante 'gnikuṇḍeṣu tena tadānanāni ca bhavanti vivṛtāni /"
+          "text": "dahyante 'gnikuṇḍeṣu tena tadānanāni ca bhavanti vivṛtāni /",
+          "translated_text": "They are burned in fire pits, and then their mouths become wide open,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pacyante ca kaṭāhe taṇḍulavallauhamaye 'dhaḥśirasaste // Sl_82 //"
+          "text": "pacyante ca kaṭāhe taṇḍulavallauhamaye 'dhaḥśirasaste // Sl_82 //",
+          "translated_text": "They are cooked in iron cauldrons like rice grains, with heads downwards"
         }
       ]
     },
@@ -1380,12 +1549,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "śvāsāvarodhasamaye pāpaḥ kālaṃkṛte ca narakaṃ prayāti /"
+          "text": "śvāsāvarodhasamaye pāpaḥ kālaṃkṛte ca narakaṃ prayāti /",
+          "translated_text": "At the time of breath obstruction, the sinner goes to hell,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "śrutvāpi narakaduḥkhaṃ sahasraśo vajrasvabhāvātra bibheti // Sl_83 //"
+          "text": "śrutvāpi narakaduḥkhaṃ sahasraśo vajrasvabhāvātra bibheti // Sl_83 //",
+          "translated_text": "Even hearing of the thousandfold suffering of hell, one fears like a diamond"
         }
       ]
     },
@@ -1396,12 +1567,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "śrutvā dṛṣṭvā smṛtvā paṭhitvā cāpi citrāṅkanaṃ narakasya /"
+          "text": "śrutvā dṛṣṭvā smṛtvā paṭhitvā cāpi citrāṅkanaṃ narakasya /",
+          "translated_text": "Having heard, seen, remembered, and also read the depiction of hell,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ākṛtirapi bhayajanikā kā kathā tadasahyavipākānubhavasya // Sl_84 //"
+          "text": "ākṛtirapi bhayajanikā kā kathā tadasahyavipākānubhavasya // Sl_84 //",
+          "translated_text": "Even its form is fear-inducing; what to say of experiencing its unbearable consequences"
         }
       ]
     },
@@ -1412,12 +1585,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yathā samastasukhānāṃ tṛṣṇākṣaya eva sarvottamaṃ sukhamiti /"
+          "text": "yathā samastasukhānāṃ tṛṣṇākṣaya eva sarvottamaṃ sukhamiti /",
+          "translated_text": "Just as the cessation of desire is considered the highest happiness among all pleasures,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tadvat sarvaduḥkheṣvavīcinarakaduḥkhamatyasahanīyaṃ tat // Sl_85 //"
+          "text": "tadvat sarvaduḥkheṣvavīcinarakaduḥkhamatyasahanīyaṃ tat // Sl_85 //",
+          "translated_text": "So among all sufferings, the suffering of <s>Avīci</s> hell is most unbearable"
         }
       ]
     },
@@ -1428,12 +1603,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ihaikasmiṃśca divase, triśataśūlaghātād bhavati ca yad duḥkham /"
+          "text": "ihaikasmiṃśca divase, triśataśūlaghātād bhavati ca yad duḥkham /",
+          "translated_text": "Here, in one day, the suffering that arises from being pierced by three hundred spears,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "nārakīyaduḥkhasya hi tatrāpnoti samatāṃ na laghukalāṃ cāpi // Sl_86 //"
+          "text": "nārakīyaduḥkhasya hi tatrāpnoti samatāṃ na laghukalāṃ cāpi // Sl_86 //",
+          "translated_text": "Does not equal even a fraction of the suffering of hell"
         }
       ]
     },
@@ -1444,12 +1621,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "koṭivarṣaparyantaṃ dāruṇātiduḥkheṣvanubhavatsu satsvapi /"
+          "text": "koṭivarṣaparyantaṃ dāruṇātiduḥkheṣvanubhavatsu satsvapi /",
+          "translated_text": "Even while experiencing extremely harsh sufferings for a period of ten million years,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yāvattānyakuśalāni na kṣīṇāni tāvatra jīvanānmuktiḥ // Sl_87 //"
+          "text": "yāvattānyakuśalāni na kṣīṇāni tāvatra jīvanānmuktiḥ // Sl_87 //",
+          "translated_text": "Until those unwholesome actions are exhausted, there is no liberation from life"
         }
       ]
     },
@@ -1460,12 +1639,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "aniṣṭaphalabījāni tu kāyavākcittānāṃ hi durācaraṇāni /"
+          "text": "aniṣṭaphalabījāni tu kāyavākcittānāṃ hi durācaraṇāni /",
+          "translated_text": "The seeds of undesirable fruits are indeed the misdeeds of body, speech, and mind,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhavataivaṃ yatanīyaṃ śaktyā yena tadaṇumātraṃ na śiṣyeta // Sl_88 //"
+          "text": "bhavataivaṃ yatanīyaṃ śaktyā yena tadaṇumātraṃ na śiṣyeta // Sl_88 //",
+          "translated_text": "Thus, one should strive with effort so that not even an atom of it remains"
         }
       ]
     },
@@ -1476,12 +1657,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tiryagyoniṣu nānā duḥkhāni bhavanti ca badhabandhanādīni /"
+          "text": "tiryagyoniṣu nānā duḥkhāni bhavanti ca badhabandhanādīni /",
+          "translated_text": "In animal realms, various sufferings occur, including capture and bondage,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "parasparaṃ bhakṣayanti śamamūlaśubhakarmaparihartāraste // Sl_89 //"
+          "text": "parasparaṃ bhakṣayanti śamamūlaśubhakarmaparihartāraste // Sl_89 //",
+          "translated_text": "They devour each other, devoid of the root of peace and virtuous actions"
         }
       ]
     },
@@ -1492,12 +1675,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kecid vai hanyante muktorṇāsthimāṃsacarmārthaṃ jīvāḥ /"
+          "text": "kecid vai hanyante muktorṇāsthimāṃsacarmārthaṃ jīvāḥ /",
+          "translated_text": "Some creatures are indeed killed for the sake of wool, bones, flesh, and skin,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yojyante khalu vivaśā anye padamuṣṭikaśāṅkuśaiḥ paśavaśca // Sl_90 //"
+          "text": "yojyante khalu vivaśā anye padamuṣṭikaśāṅkuśaiḥ paśavaśca // Sl_90 //",
+          "translated_text": "Others, helpless, are yoked with foot, fist, and hook"
         }
       ]
     },
@@ -1508,12 +1693,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pretayonau na kṣayaṃ yātīṣṭālābhajanitā duḥkhadhārā ca /"
+          "text": "pretayonau na kṣayaṃ yātīṣṭālābhajanitā duḥkhadhārā ca /",
+          "translated_text": "In the <s>Preta</s> realm, the stream of suffering caused by the absence of desired gains does not diminish,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "duḥkhamasahyaṃ labhate śītoṣṇakṣuttṛṣāśramabhayajanitaṃ hi // Sl_91 //"
+          "text": "duḥkhamasahyaṃ labhate śītoṣṇakṣuttṛṣāśramabhayajanitaṃ hi // Sl_91 //",
+          "translated_text": "One obtains unbearable suffering caused by cold, heat, hunger, thirst, fatigue, and fear"
         }
       ]
     },
@@ -1524,12 +1711,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sūcīchidravadāsyaṃ keṣāñcidudaramativiśālaṃ nagavacca /"
+          "text": "sūcīchidravadāsyaṃ keṣāñcidudaramativiśālaṃ nagavacca /",
+          "translated_text": "Some have mouths like a needle's eye, but their stomachs are as vast as a mountain,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tacca pīḍitaṃ kṣudhayā kṣiptamaśuci vastu na pratikārakṣamam // Sl_92 //"
+          "text": "tacca pīḍitaṃ kṣudhayā kṣiptamaśuci vastu na pratikārakṣamam // Sl_92 //",
+          "translated_text": "And that is tormented by hunger, thrown with impure objects, unable to remedy"
         }
       ]
     },
@@ -1540,12 +1729,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kecit pretā nagnāḥ śuṣkatālaśikharavadasthicarmāṇaḥ /"
+          "text": "kecit pretā nagnāḥ śuṣkatālaśikharavadasthicarmāṇaḥ /",
+          "translated_text": "Some <s>Pretas</s> are naked, with bodies like dry palm tops, mere skin and bones,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "naktamagnimudgiratāṃ mukhe patattaptasikatāśanaṃ teṣām // Sl_93 //"
+          "text": "naktamagnimudgiratāṃ mukhe patattaptasikatāśanaṃ teṣām // Sl_93 //",
+          "translated_text": "At night, they emit fire from their mouths, consuming falling hot sand"
         }
       ]
     },
@@ -1556,12 +1747,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "nimnakoṭikaiḥ kaiścit pūyaraktādyaśucīni na ca labhyante /"
+          "text": "nimnakoṭikaiḥ kaiścit pūyaraktādyaśucīni na ca labhyante /",
+          "translated_text": "Some, with low status, do not obtain even impure things like pus and blood,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ākramyānyamukhopari galanirgatalasikādīni ca khādyante // Sl_94 //"
+          "text": "ākramyānyamukhopari galanirgatalasikādīni ca khādyante // Sl_94 //",
+          "translated_text": "Seizing upon another's face, they eat the flowing saliva and other discharges"
         }
       ]
     },
@@ -1572,12 +1765,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "candro grīṣme taptaḥ śaitye śīto bhānuśca hyetebhyaḥ /"
+          "text": "candro grīṣme taptaḥ śaitye śīto bhānuśca hyetebhyaḥ /",
+          "translated_text": "The moon is hot in summer, and the sun is cold in winter for them"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "teṣāṃ dṛṣṭi pātācca niṣphalāstaravo nadyaśca śuṣyante // Sl_95 //"
+          "text": "teṣāṃ dṛṣṭi pātācca niṣphalāstaravo nadyaśca śuṣyante // Sl_95 //",
+          "translated_text": "From their gaze, the trees become fruitless and the rivers dry up"
         }
       ]
     },
@@ -1588,12 +1783,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "satataṃ duḥkhabhājaste duścaritakarmapāśasudṛḍhabaddhā vai /"
+          "text": "satataṃ duḥkhabhājaste duścaritakarmapāśasudṛḍhabaddhā vai /",
+          "translated_text": "They are always partakers of sorrow, firmly bound by the fetters of evil deeds,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "na ca mriyante kecit pañca vā daśa sahasravarṣāṇi sattvāḥ // Sl_96 //"
+          "text": "na ca mriyante kecit pañca vā daśa sahasravarṣāṇi sattvāḥ // Sl_96 //",
+          "translated_text": "and some beings do not die for five or even ten thousand years"
         }
       ]
     },
@@ -1604,12 +1801,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yacca labhante pretā nānāduḥkhāsvādamekavidhamittham /"
+          "text": "yacca labhante pretā nānāduḥkhāsvādamekavidhamittham /",
+          "translated_text": "And what the <s>pretas</s> (spirits) obtain is a taste of various kinds of sorrows, in such a manner"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "prītiratra kārpaṇye mātsaryamanāryamuktamato buddhena // Sl_97 //"
+          "text": "prītiratra kārpaṇye mātsaryamanāryamuktamato buddhena // Sl_97 //",
+          "translated_text": "Joy here is said by the Buddha to be in miserliness, envy, and ignobility"
         }
       ]
     },
@@ -1620,12 +1819,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "svarge cātisukhaṃ yat tato 'pyadhikaduḥkhaṃ tataścyuternūnam /"
+          "text": "svarge cātisukhaṃ yat tato 'pyadhikaduḥkhaṃ tataścyuternūnam /",
+          "translated_text": "In heaven, there is excessive happiness, yet greater sorrow from falling from there, certainly"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "evaṃ vicintya tajjñaiḥ kṣaratsukhāya na tṛṣṇā kāryā svarge // Sl_98 //"
+          "text": "evaṃ vicintya tajjñaiḥ kṣaratsukhāya na tṛṣṇā kāryā svarge // Sl_98 //",
+          "translated_text": "Thus considering, the wise should not desire the perishable happiness of heaven"
         }
       ]
     },
@@ -1636,12 +1837,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "vaivarṇyaṃ dehasya svāsane na ratirmlāyate 'pi mālā ca /"
+          "text": "vaivarṇyaṃ dehasya svāsane na ratirmlāyate 'pi mālā ca /",
+          "translated_text": "Discoloration of the body, in one's seat, there is no pleasure, even the garland withers"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vasaneṣvapi daurgandhyaṃ svedaścāpūrvo niryāti dehāttu // Sl_99 //"
+          "text": "vasaneṣvapi daurgandhyaṃ svedaścāpūrvo niryāti dehāttu // Sl_99 //",
+          "translated_text": "In clothes too, there is foul smell, and unprecedented sweat emerges from the body"
         }
       ]
     },
@@ -1652,12 +1855,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "lakṣaṇāni hi pañcaiva mṛtyorbhavanti svargasthadeveṣu /"
+          "text": "lakṣaṇāni hi pañcaiva mṛtyorbhavanti svargasthadeveṣu /",
+          "translated_text": "Indeed, there are five signs of death among the gods dwelling in heaven"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhūlokīyanarāṇāṃ sadṛśānyapi tāni mṛtyulakṣaṇaiśca // Sl_100 //"
+          "text": "bhūlokīyanarāṇāṃ sadṛśānyapi tāni mṛtyulakṣaṇaiśca // Sl_100 //",
+          "translated_text": "Similar to those of humans on earth, and also with the signs of death"
         }
       ]
     },
@@ -1668,12 +1873,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "devebhyaścyutasya yadi nāvaśiṣyet kuśalamaṇumātramapi /"
+          "text": "devebhyaścyutasya yadi nāvaśiṣyet kuśalamaṇumātramapi /",
+          "translated_text": "When fallen from the gods, if not even a small measure of merit remains"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vivaśatayoṣitavyaṃ hi tatastiryakpretanarakeṣvekasmin // Sl_101 //"
+          "text": "vivaśatayoṣitavyaṃ hi tatastiryakpretanarakeṣvekasmin // Sl_101 //",
+          "translated_text": "Then one must helplessly wander among animals, <s>pretas</s>, and hells"
         }
       ]
     },
@@ -1684,12 +1891,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "duḥkhaṃ syānmānasikaṃ devaiśvaryaṃ pratīrṣyayāsūreṣvapi /"
+          "text": "duḥkhaṃ syānmānasikaṃ devaiśvaryaṃ pratīrṣyayāsūreṣvapi /",
+          "translated_text": "Mental suffering may arise, envying the divine majesty, even among gods"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "na kurvanti dhīmanto janmāvaraṇācca te satyadarśanāni // Sl_102 //"
+          "text": "na kurvanti dhīmanto janmāvaraṇācca te satyadarśanāni // Sl_102 //",
+          "translated_text": "The wise do not act due to the veil of birth, and their visions of truth"
         }
       ]
     },
@@ -1700,12 +1909,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "saṃsāre 'sminnevaṃ devanarakapretatiryagyoniṣu /"
+          "text": "saṃsāre 'sminnevaṃ devanarakapretatiryagyoniṣu /",
+          "translated_text": "In this <s>saṃsāra</s>, thus among gods, hells, <s>pretas</s>, and animal births"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "janmagrahaṇamayuktaṃ bahubādhaṃ janma tatreti vijñeyam // Sl_103 //"
+          "text": "janmagrahaṇamayuktaṃ bahubādhaṃ janma tatreti vijñeyam // Sl_103 //",
+          "translated_text": "Taking birth is inappropriate and troublesome, birth there is to be understood"
         }
       ]
     },
@@ -1716,12 +1927,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "jvalite śirasi ca vasane tannivṛttyupāyamupekṣya tvaritameva /"
+          "text": "jvalite śirasi ca vasane tannivṛttyupāyamupekṣya tvaritameva /",
+          "translated_text": "When the head and clothes are burning, neglecting the means of cessation, hastily"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "apunarbhavāya yateta yatastasmānmahatprayojanaṃ nānyat // Sl_104 //"
+          "text": "apunarbhavāya yateta yatastasmānmahatprayojanaṃ nānyat // Sl_104 //",
+          "translated_text": "One should strive for non-rebirth, since there is no greater purpose than that"
         }
       ]
     },
@@ -1732,12 +1945,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "śīlasamādhijñānairbhūjalatejovāyuravividhurahitaṃ ca /"
+          "text": "śīlasamādhijñānairbhūjalatejovāyuravividhurahitaṃ ca /",
+          "translated_text": "With <s>śīla</s>, <s>samādhi</s>, and <s>jñāna</s>, without earth, water, fire, air, and sun"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ajarāmaraṇamakṣayaṃ prāpyaṃ śāntadāntavimalaṃ nirvāṇam // Sl_105 //"
+          "text": "ajarāmaraṇamakṣayaṃ prāpyaṃ śāntadāntavimalaṃ nirvāṇam // Sl_105 //",
+          "translated_text": "One attains the undying, deathless, inexhaustible, peaceful, controlled, pure <s>nirvāṇa</s>"
         }
       ]
     },
@@ -1748,12 +1963,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "prasrabdhivīryaprītidharmavicayasmṛtisamādhyupekṣāḥ sapta /"
+          "text": "prasrabdhivīryaprītidharmavicayasmṛtisamādhyupekṣāḥ sapta /",
+          "translated_text": "The seven are relaxation, energy, joy, investigation of <s>dharma</s>, mindfulness, concentration, equanimity"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bodhyaṅgānīmāni prāptyai nirvāṇasya kuśalasambhāraḥ // Sl_106 //"
+          "text": "bodhyaṅgānīmāni prāptyai nirvāṇasya kuśalasambhāraḥ // Sl_106 //",
+          "translated_text": "These are the factors of enlightenment, the accumulation of merit for attaining <s>nirvāṇa</s>"
         }
       ]
     },
@@ -1764,12 +1981,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "prajñābhāve dhyānaṃ dhyānābhāve 'pi na jāyate sā prajñā /"
+          "text": "prajñābhāve dhyānaṃ dhyānābhāve 'pi na jāyate sā prajñā /",
+          "translated_text": "In the absence of wisdom, meditation does not arise; in the absence of meditation, wisdom does not arise"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yatrobhe vidyete jñeyastasya bhavasāgaro goṣpadavat // Sl_107 //"
+          "text": "yatrobhe vidyete jñeyastasya bhavasāgaro goṣpadavat // Sl_107 //",
+          "translated_text": "Where both are present, his ocean of existence is to be known as the size of a cow's hoofprint"
         }
       ]
     },
@@ -1780,12 +1999,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ye 'vyākṛtadharmāścādityabandhunā caturdaśopadiṣṭāśca /"
+          "text": "ye 'vyākṛtadharmāścādityabandhunā caturdaśopadiṣṭāśca /",
+          "translated_text": "Those who are the indeterminate <s>dharma</s>s taught by the friend of the sun, the fourteen"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "loke na cintanīyā yato tairnāpnoti cittameva śāntim // Sl_108 //"
+          "text": "loke na cintanīyā yato tairnāpnoti cittameva śāntim // Sl_108 //",
+          "translated_text": "In the world, they should not be contemplated, since by them the mind does not obtain peace"
         }
       ]
     },
@@ -1796,12 +2017,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "evaṃ proktaṃ munināvidyayā karma karmaṇā ca vijñānam /"
+          "text": "evaṃ proktaṃ munināvidyayā karma karmaṇā ca vijñānam /",
+          "translated_text": "Thus it is said by the sage, by ignorance there is action, by action there is knowledge"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tasmācca nāmarūpaṃ tataḥ ṣaḍāyatanāni tataḥ sparśā vai // Sl_109 //"
+          "text": "tasmācca nāmarūpaṃ tataḥ ṣaḍāyatanāni tataḥ sparśā vai // Sl_109 //",
+          "translated_text": "From that, <s>nāma-rūpa</s> (name and form), then the six senses, then indeed contact"
         }
       ]
     },
@@ -1812,12 +2035,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tata utpannā vittirvedanāśrayeṇa jāyate khalu tṛṣṇā /"
+          "text": "tata utpannā vittirvedanāśrayeṇa jāyate khalu tṛṣṇā /",
+          "translated_text": "Then arises sensation, and from sensation, craving is indeed born"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tasyāścopādānaṃ tato bhavo 'pi bhavācca jāyate jātiḥ // Sl_110 //"
+          "text": "tasyāścopādānaṃ tato bhavo 'pi bhavācca jāyate jātiḥ // Sl_110 //",
+          "translated_text": "And from that craving, attachment, then existence, and from existence, birth is born"
         }
       ]
     },
@@ -1828,12 +2053,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "satyāṃ jātau duḥkhavyādhijareṣṭa vastvalābhabhayamaraṇāni /"
+          "text": "satyāṃ jātau duḥkhavyādhijareṣṭa vastvalābhabhayamaraṇāni /",
+          "translated_text": "When birth exists, there are sorrows, diseases, old age, desires, non-obtainment, fear, and death"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "duḥkhaskandho vipulaḥ sati jātiniṣedhe niṣiddhānīmāni // Sl_111 //"
+          "text": "duḥkhaskandho vipulaḥ sati jātiniṣedhe niṣiddhānīmāni // Sl_111 //",
+          "translated_text": "The heap of sorrow is vast; with the negation of birth, these are negated"
         }
       ]
     },
@@ -1844,12 +2071,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "gambhīro 'narghakośaḥ priyaḥ pratītyotpādo jinavacanānām /"
+          "text": "gambhīro 'narghakośaḥ priyaḥ pratītyotpādo jinavacanānām /",
+          "translated_text": "Profound, priceless treasure, dear is the dependent origination of the Buddha's words"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "samyagimaṃ yaḥ paśyati sa ca paśyati tattvadarśinaṃ buddhameva // Sl_112 //"
+          "text": "samyagimaṃ yaḥ paśyati sa ca paśyati tattvadarśinaṃ buddhameva // Sl_112 //",
+          "translated_text": "Who sees this rightly, he sees the truth-seeing Buddha himself"
         }
       ]
     },
@@ -1860,12 +2089,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "śamāya bhāvyāḥ samyagdṛṣṭisaṃkalpavākkarmājīvasmṛti /"
+          "text": "śamāya bhāvyāḥ samyagdṛṣṭisaṃkalpavākkarmājīvasmṛti /",
+          "translated_text": "For peace, to be cultivated are right view, intention, speech, action, livelihood, and mindfulness"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "samādhivyāyāmetyāryāṣṭāṅgikamārgāścaite cārutayā // Sl_113 //"
+          "text": "samādhivyāyāmetyāryāṣṭāṅgikamārgāścaite cārutayā // Sl_113 //",
+          "translated_text": "Concentration, effort, and these are the noble eightfold path with beauty"
         }
       ]
     },
@@ -1876,12 +2107,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "jātiriyaṃ duḥkhameva tṛṣṇā ca tasya samudayo mahān jñeyaḥ /"
+          "text": "jātiriyaṃ duḥkhameva tṛṣṇā ca tasya samudayo mahān jñeyaḥ /",
+          "translated_text": "This birth is indeed suffering, and craving is to be known as its great arising"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "nirvṛtistannirodhastadadhigamāya cāṣṭāṅgiko 'yaṃ mārgaḥ // Sl_114 //"
+          "text": "nirvṛtistannirodhastadadhigamāya cāṣṭāṅgiko 'yaṃ mārgaḥ // Sl_114 //",
+          "translated_text": "Cessation is <s>nirvāṇa</s>, and for its attainment is this eightfold path"
         }
       ]
     },
@@ -1892,12 +2125,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yatnaḥ sadā vidheyaścaturāryasatyaprativedhāyaivam /"
+          "text": "yatnaḥ sadā vidheyaścaturāryasatyaprativedhāyaivam /",
+          "translated_text": "Effort should always be made for the realization of the four noble truths, thus"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kroḍe śriyaśca yeṣāṃ gṛhasthāstaranti kleśanadīṃ jñānāt // Sl_115 //"
+          "text": "kroḍe śriyaśca yeṣāṃ gṛhasthāstaranti kleśanadīṃ jñānāt // Sl_115 //",
+          "translated_text": "In the embrace of whose wealth, householders cross the river of afflictions through knowledge"
         }
       ]
     },
@@ -1908,12 +2143,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ye dṛṣṭāryasatyāśca nāvirbhavanti te 'ṅkuravat pṛthivītaḥ /"
+          "text": "ye dṛṣṭāryasatyāśca nāvirbhavanti te 'ṅkuravat pṛthivītaḥ /",
+          "translated_text": "Those who have seen the noble truths do not arise like sprouts from the earth"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "nāvataranti ca gaganāt te 'pi pṛthagjanāḥ kleśavaśā hi pūrvam // Sl_116 //"
+          "text": "nāvataranti ca gaganāt te 'pi pṛthagjanāḥ kleśavaśā hi pūrvam // Sl_116 //",
+          "translated_text": "Nor do they descend from the sky, they too were ordinary people, previously under the sway of afflictions"
         }
       ]
     },
@@ -1924,12 +2161,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "cittaṃ hi dharmamūlaṃ bhagavatoktamatastadapi sādhu damayecca /"
+          "text": "cittaṃ hi dharmamūlaṃ bhagavatoktamatastadapi sādhu damayecca /",
+          "translated_text": "The mind is indeed the root of <s>dharma</s>, as said by the Blessed One, therefore it should also be well controlled"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bho nirbhaya, kiṃ bahunā kathanena yato 'yameva hitopadeśaḥ // Sl_117 //"
+          "text": "bho nirbhaya, kiṃ bahunā kathanena yato 'yameva hitopadeśaḥ // Sl_117 //",
+          "translated_text": "Oh fearless one, why say much, since this is indeed the beneficial advice"
         }
       ]
     },
@@ -1940,12 +2179,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yanmayopadiṣṭaṃ tatsaprayāsairapi bhikṣubhirduḥsādhyam /"
+          "text": "yanmayopadiṣṭaṃ tatsaprayāsairapi bhikṣubhirduḥsādhyam /",
+          "translated_text": "What I have instructed, even with efforts, is difficult to accomplish by the monks"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "caryāguṇān sevasva śikṣāmācara jīvanaṃ ca kuru sārtham // Sl_118 //"
+          "text": "caryāguṇān sevasva śikṣāmācara jīvanaṃ ca kuru sārtham // Sl_118 //",
+          "translated_text": "Practice the virtues of conduct, engage in training, and make life meaningful"
         }
       ]
     },
@@ -1956,12 +2197,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sarveṣāṃ kuśalāni tu sarvārthamanumodya svacaryātrayīṃ ca /"
+          "text": "sarveṣāṃ kuśalāni tu sarvārthamanumodya svacaryātrayīṃ ca /",
+          "translated_text": "All meritorious deeds, indeed, for the sake of all, approve and follow the threefold conduct"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "buddhatvāya pariṇāmya tatastadanena puṇyarāśinā bhavatā // Sl_119 //"
+          "text": "buddhatvāya pariṇāmya tatastadanena puṇyarāśinā bhavatā // Sl_119 //",
+          "translated_text": "Transforming towards enlightenment, then by this accumulation of merit you become,"
         }
       ]
     },
@@ -1972,12 +2215,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "janmasvaprameyeṣu devanaralokayoginaśca vaśīkṛtya /"
+          "text": "janmasvaprameyeṣu devanaralokayoginaśca vaśīkṛtya /",
+          "translated_text": "In births beyond measure, having mastered the gods, humans, and <s>yogins</s>,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "duḥkhino 'nugrāhyāstvasahāyā avalokiteśvaracaryābhiḥ // Sl_120 //"
+          "text": "duḥkhino 'nugrāhyāstvasahāyā avalokiteśvaracaryābhiḥ // Sl_120 //",
+          "translated_text": "The suffering, who are to be assisted without companions, through the conduct of <s>Avalokiteśvara</s>"
         }
       ]
     },
@@ -1988,12 +2233,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "caramaṃ bhavaṃ gṛhītvā vyādhijarārāgadveṣāṃśca prahāya /"
+          "text": "caramaṃ bhavaṃ gṛhītvā vyādhijarārāgadveṣāṃśca prahāya /",
+          "translated_text": "Having attained the final existence, and abandoning disease, old age, attachment, and aversion,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "buddhakṣetre bhagavānamitābha iva lokeśo 'mitāyurbhava // Sl_121 //"
+          "text": "buddhakṣetre bhagavānamitābha iva lokeśo 'mitāyurbhava // Sl_121 //",
+          "translated_text": "In the <s>Buddha-kṣetra</s> become like the Blessed <s>Amitābha</s>, a lord of infinite life"
         }
       ]
     },
@@ -2004,12 +2251,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "prajñāśīlatyāgodbhūtavimalakhyātiṃ bhuvi khe svarge ca /"
+          "text": "prajñāśīlatyāgodbhūtavimalakhyātiṃ bhuvi khe svarge ca /",
+          "translated_text": "Through wisdom and conduct, manifesting pure fame on earth, in the sky, and in heaven,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "loke prasārya śamayan narān yuvatisukharatadevāṃśca bhūmau // Sl_122 //"
+          "text": "loke prasārya śamayan narān yuvatisukharatadevāṃśca bhūmau // Sl_122 //",
+          "translated_text": "Spreading peace in the world, calming humans, young women, and joyful gods on earth"
         }
       ]
     },
@@ -2020,19 +2269,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kleśopahatasattvasya jātibhayamaraṇanāśakaṃ jinendrākhyam /"
+          "text": "kleśopahatasattvasya jātibhayamaraṇanāśakaṃ jinendrākhyam /",
+          "translated_text": "For beings afflicted by afflictions, destroying the fear of birth and death, known as <s>Jinendra</s>,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "lokottaramakliṣṭaṃ śāntābhayākṣayanāmaiva padamāpnuhi // Sl_123 //"
+          "text": "lokottaramakliṣṭaṃ śāntābhayākṣayanāmaiva padamāpnuhi // Sl_123 //",
+          "translated_text": "Attain the transcendental, undefiled, peaceful, fearless, and imperishable state"
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "iti suhṛllekha samāptā //"
+      "text": "iti suhṛllekha samāptā //",
+      "translated_text": "Thus the letter to a friend is completed"
     }
   ]
 }

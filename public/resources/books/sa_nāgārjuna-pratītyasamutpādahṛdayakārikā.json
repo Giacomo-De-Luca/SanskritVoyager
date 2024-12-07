@@ -29,7 +29,8 @@
     "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
     "license": {
       "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
-      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "translated_text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
     },
     "publication_date": "2020-07-31",
     "source": "Gyaltsen Namdrol: Pratityasamutpadahrdaya and Aryadharmadhatugarbhavivarana. Sarnath : CIHTS 1997, p. 29"
@@ -38,12 +39,14 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Pratītyasamutpādahṛdayakārikā (Pshk)"
+      "text": "Pratītyasamutpādahṛdayakārikā (Pshk)",
+      "translated_text": "Pratītyasamutpādahṛdayakārikā (Pshk)"
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "nāgārjunakṛtā"
+      "text": "nāgārjunakṛtā",
+      "translated_text": "nāgārjunakṛtā"
     },
     {
       "tag": "lg",
@@ -52,12 +55,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "dvādaśa ye 'ṅgaviśeṣā muninoddiṣṭāḥ pratītyasambhūtāḥ /"
+          "text": "dvādaśa ye 'ṅgaviśeṣā muninoddiṣṭāḥ pratītyasambhūtāḥ /",
+          "translated_text": "The twelve specific limbs, as declared by the sage, are arisen from <s>Pratītyasamutpāda</s> (dependent origination),"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "te kleśakarmaduḥkheṣu saṅgṛhītāstriṣu yathāvat // Pshk_1 //"
+          "text": "te kleśakarmaduḥkheṣu saṅgṛhītāstriṣu yathāvat // Pshk_1 //",
+          "translated_text": "they are gathered into three: afflictions, actions, and suffering appropriately."
         }
       ]
     },
@@ -68,12 +73,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ādyāṣṭamanavamāḥ syuḥ kleśāḥ karma dvitīyadaśamau ca /"
+          "text": "ādyāṣṭamanavamāḥ syuḥ kleśāḥ karma dvitīyadaśamau ca /",
+          "translated_text": "The first, eighth, and ninth are afflictions; the second and tenth are actions,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "śeṣāḥ sapta ca duḥkhaṃ trisaṅgrahā dvādaśa tu dharmāḥ // Pshk_2 //"
+          "text": "śeṣāḥ sapta ca duḥkhaṃ trisaṅgrahā dvādaśa tu dharmāḥ // Pshk_2 //",
+          "translated_text": "the remaining seven are suffering; thus the twelve are gathered into three categories."
         }
       ]
     },
@@ -84,12 +91,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tribhyo bhavati dvandvaṃ dvandvātprabhavanti sapta saptabhyaḥ /"
+          "text": "tribhyo bhavati dvandvaṃ dvandvātprabhavanti sapta saptabhyaḥ /",
+          "translated_text": "From the three arises duality; from duality arise seven, from the seven,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "traya udbhavanti bhūyastadeva[tu] bhramati bhavacakram // Pshk_3 //"
+          "text": "traya udbhavanti bhūyastadeva[tu] bhramati bhavacakram // Pshk_3 //",
+          "translated_text": "three arise again; thus revolves the wheel of becoming."
         }
       ]
     },
@@ -100,12 +109,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "hetuphalañca[hi]sarvaṃ jagadanyo nāsti kaścidiha sattvaḥ /"
+          "text": "hetuphalañca[hi]sarvaṃ jagadanyo nāsti kaścidiha sattvaḥ /",
+          "translated_text": "Cause and effect indeed are all; there is no other being here in the world,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "śūnyebhya eva śūnyā dharmāḥ prabhavanti dharmebhyaḥ // Pshk_4 //"
+          "text": "śūnyebhya eva śūnyā dharmāḥ prabhavanti dharmebhyaḥ // Pshk_4 //",
+          "translated_text": "from emptiness alone do empty phenomena arise from phenomena."
         }
       ]
     },
@@ -116,12 +127,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "svādhyāyadīpamudrādarpaṇaghoṣa 'rkakāntabījāmlaiḥ /"
+          "text": "svādhyāyadīpamudrādarpaṇaghoṣa 'rkakāntabījāmlaiḥ /",
+          "translated_text": "With the lamp of self-study, the <s>mudrā</s> of the mirror's sound, using the seeds of the sun's radiance,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "skandhapratisandhirasaṅkramaśca vidvadbhiravadhāryau // Pshk_5 //"
+          "text": "skandhapratisandhirasaṅkramaśca vidvadbhiravadhāryau // Pshk_5 //",
+          "translated_text": "the conjunction and transition of the aggregates should be understood by the wise."
         }
       ]
     },
@@ -132,12 +145,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ya ucchedaṃ prakalpayatyatisūkṣme 'pi vastuni /"
+          "text": "ya ucchedaṃ prakalpayatyatisūkṣme 'pi vastuni /",
+          "translated_text": "He who imagines annihilation even in the subtlest of entities,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pratītyasambhavasyārthamavijñaḥ sa na paśyati // Pshk_6 //"
+          "text": "pratītyasambhavasyārthamavijñaḥ sa na paśyati // Pshk_6 //",
+          "translated_text": "does not see the meaning of dependent origination, being ignorant."
         }
       ]
     },
@@ -148,19 +163,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "nāpaneyamataḥ kiñcit prakṣepyaṃ nāpi kiñcana /"
+          "text": "nāpaneyamataḥ kiñcit prakṣepyaṃ nāpi kiñcana /",
+          "translated_text": "Nothing is to be removed from this, nor is anything to be added,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "draṣṭavyaṃ bhūtato bhūtaṃ bhūtadarśī vimucyate // Pshk_7 //"
+          "text": "draṣṭavyaṃ bhūtato bhūtaṃ bhūtadarśī vimucyate // Pshk_7 //",
+          "translated_text": "one should see the real as it is; the seer of reality is liberated."
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "pratītyasamutpādahṛdayakārikā ācārya nāgārjunakṛtā samāptā /"
+      "text": "pratītyasamutpādahṛdayakārikā ācārya nāgārjunakṛtā samāptā /",
+      "translated_text": "The <s>Pratītyasamutpādahṛdayakārikā</s> composed by <s>Nāgārjuna</s> is completed."
     }
   ]
 }

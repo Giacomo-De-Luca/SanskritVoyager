@@ -28,7 +28,8 @@
     "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
     "license": {
       "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
-      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "translated_text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
     },
     "publication_date": "2020-07-31",
     "source": "Ramamaya Tarkaratna In: The Atharvana-Upanishads. Calcutta: Ganesha Press, 1872 (Bibliotheca Indica ; 76)"
@@ -41,17 +42,20 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "oṃ"
+          "text": "oṃ",
+          "translated_text": "Om"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "mano hi dvividhaṃ proktaṃ śuddhaṃ cāśuddham eva ca /"
+          "text": "mano hi dvividhaṃ proktaṃ śuddhaṃ cāśuddham eva ca /",
+          "translated_text": "The mind is indeed said to be of two kinds, pure and impure,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "aśuddhaṃ kāmasaṃkalpaṃ śuddhaṃ kāmavivarjitam // BrbUp_1 //"
+          "text": "aśuddhaṃ kāmasaṃkalpaṃ śuddhaṃ kāmavivarjitam // BrbUp_1 //",
+          "translated_text": "the impure is filled with desire, the pure is devoid of desire."
         }
       ]
     },
@@ -62,12 +66,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "mana eva manuṣyāṇāṃ kāraṇaṃ bandhamokṣayoḥ /"
+          "text": "mana eva manuṣyāṇāṃ kāraṇaṃ bandhamokṣayoḥ /",
+          "translated_text": "The mind alone is the cause for bondage and liberation of men,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bandhāya viṣayāsaktaṃ muktyai nirviṣayaṃ smṛtam // BrbUp_2 //"
+          "text": "bandhāya viṣayāsaktaṃ muktyai nirviṣayaṃ smṛtam // BrbUp_2 //",
+          "translated_text": "attachment to objects is for bondage, non-attachment is considered for liberation."
         }
       ]
     },
@@ -78,12 +84,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yato nirviṣayasyāsya manaso muktir iṣyate /"
+          "text": "yato nirviṣayasyāsya manaso muktir iṣyate /",
+          "translated_text": "Since liberation of this mind is desired when it is devoid of objects,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tasmān nirviṣayaṃ nityaṃ manaḥ kāryaṃ mumukṣuṇā // BrbUp_3 //"
+          "text": "tasmān nirviṣayaṃ nityaṃ manaḥ kāryaṃ mumukṣuṇā // BrbUp_3 //",
+          "translated_text": "therefore, the mind should always be made free of objects by the seeker of liberation."
         }
       ]
     },
@@ -94,12 +102,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "nirastaviṣayāsaṅgaṃ saṃniruddhaṃ mano hṛdi /"
+          "text": "nirastaviṣayāsaṅgaṃ saṃniruddhaṃ mano hṛdi /",
+          "translated_text": "When the mind, devoid of attachment to objects, is restrained in the heart,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yadā yāty unmanībhāvaṃ tadā tat paramamadam // BrbUp_4 //"
+          "text": "yadā yāty unmanībhāvaṃ tadā tat paramamadam // BrbUp_4 //",
+          "translated_text": "then it attains the state of <s>Unmani</s>, which is the supreme bliss."
         }
       ]
     },
@@ -110,12 +120,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tāvad eva niroddhavyaṃ yāvaddhṛdi gataṃ kṣayam /"
+          "text": "tāvad eva niroddhavyaṃ yāvaddhṛdi gataṃ kṣayam /",
+          "translated_text": "It should be restrained until it reaches dissolution in the heart,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "etaj jñānaṃ ca mokṣaṃ ca ato 'nyo granthavistaraḥ // BrbUp_5 //"
+          "text": "etaj jñānaṃ ca mokṣaṃ ca ato 'nyo granthavistaraḥ // BrbUp_5 //",
+          "translated_text": "this is knowledge and liberation; all else is an extension of texts."
         }
       ]
     },
@@ -126,12 +138,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "naiva cintyaṃ na cācintyam acintyaṃ cintyam eva ca /"
+          "text": "naiva cintyaṃ na cācintyam acintyaṃ cintyam eva ca /",
+          "translated_text": "It is neither to be thought of nor not thought of; it is indeed beyond thought and thought itself,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pakṣapātavinirmuktaṃ brahma sampadyate tadā // BrbUp_6 //"
+          "text": "pakṣapātavinirmuktaṃ brahma sampadyate tadā // BrbUp_6 //",
+          "translated_text": "free from biases, one attains <s>Brahman</s> then."
         }
       ]
     },
@@ -142,12 +156,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "svareṇa saṃdhayed yogam asvaraṃ bhāvayet param /"
+          "text": "svareṇa saṃdhayed yogam asvaraṃ bhāvayet param /",
+          "translated_text": "One should unite with <s>Yoga</s> through sound, meditate on the ultimate without sound,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "asvareṇa hi bhāvena bhāvo nābhāva iṣyate // BrbUp_7 //"
+          "text": "asvareṇa hi bhāvena bhāvo nābhāva iṣyate // BrbUp_7 //",
+          "translated_text": "for by the state without sound, existence is not non-existence."
         }
       ]
     },
@@ -158,12 +174,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tad eva niṣkalaṃ brahma nirvikalpaṃ nirañjanam /"
+          "text": "tad eva niṣkalaṃ brahma nirvikalpaṃ nirañjanam /",
+          "translated_text": "That alone is the undivided <s>Brahman</s>, without alternatives, stainless,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tad brahmāham iti jñātvā brahma sampadyate dhruvam // BrbUp_8 //"
+          "text": "tad brahmāham iti jñātvā brahma sampadyate dhruvam // BrbUp_8 //",
+          "translated_text": "knowing 'I am that <s>Brahman</s>', one certainly becomes <s>Brahman</s>."
         }
       ]
     },
@@ -174,12 +192,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "nirvikalpam anantaṃ ca hetudṛṣṭāntavarjitam /"
+          "text": "nirvikalpam anantaṃ ca hetudṛṣṭāntavarjitam /",
+          "translated_text": "Without alternatives, infinite, devoid of cause and example,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "aprameyam anādyaṃ ca jñātvā ca paramaṃ śivam // BrbUp_9 //"
+          "text": "aprameyam anādyaṃ ca jñātvā ca paramaṃ śivam // BrbUp_9 //",
+          "translated_text": "knowing the immeasurable, beginningless and supreme <s>Śiva</s>."
         }
       ]
     },
@@ -190,12 +210,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "na nirodho na cotpattir na vandyo na ca śāsanam /"
+          "text": "na nirodho na cotpattir na vandyo na ca śāsanam /",
+          "translated_text": "There is no cessation, no origination, no one to worship, no governance,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "na mumukṣā na muktiś ca ity eṣā paramārthatā // BrbUp_10 //"
+          "text": "na mumukṣā na muktiś ca ity eṣā paramārthatā // BrbUp_10 //",
+          "translated_text": "no desire for liberation, no liberation, this is the ultimate truth."
         }
       ]
     },
@@ -206,12 +228,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "eka evātmā mantavyo jāgratsvapnasuṣuptiṣu /"
+          "text": "eka evātmā mantavyo jāgratsvapnasuṣuptiṣu /",
+          "translated_text": "The one <s>Ātman</s> should be contemplated in waking, dreaming, and deep sleep,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sthānatrayād vyatītasya punarjanma na vidyate // BrbUp_11 //"
+          "text": "sthānatrayād vyatītasya punarjanma na vidyate // BrbUp_11 //",
+          "translated_text": "for one who transcends the three states, there is no rebirth."
         }
       ]
     },
@@ -222,12 +246,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "eka eva hi bhūtātmā bhūte bhūte vyavasthitaḥ /"
+          "text": "eka eva hi bhūtātmā bhūte bhūte vyavasthitaḥ /",
+          "translated_text": "The one <s>Ātman</s> indeed resides in each being,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ekadhā bahudhā caiva dṛśyate jalacandravat // BrbUp_12 //"
+          "text": "ekadhā bahudhā caiva dṛśyate jalacandravat // BrbUp_12 //",
+          "translated_text": "seen as one and many, like the moon reflected in water."
         }
       ]
     },
@@ -238,12 +264,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ghaṭasaṃbhṛtam ākāśaṃ līyamāne ghaṭe yathā /"
+          "text": "ghaṭasaṃbhṛtam ākāśaṃ līyamāne ghaṭe yathā /",
+          "translated_text": "Just as the space within a pot merges when the pot is dissolved,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ghaṭo līyeta nākāśaṃ tadvaj jīvo ghaṭopamaḥ // BrbUp_13 //"
+          "text": "ghaṭo līyeta nākāśaṃ tadvaj jīvo ghaṭopamaḥ // BrbUp_13 //",
+          "translated_text": "the pot merges, not the space; similarly, the <s>Jīva</s> is like the pot."
         }
       ]
     },
@@ -254,12 +282,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ghaṭavad vividhākāraṃ bhidyamānaṃ punaḥ punaḥ /"
+          "text": "ghaṭavad vividhākāraṃ bhidyamānaṃ punaḥ punaḥ /",
+          "translated_text": "Like a pot with various forms, breaking again and again,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tadbhagnaṃ na ca jānāti sa jānāti ca nityaśaḥ // BrbUp_14 //"
+          "text": "tadbhagnaṃ na ca jānāti sa jānāti ca nityaśaḥ // BrbUp_14 //",
+          "translated_text": "it does not know its own destruction, yet it knows eternally."
         }
       ]
     },
@@ -270,12 +300,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "śabdamāyāvṛto yāvat tāvat tiṣṭhati puṣkare /"
+          "text": "śabdamāyāvṛto yāvat tāvat tiṣṭhati puṣkare /",
+          "translated_text": "Covered by the illusion of sound, it remains in the lotus,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhinne tamasi caikatvam ekam evānupaśyati // BrbUp_15 //"
+          "text": "bhinne tamasi caikatvam ekam evānupaśyati // BrbUp_15 //",
+          "translated_text": "when the darkness is pierced, it perceives the oneness alone."
         }
       ]
     },
@@ -286,12 +318,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "śabdākṣaraṃ paraṃ brahma yasmin kṣīṇe yad akṣaram /"
+          "text": "śabdākṣaraṃ paraṃ brahma yasmin kṣīṇe yad akṣaram /",
+          "translated_text": "The imperishable sound, the supreme <s>Brahman</s>, in which the imperishable resides,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tad vidvān akṣaraṃ dhyāyed yadīcchecchāntim ātmanaḥ // BrbUp_16 //"
+          "text": "tad vidvān akṣaraṃ dhyāyed yadīcchecchāntim ātmanaḥ // BrbUp_16 //",
+          "translated_text": "the wise one should meditate on the imperishable if he desires peace for the self."
         }
       ]
     },
@@ -302,12 +336,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "dve vidye veditavye tu śabdabrahma paraṃ ca yat /"
+          "text": "dve vidye veditavye tu śabdabrahma paraṃ ca yat /",
+          "translated_text": "Two knowledges are to be known, the <s>Śabda-Brahman</s> and that which is supreme,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "śabdabrahmaṇi niṣṇātaḥ paraṃ brahmādhigacchati // BrbUp_17 //"
+          "text": "śabdabrahmaṇi niṣṇātaḥ paraṃ brahmādhigacchati // BrbUp_17 //",
+          "translated_text": "one who is skilled in <s>Śabda-Brahman</s> attains the supreme <s>Brahman</s>."
         }
       ]
     },
@@ -318,12 +354,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "grantham abhyasya medhāvī jñānavijñānatattvataḥ /"
+          "text": "grantham abhyasya medhāvī jñānavijñānatattvataḥ /",
+          "translated_text": "The wise one, having studied the texts, in essence of knowledge and wisdom,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "palālam iva dhānyārthī tyajed grantham aśeṣataḥ // BrbUp_18 //"
+          "text": "palālam iva dhānyārthī tyajed grantham aśeṣataḥ // BrbUp_18 //",
+          "translated_text": "like a seeker of grain discards the husk, should completely abandon the texts."
         }
       ]
     },
@@ -334,12 +372,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "gavām anekavarṇānāṃ kṣīrasyāpy ekavarṇatā /"
+          "text": "gavām anekavarṇānāṃ kṣīrasyāpy ekavarṇatā /",
+          "translated_text": "Of cows of various colors, the milk has indeed one color,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kṣīravat paśyate jñānaṃ liṅginas tu gavāṃ yathā // BrbUp_19 //"
+          "text": "kṣīravat paśyate jñānaṃ liṅginas tu gavāṃ yathā // BrbUp_19 //",
+          "translated_text": "like milk, knowledge is seen in the embodied, just as with cows."
         }
       ]
     },
@@ -350,12 +390,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ghṛtam iva payasi nigūḍhaṃ bhūte bhūte ca vasati vijñānam /"
+          "text": "ghṛtam iva payasi nigūḍhaṃ bhūte bhūte ca vasati vijñānam /",
+          "translated_text": "Like ghee hidden in milk, knowledge resides in each being,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "satataṃ manthayitavyaṃ manasā manthānabhūtena // BrbUp_20 //"
+          "text": "satataṃ manthayitavyaṃ manasā manthānabhūtena // BrbUp_20 //",
+          "translated_text": "constantly churned by the mind, which is like the churning rod."
         }
       ]
     },
@@ -366,12 +408,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "jñānanetraṃ samādāya cared vahnim ataḥ param /"
+          "text": "jñānanetraṃ samādāya cared vahnim ataḥ param /",
+          "translated_text": "Taking the eye of knowledge, one should proceed beyond the fire,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "niṣkalaṃ nirmalaṃ śāntaṃ tad brahmāham iti smṛtam // BrbUp_21 //"
+          "text": "niṣkalaṃ nirmalaṃ śāntaṃ tad brahmāham iti smṛtam // BrbUp_21 //",
+          "translated_text": "the undivided, pure, peaceful, that is remembered as 'I am <s>Brahman</s>'."
         }
       ]
     },
@@ -382,12 +426,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sarvabhūtādhivāsaṃ ca yad bhūteṣu vasaty adhi /"
+          "text": "sarvabhūtādhivāsaṃ ca yad bhūteṣu vasaty adhi /",
+          "translated_text": "That which resides as the abode of all beings,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sarvānugrāhakatvena tad asmy ahaṃ vāsudeva // BrbUp_22 //"
+          "text": "sarvānugrāhakatvena tad asmy ahaṃ vāsudeva // BrbUp_22 //",
+          "translated_text": "by being the benefactor of all, I am that <s>Vāsudeva</s>."
         }
       ]
     }
