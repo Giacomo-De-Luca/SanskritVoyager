@@ -1,0 +1,14 @@
+.indicator {
+    box-shadow: none;  /* This removes the default shadow */
+    /* If you want to ensure no other shadow-related properties interfere */
+    border: 1px solid light-dark(var(--mantine-color-gray-4), var(--mantine-color-gray-6));  /* Adding a light gray border that matches Mantine's design system */
+
+    filter: none;
+    -webkit-box-shadow: none;
+  }
+
+.root {
+
+    background-color: light-dark(var(--mantine-color-lightscale-3), var(--mantine-color-dark-6));
+    
+}

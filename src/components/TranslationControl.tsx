@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { SegmentedControl } from '@mantine/core';
+import classes from './TranslationControl.module.css';
 
 interface TranslationControlProps {
     textType: string;
@@ -18,6 +19,10 @@ function TranslationControl({ textType, setTextType }: TranslationControlProps) 
         { label: 'Line by Line', value: 'both' },
         { label: 'Original Text', value: 'or' },
       ]}
+    classNames={{
+        indicator: classes.indicator,
+        root: classes.root,
+      }}
     />
   );
 }

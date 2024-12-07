@@ -345,6 +345,7 @@ export function HomePage() {
       
           <Button 
           className= {classes.readingButton}
+           // variant="outline"
           leftSection={<IconVocabularyOff size={14} />}
           onClick={() => setIsNavbarVisible(false)} 
           loaderProps={{ type: 'dots' }}

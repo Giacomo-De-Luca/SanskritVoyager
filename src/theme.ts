@@ -31,6 +31,21 @@ export const theme = createTheme({
       dark: 'pink',
       light: 'cyan',
     }),
+
+  lightscale: [
+
+          '#ffffff', // white
+          '#fefdfc', // 0: lightest
+          '#f8f8f7',
+          '#f5f4ee',
+          '#f3f3f0', // 4: your main color
+          '#f0eee5',
+          '#e2e0d3',
+          '#eeece2',
+          '#dd8c71',
+          '#c05f3b', // 9: darkest
+    ],
+      
   },
   
   headings: { fontFamily: 'LibertinusSans, sans serif' },
