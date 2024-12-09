@@ -414,7 +414,7 @@ export function HomePage() {
                       :
                     (isNavbarVisible ?    // desktop
                       (selectedWord !== "" ? '80px' : '250px') : // navbar
-                      (selectedWord !== "" ? '100px' : '350px')) // no navbar
+                      (selectedWord !== "" ? '100px' : '300px')) // no navbar
                   ),
             paddingRight: isMobile ? '0px' :
                   (isTablet ? 
@@ -423,7 +423,7 @@ export function HomePage() {
                       (selectedWord !== "" ? '60px' : '120px')) : // no navbar
                     (isNavbarVisible ?   // desktop
                       (selectedWord !== "" ? '80px' : '150px') : // navbar
-                      (selectedWord !== "" ? '100px' : '350px')) // no navbar
+                      (selectedWord !== "" ? '100px' : '300px')) // no navbar
                   ),
             transition: 'padding-left 0.3s ease',
             overflowY: 'auto',
@@ -579,8 +579,13 @@ export function HomePage() {
             className={`${classes.noScroll} ${classes.wordInfoFull}`}
             style={{
               width: '100%',  // Added explicit width
-              paddingLeft: isMobile ? '16px' : (isNavbarVisible ? '60px' : '120px'),
-              paddingRight: isMobile ? '16px' : (isNavbarVisible ? '40px' : '120px'),
+              paddingLeft: isMobile ? '16px' : 
+                            isTablet ? (isNavbarVisible ? '40px' : '120px') :   // tablet
+                            (isNavbarVisible ? '20vw' : '25vw'),       //desktop
+              paddingRight: isMobile ? '16px' : 
+                            isTablet ? (isNavbarVisible ? '40px' : '120px') :   // tablet
+                            (isNavbarVisible ? '16vw' : '25vw'),       //desktop
+            
               marginTop: '60px',
             }}
           >
