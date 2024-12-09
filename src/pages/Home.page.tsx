@@ -29,10 +29,11 @@ export function HomePage() {
 
   // input text into the textarea
   const [text, setText] = useState('');
+
+
   // output translitteration scheme
-  const [value, setValue] = useState<ComboboxItem | null>({ value: 'IAST', label: 'IAST' });  
-  // translitteration scheme
-  const [scheme, setScheme] = useState('IAST');  
+  const [scheme, setScheme] = useState<ComboboxItem>({ value: 'IAST', label: 'IAST' });  
+
   // transliterated text
   const [textTranslit, setTextTranslit] = useDebouncedState('', 100);
   // translated text
@@ -89,7 +90,7 @@ export function HomePage() {
 
   // transliterate the input text using the API 
   const handleTransliteration = async (inputText: string, newValue?: string) => {
-    const selectedValue = newValue || scheme;
+    const selectedValue = newValue || scheme.value;
     const transliteratedText = await transliterateText(inputText, selectedValue);
     setTextTranslit(transliteratedText);
   };
@@ -275,17 +276,14 @@ export function HomePage() {
           >
           <Select
             data={['IAST', 'DEVANAGARI', 'ITRANS', 'HK', 'SLP1', 'WX', 'Kolkata'].map((item) => ({ value: item, label: item }))}
-            value={value ? value.value : 'IAST'}
+            value={scheme.value}
             label="Select Transliteration Scheme"
             placeholder="Pick Transliteration Scheme, default is IAST"
-            onChange={(_value, option) => 
-              {
-                const tempscheme = value ? value.value : 'IAST';
-                setScheme(tempscheme);
-                setValue(option);
-
-                handleTransliteration(text, _value ?? undefined);
-              }}
+            onChange={(_value, option) => {
+              setScheme(option);
+              handleTransliteration(text, _value ?? undefined);
+            }
+              }
             style={{ width: '100%', 
                      paddingTop: isSmallMobile? '30px': '60px', }}
           />
