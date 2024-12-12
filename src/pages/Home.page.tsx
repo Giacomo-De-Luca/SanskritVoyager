@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { ActionToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle';
 import { Select, MultiSelect, Grid, Textarea, Button, Loader, Text, Stack, ActionIcon } from '@mantine/core';
 import { FileInput } from '@mantine/core';
-import {  ComboboxItem, Container, lighten, darken } from '@mantine/core';
+import {  ComboboxItem, Container, lighten, darken, ScrollArea } from '@mantine/core';
 import { useDisclosure, useDebouncedState, useMediaQuery } from '@mantine/hooks';
 import WordDataComponent from '@/components/WordDataComponent';
 import { fetchWordData, fetchMultidictData, transliterateText, handleTranslate } from './Api';
@@ -275,7 +275,7 @@ export function HomePage() {
           justify="flex-end"
           >
           <Select
-            data={['IAST', 'DEVANAGARI', 'ITRANS', 'HK', 'SLP1', 'WX', 'Kolkata'].map((item) => ({ value: item, label: item }))}
+            data={['IAST', 'DEVANAGARI', 'ITRANS', 'HK', 'SLP1', 'WX', 'Kolkata', 'Bengali', 'Tamil', 'Kannada'].map((item) => ({ value: item, label: item }))}
             value={scheme.value}
             label="Select Transliteration Scheme"
             placeholder="Pick Transliteration Scheme, default is IAST"
@@ -365,7 +365,11 @@ export function HomePage() {
       </div>
 
 
-      <div style={{ 
+      <div 
+      className='noScroll'
+      
+      
+      style={{ 
       flex: isNavbarVisible ? '1 1 80%' : '1 1 100%',
       paddingLeft: isMobile ? '16px' : undefined,
       paddingRight: isMobile ? '16px' : undefined
@@ -431,9 +435,12 @@ export function HomePage() {
             
           }}
         >
-      
-          <div
-            className={`${classes.noScroll} ${classes.textClickable}`}
+  
+
+
+          
+        <div
+            className={`${classes.scrollContainer} ${classes.textClickable}`}
             style={{
               overflowY: 'auto',
               overflowX: 'hidden', // Added to prevent horizontal scroll
@@ -455,6 +462,8 @@ export function HomePage() {
             }}
             
           > 
+
+          
             {textTranslit !== '' && (
               <ClickableWords
                 lines={lines}
@@ -495,38 +504,45 @@ export function HomePage() {
               textType = {textType}
 
             />
-          </div>
-          
-          {/* Update the translated text container */}
-          <div style={{ width: '100%' }}> {/* Added width constraint */}
-            {translatedText.length > 0 && translatedText.map((item, index) => (
-              <div key={index} style={{ width: '100%' }}> {/* Added width constraint */}
-                <p style={{ 
-                  color: 'darkgrey',
-                  width: '100%', // Added width constraint
-                  wordBreak: 'break-word' // Added to ensure words break
-                }}>
-                  {item.Sanskrit.split(/\s+|\+/).map((word, wordIndex) => {
-                    const trimmedWord = word.trim();
-                    return (
-                      <span
-                        key={wordIndex}
-                        onClick={() => setSelectedWord(trimmedWord)}
-                        style={{ 
-                          color: selectedWord === trimmedWord ? 'orange' : 'inherit',
-                          display: 'inline-block', // Added to help with word wrapping
-                          wordBreak: 'break-word' // Added to ensure words break
-                        }}
-                      >
-                        {word + ' '}
-                      </span>
-                    );
-                  })}
-                </p>
-                <p style={{ wordBreak: 'break-word' }}>{item.English}</p>
+
+                          {/* Update the translated text container */}
+              <div style={{ width: '100%' }}> {/* Added width constraint */}
+                {translatedText.length > 0 && translatedText.map((item, index) => (
+                  <div key={index} style={{ width: '100%' }}> {/* Added width constraint */}
+                    <p style={{ 
+                      color: 'darkgrey',
+                      width: '100%', // Added width constraint
+                      wordBreak: 'break-word' // Added to ensure words break
+                    }}>
+                      {item.Sanskrit.split(/\s+|\+/).map((word, wordIndex) => {
+                        const trimmedWord = word.trim();
+                        return (
+                          <span
+                            key={wordIndex}
+                            onClick={() => setSelectedWord(trimmedWord)}
+                            style={{ 
+                              color: selectedWord === trimmedWord ? 'orange' : 'inherit',
+                              display: 'inline-block', // Added to help with word wrapping
+                              wordBreak: 'break-word' // Added to ensure words break
+                            }}
+                          >
+                            {word + ' '}
+                          </span>
+                        );
+                      })}
+                    </p>
+                    <p style={{ wordBreak: 'break-word' }}>{item.English}</p>
+                  </div>
+                ))}
+                
               </div>
-            ))}
-          </div>
+
+
+                
+
+            </div>
+              
+
           </Grid.Col>
         ) : ("")
         }
@@ -534,7 +550,7 @@ export function HomePage() {
           selectedWord !== "" ? (
               <Grid.Col 
                 span={isMobile ? (isWordInfoVisible ? 12 : 0) : (isTablet && isNavbarVisible ? 12 : 6)}
-                className={`${classes.noScroll} ${classes.wordInfoHalf} ${classes.wordInfoTransition}`}
+                className={`${classes.scrollContainer} ${classes.wordInfoHalf} ${classes.wordInfoTransition}`}
                 style={{
                   marginTop: isMobile ? '20px' : '80px',
                   maxHeight: isMobile ? (selectedWord !== "" ? vhActualHalf: vhActual) :
@@ -574,7 +590,7 @@ export function HomePage() {
         ) : "") : (
           <Grid.Col 
             span={12}
-            className={`${classes.noScroll} ${classes.wordInfoFull}`}
+            className={`${classes.scrollContainer} ${classes.wordInfoFull}`}
             style={{
               width: '100%',  // Added explicit width
               paddingLeft: isMobile ? '16px' : 
@@ -594,7 +610,9 @@ export function HomePage() {
         
 
       </div>
-      <div style={{ flex: isMobile ? '0 0 6%' : '0 0 8%' }}> 
+      <div 
+        className={classes.noScroll}
+        style={{ flex: isMobile ? '0 0 6%' : '0 0 8%' }}> 
         </div>
     </div>
     </>

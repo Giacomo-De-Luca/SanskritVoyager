@@ -128,3 +128,52 @@
 .wordInfoTransition {
   transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
+
+
+
+.scrollContainer {
+  /* Enable smooth scrolling */
+  scroll-behavior: smooth;
+  
+  /* Base styles */
+  height: 100%;
+  width: 100%;
+  overflow-y: auto;
+  
+  /* Firefox scrollbar style */
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  
+  /* Transition for showing/hiding scrollbar */
+  transition: scrollbar-color 0.3s ease;
+}
+
+/* Hover state for Firefox */
+.scrollContainer:hover {
+  scrollbar-color: light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-4)) transparent;
+}
+
+/* WebKit (Chrome, Safari, newer Edge) scrollbar styles */
+.scrollContainer::-webkit-scrollbar {
+  width: 8px;
+}
+
+.scrollContainer::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scrollContainer::-webkit-scrollbar-thumb {
+  background-color: transparent;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+/* Show scrollbar on hover */
+.scrollContainer:hover::-webkit-scrollbar-thumb {
+  background-color: light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-4));
+}
+
+/* Darker color when hovering directly over the scrollbar */
+.scrollContainer:hover::-webkit-scrollbar-thumb:hover {
+  background-color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-dark-3));
+}
