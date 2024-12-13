@@ -235,7 +235,7 @@ export function HomePage() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`/resources/books/${bookTitle}.json`);
+        const response = await fetch(`/public/resources/books/${bookTitle}.json`);
         if (!response.ok) {
           throw new Error(`Failed to fetch: ${response.status}`);
         }
@@ -394,10 +394,14 @@ export function HomePage() {
       >
         {text !== '' || bookTitle !== null ? (
         <Grid.Col 
-          span={isMobile ? 12 : isTablet && isNavbarVisible ? 12 : (selectedWord !== "" ? 6 : 12)}
+          span={
+            isMobile ? 12 : 
+            isTablet && isNavbarVisible ? 12 : 
+            (selectedWord !== "" ? 6 : 12)
+          }
           className={`${classes.noScroll} ${classes.textDisplay}`}
           style={{
-            marginTop: isMobile ? '20px' : '100px',
+            paddingTop: isMobile ? '20px' : '100px', // necessary?
             maxHeight: isMobile ? 
             (selectedWord !== "" ? 
               (isWordInfoVisible ? vhActualHalf : vhActual) 
@@ -435,10 +439,7 @@ export function HomePage() {
             
           }}
         >
-  
-
-
-          
+            
         <div
             className={`${classes.scrollContainer} ${classes.textClickable}`}
             style={{
@@ -552,7 +553,7 @@ export function HomePage() {
                 span={isMobile ? (isWordInfoVisible ? 12 : 0) : (isTablet && isNavbarVisible ? 12 : 6)}
                 className={`${classes.scrollContainer} ${classes.wordInfoHalf} ${classes.wordInfoTransition}`}
                 style={{
-                  marginTop: isMobile ? '20px' : '80px',
+                  paddingTop: isMobile ? '20px' : '80px', // ?
                   maxHeight: isMobile ? (selectedWord !== "" ? vhActualHalf: vhActual) :
                   isTablet && isNavbarVisible ? (selectedWord !== "" ? vhActualHalf: vhActual):
                   vhActual,          
@@ -600,7 +601,7 @@ export function HomePage() {
                             isTablet ? (isNavbarVisible ? '40px' : '120px') :   // tablet
                             (isNavbarVisible ? '16vw' : '25vw'),       //desktop
             
-              marginTop: '60px',
+              paddingTop: '60px', // necessary? 
             }}
           >
             <WordDataComponent wordData={wordData} setWordData={setWordData} selectedDictionaries={selectedDictionaries} isMobile={isMobile} />
