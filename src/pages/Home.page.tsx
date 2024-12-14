@@ -8,7 +8,7 @@ import WordDataComponent from '@/components/WordDataComponent';
 import { fetchWordData, fetchMultidictData, transliterateText, handleTranslate } from './Api';
 import { HeaderSearch } from '@/components/HeaderSearch';
 import { NavbarSimple } from '@/components/NavbarSimple';
-import { IconVocabularyOff, IconChevronUp, IconChevronDown } from '@tabler/icons-react';
+import { IconVocabularyOff, IconChevronUp, IconChevronDown, IconChevronsRight, IconChevronRight } from '@tabler/icons-react';
 import { IconClipboardCheck, IconCopy, IconClipboard} from '@tabler/icons-react';
 import classes from './HomePage.module.css';
 import { UiSwitch } from '@/components/HeaderSearch';
@@ -105,7 +105,8 @@ export function HomePage() {
 
   const shouldUseColumn = isMobile || (isTablet && isNavbarVisible);
 
-  const vhActual = `calc(100vh - 56px)`;
+  // const vhActual = `calc(100vh - 56px)`;
+  const vhActual = '100vh';
   const vhActualHalf = `calc((100vh - 56px)/2)`; // Correct
 
   // here starts what should be a separate component
@@ -397,39 +398,39 @@ export function HomePage() {
           span={
             isMobile ? 12 : 
             isTablet && isNavbarVisible ? 12 : 
-            (selectedWord !== "" ? 6 : 12)
+            (isWordInfoVisible ? 6 : 12)
           }
           className={`${classes.noScroll} ${classes.textDisplay}`}
           style={{
             paddingTop: isMobile ? '20px' : '100px', // necessary?
             maxHeight: isMobile ? 
-            (selectedWord !== "" ? 
+            (isWordInfoVisible ? 
               (isWordInfoVisible ? vhActualHalf : vhActual) 
               : vhActual
             ) :
             isTablet && isNavbarVisible ? 
-              (selectedWord !== "" ? vhActualHalf : vhActual) 
+              (isWordInfoVisible ? vhActualHalf : vhActual) 
               : vhActual,
             width: isMobile ? '100%' : '50%',  // Changed to percentage
             paddingLeft: 
             isMobile ? '0px' : //mobile
                   (isTablet ?       // tablet
                     (isNavbarVisible ? 
-                      (selectedWord !== "" ? '40px' : '60px') : //navbar
-                      (selectedWord !== "" ? '0px' : '120px')) // no navbar
+                      (isWordInfoVisible ? '40px' : '60px') : //navbar
+                      (isWordInfoVisible ? '0px' : '120px')) // no navbar
                       :
                     (isNavbarVisible ?    // desktop
-                      (selectedWord !== "" ? '80px' : '250px') : // navbar
-                      (selectedWord !== "" ? '100px' : '300px')) // no navbar
+                      (isWordInfoVisible ? '80px' : '250px') : // navbar
+                      (isWordInfoVisible ? '100px' : '300px')) // no navbar
                   ),
             paddingRight: isMobile ? '0px' :
                   (isTablet ? 
                     (isNavbarVisible ?  // tablet
-                      (selectedWord !== "" ? '40px' : '30px') :  // navbar
-                      (selectedWord !== "" ? '60px' : '120px')) : // no navbar
+                      (isWordInfoVisible ? '40px' : '30px') :  // navbar
+                      (isWordInfoVisible ? '60px' : '120px')) : // no navbar
                     (isNavbarVisible ?   // desktop
-                      (selectedWord !== "" ? '80px' : '150px') : // navbar
-                      (selectedWord !== "" ? '100px' : '300px')) // no navbar
+                      (isWordInfoVisible ? '80px' : '150px') : // navbar
+                      (isWordInfoVisible ? '100px' : '300px')) // no navbar
                   ),
             transition: 'padding-left 0.3s ease',
             overflowY: 'auto',
@@ -454,7 +455,7 @@ export function HomePage() {
               paddingTop: isMobile ? '50px' : '0px',  // Added to ensure padding
               maxHeight: isMobile 
                 ? (isTextEmpty ? '0vh' : 
-                    (selectedWord !== "" ? 
+                    (isWordInfoVisible ? 
                       (isWordInfoVisible ? vhActualHalf : vhActual) 
                       : vhActual
                     )
@@ -548,37 +549,44 @@ export function HomePage() {
         ) : ("")
         }
         {text !== '' || bookTitle !== null ? (
-          selectedWord !== "" ? (
+          isWordInfoVisible ? (
+            
               <Grid.Col 
-                span={isMobile ? (isWordInfoVisible ? 12 : 0) : (isTablet && isNavbarVisible ? 12 : 6)}
+                span={isMobile ? (isWordInfoVisible ? 12 : 0) : (isTablet && isNavbarVisible ? (isWordInfoVisible ? 12 : 0) : (isWordInfoVisible ? 6 : 0))}
                 className={`${classes.scrollContainer} ${classes.wordInfoHalf} ${classes.wordInfoTransition}`}
                 style={{
                   paddingTop: isMobile ? '20px' : '80px', // ?
-                  maxHeight: isMobile ? (selectedWord !== "" ? vhActualHalf: vhActual) :
-                  isTablet && isNavbarVisible ? (selectedWord !== "" ? vhActualHalf: vhActual):
+                  maxHeight: isMobile ? (isWordInfoVisible ? vhActualHalf: vhActual) :
+                  isTablet && isNavbarVisible ? (isWordInfoVisible ? vhActualHalf: vhActual):
                   vhActual,          
                   width: isMobile ? (isWordInfoVisible ? '100%' : '0%') : '50%',
-                  paddingLeft: isMobile ? '0' : (isNavbarVisible ? '50px' : '0px'),
-                  paddingRight: isMobile ? '0' : (isNavbarVisible ? '80px' : (isTablet ?'40px': '160px')),
+
                   overflowY: 'auto',
                   position: 'relative',
-                  opacity: isMobile && !isWordInfoVisible ? 0 : 1,
-                  visibility: isMobile && !isWordInfoVisible ? 'hidden' : 'visible',
+                  opacity: !isWordInfoVisible ? 0 : 1,
+                  visibility: !isWordInfoVisible ? 'hidden' : 'visible',
                   transition: 'all 0.3s ease',
 
                   
                 }}
               >
-                {isMobile && (
+                {(
                   <ActionIcon
                       className={classes.chevronButton}
                       onClick={() => setIsWordInfoVisible(!isWordInfoVisible)}
                       data-rotated={!isWordInfoVisible}
                       aria-label={isWordInfoVisible ? "Collapse word info" : "Expand word info"}
                       variant="transparent"
-                      size="lg"
+                      size="md"
+                      style={{
+                        right: isMobile? '4px': '-0px', // Adjust this value to position within the margin
+                        top: isMobile? 0 : '20px', // Adjust the top position as needed
+                      }}
+                      
                     >
-                      <IconChevronDown size={20} stroke={1.5}  />
+                      { isMobile ? (<IconChevronDown size={20} stroke={1.5}  />): 
+                        (<IconChevronRight size={20} stroke={1.5} />)}
+
                 </ActionIcon>
                 )}
                 <WordDataComponent 
