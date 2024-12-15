@@ -177,10 +177,10 @@
 
 /* Show scrollbar on hover */
 .scrollContainer:hover::-webkit-scrollbar-thumb {
-  background-color: light-dark(var(--mantine-color-gray-4), var(--mantine-color-gray-5));
+  background-color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-gray-5));
 }
 
 /* Darker color when hovering directly over the scrollbar */
 .scrollContainer:hover::-webkit-scrollbar-thumb:hover {
-  background-color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-3));
+  background-color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-gray-3));
 }
