@@ -26,9 +26,6 @@ import  WordInfo  from './WordInfo';
 import { safeSplitText } from './textUtils';
 
 
-
-
-
 interface ClickableSimpleBooksProps {
   bookText: BookText;
   selectedWord: string;
@@ -60,17 +57,19 @@ const ClickableSimpleBooks = ({
   setHoveredWord,
 }: ClickableSimpleBooksProps) => {
   const [isLoadingDebug, setIsLoadingDebug] = useState(false);
-
-
   const clickedWordInfoRef = useRef<HTMLDivElement>(null);
+  const [clickedElement, setClickedElement] = useState<HTMLElement | null>(null);
+
+
+  // scroll into view animation for clicked word
   useEffect(() => {
-    if (!isLoadingDebug && wordData.length > 0 && clickedWord && clickedWordInfoRef.current) {
-      clickedWordInfoRef.current.scrollIntoView({ 
+    if (!isLoadingDebug && wordData.length > 0 && clickedElement) {
+      clickedElement.scrollIntoView({ 
         behavior: 'smooth',
         block: 'center'
       });
     }
-  }, [isLoadingDebug, wordData, clickedWord]);
+  }, [isLoadingDebug, wordData, clickedElement]);
 
 
   const renderTextElement = (element: TextElement): React.ReactNode => {
@@ -94,20 +93,20 @@ const ClickableSimpleBooks = ({
 
       // Only apply transformations to non-translated text
       const transformedText = isTranslation 
-        ? text 
+        ? text          // not sure if this is correct 
         : text
             .replace(/([A-Za-z]+)_(\d+\.\d+)\s/g, '$2 ') // Modified to use numbered groups
             .replace(/([A-Za-z]+)_(\d+)/g, '$2 ')
             .replace(/\//g, '|')
             .replace(/\.(?!\d)/g, '|')
-            .replace(/\*/g, '');
+            .replace(/\*/g, '');    // if line stars with * it should be giving : commentary class 
     
-      const segments = safeSplitText(transformedText);
+      const segments = safeSplitText(transformedText);      // split text in segment using pipes | and double pipes as guideline 
     
       return segments.map((segment, segmentIndex) => {
         if (isTranslation) {                                     // make translation <s> words clickable
           const parts = segment.split(/(<s>.*?<\/s>)/);         //makes the Sanskrit words clickable
-          const containsClickedWord = parts.some(part => {
+          const containsClickedWord = parts.some(part => {        // this line is broken, it makes a re-render every time a word is clicked
             if (part.startsWith('<s>') && part.endsWith('</s>')) {
               const word = part.replace(/<\/?s>/g, '').trim();
               return word === clickedWord;
@@ -115,32 +114,34 @@ const ClickableSimpleBooks = ({
             return false;
           });
     
-          return (
-            <span key={segmentIndex} className={classes.textSegment}>
+          return ( 
+            <span key={segmentIndex} className={classes.textSegment}>           
               <span className={classes.textContent}>
-                {parts.map((part, partIndex) => {             //duplicate
+                {parts.map((part, partIndex) => {             // map through the parts of the segment, match <s> tags and make them clickable
                   if (part.startsWith('<s>') && part.endsWith('</s>')) {
                     const sanskritWord = part.replace(/<\/?s>/g, '').trim();
                     return (
                       <span
                         key={`${segmentIndex}-${partIndex}`}
-                        onClick={async () => {
+                        onClick={async (e) => {
+                          
+                          setClickedElement(e.currentTarget);
                           setSelectedWord(sanskritWord.toLowerCase());
                           setClickedWord(sanskritWord);
-                          setIsLoadingDebug(true);
-                          try {
-                            const data = await fetchMultidictData(sanskritWord, selectedDictionaries);
-                            setWordData(data);
+                          setIsLoadingDebug(true);   // here it should be using this element as ref  clickedWordInfoRef.current
+                          try {   //fetch data from the API
+                            const data = await fetchMultidictData(sanskritWord, selectedDictionaries);  
+                            setWordData(data);   
                           } finally {
-                            setIsLoadingDebug(false);
+                            setIsLoadingDebug(false);  // stop the loader animation
                           }
                         }}
-                        onMouseEnter={() => setHoveredWord(sanskritWord)}
+                        onMouseEnter={() => setHoveredWord(sanskritWord)}    // should be replaced by css classes on hover
                         onMouseLeave={() => setHoveredWord(null)}
                         className={`
                           ${classes.word}
                           ${classes.sanskritWord}
-                          ${selectedWord === sanskritWord ? classes.selectedWord : ''}
+                          ${selectedWord === sanskritWord ? classes.selectedWord : ''}   
                           ${hoveredWord === sanskritWord ? classes.hoveredWord : ''}
                         `}
                       >
@@ -148,15 +149,15 @@ const ClickableSimpleBooks = ({
                       </span>
                     );
                   }
-                  return <span key={`${segmentIndex}-${partIndex}`}>{part}</span>;
+                  return <span key={`${segmentIndex}-${partIndex}`}>{part}</span>; // when the part is not a Sanskrit word
                 })}
-                {segmentIndex < segments.length - 1 && (
+                {segmentIndex < segments.length - 1 && (   // add a pipe at the end of the segment to mark end of sentence
                   <span className={classes.pipeMark}>|</span>
-                )}
-              </span>
-              {segmentIndex < segments.length - 1 && <br />}
-              {containsClickedWord && (
-                <div ref={clickedWordInfoRef} className={classes.wordInfo}>
+                )}   
+              </span> 
+              {segmentIndex < segments.length - 1 && <br />}   
+              {containsClickedWord && (   // add a line break at the end of the segment (if it's not the last segment) // if the segment contains the clicked word, render the word info
+                <div ref={clickedWordInfoRef} className={classes.wordInfo}>  
                    <WordInfo
                     wordData={wordData}
                     onAdditionalWordClick={setClickedAdditionalWord}
@@ -167,7 +168,7 @@ const ClickableSimpleBooks = ({
             </span>
           );
         } else {            // if it's not a translation but a text node
-          const words = segment.split(/\s+|\+/);
+          const words = segment.split(/\s+|\+/);    // just split on spaces 
           const containsClickedWord = words.some(word => word.trim() === clickedWord);    // this line is broken
     
           return (
@@ -178,9 +179,11 @@ const ClickableSimpleBooks = ({
                   if (!trimmedWord) return null;
                   
                   return (
-                    <span
+                    <span   // this should be a separate component
                       key={`${segmentIndex}-${wordIndex}`}
-                      onClick={async () => {
+                      onClick={async (e) => {
+
+                        setClickedElement(e.currentTarget);
                         setSelectedWord(trimmedWord);
                         setClickedWord(trimmedWord);
                         setIsLoadingDebug(true);
@@ -221,7 +224,7 @@ const ClickableSimpleBooks = ({
           );
         }
       });
-    };
+    }; // here ends render words, which should be a separate component
   
     return (
       <div className={elementClasses}>
