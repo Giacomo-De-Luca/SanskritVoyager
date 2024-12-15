@@ -60,7 +60,7 @@ export function HomePage() {
     [key: string]: WordEntry[];
   };
   
-  const [isWordInfoVisible, setIsWordInfoVisible] = useState(true);
+  const [isWordInfoVisible, setIsWordInfoVisible] = useState(false);
 
 
 
@@ -393,12 +393,12 @@ export function HomePage() {
           paddingLeft: isMobile ? '0' : (isTablet ? '0' : (isNavbarVisible ? '0px' : '0px')),          
         }}
       >
-        {text !== '' || bookTitle !== null ? (
+        {text !== '' || bookTitle !== null ? (   // book and translit text grid
         <Grid.Col 
           span={
             isMobile ? 12 : 
             isTablet && isNavbarVisible ? 12 : 
-            (isWordInfoVisible ? 6 : 12)
+            (selectedWord !== "" && isWordInfoVisible ? 6 : 12)
           }
           className={`${classes.noScroll} ${classes.textDisplay}`}
           style={{
@@ -420,7 +420,7 @@ export function HomePage() {
                       (isWordInfoVisible ? '0px' : '120px')) // no navbar
                       :
                     (isNavbarVisible ?    // desktop
-                      (isWordInfoVisible ? '80px' : '250px') : // navbar
+                      (isWordInfoVisible ? '80px' : '200px') : // navbar
                       (isWordInfoVisible ? '100px' : '300px')) // no navbar
                   ),
             paddingRight: isMobile ? '0px' :
@@ -549,7 +549,7 @@ export function HomePage() {
         ) : ("")
         }
         {text !== '' || bookTitle !== null ? (
-          isWordInfoVisible ? (
+          selectedWord !== "" && isWordInfoVisible ? (
             
               <Grid.Col 
                 span={isMobile ? (isWordInfoVisible ? 12 : 0) : (isTablet && isNavbarVisible ? (isWordInfoVisible ? 12 : 0) : (isWordInfoVisible ? 6 : 0))}

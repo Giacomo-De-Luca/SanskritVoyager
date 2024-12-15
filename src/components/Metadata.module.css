@@ -1,0 +1,60 @@
+
+
+  .bookTitle {
+
+    font-family: 'LibertinusSans', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    scroll-margin-top: 60px;
+    
+  }
+
+
+  .bookTitle {
+    margin-bottom: 0.5rem;
+    font-size: 2rem;
+    line-height: 1.2;
+  }
+  
+
+  .accordionTitle .mantine-Accordion-controlTitle {
+    color: light-dark(var(--mantine-color-grey-3), var(--mantine-color-grey-5));
+  }
+
+
+
+  .authorLine {
+    font-family: 'LibertinusSans', sans-serif;
+    font-size: 1.125rem;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    text-indent: 10%; /* Indent the first line by 10% of the containing block's width 
+    border-bottom: 1px solid light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-7));*/
+    padding-bottom: 1.5rem;
+    
+
+
+  }
+  
+  .metadataAccordion {
+    margin-bottom: 2rem;
+  }
+  
+  .metadataItem {
+    margin-bottom: 0.75rem;
+  }
+  
+  .contributorsList {
+    margin-top: 0.5rem;
+    padding-left: 1rem;
+  }
+  
+  .contributorItem {
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+  }

@@ -6,12 +6,28 @@
   /* Media query for small viewports */
   @media (max-width: 700px) {
     height: 100vh; /* 100% of the viewport height */
+    flex-direction: column;
+
   }
   width: rem(350px);
 
   @media (max-width: 700px) {
     width: 100vw; /* 100% of the viewport width */
+    flex-direction: column !important;
+    /* Handle orientation changes */
+   
+  
+    
+ 
   }
+  
+  @media (max-width: 1000px) {
+    @media (orientation: landscape) {
+      /* Ensure the navbar still fits in landscape mode */
+      overflow-y: auto; /* Allow scrolling if content doesn't fit */
+    }
+  }
+
   padding: var(--mantine-spacing-md);
   display: flex;
   flex-direction: column;
@@ -19,7 +35,10 @@
   position: fixed;
   /* z-index: 500;  */
   background-color: var(--mantine-color-body); 
+  
+   
 }
+
 
 .navbarMain {
   flex: 1;

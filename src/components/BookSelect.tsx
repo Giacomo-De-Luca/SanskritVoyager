@@ -1,71 +1,101 @@
 import React, { useState, useEffect } from 'react';
-import { Select, ComboboxItem, OptionsFilter } from '@mantine/core'; // Ensure you import Select from your UI library
+import { Select, ComboboxItem, OptionsFilter } from '@mantine/core';
 
 interface BookSelectProps {
-    setBookTitle: (value: string | null) => void;
-    bookTitle: string | null;
+  setBookTitle: (value: string | null) => void;
+  bookTitle: string | null;
 }
 
+// BookTitle interface defines the structure of our processed book data
+interface BookTitle {
+  // Value is stored in normalized form (no diacritics, spaces instead of underscores)
+  value: string;    
+  // Label is the human-readable form with proper capitalization
+  label: string;    
+  // Original filename as it exists in the system
+  original: string; 
+}
+
+// Utility function to properly capitalize words in a title
 function capitalizeWords(string: string) {
   return string.split(' ').map(word =>
     word.charAt(0).toUpperCase() + word.slice(1)
-  ).join(' ')
+  ).join(' ');
 }
 
-const removeDiacritics = (str: string | null) => {
-  if (str === null) {
-    return '';
-  }
+// Utility function to remove diacritical marks from text
+function removeDiacritics(str: string | null) {
+  if (str === null) return '';
   return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-};
-
-const optionsFilter: OptionsFilter = ({ options, search }) => {
-  const normalizedSearch = removeDiacritics(search.toLowerCase().trim());
-  return (options as ComboboxItem[]).filter((option) => {
-    const normalizedValue = removeDiacritics(option.value.toLowerCase().trim());
-    return normalizedValue.includes(normalizedSearch);
-  });
-};
+}
 
 function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
-  const [bookTitlesList, setBookTitlesList] = useState<{ value: string; label: string; original: string }[]>([]);
+  // Store the processed book titles
+  const [bookTitlesList, setBookTitlesList] = useState<BookTitle[]>([]);
+  // Track the currently selected value
   const [selectedValue, setSelectedValue] = useState<string | null>(null);
 
+  // Simplified filter function that works with pre-normalized values
+  const normalisedFilter: OptionsFilter = ({ options, search }) => {
+    const normalizedSearch = removeDiacritics(search.toLowerCase().trim());
+    
+    return options.filter((option): option is ComboboxItem => {
+      // First check if this is a group
+      if ('group' in option) {
+        return false; // We don't handle groups in our case
+      }
+      
+      // Now TypeScript knows this is a ComboboxItem with a value
+      return typeof option.value === 'string' && 
+        option.value.toLowerCase().includes(normalizedSearch);
+    });
+  };
+
+  // Load and process book titles when component mounts
   useEffect(() => {
-    // Fetch titles from titles.json
-    fetch('/resources/books/titles.json') // Adjust the path as needed
+    fetch('/resources/books/titles.json')
       .then((response) => {
-        console.log('Fetch response:', response); // Debugging statement
-        if (!response.ok) {
-          throw new Error('Failed to fetch titles.json');
-        }
+        if (!response.ok) throw new Error('Failed to fetch titles.json');
         return response.json();
       })
-      .then((data) => {
-        console.log('Fetched data:', data); // Debugging statement
-        // Map the array of strings into the desired format
-        const formattedData = data
-        .map((title: string) => ({
-          value: removeDiacritics(title.replace(/_/g, ' ').replace(/-/g, ' ')),
-          label: capitalizeWords(title.replace(/^sa/, '').replace(/^ta/, '').replace(/_/g, ' ').replace(/-/g, ' ')),
-          original: title
-        }))
-        .sort((a: { value: string; label: string; original: string }, b: { value: string; label: string; original: string }) => a.label.localeCompare(b.label)); // Sort alphabetically by label
+      .then((data: string[]) => {
+        // Process each title once during initial load
+        const formattedData = data.map((title: string) => {
+          // Remove special prefixes and replace special characters
+          const displayText = title
+            .replace(/^sa/, '')    // Remove 'sa' prefix
+            .replace(/^ta/, '')    // Remove 'ta' prefix
+            .replace(/_/g, ' ')    // Replace underscores with spaces
+            .replace(/-/g, ' ');   // Replace hyphens with spaces
 
-        console.log('Formatted data:', formattedData); // Debugging statement
-        setBookTitlesList(formattedData);
+          // Create a single processed entry for each book
+          return {
+            // Store normalized version for searching
+            value: removeDiacritics(displayText),
+            // Store properly formatted version for display
+            label: capitalizeWords(displayText),
+            // Keep original filename for file operations
+            original: title
+          };
+        });
+
+        // Sort books alphabetically by display label
+        setBookTitlesList(formattedData.sort((a, b) => 
+          a.label.localeCompare(b.label)
+        ));
       })
       .catch((error) => {
         console.error('Error loading titles:', error);
       });
   }, []);
 
+  // Handle selection of a book
   const selectBook = (value: string | null) => {
     const selectedBook = bookTitlesList.find(book => book.value === value);
-    const originalValue = selectedBook ? selectedBook.original : null;
-    setBookTitle(originalValue); // Directly update the parent state with the original value
-    setSelectedValue(value); // Update the local state with the transformed value
-    console.log('Selected book title:', originalValue); // Debugging statement
+    // Pass the original filename back to parent component
+    setBookTitle(selectedBook?.original ?? null);
+    // Update local selected value state
+    setSelectedValue(value);
   };
 
   return (
@@ -77,10 +107,10 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
       searchable
       nothingFoundMessage="Nothing found..."
       onChange={selectBook}
-      filter={optionsFilter}
+      filter={normalisedFilter}
       style={{ width: '100%', paddingTop: 5, paddingBottom: 16 }}
       autoCorrect="off"
-      spellCheck={false} 
+      spellCheck={false}
     />
   );
 }
