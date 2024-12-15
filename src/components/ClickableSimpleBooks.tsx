@@ -1,4 +1,7 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, {  useState, useEffect, useRef } from 'react';
+import { createPortal } from 'react-dom';
+
+
 import {
   fetchWordData,
   fetchMultidictData,
@@ -59,17 +62,63 @@ const ClickableSimpleBooks = ({
   const [isLoadingDebug, setIsLoadingDebug] = useState(false);
   const clickedWordInfoRef = useRef<HTMLDivElement>(null);
   const [clickedElement, setClickedElement] = useState<HTMLElement | null>(null);
+  const [previousElement, setPreviousElement] = useState<HTMLElement | null>(null);
+  const [portalContainer, setPortalContainer] = useState<HTMLDivElement | null>(null);
 
 
-  // scroll into view animation for clicked word
+
   useEffect(() => {
-    if (!isLoadingDebug && wordData.length > 0 && clickedElement) {
-      clickedElement.scrollIntoView({ 
+    if (!clickedElement) return;
+
+    // Clean up previous container
+    if (previousElement) {
+      const previousContainer = previousElement.nextElementSibling as HTMLElement;
+      if (previousContainer?.classList.contains(classes.wordInfo)) {
+        previousContainer.remove();
+      }
+    }
+
+    // Create new container
+    const container = document.createElement('div');
+    container.className = classes.wordInfo;
+    clickedElement.parentNode?.insertBefore(container, clickedElement.nextSibling);
+
+    // Store references
+    setPortalContainer(container);
+    setPreviousElement(clickedElement);
+
+    // Cleanup
+    return () => {
+      if (container.parentNode) {
+        container.remove();
+      }
+    };
+  }, [clickedElement]);
+
+  // Effect for scrolling behavior
+  useEffect(() => {
+    if (!isLoadingDebug && wordData.length > 0 && portalContainer) {
+      portalContainer.scrollIntoView({ 
         behavior: 'smooth',
         block: 'center'
       });
     }
-  }, [isLoadingDebug, wordData, clickedElement]);
+  }, [isLoadingDebug, wordData, portalContainer]);
+
+  // Render portal conditionally
+  const renderWordInfoPortal = () => {
+    if (!portalContainer) return null;
+
+    return createPortal(
+      <WordInfo
+        wordData={wordData}
+        onAdditionalWordClick={setClickedAdditionalWord}
+        isLoading={isLoadingDebug}
+      />,
+      portalContainer
+    );
+  };
+  
 
 
   const renderTextElement = (element: TextElement): React.ReactNode => {
@@ -106,13 +155,6 @@ const ClickableSimpleBooks = ({
       return segments.map((segment, segmentIndex) => {
         if (isTranslation) {                                     // make translation <s> words clickable
           const parts = segment.split(/(<s>.*?<\/s>)/);         //makes the Sanskrit words clickable
-          const containsClickedWord = parts.some(part => {        // this line is broken, it makes a re-render every time a word is clicked
-            if (part.startsWith('<s>') && part.endsWith('</s>')) {
-              const word = part.replace(/<\/?s>/g, '').trim();
-              return word === clickedWord;
-            }
-            return false;
-          });
     
           return ( 
             <span key={segmentIndex} className={classes.textSegment}>           
@@ -129,6 +171,7 @@ const ClickableSimpleBooks = ({
                           setSelectedWord(sanskritWord.toLowerCase());
                           setClickedWord(sanskritWord);
                           setIsLoadingDebug(true);   // here it should be using this element as ref  clickedWordInfoRef.current
+                          console.log("isLoadingDebug", isLoadingDebug)
                           try {   //fetch data from the API
                             const data = await fetchMultidictData(sanskritWord, selectedDictionaries);  
                             setWordData(data);   
@@ -156,20 +199,11 @@ const ClickableSimpleBooks = ({
                 )}   
               </span> 
               {segmentIndex < segments.length - 1 && <br />}   
-              {containsClickedWord && (   // add a line break at the end of the segment (if it's not the last segment) // if the segment contains the clicked word, render the word info
-                <div ref={clickedWordInfoRef} className={classes.wordInfo}>  
-                   <WordInfo
-                    wordData={wordData}
-                    onAdditionalWordClick={setClickedAdditionalWord}
-                    isLoading={isLoadingDebug}
-                  />
-                </div>
-              )}
+             
             </span>
           );
         } else {            // if it's not a translation but a text node
           const words = segment.split(/\s+|\+/);    // just split on spaces 
-          const containsClickedWord = words.some(word => word.trim() === clickedWord);    // this line is broken
     
           return (
             <span key={segmentIndex} className={classes.textSegment}>
@@ -211,15 +245,7 @@ const ClickableSimpleBooks = ({
                 )}
               </span>
               {segmentIndex < segments.length - 1 && <br />}
-              {containsClickedWord && (
-              <div ref={clickedWordInfoRef} className={classes.wordInfo}>
-                  <WordInfo
-                    wordData={wordData}
-                    onAdditionalWordClick={setClickedAdditionalWord}
-                    isLoading={isLoadingDebug}
-                  />
-              </div>
-            )}
+            
           </span>
           );
         }
@@ -278,6 +304,7 @@ const ClickableSimpleBooks = ({
           </React.Fragment>
         ))}
       </div>
+      {renderWordInfoPortal()}
     </div>
   );
 };
