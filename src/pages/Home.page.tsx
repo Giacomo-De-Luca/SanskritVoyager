@@ -70,7 +70,7 @@ export function HomePage() {
   // media queries
   const isSmallMobile = useMediaQuery('(max-height: 724px)');
   const isMobile = useMediaQuery('(max-width: 768px)');
-  const isTablet = useMediaQuery('(max-width: 1340px)');
+  const isTablet = useMediaQuery('(max-width: 1100px)');
 
   console.log('isMobile:', isMobile);
   console.log('isTablet:', isTablet);
@@ -549,8 +549,8 @@ export function HomePage() {
         ) : ("")
         }
         {text !== '' || bookTitle !== null ? (
-          selectedWord !== "" && isWordInfoVisible ? (
-            
+          Array.isArray(wordData) && wordData.length > 0 && isWordInfoVisible ? (
+              
               <Grid.Col 
                 span={isMobile ? (isWordInfoVisible ? 12 : 0) : (isTablet && isNavbarVisible ? (isWordInfoVisible ? 12 : 0) : (isWordInfoVisible ? 6 : 0))}
                 className={`${classes.scrollContainer} ${classes.wordInfoHalf} ${classes.wordInfoTransition}`}
