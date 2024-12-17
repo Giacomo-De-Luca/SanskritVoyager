@@ -205,13 +205,16 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                               {wordName}:
                               </div>
                              Render each entry for the word */}
-                            {entries.map((entry, index) => (
-                              <DictionaryEntry 
-                                key={`${dictionaryName}-${wordName}-${index}`}
-                                entry={entry}
-                                onWordClick={handleWordClick}
-                              />
-                            ))}
+                            {Array.isArray(entries) ? 
+                              entries.map((entry, index) => (
+                                <DictionaryEntry 
+                                  key={`${dictionaryName}-${wordName}-${index}`}
+                                  entry={entry}
+                                  onWordClick={handleWordClick}
+                                />
+                              ))
+                              : null
+                            }
                           </div>
                         ))}
                       </div>
@@ -265,13 +268,17 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                           className={classes.wordName}
                         >{wordName}</div>
                            Render each entry for the word */}
-                          {entries.map((entry, index) => (
-                            <DictionaryEntry 
-                              key={`${dictionaryName}-${wordName}-${index}`}
-                              entry={entry}
-                              onWordClick={handleWordClick}
-                          />
-                    ))}
+
+                        {Array.isArray(entries) ? 
+                            entries.map((entry, index) => (
+                              <DictionaryEntry 
+                                key={`${dictionaryName}-${wordName}-${index}`}
+                                entry={entry}
+                                onWordClick={handleWordClick}
+                              />
+                            ))
+                            : null
+                          }
         </div>
       ))}
     </div>
