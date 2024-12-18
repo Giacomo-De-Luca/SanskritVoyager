@@ -1,9 +1,10 @@
-import React from 'react';
-import { Loader, ActionIcon } from '@mantine/core';
+import React, { useState } from 'react';
+import { ActionIcon } from '@mantine/core';
 import { IconCopy, IconCopyCheck } from '@tabler/icons-react';
 import { useClipboard } from '@mantine/hooks';
 import classes from './ClickableWords.module.css';
-import { WordEntry, GroupedEntries } from '../types/wordTypes';
+import { WordEntry } from '../types/wordTypes';
+import WordInfoPortal from './WordInfoPortal';
 
 interface ClickableWordsProps {
   lines: string[];
@@ -19,6 +20,9 @@ interface ClickableWordsProps {
   setClickedWord: (word: string | null) => void;
   onWordClick?: (word: string) => void;
   onAdditionalWordClick?: (word: string) => void;
+  setClickedAdditionalWord: (word: string) => void;
+  setIsLoadingWordData: (isLoading: boolean) => void;
+
 }
 
 const ClickableWords: React.FC<ClickableWordsProps> = ({
@@ -27,131 +31,87 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
   setSelectedWord,
   hoveredWord,
   setHoveredWord,
-  selectedDictionaries,
   wordData,
   isLoadingWordData,
+  setIsLoadingWordData,
   clickedWord,
   setClickedWord,
   onWordClick,
   onAdditionalWordClick,
-  textTranslit
+  textTranslit,
+  setClickedAdditionalWord
 }) => {
-  const handleWordClick = async (trimmedWord: string) => {
+  const [clickedElement, setClickedElement] = useState<HTMLElement | null>(null);
+  const [previousElement, setPreviousElement] = useState<HTMLElement | null>(null);
+  const clipboard = useClipboard({ timeout: 500 });
+
+  const handleWordClick = async (trimmedWord: string, event: React.MouseEvent<HTMLSpanElement>) => {
+    setClickedElement(event.currentTarget);
     setSelectedWord(trimmedWord);
     setClickedWord(trimmedWord);
+    //setIsLoadingWordData(true);
     if (onWordClick) {
       onWordClick(trimmedWord);
     }
+    
   };
-
-  const handleAdditionalWordClick = (word: string) => {
-    if (onAdditionalWordClick) {
-      onAdditionalWordClick(word);
-    }
-  };
-
-  const clipboard = useClipboard({ timeout: 500 });
-
 
   return (
     <>
       {textTranslit !== "" && (
-      <ActionIcon
-        className={classes.copyButton}
-        onClick={() => clipboard.copy(lines.join('\n'))}
-        variant="subtle"
-        size="lg"
-        aria-label="Copy text"
-      >
-        {clipboard.copied ? (
-          <IconCopyCheck size={20} stroke={1.5} />
-        ) : (
-          <IconCopy size={20} stroke={1.5} />
-        )}
-      </ActionIcon>
+        <ActionIcon
+          className={classes.copyButton}
+          onClick={() => clipboard.copy(lines.join('\n'))}
+          variant="subtle"
+          size="lg"
+          aria-label="Copy text"
+        >
+          {clipboard.copied ? (
+            <IconCopyCheck size={20} stroke={1.5} />
+          ) : (
+            <IconCopy size={20} stroke={1.5} />
+          )}
+        </ActionIcon>
       )}
       
-      <div style={{ marginTop: '4.5rem', }}>
-      {lines.map((line, lineIndex) => {
-        const words = line.split(/\s+|\+/);
-        const hasClickedWord = words.some(word => word.trim() === clickedWord);
-
-        return (
-          <div key={lineIndex} style={{ marginBottom: '8px', }}>
-            <p>
-              {words.map((word: string, wordIndex: number) => {
-                const trimmedWord = word.trim();
-                return (
-                  <span
-                    key={wordIndex}
-                    onClick={() => handleWordClick(trimmedWord)}
-                    onMouseEnter={() => setHoveredWord(trimmedWord)}
-                    onMouseLeave={() => setHoveredWord(null)}
-                    style={{ 
-                      color: selectedWord === trimmedWord ? 'orange' : 'inherit',
-                      ...(hoveredWord === trimmedWord ? { color: 'gray' } : {}),
-                      cursor: 'pointer',
-                    }}
-                  >
-                    {word + ' '}
-                  </span>
-                );
-              })}
-            </p>
-            {hasClickedWord && (
-              <p style={{ paddingLeft: '16px', color: '#666', marginTop: '4px' }}>
-                {isLoadingWordData ? (
-                  <div className={classes.loaderContainer}>
-                    <Loader type="dots" size="sm" color='rgba(191, 191, 191, 1)' />
-                  </div>
-                ) : (
-                  wordData.length > 0 && (() => {
-                    const groupedEntries = wordData.reduce<GroupedEntries>((acc, entry) => {
-                      const key = entry[4] as string || 'default';
-                      if (!acc[key]) {
-                        acc[key] = [];
-                      }
-                      acc[key].push(entry);
-                      return acc;
-                    }, {});
-
-                    return Object.entries(groupedEntries).map(([originalWord, entries], groupIndex) => {
-                        const uniqueWords = Array.from(new Set(
-                            entries.map(entry => entry[0]).filter((word): word is string => 
-                              typeof word === 'string'
-                            )
-                          ));
-                      return (
-                        <span key={groupIndex} style={{ marginRight: '8px' }}>
-                          {uniqueWords.map((word, wordIndex) => (
-                            <React.Fragment key={wordIndex}>
-                              <span
-                                className={classes.additionalWord}
-                                onClick={() => handleAdditionalWordClick(word as string)}
-                                style={{
-                                  cursor: 'pointer',
-                                  whiteSpace: 'nowrap',
-                                  marginRight: wordIndex < uniqueWords.length - 1 ? '4px' : '0',
-                                }}
-                              >
-                                {word}
-                              </span>
-                              {wordIndex < uniqueWords.length - 1 && (
-                                <span style={{ margin: '0 4px', color: '#666' }}>|</span>
-                              )}
-                            </React.Fragment>
-                          ))}
-                        </span>
-                      );
-                    });
-                  })()
-                )}
+      <div style={{ marginTop: '4.5rem' }}>
+        {lines.map((line, lineIndex) => {
+          const words = line.split(/\s+|\+/);
+          return (
+            <div key={lineIndex} style={{ marginBottom: '8px' }}>
+              <p>
+                {words.map((word: string, wordIndex: number) => {
+                  const trimmedWord = word.trim();
+                  return (
+                    <span
+                      key={wordIndex}
+                      onClick={(e) => handleWordClick(trimmedWord, e)}
+                      onMouseEnter={() => setHoveredWord(trimmedWord)}
+                      onMouseLeave={() => setHoveredWord(null)}
+                      style={{ 
+                        color: selectedWord === trimmedWord ? 'orange' : 'inherit',
+                        ...(hoveredWord === trimmedWord ? { color: 'gray' } : {}),
+                        cursor: 'pointer',
+                      }}
+                    >
+                      {word + ' '}
+                    </span>
+                  );
+                })}
               </p>
-            )}
-          </div>
-        );
-      })}
+            </div>
+          );
+        })}
       </div>
+
+      <WordInfoPortal
+        clickedElement={clickedElement}
+        previousElement={previousElement}
+        wordData={wordData}
+        isLoadingDebug={isLoadingWordData}
+        onAdditionalWordClick={setClickedAdditionalWord}
+        setPreviousElement={setPreviousElement}
+      />
     </>
   );
 };

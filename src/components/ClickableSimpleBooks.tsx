@@ -1,6 +1,6 @@
 import React, {  useState, useEffect, useRef } from 'react';
 import { createPortal } from 'react-dom';
-
+import WordInfoPortal from './WordInfoPortal';
 
 import {
   fetchWordData,
@@ -42,6 +42,7 @@ interface ClickableSimpleBooksProps {
   hoveredWord: string | null;
   setHoveredWord: React.Dispatch<React.SetStateAction<string | null>>;
   textType: string;
+  isLoadingWordData: boolean;
 }
 
 
@@ -58,68 +59,11 @@ const ClickableSimpleBooks = ({
   textType,
   hoveredWord,
   setHoveredWord,
+  isLoadingWordData,
 }: ClickableSimpleBooksProps) => {
-  const [isLoadingDebug, setIsLoadingDebug] = useState(false);
   const clickedWordInfoRef = useRef<HTMLDivElement>(null);
   const [clickedElement, setClickedElement] = useState<HTMLElement | null>(null);
   const [previousElement, setPreviousElement] = useState<HTMLElement | null>(null);
-  const [portalContainer, setPortalContainer] = useState<HTMLDivElement | null>(null);
-
-
-
-  useEffect(() => {
-    if (!clickedElement) return;
-
-    // Clean up previous container
-    if (previousElement) {
-      const previousContainer = previousElement.nextElementSibling as HTMLElement;
-      if (previousContainer?.classList.contains(classes.wordInfo)) {
-        previousContainer.remove();
-      }
-    }
-
-    // Create new container
-    const container = document.createElement('div');
-    container.className = classes.wordInfo;
-    clickedElement.parentNode?.insertBefore(container, clickedElement.nextSibling);
-
-    // Store references
-    setPortalContainer(container);
-    setPreviousElement(clickedElement);
-
-    // Cleanup
-    return () => {
-      if (container.parentNode) {
-        container.remove();
-      }
-    };
-  }, [clickedElement]);
-
-  // Effect for scrolling behavior
-  useEffect(() => {
-    if (!isLoadingDebug && wordData.length > 0 && portalContainer) {
-      portalContainer.scrollIntoView({ 
-        behavior: 'smooth',
-        block: 'center'
-      });
-    }
-  }, [isLoadingDebug, wordData, portalContainer]);
-
-  // Render portal conditionally
-  const renderWordInfoPortal = () => {
-    if (!portalContainer) return null;
-
-    return createPortal(
-      <WordInfo
-        wordData={wordData}
-        onAdditionalWordClick={setClickedAdditionalWord}
-        isLoading={isLoadingDebug}
-      />,
-      portalContainer
-    );
-  };
-  
-
 
   const renderTextElement = (element: TextElement): React.ReactNode => {
     const elementClasses = [
@@ -138,7 +82,6 @@ const ClickableSimpleBooks = ({
       if (isSeparatorOnlyLine(text)) {
         return null;
       }
-
 
       // Only apply transformations to non-translated text
       const transformedText = isTranslation 
@@ -170,14 +113,7 @@ const ClickableSimpleBooks = ({
                           setClickedElement(e.currentTarget);
                           setSelectedWord(sanskritWord.toLowerCase());
                           setClickedWord(sanskritWord);
-                          setIsLoadingDebug(true);   // here it should be using this element as ref  clickedWordInfoRef.current
-                          console.log("isLoadingDebug", isLoadingDebug)
-                          try {   //fetch data from the API
-                            const data = await fetchMultidictData(sanskritWord, selectedDictionaries);  
-                            setWordData(data);   
-                          } finally {
-                            setIsLoadingDebug(false);  // stop the loader animation
-                          }
+                         
                         }}
                         onMouseEnter={() => setHoveredWord(sanskritWord)}    // should be replaced by css classes on hover
                         onMouseLeave={() => setHoveredWord(null)}
@@ -220,13 +156,7 @@ const ClickableSimpleBooks = ({
                         setClickedElement(e.currentTarget);
                         setSelectedWord(trimmedWord);
                         setClickedWord(trimmedWord);
-                        setIsLoadingDebug(true);
-                        try {
-                          const data = await fetchMultidictData(trimmedWord, selectedDictionaries);
-                          setWordData(data);
-                        } finally {
-                          setIsLoadingDebug(false);
-                        }
+
                       }}
                       onMouseEnter={() => setHoveredWord(trimmedWord)}
                       onMouseLeave={() => setHoveredWord(null)}
@@ -304,7 +234,14 @@ const ClickableSimpleBooks = ({
           </React.Fragment>
         ))}
       </div>
-      {renderWordInfoPortal()}
+      <WordInfoPortal
+        clickedElement={clickedElement}
+        previousElement={previousElement}
+        wordData={wordData}
+        isLoadingDebug={isLoadingWordData}
+        onAdditionalWordClick={setClickedAdditionalWord}
+        setPreviousElement={setPreviousElement}
+      />
     </div>
   );
 };

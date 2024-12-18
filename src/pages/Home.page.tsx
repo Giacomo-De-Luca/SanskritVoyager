@@ -226,12 +226,16 @@ export function HomePage() {
   
   useEffect(() => {
     if (selectedWord) {
+      setIsLoadingWordData(true);
       fetchMultidictData(selectedWord, selectedDictionaries).then(data => {
         console.log(data);
         setWordData(data);
+        setIsLoadingWordData(false);
+      }).catch(() => {
+        setIsLoadingWordData(false);
       });
     }
-  }, [selectedWord]);
+  }, [selectedWord, selectedDictionaries]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -477,19 +481,11 @@ export function HomePage() {
                 selectedDictionaries={selectedDictionaries}
                 wordData={wordData}
                 isLoadingWordData={isLoadingWordData}
+                setIsLoadingWordData={setIsLoadingWordData}
                 clickedWord={clickedWord}
                 setClickedWord={setClickedWord}
-                onWordClick={async (word) => {
-                  setIsLoadingWordData(true);
-                  try {
-                    const data = await fetchMultidictData(word, selectedDictionaries);
-                    setWordData(data);
-                  } finally {
-                    setIsLoadingWordData(false);
-                  }
-                }}
-                onAdditionalWordClick={(word) => setClickedAdditionalWord(word)}
-              />
+                setClickedAdditionalWord={setClickedAdditionalWord}
+                />
               )}
             <ClickableSimpleBooks
               bookText={bookText}
@@ -504,6 +500,7 @@ export function HomePage() {
               hoveredWord = {hoveredWord}
               setHoveredWord = {setHoveredWord}
               textType = {textType}
+              isLoadingWordData = {isLoadingWordData}
 
             />
 
