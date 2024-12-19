@@ -1,8 +1,7 @@
 .header {
   position: fixed;
-  height: rem(56px);
+  height: 56px;
   width: 100vw;
-  margin-bottom: rem(120px);
   background-color: var(--mantine-color-body);
   border-bottom: rem(1px) solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
   padding-left: var(--mantine-spacing-md);
@@ -34,7 +33,7 @@
 
 
 .inner {
-  height: rem(56px);
+  height: 56px;
   width: 100%; 
   display: flex;
   justify-content: space-between;

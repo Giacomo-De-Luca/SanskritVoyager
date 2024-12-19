@@ -19,6 +19,7 @@ import ClickableWords from '@/components/ClickableWords';
 import { WordEntry, GroupedEntries } from '../types/wordTypes';
 import { BookText } from '../types/bookTypes';
 import TranslationControl from '@/components/TranslationControl';
+import LoadingSkeleton from '@/components/LoadingSkeleton';
 
 interface Translation {
   English: string;
@@ -69,7 +70,7 @@ export function HomePage() {
 
   // media queries
   const isSmallMobile = useMediaQuery('(max-height: 724px)');
-  const isMobile = useMediaQuery('(max-width: 768px)');
+  const isMobile = useMediaQuery('(max-width: 600px)');
   const isTablet = useMediaQuery('(max-width: 1100px)');
 
   console.log('isMobile:', isMobile);
@@ -106,8 +107,12 @@ export function HomePage() {
   const shouldUseColumn = isMobile || (isTablet && isNavbarVisible);
 
   // const vhActual = `calc(100vh - 56px)`;
-  const vhActual = '100vh';
+  const vhActual = `calc(100vh - 56px)`;
   const vhActualHalf = `calc((100vh - 56px)/2)`; // Correct
+  const vwActual = `calc(100vw - 400px)`;
+
+
+  
 
   // here starts what should be a separate component
   // make a separate component for the clickable words in the text
@@ -156,42 +161,6 @@ export function HomePage() {
   // Add this state at the component level
   const [clickedAdditionalWord, setClickedAdditionalWord] = useState<string | null>(null);
 
-
-  const LoadingSkeleton = () => (
-    <div className="p-4" style={{ paddingTop : '50px'}}>
-      <Skeleton height={50} circle mb="xl" />
-      <Skeleton height={40} radius="md" mb="xl" />
-      <Skeleton height={20} radius="xl" mb="md" />
-      <Skeleton height={8} radius="xl" mb="sm" />
-      <Skeleton height={8} radius="xl" mb="sm" />
-      <Skeleton height={8} radius="xl" width="70%" mb="xl" />
-      
-      <Skeleton height={30} radius="md" mb="lg" />
-      <Skeleton height={8} radius="xl" mb="sm" />
-      <Skeleton height={8} radius="xl" mb="sm" />
-      <Skeleton height={8} radius="xl" width="80%" mb="xl" />
-      
-      <Skeleton height={30} radius="md" mb="lg" />
-      <Skeleton height={8} radius="xl" mb="sm" />
-      <Skeleton height={8} radius="xl" mb="sm" />
-      <Skeleton height={8} radius="xl" width="60%"  mb="xl"  />
-
-      <Skeleton height={30} radius="md" mb="lg" />
-      <Skeleton height={8} radius="xl" mb="sm" />
-      <Skeleton height={8} radius="xl" mb="sm" />
-      <Skeleton height={8} radius="xl" width="60%"  mb="xl"  />
-
-      <Skeleton height={30} radius="md" mb="lg" />
-      <Skeleton height={8} radius="xl" mb="sm" />
-      <Skeleton height={8} radius="xl" mb="sm" />
-      <Skeleton height={8} radius="xl" width="60%"  mb="xl" />
-
-      <Skeleton height={30} radius="md" mb="lg" />
-      <Skeleton height={8} radius="xl" mb="sm" />
-      <Skeleton height={8} radius="xl" mb="sm" />
-      <Skeleton height={8} radius="xl" width="60%"  mb="xl" />
-    </div>
-  );
 
   // Modified effect with more robust scrolling logic
   useEffect(() => {
@@ -293,7 +262,8 @@ export function HomePage() {
   }, [bookTitle]);
 
   return (
-    <>
+    
+    <div className={classes.mainContainer}>
 
       
       <HeaderSearch   // header search component
@@ -303,120 +273,58 @@ export function HomePage() {
         isNavbarVisible={isNavbarVisible} // Add the missing isNavbarVisible prop
       />
 
-    <div style={{ display: 'flex' }}>  
+    <div 
+      
+        className={classes.contentBox}
+        style={{ 
+          display: 'flex',
+          marginTop: '56px',
+          overflow: 'hidden' // Prevent overflow
+        }}>  
       <div // navbar component should be a separate one
         className={classes.navbarBox}
-        style={{ flex: isMobile? '0 0 8%' : '0 0 10%', 
-                  minWidth: isNavbarVisible? '400px': '0px' }}
+
+        style={{ 
+          width: 
+          isNavbarVisible ? 
+          (isMobile? '100vw' : (isTablet ? '300px' : '350px')): 0,
+        }}
+
+
+        
         >
       {isNavbarVisible && (
-        <NavbarSimple>
+        <NavbarSimple
+        isNavbarVisible={isNavbarVisible}
+
+        isMobile={isMobile}
+        isTablet={isTablet}
+
+
+        isSmallMobile={isSmallMobile}
+        scheme={scheme}
+        setScheme={setScheme}
+        handleTransliteration={handleTransliteration}
+        selectedDictionaries={selectedDictionaries}
+        setSelectedDictionaries={setSelectedDictionaries}
+        bookTitle={bookTitle}
+        setBookTitle={setBookTitle}
+        textType={textType}
+        setTextType={setTextType}
+        text={text}
+        setText={setText}
+        setIsNavbarVisible={setIsNavbarVisible}
+
         
-        <Stack  
-          gap="3px"
-          justify="flex-end"
-          >
-          <Select
-            data={['IAST', 'DEVANAGARI', 'ITRANS', 'HK', 'SLP1', 'WX', 'Kolkata', 'Bengali', 'Tamil', 'Kannada'].map((item) => ({ value: item, label: item }))}
-            value={scheme.value}
-            label="Select Transliteration Scheme"
-            placeholder="Pick Transliteration Scheme, default is IAST"
-            onChange={(_value, option) => {
-              setScheme(option);
-              handleTransliteration(text, _value ?? undefined);
-            }
-              }
-            style={{ width: '100%', 
-                     paddingTop: isSmallMobile? '30px': '60px', }}
-          />
-          
-        <DictionarySelectComponent 
-          selectedDictionaries = {selectedDictionaries}
-          setSelectedDictionaries = {setSelectedDictionaries}
-          
-         />
-
-         <BookSelect
-          setBookTitle={setBookTitle}
-          bookTitle={bookTitle}
-         />
-
-        { bookTitle !== null && (
-                  <TranslationControl 
-                  textType= {textType}
-                  setTextType={setTextType}
-                  />)
-        }
-
-        </Stack>
-
-
-          <Textarea 
-            value={text}
-            autoCapitalize="off"
-            autoCorrect="off"
-            spellCheck={false} 
-            onInput={(event) => {
-              const newText = event.currentTarget.value;
-              setText(newText);
-              handleTransliteration(newText);
-            }}
-            onPaste={(event) => {
-              // Prevent the default paste action
-              event.preventDefault();
-
-              // Get the pasted data from the clipboard
-              const pastedData = event.clipboardData.getData('text');
-          
-              // Update the text state and call transliterateText
-              setText(pastedData);
-              handleTransliteration(pastedData);
-            }}
-            label="Write Text Here"
-            description="Copy and paste text here to transliterate it."
-            placeholder={"Write text here to transliterate it." + '\n' + "A single word is automatically searched." + '\n' + "Analyse words on click."}
-            style={{ width: '100%', paddingBottom: 16, paddingTop: '0px' }}
-            autosize
-            minRows={6}
-            maxRows={8}
-          />
-
-          
-      
-          <Button 
-          className= {classes.readingButton}
-           // variant="outline"
-          leftSection={<IconVocabularyOff size={14} />}
-          onClick={() => setIsNavbarVisible(false)} 
-          loaderProps={{ type: 'dots' }}
-          style={{
-            width: '100%',
-          }}      
-          >
-            {'Start Reading'}
-          </Button>
-
-         
-
-          
-
-          
-
-        </NavbarSimple>
+        />
       )}
       </div>
 
 
-      <div 
-      className='noScroll'
-      
-      
-      style={{ 
-      flex: isNavbarVisible ? '1 1 80%' : '1 1 100%',
-      paddingLeft: isMobile ? '16px' : undefined,
-      paddingRight: isMobile ? '16px' : undefined
-      }}>
+      {!(isMobile && isNavbarVisible) && (
 
+
+    
       <Grid 
         gutter= {isTablet ? "lg" : 'xl'}
         className={classes.wholeGrid}
@@ -425,13 +333,16 @@ export function HomePage() {
         style={{ 
           display: 'flex', 
           flexDirection: shouldUseColumn ? 'column' : 'row',
-          flexWrap: 'wrap', 
+          flexWrap: 'nowrap',
           justifyContent: 'left',
           transition: 'padding-left 0.3s ease',
-          width: '100%', // Ensure grid doesn't exceed viewport
-          maxWidth: '100vw', // Prevent horizontal scroll
-          maxHeight: vhActual, // Added to prevent vertical overflow
-          paddingLeft: isMobile ? '0' : (isTablet ? '0' : (isNavbarVisible ? '0px' : '0px')),          
+          paddingRight: isMobile ? '16px' : undefined,
+          paddingLeft: isMobile ? '16px' : (isTablet ? '0' : (isNavbarVisible ? '0px' : '0px')),
+
+          position: 'relative',
+          width: '100%',
+
+            
         }}
       >
         {text !== '' || bookTitle !== null ? (   // book and translit text grid
@@ -441,72 +352,52 @@ export function HomePage() {
             isTablet && isNavbarVisible ? 12 : 
             (selectedWord !== "" && isWordInfoVisible ? 6 : 12)
           }
-          className={`${classes.noScroll} ${classes.textDisplay}`}
+          className={`${classes.scrollContainer} ${classes.textDisplay} ${classes.fadeContainer}`}
           style={{
-            paddingTop: isMobile ? '20px' : '0px', // necessary?
-            maxHeight: isMobile ? 
-            (isWordInfoVisible ? 
-              (isWordInfoVisible ? vhActualHalf : vhActual) 
-              : vhActual
-            ) :
-            isTablet && isNavbarVisible ? 
-              (isWordInfoVisible ? vhActualHalf : vhActual) 
-              : vhActual,
-            width: isMobile ? '100%' : '50%',  // Changed to percentage
+            paddingTop: isMobile ? '0px' : '0px', // necessary?
+            maxHeight: isMobile ?    //mobile
+            (isWordInfoVisible ? vhActualHalf // mobile word info
+            : vhActual) // mobile full size
+            :
+            isTablet && isNavbarVisible ?      // tablet
+              (isWordInfoVisible ? vhActualHalf //tablet navbar word info
+                : vhActual) // tablet navbar no word info, full size 
+              : vhActual, // desktop, always full size
+            width: isMobile ? '100%' : (isWordInfoVisible ? '50%' : '100%'),  // Changed to percentage
             paddingLeft: 
-            isMobile ? '6%' : // mobile
+            isMobile ? '8%' : // mobile
                   (isTablet ? // tablet
                     (isNavbarVisible ? 
-                      (isWordInfoVisible ? '5%' : '7.5%') : // navbar
-                      (isWordInfoVisible ? '0%' : '15%')) // no navbar
+                      (isWordInfoVisible ? '5%' : '10%') : // navbar
+                      (isWordInfoVisible ? '0%' : '10%')) // no navbar
                     :
                     (isNavbarVisible ? // desktop
-                      (isWordInfoVisible ? '2%' : '25%') : // navbar
-                      (isWordInfoVisible ? '6.25%' : '25%')) // no navbar
+                      (isWordInfoVisible ? '12%' : '25%') : // navbar
+                      (isWordInfoVisible ? '12%' : '28%')) // no navbar
                   ),
-            paddingRight: isMobile ? '6%' : // mobile
+            paddingRight: isMobile ? '8%' : // mobile
                   (isTablet ? // tablet
                     (isNavbarVisible ? 
-                      (isWordInfoVisible ? '5%' : '3.75%') : // navbar
-                      (isWordInfoVisible ? '7.5%' : '15%')) : // no navbar
+                      (isWordInfoVisible ? '5%' : '10%') : // navbar
+                      (isWordInfoVisible ? '7.5%' : '10%')) : // no navbar
                     (isNavbarVisible ? // desktop
-                      (isWordInfoVisible ? '2%' : '18.75%') : // navbar
-                      (isWordInfoVisible ? '6.25%' : '25%')) // no navbar
+                      (isWordInfoVisible ? '12%' : '25%') : // navbar
+                      (isWordInfoVisible ? '12%' : '28%')) // no navbar
                   ),
             transition: 'padding-left 0.3s ease',
             overflowY: 'auto',
             overflowX: 'hidden',
-            borderBottom: isMobile && !isTextEmpty ? '1px solid lightgray' : 'none',
-            minHeight: isMobile ? (isTextEmpty ? '0vh' : '45vh') : '0vh',              
-            
+            borderBottom: isMobile && isWordInfoVisible ? '1px solid lightgray' : 'none',
+            wordBreak: 'break-word', // Added to ensure words break
+            whiteSpace: 'normal', // Changed from pre-wrap      
+            paddingBottom: '0px'  
+          
           }}
         >
             
-        <div
-            className={`${classes.scrollContainer} ${classes.textClickable}`}
-            style={{
-              overflowY: 'auto',
-              overflowX: 'hidden', // Added to prevent horizontal scroll
-              width: '100%', // Changed from maxWidth
-              maxWidth: '100vw', // Added to prevent horizontal scroll
-              wordBreak: 'break-word', // Added to ensure words break
-              whiteSpace: 'normal', // Changed from pre-wrap
-              cursor: 'pointer',
-              lineHeight: '1.6',
-              paddingTop: isMobile ? '50px' : '100px',  // Added to ensure padding
-              maxHeight: isMobile 
-                ? (isTextEmpty ? '0vh' : 
-                    (isWordInfoVisible ? 
-                      (isWordInfoVisible ? vhActualHalf : vhActual) 
-                      : vhActual
-                    )
-                  )
-                : vhActual,
-            }}
-            
-          > 
+       
 
-          
+          < div className= {classes.scrollContainer}>
             {textTranslit !== '' && (
               <ClickableWords
                 lines={lines}
@@ -541,44 +432,13 @@ export function HomePage() {
 
             />
 
-                          {/* Update the translated text container */}
-              <div style={{ width: '100%' }}> {/* Added width constraint */}
-                {translatedText.length > 0 && translatedText.map((item, index) => (
-                  <div key={index} style={{ width: '100%' }}> {/* Added width constraint */}
-                    <p style={{ 
-                      color: 'darkgrey',
-                      width: '100%', // Added width constraint
-                      wordBreak: 'break-word' // Added to ensure words break
-                    }}>
-                      {item.Sanskrit.split(/\s+|\+/).map((word, wordIndex) => {
-                        const trimmedWord = word.trim();
-                        return (
-                          <span
-                            key={wordIndex}
-                            onClick={() => setSelectedWord(trimmedWord)}
-                            style={{ 
-                              color: selectedWord === trimmedWord ? 'orange' : 'inherit',
-                              display: 'inline-block', // Added to help with word wrapping
-                              wordBreak: 'break-word' // Added to ensure words break
-                            }}
-                          >
-                            {word + ' '}
-                          </span>
-                        );
-                      })}
-                    </p>
-                    <p style={{ wordBreak: 'break-word' }}>{item.English}</p>
-                  </div>
-                ))}
-                
-              </div>
-
-
-                
-
-            </div>
+                          {/* here was the translatedText container. RIP.  */}
               
 
+                
+
+              
+                      </div>
           </Grid.Col>
         ) : ("")
         }
@@ -586,27 +446,70 @@ export function HomePage() {
           Array.isArray(wordData) && wordData.length > 0 && isWordInfoVisible ? (
               
               <Grid.Col 
-                span={isMobile ? (isWordInfoVisible ? 12 : 0) : (isTablet && isNavbarVisible ? (isWordInfoVisible ? 12 : 0) : (isWordInfoVisible ? 6 : 0))}
+                span= {
+                  isWordInfoVisible ? 
+                    (isMobile ? 12 :   // mobile visible full 
+                    isTablet ? (
+                      isNavbarVisible? 12 : 6    // table depends on navbar, with navbar column else half screen
+                    )
+                    : 6)                    // half screen for desktop                                      
+                  : 0    // not visible, -- 0 
+                }
+                
+                
                 className={`${classes.scrollContainer} ${classes.wordInfoHalf} ${classes.wordInfoTransition}`}
                 style={{
-                  paddingTop: isMobile ? '20px' : '80px', // ?
-                  maxHeight: isMobile ? (isWordInfoVisible ? vhActualHalf: vhActual) :
-                  isTablet && isNavbarVisible ? (isWordInfoVisible ? vhActualHalf: vhActual):
-                  vhActual,          
-                  width: isMobile ? (isWordInfoVisible ? '100%' : '0%') : '50%',
 
                   overflowY: 'auto',
                   position: 'relative',
                   opacity: !isWordInfoVisible ? 0 : 1,
                   visibility: !isWordInfoVisible ? 'hidden' : 'visible',
                   transition: 'all 0.3s ease',
-                  paddingLeft: '6.25%',
-                  paddingRight:'6.25%'
+                  paddingTop: isMobile ? '0px' : '0px', // necessary?                  
+                  height: 
+                  isWordInfoVisible ? 
+                  (isMobile ? vhActualHalf :   // mobile half screen
+                  isTablet ? (
+                    isNavbarVisible? vhActualHalf : vhActual    // table depends on navbar, with navbar half screen else full screen
+                  )
+                  : vhActual)                    // half screen for desktop                                      
+                  : 0,    // not visible, -- 0 
+                  width:
+                  isWordInfoVisible ? 
+                  (isMobile ? '100%' :   // mobile half screen
+                  isTablet ? (
+                    isNavbarVisible? '100%' : '50%'    // table depends on navbar, with navbar half screen else full screen
+                  )
+                  : '50%')                    // half screen for desktop                                      
+                  : 0,    // not visible, -- 0 
+                  paddingLeft: 
 
-                  
+                  isWordInfoVisible ? 
+                  (isMobile ? '8%' :   // mobile little padding
+                  isTablet ? 
+                    (isNavbarVisible? '5%' : '10%') :  // table depends on navbar, with navbar half screen else full screen                  
+                    ( isNavbarVisible ? '10%' : '10%'))                  // half screen for desktop                                      
+                  : 0,    // not visible, -- 0 
+
+
+                  paddingRight: 
+                  isWordInfoVisible ? 
+                  (isMobile ? '8%' :   // mobile little padding
+                  isTablet ? 
+                    (isNavbarVisible? '5%' : '10%') :  // table depends on navbar, with navbar half screen else full screen                  
+                    ( isNavbarVisible ? '10%' : '10%'))                  // half screen for desktop                                      
+                  : 0,    // not visible, -- 0 
+                  wordBreak: 'break-word', // Added to ensure words break
+                  whiteSpace: 'normal', // Changed from pre-wrap      
+                  paddingBottom: '0px'  
+
+
+
+              
                 }}
+
               >
-                {(
+                < div className= {classes.scrollContainer}>
                   <ActionIcon
                       className={classes.chevronButton}
                       onClick={() => setIsWordInfoVisible(!isWordInfoVisible)}
@@ -624,7 +527,8 @@ export function HomePage() {
                         (<IconChevronRight size={20} stroke={1.5} />)}
 
                 </ActionIcon>
-                )}
+                
+                
 
                   {isLoadingWordData ? (
                             <LoadingSkeleton />
@@ -634,27 +538,48 @@ export function HomePage() {
                               setWordData={setWordData}
                               selectedDictionaries={selectedDictionaries}
                               isMobile={isMobile}
+                              
                             />
                           )}
+                </div>
 
               </Grid.Col>
         ) : "") : (
           <Grid.Col 
             span={12}
-            className={`${classes.scrollContainer} ${classes.wordInfoFull}`}
+            className={` ${classes.wordInfoFull}`}
             style={{
-              width: '100%',  // Added explicit width
-              paddingLeft: isMobile ? '16px' : 
-                            isTablet ? (isNavbarVisible ? '40px' : '120px') :   // tablet
-                            (isNavbarVisible ? '20vw' : '25vw'),       //desktop
-              paddingRight: isMobile ? '16px' : 
-                            isTablet ? (isNavbarVisible ? '40px' : '120px') :   // tablet
-                            (isNavbarVisible ? '16vw' : '25vw'),       //desktop
-            
-              paddingTop: '60px', // necessary? 
-            }}
-          >
+              paddingTop: isMobile ? '0px' : '0px', // necessary?
+              maxHeight: vhActual,
+              width:  '100%',  // Changed to percentage
+              paddingLeft: 
+              isMobile ? '8%' : // mobile
+                    (isTablet ? // tablet
+                      (isNavbarVisible ? '10%' : '10%') // no navbar
+                      :
+                      (isNavbarVisible ? '25%' : '28%') // no navbar
+                    ),
+              paddingRight: 
+              isMobile ? '8%' : // mobile
+              (isTablet ? // tablet
+                (isNavbarVisible ? '10%' : '10%') // no navbar
+                :
+                (isNavbarVisible ? '25%' : '28%') // no navbar
+              ),
+              transition: 'padding-right 0.3s ease',
+              overflowY: 'auto',
+              overflowX: 'auto',
+              wordBreak: 'break-word', // Added to ensure words break
+              whiteSpace: 'normal', // Changed from pre-wrap      
+              paddingBottom: '0px'  }}
 
+
+
+              
+
+ 
+          >
+            < div className= {classes.scrollContainer}>
             {wordData.length < 1 && isLoadingWordData ?  (
                     <LoadingSkeleton />
                   ) : (
@@ -665,19 +590,15 @@ export function HomePage() {
                       isMobile={isMobile}
                     />
                   )}
+            </div>
 
           </Grid.Col>
         )}
       </Grid>
-        
-
-      </div>
-      <div 
-        className={classes.noScroll}
-        style={{ flex: isMobile ? '0 0 6%' : '0 0 8%' }}> 
-        </div>
+      )}
     </div>
-    </>
+    </div>
+    
   );
 }
 

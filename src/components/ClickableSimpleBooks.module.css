@@ -80,7 +80,6 @@
   
   /* Existing metadata styles remain the same */
   .bookContainer {
-    padding-top: 80px;
     padding: 0rem;
   }
 
@@ -97,7 +96,7 @@
   }
   
   .sanskritWord {
-    color: light-dark(var(--mantine-color-palette-9), var(--mantine-color-grape-7));
+    color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-grape-7));
     text-underline-offset: 3px;
   }
 

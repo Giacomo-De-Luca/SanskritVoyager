@@ -1,3 +1,18 @@
+.mainContainer {
+
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+
+
+
+}
+
+
+
+
+
 
 .genericIcon {
     color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-dark-2));
@@ -21,6 +36,7 @@
 
 .wordInfoFull{
 
+
   @media (max-width: 600px) {
     width: 100vw; /* 100% of the viewport width */
     padding-right: 0px;
@@ -28,10 +44,12 @@
 }
 
 .wordInfoHalf{
+  
 
   @media (max-width: 600px) {
     margin-top: 0px;
     padding-right: 0px !important;
+
 
   }
 }
@@ -51,26 +69,23 @@
 
 
 
-
 .navbarBox {
+  flex: 0 0 auto; /* Prevent navbar from shrinking */
+  transition: width 0.5s ease; /* Add a smooth transition for width changes */
+  /* Default width (adjust as needed) */
 
-  flex: '0 0 15%';
+  height: 100%;
 
 
-  @media (max-width: 600px) {
-    flex: '0 0 5%'; /* 100% of the viewport width */
-  }
 
-    
-  
 }
+    
+
 
 .textDisplay {
 
-  margin-top: '120px';
 
   @media (max-width: 1000px) {
-    margin-top: 40px;
     padding-left: 0px;
     padding-right: 0px;
   }
@@ -132,6 +147,11 @@
 }
 
 
+.chevronButton {
+  transition: transform 0.3s ease-in-out; /* Add transition for smooth animation */
+}
+
+
 .wordInfoTransition {
   transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -141,16 +161,13 @@
 .scrollContainer {
   /* Enable smooth scrolling */
   scroll-behavior: smooth;
-  
   /* Base styles */
   height: 100%;
   width: 100%;
   overflow-y: auto;
-  
   /* Firefox scrollbar style */
   scrollbar-width: thin;
   scrollbar-color: transparent transparent;
-  
   /* Transition for showing/hiding scrollbar */
   transition: scrollbar-color 0.3s ease;
 }
@@ -185,9 +202,49 @@
   background-color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-gray-3));
 }
 
-/* Darker color when hovering directly over the scrollbar 
+/* Darker color when hovering directly over the scrollbar  
 
 *{
   border: 0.5px solid red;
 }
- */
+*/
+
+
+.fadeContainer {
+  position: relative;
+  min-height: 100%;
+}
+
+.fadeContainer::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 40px; /* Adjust height of fade */
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    var(--mantine-color-body) 90%
+  );
+  pointer-events: none; /* Allows clicking through the fade */
+  opacity: 0.8; /* Subtle fade */
+}
+
+/* Optional: Disable fade effect when content is being scrolled */
+.scrollContainer:active .fadeContainer::after,
+.scrollContainer:focus-within .fadeContainer::after {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.mantine-ScrollArea-root {
+  width: 100% !important;
+  max-width: 100vw;
+  overflow: hidden;
+}
+
+.mantine-ScrollArea-viewport {
+  width: 100% !important;
+  max-width: 100vw;
+}

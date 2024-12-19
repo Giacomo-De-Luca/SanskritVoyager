@@ -59,7 +59,7 @@ const InflectionTable = ({ inflection_wordsIAST, rowcolstitles, useColor = false
 
   return (
     // <div className="overflow-x-auto" style={{ width: '60%', margin: '0 auto' }}>
-    <div className="overflow-x-auto" style={{ width: '60%', paddingBottom: '16px', paddingTop: '16px' }}>
+    <div className="overflow-x-auto" style={{ width: '100%', paddingBottom: '16px', paddingTop: '16px' }}>
       <Table 
         withColumnBorders 
         highlightOnHover 

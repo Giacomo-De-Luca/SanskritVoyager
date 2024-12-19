@@ -1,18 +1,18 @@
 .navbar {
-  height: 95vh;
+  height: 100%;
   transition: min-width 0.5s ease; /* Adjust the duration and easing as needed */
+  width: 100%;
 
 
   /* Media query for small viewports */
-  @media (max-width: 700px) {
+  @media (max-width: 600px) {
     height: 100vh; /* 100% of the viewport height */
     flex-direction: column;
 
   }
-  width: rem(350px);
 
-  @media (max-width: 700px) {
-    width: 100vw; /* 100% of the viewport width */
+
+  @media (max-width: 600px) {
     flex-direction: column !important;
     /* Handle orientation changes */
    
@@ -32,7 +32,7 @@
   display: flex;
   flex-direction: column;
   border-right: rem(1px) solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
-  position: fixed;
+  position: relative;
   /* z-index: 500;  */
   background-color: var(--mantine-color-body); 
   
@@ -45,16 +45,11 @@
 }
 
 .header {
-  padding-bottom: var(--mantine-spacing-md);
-  margin-bottom: calc(var(--mantine-spacing-md) * 1.5);
-  border-bottom: rem(1px) solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
+
 }
 
 .footer {
-  padding-top: var(--mantine-spacing-md);
-  margin-top: var(--mantine-spacing-md);
-  border-top: rem(1px) solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
-  flex-shrink: 0; /* Prevent the footer from shrinking */
+  
 }
 
 .link {
@@ -94,4 +89,19 @@
   margin-right: var(--mantine-spacing-sm);
   width: rem(25px);
   height: rem(25px);
+}
+
+
+
+.readingButton {
+  color: light-dark(var(--mantine-color-gray-9), var(--mantine-color-dark-1));
+  background-color: transparent;
+
+}
+
+
+.readingButton:hover {
+  color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-dark-3)); /* Adjust the colors as needed */
+  background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-dark-6));
+
 }
