@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { ActionToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle';
-import { Select, MultiSelect, Grid, Textarea, Button, Loader, Text, Stack, ActionIcon } from '@mantine/core';
+import { Select, MultiSelect, Grid, Textarea, Button, Loader, Text, Stack, ActionIcon, Skeleton } from '@mantine/core';
 import { FileInput } from '@mantine/core';
 import {  ComboboxItem, Container, lighten, darken, ScrollArea } from '@mantine/core';
 import { useDisclosure, useDebouncedState, useMediaQuery } from '@mantine/hooks';
@@ -155,6 +155,43 @@ export function HomePage() {
   const [wordData, setWordData] = useState<WordEntry[]>([]);
   // Add this state at the component level
   const [clickedAdditionalWord, setClickedAdditionalWord] = useState<string | null>(null);
+
+
+  const LoadingSkeleton = () => (
+    <div className="p-4" style={{ paddingTop : '50px'}}>
+      <Skeleton height={50} circle mb="xl" />
+      <Skeleton height={40} radius="md" mb="xl" />
+      <Skeleton height={20} radius="xl" mb="md" />
+      <Skeleton height={8} radius="xl" mb="sm" />
+      <Skeleton height={8} radius="xl" mb="sm" />
+      <Skeleton height={8} radius="xl" width="70%" mb="xl" />
+      
+      <Skeleton height={30} radius="md" mb="lg" />
+      <Skeleton height={8} radius="xl" mb="sm" />
+      <Skeleton height={8} radius="xl" mb="sm" />
+      <Skeleton height={8} radius="xl" width="80%" mb="xl" />
+      
+      <Skeleton height={30} radius="md" mb="lg" />
+      <Skeleton height={8} radius="xl" mb="sm" />
+      <Skeleton height={8} radius="xl" mb="sm" />
+      <Skeleton height={8} radius="xl" width="60%"  mb="xl"  />
+
+      <Skeleton height={30} radius="md" mb="lg" />
+      <Skeleton height={8} radius="xl" mb="sm" />
+      <Skeleton height={8} radius="xl" mb="sm" />
+      <Skeleton height={8} radius="xl" width="60%"  mb="xl"  />
+
+      <Skeleton height={30} radius="md" mb="lg" />
+      <Skeleton height={8} radius="xl" mb="sm" />
+      <Skeleton height={8} radius="xl" mb="sm" />
+      <Skeleton height={8} radius="xl" width="60%"  mb="xl" />
+
+      <Skeleton height={30} radius="md" mb="lg" />
+      <Skeleton height={8} radius="xl" mb="sm" />
+      <Skeleton height={8} radius="xl" mb="sm" />
+      <Skeleton height={8} radius="xl" width="60%"  mb="xl" />
+    </div>
+  );
 
   // Modified effect with more robust scrolling logic
   useEffect(() => {
@@ -406,7 +443,7 @@ export function HomePage() {
           }
           className={`${classes.noScroll} ${classes.textDisplay}`}
           style={{
-            paddingTop: isMobile ? '20px' : '100px', // necessary?
+            paddingTop: isMobile ? '20px' : '0px', // necessary?
             maxHeight: isMobile ? 
             (isWordInfoVisible ? 
               (isWordInfoVisible ? vhActualHalf : vhActual) 
@@ -417,24 +454,24 @@ export function HomePage() {
               : vhActual,
             width: isMobile ? '100%' : '50%',  // Changed to percentage
             paddingLeft: 
-            isMobile ? '0px' : //mobile
-                  (isTablet ?       // tablet
+            isMobile ? '6%' : // mobile
+                  (isTablet ? // tablet
                     (isNavbarVisible ? 
-                      (isWordInfoVisible ? '40px' : '60px') : //navbar
-                      (isWordInfoVisible ? '0px' : '120px')) // no navbar
-                      :
-                    (isNavbarVisible ?    // desktop
-                      (isWordInfoVisible ? '80px' : '200px') : // navbar
-                      (isWordInfoVisible ? '100px' : '300px')) // no navbar
+                      (isWordInfoVisible ? '5%' : '7.5%') : // navbar
+                      (isWordInfoVisible ? '0%' : '15%')) // no navbar
+                    :
+                    (isNavbarVisible ? // desktop
+                      (isWordInfoVisible ? '2%' : '25%') : // navbar
+                      (isWordInfoVisible ? '6.25%' : '25%')) // no navbar
                   ),
-            paddingRight: isMobile ? '0px' :
-                  (isTablet ? 
-                    (isNavbarVisible ?  // tablet
-                      (isWordInfoVisible ? '40px' : '30px') :  // navbar
-                      (isWordInfoVisible ? '60px' : '120px')) : // no navbar
-                    (isNavbarVisible ?   // desktop
-                      (isWordInfoVisible ? '80px' : '150px') : // navbar
-                      (isWordInfoVisible ? '100px' : '300px')) // no navbar
+            paddingRight: isMobile ? '6%' : // mobile
+                  (isTablet ? // tablet
+                    (isNavbarVisible ? 
+                      (isWordInfoVisible ? '5%' : '3.75%') : // navbar
+                      (isWordInfoVisible ? '7.5%' : '15%')) : // no navbar
+                    (isNavbarVisible ? // desktop
+                      (isWordInfoVisible ? '2%' : '18.75%') : // navbar
+                      (isWordInfoVisible ? '6.25%' : '25%')) // no navbar
                   ),
             transition: 'padding-left 0.3s ease',
             overflowY: 'auto',
@@ -456,7 +493,7 @@ export function HomePage() {
               whiteSpace: 'normal', // Changed from pre-wrap
               cursor: 'pointer',
               lineHeight: '1.6',
-              paddingTop: isMobile ? '50px' : '0px',  // Added to ensure padding
+              paddingTop: isMobile ? '50px' : '100px',  // Added to ensure padding
               maxHeight: isMobile 
                 ? (isTextEmpty ? '0vh' : 
                     (isWordInfoVisible ? 
@@ -563,6 +600,8 @@ export function HomePage() {
                   opacity: !isWordInfoVisible ? 0 : 1,
                   visibility: !isWordInfoVisible ? 'hidden' : 'visible',
                   transition: 'all 0.3s ease',
+                  paddingLeft: '6.25%',
+                  paddingRight:'6.25%'
 
                   
                 }}
@@ -586,12 +625,18 @@ export function HomePage() {
 
                 </ActionIcon>
                 )}
-                <WordDataComponent 
-                  wordData={wordData} 
-                  setWordData={setWordData} 
-                  selectedDictionaries={selectedDictionaries} 
-                  isMobile={isMobile} 
-                />
+
+                  {isLoadingWordData ? (
+                            <LoadingSkeleton />
+                          ) : (
+                            <WordDataComponent
+                              wordData={wordData}
+                              setWordData={setWordData}
+                              selectedDictionaries={selectedDictionaries}
+                              isMobile={isMobile}
+                            />
+                          )}
+
               </Grid.Col>
         ) : "") : (
           <Grid.Col 
@@ -609,7 +654,18 @@ export function HomePage() {
               paddingTop: '60px', // necessary? 
             }}
           >
-            <WordDataComponent wordData={wordData} setWordData={setWordData} selectedDictionaries={selectedDictionaries} isMobile={isMobile} />
+
+            {wordData.length < 1 && isLoadingWordData ?  (
+                    <LoadingSkeleton />
+                  ) : (
+                    <WordDataComponent
+                      wordData={wordData}
+                      setWordData={setWordData}
+                      selectedDictionaries={selectedDictionaries}
+                      isMobile={isMobile}
+                    />
+                  )}
+
           </Grid.Col>
         )}
       </Grid>

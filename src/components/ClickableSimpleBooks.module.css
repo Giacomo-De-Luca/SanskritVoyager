@@ -61,12 +61,14 @@
     padding: 0.5rem 0 0.5rem 2rem;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
-    border-left: 2px solid #eee;
-    color: #666;
+    border-left: 2px solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-gray-6));
+    color: light-dark(var(--mantine-color-dark-3), var(--mantine-color-gray-5));
     display: flex;
     flex-wrap: wrap; /* Allow wrapping when needed */
     align-items: center;
     gap: 4px; /* Consistent spacing between wrapped lines */
+    
+    
   }
   
   .additionalWord {
@@ -78,7 +80,8 @@
   
   /* Existing metadata styles remain the same */
   .bookContainer {
-    padding: 1rem;
+    padding-top: 80px;
+    padding: 0rem;
   }
 
   .originalText {
@@ -86,7 +89,7 @@
   }
   
   .translatedText {
-    color: #666;
+    color: light-dark(var(--mantine-color-dark-3), var(--mantine-color-gray-6));
     font-size: 0.95em;
     margin-left: 2rem;
     margin-bottom: 0.5rem;
@@ -94,7 +97,7 @@
   }
   
   .sanskritWord {
-    color: #2c5282;
+    color: light-dark(var(--mantine-color-palette-9), var(--mantine-color-grape-7));
     text-underline-offset: 3px;
   }
 

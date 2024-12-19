@@ -29,7 +29,7 @@ function WordInfo({
   if (isLoading) {
     return (
       <div className={classes.loaderContainer}>
-        <Loader type="dots" size="sm" color="rgba(191, 191, 191, 1)" />
+        <Loader type="dots" size="sm" color="rgba(191, 191, 191, 1)"  className={classes.loaderContainer} />
       </div>
     );
   }
