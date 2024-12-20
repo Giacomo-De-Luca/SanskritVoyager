@@ -168,6 +168,7 @@ export function HomePage() {
     if (clickedAdditionalWord) {
       // First try with querySelector
       let element = document.querySelector(`h1[data-word="${clickedAdditionalWord}"]`);
+      setIsWordInfoVisible(true)
       
       // If not found, try finding all h1s and match by content
       if (!element) {
@@ -353,7 +354,8 @@ export function HomePage() {
             isTablet && isNavbarVisible ? 12 : 
             (selectedWord !== "" && isWordInfoVisible ? 6 : 12)
           }
-          className={`${classes.scrollContainer} ${classes.textDisplay} ${classes.fadeContainer}`}
+          className={`${classes.scrollContainer} ${classes.textDisplay} `}
+          // ${classes.fadeContainer}
           style={{
             paddingTop: isMobile ? '0px' : '0px', // necessary?
             maxHeight: isMobile ?    //mobile
@@ -488,6 +490,8 @@ export function HomePage() {
                   )
                   : vhActual)                    // half screen for desktop                                      
                   : 0,    // not visible, -- 0 
+
+                  
                   width:
                   isWordInfoVisible ? 
                   (isMobile ? '100%' :   // mobile half screen
