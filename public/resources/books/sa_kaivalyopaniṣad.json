@@ -28,7 +28,8 @@
     "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
     "license": {
       "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
-      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "translated_text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
     },
     "publication_date": "2020-07-31",
     "source": "Ramamaya Tarkaratna: The Arthavana Upanisads, Calucutta 1872, pp. 456-464. (Bibliotheca Indica, 76)"
@@ -41,12 +42,14 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "[Oṃ bhadraṃ karṇebhiḥ śṛṇuyāma devāḥ bhadraṃ paśyemākṣabhir yajatrāḥ |\nsthirair aṅgais tuṣṭuvāṃsas tanūbhir vyaśema devahitaṃ yadāyuḥ |\nsvasti na indro vṛddhaśravāḥ svasti naḥ pūṣā viśvavedāḥ |\nsvasti nas tārkṣyo 'riṣṭanemiḥ svasti no bṛhaspatir dadhātu |\nOṃ śāntiḥ śāntiḥ śāntiḥ |]"
+          "text": "[Oṃ bhadraṃ karṇebhiḥ śṛṇuyāma devāḥ bhadraṃ paśyemākṣabhir yajatrāḥ |\nsthirair aṅgais tuṣṭuvāṃsas tanūbhir vyaśema devahitaṃ yadāyuḥ |\nsvasti na indro vṛddhaśravāḥ svasti naḥ pūṣā viśvavedāḥ |\nsvasti nas tārkṣyo 'riṣṭanemiḥ svasti no bṛhaspatir dadhātu |\nOṃ śāntiḥ śāntiḥ śāntiḥ |]",
+          "translated_text": "[Oṃ bhadraṃ karṇebhiḥ śṛṇuyāma devāḥ bhadraṃ paśyemākṣabhir yajatrāḥ |\nsthirair aṅgais tuṣṭuvāṃsas tanūbhir vyaśema devahitaṃ yadāyuḥ |\nsvasti na indro vṛddhaśravāḥ svasti naḥ pūṣā viśvavedāḥ |\nsvasti nas tārkṣyo 'riṣṭanemiḥ svasti no bṛhaspatir dadhātu |\nOṃ śāntiḥ śāntiḥ śāntiḥ |]"
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "oṃ"
+          "text": "oṃ",
+          "translated_text": "oṃ"
         },
         {
           "tag": "lg",
@@ -55,17 +58,20 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "athāśvalāyano bhagavantaṃ parameṣṭhinam upasametyovāca |"
+              "text": "athāśvalāyano bhagavantaṃ parameṣṭhinam upasametyovāca |",
+              "translated_text": "Then, <s>Aśvalāyana</s>, having approached the venerable <s>Parameṣṭhin</s>, said,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "adhīhi bhagavan brahmavidyāṃ variṣṭhāṃ sadā sadbhiḥ sevyamānāṃ nigūḍhām |"
+              "text": "adhīhi bhagavan brahmavidyāṃ variṣṭhāṃ sadā sadbhiḥ sevyamānāṃ nigūḍhām |",
+              "translated_text": "Teach, O venerable one, the supreme <s>Brahmavidyā</s>, always practiced by the virtuous, hidden,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "yathācirāt [yayācirāt] sarvapāpaṃ vyapohya parātparaṃ puruṣaṃ yāti vidvān ||1||"
+              "text": "yathācirāt [yayācirāt] sarvapāpaṃ vyapohya parātparaṃ puruṣaṃ yāti vidvān ||1||",
+              "translated_text": "by which, in a short time, having dispelled all sins, the wise one attains the supreme <s>Puruṣa</s>."
             }
           ]
         },
@@ -76,12 +82,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "tasmai sa hovāca pitāmahaś ca śraddhā-bhakti-dhyāna-yogād avaihi |"
+              "text": "tasmai sa hovāca pitāmahaś ca śraddhā-bhakti-dhyāna-yogād avaihi |",
+              "translated_text": "To him, <s>Pitāmaha</s> said: Know through <s>Śraddhā</s> (faith), <s>Bhakti</s> (devotion), and <s>Dhyāna-Yoga</s> (meditative union),"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "na karmaṇā na prajayā dhanena tyāgenaike amṛtatvam ānaśuḥ ||2||"
+              "text": "na karmaṇā na prajayā dhanena tyāgenaike amṛtatvam ānaśuḥ ||2||",
+              "translated_text": "not by actions, not by progeny, not by wealth, but by renunciation alone some attained immortality."
             }
           ]
         },
@@ -92,12 +100,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "pareṇa nākaṃ nihitaṃ guhāyāṃ vibhrājate yad yatayo viśanti |"
+              "text": "pareṇa nākaṃ nihitaṃ guhāyāṃ vibhrājate yad yatayo viśanti |",
+              "translated_text": "Beyond, in the cave, shines that which the ascetics enter,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "vedānta-vijñānasuniścitārthāḥ saṃnyāsayogād yatayaḥ śuddhasattvāḥ ||3||"
+              "text": "vedānta-vijñānasuniścitārthāḥ saṃnyāsayogād yatayaḥ śuddhasattvāḥ ||3||",
+              "translated_text": "ascetics with pure <s>Sattva</s> (essence), established in the meaning of <s>Vedānta</s> wisdom, through <s>Saṃnyāsa-Yoga</s> (renunciation union)."
             }
           ]
         },
@@ -108,12 +118,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "te brahmalokeṣu parāntakāle parāmṛtāḥ [parāmṛtāt] parimucyanti sarve |"
+              "text": "te brahmalokeṣu parāntakāle parāmṛtāḥ [parāmṛtāt] parimucyanti sarve |",
+              "translated_text": "They, in the worlds of <s>Brahma</s>, at the end of time, are released from the supreme nectar,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "viviktadeśe ca sukhāsanasthaḥ śuciḥ samagrīvaśiraḥśarīraḥ ||4||"
+              "text": "viviktadeśe ca sukhāsanasthaḥ śuciḥ samagrīvaśiraḥśarīraḥ ||4||",
+              "translated_text": "and in a secluded place, seated in a comfortable posture, pure, with neck, head, and body aligned,"
             }
           ]
         },
@@ -124,12 +136,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "antyāśramasthaḥ sakalendriyāṇi nirudhya bhaktyā svaguruṃ praṇamya |"
+              "text": "antyāśramasthaḥ sakalendriyāṇi nirudhya bhaktyā svaguruṃ praṇamya |",
+              "translated_text": "being in the final stage of life, having restrained all senses, with devotion, bowing to one's own teacher,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "hṛtpuṇḍarīkaṃ virajaṃ viśuddhaṃ vicintya madhye viṣadam [viśadaṃ] viśokam ||5||"
+              "text": "hṛtpuṇḍarīkaṃ virajaṃ viśuddhaṃ vicintya madhye viṣadam [viśadaṃ] viśokam ||5||",
+              "translated_text": "meditating on the heart-lotus, stainless, pure, clear in the middle, free from sorrow,"
             }
           ]
         },
@@ -140,12 +154,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "acintyam avyaktam anantarūpaṃ śivaṃ praśāntam amṛtaṃ brahmayonim |"
+              "text": "acintyam avyaktam anantarūpaṃ śivaṃ praśāntam amṛtaṃ brahmayonim |",
+              "translated_text": "the inconceivable, unmanifest, infinite form, auspicious, tranquil, immortal, the source of <s>Brahma</s>,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tam ādimadhyāntavihīnam ekaṃ vibhuṃ cidānandam arūpam adbhutam ||6||"
+              "text": "tam ādimadhyāntavihīnam ekaṃ vibhuṃ cidānandam arūpam adbhutam ||6||",
+              "translated_text": "that which is without beginning, middle, and end, one, all-pervading, consciousness-bliss, formless, wondrous,"
             }
           ]
         },
@@ -156,12 +172,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "umāsahāyaṃ parameśvaraṃ prabhuṃ trilocanaṃ nīlakaṇṭhaṃ praśāntam |"
+              "text": "umāsahāyaṃ parameśvaraṃ prabhuṃ trilocanaṃ nīlakaṇṭhaṃ praśāntam |",
+              "translated_text": "the companion of <s>Umā</s>, the supreme lord, the master, three-eyed, blue-throated, tranquil,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "dhyātvā munirgacchati bhūtayoniṃ samastasākṣiṃ tamasaḥ parastāt ||7||"
+              "text": "dhyātvā munirgacchati bhūtayoniṃ samastasākṣiṃ tamasaḥ parastāt ||7||",
+              "translated_text": "meditating thus, the sage goes to the source of all beings, the witness of all, beyond darkness."
             }
           ]
         },
@@ -172,12 +190,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "sa brahmā sa śivaḥ sendraḥ so 'kṣaraḥ paramaḥ svarāṭ |"
+              "text": "sa brahmā sa śivaḥ sendraḥ so 'kṣaraḥ paramaḥ svarāṭ |",
+              "translated_text": "He is <s>Brahma</s>, he is <s>Śiva</s>, with <s>Indra</s>, he is the imperishable, the supreme, the self-luminous,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "sa eva viṣṇuḥ sa prāṇaḥ sa kālo 'gniḥ sa candramāḥ ||8||"
+              "text": "sa eva viṣṇuḥ sa prāṇaḥ sa kālo 'gniḥ sa candramāḥ ||8||",
+              "translated_text": "he is indeed <s>Viṣṇu</s>, he is <s>Prāṇa</s>, he is time, fire, he is the moon."
             }
           ]
         },
@@ -188,12 +208,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "sa eva sarvaṃ yad bhūtaṃ yac ca bhavyaṃ sanātanam |"
+              "text": "sa eva sarvaṃ yad bhūtaṃ yac ca bhavyaṃ sanātanam |",
+              "translated_text": "He is indeed all that is past and all that is future, eternal,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "jñātvā taṃ mṛtyum atyeti nānyaḥ panthā vimuktaye ||9||"
+              "text": "jñātvā taṃ mṛtyum atyeti nānyaḥ panthā vimuktaye ||9||",
+              "translated_text": "knowing him, one transcends death; there is no other path to liberation."
             }
           ]
         },
@@ -204,12 +226,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "sarvabhūtastham ātmānaṃ sarvabhūtāni cātmani |"
+              "text": "sarvabhūtastham ātmānaṃ sarvabhūtāni cātmani |",
+              "translated_text": "Seeing the self in all beings and all beings in the self,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "saṃpaśyan brahma paramaṃ yāti nānyena hetunā ||10||"
+              "text": "saṃpaśyan brahma paramaṃ yāti nānyena hetunā ||10||",
+              "translated_text": "one attains the supreme <s>Brahma</s>, not by any other means."
             }
           ]
         },
@@ -220,12 +244,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "ātmānam araṇiṃ kṛtvā praṇavaṃ cottarāraṇim |"
+              "text": "ātmānam araṇiṃ kṛtvā praṇavaṃ cottarāraṇim |",
+              "translated_text": "Making the self the lower <s>araṇi</s> (wood for kindling fire), and <s>Praṇava</s> (Oṃ) the upper <s>araṇi</s>,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "jñānanirmathanābhyāsāt pāpaṃ [pāśaṃ] dahati paṇḍitaḥ ||11||"
+              "text": "jñānanirmathanābhyāsāt pāpaṃ [pāśaṃ] dahati paṇḍitaḥ ||11||",
+              "translated_text": "by the practice of friction of knowledge, the wise one burns away sin."
             }
           ]
         },
@@ -236,12 +262,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "sa eva māyāparimohitātmā śarīram āsthāya karoti sarvam |"
+              "text": "sa eva māyāparimohitātmā śarīram āsthāya karoti sarvam |",
+              "translated_text": "He himself, deluded by <s>Māyā</s>, taking the body, does everything,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "striyannapānādivicitrabhogaiḥ sa eva jāgrat paritṛptim eti ||12||"
+              "text": "striyannapānādivicitrabhogaiḥ sa eva jāgrat paritṛptim eti ||12||",
+              "translated_text": "with various enjoyments like women, food, and drink, he indeed attains satisfaction in waking."
             }
           ]
         },
@@ -252,12 +280,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "svapna [svapne] sa jīvaḥ sukhaduḥkhabhoktā svamāyayā kalpitajīvaloke |"
+              "text": "svapna [svapne] sa jīvaḥ sukhaduḥkhabhoktā svamāyayā kalpitajīvaloke |",
+              "translated_text": "In dream, that <s>Jīva</s> (individual soul) experiences pleasure and pain, in a world created by his own <s>Māyā</s>,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "suṣuptikāle sakale vilīne tamo 'bhibhūtaḥ sukharūpam eti ||13||"
+              "text": "suṣuptikāle sakale vilīne tamo 'bhibhūtaḥ sukharūpam eti ||13||",
+              "translated_text": "in deep sleep, when everything is dissolved, overcome by darkness, he attains the form of bliss."
             }
           ]
         },
@@ -268,19 +298,22 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "punaśca janmāntarakarmayogāt sa eva jīvaḥ svapiti prabuddhaḥ |"
+              "text": "punaśca janmāntarakarmayogāt sa eva jīvaḥ svapiti prabuddhaḥ |",
+              "translated_text": "Again, due to the connection with actions from previous births, that <s>Jīva</s> sleeps and awakens,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "puratraye krīḍati yaśca jīvas tatas tu jātaṃ sakalaṃ vicitram ||14||"
+              "text": "puratraye krīḍati yaśca jīvas tatas tu jātaṃ sakalaṃ vicitram ||14||",
+              "translated_text": "and the <s>Jīva</s> who plays in the three cities, from him arises all the varied manifestations."
             }
           ]
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "dhāramānandam akhaṇḍabodhaṃ yasmiṃl layaṃ yāti puratrayaṃ ca ||14*||"
+          "text": "dhāramānandam akhaṇḍabodhaṃ yasmiṃl layaṃ yāti puratrayaṃ ca ||14*||",
+          "translated_text": "In whom the three cities and the unbroken bliss-consciousness dissolve."
         },
         {
           "tag": "lg",
@@ -289,12 +322,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "etasmāj jāyate prāṇo manaḥ sarvendriyāṇi ca |"
+              "text": "etasmāj jāyate prāṇo manaḥ sarvendriyāṇi ca |",
+              "translated_text": "From this arises <s>Prāṇa</s>, mind, and all the senses,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "khaṃ vāyur jyotir āpaḥ pṛthivī viśvasya dhāriṇī ||15||"
+              "text": "khaṃ vāyur jyotir āpaḥ pṛthivī viśvasya dhāriṇī ||15||",
+              "translated_text": "space, air, light, water, earth, the supporter of the universe."
             }
           ]
         },
@@ -305,12 +340,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "yat paraṃ brahma sarvātmā viśvasyāyatanaṃ mahat |"
+              "text": "yat paraṃ brahma sarvātmā viśvasyāyatanaṃ mahat |",
+              "translated_text": "That which is the supreme <s>Brahma</s>, the self of all, the great abode of the universe,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "sūkṣmāt sūkṣmataraṃ nityaṃ tat tvam eva tvam eva tat ||16||"
+              "text": "sūkṣmāt sūkṣmataraṃ nityaṃ tat tvam eva tvam eva tat ||16||",
+              "translated_text": "subtler than the subtle, eternal, that you are indeed, you are indeed that."
             }
           ]
         },
@@ -321,12 +358,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "jāgratsvapnasuṣuptyādiprapañcaṃ yat prakāśate |"
+              "text": "jāgratsvapnasuṣuptyādiprapañcaṃ yat prakāśate |",
+              "translated_text": "That which illumines the waking, dream, and deep sleep states,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tad brahmāham iti jñātvā sarvabandhaiḥ pramucyate ||17||"
+              "text": "tad brahmāham iti jñātvā sarvabandhaiḥ pramucyate ||17||",
+              "translated_text": "knowing 'I am that <s>Brahma</s>', one is freed from all bonds."
             }
           ]
         },
@@ -337,12 +376,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "triṣu dhāmasu yad bhogyaṃ bhoktā bhogaś ca yad bhavet |"
+              "text": "triṣu dhāmasu yad bhogyaṃ bhoktā bhogaś ca yad bhavet |",
+              "translated_text": "In the three abodes, whatever is enjoyable, the enjoyer, and the enjoyment,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tebhyo vilakṣaṇaḥ sākṣī cinmātro 'haṃ sadā śivaḥ ||18||"
+              "text": "tebhyo vilakṣaṇaḥ sākṣī cinmātro 'haṃ sadā śivaḥ ||18||",
+              "translated_text": "distinct from them is the witness; I am pure consciousness, always auspicious."
             }
           ]
         },
@@ -353,19 +394,22 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "mayy eva sakalaṃ jātaṃ mayi sarvaṃ pratiṣṭhitam |"
+              "text": "mayy eva sakalaṃ jātaṃ mayi sarvaṃ pratiṣṭhitam |",
+              "translated_text": "In me alone is everything born, in me everything is established,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "mayi sarvaṃl layaṃ yāti tad brahmādvayam asmy aham ||19||"
+              "text": "mayi sarvaṃl layaṃ yāti tad brahmādvayam asmy aham ||19||",
+              "translated_text": "in me everything dissolves; I am that non-dual <s>Brahma</s>."
             }
           ]
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "[iti] prathamaḥ khaṇḍaḥ ||"
+          "text": "[iti] prathamaḥ khaṇḍaḥ ||",
+          "translated_text": "[Thus ends] the first section."
         }
       ]
     },
@@ -380,12 +424,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "aṇor aṇiyān aham eva tadvan mahān ahaṃ viśvam ahaṃ vicitram |"
+              "text": "aṇor aṇiyān aham eva tadvan mahān ahaṃ viśvam ahaṃ vicitram |",
+              "translated_text": "I am indeed smaller than the atom, and yet I am great, I am the universe, I am the varied manifestations,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "purātano 'haṃ puruṣo 'ham īśo hiraṇmayo 'haṃ śivarūpam asmi ||20||"
+              "text": "purātano 'haṃ puruṣo 'ham īśo hiraṇmayo 'haṃ śivarūpam asmi ||20||",
+              "translated_text": "I am ancient, I am the <s>Puruṣa</s>, I am the lord, I am golden, I am of the form of <s>Śiva</s>."
             }
           ]
         },
@@ -396,12 +442,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "apāṇipādo 'ham acintyaśaktiḥ paśyāmy acakṣuḥ sa śṛṇomy akarṇaḥ |"
+              "text": "apāṇipādo 'ham acintyaśaktiḥ paśyāmy acakṣuḥ sa śṛṇomy akarṇaḥ |",
+              "translated_text": "I am without hands and feet, of inconceivable power; I see without eyes, I hear without ears,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "ahaṃ vijānāmi viviktarūpo na cāsti vettā mama cit sadāham ||21||"
+              "text": "ahaṃ vijānāmi viviktarūpo na cāsti vettā mama cit sadāham ||21||",
+              "translated_text": "I know, being of distinct form; there is no knower of me; I am always consciousness."
             }
           ]
         },
@@ -412,12 +460,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "vedair anekair aham eva vedyo vedāntakṛd vedavid eva cāham |"
+              "text": "vedair anekair aham eva vedyo vedāntakṛd vedavid eva cāham |",
+              "translated_text": "By many <s>Vedas</s>, I alone am to be known; I am the maker of <s>Vedānta</s> and the knower of the <s>Veda</s>,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "na puṇyapāpe mama nāsti nāśo na janma dehendriyabuddhir asti ||22||"
+              "text": "na puṇyapāpe mama nāsti nāśo na janma dehendriyabuddhir asti ||22||",
+              "translated_text": "there is no merit or sin for me, no destruction, no birth, no body, senses, or intellect."
             }
           ]
         },
@@ -428,24 +478,28 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "na bhūmir āpo na ca vahnir asti na cānilo me 'sti na cāmbaraṃ ca |"
+              "text": "na bhūmir āpo na ca vahnir asti na cānilo me 'sti na cāmbaraṃ ca |",
+              "translated_text": "There is no earth, water, nor fire for me, nor air, nor ether,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "evaṃ viditvā paramātmarūpaṃ guhāśayaṃ niṣkalam advitīyam ||23||"
+              "text": "evaṃ viditvā paramātmarūpaṃ guhāśayaṃ niṣkalam advitīyam ||23||",
+              "translated_text": "thus knowing the form of the supreme self, residing in the cave, partless, non-dual,"
             }
           ]
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "samastasākṣiṃ sadasadvihīnaṃ prayāti śuddhaṃ paramātmarūpam ||23*||"
+          "text": "samastasākṣiṃ sadasadvihīnaṃ prayāti śuddhaṃ paramātmarūpam ||23*||",
+          "translated_text": "the witness of all, devoid of existence and non-existence, attains the pure form of the supreme self."
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "yaḥ śatarūdrīyam adhīte so 'gnipūto bhavati sa vāyupūto bhavati, sa ātmapūto bhavati sa surāpānāt pūto bhavati sa brahmahatyātpūto bhavati sa suvarṇasteyāt pūto bhavati sa kṛtyākṛtyāt pūto bhavati tasmād avimuktam āśrito bhavaty āśramī sarvadā sakṛd vā japet |"
+          "text": "yaḥ śatarūdrīyam adhīte so 'gnipūto bhavati sa vāyupūto bhavati, sa ātmapūto bhavati sa surāpānāt pūto bhavati sa brahmahatyātpūto bhavati sa suvarṇasteyāt pūto bhavati sa kṛtyākṛtyāt pūto bhavati tasmād avimuktam āśrito bhavaty āśramī sarvadā sakṛd vā japet |",
+          "translated_text": "He who studies the <s>Śatarudrīya</s> becomes purified by fire, purified by air, purified in the self, purified from drinking liquor, purified from killing a <s>Brahman</s>, purified from stealing gold, purified from what should and should not be done; therefore, one should resort to the imperishable, whether an ascetic or always, or chant it once."
         },
         {
           "tag": "lg",
@@ -454,29 +508,34 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "anena jñānam āpnoti saṃsārārṇavanāśanam |"
+              "text": "anena jñānam āpnoti saṃsārārṇavanāśanam |",
+              "translated_text": "By this, one attains knowledge, the destruction of the ocean of <s>Saṃsāra</s> (worldly existence)."
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tasmād evaṃ viditvainaṃ kaivalyaṃ padam [phalam] aśnute |"
+              "text": "tasmād evaṃ viditvainaṃ kaivalyaṃ padam [phalam] aśnute |",
+              "translated_text": "Therefore, thus knowing this, one attains the state (fruit) of <s>Kaivalya</s> (liberation)."
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "kaivalyaṃ padam [phalam] aśnute ||24||"
+              "text": "kaivalyaṃ padam [phalam] aśnute ||24||",
+              "translated_text": "One attains the state (fruit) of <s>Kaivalya</s>."
             }
           ]
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "ity atharvavede kaivalyopaniṣat samāptā ||"
+          "text": "ity atharvavede kaivalyopaniṣat samāptā ||",
+          "translated_text": "Thus, in the <s>Atharvaveda</s>, the <s>Kaivalyopaniṣad</s> is concluded."
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "oṃ tat sat"
+          "text": "oṃ tat sat",
+          "translated_text": "Oṃ, that is the truth."
         }
       ]
     }
