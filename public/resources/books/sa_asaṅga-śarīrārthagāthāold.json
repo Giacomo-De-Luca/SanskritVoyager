@@ -1,0 +1,1457 @@
+{
+  "file_title": "asaṅga-śarīrārthagāthā",
+  "file_title_normal": "asanga-sarirarthagatha",
+  "metadata": {
+    "original_title": "Śarīrārthagāthā a chapter of his Yogācārabhūmi",
+    "author": "Asaṅga",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": ": Fumio Enomoto, \"Śarīrārthagāthā, A Collection of Canonical Verses in the Yogācārabhūmi, Part 1: Text\", Sanskrit-Texte aus dem buddhistischen Kanon: Neuentdeckungen und Neueditionen[, Erste Folge], Göttingen 1989 (Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden, Beiheft 2), pp. 17-35."
+  },
+  "body": [
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pāpaṃ na kuryān manasā na vācā kāyena vā kiṃcana sarvaloke /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "riktaḥ kāmaiḥ smṛtimān saṃprajānaṃ duḥkhaṃ na seveta anarthasaṃhitam // Śag_1.1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ākhyeyasaṃjñinaḥ satvā ākhyeye 'smin pratiṣṭhitāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ākhyeyam aparijñāya yogam āyānti mṛtyunaḥ // Śag_2.1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ākhyeyaṃ tu parijñāya ākhyātāraṃ na manyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tad vai na vidyate tasya vadeyur yena taṃ pare // Śag_2.2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "samo viśeṣa uta vāpi hīno yo manyate sa vivadeta tena /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vidhātraye 'smin na vikampate yaḥ samo viśiṣṭaś ca na tasya bhavati // Śag_2.3"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ācchidya tṛṣṇām iha nāmarūpe prahāya mānaṃ ca na saṃgam eti /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "taṃ śāntadhūmam anighaṃ nirāśaṃ nādrākṣus te devamanuṣyaloke /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iha bāhirataś ca // Śag_2.4"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāmarāgābhibhūtatvāc cittaṃ me paridahyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aṃga me gautama brūhi śāntiṃ tvam anukaṃpayā // Śag_3.1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viparyāsena saṃjñānāṃ cittaṃ te paridahyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nimittaṃ varjyatāṃ tasmāc chubhaṃ rāgopasaṃhitaṃ // Śag_3.2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aśubhāṃ bhāvaya sadā tvam ekāgraḥ susamāhitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirvāpayāśu rāgāgniṃ dahyase mā punaḥ punaḥ // Śag_3.3"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saṃskārāvaratāṃ paśya duḥkhato 'nātmatas tathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "smṛtiṃ kāyagatāṃ kṛtvā nirvedabahulo bhava // Śag_3.4"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhāvyatām animittaṃ ca mānānuśayanāśanaṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tato mānābhisamayād duḥkhasyāntaṃ kariṣyasi // Śag_3.5"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kumārikāpraśnagāthā:"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kathaṃvihārabahulo bhikṣuḥ pañcaughatīrṇas taratīha ṣaṣṭhaṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kathaṃdhyāyī vipulāṃ kāmatṛṣṇāṃ tīrṇo bhavaty apratilabdhayoktraḥ // Śag_4.1"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "praśrabdhakāyaḥ suvimuktacitto hy asaṃskurvan smṛtimān akopyaḥ",
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ājñāya dharmam avitarkadhyāyī kopaspṛhāstyānadoṣaiḥ viyuktaḥ // Śag_4.2"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "evaṃvihārabahulo bhikṣuḥ pañcaughatīrṇas taratīha ṣaṣṭhaṃ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "evaṃdhyāyī vipulāṃ kāmatṛṣṇāṃ tīrṇo bhavaty apratilabdhayoktraḥ // Śag_4.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nityotrasto hy ayaṃ loko nityodvignā iyaṃ prajā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anutpanneṣu duḥkheṣu samutpanneṣu vā punaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadi kiṃcid anutrastaṃ pṛṣṭa ācakṣva tan mama // Śag_5.1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nānyatra jñānatapaso nānyatrendriyanigrahāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nānyatra sarvasaṃtyāgān mokṣaṃ paśyāmi devate // Śag_5.2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cirasya bata paśyāmi brāhmaṇaṃ parinirvṛtaṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvavairabhayātītaṃ tīrṇaṃ loke viṣaktikām // Śag_5.3"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kenābhivarṇā janatā praṇītā mārgaś ca nairyāṇikataḥ prayuktaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kutra sthitaḥ kutra ca śikṣamāṇo nāyaṃ martyaḥ paralokād bibheti // Śag_6.1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yaḥ śīlavāñ jñānavān bhāvitātmā samāhitaḥ smṛtimān ṛjugataś ca /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarve 'sya śokajvarathāḥ prahīṇāḥ samyaksmṛto yasya cittaṃ vimuktaṃ // Śag_6.2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tenābhivarṇā janatā praṇītā mārgaś ca nairyāṇikataḥ prayuktaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atra sthitaḥ atra ca śikṣamāṇo nāyaṃ martyaḥ paralokād bibheti // Śag_6.3"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kathaṃ yaśasvī bhavati kathaṃ bhavati bhogavān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kathaṃ kīrtim avāpnoti kathaṃ mitrāṇi vindati // Śag_7.1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śīlād yaśasvī bhavati dānād bhavati bhogavān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "satyena kīrtim āpnoti dadan mitrāṇi vindati // Śag_7.2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kutaḥ sarā nivartante kutra vartma na vartate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kutra duḥkhasukhaṃ loke niḥśeṣam uparudhyate // Śag_8.1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cakṣuḥ śrotraṃ tathā ghrāṇaṃ jihvā kāyo manas tathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yatra nāma ca rūpaṃ ca niḥśeṣam uparuhyate // Śag_8.2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tataḥ sarā nivartante tatra vartma na vartate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatra duḥkhasukhaṃ loke niḥśeṣam uparudhyate // Śag_8.3"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kena svid oghaṃ tarati kenottarati cārṇavaṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "duḥkhaṃ tyajati kena svit kena svit pariśudhyati // Śag_9.1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śraddhayā tarati hy ogham apramādena cārṇavaṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vīryeṇa duḥkhaṃ tyajati prajñayā pariśudhyati // Śag_9.2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ka etam oghaṃ tarati rātriṃdivam atandritaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anālambe 'pratiṣṭhe ca ko gaṃbhīre na sīdati // Śag_10.1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvataḥ śīlasaṃpannaḥ prajñāvān susamāhitaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adhyātmacintī smṛtimāṃs taratīmaṃ sudustaraṃ // Śag_10.2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "viraktaḥ kāmasaṃjñābhyo rūpasaṃyojanātigaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anālambe 'pratiṣṭhe ca sa gaṃbhīre na sīdati // Śag_10.3"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rāgadveṣau bhagavan kinnidānāv aratiratī romaharṣaḥ kuto 'yam /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kutaḥsamutthāś ca mano vitarkāḥ kumārakā dhātrīm ivāśrayante // Śag_11.1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "snehajā ātmasaṃbhūtā nyagrodhaskandhakā yathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pṛthagviṣaktāḥ kāmeṣu mālutā vā latā vane // Śag_11.2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rāgaś ca dveṣaś ca itonidānāv aratiratī romaharṣaḥ ito 'yaṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "itaḥsamutthāś ca mano vitarkāḥ kumārakā dhātrīm ivāśrayante // Śag_11.3"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ye tān prajānanti yatonidānāṃs te tāṃ janā yakṣa vinodayanti /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ta arṇavaṃ saṃpratarantīhaugham atīrṇapūrvam apunarbhavāya // Śag_11.4"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāryam etad brāhmaṇena prahāṇam akilāsinā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāmānāṃ viprahāṇārthaṃ na hi kāṃkṣaty asau bhavaṃ // Śag_12.1"
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "text": "sa kāryaṃ brāhmaṇasyāsti kṛtārtho brāhmaṇaḥ smṛtaḥ // Śag_12.2"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yāvan na gādhaṃ labhate na tīram āyūhate sarvagātraiḥ sa tāvat /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tīraṃ tu labdhveha saṃtiṣṭhati sthale nāyūhate pāragato nirucyate // Śag_12.3"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eṣopamā dāmale brāhmaṇasya kṣīṇāsravo yo nipako dhyānalābhī /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarve 'sya śokajvarathāḥ prahīṇāḥ samyaksmṛto yasya cittaṃ vimuktam // Śag_12.4"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "geya:\nbhikṣo bhikṣo ogham atārṣīḥ /\nāma devate /\nanālambe 'pratiṣṭhe ogham atārṣīḥ /\nāma devate /\nyathā kathaṃ tvaṃ bhikṣo anālambe apratiṣṭhe ogham atārṣīḥ /\nyathā yathāhaṃ devate āyūhāmi tathā tathā saṃsīdāmi / yathā yathā saṃsīdāmi tathā tathā saṃtiṣṭhe / yathā yathā saṃtiṣṭhe tathā tathā uhye / yathā yathāhaṃ devate nāyūhāmi tathā tathā na saṃsīdāmīti vistareṇa śuklapakṣo veditavya",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ḥ"
+        },
+        {
+          "tag": "text",
+          "text": "// Śag_13"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kumārikāpraśnagāthā:"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eko 'raṇye prasṛto dhyāyase tvaṃ vittād vihīna uta vā prārthayānaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "grāmasya vā kiṃcanāgo nv akārṣīḥ kasmāj janena na karoṣi sakhyaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sakhyaṃ na saṃvidyate kena cit tava // Śag_14.1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "arthāprāptyā hṛdayasyeha śāntir jitveha senāṃ priyaśātarūpaṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eko dhyāyī sukham asmy anvabhotsaṃ tasmād janena na karomi sakhyaṃ"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sakhyaṃ na saṃvidyate kena cid mama // Śag_14.2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anityā bata saṃskārā utpādavyayadharmiṇaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "utpadya hi nirudhyante teṣāṃ vyupaśamaḥ sukham // Śag_15 (cf. Uv 1.3)"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "apramādo 'mṛtapadaṃ pramādo mṛtyunaḥ padaṃ /\napramattā na mriyante pramattās tu sadā mṛtā",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ḥ"
+        },
+        {
+          "tag": "text",
+          "text": "// Śag_16 (cf. Uv 4.1)"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vitarkapramathitasya dehinas tīvrarāgasya śubhānudarśinaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bhūyas tṛṣṇā vivardhate sā gāḍhīkurute 'sya bandhanaṃ // Śag_17 (cf. Uv 3.1)"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dharmasthaṃ śīlasaṃpannaṃ hrīmantaṃ satyavādinaṃ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ātmanaḥ priyakartāraṃ taṃ janaḥ kurute priyaṃ // Śag_18 (cf. Uv 5.24)"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yat pareṣūpanidhyāyet karma dṛṣṭveha pāpakam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ātmanā tan na kurvīta karmabaddho hi pāpakaḥ // Śag_19 (cf. Uv 9.6)"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "subhāṣitaṃ hy uttamam āhur āryāḥ priyaṃ vaden nāpriyaṃ tad dvitīyaṃ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "satyaṃ vaden nānṛtaṃ tat tṛtīyaṃ dharmaṃ vaden nādharmaṃ tat caturtham // Śag_20 (cf. Uv 8.11)"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śraddhātha hrīḥ śīlam athāpi dānaṃ dharmā ime satpuruṣapraśastāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "etaṃ hi mārgaṃ divigaṃ vadanti etena vai gacchati devalokam // Śag_21 (cf. Uv 10.1)"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śrutvā dharmaṃ vijānāti śrutvā pāpān nivartate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śrutvā anarthaṃ tyajati śrutvā prāpnoti nirvṛtim // Śag_22 (cf. Uv 22.6)"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ākāśasamo na lipyate indrakīlapratimo na kaṃpate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "hrada iva samupetakardame saṃsāre ramate na paṇḍitaḥ // Śag_23 (cf. Uv 17.12)"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ye rūpeṇa pramiṇvanti māṃ ghoṣeṇānuyānti ca /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "cchandarāgavaśopetā na mā jānanti te janāḥ // Śag_24.1 (cf. Uv 22.12)"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "adhyātmaṃ ca vijānāti bahirdhā ca na paśyati /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "adhyātmaphaladarśī yaḥ sa vai ghoṣeṇa nīyate // Śag_24.2 (cf. Uv 22.13)"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "adhyātmaṃ ca na jānāti bahirdhā ca vipaśyati /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bahirdhāphaladarśī yaḥ so 'pi ghoṣeṇa nīyate // Śag_24.3 (cf. Uv 22.14)"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "adhyātmaṃ ca na jānāti bahirdhā ca na paśyati /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "samantāvaraṇo bālaḥ so 'pi ghoṣeṇa nīyate // Śag_24.4 (cf. Uv 22.15)"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "adhyātmaṃ ca vijānāti bahirdhā ca vipaśyati /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhīro niḥsaraṇaprajño na sa ghoṣeṇa nīyate // Śag_24.5 (cf. Uv 22.16)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṣaṣṭhe adhipatau rājñi rajyamāne rajasvalaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "arajasy arajā bhavati rakto bālo nirucyate // Śag_25 (cf. Uv 16.22)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nagaram asthiprākāraṃ snāyumāṃsānulepanaṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yatra rāgaś ca dveṣaś ca māno mrakṣaś ca gāhate // Śag_26 (cf. Uv 16.23)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kūrmaḥ svake 'ṅgāni yathā kapāle bhikṣur nidadhyān manaso vitarkāni /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aniśrito 'nyān aviheṭhamānaḥ parinirvṛto nāpavadeta kaṃ cit // Śag_27 (cf. Uv 26.1)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tulyam atulyaṃ ca saṃbhavaṃ bhavasaṃskāram avāsṛjan muniḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adhyātmarataḥ samāhita abhinat kośam ivāṇḍasaṃbhavaḥ // Śag_28 (cf. Uv 26.30)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāsti kāmasamaḥ paṃko nāsti dveṣasamo grahaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nāsti mohasamaṃ jālaṃ nāsti tṛṣṇāsamā nadī // Śag_29 (cf. Uv 29.37)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ākāśe vai padaṃ nāsti śramaṇo nāsti bāhyakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prapañcābhiratā bālā niṣprapañcās tathāgatāḥ // Śag_30 (cf. Uv 29.38)"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sthitiḥ prapaṃcāś ca na santi yasya yaḥ sa",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ṃ"
+        },
+        {
+          "tag": "text",
+          "text": "dānaṃ parighaṃ cātivṛttaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "taṃ nistṛṣṇaṃ muniṃ carantaṃ na vijānāti sadevako 'pi lokaḥ // Śag_31 (cf. Uv 29.51)"
+        },
+        {
+          "tag": "text",
+          "text": "yasya vitarkā vidhūpitā adhyātmam avikalpitā aśeṣaṃ /\nsaṃgaṃ so 'tītya rūpasaṃjñā"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ṃ"
+        },
+        {
+          "tag": "text",
+          "text": "caturyogāpagato na jātim eti // Śag_32 (cf. Uv 29.56)"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dadataḥ puṇyaṃ pravardhate vairaṃ saṃyamato na cīyate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kuśalī prajahāti pāpakaṃ kleśānāṃ kṣayatas tu nirvṛtaḥ // Śag_33 (cf. Uv 28.2)"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvapāpasyākaraṇaṃ kuśalasyopasaṃpadā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svacittaparyavadamanam etaṃ buddhānuśāsanaṃ // Śag_34 (cf. Uv 28.1)"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "durnigrahasya laghuno yatrakāmanipātinaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "cittasya dāmanaṃ sādhu cittaṃ dāntaṃ sukhāvaham // Śag_35 (cf. Uv 31.1)"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "cittanimittasya kovidaḥ pravivekasya ca vindate rasaṃ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dhyāyī nipakaḥ pratismṛto bhuṃkte prītisukhaṃ nirāmiṣaṃ // Śag_36 (cf. Uv 31.51)"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "aśilpajīvī laghur ātmakāmo jitendriyaḥ sarvato vipramuktaḥ /\nanokasārī hy amamo nirāśaḥ kāmān prahāyaikacaro yas sa bhikṣu"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ḥ"
+        },
+        {
+          "tag": "text",
+          "text": "// Śag_37 (cf. Uv 32.5)\ndūraṃga"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ma"
+        },
+        {
+          "tag": "text",
+          "text": "m ekacaram aśarīraṃ guhāśayaṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "damayati durdamaṃ cittaṃ brāhmaṇaṃ taṃ bravīmy ahaṃ // Śag_38 (cf. Uv 33.55)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pārāyaṇeṣv ajitapraśnaḥ:"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kenāyaṃ nivṛto lokaḥ kenāyaṃ na prakāśate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kiṃ cābhilepanaṃ brūṣe kiṃ ca tasya mahad bhayam // Śag_39.1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avidyānivṛto lokaḥ pramādān na prakāśate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "jalpābhilepanaṃ brūmi duḥkhaṃ tasya mahad bhayaṃ // Śag_39.2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sravanti sarvataḥ srotāḥ srotasāṃ kiṃ nivāraṇaṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "srotasāṃ saṃvaraṃ brūhi kena srotaḥ pidhīyate // Śag_39.3"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yāni srotāṃsi lokasya smṛtiḥ teṣāṃ nivāraṇaṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "srotasāṃ saṃvaraṃ brūmi prajñayā hi pidhīyate // Śag_39.4"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñāyāś ca smṛteś caiva nāmarūpasya sarvaśaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ācakṣva pṛṣṭa etan me kutraitad uparudhyate // Śag_39.5"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prajñā caiva smṛtiś caiva nāmarūpaṃ ca sarvaśaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñānasya nirodhād dhi atraitad uparudhyate // Śag_39.6"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kathaṃ smṛtasya carato vijñānam uparudhyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ācakṣva pṛṣṭa etan me yathātatham asaṃśayaḥ // Śag_39.7"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adhyātaṃ ca bahirdhā ca vedanāṃ nābhinandataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ smṛtasya carato vijñānam uparudhyate // Śag_39.8"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ye ca saṃkhyātadharmāṇo ye ca śaikṣāḥ pṛ",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "tha"
+        },
+        {
+          "tag": "text",
+          "text": "gvidhāḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "teṣāṃ me nipakasyeryāṃ pṛṣṭaḥ prabrūhi mārṣa // Śag_39.9"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kāmeṣu nābhigṛdhyeta manasānāvilo bhavet /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kuśalaḥ sarvadharmeṣu smṛto bhikṣuḥ parivrajet // Śag_39.10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "arthavargīyeṣu kāmān ārabhya gāthā:"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kāmān kāmāyamānasya tasya cet tat samṛdhyati /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "addhā prītamanā bhavati labdhvā martyo yad īpsitaṃ // Śag_40.1"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasya cet kāmāyamānasya chandajātasya jaṃtunaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "te kāmāḥ parihīyaṃte śalyaviddha iva rūpyate // Śag_40.2"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yaḥ kāmāṃ parivarjayati sarpasyeva śirāt padaṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sa imāṃ viṣaktikāṃ loke smṛtaḥ samativartate // Śag_40.3"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣetravastuhiraṇ@yaṃ ca gavāśvamaṇikuṇḍalaṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "striyo dāsān pṛthakkāmān yo naro hy abhigṛdhyati // Śag_40.4"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "abalaṃ vā balīyāṃso mṛdnaṃty enaṃ parisravā",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ḥ"
+        },
+        {
+          "tag": "text",
+          "text": "/"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tata enaṃ duḥkham anveti bhinnāṃ nāvam ivodakaṃ // Śag_40.5"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yasya tv etat samucchinnaṃ tālamastakavad dhataṃ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śokās tasya nivartante udabindur iva puṣkarāt // Śag_40.6 (cf. Uv 10.13ab und 3.10cd)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhadraikarāgāthā (bhadragarātrīya, bhadrakarātriya):"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "atītaṃ nānvāgamayen na pratikāṃkṣed anāgataṃ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyutpannāś ca ye dharmās tatra tatra vipaśyakaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "asaṃhāryam asaṃkṣobhyaṃ tad vidvān anubṛṃhayet // Śag_41.1"
+        }
+      ]
+    }
+  ]
+}

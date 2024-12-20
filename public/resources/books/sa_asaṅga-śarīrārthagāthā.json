@@ -29,7 +29,8 @@
     "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
     "license": {
       "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
-      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "translated_text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
     },
     "publication_date": "2020-07-31",
     "source": ": Fumio Enomoto, \"Śarīrārthagāthā, A Collection of Canonical Verses in the Yogācārabhūmi, Part 1: Text\", Sanskrit-Texte aus dem buddhistischen Kanon: Neuentdeckungen und Neueditionen[, Erste Folge], Göttingen 1989 (Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden, Beiheft 2), pp. 17-35."
@@ -42,12 +43,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pāpaṃ na kuryān manasā na vācā kāyena vā kiṃcana sarvaloke /"
+          "text": "pāpaṃ na kuryān manasā na vācā kāyena vā kiṃcana sarvaloke /",
+          "translated_text": "One should not commit sin by mind, speech, or body in the entire world;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "riktaḥ kāmaiḥ smṛtimān saṃprajānaṃ duḥkhaṃ na seveta anarthasaṃhitam // Śag_1.1"
+          "text": "riktaḥ kāmaiḥ smṛtimān saṃprajānaṃ duḥkhaṃ na seveta anarthasaṃhitam // Śag_1.1",
+          "translated_text": "Being devoid of desires, mindful, and aware, one should not engage in suffering connected with misfortune."
         }
       ]
     },
@@ -58,12 +61,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ākhyeyasaṃjñinaḥ satvā ākhyeye 'smin pratiṣṭhitāḥ /"
+          "text": "ākhyeyasaṃjñinaḥ satvā ākhyeye 'smin pratiṣṭhitāḥ /",
+          "translated_text": "Beings identified with the name are established in this name;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ākhyeyam aparijñāya yogam āyānti mṛtyunaḥ // Śag_2.1"
+          "text": "ākhyeyam aparijñāya yogam āyānti mṛtyunaḥ // Śag_2.1",
+          "translated_text": "Not knowing the name, they come to the <s>Yoga</s> of death."
         }
       ]
     },
@@ -74,12 +79,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ākhyeyaṃ tu parijñāya ākhyātāraṃ na manyate /"
+          "text": "ākhyeyaṃ tu parijñāya ākhyātāraṃ na manyate /",
+          "translated_text": "But knowing the name, they do not consider the speaker;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tad vai na vidyate tasya vadeyur yena taṃ pare // Śag_2.2"
+          "text": "tad vai na vidyate tasya vadeyur yena taṃ pare // Śag_2.2",
+          "translated_text": "That indeed does not exist of which others would speak of him."
         }
       ]
     },
@@ -90,12 +97,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "samo viśeṣa uta vāpi hīno yo manyate sa vivadeta tena /"
+          "text": "samo viśeṣa uta vāpi hīno yo manyate sa vivadeta tena /",
+          "translated_text": "Whether equal, superior, or inferior, one who thinks thus debates with him;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vidhātraye 'smin na vikampate yaḥ samo viśiṣṭaś ca na tasya bhavati // Śag_2.3"
+          "text": "vidhātraye 'smin na vikampate yaḥ samo viśiṣṭaś ca na tasya bhavati // Śag_2.3",
+          "translated_text": "In this triad of creators, he who does not waver, neither equal nor superior belongs to him."
         }
       ]
     },
@@ -106,17 +115,20 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ācchidya tṛṣṇām iha nāmarūpe prahāya mānaṃ ca na saṃgam eti /"
+          "text": "ācchidya tṛṣṇām iha nāmarūpe prahāya mānaṃ ca na saṃgam eti /",
+          "translated_text": "Having cut off craving here in name and form, having abandoned pride, he does not come to attachment;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "taṃ śāntadhūmam anighaṃ nirāśaṃ nādrākṣus te devamanuṣyaloke /"
+          "text": "taṃ śāntadhūmam anighaṃ nirāśaṃ nādrākṣus te devamanuṣyaloke /",
+          "translated_text": "Him, with tranquil smoke, free from distress, without hope, they have not seen in the world of gods and men,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "iha bāhirataś ca // Śag_2.4"
+          "text": "iha bāhirataś ca // Śag_2.4",
+          "translated_text": "here and beyond."
         }
       ]
     },
@@ -127,12 +139,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kāmarāgābhibhūtatvāc cittaṃ me paridahyate /"
+          "text": "kāmarāgābhibhūtatvāc cittaṃ me paridahyate /",
+          "translated_text": "Overcome by desire and passion, my mind is burning;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "aṃga me gautama brūhi śāntiṃ tvam anukaṃpayā // Śag_3.1"
+          "text": "aṃga me gautama brūhi śāntiṃ tvam anukaṃpayā // Śag_3.1",
+          "translated_text": "O <s>Gautama</s>, tell me the peace out of compassion."
         }
       ]
     },
@@ -143,12 +157,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "viparyāsena saṃjñānāṃ cittaṃ te paridahyate /"
+          "text": "viparyāsena saṃjñānāṃ cittaṃ te paridahyate /",
+          "translated_text": "Due to the distortion of perceptions, your mind is burning;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "nimittaṃ varjyatāṃ tasmāc chubhaṃ rāgopasaṃhitaṃ // Śag_3.2"
+          "text": "nimittaṃ varjyatāṃ tasmāc chubhaṃ rāgopasaṃhitaṃ // Śag_3.2",
+          "translated_text": "Therefore, avoid the cause associated with auspicious passion."
         }
       ]
     },
@@ -159,12 +175,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "aśubhāṃ bhāvaya sadā tvam ekāgraḥ susamāhitaḥ /"
+          "text": "aśubhāṃ bhāvaya sadā tvam ekāgraḥ susamāhitaḥ /",
+          "translated_text": "Always cultivate the inauspicious, being single-minded and well-composed;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "nirvāpayāśu rāgāgniṃ dahyase mā punaḥ punaḥ // Śag_3.3"
+          "text": "nirvāpayāśu rāgāgniṃ dahyase mā punaḥ punaḥ // Śag_3.3",
+          "translated_text": "Extinguish quickly the fire of passion, do not burn again and again."
         }
       ]
     },
@@ -175,12 +193,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "saṃskārāvaratāṃ paśya duḥkhato 'nātmatas tathā /"
+          "text": "saṃskārāvaratāṃ paśya duḥkhato 'nātmatas tathā /",
+          "translated_text": "See the obscuration of <s>saṃskāras</s> as painful and non-self;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "smṛtiṃ kāyagatāṃ kṛtvā nirvedabahulo bhava // Śag_3.4"
+          "text": "smṛtiṃ kāyagatāṃ kṛtvā nirvedabahulo bhava // Śag_3.4",
+          "translated_text": "Establish mindfulness on the body and be abundant in dispassion."
         }
       ]
     },
@@ -191,12 +211,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhāvyatām animittaṃ ca mānānuśayanāśanaṃ /"
+          "text": "bhāvyatām animittaṃ ca mānānuśayanāśanaṃ /",
+          "translated_text": "Cultivate the signless and the destruction of pride and latent tendencies;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tato mānābhisamayād duḥkhasyāntaṃ kariṣyasi // Śag_3.5"
+          "text": "tato mānābhisamayād duḥkhasyāntaṃ kariṣyasi // Śag_3.5",
+          "translated_text": "Then, through the understanding of pride, you will make an end of suffering."
         }
       ]
     },
@@ -207,17 +229,20 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kumārikāpraśnagāthā:"
+          "text": "kumārikāpraśnagāthā:",
+          "translated_text": "The Verses of the Questions of the Maiden:"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kathaṃvihārabahulo bhikṣuḥ pañcaughatīrṇas taratīha ṣaṣṭhaṃ /"
+          "text": "kathaṃvihārabahulo bhikṣuḥ pañcaughatīrṇas taratīha ṣaṣṭhaṃ /",
+          "translated_text": "How does a monk, abundant in dwelling, cross over the five floods here to the sixth?"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kathaṃdhyāyī vipulāṃ kāmatṛṣṇāṃ tīrṇo bhavaty apratilabdhayoktraḥ // Śag_4.1"
+          "text": "kathaṃdhyāyī vipulāṃ kāmatṛṣṇāṃ tīrṇo bhavaty apratilabdhayoktraḥ // Śag_4.1",
+          "translated_text": "How does one, meditating, cross over the vast craving for desire, becoming unrestrained?"
         }
       ]
     },
@@ -229,7 +254,8 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ājñāya dharmam avitarkadhyāyī kopaspṛhāstyānadoṣaiḥ viyuktaḥ // Śag_4.2"
+          "text": "ājñāya dharmam avitarkadhyāyī kopaspṛhāstyānadoṣaiḥ viyuktaḥ // Śag_4.2",
+          "translated_text": "Having understood the <s>Dharma</s>, meditating without thought, free from anger, desire, and sloth."
         },
         {
           "tag": "lg",
@@ -238,16 +264,19 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "evaṃvihārabahulo bhikṣuḥ pañcaughatīrṇas taratīha ṣaṣṭhaṃ /"
+              "text": "evaṃvihārabahulo bhikṣuḥ pañcaughatīrṇas taratīha ṣaṣṭhaṃ /",
+              "translated_text": "Thus, a monk abundant in dwelling crosses over the five floods here to the sixth;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "evaṃdhyāyī vipulāṃ kāmatṛṣṇāṃ tīrṇo bhavaty apratilabdhayoktraḥ // Śag_4.3"
+              "text": "evaṃdhyāyī vipulāṃ kāmatṛṣṇāṃ tīrṇo bhavaty apratilabdhayoktraḥ // Śag_4.3",
+              "translated_text": "Thus, one meditating crosses over the vast craving for desire, becoming unrestrained."
             }
           ]
         }
-      ]
+      ],
+      "translated_text": "With a tranquil body, a well-liberated mind, not fabricating, mindful and unshakable,"
     },
     {
       "tag": "lg",
@@ -256,17 +285,20 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "nityotrasto hy ayaṃ loko nityodvignā iyaṃ prajā /"
+          "text": "nityotrasto hy ayaṃ loko nityodvignā iyaṃ prajā /",
+          "translated_text": "This world is always fearful, these beings are always anxious;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "anutpanneṣu duḥkheṣu samutpanneṣu vā punaḥ /"
+          "text": "anutpanneṣu duḥkheṣu samutpanneṣu vā punaḥ /",
+          "translated_text": "In sufferings not arisen or arisen again;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yadi kiṃcid anutrastaṃ pṛṣṭa ācakṣva tan mama // Śag_5.1"
+          "text": "yadi kiṃcid anutrastaṃ pṛṣṭa ācakṣva tan mama // Śag_5.1",
+          "translated_text": "If there is anything fearless, tell me that when asked."
         }
       ]
     },
@@ -277,12 +309,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "nānyatra jñānatapaso nānyatrendriyanigrahāt /"
+          "text": "nānyatra jñānatapaso nānyatrendriyanigrahāt /",
+          "translated_text": "There is no liberation other than through knowledge and austerity, other than through control of the senses;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "nānyatra sarvasaṃtyāgān mokṣaṃ paśyāmi devate // Śag_5.2"
+          "text": "nānyatra sarvasaṃtyāgān mokṣaṃ paśyāmi devate // Śag_5.2",
+          "translated_text": "I see no liberation other than through the renunciation of all, O deity."
         }
       ]
     },
@@ -293,12 +327,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "cirasya bata paśyāmi brāhmaṇaṃ parinirvṛtaṃ /"
+          "text": "cirasya bata paśyāmi brāhmaṇaṃ parinirvṛtaṃ /",
+          "translated_text": "For a long time, indeed, I see a <s>Brāhmaṇa</s> completely liberated;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sarvavairabhayātītaṃ tīrṇaṃ loke viṣaktikām // Śag_5.3"
+          "text": "sarvavairabhayātītaṃ tīrṇaṃ loke viṣaktikām // Śag_5.3",
+          "translated_text": "Surpassed all enmity and fear, crossed over the world of attachment and desire."
         }
       ]
     },
@@ -309,12 +345,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kenābhivarṇā janatā praṇītā mārgaś ca nairyāṇikataḥ prayuktaḥ /"
+          "text": "kenābhivarṇā janatā praṇītā mārgaś ca nairyāṇikataḥ prayuktaḥ /",
+          "translated_text": "By whom are the people described and guided, and the path directed towards liberation?"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kutra sthitaḥ kutra ca śikṣamāṇo nāyaṃ martyaḥ paralokād bibheti // Śag_6.1"
+          "text": "kutra sthitaḥ kutra ca śikṣamāṇo nāyaṃ martyaḥ paralokād bibheti // Śag_6.1",
+          "translated_text": "Where established, and where learning, does this mortal not fear the other world?"
         }
       ]
     },
@@ -325,12 +363,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yaḥ śīlavāñ jñānavān bhāvitātmā samāhitaḥ smṛtimān ṛjugataś ca /"
+          "text": "yaḥ śīlavāñ jñānavān bhāvitātmā samāhitaḥ smṛtimān ṛjugataś ca /",
+          "translated_text": "Who is virtuous, wise, cultivated in self, composed, mindful, and straightforward in conduct;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sarve 'sya śokajvarathāḥ prahīṇāḥ samyaksmṛto yasya cittaṃ vimuktaṃ // Śag_6.2"
+          "text": "sarve 'sya śokajvarathāḥ prahīṇāḥ samyaksmṛto yasya cittaṃ vimuktaṃ // Śag_6.2",
+          "translated_text": "All his sorrows and fevers are abandoned, whose mind is truly liberated with right mindfulness."
         }
       ]
     },
@@ -341,12 +381,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tenābhivarṇā janatā praṇītā mārgaś ca nairyāṇikataḥ prayuktaḥ /"
+          "text": "tenābhivarṇā janatā praṇītā mārgaś ca nairyāṇikataḥ prayuktaḥ /",
+          "translated_text": "By him, the people are described and guided, and the path directed towards liberation."
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "atra sthitaḥ atra ca śikṣamāṇo nāyaṃ martyaḥ paralokād bibheti // Śag_6.3"
+          "text": "atra sthitaḥ atra ca śikṣamāṇo nāyaṃ martyaḥ paralokād bibheti // Śag_6.3",
+          "translated_text": "Established here, and learning here, this mortal does not fear the other world."
         }
       ]
     },
@@ -357,12 +399,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kathaṃ yaśasvī bhavati kathaṃ bhavati bhogavān /"
+          "text": "kathaṃ yaśasvī bhavati kathaṃ bhavati bhogavān /",
+          "translated_text": "How does one become renowned, how does one become prosperous?"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kathaṃ kīrtim avāpnoti kathaṃ mitrāṇi vindati // Śag_7.1"
+          "text": "kathaṃ kīrtim avāpnoti kathaṃ mitrāṇi vindati // Śag_7.1",
+          "translated_text": "How does one gain fame, how does one find friends?"
         }
       ]
     },
@@ -373,12 +417,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "śīlād yaśasvī bhavati dānād bhavati bhogavān /"
+          "text": "śīlād yaśasvī bhavati dānād bhavati bhogavān /",
+          "translated_text": "Through virtue, one becomes renowned; through charity, one becomes prosperous;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "satyena kīrtim āpnoti dadan mitrāṇi vindati // Śag_7.2"
+          "text": "satyena kīrtim āpnoti dadan mitrāṇi vindati // Śag_7.2",
+          "translated_text": "Through truth, one gains fame; by giving, one finds friends."
         }
       ]
     },
@@ -389,12 +435,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kutaḥ sarā nivartante kutra vartma na vartate /"
+          "text": "kutaḥ sarā nivartante kutra vartma na vartate /",
+          "translated_text": "From where do streams return, where does the path not continue?"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kutra duḥkhasukhaṃ loke niḥśeṣam uparudhyate // Śag_8.1"
+          "text": "kutra duḥkhasukhaṃ loke niḥśeṣam uparudhyate // Śag_8.1",
+          "translated_text": "Where in the world is all pleasure and pain completely obstructed?"
         }
       ]
     },
@@ -405,12 +453,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "cakṣuḥ śrotraṃ tathā ghrāṇaṃ jihvā kāyo manas tathā /"
+          "text": "cakṣuḥ śrotraṃ tathā ghrāṇaṃ jihvā kāyo manas tathā /",
+          "translated_text": "The eye, ear, as well as nose, tongue, body, and mind;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yatra nāma ca rūpaṃ ca niḥśeṣam uparuhyate // Śag_8.2"
+          "text": "yatra nāma ca rūpaṃ ca niḥśeṣam uparuhyate // Śag_8.2",
+          "translated_text": "Where name and form are completely obstructed."
         }
       ]
     },
@@ -421,12 +471,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tataḥ sarā nivartante tatra vartma na vartate /"
+          "text": "tataḥ sarā nivartante tatra vartma na vartate /",
+          "translated_text": "From there streams return, there the path does not continue;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tatra duḥkhasukhaṃ loke niḥśeṣam uparudhyate // Śag_8.3"
+          "text": "tatra duḥkhasukhaṃ loke niḥśeṣam uparudhyate // Śag_8.3",
+          "translated_text": "There, in the world, all pleasure and pain are completely obstructed."
         }
       ]
     },
@@ -437,12 +489,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kena svid oghaṃ tarati kenottarati cārṇavaṃ /"
+          "text": "kena svid oghaṃ tarati kenottarati cārṇavaṃ /",
+          "translated_text": "By what does one cross the flood, by what does one ascend the ocean?"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "duḥkhaṃ tyajati kena svit kena svit pariśudhyati // Śag_9.1"
+          "text": "duḥkhaṃ tyajati kena svit kena svit pariśudhyati // Śag_9.1",
+          "translated_text": "By what does one abandon suffering, by what does one become purified?"
         }
       ]
     },
@@ -453,12 +507,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "śraddhayā tarati hy ogham apramādena cārṇavaṃ /"
+          "text": "śraddhayā tarati hy ogham apramādena cārṇavaṃ /",
+          "translated_text": "By faith, one crosses the flood, by vigilance, the ocean;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vīryeṇa duḥkhaṃ tyajati prajñayā pariśudhyati // Śag_9.2"
+          "text": "vīryeṇa duḥkhaṃ tyajati prajñayā pariśudhyati // Śag_9.2",
+          "translated_text": "By energy, one abandons suffering, by wisdom, one becomes purified."
         }
       ]
     },
@@ -469,12 +525,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ka etam oghaṃ tarati rātriṃdivam atandritaḥ /"
+          "text": "ka etam oghaṃ tarati rātriṃdivam atandritaḥ /",
+          "translated_text": "Who crosses this flood, untiring day and night?"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "anālambe 'pratiṣṭhe ca ko gaṃbhīre na sīdati // Śag_10.1"
+          "text": "anālambe 'pratiṣṭhe ca ko gaṃbhīre na sīdati // Śag_10.1",
+          "translated_text": "Who, without support and foundation, does not sink in the deep?"
         }
       ]
     },
@@ -485,12 +543,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sarvataḥ śīlasaṃpannaḥ prajñāvān susamāhitaḥ /"
+          "text": "sarvataḥ śīlasaṃpannaḥ prajñāvān susamāhitaḥ /",
+          "translated_text": "One endowed with virtue in all respects, wise, well-composed;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "adhyātmacintī smṛtimāṃs taratīmaṃ sudustaraṃ // Śag_10.2"
+          "text": "adhyātmacintī smṛtimāṃs taratīmaṃ sudustaraṃ // Śag_10.2",
+          "translated_text": "Reflecting on the self, mindful, crosses this very difficult [flood]."
         }
       ]
     },
@@ -501,12 +561,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "viraktaḥ kāmasaṃjñābhyo rūpasaṃyojanātigaḥ /"
+          "text": "viraktaḥ kāmasaṃjñābhyo rūpasaṃyojanātigaḥ /",
+          "translated_text": "Dispassionate towards the perceptions of desire, beyond the bonds of form;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "anālambe 'pratiṣṭhe ca sa gaṃbhīre na sīdati // Śag_10.3"
+          "text": "anālambe 'pratiṣṭhe ca sa gaṃbhīre na sīdati // Śag_10.3",
+          "translated_text": "Without support and foundation, he does not sink in the deep."
         }
       ]
     },
@@ -517,12 +579,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "rāgadveṣau bhagavan kinnidānāv aratiratī romaharṣaḥ kuto 'yam /"
+          "text": "rāgadveṣau bhagavan kinnidānāv aratiratī romaharṣaḥ kuto 'yam /",
+          "translated_text": "O Blessed One, what is the cause of attachment and aversion, indifference and delight, whence is this?"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kutaḥsamutthāś ca mano vitarkāḥ kumārakā dhātrīm ivāśrayante // Śag_11.1"
+          "text": "kutaḥsamutthāś ca mano vitarkāḥ kumārakā dhātrīm ivāśrayante // Śag_11.1",
+          "translated_text": "Whence do thoughts of the mind arise, adhering like children to a nurse?"
         }
       ]
     },
@@ -533,12 +597,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "snehajā ātmasaṃbhūtā nyagrodhaskandhakā yathā /"
+          "text": "snehajā ātmasaṃbhūtā nyagrodhaskandhakā yathā /",
+          "translated_text": "Born of affection, self-arisen, like the branches of a banyan tree;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pṛthagviṣaktāḥ kāmeṣu mālutā vā latā vane // Śag_11.2"
+          "text": "pṛthagviṣaktāḥ kāmeṣu mālutā vā latā vane // Śag_11.2",
+          "translated_text": "Separately attached to desires, like creepers in the forest."
         }
       ]
     },
@@ -549,12 +615,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "rāgaś ca dveṣaś ca itonidānāv aratiratī romaharṣaḥ ito 'yaṃ /"
+          "text": "rāgaś ca dveṣaś ca itonidānāv aratiratī romaharṣaḥ ito 'yaṃ /",
+          "translated_text": "Attachment and aversion have this cause, indifference and delight have this origin;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "itaḥsamutthāś ca mano vitarkāḥ kumārakā dhātrīm ivāśrayante // Śag_11.3"
+          "text": "itaḥsamutthāś ca mano vitarkāḥ kumārakā dhātrīm ivāśrayante // Śag_11.3",
+          "translated_text": "From here arise thoughts of the mind, adhering like children to a nurse."
         }
       ]
     },
@@ -565,12 +633,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ye tān prajānanti yatonidānāṃs te tāṃ janā yakṣa vinodayanti /"
+          "text": "ye tān prajānanti yatonidānāṃs te tāṃ janā yakṣa vinodayanti /",
+          "translated_text": "Those who know these causes, O Yakṣa, those people remove them;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ta arṇavaṃ saṃpratarantīhaugham atīrṇapūrvam apunarbhavāya // Śag_11.4"
+          "text": "ta arṇavaṃ saṃpratarantīhaugham atīrṇapūrvam apunarbhavāya // Śag_11.4",
+          "translated_text": "They cross the ocean, the flood never crossed before, for non-return."
         }
       ]
     },
@@ -581,19 +651,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kāryam etad brāhmaṇena prahāṇam akilāsinā /"
+          "text": "kāryam etad brāhmaṇena prahāṇam akilāsinā /",
+          "translated_text": "This is the task of a <s>Brāhmaṇa</s>, to abandon with diligence;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kāmānāṃ viprahāṇārthaṃ na hi kāṃkṣaty asau bhavaṃ // Śag_12.1"
+          "text": "kāmānāṃ viprahāṇārthaṃ na hi kāṃkṣaty asau bhavaṃ // Śag_12.1",
+          "translated_text": "For the sake of abandoning desires, he does not long for existence."
         }
       ]
     },
     {
       "tag": "l",
       "attributes": {},
-      "text": "sa kāryaṃ brāhmaṇasyāsti kṛtārtho brāhmaṇaḥ smṛtaḥ // Śag_12.2"
+      "text": "sa kāryaṃ brāhmaṇasyāsti kṛtārtho brāhmaṇaḥ smṛtaḥ // Śag_12.2",
+      "translated_text": "This is the task of the <s>Brāhmaṇa</s>, he is considered accomplished."
     },
     {
       "tag": "lg",
@@ -602,12 +675,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yāvan na gādhaṃ labhate na tīram āyūhate sarvagātraiḥ sa tāvat /"
+          "text": "yāvan na gādhaṃ labhate na tīram āyūhate sarvagātraiḥ sa tāvat /",
+          "translated_text": "As long as he does not reach the depth, he strives with all limbs;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tīraṃ tu labdhveha saṃtiṣṭhati sthale nāyūhate pāragato nirucyate // Śag_12.3"
+          "text": "tīraṃ tu labdhveha saṃtiṣṭhati sthale nāyūhate pāragato nirucyate // Śag_12.3",
+          "translated_text": "Having reached the shore, he stands firm, does not strive, is called one who has gone beyond."
         }
       ]
     },
@@ -618,12 +693,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "eṣopamā dāmale brāhmaṇasya kṣīṇāsravo yo nipako dhyānalābhī /"
+          "text": "eṣopamā dāmale brāhmaṇasya kṣīṇāsravo yo nipako dhyānalābhī /",
+          "translated_text": "This is the simile, O Dāmali, of the <s>Brāhmaṇa</s> whose defilements are exhausted, who is wise, attaining meditation;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sarve 'sya śokajvarathāḥ prahīṇāḥ samyaksmṛto yasya cittaṃ vimuktam // Śag_12.4"
+          "text": "sarve 'sya śokajvarathāḥ prahīṇāḥ samyaksmṛto yasya cittaṃ vimuktam // Śag_12.4",
+          "translated_text": "All his sorrows and fevers are abandoned, whose mind is truly liberated with right mindfulness."
         }
       ]
     },
@@ -637,11 +714,44 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "translated_text": "ḥ"
         },
         {
           "tag": "text",
-          "text": "// Śag_13"
+          "text": "// Śag_13",
+          "translated_text": "// Śag_13"
+        }
+      ],
+      "translated_text": "geya:\nbhikṣo bhikṣo ogham atārṣīḥ /\nāma devate /\nanālambe 'pratiṣṭhe ogham atārṣīḥ /\nāma devate /\nyathā kathaṃ tvaṃ bhikṣo anālambe apratiṣṭhe ogham atārṣīḥ /\nyathā yathāhaṃ devate āyūhāmi tathā tathā saṃsīdāmi / yathā yathā saṃsīdāmi tathā tathā saṃtiṣṭhe / yathā yathā saṃtiṣṭhe tathā tathā uhye / yathā yathāhaṃ devate nāyūhāmi tathā tathā na saṃsīdāmīti vistareṇa śuklapakṣo veditavya"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kumārikāpraśnagāthā:",
+          "translated_text": "The Verses of the Questions of the Maiden:"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "eko 'raṇye prasṛto dhyāyase tvaṃ vittād vihīna uta vā prārthayānaḥ /",
+          "translated_text": "Alone in the forest, you meditate, are you deprived of wealth or desiring?"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "grāmasya vā kiṃcanāgo nv akārṣīḥ kasmāj janena na karoṣi sakhyaṃ",
+          "translated_text": "Perhaps you have done something to the village, why do you not make friendship with people?"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sakhyaṃ na saṃvidyate kena cit tava // Śag_14.1",
+          "translated_text": "Friendship is not found with anyone of yours."
         }
       ]
     },
@@ -652,22 +762,20 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kumārikāpraśnagāthā:"
+          "text": "arthāprāptyā hṛdayasyeha śāntir jitveha senāṃ priyaśātarūpaṃ /",
+          "translated_text": "Here, through the attainment of wealth, the heart finds peace, having conquered the army, the dear and charming form;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "eko 'raṇye prasṛto dhyāyase tvaṃ vittād vihīna uta vā prārthayānaḥ /"
+          "text": "eko dhyāyī sukham asmy anvabhotsaṃ tasmād janena na karomi sakhyaṃ",
+          "translated_text": "Alone, meditating, I am happy, content, therefore I do not make friendship with people;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "grāmasya vā kiṃcanāgo nv akārṣīḥ kasmāj janena na karoṣi sakhyaṃ"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "sakhyaṃ na saṃvidyate kena cit tava // Śag_14.1"
+          "text": "sakhyaṃ na saṃvidyate kena cid mama // Śag_14.2",
+          "translated_text": "Friendship is not found with anyone of mine."
         }
       ]
     },
@@ -678,33 +786,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "arthāprāptyā hṛdayasyeha śāntir jitveha senāṃ priyaśātarūpaṃ /"
+          "text": "anityā bata saṃskārā utpādavyayadharmiṇaḥ /",
+          "translated_text": "Impermanent indeed are the <s>saṃskāras</s>, subject to arising and cessation;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "eko dhyāyī sukham asmy anvabhotsaṃ tasmād janena na karomi sakhyaṃ"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "sakhyaṃ na saṃvidyate kena cid mama // Śag_14.2"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "anityā bata saṃskārā utpādavyayadharmiṇaḥ /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "utpadya hi nirudhyante teṣāṃ vyupaśamaḥ sukham // Śag_15 (cf. Uv 1.3)"
+          "text": "utpadya hi nirudhyante teṣāṃ vyupaśamaḥ sukham // Śag_15 (cf. Uv 1.3)",
+          "translated_text": "Having arisen, they are indeed extinguished, their cessation is bliss."
         }
       ]
     },
@@ -718,11 +807,13 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "translated_text": "ḥ"
         },
         {
           "tag": "text",
-          "text": "// Śag_16 (cf. Uv 4.1)"
+          "text": "// Śag_16 (cf. Uv 4.1)",
+          "translated_text": "// Śag_16 (cf. Uv 4.1)"
         },
         {
           "tag": "lg",
@@ -731,12 +822,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "vitarkapramathitasya dehinas tīvrarāgasya śubhānudarśinaḥ /"
+              "text": "vitarkapramathitasya dehinas tīvrarāgasya śubhānudarśinaḥ /",
+              "translated_text": "For one agitated by thoughts, possessed of intense passion, seeing the pleasant;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "bhūyas tṛṣṇā vivardhate sā gāḍhīkurute 'sya bandhanaṃ // Śag_17 (cf. Uv 3.1)"
+              "text": "bhūyas tṛṣṇā vivardhate sā gāḍhīkurute 'sya bandhanaṃ // Śag_17 (cf. Uv 3.1)",
+              "translated_text": "Craving further increases, it strengthens their bondage."
             }
           ]
         },
@@ -747,12 +840,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "dharmasthaṃ śīlasaṃpannaṃ hrīmantaṃ satyavādinaṃ /"
+              "text": "dharmasthaṃ śīlasaṃpannaṃ hrīmantaṃ satyavādinaṃ /",
+              "translated_text": "Established in <s>Dharma</s>, endowed with virtue, modest, speaking truth;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "ātmanaḥ priyakartāraṃ taṃ janaḥ kurute priyaṃ // Śag_18 (cf. Uv 5.24)"
+              "text": "ātmanaḥ priyakartāraṃ taṃ janaḥ kurute priyaṃ // Śag_18 (cf. Uv 5.24)",
+              "translated_text": "The people make dear the one who acts for the good of others."
             }
           ]
         },
@@ -763,12 +858,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "yat pareṣūpanidhyāyet karma dṛṣṭveha pāpakam /"
+              "text": "yat pareṣūpanidhyāyet karma dṛṣṭveha pāpakam /",
+              "translated_text": "Whatever evil action one sees in others here,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "ātmanā tan na kurvīta karmabaddho hi pāpakaḥ // Śag_19 (cf. Uv 9.6)"
+              "text": "ātmanā tan na kurvīta karmabaddho hi pāpakaḥ // Śag_19 (cf. Uv 9.6)",
+              "translated_text": "One should not do that oneself, for evil binds through action."
             }
           ]
         },
@@ -779,12 +876,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "subhāṣitaṃ hy uttamam āhur āryāḥ priyaṃ vaden nāpriyaṃ tad dvitīyaṃ /"
+              "text": "subhāṣitaṃ hy uttamam āhur āryāḥ priyaṃ vaden nāpriyaṃ tad dvitīyaṃ /",
+              "translated_text": "The noble declare the well-spoken as excellent, speak what is pleasant, not unpleasant, that is second;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "satyaṃ vaden nānṛtaṃ tat tṛtīyaṃ dharmaṃ vaden nādharmaṃ tat caturtham // Śag_20 (cf. Uv 8.11)"
+              "text": "satyaṃ vaden nānṛtaṃ tat tṛtīyaṃ dharmaṃ vaden nādharmaṃ tat caturtham // Śag_20 (cf. Uv 8.11)",
+              "translated_text": "Speak truth, not falsehood, that is third; speak <s>Dharma</s>, not adharma, that is fourth."
             }
           ]
         },
@@ -795,12 +894,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "śraddhātha hrīḥ śīlam athāpi dānaṃ dharmā ime satpuruṣapraśastāḥ /"
+              "text": "śraddhātha hrīḥ śīlam athāpi dānaṃ dharmā ime satpuruṣapraśastāḥ /",
+              "translated_text": "Faith and modesty, virtue and also charity, these are the <s>Dharma</s> praised by the noble men;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "etaṃ hi mārgaṃ divigaṃ vadanti etena vai gacchati devalokam // Śag_21 (cf. Uv 10.1)"
+              "text": "etaṃ hi mārgaṃ divigaṃ vadanti etena vai gacchati devalokam // Śag_21 (cf. Uv 10.1)",
+              "translated_text": "This is indeed said to be the path to the divine worlds, by this one goes to the world of the gods."
             }
           ]
         },
@@ -811,12 +912,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "śrutvā dharmaṃ vijānāti śrutvā pāpān nivartate /"
+              "text": "śrutvā dharmaṃ vijānāti śrutvā pāpān nivartate /",
+              "translated_text": "Hearing the <s>Dharma</s>, one understands; hearing, one turns away from sins;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "śrutvā anarthaṃ tyajati śrutvā prāpnoti nirvṛtim // Śag_22 (cf. Uv 22.6)"
+              "text": "śrutvā anarthaṃ tyajati śrutvā prāpnoti nirvṛtim // Śag_22 (cf. Uv 22.6)",
+              "translated_text": "Hearing, one abandons misfortune; hearing, one attains liberation."
             }
           ]
         },
@@ -827,12 +930,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "ākāśasamo na lipyate indrakīlapratimo na kaṃpate /"
+              "text": "ākāśasamo na lipyate indrakīlapratimo na kaṃpate /",
+              "translated_text": "Like the sky, he is not tainted; like the Indra's post, he does not shake;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "hrada iva samupetakardame saṃsāre ramate na paṇḍitaḥ // Śag_23 (cf. Uv 17.12)"
+              "text": "hrada iva samupetakardame saṃsāre ramate na paṇḍitaḥ // Śag_23 (cf. Uv 17.12)",
+              "translated_text": "Like a pond filled with mud, the wise one does not delight in <s>saṃsāra</s>."
             }
           ]
         },
@@ -843,12 +948,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "ye rūpeṇa pramiṇvanti māṃ ghoṣeṇānuyānti ca /"
+              "text": "ye rūpeṇa pramiṇvanti māṃ ghoṣeṇānuyānti ca /",
+              "translated_text": "Those who measure me by form and follow by sound,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "cchandarāgavaśopetā na mā jānanti te janāḥ // Śag_24.1 (cf. Uv 22.12)"
+              "text": "cchandarāgavaśopetā na mā jānanti te janāḥ // Śag_24.1 (cf. Uv 22.12)",
+              "translated_text": "Being under the sway of desire and passion, those people do not know me."
             }
           ]
         },
@@ -859,12 +966,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "adhyātmaṃ ca vijānāti bahirdhā ca na paśyati /"
+              "text": "adhyātmaṃ ca vijānāti bahirdhā ca na paśyati /",
+              "translated_text": "He knows the inner self and does not see the external;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "adhyātmaphaladarśī yaḥ sa vai ghoṣeṇa nīyate // Śag_24.2 (cf. Uv 22.13)"
+              "text": "adhyātmaphaladarśī yaḥ sa vai ghoṣeṇa nīyate // Śag_24.2 (cf. Uv 22.13)",
+              "translated_text": "He who sees the fruit of the inner self is indeed led by sound."
             }
           ]
         },
@@ -875,12 +984,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "adhyātmaṃ ca na jānāti bahirdhā ca vipaśyati /"
+              "text": "adhyātmaṃ ca na jānāti bahirdhā ca vipaśyati /",
+              "translated_text": "He does not know the inner self but sees the external;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "bahirdhāphaladarśī yaḥ so 'pi ghoṣeṇa nīyate // Śag_24.3 (cf. Uv 22.14)"
+              "text": "bahirdhāphaladarśī yaḥ so 'pi ghoṣeṇa nīyate // Śag_24.3 (cf. Uv 22.14)",
+              "translated_text": "He who sees the fruit of the external is also led by sound."
             }
           ]
         },
@@ -891,12 +1002,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "adhyātmaṃ ca na jānāti bahirdhā ca na paśyati /"
+              "text": "adhyātmaṃ ca na jānāti bahirdhā ca na paśyati /",
+              "translated_text": "He neither knows the inner self nor sees the external;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "samantāvaraṇo bālaḥ so 'pi ghoṣeṇa nīyate // Śag_24.4 (cf. Uv 22.15)"
+              "text": "samantāvaraṇo bālaḥ so 'pi ghoṣeṇa nīyate // Śag_24.4 (cf. Uv 22.15)",
+              "translated_text": "The child, covered all around, is also led by sound."
             }
           ]
         },
@@ -907,14 +1020,35 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "adhyātmaṃ ca vijānāti bahirdhā ca vipaśyati /"
+              "text": "adhyātmaṃ ca vijānāti bahirdhā ca vipaśyati /",
+              "translated_text": "He knows the inner self and sees the external;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "dhīro niḥsaraṇaprajño na sa ghoṣeṇa nīyate // Śag_24.5 (cf. Uv 22.16)"
+              "text": "dhīro niḥsaraṇaprajño na sa ghoṣeṇa nīyate // Śag_24.5 (cf. Uv 22.16)",
+              "translated_text": "The wise, with the knowledge of liberation, is not led by sound."
             }
           ]
+        }
+      ],
+      "translated_text": "apramādo 'mṛtapadaṃ pramādo mṛtyunaḥ padaṃ /\napramattā na mriyante pramattās tu sadā mṛtā"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṣaṣṭhe adhipatau rājñi rajyamāne rajasvalaḥ /",
+          "translated_text": "In the sixth, the sovereign king rules, being passionate;"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "arajasy arajā bhavati rakto bālo nirucyate // Śag_25 (cf. Uv 16.22)",
+          "translated_text": "The non-passionate becomes non-passionate, the red child is declared."
         }
       ]
     },
@@ -925,12 +1059,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ṣaṣṭhe adhipatau rājñi rajyamāne rajasvalaḥ /"
+          "text": "nagaram asthiprākāraṃ snāyumāṃsānulepanaṃ /",
+          "translated_text": "The city is a wall of bones, smeared with sinews and flesh;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "arajasy arajā bhavati rakto bālo nirucyate // Śag_25 (cf. Uv 16.22)"
+          "text": "yatra rāgaś ca dveṣaś ca māno mrakṣaś ca gāhate // Śag_26 (cf. Uv 16.23)",
+          "translated_text": "Where attachment and aversion, pride and malice dwell."
         }
       ]
     },
@@ -941,12 +1077,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "nagaram asthiprākāraṃ snāyumāṃsānulepanaṃ /"
+          "text": "kūrmaḥ svake 'ṅgāni yathā kapāle bhikṣur nidadhyān manaso vitarkāni /",
+          "translated_text": "As a turtle draws its limbs into its shell, the monk should withdraw thoughts of the mind;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yatra rāgaś ca dveṣaś ca māno mrakṣaś ca gāhate // Śag_26 (cf. Uv 16.23)"
+          "text": "aniśrito 'nyān aviheṭhamānaḥ parinirvṛto nāpavadeta kaṃ cit // Śag_27 (cf. Uv 26.1)",
+          "translated_text": "Not relying on others, not harming, fully liberated, he should not blame anyone."
         }
       ]
     },
@@ -957,12 +1095,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kūrmaḥ svake 'ṅgāni yathā kapāle bhikṣur nidadhyān manaso vitarkāni /"
+          "text": "tulyam atulyaṃ ca saṃbhavaṃ bhavasaṃskāram avāsṛjan muniḥ /",
+          "translated_text": "The sage, indifferent to equal and unequal, not creating the formation of existence;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "aniśrito 'nyān aviheṭhamānaḥ parinirvṛto nāpavadeta kaṃ cit // Śag_27 (cf. Uv 26.1)"
+          "text": "adhyātmarataḥ samāhita abhinat kośam ivāṇḍasaṃbhavaḥ // Śag_28 (cf. Uv 26.30)",
+          "translated_text": "Delighting in the inner self, composed, he breaks the shell like the birth of an egg."
         }
       ]
     },
@@ -973,12 +1113,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tulyam atulyaṃ ca saṃbhavaṃ bhavasaṃskāram avāsṛjan muniḥ /"
+          "text": "nāsti kāmasamaḥ paṃko nāsti dveṣasamo grahaḥ /",
+          "translated_text": "There is no mire like desire, no seizure like aversion;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "adhyātmarataḥ samāhita abhinat kośam ivāṇḍasaṃbhavaḥ // Śag_28 (cf. Uv 26.30)"
+          "text": "nāsti mohasamaṃ jālaṃ nāsti tṛṣṇāsamā nadī // Śag_29 (cf. Uv 29.37)",
+          "translated_text": "There is no net like delusion, no river like craving."
         }
       ]
     },
@@ -989,28 +1131,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "nāsti kāmasamaḥ paṃko nāsti dveṣasamo grahaḥ /"
+          "text": "ākāśe vai padaṃ nāsti śramaṇo nāsti bāhyakaḥ /",
+          "translated_text": "In the sky, indeed, there is no footprint; there is no external ascetic;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "nāsti mohasamaṃ jālaṃ nāsti tṛṣṇāsamā nadī // Śag_29 (cf. Uv 29.37)"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "ākāśe vai padaṃ nāsti śramaṇo nāsti bāhyakaḥ /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "prapañcābhiratā bālā niṣprapañcās tathāgatāḥ // Śag_30 (cf. Uv 29.38)"
+          "text": "prapañcābhiratā bālā niṣprapañcās tathāgatāḥ // Śag_30 (cf. Uv 29.38)",
+          "translated_text": "Children delight in proliferation; the <s>Tathāgatas</s> are free from proliferation."
         }
       ]
     },
@@ -1024,31 +1152,37 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "translated_text": "ṃ"
         },
         {
           "tag": "text",
-          "text": "dānaṃ parighaṃ cātivṛttaḥ /"
+          "text": "dānaṃ parighaṃ cātivṛttaḥ /",
+          "translated_text": "dānaṃ parighaṃ cātivṛttaḥ /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "taṃ nistṛṣṇaṃ muniṃ carantaṃ na vijānāti sadevako 'pi lokaḥ // Śag_31 (cf. Uv 29.51)"
+          "text": "taṃ nistṛṣṇaṃ muniṃ carantaṃ na vijānāti sadevako 'pi lokaḥ // Śag_31 (cf. Uv 29.51)",
+          "translated_text": "That desireless sage, wandering, is not known by the world with its gods."
         },
         {
           "tag": "text",
-          "text": "yasya vitarkā vidhūpitā adhyātmam avikalpitā aśeṣaṃ /\nsaṃgaṃ so 'tītya rūpasaṃjñā"
+          "text": "yasya vitarkā vidhūpitā adhyātmam avikalpitā aśeṣaṃ /\nsaṃgaṃ so 'tītya rūpasaṃjñā",
+          "translated_text": "yasya vitarkā vidhūpitā adhyātmam avikalpitā aśeṣaṃ /\nsaṃgaṃ so 'tītya rūpasaṃjñā"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "translated_text": "ṃ"
         },
         {
           "tag": "text",
-          "text": "caturyogāpagato na jātim eti // Śag_32 (cf. Uv 29.56)"
+          "text": "caturyogāpagato na jātim eti // Śag_32 (cf. Uv 29.56)",
+          "translated_text": "caturyogāpagato na jātim eti // Śag_32 (cf. Uv 29.56)"
         },
         {
           "tag": "lg",
@@ -1057,12 +1191,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "dadataḥ puṇyaṃ pravardhate vairaṃ saṃyamato na cīyate /"
+              "text": "dadataḥ puṇyaṃ pravardhate vairaṃ saṃyamato na cīyate /",
+              "translated_text": "For the giver, merit increases; from restraint, enmity does not accumulate;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "kuśalī prajahāti pāpakaṃ kleśānāṃ kṣayatas tu nirvṛtaḥ // Śag_33 (cf. Uv 28.2)"
+              "text": "kuśalī prajahāti pāpakaṃ kleśānāṃ kṣayatas tu nirvṛtaḥ // Śag_33 (cf. Uv 28.2)",
+              "translated_text": "The skillful abandon evil, with the destruction of afflictions, they are liberated."
             }
           ]
         },
@@ -1073,12 +1209,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "sarvapāpasyākaraṇaṃ kuśalasyopasaṃpadā /"
+              "text": "sarvapāpasyākaraṇaṃ kuśalasyopasaṃpadā /",
+              "translated_text": "The non-doing of all evil, the cultivation of the skillful;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "svacittaparyavadamanam etaṃ buddhānuśāsanaṃ // Śag_34 (cf. Uv 28.1)"
+              "text": "svacittaparyavadamanam etaṃ buddhānuśāsanaṃ // Śag_34 (cf. Uv 28.1)",
+              "translated_text": "The purification of one's mind, this is the teaching of the <s>Buddhas</s>."
             }
           ]
         },
@@ -1089,12 +1227,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "durnigrahasya laghuno yatrakāmanipātinaḥ /"
+              "text": "durnigrahasya laghuno yatrakāmanipātinaḥ /",
+              "translated_text": "Of the difficult-to-control, light, wherever desire falls;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "cittasya dāmanaṃ sādhu cittaṃ dāntaṃ sukhāvaham // Śag_35 (cf. Uv 31.1)"
+              "text": "cittasya dāmanaṃ sādhu cittaṃ dāntaṃ sukhāvaham // Śag_35 (cf. Uv 31.1)",
+              "translated_text": "The tamed mind is good, the disciplined mind brings happiness."
             }
           ]
         },
@@ -1105,45 +1245,78 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "cittanimittasya kovidaḥ pravivekasya ca vindate rasaṃ /"
+              "text": "cittanimittasya kovidaḥ pravivekasya ca vindate rasaṃ /",
+              "translated_text": "The one skilled in the signs of the mind finds the taste of solitude;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "dhyāyī nipakaḥ pratismṛto bhuṃkte prītisukhaṃ nirāmiṣaṃ // Śag_36 (cf. Uv 31.51)"
+              "text": "dhyāyī nipakaḥ pratismṛto bhuṃkte prītisukhaṃ nirāmiṣaṃ // Śag_36 (cf. Uv 31.51)",
+              "translated_text": "The meditative, prudent, recollects and enjoys the bliss of joy without impurity."
             }
           ]
         },
         {
           "tag": "text",
-          "text": "aśilpajīvī laghur ātmakāmo jitendriyaḥ sarvato vipramuktaḥ /\nanokasārī hy amamo nirāśaḥ kāmān prahāyaikacaro yas sa bhikṣu"
+          "text": "aśilpajīvī laghur ātmakāmo jitendriyaḥ sarvato vipramuktaḥ /\nanokasārī hy amamo nirāśaḥ kāmān prahāyaikacaro yas sa bhikṣu",
+          "translated_text": "aśilpajīvī laghur ātmakāmo jitendriyaḥ sarvato vipramuktaḥ /\nanokasārī hy amamo nirāśaḥ kāmān prahāyaikacaro yas sa bhikṣu"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "translated_text": "ḥ"
         },
         {
           "tag": "text",
-          "text": "// Śag_37 (cf. Uv 32.5)\ndūraṃga"
+          "text": "// Śag_37 (cf. Uv 32.5)\ndūraṃga",
+          "translated_text": "// Śag_37 (cf. Uv 32.5)\ndūraṃga"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ma"
+          "text": "ma",
+          "translated_text": "ma"
         },
         {
           "tag": "text",
-          "text": "m ekacaram aśarīraṃ guhāśayaṃ /"
+          "text": "m ekacaram aśarīraṃ guhāśayaṃ /",
+          "translated_text": "m ekacaram aśarīraṃ guhāśayaṃ /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "damayati durdamaṃ cittaṃ brāhmaṇaṃ taṃ bravīmy ahaṃ // Śag_38 (cf. Uv 33.55)"
+          "text": "damayati durdamaṃ cittaṃ brāhmaṇaṃ taṃ bravīmy ahaṃ // Śag_38 (cf. Uv 33.55)",
+          "translated_text": "He tames the untamable mind, that <s>Brāhmaṇa</s> I declare."
+        }
+      ],
+      "translated_text": "sthitiḥ prapaṃcāś ca na santi yasya yaḥ sa"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pārāyaṇeṣv ajitapraśnaḥ:",
+          "translated_text": "In the questions of the unconquered in the <s>Pārāyaṇa</s>:"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kenāyaṃ nivṛto lokaḥ kenāyaṃ na prakāśate /",
+          "translated_text": "By what is this world restrained, by what does it not shine;"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kiṃ cābhilepanaṃ brūṣe kiṃ ca tasya mahad bhayam // Śag_39.1",
+          "translated_text": "What do you call its covering, and what is its great fear?"
         }
       ]
     },
@@ -1154,17 +1327,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pārāyaṇeṣv ajitapraśnaḥ:"
+          "text": "avidyānivṛto lokaḥ pramādān na prakāśate /",
+          "translated_text": "The world is restrained by ignorance, it does not shine due to negligence;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kenāyaṃ nivṛto lokaḥ kenāyaṃ na prakāśate /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "kiṃ cābhilepanaṃ brūṣe kiṃ ca tasya mahad bhayam // Śag_39.1"
+          "text": "jalpābhilepanaṃ brūmi duḥkhaṃ tasya mahad bhayaṃ // Śag_39.2",
+          "translated_text": "I call chatter its covering, suffering is its great fear."
         }
       ]
     },
@@ -1175,12 +1345,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "avidyānivṛto lokaḥ pramādān na prakāśate /"
+          "text": "sravanti sarvataḥ srotāḥ srotasāṃ kiṃ nivāraṇaṃ /",
+          "translated_text": "Streams flow everywhere; what is the restraint of streams?"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "jalpābhilepanaṃ brūmi duḥkhaṃ tasya mahad bhayaṃ // Śag_39.2"
+          "text": "srotasāṃ saṃvaraṃ brūhi kena srotaḥ pidhīyate // Śag_39.3",
+          "translated_text": "Tell the restraint of streams; by what is the stream blocked?"
         }
       ]
     },
@@ -1191,12 +1363,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sravanti sarvataḥ srotāḥ srotasāṃ kiṃ nivāraṇaṃ /"
+          "text": "yāni srotāṃsi lokasya smṛtiḥ teṣāṃ nivāraṇaṃ /",
+          "translated_text": "The streams of the world, mindfulness is their restraint;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "srotasāṃ saṃvaraṃ brūhi kena srotaḥ pidhīyate // Śag_39.3"
+          "text": "srotasāṃ saṃvaraṃ brūmi prajñayā hi pidhīyate // Śag_39.4",
+          "translated_text": "I declare the restraint of streams, for they are indeed closed by wisdom."
         }
       ]
     },
@@ -1207,12 +1381,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yāni srotāṃsi lokasya smṛtiḥ teṣāṃ nivāraṇaṃ /"
+          "text": "prajñāyāś ca smṛteś caiva nāmarūpasya sarvaśaḥ /",
+          "translated_text": "Of wisdom and mindfulness, and of name and form entirely;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "srotasāṃ saṃvaraṃ brūmi prajñayā hi pidhīyate // Śag_39.4"
+          "text": "ācakṣva pṛṣṭa etan me kutraitad uparudhyate // Śag_39.5",
+          "translated_text": "Tell this when asked, where is this obstructed?"
         }
       ]
     },
@@ -1223,12 +1399,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "prajñāyāś ca smṛteś caiva nāmarūpasya sarvaśaḥ /"
+          "text": "prajñā caiva smṛtiś caiva nāmarūpaṃ ca sarvaśaḥ /",
+          "translated_text": "Wisdom and mindfulness, and name and form entirely;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ācakṣva pṛṣṭa etan me kutraitad uparudhyate // Śag_39.5"
+          "text": "vijñānasya nirodhād dhi atraitad uparudhyate // Śag_39.6",
+          "translated_text": "Indeed, through the cessation of consciousness, here this is obstructed."
         }
       ]
     },
@@ -1239,12 +1417,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "prajñā caiva smṛtiś caiva nāmarūpaṃ ca sarvaśaḥ /"
+          "text": "kathaṃ smṛtasya carato vijñānam uparudhyate /",
+          "translated_text": "How is consciousness obstructed for one who is mindful in action?"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vijñānasya nirodhād dhi atraitad uparudhyate // Śag_39.6"
+          "text": "ācakṣva pṛṣṭa etan me yathātatham asaṃśayaḥ // Śag_39.7",
+          "translated_text": "Tell me this when asked, as it is, without doubt."
         }
       ]
     },
@@ -1255,28 +1435,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kathaṃ smṛtasya carato vijñānam uparudhyate /"
+          "text": "adhyātaṃ ca bahirdhā ca vedanāṃ nābhinandataḥ /",
+          "translated_text": "For one who does not delight in internal and external sensations,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ācakṣva pṛṣṭa etan me yathātatham asaṃśayaḥ // Śag_39.7"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "adhyātaṃ ca bahirdhā ca vedanāṃ nābhinandataḥ /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "evaṃ smṛtasya carato vijñānam uparudhyate // Śag_39.8"
+          "text": "evaṃ smṛtasya carato vijñānam uparudhyate // Śag_39.8",
+          "translated_text": "Thus, consciousness is obstructed for one who is mindful in action."
         }
       ]
     },
@@ -1290,16 +1456,19 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "tha"
+          "text": "tha",
+          "translated_text": "tha"
         },
         {
           "tag": "text",
-          "text": "gvidhāḥ /"
+          "text": "gvidhāḥ /",
+          "translated_text": "gvidhāḥ /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "teṣāṃ me nipakasyeryāṃ pṛṣṭaḥ prabrūhi mārṣa // Śag_39.9"
+          "text": "teṣāṃ me nipakasyeryāṃ pṛṣṭaḥ prabrūhi mārṣa // Śag_39.9",
+          "translated_text": "Tell me, O wise one, the path for them when asked."
         },
         {
           "tag": "lg",
@@ -1308,16 +1477,19 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "kāmeṣu nābhigṛdhyeta manasānāvilo bhavet /"
+              "text": "kāmeṣu nābhigṛdhyeta manasānāvilo bhavet /",
+              "translated_text": "One should not be attached to desires, the mind should be unclouded;"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "kuśalaḥ sarvadharmeṣu smṛto bhikṣuḥ parivrajet // Śag_39.10"
+              "text": "kuśalaḥ sarvadharmeṣu smṛto bhikṣuḥ parivrajet // Śag_39.10",
+              "translated_text": "Skilled in all <s>Dharmas</s>, the mindful monk should wander."
             }
           ]
         }
-      ]
+      ],
+      "translated_text": "ye ca saṃkhyātadharmāṇo ye ca śaikṣāḥ pṛ"
     },
     {
       "tag": "lg",
@@ -1326,17 +1498,20 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "arthavargīyeṣu kāmān ārabhya gāthā:"
+          "text": "arthavargīyeṣu kāmān ārabhya gāthā:",
+          "translated_text": "arthavargīyeṣu kāmān ārabhya gāthā:"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kāmān kāmāyamānasya tasya cet tat samṛdhyati /"
+          "text": "kāmān kāmāyamānasya tasya cet tat samṛdhyati /",
+          "translated_text": "For one desiring desires, if that prospers,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "addhā prītamanā bhavati labdhvā martyo yad īpsitaṃ // Śag_40.1"
+          "text": "addhā prītamanā bhavati labdhvā martyo yad īpsitaṃ // Śag_40.1",
+          "translated_text": "Surely, the mortal becomes pleased, having obtained what is desired."
         }
       ]
     },
@@ -1347,12 +1522,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tasya cet kāmāyamānasya chandajātasya jaṃtunaḥ /"
+          "text": "tasya cet kāmāyamānasya chandajātasya jaṃtunaḥ /",
+          "translated_text": "For that creature, desiring desires, born of longing,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "te kāmāḥ parihīyaṃte śalyaviddha iva rūpyate // Śag_40.2"
+          "text": "te kāmāḥ parihīyaṃte śalyaviddha iva rūpyate // Śag_40.2",
+          "translated_text": "Those desires are diminished, like one pierced by a thorn."
         }
       ]
     },
@@ -1363,12 +1540,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yaḥ kāmāṃ parivarjayati sarpasyeva śirāt padaṃ /"
+          "text": "yaḥ kāmāṃ parivarjayati sarpasyeva śirāt padaṃ /",
+          "translated_text": "He who avoids desires like the head of a snake,"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sa imāṃ viṣaktikāṃ loke smṛtaḥ samativartate // Śag_40.3"
+          "text": "sa imāṃ viṣaktikāṃ loke smṛtaḥ samativartate // Śag_40.3",
+          "translated_text": "He is said to transcend this attachment in the world."
         }
       ]
     },
@@ -1379,12 +1558,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kṣetravastuhiraṇ@yaṃ ca gavāśvamaṇikuṇḍalaṃ /"
+          "text": "kṣetravastuhiraṇ@yaṃ ca gavāśvamaṇikuṇḍalaṃ /",
+          "translated_text": "kṣetravastuhiraṇ@yaṃ ca gavāśvamaṇikuṇḍalaṃ /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "striyo dāsān pṛthakkāmān yo naro hy abhigṛdhyati // Śag_40.4"
+          "text": "striyo dāsān pṛthakkāmān yo naro hy abhigṛdhyati // Śag_40.4",
+          "translated_text": "Women, servants, various desires—if a man covets these,"
         }
       ]
     },
@@ -1398,16 +1579,19 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "translated_text": "ḥ"
         },
         {
           "tag": "text",
-          "text": "/"
+          "text": "/",
+          "translated_text": "/"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tata enaṃ duḥkham anveti bhinnāṃ nāvam ivodakaṃ // Śag_40.5"
+          "text": "tata enaṃ duḥkham anveti bhinnāṃ nāvam ivodakaṃ // Śag_40.5",
+          "translated_text": "Then suffering follows him like water in a broken boat."
         },
         {
           "tag": "lg",
@@ -1416,16 +1600,19 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "yasya tv etat samucchinnaṃ tālamastakavad dhataṃ /"
+              "text": "yasya tv etat samucchinnaṃ tālamastakavad dhataṃ /",
+              "translated_text": "For whom this is completely cut off, like the top of a palm tree struck down,"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "śokās tasya nivartante udabindur iva puṣkarāt // Śag_40.6 (cf. Uv 10.13ab und 3.10cd)"
+              "text": "śokās tasya nivartante udabindur iva puṣkarāt // Śag_40.6 (cf. Uv 10.13ab und 3.10cd)",
+              "translated_text": "His sorrows cease like a drop of water from a lotus leaf."
             }
           ]
         }
-      ]
+      ],
+      "translated_text": "abalaṃ vā balīyāṃso mṛdnaṃty enaṃ parisravā"
     },
     {
       "tag": "lg",
@@ -1434,22 +1621,26 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhadraikarāgāthā (bhadragarātrīya, bhadrakarātriya):"
+          "text": "bhadraikarāgāthā (bhadragarātrīya, bhadrakarātriya):",
+          "translated_text": "bhadraikarāgāthā (bhadragarātrīya, bhadrakarātriya):"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "atītaṃ nānvāgamayen na pratikāṃkṣed anāgataṃ /"
+          "text": "atītaṃ nānvāgamayen na pratikāṃkṣed anāgataṃ /",
+          "translated_text": "One should not pursue the past, nor long for the future;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pratyutpannāś ca ye dharmās tatra tatra vipaśyakaḥ /"
+          "text": "pratyutpannāś ca ye dharmās tatra tatra vipaśyakaḥ /",
+          "translated_text": "And whatever <s>Dharmas</s> arise presently, there one should be discerning;"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "asaṃhāryam asaṃkṣobhyaṃ tad vidvān anubṛṃhayet // Śag_41.1"
+          "text": "asaṃhāryam asaṃkṣobhyaṃ tad vidvān anubṛṃhayet // Śag_41.1",
+          "translated_text": "The wise should cultivate that which is unshakable and unperturbed."
         }
       ]
     }

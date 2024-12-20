@@ -1,0 +1,1362 @@
+{
+  "file_title": "asaṅga-triśatikāyāḥ-prajñāpāramitāyāḥ-kārikāsaptatiḥ",
+  "file_title_normal": "asanga-trisatikayah-prajnaparamitayah-karikasaptatih",
+  "metadata": {
+    "original_title": "Triśatikāyāḥ prajñāpāramitāyāḥ kārikāsaptatiḥ",
+    "author": "Asaṅga",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "Klaus Wille",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "G. Tucci: Minor Buddhist Texts, part I. Roma 1956 (Serie Orientale Roma, 9), pp. 54-92."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Asaṅga: Triśatikāyāḥ prajñāpāramitāyāḥ kārikāsaptatiḥ"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paramo 'nugraho jñeyaḥ śārīraḥ saparigrahaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prāptāprāptāvihānau ca paramā syāt parīndanā // TśPk_1"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "vipulaḥ paramo 'tyanto 'viparyastaś",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ca"
+        },
+        {
+          "tag": "text",
+          "text": "cetasi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "upakārāśayaḥ sthānaṃ yāne 'smin guṇapūritaḥ // TśPk_2"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dānaṃ pāramitāṣatkam āmiṣābhayadharmataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ekadvayatrayeṇeha pratipat sā 'pratiṣṭhitā // TśPk_3"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ātmabhāve pratikṛtau vipāke cāpy asaktatā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "apravṛttitadanyārthapravṛttiparivarjane // TśPk_4"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pragraho maṇḍale tredhā nimittāc cittavāraṇam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "uttarottarasaṃdehajanmataś ca nivāraṇā // TśPk_5"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃskṛtatvena saṃkalpya saṃpat prāptau nivāryate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "trailakṣaṇyānyathābhāvāt tadabhāvāt tathāgataḥ // TśPk_6"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sahetuphalagāmbhīryadeśanāsmin yugādhame /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na niṣphalā yataḥ santi bodhisattvās trayānvitāḥ // TśPk_7"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śikṣayopāsānāt pūrvaṃ kuśalasyāvaropaṇāt /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śīlavanto 'nyabuddheṣu guṇavantaś ca kīrtitāḥ // TśPk_8"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sapudgaleṣu dharmeṣu saṃjñāyā viprahāṇataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prajñāvantaś ca saṃjñāyā aṣṭadhāṣṭārthabhedataḥ // TśPk_9"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pṛthagbhāvena saṃtatyā vṛtter ājīvitasthiteḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "punaś ca gatilīnatvād ātmasaṃjñā caturvidhā // TśPk_10"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvābhāvād abhāvasya sadbhāvān nābhilāpyataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "abhilāpaprayogāc ca dharmasaṃjñā caturvidhā // TśPk_11"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "adhimuktivaśāt teṣāṃ bhūtasaṃjñā prasādataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yathārutāgrahāt saṃyagdeśitatvasya codgrahāt // TśPk_12"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "phalato na mitā buddhaiḥ praṇidhijñānalakṣitāḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "Iābhasatkārakāmānāṃ tadvādavinivṛttaye // TśPk_13"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asthānād ānukūlyāc ca dharmeṣv adhigamasya hi /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kolasyeva parityāgo dharme saṃdhis tato mataḥ // TśPk_14"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nairmāṇikena no buddho dharmo nāpi ca deśitaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "deśitas tu dvayāgrāhyo 'vācyo 'vākpathalakṣaṇāt // TśPk_15"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "grahaṇadeśaṇā cāsya nāpārthā pu"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ṇya"
+        },
+        {
+          "tag": "text",
+          "text": "saṃgrahāt /\npuṇyaṃ bodhyanupastaṃbhād"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "upas"
+        },
+        {
+          "tag": "text",
+          "text": "taṃbhād dvayasya ca // TśPk_16"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "svābhāvikāptihetutvāt tadanyasya ca janmanaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kaivalyād buddhadharmāṇām agryatvaṃ puṇyasādhanam // TśPk_17"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "agrāhyānabhilapyatvaṃ svaphalānām anudgrahāt /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dvayāvaraṇanirmokṣāt subhūtāv araṇādvayaṃ // TśPk_18"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "buddhadīpaṃkarāgrāhād vakyenādhigamasya hi /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tataś cādhigame siddhā agrāhyānabhilāpyatā // TśPk_19"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "jñānaniṣyandavijñaptimātratvāt kṣetranodgrahaḥ /\navigrahatvād agratvād avyūha"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ṃ"
+        },
+        {
+          "tag": "text",
+          "text": "vyūhatā matā // TśPk_20"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sumeror iva rājatve saṃbhoge nāsti codgrahaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sāsravatvena cābhāvāt saṃskṛtatvena cāsya hi // TśPk_21"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bahutvabhedakhyātyarthaṃ viśeṣasya ca siddhaye /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "paurvāparyeṇa puṇyasya punar dṛṣṭāntadeśanā // TśPk_22"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dvayasya pātrīkaraṇān niṣyandatvamahatvataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asaṃkleśasya hetutvād dhīnābhibhavanād api // TśPk_23"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tatphalaśreṣṭhaduḥkhatvād durlabhārthottamārthataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jñeyāpāramitatvāc ca parāsādhāraṇatvataḥ // TśPk_24"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gāḍhagaṃbhīrabhāvāc ca parasūtraviśiṣṭataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "mahāśuddhānvayatvāc ca puṇyāt puṇyaṃ viśiṣyate // TśPk_25"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sahiṣṇutā ca caryāyāṃ duṣkarāyāṃ śubhā yataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tadguṇāparimāṇatvād agrārthena nirucyate // TśPk_26"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ātmavyāpādasaṃjñāyā abhāvād duḥkhatā na ca /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sasukhā karuṇābhāvāc caryāduḥkhaphalā tataḥ // TśPk_27"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "cittātyāgābhinirhāre yatna"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ḥ"
+        },
+        {
+          "tag": "text",
+          "text": "kāryo dṛḍho yataḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṣāntipāramitāprāptau tatprāyogika eva ca // TśPk_28"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pratipattiś ca sattvārthā vijñeyā hetubhāvataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sattvavastunimittāt tu vijñeyā parivarjitā // TśPk_29"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nāmaskandhāś ca tadvastu tatsaṃjñāpagamāj jine /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tadabhāvo hi buddhānāṃ tattvadarśanayogataḥ // TśPk_30"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "phalāpratiṣṭhito mārgas tatphalasyāpi kāraṇam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "buddhānāṃ bhūtavāditvāt tac ca jñeyaṃ caturvidham // TśPk_31"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pratijñā hīnayānasya mahāyānasya deśanā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sarvavyākaraṇānāṃ ca na visaṃvādinī yataḥ // TśPk_32"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "aprāpter ānukulyāc ca na satyā na mṛṣā matā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yathārutaniveśasya pratipakṣeṇa deśanā // TśPk_33"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "x x x x x x x x x x x x x ."
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "a"
+        },
+        {
+          "tag": "text",
+          "text": "lābhatā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ajñānāt sapratiṣṭhena jñānād anyena lābhatā // TśPk_34"
+        },
+        {
+          "tag": "text",
+          "text": "tamaḥprakāśam ajñānaṃ jñānam ālokavan mata"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "m"
+        },
+        {
+          "tag": "text",
+          "text": "/"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratipakṣavipakṣasya lābhahānyāmukhatvataḥ // TśPk_35"
+        },
+        {
+          "tag": "text",
+          "text": "yādṛśyā pratipa"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ttyā"
+        },
+        {
+          "tag": "text",
+          "text": "x x x x x x x x x /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yat karmikā ca sā dharme pratipattis tad ucyate // TśPk_36"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "vyañjane trividhā dharmadharatve śrutavistare /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "arthasya parato 'dhyātmam āptau śravaṇacintanāt // TśPk_37"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "x x x x x x x x x x x x"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "pari"
+        },
+        {
+          "tag": "text",
+          "text": "pācane /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vastukālamahatvena puṇyāt puṇyaṃ viśiṣyate // TśPk_38"
+        },
+        {
+          "tag": "text",
+          "text": "agocaratvaṃ kaivalyaṃ mahātmāśritatā tathā /\ndurlabhaśravatā caiva dhātupuṣṭir anu"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ttarā"
+        },
+        {
+          "tag": "text",
+          "text": "// TśPk_39\nx x x x x x x x x x x"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "pātra"
+        },
+        {
+          "tag": "text",
+          "text": "tāśraye /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śodhanāvaraṇānāṃ ca kṣiprābhijñātvam eva ca // TśPk_40"
+        },
+        {
+          "tag": "text",
+          "text": "vicitraIokasaṃpattivipākaḥ sumahānn api /\nkarmāṇi etāni dharme pratipatter matā"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ni"
+        },
+        {
+          "tag": "text",
+          "text": "x // TśPk_41\nx x x x x x x x x"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "bodhisat"
+        },
+        {
+          "tag": "text",
+          "text": "tvakalpanā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "cittāvaraṇam ākhyātaṃ yac cittam apratiṣṭhitaṃ // TśPk_42"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "paścādvyākaraṇān no ca caryā dīpaṃkare parā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "bodhis tac caryayā tulyā na sa x x x x x x // TśPk_43"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "x x x x x x x x na mṛṣā paridīpitā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dharmās tato buddhadharmāḥ sarve 'bhāvasvalakṣaṇāḥ // TśPk_44"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "dharmakāyena buddhas tu mataḥ"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "saḥ"
+        },
+        {
+          "tag": "text",
+          "text": "puruṣopamaḥ /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirāvaraṇato x x x x x x x x x x x // TśPk_45"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "guṇamahā"
+        },
+        {
+          "tag": "text",
+          "text": "tmyataś cāpi mahākāyaḥ sa eva hi /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhāvakāyabhāvāc ca akāyo 'sau nirucyate // TśPk_46"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dharmadhātāv akuśalaḥ sattvanirvāpaṇe matiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kṣetrāṇāṃ śodhane caiva x x x x x x x x // TśPk_47"
+            }
+          ]
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "sattvānāṃ bodhisattvā"
+        },
+        {
+          "tag": "text",
+          "text": "nāṃ dharmān yaś ca nairātmakān /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "buddhyādhimucyate 'nārya āryo dhīmān sa kaṭhyate // TśPk_48"
+        },
+        {
+          "tag": "text",
+          "text": "nopalambhe 'pi dharmāṇāṃ cakṣur na hi na vidyate /\nbuddhānāṃ pañcadhā t"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ac ca vitathārthasya darśanāt"
+        },
+        {
+          "tag": "text",
+          "text": "// TśPk_49"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "nānāvithatavi"
+        },
+        {
+          "tag": "text",
+          "text": "jñapteḥ sṃṛtyupasthānavarjanāt /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "nirādhāraprabandho 'syā vitathāto nirucyate // TśPk_50"
+        },
+        {
+          "tag": "text",
+          "text": "jñānasyādhārato jñeyā puṇye vitathatā na ca /\ntataḥ puṇyanimittaṃ hi puna"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "r dṛṣṭāntakīrtanam"
+        },
+        {
+          "tag": "text",
+          "text": "// TśPk_51"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "na dharmakāyaniṣpattir anu"
+        },
+        {
+          "tag": "text",
+          "text": "vyañjanam ucyate /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na ca lakṣaṇasaṃpattis tad akāyatvato matā // TśPk_52"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dharmakāyāvinirbhāgān na dvayaṃ na tathāgataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃpattir ucyate bhūyo dvayaṃ nāsty astitā tataḥ // TśPk_53"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "x x x x x x x x x x x x x"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ka"
+        },
+        {
+          "tag": "text",
+          "text": "lpitā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmakāyāvinirbhāgād deśanāpy asvalakṣaṇā // TśPk_54"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "deśyadaiśikagāṃbhīryaśraddhā na ca na santi hi /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na sattvā nāpi cāsattvās te 'nāryārya x x x x // TśPk_55"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "x x x x x x x x jñeyā bodhir anuttarā /\nna vṛddhyā dharmadhātau hi śuddhisāmyāt svala"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "kṣa"
+        },
+        {
+          "tag": "text",
+          "text": "ṇāt // TśPk_56"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "upāyānuttaratvāc ca sāsravatvād adharmataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "śubhā na dharmā x x x x x x x x x x x // TśPk_57"
+            }
+          ]
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "naiva"
+        },
+        {
+          "tag": "text",
+          "text": "? cāvyākṛtatve 'pi deśanā 'prāptaye matā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmaratnaṃ tataś caikaṃ ratnād anyād viśiṣyate // TśPk_58"
+        },
+        {
+          "tag": "text",
+          "text": "saṃkhyāprabhavajātīnāṃ saṃbandhasya viśeṣaṇe /\nx x x x x x x x x x x x x"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "labh"
+        },
+        {
+          "tag": "text",
+          "text": "yate // TśPk_59"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "samatvād dharmadhātoś ca na sattvā mocitā jinaiḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "sahanāmnā yataḥ skandhā dharmadhātvabahirgatāḥ // TśPk_60"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ātmagrāhasamo dosas ta x x x x x x x /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "x x x x x grāhe hi agrāhagrāhatā matā // TśPk_61"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na caiva rūpakāyena so 'numeyas tathāgataḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dharmakāyo yataś cakravartī mābhūt tathāgataḥ // TśPk_62"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "na ca lakṣaṇavaipākyapu"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ṇy"
+        },
+        {
+          "tag": "text",
+          "text": ". x x x x x x /"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "dharmakāya"
+        },
+        {
+          "tag": "text",
+          "text": "sya lābho hi upāyo yad vilakṣaṇaḥ // TśPk_63"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "rūpānuśravamātreṇa na buddhajñaḥ pṛthagjanaḥ /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tathatādharmakāyo hi yato 'vijñānagocaraḥ // TśPk_64"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "na ca puṇyas x x x x x x x x x x x x /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kṣāntilābhe 'pi nocchedo nirmalasyāsya lābhataḥ // TśPk_65"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "punaḥ puṇyanimittaṃ hi tasmād dṛṣṭāntadeśanā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tat puṇyasyāvipākatvān nodgrahaḥ saparigrahaḥ // TśPk_66"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "tan nirmāṇaphalaṃ teṣā"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ṃ puṇya"
+        },
+        {
+          "tag": "text",
+          "text": "x x x x x x /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anābhogena yat karma buddhāḥ kurvanti dikṣu ca // TśPk_67"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "gatyādayas tu nirmāṇair buddhās tv avicalāḥ sadā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dharmadhātau ca tatsthānaṃ naikatvānyatvato matam // TśPk_68"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "rajomaṣīkriyā dhātor dṛ"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ṣṭāntas tasya dyota"
+        },
+        {
+          "tag": "text",
+          "text": "kaḥ /\nmaṣīkara"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ṇa"
+        },
+        {
+          "tag": "text",
+          "text": "tā kleśakṣayasyeha nidarśanam // TśPk_69"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "asaṃcayatvāpiṇḍatvam anekatvanidarśanam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃhatasthānatā tasmin nānyatve ca nidarśanam // TśPk_70"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "vyavahāramātratāyā"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "bālā"
+        },
+        {
+          "tag": "text",
+          "text": "nām udgraho 'nyathā /"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvayābhāvān na bodhyāptiḥ prahāṇād ātmadharmayoḥ // TśPk_71"
+        },
+        {
+          "tag": "text",
+          "text": "tasmād dṛṣṭir adṛṣṭiś ca nairarthyābhūtakalpataḥ /\nsūkṣmam āvaraṇaṃ hy etat tathā jñānāt pra"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "hīyate"
+        },
+        {
+          "tag": "text",
+          "text": "// TśPk_72"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "jñānadvayasamādhānapraheyaṃ tac ca deśitam /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "nirmāṇaiḥ kaśaṇāt puṇyaṃ tad buddhānāṃ na nākṣayam // TśPk_73"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "nirmito 'smīti cātmānaṃ kāśayantas tathāgatāḥ /\nprakāśayanti nā"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "tmānaṃ"
+        },
+        {
+          "tag": "text",
+          "text": "tasmāt sā kāśanā satī // TśPk_74"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "saṃskāro na tathā nānyaṃ nirvāṇaṃ hi tathāgate /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "navadhā saṃbhūtasyeha saṃyagjñānaparīkṣaṇāt // TśPk_75"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "dṛṣṭir nimittaṃ vijñānaṃ pratiṣṭhādehabhogatā /"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "atītaṃ vartamānaṃ ca parīkṣyaṃ cāpy anāgatam // TśPk_76"
+            }
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "lakṣaṇasyopabhogasya pravṛtteś ca parīkṣaṇāt /\nnirmalāṃ"
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "teṣu"
+        },
+        {
+          "tag": "text",
+          "text": "vaśitāṃ saṃskāreṣu samāpnute // TśPk_77"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "triśatikāyāḥ prajñāpāramitā",
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "yāḥ"
+        },
+        {
+          "tag": "text",
+          "text": "kārikāsaptatiḥ samāptā // //"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kṛtir iyam āryāsaṅgapādānām iti // //"
+    }
+  ]
+}

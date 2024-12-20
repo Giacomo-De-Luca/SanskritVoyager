@@ -29,7 +29,8 @@
     "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
     "license": {
       "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
-      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "translated_text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
     },
     "publication_date": "2020-07-31",
     "source": "G. Tucci: Minor Buddhist Texts, part I. Roma 1956 (Serie Orientale Roma, 9), pp. 54-92."
@@ -38,7 +39,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Asaṅga: Triśatikāyāḥ prajñāpāramitāyāḥ kārikāsaptatiḥ"
+      "text": "Asaṅga: Triśatikāyāḥ prajñāpāramitāyāḥ kārikāsaptatiḥ",
+      "translated_text": "Asaṅga: Seventy Verses on the Perfection of Wisdom in Three Hundred"
     },
     {
       "tag": "lg",
@@ -47,12 +49,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "paramo 'nugraho jñeyaḥ śārīraḥ saparigrahaḥ /"
+          "text": "paramo 'nugraho jñeyaḥ śārīraḥ saparigrahaḥ /",
+          "translated_text": "The highest favor is known as corporeal, with possession"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "prāptāprāptāvihānau ca paramā syāt parīndanā // TśPk_1"
+          "text": "prāptāprāptāvihānau ca paramā syāt parīndanā // TśPk_1",
+          "translated_text": "and the attainment and non-attainment, the highest is the renunciation"
         }
       ]
     },
@@ -66,16 +70,19 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ca"
+          "text": "ca",
+          "translated_text": "and"
         },
         {
           "tag": "text",
-          "text": "cetasi /"
+          "text": "cetasi /",
+          "translated_text": "in the mind"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "upakārāśayaḥ sthānaṃ yāne 'smin guṇapūritaḥ // TśPk_2"
+          "text": "upakārāśayaḥ sthānaṃ yāne 'smin guṇapūritaḥ // TśPk_2",
+          "translated_text": "the intention of benefit is the place, in this vehicle filled with virtues"
         },
         {
           "tag": "lg",
@@ -84,12 +91,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "dānaṃ pāramitāṣatkam āmiṣābhayadharmataḥ /"
+              "text": "dānaṃ pāramitāṣatkam āmiṣābhayadharmataḥ /",
+              "translated_text": "<s>Dāna</s> (generosity) is the six perfections from the nature of material, fearlessness, and the law"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "ekadvayatrayeṇeha pratipat sā 'pratiṣṭhitā // TśPk_3"
+              "text": "ekadvayatrayeṇeha pratipat sā 'pratiṣṭhitā // TśPk_3",
+              "translated_text": "here, the path is without foundation through one, two, and three"
             }
           ]
         },
@@ -100,12 +109,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "ātmabhāve pratikṛtau vipāke cāpy asaktatā /"
+              "text": "ātmabhāve pratikṛtau vipāke cāpy asaktatā /",
+              "translated_text": "in self-being, in creation, and also in result, there is non-attachment"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "apravṛttitadanyārthapravṛttiparivarjane // TśPk_4"
+              "text": "apravṛttitadanyārthapravṛttiparivarjane // TśPk_4",
+              "translated_text": "in the non-engagement of one's own purpose and the engagement in others' purposes"
             }
           ]
         },
@@ -116,12 +127,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "pragraho maṇḍale tredhā nimittāc cittavāraṇam /"
+              "text": "pragraho maṇḍale tredhā nimittāc cittavāraṇam /",
+              "translated_text": "the grasp in the circle is threefold, from signs, the restraint of the mind"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "uttarottarasaṃdehajanmataś ca nivāraṇā // TśPk_5"
+              "text": "uttarottarasaṃdehajanmataś ca nivāraṇā // TśPk_5",
+              "translated_text": "and from the arising of further doubts, the prevention"
             }
           ]
         },
@@ -132,12 +145,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "saṃskṛtatvena saṃkalpya saṃpat prāptau nivāryate /"
+              "text": "saṃskṛtatvena saṃkalpya saṃpat prāptau nivāryate /",
+              "translated_text": "by the constructed nature, imagining is prevented in the attainment of prosperity"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "trailakṣaṇyānyathābhāvāt tadabhāvāt tathāgataḥ // TśPk_6"
+              "text": "trailakṣaṇyānyathābhāvāt tadabhāvāt tathāgataḥ // TśPk_6",
+              "translated_text": "due to the non-existence of the three marks, from that absence, the <s>Tathāgata</s>"
             }
           ]
         },
@@ -148,12 +163,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "sahetuphalagāmbhīryadeśanāsmin yugādhame /"
+              "text": "sahetuphalagāmbhīryadeśanāsmin yugādhame /",
+              "translated_text": "in this teaching of depth of cause and effect, in the inferior age"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "na niṣphalā yataḥ santi bodhisattvās trayānvitāḥ // TśPk_7"
+              "text": "na niṣphalā yataḥ santi bodhisattvās trayānvitāḥ // TśPk_7",
+              "translated_text": "it is not fruitless, because there are <s>Bodhisattvas</s> endowed with the three"
             }
           ]
         },
@@ -164,12 +181,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "śikṣayopāsānāt pūrvaṃ kuśalasyāvaropaṇāt /"
+              "text": "śikṣayopāsānāt pūrvaṃ kuśalasyāvaropaṇāt /",
+              "translated_text": "by training and practice before, from the planting of skillful means"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "śīlavanto 'nyabuddheṣu guṇavantaś ca kīrtitāḥ // TśPk_8"
+              "text": "śīlavanto 'nyabuddheṣu guṇavantaś ca kīrtitāḥ // TśPk_8",
+              "translated_text": "those endowed with virtue are praised among other Buddhas"
             }
           ]
         },
@@ -180,12 +199,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "sapudgaleṣu dharmeṣu saṃjñāyā viprahāṇataḥ /"
+              "text": "sapudgaleṣu dharmeṣu saṃjñāyā viprahāṇataḥ /",
+              "translated_text": "in persons and in <s>Dharmas</s>, from the abandonment of concepts"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "prajñāvantaś ca saṃjñāyā aṣṭadhāṣṭārthabhedataḥ // TśPk_9"
+              "text": "prajñāvantaś ca saṃjñāyā aṣṭadhāṣṭārthabhedataḥ // TśPk_9",
+              "translated_text": "the wise are also due to the division of eightfold distinctions of concepts"
             }
           ]
         },
@@ -196,12 +217,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "pṛthagbhāvena saṃtatyā vṛtter ājīvitasthiteḥ /"
+              "text": "pṛthagbhāvena saṃtatyā vṛtter ājīvitasthiteḥ /",
+              "translated_text": "by separateness, by continuity, by the state of livelihood"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "punaś ca gatilīnatvād ātmasaṃjñā caturvidhā // TśPk_10"
+              "text": "punaś ca gatilīnatvād ātmasaṃjñā caturvidhā // TśPk_10",
+              "translated_text": "and again from the dissolution of movement, the self-concept is fourfold"
             }
           ]
         },
@@ -212,12 +235,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "sarvābhāvād abhāvasya sadbhāvān nābhilāpyataḥ /"
+              "text": "sarvābhāvād abhāvasya sadbhāvān nābhilāpyataḥ /",
+              "translated_text": "from the non-existence of all, from the existence of non-existence, not to be expressed"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "abhilāpaprayogāc ca dharmasaṃjñā caturvidhā // TśPk_11"
+              "text": "abhilāpaprayogāc ca dharmasaṃjñā caturvidhā // TśPk_11",
+              "translated_text": "and from the use of expression, the concept of <s>Dharma</s> is fourfold"
             }
           ]
         },
@@ -228,12 +253,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "adhimuktivaśāt teṣāṃ bhūtasaṃjñā prasādataḥ /"
+              "text": "adhimuktivaśāt teṣāṃ bhūtasaṃjñā prasādataḥ /",
+              "translated_text": "by the force of determination, their concept of reality is due to clarity"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "yathārutāgrahāt saṃyagdeśitatvasya codgrahāt // TśPk_12"
+              "text": "yathārutāgrahāt saṃyagdeśitatvasya codgrahāt // TśPk_12",
+              "translated_text": "from the grasping as per the sound, from the acceptance of the correctly taught"
             }
           ]
         },
@@ -244,12 +271,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "phalato na mitā buddhaiḥ praṇidhijñānalakṣitāḥ /"
+              "text": "phalato na mitā buddhaiḥ praṇidhijñānalakṣitāḥ /",
+              "translated_text": "not measured by the Buddhas by result, marked by vow and knowledge"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "Iābhasatkārakāmānāṃ tadvādavinivṛttaye // TśPk_13"
+              "text": "Iābhasatkārakāmānāṃ tadvādavinivṛttaye // TśPk_13",
+              "translated_text": "for the cessation of the desire for praise and honor"
             }
           ]
         },
@@ -260,12 +289,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "asthānād ānukūlyāc ca dharmeṣv adhigamasya hi /"
+              "text": "asthānād ānukūlyāc ca dharmeṣv adhigamasya hi /",
+              "translated_text": "from improper place and from favorability, indeed in the understanding of <s>Dharmas</s>"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "kolasyeva parityāgo dharme saṃdhis tato mataḥ // TśPk_14"
+              "text": "kolasyeva parityāgo dharme saṃdhis tato mataḥ // TśPk_14",
+              "translated_text": "like the abandonment of a sack, the junction in <s>Dharma</s> is thus considered"
             }
           ]
         },
@@ -276,40 +307,47 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "nairmāṇikena no buddho dharmo nāpi ca deśitaḥ /"
+              "text": "nairmāṇikena no buddho dharmo nāpi ca deśitaḥ /",
+              "translated_text": "by the created one, neither the Buddha nor <s>Dharma</s> is taught"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "deśitas tu dvayāgrāhyo 'vācyo 'vākpathalakṣaṇāt // TśPk_15"
+              "text": "deśitas tu dvayāgrāhyo 'vācyo 'vākpathalakṣaṇāt // TśPk_15",
+              "translated_text": "but what is taught is grasped by duality, indescribable by the characteristic of speech"
             }
           ]
         },
         {
           "tag": "text",
-          "text": "grahaṇadeśaṇā cāsya nāpārthā pu"
+          "text": "grahaṇadeśaṇā cāsya nāpārthā pu",
+          "translated_text": "grahaṇadeśaṇā cāsya nāpārthā pu"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṇya"
+          "text": "ṇya",
+          "translated_text": "ṇya"
         },
         {
           "tag": "text",
-          "text": "saṃgrahāt /\npuṇyaṃ bodhyanupastaṃbhād"
+          "text": "saṃgrahāt /\npuṇyaṃ bodhyanupastaṃbhād",
+          "translated_text": "saṃgrahāt /\npuṇyaṃ bodhyanupastaṃbhād"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "upas"
+          "text": "upas",
+          "translated_text": "support"
         },
         {
           "tag": "text",
-          "text": "taṃbhād dvayasya ca // TśPk_16"
+          "text": "taṃbhād dvayasya ca // TśPk_16",
+          "translated_text": "and also of duality"
         },
         {
           "tag": "lg",
@@ -318,12 +356,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "svābhāvikāptihetutvāt tadanyasya ca janmanaḥ /"
+              "text": "svābhāvikāptihetutvāt tadanyasya ca janmanaḥ /",
+              "translated_text": "from the cause of natural attainment and of the birth of another"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "kaivalyād buddhadharmāṇām agryatvaṃ puṇyasādhanam // TśPk_17"
+              "text": "kaivalyād buddhadharmāṇām agryatvaṃ puṇyasādhanam // TśPk_17",
+              "translated_text": "from the isolation of <s>Buddha</s> <s>Dharmas</s>, the supremacy is the means of merit"
             }
           ]
         },
@@ -334,12 +374,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "agrāhyānabhilapyatvaṃ svaphalānām anudgrahāt /"
+              "text": "agrāhyānabhilapyatvaṃ svaphalānām anudgrahāt /",
+              "translated_text": "the ungraspability and indescribability of one's own results from non-acceptance"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "dvayāvaraṇanirmokṣāt subhūtāv araṇādvayaṃ // TśPk_18"
+              "text": "dvayāvaraṇanirmokṣāt subhūtāv araṇādvayaṃ // TśPk_18",
+              "translated_text": "from the release of the dual veils, in <s>Subhūti</s>, the non-dual peace"
             }
           ]
         },
@@ -350,29 +392,34 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "buddhadīpaṃkarāgrāhād vakyenādhigamasya hi /"
+              "text": "buddhadīpaṃkarāgrāhād vakyenādhigamasya hi /",
+              "translated_text": "from the grasping of <s>Buddha</s> <s>Dīpaṃkara</s>, indeed from the word of understanding"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tataś cādhigame siddhā agrāhyānabhilāpyatā // TśPk_19"
+              "text": "tataś cādhigame siddhā agrāhyānabhilāpyatā // TśPk_19",
+              "translated_text": "and from that understanding, the ungraspability and indescribability are established"
             }
           ]
         },
         {
           "tag": "text",
-          "text": "jñānaniṣyandavijñaptimātratvāt kṣetranodgrahaḥ /\navigrahatvād agratvād avyūha"
+          "text": "jñānaniṣyandavijñaptimātratvāt kṣetranodgrahaḥ /\navigrahatvād agratvād avyūha",
+          "translated_text": "jñānaniṣyandavijñaptimātratvāt kṣetranodgrahaḥ /\navigrahatvād agratvād avyūha"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "translated_text": "ṃ"
         },
         {
           "tag": "text",
-          "text": "vyūhatā matā // TśPk_20"
+          "text": "vyūhatā matā // TśPk_20",
+          "translated_text": "vyūhatā matā // TśPk_20"
         },
         {
           "tag": "lg",
@@ -381,12 +428,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "sumeror iva rājatve saṃbhoge nāsti codgrahaḥ /"
+              "text": "sumeror iva rājatve saṃbhoge nāsti codgrahaḥ /",
+              "translated_text": "like <s>Mount Sumeru</s> in silverness, in enjoyment, there is no grasping"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "sāsravatvena cābhāvāt saṃskṛtatvena cāsya hi // TśPk_21"
+              "text": "sāsravatvena cābhāvāt saṃskṛtatvena cāsya hi // TśPk_21",
+              "translated_text": "and from the absence of defilement and from the constructed nature of it"
             }
           ]
         },
@@ -397,12 +446,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "bahutvabhedakhyātyarthaṃ viśeṣasya ca siddhaye /"
+              "text": "bahutvabhedakhyātyarthaṃ viśeṣasya ca siddhaye /",
+              "translated_text": "for the purpose of the fame of multiplicity and difference, and for the establishment of distinction"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "paurvāparyeṇa puṇyasya punar dṛṣṭāntadeśanā // TśPk_22"
+              "text": "paurvāparyeṇa puṇyasya punar dṛṣṭāntadeśanā // TśPk_22",
+              "translated_text": "by the sequence of merit, again the teaching by example"
             }
           ]
         },
@@ -413,12 +464,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "dvayasya pātrīkaraṇān niṣyandatvamahatvataḥ /"
+              "text": "dvayasya pātrīkaraṇān niṣyandatvamahatvataḥ /",
+              "translated_text": "from the making of receptacles of duality, from the greatness of flow"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "asaṃkleśasya hetutvād dhīnābhibhavanād api // TśPk_23"
+              "text": "asaṃkleśasya hetutvād dhīnābhibhavanād api // TśPk_23",
+              "translated_text": "from the cause of non-defilement, and also from the overcoming of the weak"
             }
           ]
         },
@@ -429,12 +482,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "tatphalaśreṣṭhaduḥkhatvād durlabhārthottamārthataḥ /"
+              "text": "tatphalaśreṣṭhaduḥkhatvād durlabhārthottamārthataḥ /",
+              "translated_text": "from the supreme pain of that result, from the rarity of the highest purpose"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "jñeyāpāramitatvāc ca parāsādhāraṇatvataḥ // TśPk_24"
+              "text": "jñeyāpāramitatvāc ca parāsādhāraṇatvataḥ // TśPk_24",
+              "translated_text": "and from the unknowability of the perfection, from the non-sharing with others"
             }
           ]
         },
@@ -445,12 +500,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "gāḍhagaṃbhīrabhāvāc ca parasūtraviśiṣṭataḥ /"
+              "text": "gāḍhagaṃbhīrabhāvāc ca parasūtraviśiṣṭataḥ /",
+              "translated_text": "and from the profound and deep nature, from superiority over other <s>Sūtras</s>"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "mahāśuddhānvayatvāc ca puṇyāt puṇyaṃ viśiṣyate // TśPk_25"
+              "text": "mahāśuddhānvayatvāc ca puṇyāt puṇyaṃ viśiṣyate // TśPk_25",
+              "translated_text": "and from the connection with great purity, merit is distinguished by merit"
             }
           ]
         },
@@ -461,12 +518,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "sahiṣṇutā ca caryāyāṃ duṣkarāyāṃ śubhā yataḥ /"
+              "text": "sahiṣṇutā ca caryāyāṃ duṣkarāyāṃ śubhā yataḥ /",
+              "translated_text": "and patience in the difficult practice is auspicious because"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tadguṇāparimāṇatvād agrārthena nirucyate // TśPk_26"
+              "text": "tadguṇāparimāṇatvād agrārthena nirucyate // TśPk_26",
+              "translated_text": "from the immeasurability of those qualities, it is defined by the supreme meaning"
             }
           ]
         },
@@ -477,34 +536,40 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "ātmavyāpādasaṃjñāyā abhāvād duḥkhatā na ca /"
+              "text": "ātmavyāpādasaṃjñāyā abhāvād duḥkhatā na ca /",
+              "translated_text": "from the absence of the concept of self-harm, there is no suffering"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "sasukhā karuṇābhāvāc caryāduḥkhaphalā tataḥ // TśPk_27"
+              "text": "sasukhā karuṇābhāvāc caryāduḥkhaphalā tataḥ // TśPk_27",
+              "translated_text": "and with happiness, due to the absence of compassion, the practice is not a result of suffering"
             }
           ]
         },
         {
           "tag": "text",
-          "text": "cittātyāgābhinirhāre yatna"
+          "text": "cittātyāgābhinirhāre yatna",
+          "translated_text": "cittātyāgābhinirhāre yatna"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "translated_text": "ḥ"
         },
         {
           "tag": "text",
-          "text": "kāryo dṛḍho yataḥ /"
+          "text": "kāryo dṛḍho yataḥ /",
+          "translated_text": "kāryo dṛḍho yataḥ /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kṣāntipāramitāprāptau tatprāyogika eva ca // TśPk_28"
+          "text": "kṣāntipāramitāprāptau tatprāyogika eva ca // TśPk_28",
+          "translated_text": "and in the attainment of the perfection of patience, it is indeed practical"
         },
         {
           "tag": "lg",
@@ -513,12 +578,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "pratipattiś ca sattvārthā vijñeyā hetubhāvataḥ /"
+              "text": "pratipattiś ca sattvārthā vijñeyā hetubhāvataḥ /",
+              "translated_text": "and the practice for the sake of beings should be understood as having a cause"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "sattvavastunimittāt tu vijñeyā parivarjitā // TśPk_29"
+              "text": "sattvavastunimittāt tu vijñeyā parivarjitā // TśPk_29",
+              "translated_text": "But from the sign of beings and objects, it should be understood as devoid"
             }
           ]
         },
@@ -529,12 +596,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "nāmaskandhāś ca tadvastu tatsaṃjñāpagamāj jine /"
+              "text": "nāmaskandhāś ca tadvastu tatsaṃjñāpagamāj jine /",
+              "translated_text": "And the aggregates of names, that object, from the disappearance of that concept in the <s>Jina</s>"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tadabhāvo hi buddhānāṃ tattvadarśanayogataḥ // TśPk_30"
+              "text": "tadabhāvo hi buddhānāṃ tattvadarśanayogataḥ // TśPk_30",
+              "translated_text": "For that absence, indeed, is due to the vision of reality by the <s>Buddhas</s>"
             }
           ]
         },
@@ -545,12 +614,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "phalāpratiṣṭhito mārgas tatphalasyāpi kāraṇam /"
+              "text": "phalāpratiṣṭhito mārgas tatphalasyāpi kāraṇam /",
+              "translated_text": "The path is without attachment to the result, it is also the cause of that result"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "buddhānāṃ bhūtavāditvāt tac ca jñeyaṃ caturvidham // TśPk_31"
+              "text": "buddhānāṃ bhūtavāditvāt tac ca jñeyaṃ caturvidham // TśPk_31",
+              "translated_text": "Because of the truth-speaking of the <s>Buddhas</s>, that should be known as fourfold"
             }
           ]
         },
@@ -561,12 +632,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "pratijñā hīnayānasya mahāyānasya deśanā /"
+              "text": "pratijñā hīnayānasya mahāyānasya deśanā /",
+              "translated_text": "The promise of the <s>Hīnayāna</s> is the teaching of the <s>Mahāyāna</s>"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "sarvavyākaraṇānāṃ ca na visaṃvādinī yataḥ // TśPk_32"
+              "text": "sarvavyākaraṇānāṃ ca na visaṃvādinī yataḥ // TśPk_32",
+              "translated_text": "And of all explanations, it is not contradictory because"
             }
           ]
         },
@@ -577,74 +650,88 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "aprāpter ānukulyāc ca na satyā na mṛṣā matā /"
+              "text": "aprāpter ānukulyāc ca na satyā na mṛṣā matā /",
+              "translated_text": "Due to non-attainment and favorability, it is considered neither true nor false"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "yathārutaniveśasya pratipakṣeṇa deśanā // TśPk_33"
+              "text": "yathārutaniveśasya pratipakṣeṇa deśanā // TśPk_33",
+              "translated_text": "The teaching is by the opposite of the arrangement of sounds"
             }
           ]
         },
         {
           "tag": "text",
-          "text": "x x x x x x x x x x x x x ."
+          "text": "x x x x x x x x x x x x x .",
+          "translated_text": "x x x x x x x x x x x x x ."
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "translated_text": "a"
         },
         {
           "tag": "text",
-          "text": "lābhatā /"
+          "text": "lābhatā /",
+          "translated_text": "lābhatā /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ajñānāt sapratiṣṭhena jñānād anyena lābhatā // TśPk_34"
+          "text": "ajñānāt sapratiṣṭhena jñānād anyena lābhatā // TśPk_34",
+          "translated_text": "From ignorance, with attachment, from knowledge, attainment by another"
         },
         {
           "tag": "text",
-          "text": "tamaḥprakāśam ajñānaṃ jñānam ālokavan mata"
+          "text": "tamaḥprakāśam ajñānaṃ jñānam ālokavan mata",
+          "translated_text": "tamaḥprakāśam ajñānaṃ jñānam ālokavan mata"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "m"
+          "text": "m",
+          "translated_text": "m"
         },
         {
           "tag": "text",
-          "text": "/"
+          "text": "/",
+          "translated_text": "/"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pratipakṣavipakṣasya lābhahānyāmukhatvataḥ // TśPk_35"
+          "text": "pratipakṣavipakṣasya lābhahānyāmukhatvataḥ // TśPk_35",
+          "translated_text": "From the opposition and counter-opposition, the attainment and loss are without direction"
         },
         {
           "tag": "text",
-          "text": "yādṛśyā pratipa"
+          "text": "yādṛśyā pratipa",
+          "translated_text": "yādṛśyā pratipa"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ttyā"
+          "text": "ttyā",
+          "translated_text": "ttyā"
         },
         {
           "tag": "text",
-          "text": "x x x x x x x x x /"
+          "text": "x x x x x x x x x /",
+          "translated_text": "x x x x x x x x x /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yat karmikā ca sā dharme pratipattis tad ucyate // TśPk_36"
+          "text": "yat karmikā ca sā dharme pratipattis tad ucyate // TśPk_36",
+          "translated_text": "That which is action-oriented is declared as practice in the <s>Dharma</s>"
         },
         {
           "tag": "lg",
@@ -653,96 +740,114 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "vyañjane trividhā dharmadharatve śrutavistare /"
+              "text": "vyañjane trividhā dharmadharatve śrutavistare /",
+              "translated_text": "In expression, threefold in holding the <s>Dharma</s>, in the vastness of hearing"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "arthasya parato 'dhyātmam āptau śravaṇacintanāt // TśPk_37"
+              "text": "arthasya parato 'dhyātmam āptau śravaṇacintanāt // TśPk_37",
+              "translated_text": "Of the meaning, externally and internally, attainment is from hearing and reflection"
             }
           ]
         },
         {
           "tag": "text",
-          "text": "x x x x x x x x x x x x"
+          "text": "x x x x x x x x x x x x",
+          "translated_text": "x x x x x x x x x x x x"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "pari"
+          "text": "pari",
+          "translated_text": "pari"
         },
         {
           "tag": "text",
-          "text": "pācane /"
+          "text": "pācane /",
+          "translated_text": "pācane /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vastukālamahatvena puṇyāt puṇyaṃ viśiṣyate // TśPk_38"
+          "text": "vastukālamahatvena puṇyāt puṇyaṃ viśiṣyate // TśPk_38",
+          "translated_text": "By the greatness of time and object, merit is distinguished by merit"
         },
         {
           "tag": "text",
-          "text": "agocaratvaṃ kaivalyaṃ mahātmāśritatā tathā /\ndurlabhaśravatā caiva dhātupuṣṭir anu"
+          "text": "agocaratvaṃ kaivalyaṃ mahātmāśritatā tathā /\ndurlabhaśravatā caiva dhātupuṣṭir anu",
+          "translated_text": "agocaratvaṃ kaivalyaṃ mahātmāśritatā tathā /\ndurlabhaśravatā caiva dhātupuṣṭir anu"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ttarā"
+          "text": "ttarā",
+          "translated_text": "ttarā"
         },
         {
           "tag": "text",
-          "text": "// TśPk_39\nx x x x x x x x x x x"
+          "text": "// TśPk_39\nx x x x x x x x x x x",
+          "translated_text": "// TśPk_39\nx x x x x x x x x x x"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "pātra"
+          "text": "pātra",
+          "translated_text": "pātra"
         },
         {
           "tag": "text",
-          "text": "tāśraye /"
+          "text": "tāśraye /",
+          "translated_text": "tāśraye /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "śodhanāvaraṇānāṃ ca kṣiprābhijñātvam eva ca // TśPk_40"
+          "text": "śodhanāvaraṇānāṃ ca kṣiprābhijñātvam eva ca // TśPk_40",
+          "translated_text": "And also the quick realization of the purification of obstructions"
         },
         {
           "tag": "text",
-          "text": "vicitraIokasaṃpattivipākaḥ sumahānn api /\nkarmāṇi etāni dharme pratipatter matā"
+          "text": "vicitraIokasaṃpattivipākaḥ sumahānn api /\nkarmāṇi etāni dharme pratipatter matā",
+          "translated_text": "vicitraIokasaṃpattivipākaḥ sumahānn api /\nkarmāṇi etāni dharme pratipatter matā"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ni"
+          "text": "ni",
+          "translated_text": "ni"
         },
         {
           "tag": "text",
-          "text": "x // TśPk_41\nx x x x x x x x x"
+          "text": "x // TśPk_41\nx x x x x x x x x",
+          "translated_text": "x // TśPk_41\nx x x x x x x x x"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "bodhisat"
+          "text": "bodhisat",
+          "translated_text": "bodhisat"
         },
         {
           "tag": "text",
-          "text": "tvakalpanā /"
+          "text": "tvakalpanā /",
+          "translated_text": "tvakalpanā /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "cittāvaraṇam ākhyātaṃ yac cittam apratiṣṭhitaṃ // TśPk_42"
+          "text": "cittāvaraṇam ākhyātaṃ yac cittam apratiṣṭhitaṃ // TśPk_42",
+          "translated_text": "The mental obstruction is declared as that which is unestablished in the mind"
         },
         {
           "tag": "lg",
@@ -751,12 +856,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "paścādvyākaraṇān no ca caryā dīpaṃkare parā /"
+              "text": "paścādvyākaraṇān no ca caryā dīpaṃkare parā /",
+              "translated_text": "Subsequent explanations, and indeed the practice is not supreme in <s>Dīpaṃkara</s>"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "bodhis tac caryayā tulyā na sa x x x x x x // TśPk_43"
+              "text": "bodhis tac caryayā tulyā na sa x x x x x x // TśPk_43",
+              "translated_text": "The awakening, similar to that practice, he is not x x x x x x"
             }
           ]
         },
@@ -767,50 +874,59 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "x x x x x x x x na mṛṣā paridīpitā /"
+              "text": "x x x x x x x x na mṛṣā paridīpitā /",
+              "translated_text": "x x x x x x x x na mṛṣā paridīpitā /"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "dharmās tato buddhadharmāḥ sarve 'bhāvasvalakṣaṇāḥ // TśPk_44"
+              "text": "dharmās tato buddhadharmāḥ sarve 'bhāvasvalakṣaṇāḥ // TśPk_44",
+              "translated_text": "Therefore, <s>Buddha</s> <s>Dharmas</s> all have the characteristic of non-existence"
             }
           ]
         },
         {
           "tag": "text",
-          "text": "dharmakāyena buddhas tu mataḥ"
+          "text": "dharmakāyena buddhas tu mataḥ",
+          "translated_text": "dharmakāyena buddhas tu mataḥ"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "saḥ"
+          "text": "saḥ",
+          "translated_text": "saḥ"
         },
         {
           "tag": "text",
-          "text": "puruṣopamaḥ /"
+          "text": "puruṣopamaḥ /",
+          "translated_text": "puruṣopamaḥ /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "nirāvaraṇato x x x x x x x x x x x // TśPk_45"
+          "text": "nirāvaraṇato x x x x x x x x x x x // TśPk_45",
+          "translated_text": "Due to being without obstruction x x x x x x x x x x x"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "guṇamahā"
+          "text": "guṇamahā",
+          "translated_text": "guṇamahā"
         },
         {
           "tag": "text",
-          "text": "tmyataś cāpi mahākāyaḥ sa eva hi /"
+          "text": "tmyataś cāpi mahākāyaḥ sa eva hi /",
+          "translated_text": "tmyataś cāpi mahākāyaḥ sa eva hi /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "abhāvakāyabhāvāc ca akāyo 'sau nirucyate // TśPk_46"
+          "text": "abhāvakāyabhāvāc ca akāyo 'sau nirucyate // TśPk_46",
+          "translated_text": "And from the nature of the body of non-existence, he is described as bodiless"
         },
         {
           "tag": "lg",
@@ -819,12 +935,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "dharmadhātāv akuśalaḥ sattvanirvāpaṇe matiḥ /"
+              "text": "dharmadhātāv akuśalaḥ sattvanirvāpaṇe matiḥ /",
+              "translated_text": "In the <s>Dharmadhātu</s>, unskillful is the thought in the extinguishing of beings"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "kṣetrāṇāṃ śodhane caiva x x x x x x x x // TśPk_47"
+              "text": "kṣetrāṇāṃ śodhane caiva x x x x x x x x // TśPk_47",
+              "translated_text": "And in the purification of fields x x x x x x x x"
             }
           ]
         },
@@ -833,78 +951,93 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "sattvānāṃ bodhisattvā"
+          "text": "sattvānāṃ bodhisattvā",
+          "translated_text": "sattvānāṃ bodhisattvā"
         },
         {
           "tag": "text",
-          "text": "nāṃ dharmān yaś ca nairātmakān /"
+          "text": "nāṃ dharmān yaś ca nairātmakān /",
+          "translated_text": "nāṃ dharmān yaś ca nairātmakān /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "buddhyādhimucyate 'nārya āryo dhīmān sa kaṭhyate // TśPk_48"
+          "text": "buddhyādhimucyate 'nārya āryo dhīmān sa kaṭhyate // TśPk_48",
+          "translated_text": "By wisdom, the non-noble one is committed, the noble wise one is declared"
         },
         {
           "tag": "text",
-          "text": "nopalambhe 'pi dharmāṇāṃ cakṣur na hi na vidyate /\nbuddhānāṃ pañcadhā t"
+          "text": "nopalambhe 'pi dharmāṇāṃ cakṣur na hi na vidyate /\nbuddhānāṃ pañcadhā t",
+          "translated_text": "nopalambhe 'pi dharmāṇāṃ cakṣur na hi na vidyate /\nbuddhānāṃ pañcadhā t"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ac ca vitathārthasya darśanāt"
+          "text": "ac ca vitathārthasya darśanāt",
+          "translated_text": "ac ca vitathārthasya darśanāt"
         },
         {
           "tag": "text",
-          "text": "// TśPk_49"
+          "text": "// TśPk_49",
+          "translated_text": "// TśPk_49"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "nānāvithatavi"
+          "text": "nānāvithatavi",
+          "translated_text": "nānāvithatavi"
         },
         {
           "tag": "text",
-          "text": "jñapteḥ sṃṛtyupasthānavarjanāt /"
+          "text": "jñapteḥ sṃṛtyupasthānavarjanāt /",
+          "translated_text": "jñapteḥ sṃṛtyupasthānavarjanāt /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "nirādhāraprabandho 'syā vitathāto nirucyate // TśPk_50"
+          "text": "nirādhāraprabandho 'syā vitathāto nirucyate // TśPk_50",
+          "translated_text": "The unsupported continuity is described as false"
         },
         {
           "tag": "text",
-          "text": "jñānasyādhārato jñeyā puṇye vitathatā na ca /\ntataḥ puṇyanimittaṃ hi puna"
+          "text": "jñānasyādhārato jñeyā puṇye vitathatā na ca /\ntataḥ puṇyanimittaṃ hi puna",
+          "translated_text": "jñānasyādhārato jñeyā puṇye vitathatā na ca /\ntataḥ puṇyanimittaṃ hi puna"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "r dṛṣṭāntakīrtanam"
+          "text": "r dṛṣṭāntakīrtanam",
+          "translated_text": "r dṛṣṭāntakīrtanam"
         },
         {
           "tag": "text",
-          "text": "// TśPk_51"
+          "text": "// TśPk_51",
+          "translated_text": "// TśPk_51"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "na dharmakāyaniṣpattir anu"
+          "text": "na dharmakāyaniṣpattir anu",
+          "translated_text": "na dharmakāyaniṣpattir anu"
         },
         {
           "tag": "text",
-          "text": "vyañjanam ucyate /"
+          "text": "vyañjanam ucyate /",
+          "translated_text": "vyañjanam ucyate /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "na ca lakṣaṇasaṃpattis tad akāyatvato matā // TśPk_52"
+          "text": "na ca lakṣaṇasaṃpattis tad akāyatvato matā // TśPk_52",
+          "translated_text": "And the attainment of characteristics is not considered due to its bodilessness"
         },
         {
           "tag": "lg",
@@ -913,34 +1046,40 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "dharmakāyāvinirbhāgān na dvayaṃ na tathāgataḥ /"
+              "text": "dharmakāyāvinirbhāgān na dvayaṃ na tathāgataḥ /",
+              "translated_text": "Due to the non-separation of the <s>Dharmakāya</s>, neither duality nor the <s>Tathāgata</s>"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "saṃpattir ucyate bhūyo dvayaṃ nāsty astitā tataḥ // TśPk_53"
+              "text": "saṃpattir ucyate bhūyo dvayaṃ nāsty astitā tataḥ // TśPk_53",
+              "translated_text": "The attainment is described as again, there is no duality, no existence from that"
             }
           ]
         },
         {
           "tag": "text",
-          "text": "x x x x x x x x x x x x x"
+          "text": "x x x x x x x x x x x x x",
+          "translated_text": "x x x x x x x x x x x x x"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ka"
+          "text": "ka",
+          "translated_text": "ka"
         },
         {
           "tag": "text",
-          "text": "lpitā /"
+          "text": "lpitā /",
+          "translated_text": "lpitā /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "dharmakāyāvinirbhāgād deśanāpy asvalakṣaṇā // TśPk_54"
+          "text": "dharmakāyāvinirbhāgād deśanāpy asvalakṣaṇā // TśPk_54",
+          "translated_text": "Due to the non-separation of the <s>Dharmakāya</s>, the teaching is also without specific characteristics"
         },
         {
           "tag": "lg",
@@ -949,29 +1088,34 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "deśyadaiśikagāṃbhīryaśraddhā na ca na santi hi /"
+              "text": "deśyadaiśikagāṃbhīryaśraddhā na ca na santi hi /",
+              "translated_text": "And the faith in the depth of the teaching and the teacher indeed are not absent"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "na sattvā nāpi cāsattvās te 'nāryārya x x x x // TśPk_55"
+              "text": "na sattvā nāpi cāsattvās te 'nāryārya x x x x // TśPk_55",
+              "translated_text": "Neither beings nor non-beings, they are non-noble and noble x x x x"
             }
           ]
         },
         {
           "tag": "text",
-          "text": "x x x x x x x x jñeyā bodhir anuttarā /\nna vṛddhyā dharmadhātau hi śuddhisāmyāt svala"
+          "text": "x x x x x x x x jñeyā bodhir anuttarā /\nna vṛddhyā dharmadhātau hi śuddhisāmyāt svala",
+          "translated_text": "x x x x x x x x jñeyā bodhir anuttarā /\nna vṛddhyā dharmadhātau hi śuddhisāmyāt svala"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "kṣa"
+          "text": "kṣa",
+          "translated_text": "kṣa"
         },
         {
           "tag": "text",
-          "text": "ṇāt // TśPk_56"
+          "text": "ṇāt // TśPk_56",
+          "translated_text": "ṇāt // TśPk_56"
         },
         {
           "tag": "lg",
@@ -980,12 +1124,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "upāyānuttaratvāc ca sāsravatvād adharmataḥ /"
+              "text": "upāyānuttaratvāc ca sāsravatvād adharmataḥ /",
+              "translated_text": "And due to the supreme skillful means, from the defilement, from non-<s>Dharma</s>"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "śubhā na dharmā x x x x x x x x x x x // TśPk_57"
+              "text": "śubhā na dharmā x x x x x x x x x x x // TśPk_57",
+              "translated_text": "Auspicious are not <s>Dharmas</s> x x x x x x x x x x x"
             }
           ]
         },
@@ -994,31 +1140,37 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "naiva"
+          "text": "naiva",
+          "translated_text": "naiva"
         },
         {
           "tag": "text",
-          "text": "? cāvyākṛtatve 'pi deśanā 'prāptaye matā /"
+          "text": "? cāvyākṛtatve 'pi deśanā 'prāptaye matā /",
+          "translated_text": "? cāvyākṛtatve 'pi deśanā 'prāptaye matā /"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "dharmaratnaṃ tataś caikaṃ ratnād anyād viśiṣyate // TśPk_58"
+          "text": "dharmaratnaṃ tataś caikaṃ ratnād anyād viśiṣyate // TśPk_58",
+          "translated_text": "And thus the <s>Dharma</s> jewel is distinguished from another jewel"
         },
         {
           "tag": "text",
-          "text": "saṃkhyāprabhavajātīnāṃ saṃbandhasya viśeṣaṇe /\nx x x x x x x x x x x x x"
+          "text": "saṃkhyāprabhavajātīnāṃ saṃbandhasya viśeṣaṇe /\nx x x x x x x x x x x x x",
+          "translated_text": "saṃkhyāprabhavajātīnāṃ saṃbandhasya viśeṣaṇe /\nx x x x x x x x x x x x x"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "labh"
+          "text": "labh",
+          "translated_text": "labh"
         },
         {
           "tag": "text",
-          "text": "yate // TśPk_59"
+          "text": "yate // TśPk_59",
+          "translated_text": "yate // TśPk_59"
         },
         {
           "tag": "lg",
@@ -1027,12 +1179,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "samatvād dharmadhātoś ca na sattvā mocitā jinaiḥ /"
+              "text": "samatvād dharmadhātoś ca na sattvā mocitā jinaiḥ /",
+              "translated_text": "Due to the equality of the <s>Dharmadhātu</s>, beings are not liberated by the <s>Jinas</s>"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "sahanāmnā yataḥ skandhā dharmadhātvabahirgatāḥ // TśPk_60"
+              "text": "sahanāmnā yataḥ skandhā dharmadhātvabahirgatāḥ // TśPk_60",
+              "translated_text": "because the aggregates, named as companions, are outside the <s>Dharmadhātu</s>"
             }
           ]
         },
@@ -1043,12 +1197,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "ātmagrāhasamo dosas ta x x x x x x x /"
+              "text": "ātmagrāhasamo dosas ta x x x x x x x /",
+              "translated_text": "The defect is equal to self-grasping, that x x x x x x x"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "x x x x x grāhe hi agrāhagrāhatā matā // TśPk_61"
+              "text": "x x x x x grāhe hi agrāhagrāhatā matā // TśPk_61",
+              "translated_text": "in grasping, indeed, non-grasping is considered"
             }
           ]
         },
@@ -1059,40 +1215,47 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "na caiva rūpakāyena so 'numeyas tathāgataḥ /"
+              "text": "na caiva rūpakāyena so 'numeyas tathāgataḥ /",
+              "translated_text": "And the <s>Tathāgata</s> is not to be inferred by the form body"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "dharmakāyo yataś cakravartī mābhūt tathāgataḥ // TśPk_62"
+              "text": "dharmakāyo yataś cakravartī mābhūt tathāgataḥ // TśPk_62",
+              "translated_text": "since the <s>Dharmakāya</s> is not the universal monarch, the <s>Tathāgata</s>"
             }
           ]
         },
         {
           "tag": "text",
-          "text": "na ca lakṣaṇavaipākyapu"
+          "text": "na ca lakṣaṇavaipākyapu",
+          "translated_text": "And not by the fruition of characteristics"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṇy"
+          "text": "ṇy",
+          "translated_text": ""
         },
         {
           "tag": "text",
-          "text": ". x x x x x x /"
+          "text": ". x x x x x x /",
+          "translated_text": "x x x x x x"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "dharmakāya"
+          "text": "dharmakāya",
+          "translated_text": "<s>Dharmakāya</s>"
         },
         {
           "tag": "text",
-          "text": "sya lābho hi upāyo yad vilakṣaṇaḥ // TśPk_63"
+          "text": "sya lābho hi upāyo yad vilakṣaṇaḥ // TśPk_63",
+          "translated_text": "indeed, the attainment of the <s>Dharmakāya</s> is the means that is distinct"
         },
         {
           "tag": "lg",
@@ -1101,12 +1264,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "rūpānuśravamātreṇa na buddhajñaḥ pṛthagjanaḥ /"
+              "text": "rūpānuśravamātreṇa na buddhajñaḥ pṛthagjanaḥ /",
+              "translated_text": "By mere hearing of forms, the ordinary person is not a knower of the Buddha"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tathatādharmakāyo hi yato 'vijñānagocaraḥ // TśPk_64"
+              "text": "tathatādharmakāyo hi yato 'vijñānagocaraḥ // TśPk_64",
+              "translated_text": "since the <s>Dharmakāya</s> of thusness is beyond the range of knowledge"
             }
           ]
         },
@@ -1117,12 +1282,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "na ca puṇyas x x x x x x x x x x x x /"
+              "text": "na ca puṇyas x x x x x x x x x x x x /",
+              "translated_text": "And not by merit x x x x x x x x x x x x"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "kṣāntilābhe 'pi nocchedo nirmalasyāsya lābhataḥ // TśPk_65"
+              "text": "kṣāntilābhe 'pi nocchedo nirmalasyāsya lābhataḥ // TśPk_65",
+              "translated_text": "even in the attainment of patience, there is no destruction due to the attainment of purity"
             }
           ]
         },
@@ -1133,34 +1300,40 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "punaḥ puṇyanimittaṃ hi tasmād dṛṣṭāntadeśanā /"
+              "text": "punaḥ puṇyanimittaṃ hi tasmād dṛṣṭāntadeśanā /",
+              "translated_text": "Therefore, again, the teaching by example is indeed a mark of merit"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "tat puṇyasyāvipākatvān nodgrahaḥ saparigrahaḥ // TśPk_66"
+              "text": "tat puṇyasyāvipākatvān nodgrahaḥ saparigrahaḥ // TśPk_66",
+              "translated_text": "because of the non-fruition of that merit, there is no grasping with possession"
             }
           ]
         },
         {
           "tag": "text",
-          "text": "tan nirmāṇaphalaṃ teṣā"
+          "text": "tan nirmāṇaphalaṃ teṣā",
+          "translated_text": "that is the fruit of creation for them"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ puṇya"
+          "text": "ṃ puṇya",
+          "translated_text": "merit"
         },
         {
           "tag": "text",
-          "text": "x x x x x x /"
+          "text": "x x x x x x /",
+          "translated_text": "x x x x x x"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "anābhogena yat karma buddhāḥ kurvanti dikṣu ca // TśPk_67"
+          "text": "anābhogena yat karma buddhāḥ kurvanti dikṣu ca // TśPk_67",
+          "translated_text": "what action the <s>Buddhas</s> perform in the directions without effort"
         },
         {
           "tag": "lg",
@@ -1169,40 +1342,47 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "gatyādayas tu nirmāṇair buddhās tv avicalāḥ sadā /"
+              "text": "gatyādayas tu nirmāṇair buddhās tv avicalāḥ sadā /",
+              "translated_text": "and the movements and others by creations, the <s>Buddhas</s> are always unshaken"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "dharmadhātau ca tatsthānaṃ naikatvānyatvato matam // TśPk_68"
+              "text": "dharmadhātau ca tatsthānaṃ naikatvānyatvato matam // TśPk_68",
+              "translated_text": "and in the <s>Dharmadhātu</s>, that state is considered neither oneness nor otherness"
             }
           ]
         },
         {
           "tag": "text",
-          "text": "rajomaṣīkriyā dhātor dṛ"
+          "text": "rajomaṣīkriyā dhātor dṛ",
+          "translated_text": "the action of dust and ink of the element"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṣṭāntas tasya dyota"
+          "text": "ṣṭāntas tasya dyota",
+          "translated_text": "is an example illuminating that"
         },
         {
           "tag": "text",
-          "text": "kaḥ /\nmaṣīkara"
+          "text": "kaḥ /\nmaṣīkara",
+          "translated_text": "kaḥ /\nmaṣīkara"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṇa"
+          "text": "ṇa",
+          "translated_text": ""
         },
         {
           "tag": "text",
-          "text": "tā kleśakṣayasyeha nidarśanam // TśPk_69"
+          "text": "tā kleśakṣayasyeha nidarśanam // TśPk_69",
+          "translated_text": "is an illustration of the destruction of defilements here"
         },
         {
           "tag": "lg",
@@ -1211,49 +1391,58 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "asaṃcayatvāpiṇḍatvam anekatvanidarśanam /"
+              "text": "asaṃcayatvāpiṇḍatvam anekatvanidarśanam /",
+              "translated_text": "non-accumulation and compactness are illustrations of multiplicity"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "saṃhatasthānatā tasmin nānyatve ca nidarśanam // TśPk_70"
+              "text": "saṃhatasthānatā tasmin nānyatve ca nidarśanam // TśPk_70",
+              "translated_text": "and the combined state in that is also an illustration of non-otherness"
             }
           ]
         },
         {
           "tag": "text",
-          "text": "vyavahāramātratāyā"
+          "text": "vyavahāramātratāyā",
+          "translated_text": "the mere conventionality"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "bālā"
+          "text": "bālā",
+          "translated_text": "of the ignorant"
         },
         {
           "tag": "text",
-          "text": "nām udgraho 'nyathā /"
+          "text": "nām udgraho 'nyathā /",
+          "translated_text": "is otherwise grasping"
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "dvayābhāvān na bodhyāptiḥ prahāṇād ātmadharmayoḥ // TśPk_71"
+          "text": "dvayābhāvān na bodhyāptiḥ prahāṇād ātmadharmayoḥ // TśPk_71",
+          "translated_text": "due to the absence of duality, there is no attainment of awakening from the abandonment of self and <s>Dharmas</s>"
         },
         {
           "tag": "text",
-          "text": "tasmād dṛṣṭir adṛṣṭiś ca nairarthyābhūtakalpataḥ /\nsūkṣmam āvaraṇaṃ hy etat tathā jñānāt pra"
+          "text": "tasmād dṛṣṭir adṛṣṭiś ca nairarthyābhūtakalpataḥ /\nsūkṣmam āvaraṇaṃ hy etat tathā jñānāt pra",
+          "translated_text": "tasmād dṛṣṭir adṛṣṭiś ca nairarthyābhūtakalpataḥ /\nsūkṣmam āvaraṇaṃ hy etat tathā jñānāt pra"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "hīyate"
+          "text": "hīyate",
+          "translated_text": "is abandoned"
         },
         {
           "tag": "text",
-          "text": "// TśPk_72"
+          "text": "// TśPk_72",
+          "translated_text": ""
         },
         {
           "tag": "lg",
@@ -1262,29 +1451,34 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "jñānadvayasamādhānapraheyaṃ tac ca deśitam /"
+              "text": "jñānadvayasamādhānapraheyaṃ tac ca deśitam /",
+              "translated_text": "the abandonment of the duality of knowledge is taught"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "nirmāṇaiḥ kaśaṇāt puṇyaṃ tad buddhānāṃ na nākṣayam // TśPk_73"
+              "text": "nirmāṇaiḥ kaśaṇāt puṇyaṃ tad buddhānāṃ na nākṣayam // TśPk_73",
+              "translated_text": "by creations, the merit of the <s>Buddhas</s> is not exhausted"
             }
           ]
         },
         {
           "tag": "text",
-          "text": "nirmito 'smīti cātmānaṃ kāśayantas tathāgatāḥ /\nprakāśayanti nā"
+          "text": "nirmito 'smīti cātmānaṃ kāśayantas tathāgatāḥ /\nprakāśayanti nā",
+          "translated_text": "nirmito 'smīti cātmānaṃ kāśayantas tathāgatāḥ /\nprakāśayanti nā"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "tmānaṃ"
+          "text": "tmānaṃ",
+          "translated_text": "themselves"
         },
         {
           "tag": "text",
-          "text": "tasmāt sā kāśanā satī // TśPk_74"
+          "text": "tasmāt sā kāśanā satī // TśPk_74",
+          "translated_text": "therefore, that declaration is true"
         },
         {
           "tag": "lg",
@@ -1293,12 +1487,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "saṃskāro na tathā nānyaṃ nirvāṇaṃ hi tathāgate /"
+              "text": "saṃskāro na tathā nānyaṃ nirvāṇaṃ hi tathāgate /",
+              "translated_text": "neither formation is thus nor other, for <s>Nirvāṇa</s> is in the <s>Tathāgata</s>"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "navadhā saṃbhūtasyeha saṃyagjñānaparīkṣaṇāt // TśPk_75"
+              "text": "navadhā saṃbhūtasyeha saṃyagjñānaparīkṣaṇāt // TśPk_75",
+              "translated_text": "ninefold is the arising here from the examination of right knowledge"
             }
           ]
         },
@@ -1309,31 +1505,37 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "dṛṣṭir nimittaṃ vijñānaṃ pratiṣṭhādehabhogatā /"
+              "text": "dṛṣṭir nimittaṃ vijñānaṃ pratiṣṭhādehabhogatā /",
+              "translated_text": "view is the sign, knowledge is the state of the established body"
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "atītaṃ vartamānaṃ ca parīkṣyaṃ cāpy anāgatam // TśPk_76"
+              "text": "atītaṃ vartamānaṃ ca parīkṣyaṃ cāpy anāgatam // TśPk_76",
+              "translated_text": "the past, present, and also the future are to be examined"
             }
           ]
         },
         {
           "tag": "text",
-          "text": "lakṣaṇasyopabhogasya pravṛtteś ca parīkṣaṇāt /\nnirmalāṃ"
+          "text": "lakṣaṇasyopabhogasya pravṛtteś ca parīkṣaṇāt /\nnirmalāṃ",
+          "translated_text": "lakṣaṇasyopabhogasya pravṛtteś ca parīkṣaṇāt /\nnirmalāṃ"
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "teṣu"
+          "text": "teṣu",
+          "translated_text": "in them"
         },
         {
           "tag": "text",
-          "text": "vaśitāṃ saṃskāreṣu samāpnute // TśPk_77"
+          "text": "vaśitāṃ saṃskāreṣu samāpnute // TśPk_77",
+          "translated_text": "one attains mastery over formations"
         }
-      ]
+      ],
+      "translated_text": "Vast, the highest, exceedingly non-contradictory"
     },
     {
       "tag": "p",
@@ -1345,18 +1547,22 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "yāḥ"
+          "text": "yāḥ",
+          "translated_text": ""
         },
         {
           "tag": "text",
-          "text": "kārikāsaptatiḥ samāptā // //"
+          "text": "kārikāsaptatiḥ samāptā // //",
+          "translated_text": "seventy verses are completed"
         }
-      ]
+      ],
+      "translated_text": "The Perfection of Wisdom in Three Hundred"
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "kṛtir iyam āryāsaṅgapādānām iti // //"
+      "text": "kṛtir iyam āryāsaṅgapādānām iti // //",
+      "translated_text": "This is the work of <s>Āryāsaṅga</s>"
     }
   ]
 }
