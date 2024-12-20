@@ -249,7 +249,7 @@ export function HomePage() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`/resources/books/${bookTitle}.json`);
+        const response = await fetch(`/public/resources/books/${bookTitle}.json`);
         if (!response.ok) {
           throw new Error(`Failed to fetch: ${response.status}`);
         }
@@ -292,7 +292,7 @@ export function HomePage() {
         style={{ 
           width: 
           isNavbarVisible ? 
-          (isMobile? '100vw' : (isTablet ? '300px' : '350px')): 0,
+          (isMobile? '100vw' : (isTablet ? '350px' : '350px')): 0,
         }}
 
 
@@ -384,7 +384,7 @@ export function HomePage() {
                       (isWordInfoVisible ? '10%' // left two column navbar open
                                          : '25%') : // navbar
                       (isWordInfoVisible ? '18%' // left two column no navbar
-                                         : '22%')) // no navbar
+                                         : '28%')) // no navbar
                   ),
             paddingRight: 
                   isMobile ? '8%' : // mobile
