@@ -14,7 +14,7 @@ type LongEntry = [
   string,  // entry[1] - grammar
   InflectionEntry[],  // entry[2] - inflections
   string[],  // entry[3] - inflection_wordsIAST
-  string,  // entry[4] - etymology
+  string,  // entry[4] - derivarion
   string,  // entry[5] - pronunciation
   { [dictionaryName: string]: { [wordName: string]: string[] } }  // entry[6] - vocabulary entries
 ];
@@ -33,6 +33,9 @@ interface WordDataComponentProps {
   setWordData: React.Dispatch<React.SetStateAction<WordEntry[]>>;
   isMobile: boolean | undefined;
   setClickedInfoWord: React.Dispatch<React.SetStateAction<string|null>>;
+  isTablet:  boolean | undefined;
+  isNavabarVisible: boolean;
+
 }
 
 type DictionaryLabels = {
@@ -48,7 +51,7 @@ const dictionaryLabels: DictionaryLabels = {
 };
 
 
-const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionaries, setClickedInfoWord }: WordDataComponentProps) => {
+const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionaries, setClickedInfoWord, isTablet, isNavabarVisible }: WordDataComponentProps) => {
   const handleWordClick = async (word: string, index: number) => {
     setClickedInfoWord(word)
     console.log(`Clicked word: ${word}`);
@@ -114,13 +117,13 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
               )}
 
               {longEntry[0] !== longEntry[4] && 
-                <p className={classes.etymologySection}>
+                <div className={classes.etymologySection}>
                   <span className={classes.etymologyLabel}>from:</span> 
                   <span className={classes.etymologyTerm}>{longEntry[4]}</span>
-                </p>
+                </div>
               }
 
-              <p className={classes.grammarSection}>
+              <div className={classes.grammarSection}>
                 <p 
                 className={
                   longEntry[1] === "indeclineable"
@@ -173,14 +176,14 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                   </span>
                 );
               })}
-              {!isMobile && (
+              {!isMobile && !isTablet && (
                 <InflectionTable 
                   inflection_wordsIAST={longEntry[3]} 
                   rowcolstitles={longEntry[2]}  
                   useColor={true}
                 />
               )}
-              </p>
+              </div>
 
               
 

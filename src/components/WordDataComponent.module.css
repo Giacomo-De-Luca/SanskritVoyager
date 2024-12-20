@@ -95,7 +95,6 @@
     padding-bottom: 1rem;
     margin-bottom: 0.4rem;
     border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
-    width: 100%;
     }
 
 .grammarMain {

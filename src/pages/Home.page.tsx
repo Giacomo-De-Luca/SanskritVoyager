@@ -249,7 +249,7 @@ export function HomePage() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`/resources/books/${bookTitle}.json`);
+        const response = await fetch(`/public/resources/books/${bookTitle}.json`);
         if (!response.ok) {
           throw new Error(`Failed to fetch: ${response.status}`);
         }
@@ -282,7 +282,9 @@ export function HomePage() {
         style={{ 
           display: 'flex',
           marginTop: '56px',
-          overflow: 'hidden' // Prevent overflow
+          overflow: 'hidden', // Prevent overflow
+          height: '100%',
+
         }}>  
       <div // navbar component should be a separate one
         className={classes.navbarBox}
@@ -338,7 +340,7 @@ export function HomePage() {
           flexWrap: 'nowrap',
           justifyContent: 'left',
           transition: 'padding-left 0.3s ease',
-          paddingRight: isMobile ? '16px' : undefined,
+          paddingRight: isMobile ? '16px' : 0,
           paddingLeft: isMobile ? '16px' : (isTablet ? '0' : (isNavbarVisible ? '0px' : '0px')),
 
           position: 'relative',
@@ -372,24 +374,27 @@ export function HomePage() {
             
                   (isTablet ? // tablet
                     (isNavbarVisible ? 
-                      (isWordInfoVisible ? '10%' // navbar with two column
-                      : '10%') : 
-                      (isWordInfoVisible ? '8%' // no navbar two column
-                      : '10%')) // no navbar
+                      (isWordInfoVisible ? '10%' // two grid rows
+                                         : '10%') : // single column navbar
+                      (isWordInfoVisible ? '12%' // no navbar two column
+                                         : '22%')) // no navbar
                     :
 
                     (isNavbarVisible ? // desktop
-                      (isWordInfoVisible ? '8%' // left two column navbar open
+                      (isWordInfoVisible ? '10%' // left two column navbar open
                                          : '25%') : // navbar
                       (isWordInfoVisible ? '18%' // left two column no navbar
-                                         : '28%')) // no navbar
+                                         : '22%')) // no navbar
                   ),
             paddingRight: 
                   isMobile ? '8%' : // mobile
+
                   (isTablet ? // tablet
                     (isNavbarVisible ? 
-                      (isWordInfoVisible ? '5%' : '10%') : // navbar
-                      (isWordInfoVisible ? '7.5%' : '10%')) : // no navbar
+                      (isWordInfoVisible ? '10%' // two grid rows
+                                         : '10%') : // single column navbar
+                      (isWordInfoVisible ? '3%' //no navbar two columns --> GAP 
+                                         : '20%')) : // no navbar
 
                     (isNavbarVisible ? // desktop
                       (isWordInfoVisible ? '3%'     // navbar two column
@@ -401,7 +406,6 @@ export function HomePage() {
             transition: 'padding-left 0.3s ease',
             overflowY: 'auto',
             overflowX: 'hidden',
-            borderBottom: isMobile && isWordInfoVisible ? '1px solid lightgray' : 'none',
             wordBreak: 'break-word', // Added to ensure words break
             whiteSpace: 'normal', // Changed from pre-wrap      
             paddingBottom: '0px'  
@@ -411,7 +415,11 @@ export function HomePage() {
             
        
 
-          < div className= {classes.scrollContainer}>
+          < div className= {classes.scrollContainer}
+          style={{
+            borderBottom: isMobile || (isTablet && isNavbarVisible) && isWordInfoVisible ? '1px solid lightgray' : 'none',
+
+          }}>
             {textTranslit !== '' && (
               <ClickableWords
                 lines={lines}
@@ -500,30 +508,37 @@ export function HomePage() {
                   )
                   : '50%')                    // half screen for desktop                                      
                   : 0,    // not visible, -- 0 
+                  
+                  
                   paddingLeft: 
 
                   isWordInfoVisible ? 
                   (isMobile ? '8%' :   // mobile little padding
-                  isTablet ? 
-                    (isNavbarVisible? '3%' : '10%') :  // table depends on navbar, with navbar half screen else full screen   
+
+                  isTablet ?          // tablet
+                    (isNavbarVisible? '10%' // gap between two columns
+                                    : '3%') :  // single column navbar 
                     
-                    //desktop
-                    ( isNavbarVisible ? 
-                      '3%' : //navbar middle margin
-                      '3%')) // no navbar             //half screen for desktop                                      
+                    ( isNavbarVisible ?  //desktop
+                                       '3%' : //navbar middle margin
+                                       '3%')) // no navbar             //half screen for desktop          
+
                   : 0,    // not visible, -- 0 
 
 
                   paddingRight: 
                   isWordInfoVisible ? 
                   (isMobile ? '8%' :   // mobile little padding
-                  isTablet ? 
-                    (isNavbarVisible? '5%' : '10%') :  // table depends on navbar, with navbar half screen else full screen           
-                    //desktop
 
-                    ( isNavbarVisible ? '12%'         //desktop navbar
+                  isTablet ? 
+                    (isNavbarVisible? '10%' // two rows + navbar
+                                    : '12%') : // two columns ---> gap
+
+                    ( isNavbarVisible ? '10%'         //desktop navbar
                                       : '18%'))       //desktop                              
                   : 0,    // not visible, -- 0 
+
+
                   wordBreak: 'break-word', // Added to ensure words break
                   whiteSpace: 'normal', // Changed from pre-wrap      
                   paddingBottom: '0px'  
@@ -564,6 +579,8 @@ export function HomePage() {
                               selectedDictionaries={selectedDictionaries}
                               isMobile={isMobile}
                               setClickedInfoWord={setClickedInfoWord}
+                              isTablet={isTablet}
+                              isNavabarVisible={isNavbarVisible}
                               
                               
                             />
@@ -581,17 +598,25 @@ export function HomePage() {
               width:  '100%',  // Changed to percentage
               paddingLeft: 
               isMobile ? '8%' : // mobile
+
                     (isTablet ? // tablet
-                      (isNavbarVisible ? '10%' : '10%') // no navbar
-                      :
-                      (isNavbarVisible ? '25%' : '28%') // no navbar
+                      (isNavbarVisible ? '12%'  // single column navbar
+                                       : '22%') // no navbar
+
+                      :                //desktop
+                      (isNavbarVisible ? '25%' //  single column navbar
+                                       : '28%') // no navbar
                     ),
               paddingRight: 
               isMobile ? '8%' : // mobile
+
               (isTablet ? // tablet
-                (isNavbarVisible ? '10%' : '10%') // no navbar
-                :
-                (isNavbarVisible ? '25%' : '28%') // no navbar
+                (isNavbarVisible ? '12%'  // single column navbar
+                                 : '22%') // no navbar
+
+                :                //desktop
+                (isNavbarVisible ? '25%'  // single column navbar
+                                 : '28%') // no navbar
               ),
               transition: 'padding-right 0.3s ease',
               overflowY: 'auto',
@@ -600,11 +625,6 @@ export function HomePage() {
               whiteSpace: 'normal', // Changed from pre-wrap      
               paddingBottom: '0px'  }}
 
-
-
-              
-
- 
           >
             < div className= {classes.scrollContainer}>
             {wordData.length < 1 && isLoadingWordData ?  (
@@ -616,6 +636,8 @@ export function HomePage() {
                       selectedDictionaries={selectedDictionaries}
                       isMobile={isMobile}
                       setClickedInfoWord={setClickedInfoWord}
+                      isTablet={isTablet}
+                      isNavabarVisible={isNavbarVisible}
 
                     />
                   )}

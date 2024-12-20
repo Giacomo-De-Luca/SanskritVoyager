@@ -52,8 +52,10 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
         // Split text into words only for Sanskrit terms, keep names as whole
         const textParts: string[] = isName 
           ? [text] 
-          : text.split(/(\s+|—|-(?=\w))/);
+          : text.split(/(\s+|—|-|\/)/);
 
+        
+          
         return textParts.map((word, wordIndex) => {
           if (!word.trim()) return word;
 
