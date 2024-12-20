@@ -32,6 +32,7 @@ interface WordDataComponentProps {
   wordData: WordEntry[];
   setWordData: React.Dispatch<React.SetStateAction<WordEntry[]>>;
   isMobile: boolean | undefined;
+  setClickedInfoWord: React.Dispatch<React.SetStateAction<string|null>>;
 }
 
 type DictionaryLabels = {
@@ -47,8 +48,9 @@ const dictionaryLabels: DictionaryLabels = {
 };
 
 
-const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionaries }: WordDataComponentProps) => {
+const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionaries, setClickedInfoWord }: WordDataComponentProps) => {
   const handleWordClick = async (word: string, index: number) => {
+    setClickedInfoWord(word)
     console.log(`Clicked word: ${word}`);
     console.log(`Index: ${index}`);
     fetchWordData(word).then(data => {

@@ -9,15 +9,33 @@ const colorSchemeManager = localStorageColorSchemeManager({
   key: 'mantine-color-scheme',
 });
 
+const colorSchemeScript = `
+  try {
+    var colorScheme = localStorage.getItem('mantine-color-scheme');
+    if (colorScheme) {
+      document.documentElement.setAttribute('data-mantine-color-scheme', colorScheme);
+    }
+  } catch (e) {}
+`;
 
 
 export default function App() {
   return (
-    <MantineProvider theme={theme} 
-    colorSchemeManager={colorSchemeManager}
-    // defaultColorScheme="light"
-    >
+    <>
+    
+    <script dangerouslySetInnerHTML={{ __html: colorSchemeScript }} />
+      
+      <MantineProvider
+        theme={theme}
+        defaultColorScheme="light"
+        colorSchemeManager={localStorageColorSchemeManager({
+          key: 'mantine-color-scheme'
+
+        })}
+        
+      >
       <Router />
     </MantineProvider>
+    </>
   );
 }

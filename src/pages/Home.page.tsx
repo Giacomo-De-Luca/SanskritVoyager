@@ -160,6 +160,7 @@ export function HomePage() {
   const [wordData, setWordData] = useState<WordEntry[]>([]);
   // Add this state at the component level
   const [clickedAdditionalWord, setClickedAdditionalWord] = useState<string | null>(null);
+  const [clickedInfoWord, setClickedInfoWord] = useState<string | null>(null);
 
 
   // Modified effect with more robust scrolling logic
@@ -191,30 +192,31 @@ export function HomePage() {
     }
   }, [clickedAdditionalWord]);
 
-  // New effect for wordData changes
   useEffect(() => {
     if (wordData.length > 0) {
       // Wait for the DOM to update with new wordData
       setTimeout(() => {
-        const firstWord = wordData[0][0]; // Get the first word from wordData
-        let element = document.querySelector(`h1[data-word="${firstWord}"]`);
+        // If we have a clicked word, try to scroll to that instead of the first word
+        const targetWord = clickedInfoWord || wordData[0][0];
+        let element = document.querySelector(`h1[data-word="${targetWord}"]`);
         
         if (!element) {
           const allH1s = document.querySelectorAll('h1');
           for (const h1 of allH1s) {
-            if (h1.textContent?.trim() === firstWord) {
+            if (h1.textContent?.trim() === targetWord) {
               element = h1;
               break;
             }
           }
         }
-
+  
         if (element) {
           element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+
         }
       }, 100);
     }
-  }, [wordData]);
+  }, [wordData, clickedInfoWord]); // Added clickedInfoWord to dependencies
 
 
   // If there is only one word, set it as the selected word
@@ -326,7 +328,6 @@ export function HomePage() {
 
     
       <Grid 
-        gutter= {isTablet ? "lg" : 'xl'}
         className={classes.wholeGrid}
         justify="space-around"
         align="stretch"
@@ -366,23 +367,34 @@ export function HomePage() {
             width: isMobile ? '100%' : (isWordInfoVisible ? '50%' : '100%'),  // Changed to percentage
             paddingLeft: 
             isMobile ? '8%' : // mobile
+            
                   (isTablet ? // tablet
                     (isNavbarVisible ? 
-                      (isWordInfoVisible ? '5%' : '10%') : // navbar
-                      (isWordInfoVisible ? '0%' : '10%')) // no navbar
+                      (isWordInfoVisible ? '10%' // navbar with two column
+                      : '10%') : 
+                      (isWordInfoVisible ? '8%' // no navbar two column
+                      : '10%')) // no navbar
                     :
+
                     (isNavbarVisible ? // desktop
-                      (isWordInfoVisible ? '12%' : '25%') : // navbar
-                      (isWordInfoVisible ? '12%' : '28%')) // no navbar
+                      (isWordInfoVisible ? '8%' // left two column navbar open
+                                         : '25%') : // navbar
+                      (isWordInfoVisible ? '18%' // left two column no navbar
+                                         : '28%')) // no navbar
                   ),
-            paddingRight: isMobile ? '8%' : // mobile
+            paddingRight: 
+                  isMobile ? '8%' : // mobile
                   (isTablet ? // tablet
                     (isNavbarVisible ? 
                       (isWordInfoVisible ? '5%' : '10%') : // navbar
                       (isWordInfoVisible ? '7.5%' : '10%')) : // no navbar
+
                     (isNavbarVisible ? // desktop
-                      (isWordInfoVisible ? '12%' : '25%') : // navbar
-                      (isWordInfoVisible ? '12%' : '28%')) // no navbar
+                      (isWordInfoVisible ? '3%'     // navbar two column
+                                         : '25%') : // navbar single column
+
+                      (isWordInfoVisible ? '3%' //  // between column 
+                                         : '28%')) //  no navbar single column
                   ),
             transition: 'padding-left 0.3s ease',
             overflowY: 'auto',
@@ -443,7 +455,7 @@ export function HomePage() {
         ) : ("")
         }
         {text !== '' || bookTitle !== null ? (
-          Array.isArray(wordData) && wordData.length > 0 && isWordInfoVisible ? (
+          (Array.isArray(wordData) && wordData.length > 0) || isLoadingWordData  && isWordInfoVisible ? (
               
               <Grid.Col 
                 span= {
@@ -457,7 +469,9 @@ export function HomePage() {
                 }
                 
                 
-                className={`${classes.scrollContainer} ${classes.wordInfoHalf} ${classes.wordInfoTransition}`}
+                className={`${classes.scrollContainer} ${classes.wordInfoHalf} ${classes.wordInfoTransition} `}
+                // causes weird behaviour but cool one className={`${classes.scrollContainer} ${classes.wordInfoHalf} ${classes.wordInfoTransition} ${classes.topFadeContainer}`}
+
                 style={{
 
                   overflowY: 'auto',
@@ -487,8 +501,12 @@ export function HomePage() {
                   isWordInfoVisible ? 
                   (isMobile ? '8%' :   // mobile little padding
                   isTablet ? 
-                    (isNavbarVisible? '5%' : '10%') :  // table depends on navbar, with navbar half screen else full screen                  
-                    ( isNavbarVisible ? '10%' : '10%'))                  // half screen for desktop                                      
+                    (isNavbarVisible? '3%' : '10%') :  // table depends on navbar, with navbar half screen else full screen   
+                    
+                    //desktop
+                    ( isNavbarVisible ? 
+                      '3%' : //navbar middle margin
+                      '3%')) // no navbar             //half screen for desktop                                      
                   : 0,    // not visible, -- 0 
 
 
@@ -496,8 +514,11 @@ export function HomePage() {
                   isWordInfoVisible ? 
                   (isMobile ? '8%' :   // mobile little padding
                   isTablet ? 
-                    (isNavbarVisible? '5%' : '10%') :  // table depends on navbar, with navbar half screen else full screen                  
-                    ( isNavbarVisible ? '10%' : '10%'))                  // half screen for desktop                                      
+                    (isNavbarVisible? '5%' : '10%') :  // table depends on navbar, with navbar half screen else full screen           
+                    //desktop
+
+                    ( isNavbarVisible ? '12%'         //desktop navbar
+                                      : '18%'))       //desktop                              
                   : 0,    // not visible, -- 0 
                   wordBreak: 'break-word', // Added to ensure words break
                   whiteSpace: 'normal', // Changed from pre-wrap      
@@ -538,6 +559,8 @@ export function HomePage() {
                               setWordData={setWordData}
                               selectedDictionaries={selectedDictionaries}
                               isMobile={isMobile}
+                              setClickedInfoWord={setClickedInfoWord}
+                              
                               
                             />
                           )}
@@ -588,6 +611,8 @@ export function HomePage() {
                       setWordData={setWordData}
                       selectedDictionaries={selectedDictionaries}
                       isMobile={isMobile}
+                      setClickedInfoWord={setClickedInfoWord}
+
                     />
                   )}
             </div>

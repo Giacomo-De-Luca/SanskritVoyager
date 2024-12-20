@@ -120,9 +120,8 @@
 
 .chevronButton {
   position: sticky !important;
-
   z-index: 10;
-  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   float: right;
   margin-bottom: -40px;
   background-color: var(--mantine-color-body) ; /* Uses Mantine's body background color */
@@ -132,28 +131,40 @@
   color: light-dark(var(--mantine-color-dark-3), var(--mantine-color-dark-1)); /* Adjust the colors as needed */
   border: 1px solid light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-1)); /* Add border */
   transition-duration: 200ms;
+  cursor: pointer;
 
+}
+
+
+/* Desktop chevron animation */
+.chevronButton svg {
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .chevronButton:hover {
-  color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-grape-8)); /* Adjust the colors as needed */
-  
-  background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-dark-6));
+  background-color: var(--mantine-color-gray-0);
+  transform: scale(1.1);
 }
 
-
-.chevronButton[data-rotated="true"] {
+.chevronButton[data-rotated="true"] svg {
   transform: rotate(180deg);
 }
 
-
-.chevronButton {
-  transition: transform 0.3s ease-in-out; /* Add transition for smooth animation */
+/* Mobile chevron animation */
+@media (max-width: 768px) {
+  .chevronButton svg {
+    transform: rotate(0deg);
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  
+  .chevronButton[data-rotated="true"] svg {
+    transform: rotate(180deg);
+  }
 }
 
-
+/* Word info panel sliding animation */
 .wordInfoTransition {
-  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 
@@ -221,7 +232,7 @@
   bottom: 0;
   left: 0;
   right: 0;
-  height: 40px; /* Adjust height of fade */
+  height: 20px; /* Adjust height of fade */
   background: linear-gradient(
     to bottom,
     transparent,
@@ -238,13 +249,31 @@
   transition: opacity 0.3s ease;
 }
 
-.mantine-ScrollArea-root {
-  width: 100% !important;
-  max-width: 100vw;
-  overflow: hidden;
+
+.topFadeContainer {
+  position: relative;
+  min-height: 100%;
 }
 
-.mantine-ScrollArea-viewport {
-  width: 100% !important;
-  max-width: 100vw;
+.topFadeContainer::after {
+  content: '';
+  position: absolute;
+  top: 0; /* Change from bottom to top */
+  left: 0;
+  right: 0;
+  height: 20px; /* Adjust height of fade */
+  background: linear-gradient(
+    to bottom, /* Change direction to bottom */
+    var(--mantine-color-body) 10%, /* Less pronounced fade */
+    transparent
+  );
+  pointer-events: none; /* Allows clicking through the fade */
+  opacity: 0.5; /* Less pronounced fade */
+}
+
+/* Optional: Disable fade effect when content is being scrolled */
+.scrollContainer:active .topFadeContainer::after,
+.scrollContainer:focus-within .topFadeContainer::after {
+  opacity: 0;
+  transition: opacity 0.3s ease;
 }

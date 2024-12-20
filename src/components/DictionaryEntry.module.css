@@ -9,7 +9,7 @@
      line-height: 1.5;
        margin: 1em 0;
     #c64242;
-    light-dark(var(--mantine-color-palette-0), var(--mantine-color-grape-9));
+    light-dark(var(--mantine-color-palette-0), var(--mantine-color-palette-0));
 
     */
 
@@ -53,7 +53,7 @@
 
 
 .dictHeadword {
-  color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-grape-9));
+  color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-palette-0));
 
   font-weight: 600;
 }
@@ -67,7 +67,7 @@
 
 .dictSource {
   font-style: normal;
-  color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-grape-9));
+  color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-palette-0));
 
   
 }
@@ -89,7 +89,7 @@
 
 .dictGreek {
   
-  color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-grape-9));
+  color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-palette-0));
 
 }
 
@@ -141,7 +141,7 @@
 
 .dictCompound {
   font-style: italic;
-  color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-grape-9));
+  color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-palette-0));
 
 }
 
@@ -175,7 +175,7 @@ color: rgb(118, 38, 231);
 
 .dictParenthetical.dictSource {
     font-style: normal;
-    color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-grape-9));
+    color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-palette-0));
 
     
     /*
