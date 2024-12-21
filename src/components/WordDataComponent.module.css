@@ -108,7 +108,7 @@
 
 .grammarMainIndeclinable {
     font-size: 1rem;
-    color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-red-4));
+    color: light-dark(var(--mantine-color-red-6), var(--mantine-color-red-4));
     margin-bottom: 0rem;
     /* font-family: 'Optima', sans-serif; */
     

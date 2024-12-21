@@ -92,13 +92,13 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
               Object.entries(words).some(([_, entries]) => entries.length > 0)
             );
           
-          return (
-            <div key={index}>
+          return ( // title first
+            <div key={index}>     
               <h1 className={classes.mainWord} data-word={longEntry[0]}>
                 {longEntry[0]}
               </h1>
 
-              {longEntry[0] !== longEntry[5] && (
+              {longEntry[0] !== longEntry[5] && (  // word components
                 <p >
                   {longEntry[5].split(/(-|—(?=\w))/).map((part, index) => {
                     if (!part.trim()) return part;
@@ -252,6 +252,25 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
               <h1 className={classes.mainWord} data-word={shortEntry[0]}>
                 {shortEntry[0]}
               </h1>
+
+              {shortEntry[0] !== shortEntry[1] && (  // word components
+                <p >
+                  {shortEntry[1].split(/(-|—(?=\w))/).map((part, index) => {
+                    if (!part.trim()) return part;
+                    
+                    return (
+                      <span
+                        key={`pron-${index}`}
+                        onClick={() => handleWordClick(part, index)}
+                        className={classes.pronunciation}
+                      >
+                        {part}
+                      </span>
+                    );
+                  })}
+                </p>
+              )}
+
             
               {shouldShowVocabulary && (
                 <div>
