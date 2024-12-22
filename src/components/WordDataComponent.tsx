@@ -100,7 +100,7 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
 
               {longEntry[0] !== longEntry[5] && (  // word components
                 <p >
-                  {longEntry[5].split(/(-|—(?=\w))/).map((part, index) => {
+                  {longEntry[5].split(/(-|—(?=\p{L}))/u).map((part, index) => {
                     if (!part.trim()) return part;
                     
                     return (
@@ -255,7 +255,7 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
 
               {shortEntry[0] !== shortEntry[1] && (  // word components
                 <p >
-                  {shortEntry[1].split(/(-|—(?=\w))/).map((part, index) => {
+                  {shortEntry[1].split(/(-|—(?=\p{L}))/u).map((part, index) => {
                     if (!part.trim()) return part;
                     
                     return (

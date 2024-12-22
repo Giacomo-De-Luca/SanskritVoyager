@@ -80,6 +80,7 @@
   
   /* Existing metadata styles remain the same */
   .bookContainer {
+    height: 100%;
     padding: 0rem;
   }
 

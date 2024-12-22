@@ -417,7 +417,7 @@ export function HomePage() {
 
           < div className= {classes.scrollContainer}
           style={{
-            borderBottom: isMobile || (isTablet && isNavbarVisible) && isWordInfoVisible ? '1px solid lightgray' : 'none',
+            borderBottom: isMobile && isWordInfoVisible || (isTablet && isNavbarVisible) && isWordInfoVisible ? '1px solid lightgray' : 'none',
 
           }}>
             {textTranslit !== '' && (
