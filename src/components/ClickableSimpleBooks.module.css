@@ -96,7 +96,7 @@
   }
   
   .sanskritWord {
-    color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-grape-7));
+    color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-palette-2));
     text-underline-offset: 3px;
   }
 

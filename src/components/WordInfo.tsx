@@ -9,6 +9,13 @@ interface WordInfoProps {
   isLoading: boolean;
 }
 
+
+// this is not keeping track properly of the face that some entries are short and have only 3 members, 
+// the short entries are being grouped together with the long entries,
+// the short entries should be grouped separately from the long entries
+// they should be recognized by the fact that they have only 3 members
+// and displayed as uniquewords. 
+
 function WordInfo({ 
   wordData, 
   onAdditionalWordClick, 
@@ -17,7 +24,12 @@ function WordInfo({
   const groupEntries = (data: WordEntry[]): GroupedEntries => {
     const groupedEntries: GroupedEntries = {};
     for (const entry of data) {
-      const key = entry[4] || 'default';
+      let key = '';
+      if (entry.length === 7) {
+        key = entry[4] || 'default';
+      } else if (entry.length === 3) {
+        key = entry[0];
+      }
       if (!groupedEntries[key]) {
         groupedEntries[key] = [];
       }
@@ -25,6 +37,7 @@ function WordInfo({
     }
     return groupedEntries;
   };
+
 
   if (isLoading) {
     return (

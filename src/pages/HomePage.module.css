@@ -122,7 +122,7 @@
   z-index: 10;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   float: right;
-  margin-bottom: -40px;
+  top: - 40px;
   background-color: var(--mantine-color-body) ; /* Uses Mantine's body background color */
   border-radius: 50%;
   box-shadow: 0 0 0px rgba(0, 0, 0, 0.1);
@@ -131,6 +131,21 @@
   border: 1px solid light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-1)); /* Add border */
   transition-duration: 200ms;
   cursor: pointer;
+
+}
+.chevronContainer {
+  position: sticky !important;
+  z-index: 10;
+  transition: all 0.3s ease;
+  float: right;
+  top: 40px;
+  right: 10px;
+
+
+
+
+
+
 
 }
 
@@ -180,6 +195,7 @@
   scrollbar-color: transparent transparent;
   /* Transition for showing/hiding scrollbar */
   transition: scrollbar-color 0.3s ease;
+  padding-right: 2px;
 }
 
 /* Hover state for Firefox */

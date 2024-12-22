@@ -49,7 +49,7 @@ export const theme = createTheme({
 
       '#2c5282', // blue
       '#ac3e3e', // red
-      '#f8f8f7',
+      '#008080', // teal
       '#f5f4ee',
       '#f3f3f0', // 4: your main color
       '#f0eee5',

@@ -249,7 +249,7 @@ export function HomePage() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`/resources/books/${bookTitle}.json`);
+        const response = await fetch(`/public/resources/books/${bookTitle}.json`);
         if (!response.ok) {
           throw new Error(`Failed to fetch: ${response.status}`);
         }
@@ -550,6 +550,8 @@ export function HomePage() {
 
               >
                 < div className= {classes.scrollContainer}>
+
+                  <div className={classes.chevronContainer}>
                   <ActionIcon
                       className={classes.chevronButton}
                       onClick={() => setIsWordInfoVisible(!isWordInfoVisible)}
@@ -567,6 +569,7 @@ export function HomePage() {
                         (<IconChevronRight size={20} stroke={1.5} />)}
 
                 </ActionIcon>
+                </div>
                 
                 
 
