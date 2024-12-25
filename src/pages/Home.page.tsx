@@ -249,7 +249,7 @@ export function HomePage() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`resources/books/${bookTitle}.json`);
+        const response = await fetch(`/resources/books/${bookTitle}.json`);
         if (!response.ok) {
           throw new Error(`Failed to fetch: ${response.status}`);
         }
@@ -282,10 +282,11 @@ export function HomePage() {
         style={{ 
           display: 'flex',
           paddingTop: '56px', 
+          marginTop: '56px',
           overflow: 'hidden', // Prevent overflow
-          height: 'calc(100vh - 56px)',
+          height: '100%',
           position: 'relative',
-          width: '100%'
+          width: '100%',
 
     
             
