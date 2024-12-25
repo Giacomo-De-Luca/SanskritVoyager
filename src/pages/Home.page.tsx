@@ -106,10 +106,7 @@ export function HomePage() {
 
   const shouldUseColumn = isMobile || (isTablet && isNavbarVisible);
 
-  // const vhActual = `calc(100vh - 56px)`;
-  const vhActual = `calc(100vh - 56px)`;
-  const vhActualHalf = `calc((100vh - 56px)/2)`; // Correct
-  const vwActual = `calc(100vw - 400px)`;
+
 
 
   
@@ -281,8 +278,7 @@ export function HomePage() {
         className={classes.contentBox}
         style={{ 
           display: 'flex',
-          paddingTop: '56px', 
-          marginTop: '56px',
+
           overflow: 'hidden', // Prevent overflow
           height: '100%',
           position: 'relative',
@@ -369,13 +365,13 @@ export function HomePage() {
           style={{
             paddingTop: isMobile ? '0px' : '0px', // necessary?
             maxHeight: isMobile ?    //mobile
-            (isWordInfoVisible ? vhActualHalf // mobile word info
-            : vhActual) // mobile full size
+            (isWordInfoVisible ? '50%' // mobile word info
+            : '100%') // mobile full size
             :
             isTablet && isNavbarVisible ?      // tablet
-              (isWordInfoVisible ? vhActualHalf //tablet navbar word info
-                : vhActual) // tablet navbar no word info, full size 
-              : vhActual, // desktop, always full size
+              (isWordInfoVisible ? '50%' //tablet navbar word info
+                : '100%') // tablet navbar no word info, full size 
+              : '100%', // desktop, always full size
             width: isMobile ? '100%' : (isWordInfoVisible ? '50%' : '100%'),  // Changed to percentage
             paddingLeft: 
             isMobile ? '8%' : // mobile
@@ -500,11 +496,11 @@ export function HomePage() {
                   paddingTop: isMobile ? '0px' : '0px', // necessary?                  
                   height: 
                   isWordInfoVisible ? 
-                  (isMobile ? vhActualHalf :   // mobile half screen
+                  (isMobile ? '50%' :   // mobile half screen
                   isTablet ? (
-                    isNavbarVisible? vhActualHalf : vhActual    // table depends on navbar, with navbar half screen else full screen
+                    isNavbarVisible? '50%' : '100%'    // table depends on navbar, with navbar half screen else full screen
                   )
-                  : vhActual)                    // half screen for desktop                                      
+                  : '100%')                    // half screen for desktop                                      
                   : 0,    // not visible, -- 0 
 
                   
@@ -605,7 +601,7 @@ export function HomePage() {
             className={` ${classes.wordInfoFull}`}
             style={{
               paddingTop: isMobile ? '0px' : '0px', // necessary?
-              maxHeight: vhActual,
+              maxHeight: '100%',
               width:  '100%',  // Changed to percentage
               paddingLeft: 
               isMobile ? '8%' : // mobile
