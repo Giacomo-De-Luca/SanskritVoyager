@@ -266,7 +266,9 @@ export function HomePage() {
 
   return (
     
-    <div className={classes.mainContainer}>
+    <div className={classes.mainContainer}
+    
+    >
 
       
       <HeaderSearch   // header search component
@@ -283,7 +285,7 @@ export function HomePage() {
           display: 'flex',
           paddingTop: '56px', 
           overflow: 'hidden', // Prevent overflow
-          height: 'calc(100vh - 56px)',
+          height: '100%',
           position: 'relative',
           width: '100%'
 
@@ -366,7 +368,7 @@ export function HomePage() {
           className={` ${classes.textDisplay} `}
           // ${classes.fadeContainer}
           style={{
-            paddingTop: isMobile ? '0px' : '0px', // necessary?
+            paddingTop:  '0px', // necessary?
             maxHeight: isMobile ?    //mobile
             (isWordInfoVisible ? vhActualHalf // mobile word info
             : vhActual) // mobile full size
@@ -374,6 +376,7 @@ export function HomePage() {
             isTablet && isNavbarVisible ?      // tablet
               (isWordInfoVisible ? vhActualHalf //tablet navbar word info
                 : vhActual) // tablet navbar no word info, full size 
+
               : vhActual, // desktop, always full size
             width: isMobile ? '100%' : (isWordInfoVisible ? '50%' : '100%'),  // Changed to percentage
             paddingLeft: 
@@ -496,14 +499,15 @@ export function HomePage() {
                   opacity: !isWordInfoVisible ? 0 : 1,
                   visibility: !isWordInfoVisible ? 'hidden' : 'visible',
                   transition: 'all 0.3s ease',
-                  paddingTop: isMobile ? '0px' : '0px', // necessary?                  
+                  paddingTop:  '0px', // necessary?                  
                   height: 
                   isWordInfoVisible ? 
                   (isMobile ? vhActualHalf :   // mobile half screen
                   isTablet ? (
                     isNavbarVisible? vhActualHalf : vhActual    // table depends on navbar, with navbar half screen else full screen
                   )
-                  : vhActual)                    // half screen for desktop                                      
+                  : vhActual)                    // half screen for desktop        
+
                   : 0,    // not visible, -- 0 
 
                   
@@ -603,7 +607,7 @@ export function HomePage() {
             span={12}
             className={` ${classes.wordInfoFull}`}
             style={{
-              paddingTop: isMobile ? '0px' : '0px', // necessary?
+              paddingTop: '0px', // necessary?
               maxHeight: vhActual,
               width:  '100%',  // Changed to percentage
               paddingLeft: 
