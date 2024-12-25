@@ -1,7 +1,8 @@
 /* DictionaryEntry.css */
 .dictEntry {
   
-  max-width: 800px;
+
+  max-width: 800px; /* remove this line? */
   margin-bottom: 10px; 
   
   /*

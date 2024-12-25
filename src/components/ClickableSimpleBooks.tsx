@@ -182,8 +182,8 @@ const ClickableSimpleBooks = ({
       });
     }; // here ends render words, which should be a separate component
   
-    return (
-      <div className={elementClasses}>
+    return ( //the following line is broken, it renders 
+      <div className={`${classes.paragraphContainer} elementClasses`}> 
       {element.text && (
         <div className={`${classes.lineContainer} ${
           textType === 'or' ? classes.originalOnly : 

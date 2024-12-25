@@ -94,12 +94,15 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
           
           return ( // title first
             <div key={index}>     
-              <h1 className={classes.mainWord} data-word={longEntry[0]}>
+              <Title order={1} className={classes.mainWord} data-word={longEntry[0]}>
                 {longEntry[0]}
-              </h1>
+              </Title>
 
-              {longEntry[0] !== longEntry[5] && (  // word components
-                <p >
+              {longEntry[0] !== longEntry[5] && (  // word components si può rimuovere il p outer? 
+                <p
+                  className={classes.wordCostituentsContainer}
+                
+                >
                   {longEntry[5].split(/(-|—(?=\p{L}))/u).map((part, index) => {
                     if (!part.trim()) return part;
                     
@@ -132,9 +135,9 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                 }
                 >
                   {longEntry[1]}
-                  </p>
+                </p>
 
-                  {longEntry[2] && longEntry[2].map((inflection, index) => {
+              {longEntry[2] && longEntry[2].map((inflection, index) => {
                 let caseAbbr = inflection[0];
                 let numberAbbr = inflection[1];
 
@@ -188,7 +191,9 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
               
 
               {shouldShowVocabulary && (
-                <div>
+                <div className= {classes.vocabularyWrapper}
+                
+                >
                   <div className={classes.vocabularySection}>
                     Vocabulary entries:
                   </div> 
@@ -202,7 +207,11 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                             </Text>
                           )}
                         {Object.entries(words).map(([wordName, entries]) => (
-                          <div key={wordName}>
+                          <div key={wordName}
+                          
+                          style={{
+                          paddingTop: '1.25rem'
+                          }}>
                             {/* Render word name 
                             <div 
                               className={classes.wordName}
@@ -249,12 +258,19 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                 whiteSpace: 'normal', // Changed from pre-wrap
               }}
             >
-              <h1 className={classes.mainWord} data-word={shortEntry[0]}>
+              <Title order={1} className={classes.mainWord} data-word={shortEntry[0]}>
                 {shortEntry[0]}
-              </h1>
+              </Title>
 
               {shortEntry[0] !== shortEntry[1] && (  // word components
-                <p >
+                <p
+                  className={classes.wordCostituentsContainer}
+
+                  style={{ paddingTop: '16px'}}
+
+
+                
+                >
                   {shortEntry[1].split(/(-|—(?=\p{L}))/u).map((part, index) => {
                     if (!part.trim()) return part;
                     
@@ -273,8 +289,8 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
 
             
               {shouldShowVocabulary && (
-                <div>
-                  <h4 className={classes.vocabularySection}>Vocabulary entries:</h4> 
+                <div className= {classes.vocabularyWrapper}>
+                <h4 className={classes.vocabularySection}>Vocabulary entries:</h4> 
                   {Object.entries(shortEntry[2]).map(([dictionaryName, words]) => (
                       <div key={dictionaryName}>
                         {/* Render dictionary name */}
@@ -286,7 +302,13 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
 
 
                     {Object.entries(words).map(([wordName, entries]) => (
-                      <div key={wordName}>
+                      <div key={wordName}
+
+                      style={{
+                        paddingTop: '1.25rem'
+                        }}
+
+                      >
                         {/* Render word name 
                         <div 
                           className={classes.wordName}

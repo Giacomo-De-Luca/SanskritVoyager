@@ -10,6 +10,16 @@
 }
 
 
+.wordCostituentsContainer {
+
+    margin-top: 0;
+    margin-bottom: 0;
+
+    padding-top: 0rem;
+    padding-bottom: 1rem;
+}
+
+
 .word-display {
     max-width: 32rem;
     padding: 2rem;
@@ -26,10 +36,11 @@
     font-weight: 500;
     letter-spacing: -0.02em;
     margin-bottom: 1.5rem;
-    margin-top: 1.5rem;
+    margin-top: 1.0rem;
     text-indent: 0%; /* Indent the first line by 10% of the containing block's width */
-    padding-bottom: 1.5rem;
-    border-bottom: 1px solid light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
+    padding-bottom: 1.0rem;
+    border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
+
 
 
 }
@@ -47,9 +58,13 @@
     font-size: 2.5rem;
     font-weight: 400;
     letter-spacing: -0.02em;
-    margin-bottom: 0.5rem;
-    padding-top: 1rem;
-    scroll-margin-top: 60px;
+    padding-bottom: 0rem;
+    padding-top: 2.5rem;
+    scroll-margin-top: 1rem;
+    margin-top: 0px !important;
+    margin-bottom: 1.5rem !important;
+    line-height: 1.2;
+
 }
 
 .pronunciation {
@@ -91,9 +106,9 @@
 
 .grammarSection {
     padding-top: 1rem;
-    border-top: 1px solid light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
+    border-top: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
     padding-bottom: 1rem;
-    margin-bottom: 0.4rem;
+    margin-bottom: 0rem;
     border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
     }
 
@@ -110,6 +125,9 @@
     font-size: 1rem;
     color: light-dark(var(--mantine-color-red-4), var(--mantine-color-red-4));
     margin-bottom: 0rem;
+    font-family: 'LibertinusSans', sans-serif;
+    margin-top: 0;
+    padding-top: 0;
     /* font-family: 'Optima', sans-serif; */
     
 }
@@ -120,8 +138,8 @@
     color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-5));
     font-family: 'LibertinusSans', sans-serif;
     font-weight: 500;
-    padding-bottom: 1rem;
-    margin-bottom: 0.6rem;
+    padding-bottom: 0rem;
+    margin-bottom: 0.0rem;
     margin-top: 0rem;
     padding-top: 0rem;
 
@@ -142,16 +160,17 @@
 
 
 .vocabularySection {
-    padding-top: 0.3rem;
+    padding-top: 1rem;
     font-family: 'LibertinusSans', sans-serif;
-    font-size: 1.1rem;
+    font-size: 1.125rem;
     font-weight: 500;
-    color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-5));
+    color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-5));
 
     letter-spacing: 0.01em;
-    padding-bottom: 1.2rem;
-    margin-bottom: 1.3rem;
-    border-bottom: 1px solid light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
+    padding-bottom: 1rem;
+    border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
+    margin-top: 0;
+    margin-bottom: 0;
     
     
 

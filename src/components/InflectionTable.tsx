@@ -1,5 +1,7 @@
 import React from 'react';
 import { Table } from '@mantine/core';
+import classes from './InflectionTable.module.css'
+
 
 interface InflectionTableProps {
   inflection_wordsIAST: string[] | null;
@@ -59,13 +61,11 @@ const InflectionTable = ({ inflection_wordsIAST, rowcolstitles, useColor = false
 
   return (
     // <div className="overflow-x-auto" style={{ width: '60%', margin: '0 auto' }}>
-    <div  style={{ 
-        width: '100%', 
-        paddingBottom: '16px', 
-        paddingTop: '16px',   
-        overflowX: 'scroll',       
-        whiteSpace: 'nowrap'
-         }}>
+    <div  
+
+    className={classes.inflectionTableContainer}
+    
+     >
       <Table 
         withColumnBorders 
         highlightOnHover 
