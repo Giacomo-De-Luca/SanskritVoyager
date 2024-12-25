@@ -249,7 +249,7 @@ export function HomePage() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`/resources/books/${bookTitle}.json`);
+        const response = await fetch(`/public/resources/books/${bookTitle}.json`);
         if (!response.ok) {
           throw new Error(`Failed to fetch: ${response.status}`);
         }
@@ -281,9 +281,16 @@ export function HomePage() {
         className={classes.contentBox}
         style={{ 
           display: 'flex',
-          marginTop: '56px',
+          paddingTop: '56px', 
           overflow: 'hidden', // Prevent overflow
           height: '100%',
+          position: 'relative',
+          width: '100%'
+
+    
+            
+            
+         
 
         }}>  
       <div // navbar component should be a separate one
@@ -356,7 +363,7 @@ export function HomePage() {
             isTablet && isNavbarVisible ? 12 : 
             (selectedWord !== "" && isWordInfoVisible ? 6 : 12)
           }
-          className={`${classes.scrollContainer} ${classes.textDisplay} `}
+          className={` ${classes.textDisplay} `}
           // ${classes.fadeContainer}
           style={{
             paddingTop: isMobile ? '0px' : '0px', // necessary?
@@ -479,7 +486,7 @@ export function HomePage() {
                 }
                 
                 
-                className={`${classes.scrollContainer} ${classes.wordInfoHalf} ${classes.wordInfoTransition} `}
+                className={` ${classes.wordInfoHalf} ${classes.wordInfoTransition} `}
                 // causes weird behaviour but cool one className={`${classes.scrollContainer} ${classes.wordInfoHalf} ${classes.wordInfoTransition} ${classes.topFadeContainer}`}
 
                 style={{
