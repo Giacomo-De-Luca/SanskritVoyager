@@ -285,7 +285,9 @@ export function HomePage() {
           display: 'flex',
           overflow: 'hidden', // Prevent overflow
           position: 'relative',
-          width: '100%'
+          width: '100%',
+          marginTop: isMobile || isTablet ? '140px' : '56px', /* Header height */
+
 
     
             
