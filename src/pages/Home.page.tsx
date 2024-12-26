@@ -281,7 +281,20 @@ export function HomePage() {
     <div 
       
         className={classes.contentBox}
-        >
+        style={{ 
+          display: 'flex',
+          paddingTop: '56px', 
+          overflow: 'hidden', // Prevent overflow
+          height: '100%',
+          position: 'relative',
+          width: '100%'
+
+    
+            
+            
+         
+
+        }}>  
       <div // navbar component should be a separate one
         className={classes.navbarBox}
 
@@ -341,7 +354,6 @@ export function HomePage() {
 
           position: 'relative',
           width: '100%',
-          paddingTop: '8px',
 
             
         }}
