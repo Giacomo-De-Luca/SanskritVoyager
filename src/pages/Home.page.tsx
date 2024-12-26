@@ -283,9 +283,7 @@ export function HomePage() {
         className={classes.contentBox}
         style={{ 
           display: 'flex',
-          paddingTop: '56px', 
           overflow: 'hidden', // Prevent overflow
-          height: '100%',
           position: 'relative',
           width: '100%'
 
@@ -354,6 +352,7 @@ export function HomePage() {
 
           position: 'relative',
           width: '100%',
+          paddingTop: '8px',
 
             
         }}

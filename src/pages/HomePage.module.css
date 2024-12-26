@@ -298,3 +298,10 @@
   transition: opacity 0.3s ease;
 }
 
+
+
+.contentBox {
+
+  margin-top: 56px; /* Header height */
+  height: calc(100vh - 56px);
+}
