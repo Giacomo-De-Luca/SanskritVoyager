@@ -5,23 +5,7 @@
   position: fixed;
 
 
-  /* Media query for small viewports */
-  @media (max-width: 600px) {
-    height: 100vh; /* 100% of the viewport height */
-    flex-direction: column;
-
-  }
-
-
-  @media (max-width: 600px) {
-    flex-direction: column !important;
-    /* Handle orientation changes */
-   
-  
-    
  
-  }
-  
   @media (max-width: 1000px) {
     @media (orientation: landscape) {
       /* Ensure the navbar still fits in landscape mode */
