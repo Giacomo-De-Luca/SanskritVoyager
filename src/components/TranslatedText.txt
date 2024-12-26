@@ -1,0 +1,33 @@
+
+                          {/* Update the translated text container */}
+              <div style={{ width: '100%' }}> {/* Added width constraint */}
+                {translatedText.length > 0 && translatedText.map((item, index) => (
+                  <div key={index} 
+                  style={{ width: '100%' }}> {/* Added width constraint */}
+                    <p style={{ 
+                      color: 'darkgrey',
+                      width: '100%', // Added width constraint
+                      wordBreak: 'break-word' // Added to ensure words break
+                    }}>
+                      {item.Sanskrit.split(/\s+|\+/).map((word, wordIndex) => {
+                        const trimmedWord = word.trim();
+                        return (
+                          <span
+                            key={wordIndex}
+                            onClick={() => setSelectedWord(trimmedWord)}
+                            style={{ 
+                              color: selectedWord === trimmedWord ? 'orange' : 'inherit',
+                              display: 'inline-block', // Added to help with word wrapping
+                              wordBreak: 'break-word' // Added to ensure words break
+                            }}
+                          >
+                            {word + ' '}
+                          </span>
+                        );
+                      })}
+                    </p>
+                    <p style={{ wordBreak: 'break-word' }}>{item.English}</p>
+                  </div>
+                ))}
+                
+              </div>
