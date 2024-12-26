@@ -368,9 +368,12 @@ export function HomePage() {
           // ${classes.fadeContainer}
           style={{
             paddingTop:  '0px', // necessary?
-            maxHeight: isMobile ?    //mobile
+            height: 
+            
+            isMobile ?    //mobile
             (isWordInfoVisible ? vhActualHalf // mobile word info
             : vhActual) // mobile full size
+            
             :
             isTablet && isNavbarVisible ?      // tablet
               (isWordInfoVisible ? vhActualHalf //tablet navbar word info
@@ -480,9 +483,11 @@ export function HomePage() {
                 span= {
                   isWordInfoVisible ? 
                     (isMobile ? 12 :   // mobile visible full 
+
                     isTablet ? (
                       isNavbarVisible? 12 : 6    // table depends on navbar, with navbar column else half screen
                     )
+
                     : 6)                    // half screen for desktop                                      
                   : 0    // not visible, -- 0 
                 }
@@ -501,7 +506,9 @@ export function HomePage() {
                   paddingTop:  '0px', // necessary?                  
                   height: 
                   isWordInfoVisible ? 
+
                   (isMobile ? vhActualHalf :   // mobile half screen
+                  
                   isTablet ? (
                     isNavbarVisible? vhActualHalf : vhActual    // table depends on navbar, with navbar half screen else full screen
                   )
