@@ -304,9 +304,10 @@ export function HomePage() {
         style={{ 
           display: 'flex',
           overflow: 'hidden', // Prevent overflow
-          position: 'relative',
+          position: 'fixed',
           width: '100%',
           height: vhActual,
+          bottom: 0,
 
     
             
@@ -368,12 +369,13 @@ export function HomePage() {
           flexWrap: 'nowrap',
           justifyContent: 'left',
           transition: 'padding-left 0.3s ease',
-          paddingRight: isMobile ? '16px' : 0,
-          paddingLeft: isMobile ? '16px' : (isTablet ? '0' : (isNavbarVisible ? '0px' : '0px')),
+          paddingRight: isMobile ? '16px' : '8px',
+          paddingLeft: isMobile ? '16px' : '8px',
 
           position: 'relative',
           width: '100%',
           paddingTop: '8px',
+
 
             
         }}
