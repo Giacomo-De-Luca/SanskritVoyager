@@ -106,10 +106,30 @@ export function HomePage() {
 
   const shouldUseColumn = isMobile || (isTablet && isNavbarVisible);
 
+
+  const [viewportHeight, setViewportHeight] = useState(window.innerHeight);
+  const headerHeight = 56; // Your fixed header height
+
+  useEffect(() => {
+    // Handler to call on window resize
+    function handleResize() {
+      setViewportHeight(window.innerHeight);
+    }
+    
+    // Add event listener
+    window.addEventListener('resize', handleResize);
+    
+    // Call handler right away so state gets updated with initial window size
+    handleResize();
+    
+    // Remove event listener on cleanup
+    return () => window.removeEventListener('resize', handleResize);
+  }, []); // Empty array ensures effect is only run on mount
+
   // const vhActual = `calc(100vh - 56px)`;
-  const vhActual = `calc(100vh - 56px)`;
-  const vhActualHalf = `calc((100vh - 56px)/2)`; // Correct
-  const vwActual = `calc(100vw - 400px)`;
+  const vhActual = `${viewportHeight - headerHeight}px`;
+  const vhActualHalf = `${(viewportHeight - headerHeight)/2}px`; // Correct
+
 
 
   
@@ -285,7 +305,8 @@ export function HomePage() {
           display: 'flex',
           overflow: 'hidden', // Prevent overflow
           position: 'relative',
-          width: '100%'
+          width: '100%',
+          height: vhActual,
 
     
             
