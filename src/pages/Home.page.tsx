@@ -118,12 +118,18 @@ export function HomePage() {
     
     // Add event listener
     window.addEventListener('resize', handleResize);
+    window.addEventListener('orientationchange', handleResize);
+
     
     // Call handler right away so state gets updated with initial window size
     handleResize();
     
     // Remove event listener on cleanup
-    return () => window.removeEventListener('resize', handleResize);
+    return () => {
+      window.removeEventListener('resize', handleResize);
+      window.removeEventListener('orientationchange', handleResize);
+    };
+
   }, []); // Empty array ensures effect is only run on mount
 
   // const vhActual = `calc(100vh - 56px)`;
