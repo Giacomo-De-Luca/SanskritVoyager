@@ -283,7 +283,7 @@ export function HomePage() {
         className={classes.contentBox}
         style={{ 
           display: 'flex',
-          paddingTop: '56px', 
+           
           overflow: 'hidden', // Prevent overflow
           height: '100%',
           position: 'relative',
@@ -302,6 +302,7 @@ export function HomePage() {
           width: 
           isNavbarVisible ? 
           (isMobile? '100vw' : (isTablet ? '350px' : '350px')): 0,
+          paddingTop: '56px',
         }}
 
 
@@ -354,7 +355,7 @@ export function HomePage() {
 
           position: 'relative',
           width: '100%',
-
+          paddingTop: isMobile || isTablet ? '56px' : '56px',
             
         }}
       >

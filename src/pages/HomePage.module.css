@@ -298,3 +298,7 @@
   transition: opacity 0.3s ease;
 }
 
+.contentBox { 
+  padding-top: 56px;
+
+}
