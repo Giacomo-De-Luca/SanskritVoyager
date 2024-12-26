@@ -249,7 +249,7 @@ export function HomePage() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(`/resources/books/${bookTitle}.json`);
+        const response = await fetch(`resources/books/${bookTitle}.json`);
         if (!response.ok) {
           throw new Error(`Failed to fetch: ${response.status}`);
         }
@@ -285,7 +285,7 @@ export function HomePage() {
           display: 'flex',
           paddingTop: '56px', 
           overflow: 'hidden', // Prevent overflow
-          height: '100%',
+          height: '100vh', // Adjust height to account for padding
           position: 'relative',
           width: '100%'
 
@@ -351,9 +351,11 @@ export function HomePage() {
           transition: 'padding-left 0.3s ease',
           paddingRight: isMobile ? '16px' : 0,
           paddingLeft: isMobile ? '16px' : (isTablet ? '0' : (isNavbarVisible ? '0px' : '0px')),
+          paddingTop: '56px',  // account for mantine ui padding
 
           position: 'relative',
           width: '100%',
+          
 
             
         }}

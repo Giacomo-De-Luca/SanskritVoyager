@@ -266,7 +266,7 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                 <p
                   className={classes.wordCostituentsContainer}
 
-                  style={{ paddingTop: '16px'}}
+                  
 
 
                 
