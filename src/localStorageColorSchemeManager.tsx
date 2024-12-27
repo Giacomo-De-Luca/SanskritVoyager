@@ -17,6 +17,9 @@ export function localStorageColorSchemeManager({
   // We store the event handler to properly clean it up later
   let storageHandler: ((event: StorageEvent) => void) | null = null;
   
+  // Variable to store the initial system preference
+  let initialSystemPreference: MantineColorScheme | null = null;
+
   // Helper to safely get system preference
   const getSystemPreference = (): MantineColorScheme => {
     if (typeof window === 'undefined') return defaultScheme;
@@ -31,11 +34,13 @@ export function localStorageColorSchemeManager({
 
       try {
         const stored = window.localStorage.getItem(key);
-        // If no value is stored, get system preference
+        // If no value is stored, get system preference only the first time
         if (!stored) {
-          const systemPreference = getSystemPreference();
-          window.localStorage.setItem(key, systemPreference);
-          return systemPreference;
+          if (initialSystemPreference === null) {
+            initialSystemPreference = getSystemPreference();
+            window.localStorage.setItem(key, initialSystemPreference);
+          }
+          return initialSystemPreference;
         }
         // Return stored value if valid, otherwise default
         return isMantineColorScheme(stored) ? stored : defaultValue;
