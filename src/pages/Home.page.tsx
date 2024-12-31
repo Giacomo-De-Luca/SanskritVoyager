@@ -245,13 +245,14 @@ export function HomePage() {
     }
   }, [wordData, clickedInfoWord]); // Added clickedInfoWord to dependencies
 
-
+  // keep watching for bugs here:
+  // only activate when the selected word changes
   // If there is only one word, set it as the selected word
   useEffect(() => {
-    if (words.length === 1) {
+    if (textTranslit && words.length === 1) {
       setSelectedWord(words[0].trim());
     }
-  }, [words]);
+  }, [textTranslit]);
 
   useEffect(() => {
   if (selectedWord !== '') {
