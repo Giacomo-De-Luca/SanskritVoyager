@@ -29,6 +29,12 @@ const DictionarySelectComponent = ({
           ]
         },
         {
+          group: 'Sanskrit-Concise',
+          items: [
+            { value: 'ddsa', label: 'Macdonell A Practical Sanskrit Dictionary' },
+          ]
+        },
+        {
           group: 'Sanskrit-German',
           items: [
             { value: 'gra', label: 'Grassmann Wörterbuch zum Rig Veda' },
@@ -38,6 +44,12 @@ const DictionarySelectComponent = ({
           group: 'Specialized Dictionaries',
           items: [
             { value: 'bhs', label: 'Edgerton Buddhist Hybrid Sanskrit Dictionary' },
+          ]
+        },
+        {
+          group: 'Pali Dictionaries',
+          items: [
+            { value: 'cped', label: 'Concise Pali English Dictionary' },
           ]
         },
       ]}

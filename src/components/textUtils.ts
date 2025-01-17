@@ -1,5 +1,5 @@
 // textUtils.ts
-export const safeSplitText = (text: string): string[] => {
+export const safeSplitTextOld = (text: string): string[] => {
     // Try the modern approach first
     try {
       // Original regex with lookbehind
@@ -32,4 +32,10 @@ export const safeSplitText = (text: string): string[] => {
       
       return segments;
     }
+  };
+
+export const safeSplitText = (text: string): string[] => {
+    // Split only at newline characters
+    // The trim() calls ensure we don't get empty whitespace at the start/end of lines
+    return text.split('\n').map(line => line.trim()).filter(Boolean);
   };

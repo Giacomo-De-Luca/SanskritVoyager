@@ -70,6 +70,8 @@ const ClickableSimpleBooks = ({
       classes[element.tag] || '',
       element.attributes?.rend === 'bold' ? classes.bold : '',
       element.attributes?.rend === 'it' ? classes.italic : '',
+      element.attributes?.type ? classes[element.attributes.type] : '',
+
     ].filter(Boolean).join(' ');
   
     const isSeparatorOnlyLine = (text: string) => {
@@ -183,20 +185,19 @@ const ClickableSimpleBooks = ({
     }; // here ends render words, which should be a separate component
   
     return ( //the following line is broken, it renders 
-      <div className={`${classes.paragraphContainer} elementClasses`}> 
+    <div className={`${classes.paragraphContainer} ${elementClasses}`}>
       {element.text && (
         <div className={`${classes.lineContainer} ${
           textType === 'or' ? classes.originalOnly : 
           textType === 'tran' ? classes.translationOnly : ''
         }`}>
-          {/* Only render original text if textType is 'both' or 'or' */}
+          {/* Existing text rendering code stays the same */}
           {(textType === 'both' || textType === 'or') && (
             <div className={classes.originalText}>
               {renderWords(element.text)}
             </div>
           )}
           
-          {/* Only render translated text if textType is 'both' or 'tran' */}
           {element.translated_text && (textType === 'both' || textType === 'tran') && (
             <div className={`${classes.translatedText} ${
               textType === 'tran' ? classes.translationOnly : ''
@@ -207,15 +208,23 @@ const ClickableSimpleBooks = ({
         </div>
       )}
 
-      {element.children?.map((child, index) => (
-        <React.Fragment key={index}>
-          {renderTextElement(child)}
-        </React.Fragment>
-      ))}
+      {element.children?.map((child, index) => {
+        const childWithType = {
+          ...child,
+          attributes: {
+            ...child.attributes,
+            type: child.attributes?.type || element.attributes?.type
+          }
+        };
+        return (
+          <React.Fragment key={index}>
+            {renderTextElement(childWithType)}
+          </React.Fragment>
+        );
+      })}
     </div>
   );
 };
-
 
 
 

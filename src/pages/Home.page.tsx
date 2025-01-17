@@ -147,41 +147,8 @@ export function HomePage() {
 
   // should split correctly the text into lines after '|' characters or newlines, while keeping the '|' characters. In case of '||' it should add an empty line.
   
-  const lines = [];
-  if (textTranslit) {
-    let currentLine = '';
-    const textLines = textTranslit.split('\n');
-    
-    for (const line of textLines) {
-      // First check for || XX || pattern, then for || and |
-      const segments = line.split(/((?:\|\|\s*[^\s]{1,2}\s*\|\||\|\||[\|]))/);
-      
-      for (const segment of segments) {
-        if (segment === '||') {
-          currentLine += segment;
-          lines.push(currentLine.trimStart());
-          currentLine = '';
-          lines.push(''); // Add empty line after
-        }
-        // Check for single pipe
-        else if (segment === '|') {
-          currentLine += segment;
-          lines.push(currentLine.trimStart());
-          currentLine = '';
-        }
-        // Regular text
-        else if (segment.trim()) {
-          currentLine += segment;
-        }
-      }
-      
-      // Push any remaining content in currentLine
-      if (currentLine.trim()) {
-        lines.push(currentLine.trimStart());
-        currentLine = '';
-      }
-    }
-  }
+  const lines = textTranslit.split('\n');
+
   const [clickedWord, setClickedWord] = useState<string | null>(null);
   const [wordData, setWordData] = useState<WordEntry[]>([]);
   // Add this state at the component level

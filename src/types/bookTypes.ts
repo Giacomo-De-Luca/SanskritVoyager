@@ -26,6 +26,7 @@ export type TextElement = {
   text?: string;
   translated_text?: string;
   children?: TextElement[];
+  type?: string;
 }
 
 export type BookText = {

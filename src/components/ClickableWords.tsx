@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { ActionIcon } from '@mantine/core';
-import { IconCopy, IconCopyCheck } from '@tabler/icons-react';
+import { IconCopy, IconCopyCheck, IconClipboard, IconClipboardCheck } from '@tabler/icons-react';
 import { useClipboard } from '@mantine/hooks';
 import classes from './ClickableWords.module.css';
 import { WordEntry } from '../types/wordTypes';
@@ -63,13 +63,13 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
           className={classes.copyButton}
           onClick={() => clipboard.copy(lines.join('\n'))}
           variant="subtle"
-          size="lg"
+          size="md"
           aria-label="Copy text"
         >
           {clipboard.copied ? (
-            <IconCopyCheck size={20} stroke={1.5} />
+            <IconClipboardCheck size={20} stroke={1.5} />
           ) : (
-            <IconCopy size={20} stroke={1.5} />
+            < IconClipboard size={20} stroke={1.5} />
           )}
         </ActionIcon>
       )}

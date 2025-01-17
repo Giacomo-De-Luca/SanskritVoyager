@@ -37,6 +37,8 @@
   /* Text formatting */
   .bold {
     font-weight: bold;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
   }
   
   .italic {
@@ -86,6 +88,7 @@
 
   .originalText {
     margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
   }
   
   .translatedText {
@@ -127,3 +130,11 @@
   color: inherit; /* Reset the color to match original text */
   font-size: 1em; /* Reset font size to match original text */
 }
+
+.sutra {
+  font-weight: 800;
+
+  color: light-dark(var(--mantine-color-grape-8), var(--mantine-color-grape-4)); /* Adjust the colors as needed  */ 
+
+}
+
