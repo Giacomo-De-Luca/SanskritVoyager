@@ -38,6 +38,22 @@ function WordInfo({
     return groupedEntries;
   };
 
+  const getWordTypeStyle = (entry: WordEntry): string => {
+    if (entry.length === 7) { // LongEntry
+      const grammar = entry[1].toLowerCase();
+      if (grammar.includes('verb')) {
+        return classes.verbWord;
+      }
+      if (grammar.includes('indeclineable') || grammar.includes('particle')) {
+        return classes.indeclinableWord;
+      }
+      if (grammar.includes('pronoun')) {
+        return classes.pronounWord;
+      }
+    }
+    return '';
+  };
+
 
   if (isLoading) {
     return (
@@ -62,15 +78,19 @@ function WordInfo({
         
         return (
           <div key={groupIndex} className={classes.wordGroup}>
-            {uniqueWords.map((word, wordIndex) => (
-              <span
-                key={`${groupIndex}-${wordIndex}`}
-                className={classes.additionalWord}
-                onClick={() => onAdditionalWordClick(word)}
-              >
-                {word}
-              </span>
-            ))}
+            {uniqueWords.map((word, wordIndex) => {
+              const entry = entries.find(e => e[0] === word);
+              const typeClass = entry ? getWordTypeStyle(entry) : '';
+              return (
+                <span
+                  key={`${groupIndex}-${wordIndex}`}
+                  className={`${classes.additionalWord} ${typeClass}`}
+                  onClick={() => onAdditionalWordClick(word)}
+                >
+                  {word}
+                </span>
+              );
+            })}
           </div>
         );
       })}

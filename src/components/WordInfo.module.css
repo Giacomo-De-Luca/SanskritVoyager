@@ -32,14 +32,6 @@
   
   }
 
-
-.additionalWord {
-    cursor: pointer;
-    padding: 0.25rem 0.5rem;
-    color: light-dark(var(--mantine-color-grape-8), var(--mantine-color-grape-4));
-    transition: background-color 0.2s ease;
-    white-space: nowrap; /* Prevent word wrapping */
-  }
   
   .additionalWord:hover {
     color: light-dark(var(--mantine-color-grape-5), var(--mantine-color-grape-4));
@@ -55,3 +47,50 @@
   }
   
   
+/* Word type styling 
+.verbWord {
+  border-bottom: 1px solid var(--mantine-color-blue-4);
+}
+
+.indeclinableWord {
+  border-bottom: 1px solid var(--mantine-color-red-3);
+}
+
+
+.pronounWord {
+  border-bottom: 1px solid var(--mantine-color-violet-4);
+}
+
+*/
+
+
+
+
+
+.additionalWord {
+    cursor: pointer;
+    padding: 0.25rem 0.5rem;
+    color: light-dark(var(--mantine-color-grape-8), var(--mantine-color-grape-4));
+    transition: background-color 0.2s ease;
+    white-space: nowrap;
+    text-underline-offset: 6px;
+
+}
+
+
+.verbWord {
+  text-decoration-line: underline;
+  text-decoration-color: var(--mantine-color-blue-4);
+}
+
+.indeclinableWord {
+  text-decoration-line: underline;
+  text-decoration-color: var(--mantine-color-red-4);
+}
+
+
+.pronounWord {
+  text-decoration-line: underline;
+  text-decoration-color: var(--mantine-color-violet-4);
+}
+
