@@ -147,7 +147,7 @@ export function HomePage() {
 
   // should split correctly the text into lines after '|' characters or newlines, while keeping the '|' characters. In case of '||' it should add an empty line.
   
-  const lines = textTranslit.split('\n');
+  const lines = textTranslit ? textTranslit.split('\n') : [];
 
   const [clickedWord, setClickedWord] = useState<string | null>(null);
   const [wordData, setWordData] = useState<WordEntry[]>([]);
