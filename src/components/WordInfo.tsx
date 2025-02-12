@@ -80,7 +80,7 @@ function WordInfo({
                 <span
                   key={`${groupIndex}-${wordIndex}`}
                   className={`${classes.additionalWord} 
-                  ${localClickedWord === word ? classes.clickedAdditionalWord : ''} 
+                  ${localClickedWord === word ? classes.underlinedWord : ''} 
                   ${typeClass}`}
                   onClick={() => {
                     setLocalClickedWord(word);

@@ -94,7 +94,7 @@
   text-decoration-color: var(--mantine-color-violet-4);
 }
 
-.clickedAdditionalWord {
+.underlinedWord {
   text-decoration-line: underline;
   text-underline-offset: 8px;
   text-decoration-color: light-dark(var(--mantine-color-grape-6), var(--mantine-color-grape-3));
