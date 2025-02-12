@@ -46,6 +46,8 @@ type DictionaryLabels = {
 const dictionaryLabels: DictionaryLabels = {
   mw: 'Monier-Williams Sanskrit-English Dictionary',
   ap90: 'Apte Practical Sanskrit-English Dictionary',
+  ddsa: 'Macdonell A Practical Sanskrit Dictionary',
+  cped: 'Concise Pali English Dictionary',
   gra: 'Grassmann Wörterbuch zum Rig Veda',
   bhs: 'Edgerton Buddhist Hybrid Sanskrit Dictionary',
 };
@@ -194,9 +196,6 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                 <div className= {classes.vocabularyWrapper}
                 
                 >
-                  <div className={classes.vocabularySection}>
-                    Vocabulary entries:
-                  </div> 
                   <div>
                     {Object.entries(longEntry[6]).map(([dictionaryName, words]) => (
                       <div key={dictionaryName}>
@@ -263,11 +262,9 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
               </Title>
 
               {shortEntry[0] !== shortEntry[1] && (  // word components
-                <p
-                  className={classes.wordCostituentsContainer}
-
-
-
+                <p  
+                  className={
+                    classes.wordCostituentsContainerShort} 
                 
                 >
                   {shortEntry[1].split(/(-|—(?=\p{L}))/u).map((part, index) => {
@@ -289,7 +286,6 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
             
               {shouldShowVocabulary && (
                 <div className= {classes.vocabularyWrapper}>
-                <h4 className={classes.vocabularySection}>Vocabulary entries:</h4> 
                   {Object.entries(shortEntry[2]).map(([dictionaryName, words]) => (
                       <div key={dictionaryName}>
                         {/* Render dictionary name */}

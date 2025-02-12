@@ -19,6 +19,18 @@
     padding-bottom: 1rem;
 }
 
+.wordCostituentsContainerShort {
+
+    margin-top: 0;
+    margin-bottom: 0;
+
+    padding-top: 0rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
+
+    
+}
+
 
 .word-display {
     max-width: 32rem;
@@ -126,7 +138,6 @@
     font-size: 1rem;
     color: light-dark(var(--mantine-color-red-4), var(--mantine-color-red-4));
     margin-bottom: 0rem;
-    font-family: 'LibertinusSans', sans-serif;
     margin-top: 0;
     padding-top: 0;
     /* font-family: 'Optima', sans-serif; */
@@ -162,14 +173,13 @@
 
 .vocabularySection {
     padding-top: 1rem;
-    font-family: 'LibertinusSans', sans-serif;
-    font-size: 1.125rem;
+    font-size: 1rem;
     font-weight: 500;
     color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-5));
 
     letter-spacing: 0.01em;
-    padding-bottom: 1rem;
-    border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
+    padding-bottom: 0rem;
+    /*border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6)); */
     margin-top: 0;
     margin-bottom: 0;
     
