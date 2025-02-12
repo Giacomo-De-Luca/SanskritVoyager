@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Loader } from '@mantine/core';
 import { WordEntry, GroupedEntries } from '../types/wordTypes';
 import classes from './WordInfo.module.css';
@@ -7,20 +7,17 @@ interface WordInfoProps {
   wordData: WordEntry[];
   onAdditionalWordClick: (word: string) => void;
   isLoading: boolean;
+  clickedAdditionalWord: string | null;
 }
-
-
-// this is not keeping track properly of the face that some entries are short and have only 3 members, 
-// the short entries are being grouped together with the long entries,
-// the short entries should be grouped separately from the long entries
-// they should be recognized by the fact that they have only 3 members
-// and displayed as uniquewords. 
 
 function WordInfo({ 
   wordData, 
   onAdditionalWordClick, 
-  isLoading 
+  isLoading,
+  clickedAdditionalWord
 }: WordInfoProps): JSX.Element {
+  const [localClickedWord, setLocalClickedWord] = useState<string | null>(null);
+
   const groupEntries = (data: WordEntry[]): GroupedEntries => {
     const groupedEntries: GroupedEntries = {};
     for (const entry of data) {
@@ -54,7 +51,6 @@ function WordInfo({
     return '';
   };
 
-
   if (isLoading) {
     return (
       <div className={classes.loaderContainer}>
@@ -84,8 +80,11 @@ function WordInfo({
               return (
                 <span
                   key={`${groupIndex}-${wordIndex}`}
-                  className={`${classes.additionalWord} ${typeClass}`}
-                  onClick={() => onAdditionalWordClick(word)}
+                  className={`${classes.additionalWord} ${localClickedWord === word ? classes.clickedAdditionalWord : ''} ${typeClass}`}
+                  onClick={() => {
+                    setLocalClickedWord(word);
+                    onAdditionalWordClick(word);
+                  }}
                 >
                   {word}
                 </span>

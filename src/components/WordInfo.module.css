@@ -34,7 +34,7 @@
 
   
   .additionalWord:hover {
-    color: light-dark(var(--mantine-color-grape-5), var(--mantine-color-grape-4));
+    color: light-dark(var(--mantine-color-grape-5), var(--mantine-color-grape-3));
     text-decoration: underline;
   
   }
@@ -94,3 +94,11 @@
   text-decoration-color: var(--mantine-color-violet-4);
 }
 
+.clickedAdditionalWord {
+  text-decoration-line: underline;
+  text-underline-offset: 8px;
+  text-decoration-color: light-dark(var(--mantine-color-grape-6), var(--mantine-color-grape-3));
+  color: light-dark(var(--mantine-color-grape-6), var(--mantine-color-grape-3));
+
+  transition: text-underline-offset 0.3s ease-in-out;
+}
