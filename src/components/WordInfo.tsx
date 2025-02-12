@@ -7,14 +7,13 @@ interface WordInfoProps {
   wordData: WordEntry[];
   onAdditionalWordClick: (word: string) => void;
   isLoading: boolean;
-  clickedAdditionalWord: string | null;
+  
 }
 
 function WordInfo({ 
   wordData, 
   onAdditionalWordClick, 
   isLoading,
-  clickedAdditionalWord
 }: WordInfoProps): JSX.Element {
   const [localClickedWord, setLocalClickedWord] = useState<string | null>(null);
 
@@ -80,7 +79,9 @@ function WordInfo({
               return (
                 <span
                   key={`${groupIndex}-${wordIndex}`}
-                  className={`${classes.additionalWord} ${localClickedWord === word ? classes.clickedAdditionalWord : ''} ${typeClass}`}
+                  className={`${classes.additionalWord} 
+                  ${localClickedWord === word ? classes.clickedAdditionalWord : ''} 
+                  ${typeClass}`}
                   onClick={() => {
                     setLocalClickedWord(word);
                     onAdditionalWordClick(word);
