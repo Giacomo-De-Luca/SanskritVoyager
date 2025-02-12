@@ -52,10 +52,10 @@ export const theme = createTheme({
       '#008080', // teal
       '#f5f4ee',
       '#f3f3f0', // 4: your main color
-      '#f0eee5',
-      '#e2e0d3',
-      '#eeece2',
-      '#dd8c71',
+      '#f0eee5',// used
+      '#4C8EE0', // lighter blue1
+      '#91B0D7', // lighter blue2
+      '#D6E9FF',  // lightest blue
       '#c05f3b', // 9: darkest
   ],
       

@@ -181,13 +181,13 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                   </span>
                 );
               })}
-              {!isMobile && !isTablet && (
+              {/* {!isMobile && !isTablet && (
                 <InflectionTable 
                   inflection_wordsIAST={longEntry[3]} 
                   rowcolstitles={longEntry[2]}  
                   useColor={true}
                 />
-              )}
+              )} */}
               </div>
 
               

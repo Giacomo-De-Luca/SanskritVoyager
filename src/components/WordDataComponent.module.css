@@ -145,15 +145,14 @@
 }
 
 .grammarDetail {
-    font-size: 1rem;
     font-style: italic;
     color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-5));
     /*font-family: 'LibertinusSans', sans-serif;*/
-    font-weight: 500;
     padding-bottom: 0rem;
     margin-bottom: 0.0rem;
     margin-top: 0rem;
     padding-top: 0rem;
+    text-transform: lowercase;
 
 }
 
