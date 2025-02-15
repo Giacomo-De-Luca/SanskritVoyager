@@ -9,6 +9,10 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
   const processContent = (content: string) => {
     content = content.replace(/&amp;c\./g, '&c.');
 
+    // remove the <srs/> tag
+    // should I remove them ?
+    content = content.replace(/<srs\s*\/>/g, '');
+
     let buffer = '';
     const result = [];
     let index = 0;
@@ -52,7 +56,7 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
         // Split text into words only for Sanskrit terms, keep names as whole
         const textParts: string[] = isName 
           ? [text] 
-          : text.split(/(\s+|—|-|\/)/);
+          : text.split(/(\s+|—|-|\/)/u);
 
         
           
