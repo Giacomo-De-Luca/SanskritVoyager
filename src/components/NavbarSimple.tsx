@@ -89,7 +89,20 @@ export function NavbarSimple({
         {/* Content from NavbarSimple moved here */}
         <Stack gap="3px" justify="flex-end">
           <Select
-            data={['IAST', 'DEVANAGARI', 'ITRANS', 'HK', 'SLP1', 'WX', 'Kolkata', 'Bengali', 'Tamil', 'Kannada'].map((item) => ({ value: item, label: item }))}
+              data={[
+                { value: 'IAST', label: 'Romanic (IAST)' },
+                { value: 'DEVANAGARI', label: 'Devanagari' },
+                { value: 'HK', label: 'Harvard-Kyoto (HK)' },
+                { value: 'SLP1', label: 'SLP1 (Sanskrit Library Phonetic)' },
+                { value: 'Tamil', label: 'Tamil' },
+                { value: 'Kolkata', label: 'Kolkata' },
+                { value: 'Bengali', label: 'Bengali' },
+                { value: 'Kannada', label: 'Kannada' },
+                { value: 'WX', label: 'WX' },
+                { value: 'ITRANS', label: 'ITRANS' },
+
+
+              ]}
             value={scheme.value}
             label="Select Transliteration Scheme"
             placeholder="Pick Transliteration Scheme, default is IAST"

@@ -311,7 +311,9 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                            Render each entry for the word */}
 
                         {Array.isArray(entries) ? 
-                            entries.map((entry, index) => (
+                            entries
+                            .filter(entry => entry && Object.keys(entry).length > 0) // Filter out empty strings and empty objects
+                            .map((entry, index) => (
                               <DictionaryEntry 
                                 key={`${dictionaryName}-${wordName}-${index}`}
                                 entry={entry}
@@ -326,7 +328,6 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
   ))}
                 </div>
               )}
-              <hr />
             </div>    
           );
         }
