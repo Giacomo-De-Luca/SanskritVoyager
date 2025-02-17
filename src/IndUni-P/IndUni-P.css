@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'IndUni-P';
+    src: url('./IndUni-P-Roman.otf') format('otf');
+    font-weight: 400; /* Regular */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'IndUni-P';
+    src: url('./IndUni-P-Italic.otf') format('otf');
+    font-weight: 400; /* Regular Italic */
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'IndUni-P';
+    src: url('./IndUni-P-Bold.otf') format('otf');
+    font-weight: 600; /* Bold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'IndUni-P';
+    src: url('./IndUni-P-BoldItalic.otf') format('otf');
+    font-weight: 600; /* Bold */
+    font-style: italic;
+}
