@@ -1,0 +1,986 @@
+{
+  "file_title": "mahāyānasaṁgraha",
+  "file_title_normal": "mahayanasaṁgraha",
+  "metadata": {
+    "original_title": "Mahāyānasaṃgraha",
+    "author": "Asanga",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "Miroj Shakya",
+        "when": "2019"
+      },
+      {
+        "role": "proof reader",
+        "name": "Miroj Shakya",
+        "when": ""
+      }
+    ],
+    "publisher": "Nagarjuna Institute of Buddhist Studies",
+    "sponsor": "University of the West",
+    "license": {
+      "text": "",
+      "target": ""
+    },
+    "publication_date": "",
+    "source": "",
+    "other_version": "N/A"
+  },
+  "body": [
+    {
+      "tag": "h1",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "mahāyānasaṁgraha"
+    },
+    {
+      "tag": "h2",
+      "attributes": {},
+      "text": "Technical Details"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "Text Version:"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "Romanized"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "Input Personnel:"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "Miroj Shakya"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "Input Date:"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "2019"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "Proof Reader:"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "Miroj Shakya"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "Supplier:"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "Nagarjuna Institute of Buddhist Studies"
+    },
+      {
+      "tag": "",
+      "attributes": {},
+      "text": "Sponsor:"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "University of the West"
+    },
+      {
+      "tag": "",
+      "attributes": {},
+      "text": "Other Version"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "N/A"
+    },
+    {
+      "tag": "h3",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "mahāyānasaṁgraha"
+    },
+    {
+      "tag": "h4",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "prastāvanā 1"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "abhidharmamāhāyānasūtre bhagavatpurastān mahāyā-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "nasupraviṣṭabodhisattvena mahāyānamāhātmyodbhāvanār-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tham uktaṁ yad uta mahāyānam ārabhya buddhabhagava-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tāṁ daśaprakāraviśeṣaviśiṣṭavacanam|"
+    },
+    {
+      "tag": "h4",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "prastāvanā 2"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "(1)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "yad uta buddhabhagavatāṁ (1) jñeyāśrayaviśeṣaviśiṣṭava-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "canam| (2) jñeyalakṣaṇaviśeṣaviśiṣṭavacanam| (3) jñeya-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "lakṣaṇapraveśaviśeṣaviśiṣṭavacanam| (4) tatpraveśahetu-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "phalaviśeṣaviśiṣṭavacanam| (5) taddhetuphalabhāvanāpra-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "bhedaviśeṣaviśiṣṭavacanam| (6) tatraiva bhāvanāprabhede"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "'dhiśīlaviśeṣaviśiṣṭavacanam| (7) adhicittaviśeṣaviśiṣṭavaca-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "nam| (8) adhiprajñāviśeṣaviśiṣṭavacanam| (9) tatphalapra-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "hāṇaviśeṣaviśiṣṭavacanam| (10) tatphalajñānaviśeṣaviśiṣṭa-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "vacanaṁ ca|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "eṣā sūtrapadadeśanā mahāyānasya buddhavacanatvam"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "udbhāvayati|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "(2)"
+    },
+    {
+      "tag": "h4",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "prastāvanā 3"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "katham udbhāvayati| - tathā hy etayā deśanayā śrā-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "vakayāne 'deśitāni daśasthānāni mahāyānato deśitāni| yad"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "uta (1) ālayavijñānasya jñeyāśrayatā deśitā| (2) trayāṇāṁ"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "(3)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "svabhāvānāṁ paratantrasya parikalpitasya pariniṣpannasya"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "ca jñeyalakṣaṇatā deśitā| (3) vijñaptimātratāyā jñeyalak-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "ṣaṇapraveśatā deśitā| (4) ṣaṭpāramitānāṁ tatpraveśahetu-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "phalatā deśitā| (5) daśabodhisattvabhūmīnāṁ taddhetupha-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "labhāvanāprabhedatā deśitā| (6) bodhisattvasaṁvarasya"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tatrādhiśīlatā deśitā| (7) śūraṁgamagaganagañjādisamādhī-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "nāṁ tatrādhicittatā deśitā| (8) nirvikalpajñānasyādhipra-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "jñātā deśitā| (9) apratiṣṭhitanirvāṇasya tatphalaprahāṇatā"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "deśitā| (10) trayāṇāṁ buddhakāyānāṁ svābhāvikasya"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "sāṁbhogikasya nairmāṇikasya ca tatphalajñānatā deśitā|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "etāni daśasthānāni śrāvakayānād viśiṣṭāni yāni bhagavatā"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "mahāyāna [udbhāvitāni] viśiṣṭaparamāṇi bodhisattvān āra-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "bhya deśitāni|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tena mahāyānam ārabhya buddhabhagavatāṁ daśaprakā-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "raviśeṣaviśiṣṭavacanaṁ jñeyam|"
+    },
+    {
+      "tag": "h4",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "prastāvanā 4"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "(4)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "kathaṁ punar etena daśaprakāraviśeṣaviśiṣṭena tathāga-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tavacanena mahāyānaṁ buddhavacanam eveti paridīpitaṁ"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "na ca śrāvakayānaṁ mahāyānam iti pratiṣiddham| -"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "eteṣāṁ hi daśasthānānāṁ deśanā śrāvakayāne na dṛśyate"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "mahāyāne tu dṛśyate| etāni daśasthānāni mahābodhisaṁ-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "pādakāni sūpapannānukūlāviruddhāni sarvajñajñānaprāp-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "taye| atra gāthe|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "āśrayo jñeya(sya) lakṣaṇaṁ tatpraveśas taddhetupha-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "laṁ tatprabhedaḥ|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "śikṣātrayaṁ tatphalaṁ ca prahāṇaṁ jñānaṁ cāgrayā-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "nagataṁ viśiṣṭam|| (1)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "eṣā hi deśanānyatra na dṛśyate eteṣām uttamabodhihe-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tudarśanena|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "buddhavacanam iṣyate mahāyānaṁ daśasthānadeśana-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "yā viśiṣṭam|| (2)"
+    },
+    {
+      "tag": "h4",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "prastāvanā 5"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "(5)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "kim artham eteṣāṁ daśasthānānām evaṁ kramo deśitaḥ"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "| - (1) bodhisattvena hi prathamata eva tāvad dharmā-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "ṇāṁ hetau kauśalyaṁ niśritya pratītyasamutpāde kauśal-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "yaṁ prāptavyam| (2) tataḥ paraṁ pratītyasamutpannadhar-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "māṇāṁ lakṣaṇe kauśalyaṁ prāptavyam| samāropāpavādān -"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tadoṣaparivarjane kauśalyāt| (3) bodhisattvenaivaṁ prayu-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "ktena tasmin sugṛhītalakṣaṇe prativyadhyam| tenāvaraṇe-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "bhyaś cittaṁ vimucyate| (4) tataḥ paraṁ jñeyalakṣaṇaṁ"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "pratividhya pūrvaprāyogikāḥ ṣaṭpāramitā adhigamena"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "pratipattavyāḥ| viśuddhādhyāśayaṁ niśritya| (5) tataḥ"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "(6)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "paraṁ viśuddhādhyāśayaparigṛhītāḥ ṣaṭpāramitā daśabhū-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "miṣu prabhedena bhāvyās trikalpāsaṁkhyeyam| (6-8)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tataḥ paraṁ trayo bodhisattvaśikṣāḥ paripūrayitavyāḥ|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "(9-10) paripūrayitvā tatphalaṁ nirvāṇam anuttarasamyak-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "saṁbodhiś cābhisaṁboddhavyā| evam eteṣāṁ daśasthānā-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "nāṁ kramo deśitaḥ|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "etasyāṁ deśanāyāṁ sarvamahāyānaṁ paripūrṇam|"
+    },
+    {
+      "tag": "h2",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "chapter I (jñeyāśraya)"
+    },
+    {
+      "tag": "h3",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "I.1"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tatra tāvat prathamata eva jñeyāśraya ukta ālayavijñā-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "naṁ| bhagavatā kutrālayavijñānaṁ deśitam ālayavijñānam"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "iti vyapadeśena| - bhagavatābhidharmasūtragāthāyām"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "uktam|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "anādikāliko dhātuḥ sarvadharmasamāśrayaḥ|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tasmin sati gatiḥ sarvā nirvāṇādhigamo 'pi ca||"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "(7)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "iti|"
+    },
+    {
+      "tag": "h3",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "I.2"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "api ca tasyām evoktam|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "ālīnaṁ sarvadharmeṣu vijñānaṁ sarvabījakam|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tasmād ālayavijñānaṁ sadbhyo mayaiva deśitam||"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "iti| eṣa tāvad āgamaḥ|"
+    },
+    {
+      "tag": "h3",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "I.3"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "kiṁ kāraṇaṁ tu tad ālayavijñānam ity ucyate| -"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "sarvaupapattikasāṁkleśikadharmās tasminn ālīnāḥ phala-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "bhāvena tac ca teṣv ālīnaṁ hetubhāvenety ālayavijñānam|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "atha vā sattvās tadālīnā ātmatvenety ālayavijñānam|"
+    },
+    {
+      "tag": "h3",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "I.4"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "(8)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tac cādānavijñānam ity apy ucyate| atrāgamaḥ| yatho-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "ktaṁ saṁdhinirmocanasūtre|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "ādānavijñāna gabhīrasūkṣmo ogho yathā vartati"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "sarvabījo|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "bālāna eṣo mayi na prakāśi(te) mā haiva ātmā"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "parikalpayeyuḥ|| iti| (triṁśikā)"
+    },
+    {
+      "tag": "h3",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "I.5"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "kiṁ kāraṇam ādānavijñānam ity ucyate| - (a) sarva-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "rūpīndriyopādānatvena (b) sarvātmabhāvopādānāśrayatvena"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "ca| tathā hi (a) tena pañcarūpindriyāny upādīyante 'vinā-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "śāya yāvad āyur anuvartate| (b) pratisaṁdhibandhe ca"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "(9)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tadabhinirvṛttyupādānatvenātmabhāva upādīyate| evaṁ tad"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "ādānavijñānam ity ucyate|"
+    },
+    {
+      "tag": "h3",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "I.6"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tac ca cittam ity apy ucyate| yathoktaṁ bhagavatā cittaṁ"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "mano 'tha vijñānam iti|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tatra mano dvividham| (1) samanantarapratyayakāritr-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "āśrayatvād anantaraniruddhavijñānaṁ mano nāma vijñā-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "nasyotpādāśrayaḥ| (2) dvitīyaṁ ca kliṣṭaṁ manaś catur-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "bhiḥ kleśaiḥ sadā samprayuktaṁ satkāyadṛṣṭyā cāsmimā-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "nena cātmasnehena cāvidyāyā ca| etad vijñānasya saṁkle-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "śāśrayaḥ|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "vijñānaṁ yad ekenāśrayenotpadyate dvitīyena tu saṁkli-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "śyate| viṣayaprativijñapter vijñānam|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "samanantarān mananāc ca mano dvividham|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "(10)"
+    },
+    {
+      "tag": "h3",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "I.7A"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "kathaṁ punar gamyate tat kliṣṭaṁ mana astīti| tasminn"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "avidyamāne| (1) āveṇikyavidyābhāvadoṣo bhavet| (2) pañ-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "cabhiś ca sādharmyābhāvadoṣo bhavet| tathā hi pañcavij-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "ñānakāyānāṁ sahabhvāśrayāś cakṣurādayaḥ| (3) niruktya-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "bhāvadoṣaś ca bhavet| (4) asaṁjñinirodhasamāpattyoś ca"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "viśeṣābhāvadoṣo bhavet| tathā hy asaṁjñisamāpattiḥ kli-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "(11)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "ṣṭamanasā prabhāvitā na tu nirodhasamāpattiḥ| anyathā"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tayor viśeṣo na syāt| (5) āsaṁjñikāyāṁ caikajātāv akliṣṭa-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tvadoṣo bhaved yadi tatrāhaṁkāro 'smimānaś ca na bha-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "vetāṁ| (6) sadā cāhaṁkārasya samudācāra upalabhyate"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "kuśalākuśalāvyākṛtacitteṣu| anyathākuśalacitta eva tatsa-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "ṁprayuktatvād asmimānakleśaḥ samudācaren na tu kuśa-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "lāvyakṛtayoḥ| tasmāt sahabhūsamudācāreṇa saṁprayukta-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "samudācāreṇa ca ete doṣā na bhavanti|"
+    },
+    {
+      "tag": "h3",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "I. 7B"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "atra gāthāḥ|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "āveṇikyā avidyāyāḥ sādharmayasya ca pañcabhiḥ|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "(12)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "samāpattiviśeṣasya ca nirukteś cābhāvo doṣaḥ|| (1)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "āsaṁjñike jātisrotasi cāhaṁkārābhāvo doṣaḥ|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "ahaṁkārānubandhaś ca sarvathā nopapadyate|| (2)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "vinā kliṣṭamanasā dvayābhāvaḥ trayavirodhaś ca|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tasminn asati sarvatra cāhaṁkāro na bhavati|| (3)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "cittavṛttaye sadarthe sadā pratibandhabhūtā|"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "sarvakālaṁ ca sahabhūr avidyeṣyata āveṇikī|| (4)"
+    },
+    {
+      "tag": "h3",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "I. 7C"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "manaḥ kliṣṭatvān nivṛtāvyākṛtaṁ kleśaiś caturbhiḥ sadā"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "saṁprayuktam| yathā rūparūpyāvacarakleśā etad nivṛtā-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "vyākṛtam| rūpārūpyāvacarasya śamathālingitatvān manasas"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tu sarvakālam anubaddhatvāt|"
+    },
+    {
+      "tag": "h3",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "I.8"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "cittaśarīraṁ tṛtīyaṁ nopalabhyata ālayavijñānam anta-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "(13)"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "reṇa| tena siddham ālayavijñānasya cittatvam| tasmāt"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "sarvabījakān mano vijñānaṁ ca pravartate|"
+    },
+    {
+      "tag": "h3",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "I.9"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "tac ca kiṁkāraṇaṁ cittam ity apy ucyate| citradharma-"
+    },
+    {
+      "tag": "",
+      "attributes": {},
+      "text": "vāsanābījair ācitatvena|"
+    },
+    {
+      "tag": "h3",
+      "attributes": {
+        "rend": "bold"
+      },
+      "text": "I.10"
+    }
+]
+}
