@@ -48,10 +48,12 @@
     font-weight: 500;
     letter-spacing: -0.02em;
     margin-bottom: 0.5rem;
-    margin-top: 1.0rem;
     text-indent: 0%; /* Indent the first line by 10% of the containing block's width */
     padding-bottom: 1rem;
     border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6)); 
+
+    padding-top: 1rem;
+    border-top: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
 
     color: var(--mantine-color-gray-8); /* Use var() to reference a CSS variable */
 
@@ -128,24 +130,7 @@
     border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
     }
 
-.grammarMain {
-    font-size: 1rem;
-    color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-4));
-    margin-bottom: 0.75rem;
-    margin-top: 0rem;
-    /* font-family: 'Optima', sans-serif; */
-    
-}
 
-.grammarMainIndeclinable {
-    font-size: 1rem;
-    color: light-dark(var(--mantine-color-red-4), var(--mantine-color-red-4));
-    margin-bottom: 0rem;
-    margin-top: 0;
-    padding-top: 0;
-    /* font-family: 'Optima', sans-serif; */
-    
-}
 
 .grammarDetail {
     font-style: italic;
@@ -195,3 +180,90 @@
         padding-bottom: 0.5rem;
 
 }
+ 
+
+
+
+
+  
+  /* Add this if you want to animate the table appearance */
+  .inflectionTableWrapper {
+    opacity: 0;
+    transform: translateY(-10px);
+    animation: slideDown 0.2s ease forwards;
+  }
+  
+  @keyframes slideDown {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+
+  .grammarMain {
+    font-size: 1rem;
+    color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-4));
+    margin-bottom: 0.75rem;
+    margin-top: 0rem;
+    /* font-family: 'Optima', sans-serif; da qui in poi vedi sono dubbi*/
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    gap: 0.5rem; /* Ensures consistent spacing between text and icon */
+
+    
+}
+
+.grammarMainIndeclinable {
+    font-size: 1rem;
+    color: light-dark(var(--mantine-color-red-4), var(--mantine-color-red-4));
+    margin-bottom: 0rem;
+    margin-top: 0;
+    padding-top: 0;
+    /* font-family: 'Optima', sans-serif; qui uguale è un po' un patchwork*/
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-items: flex-start;
+    gap: 0.5rem; /* Ensures consistent spacing between text and icon */
+
+    width: 100%;
+    
+}
+
+
+
+  .inflectionTableIcon {
+    margin-left: auto; 
+    margin-right: 0;
+    transition: all 0.2s ease;
+        /* Remove any existing margins/padding if they interfere */
+    margin: 0;
+    padding: 0;
+    right: 15px;
+    color: light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-5)); 
+
+
+  }
+  
+  .inflectionTableIcon:hover {
+    background-color: light-dark(var(--mantine-color-lightscale-3), var(--mantine-color-dark-4));
+    color: light-dark(var(--mantine-color-orange-5), var(--mantine-color-orange-3));
+    scale: 1.1;
+  }
+  
+
+  .inflectionTableIcon:active {
+    /* Briefly change the background color NOT Working*/
+    background-color: light-dark(
+      var(--mantine-color-red-3),
+      var(--mantine-color-red-4)
+    );
+    
+    /* Optional: add a subtle transform to make it feel more interactive */
+    transform: scale(0.95);
+  }

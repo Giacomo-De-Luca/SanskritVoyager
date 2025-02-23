@@ -63,6 +63,8 @@ export function HomePage() {
   
   const [isWordInfoVisible, setIsWordInfoVisible] = useState(false);
 
+  const [displayInflectionTables, setDisplayInflectionTables] = useState(false);
+
 
 
   // Add loading state
@@ -323,6 +325,8 @@ export function HomePage() {
         setText={setText}
         setIsNavbarVisible={setIsNavbarVisible}
 
+        displayInflectionTables={displayInflectionTables}
+        setDisplayInflectionTables={setDisplayInflectionTables}
         
         />
       )}
@@ -565,8 +569,8 @@ export function HomePage() {
               >
                 < div className= {classes.scrollContainer}>
 
-                  <div className={classes.chevronContainer}>
-                  <ActionIcon
+                  <div className={classes.chevronContainer}> 
+                  <ActionIcon 
                       className={classes.chevronButton}
                       onClick={() => setIsWordInfoVisible(!isWordInfoVisible)}
                       data-rotated={!isWordInfoVisible}
@@ -575,7 +579,8 @@ export function HomePage() {
                       size="md"
                       style={{
                         right: isMobile? '4px': '-0px', // Adjust this value to position within the margin
-                        top: isMobile? 0 : '20px', // Adjust the top position as needed
+                        top: isMobile? 0 : '20px', // Adjust the top position as needed  
+                        // all this can be moved in a seaparate component. 
                       }}
                       
                     >
@@ -598,7 +603,8 @@ export function HomePage() {
                               setClickedInfoWord={setClickedInfoWord}
                               isTablet={isTablet}
                               isNavabarVisible={isNavbarVisible}
-                              
+                              setDisplayInflectionTables={setDisplayInflectionTables}
+                              displayInflectionTables={displayInflectionTables}
                               
                             />
                           )}
@@ -655,6 +661,9 @@ export function HomePage() {
                       setClickedInfoWord={setClickedInfoWord}
                       isTablet={isTablet}
                       isNavabarVisible={isNavbarVisible}
+                      setDisplayInflectionTables={setDisplayInflectionTables}
+
+                      displayInflectionTables={displayInflectionTables}
 
                     />
                   )}

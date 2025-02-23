@@ -2,7 +2,9 @@ import InflectionTable from './InflectionTable';
 import { fetchWordData } from '../pages/Api';
 import { useState, useEffect } from 'react';
 import DictionaryEntry from './DictionaryEntry';
-import { Text, Divider, Title } from '@mantine/core';
+import { Text, Divider, Title, Tooltip, ActionIcon } from '@mantine/core';
+import { IconTable, IconTableOff, IconBorderAll } from "@tabler/icons-react"
+
 
 import classes from './WordDataComponent.module.css';
 
@@ -35,6 +37,8 @@ interface WordDataComponentProps {
   setClickedInfoWord: React.Dispatch<React.SetStateAction<string|null>>;
   isTablet:  boolean | undefined;
   isNavabarVisible: boolean;
+  displayInflectionTables: boolean;
+  setDisplayInflectionTables: (value: boolean) => void;
 
 }
 
@@ -53,7 +57,16 @@ const dictionaryLabels: DictionaryLabels = {
 };
 
 
-const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionaries, setClickedInfoWord, isTablet, isNavabarVisible }: WordDataComponentProps) => {
+const WordDataComponent = ({ 
+  wordData, 
+  setWordData, 
+  isMobile, 
+  selectedDictionaries, 
+  setClickedInfoWord, 
+  isTablet, 
+  isNavabarVisible,
+  setDisplayInflectionTables,
+  displayInflectionTables }: WordDataComponentProps) => {
   const handleWordClick = async (word: string, index: number) => {
     setClickedInfoWord(word)
     console.log(`Clicked word: ${word}`);
@@ -129,15 +142,41 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
               }
 
               <div className={classes.grammarSection}>
-                <p 
+
+
+                
+
+
+                
+                <div 
                 className={
                   longEntry[1] === "indeclineable"
                     ? classes.grammarMainIndeclinable
                     : classes.grammarMain
                 }
                 >
-                  {longEntry[1]}
-                </p>
+                  <span>{longEntry[1]}</span>
+
+                  <Tooltip label={displayInflectionTables ? "Hide table" : "Show table"}>
+
+                    <ActionIcon
+                      variant="subtle"
+                      size="sm"
+                      onClick={() => setDisplayInflectionTables(!displayInflectionTables)}
+                      className={classes.inflectionTableIcon}
+                    >
+                      {displayInflectionTables ? (
+                        <IconTableOff size={16} stroke={1.5} />
+                      ) : (
+                        <IconBorderAll size={16} stroke={1.5} />
+                      )}
+                    </ActionIcon>
+                  </Tooltip>
+
+                  
+                </div>
+
+              
 
               {longEntry[2] && longEntry[2].map((inflection, index) => {
                 let caseAbbr = inflection[0];
@@ -181,13 +220,15 @@ const WordDataComponent = ({ wordData, setWordData, isMobile, selectedDictionari
                   </span>
                 );
               })}
-              {/* {!isMobile && !isTablet && (
+
+              
+              {displayInflectionTables && (
                 <InflectionTable 
                   inflection_wordsIAST={longEntry[3]} 
                   rowcolstitles={longEntry[2]}  
                   useColor={true}
                 />
-              )} */}
+              )}
               </div>
 
               
