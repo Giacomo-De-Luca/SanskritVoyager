@@ -25,7 +25,8 @@ const DictionarySelectComponent = ({
           group: 'Sanskrit-English',
           items: [
             { value: 'mw', label: 'Monier-Williams Sanskrit-English Dictionary' },
-            { value: 'ap90', label: 'Apte Practical Sanskrit-English Dictionary' }
+            { value: 'ap90', label: 'Apte Practical Sanskrit-English Dictionary' },
+            { value: 'cae', label: 'Cappeller Sanskrit-English Dictionary' },
           ]
         },
         {
