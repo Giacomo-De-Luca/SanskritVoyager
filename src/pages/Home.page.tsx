@@ -325,8 +325,6 @@ export function HomePage() {
         setText={setText}
         setIsNavbarVisible={setIsNavbarVisible}
 
-        displayInflectionTables={displayInflectionTables}
-        setDisplayInflectionTables={setDisplayInflectionTables}
         
         />
       )}
