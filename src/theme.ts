@@ -8,7 +8,7 @@ import './IndUni-P/IndUni-P.css';
 export const theme = createTheme({
 
 
-  fontFamily: 'IndUni-P, serif',
+  fontFamily: 'Palatino, serif',
 
 
   fontSizes: {
