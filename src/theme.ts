@@ -3,11 +3,12 @@ import { createTheme, rem, virtualColor } from '@mantine/core';
 import './Optima/Optima.css';
 import './LinuxBiolinum/LinuxBiolinum.css';
 import './LibertinusSans/LibertinusSans.css';
+import './IndUni-P/IndUni-P.css';
 
 export const theme = createTheme({
 
 
-  fontFamily: 'Palatino, serif',
+  fontFamily: 'IndUni-P, serif',
 
 
   fontSizes: {

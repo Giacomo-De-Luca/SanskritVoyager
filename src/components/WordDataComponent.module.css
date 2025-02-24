@@ -47,7 +47,7 @@
     font-size: 1.1rem;
     font-weight: 500;
     letter-spacing: -0.02em;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0rem;
     text-indent: 0%; /* Indent the first line by 10% of the containing block's width */
     padding-bottom: 1rem;
     border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6)); 
@@ -55,7 +55,7 @@
     padding-top: 1rem;
     border-top: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
 
-    color: var(--mantine-color-gray-8); /* Use var() to reference a CSS variable */
+    color:light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-4)); /* Use var() to reference a CSS variable */
 
 
 }
@@ -177,7 +177,7 @@
 .vocabularyWrapper {
 
         border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6)); 
-        padding-bottom: 0.5rem;
+        padding-bottom: 0rem;
 
 }
  

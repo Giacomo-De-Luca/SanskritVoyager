@@ -3,7 +3,7 @@ import { fetchWordData } from '../pages/Api';
 import { useState, useEffect } from 'react';
 import DictionaryEntry from './DictionaryEntry';
 import { Text, Divider, Title, Tooltip, ActionIcon } from '@mantine/core';
-import { IconTable, IconTableOff, IconBorderAll } from "@tabler/icons-react"
+import { IconTable, IconTableOff, IconBorderAll, IconTablePlus } from "@tabler/icons-react"
 
 
 import classes from './WordDataComponent.module.css';
@@ -48,12 +48,13 @@ type DictionaryLabels = {
 
 
 const dictionaryLabels: DictionaryLabels = {
-  mw: 'Monier-Williams Sanskrit-English Dictionary',
-  ap90: 'Apte Practical Sanskrit-English Dictionary',
-  ddsa: 'Macdonell A Practical Sanskrit Dictionary',
+  mw: 'Monier-Williams Sanskrit-English',
+  ap90: 'Apte Practical Sanskrit-English',
+  ddsa: 'Macdonell A Practical Sanskrit',
   cped: 'Concise Pali English Dictionary',
   gra: 'Grassmann Wörterbuch zum Rig Veda',
-  bhs: 'Edgerton Buddhist Hybrid Sanskrit Dictionary',
+  bhs: 'Edgerton Buddhist Hybrid Sanskrit',
+  cae: 'Cappeller Sanskrit-English',
 };
 
 
@@ -113,12 +114,12 @@ const WordDataComponent = ({
                 {longEntry[0]}
               </Title>
 
-              {longEntry[0] !== longEntry[5] && (  // word components si può rimuovere il p outer? 
+              {longEntry[0] !== longEntry[5] &&  (  // word components si può rimuovere il p outer? 
                 <p
                   className={classes.wordCostituentsContainer}
                 
                 >
-                  {longEntry[5].split(/(-|—(?=\p{L}))/u).map((part, index) => {
+                  {(longEntry[5] ? longEntry[5].split(/(-|—(?=\p{L}))/u) : []).map((part, index) => {
                     if (!part.trim()) return part;
                     
                     return (
@@ -168,7 +169,7 @@ const WordDataComponent = ({
                       {displayInflectionTables ? (
                         <IconTableOff size={16} stroke={1.5} />
                       ) : (
-                        <IconBorderAll size={16} stroke={1.5} />
+                        <IconTablePlus size={16} stroke={1.5} />
                       )}
                     </ActionIcon>
                   </Tooltip>
@@ -238,7 +239,7 @@ const WordDataComponent = ({
                 
                 >
                   <div>
-                    {Object.entries(longEntry[6]).map(([dictionaryName, words]) => (
+                    {processedDictionaries.map(([dictionaryName, words]) => (
                       <div key={dictionaryName}>
                         {/* Render dictionary name */}
                         {processedDictionaries.length > 1 && (
@@ -308,7 +309,8 @@ const WordDataComponent = ({
                     classes.wordCostituentsContainerShort} 
                 
                 >
-                  {shortEntry[1].split(/(-|—(?=\p{L}))/u).map((part, index) => {
+
+                  {(shortEntry[1]? shortEntry[1].split(/(-|—(?=\p{L}))/u) : []).map((part, index) => {
                     if (!part.trim()) return part;
                     
                     return (
@@ -341,7 +343,7 @@ const WordDataComponent = ({
                       <div key={wordName}
 
                       style={{
-                        paddingTop: '1.25rem'
+                        paddingTop: '1rem'
                         }}
 
                       >
