@@ -3,6 +3,12 @@
   transition: min-width 0.5s ease; /* Adjust the duration and easing as needed */
   width: 100%;
   position: fixed;
+  overflow-y: auto;
+
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
 
 
  

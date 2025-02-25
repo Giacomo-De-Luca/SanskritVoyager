@@ -83,7 +83,7 @@ export function NavbarSimple({
   return (
 
     <nav className={classes.navbar}
-        style={{ height: 100%, overflowY: 'auto' }}
+
     >
       <div className={classes.navbarMain}>
         {/*<Group className={classes.header} justify="space-between">
