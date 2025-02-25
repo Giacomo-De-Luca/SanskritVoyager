@@ -1,12 +1,17 @@
 .navbar {
-  position: fixed;
+  height: 100%;
+  transition: min-width 0.5s ease; /* Adjust the duration and easing as needed */
   width: 100%;
-  transition: min-width 0.5s ease;
-
-  -webkit-overflow-scrolling: touch; /* iOS inertial scrolling */
+  position: fixed;
 
 
-
+ 
+  @media (max-width: 1000px) {
+    @media (orientation: landscape) {
+      /* Ensure the navbar still fits in landscape mode */
+      overflow-y: auto; /* Allow scrolling if content doesn't fit */
+    }
+  }
 
   padding: var(--mantine-spacing-md);
   display: flex;
