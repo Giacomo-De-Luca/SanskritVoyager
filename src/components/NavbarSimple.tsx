@@ -40,7 +40,6 @@ interface NavbarProps { // Updated Props
   setBookTitle: (value: string | null) => void;
   textType: string;
   setTextType: (value: string) => void;
-  vhActual: number;
 }
 
 export function NavbarSimple({
@@ -60,7 +59,6 @@ export function NavbarSimple({
   setBookTitle,
   textType,
   setTextType,
-  vhActual,
 }: NavbarProps) {
   const [active, setActive] = useState('Billing');
 

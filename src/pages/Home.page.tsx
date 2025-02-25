@@ -324,7 +324,6 @@ export function HomePage() {
         text={text}
         setText={setText}
         setIsNavbarVisible={setIsNavbarVisible}
-        vhActual={vhActual}
 
         
         />
