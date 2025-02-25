@@ -40,6 +40,7 @@ interface NavbarProps { // Updated Props
   setBookTitle: (value: string | null) => void;
   textType: string;
   setTextType: (value: string) => void;
+  vhActual: number;
 }
 
 export function NavbarSimple({
@@ -59,6 +60,7 @@ export function NavbarSimple({
   setBookTitle,
   textType,
   setTextType,
+  vhActual,
 }: NavbarProps) {
   const [active, setActive] = useState('Billing');
 
@@ -80,7 +82,9 @@ export function NavbarSimple({
 
   return (
 
-    <nav className={classes.navbar}>
+    <nav className={classes.navbar}
+        style={{ height: vhActual, overflowY: 'auto' }}
+    >
       <div className={classes.navbarMain}>
         {/*<Group className={classes.header} justify="space-between">
           <Code fw={700}>Sanskrit Reader</Code>

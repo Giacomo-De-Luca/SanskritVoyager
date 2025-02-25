@@ -3,24 +3,10 @@
   width: 100%;
   transition: min-width 0.5s ease;
 
-  @media (max-width: 700px) {
-    /* Make the navbar scrollable on mobile */
-    height: 100vh;       /* Fill the entire viewport height */
-    overflow-y: auto;    /* Allow vertical scrolling */
-    top: 0;
-    left: 0;
-  }
+  -webkit-overflow-scrolling: touch; /* iOS inertial scrolling */
 
-  @media (min-width: 700px) {
-    height: 100%;
-  }
- 
-  @media (max-width: 1000px) {
-    @media (orientation: landscape) {
-      /* Ensure the navbar still fits in landscape mode */
-      overflow-y: auto; /* Allow scrolling if content doesn't fit */
-    }
-  }
+
+
 
   padding: var(--mantine-spacing-md);
   display: flex;
