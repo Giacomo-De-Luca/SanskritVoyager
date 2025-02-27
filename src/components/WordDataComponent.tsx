@@ -158,22 +158,22 @@ const WordDataComponent = ({
                 >
                   <span>{longEntry[1]}</span>
 
-                  <Tooltip label={displayInflectionTables ? "Hide table" : "Show table"}>
-
-                    <ActionIcon
-                      variant="subtle"
-                      size="sm"
-                      onClick={() => setDisplayInflectionTables(!displayInflectionTables)}
-                      className={classes.inflectionTableIcon}
-                    >
-                      {displayInflectionTables ? (
-                        <IconTableOff size={16} stroke={1.5} />
-                      ) : (
-                        <IconTablePlus size={16} stroke={1.5} />
-                      )}
-                    </ActionIcon>
-                  </Tooltip>
-
+                  {longEntry[1] !== "indeclineable" && (
+                    <Tooltip label={displayInflectionTables ? "Hide table" : "Show table"}>
+                      <ActionIcon
+                        variant="subtle"
+                        size="sm"
+                        onClick={() => setDisplayInflectionTables(!displayInflectionTables)}
+                        className={classes.inflectionTableIcon}
+                      >
+                        {displayInflectionTables ? (
+                          <IconTableOff size={16} stroke={1.5} />
+                        ) : (
+                          <IconTablePlus size={16} stroke={1.5} />
+                        )}
+                      </ActionIcon>
+                    </Tooltip>
+                  )}
                   
                 </div>
 
@@ -242,11 +242,13 @@ const WordDataComponent = ({
                     {processedDictionaries.map(([dictionaryName, words]) => (
                       <div key={dictionaryName}>
                         {/* Render dictionary name */}
-                        {processedDictionaries.length > 1 && (
-                            <Text className={classes.dictName}>
-                                {dictionaryLabels[dictionaryName] || dictionaryName}:
-                            </Text>
-                          )}
+                        {(processedDictionaries.length > 1 || 
+                          (!selectedDictionaries.includes(dictionaryName) && 
+                          !(dictionaryName === "mw" && selectedDictionaries.length === 0))) && (
+                          <Text className={classes.dictName}>
+                            {dictionaryLabels[dictionaryName] || dictionaryName}:
+                          </Text>
+                        )}
                         {Object.entries(words).map(([wordName, entries]) => (
                           <div key={wordName}
                           
@@ -332,9 +334,11 @@ const WordDataComponent = ({
                   {Object.entries(shortEntry[2]).map(([dictionaryName, words]) => (
                       <div key={dictionaryName}>
                         {/* Render dictionary name */}
-                        {processedDictionaries.length > 1 && (
+                        {(processedDictionaries.length > 1 || 
+                            (!selectedDictionaries.includes(dictionaryName) && 
+                            !(dictionaryName === "mw" && selectedDictionaries.length === 0))) && (
                             <Text className={classes.dictName}>
-                                {dictionaryLabels[dictionaryName] || dictionaryName}:
+                              {dictionaryLabels[dictionaryName] || dictionaryName}:
                             </Text>
                           )}
 
