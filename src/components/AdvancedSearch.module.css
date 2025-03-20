@@ -1,0 +1,200 @@
+
+
+.pageWrapper {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  overflow-y: auto;
+  margin-top: -5px;
+  margin-left: 0;
+  padding: 0;
+  max-width: 600px;
+  margin-left: auto;  /* Add these two margin properties */
+  margin-right: auto; /* to center the component horizontally */
+}
+
+.optionsContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 0.75rem;
+  margin-top: 50px;
+  background-color: light-dark(var(--mantine-color-lightscale-2), var(--mantine-color-dark-6));
+}
+
+
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .pageWrapper {
+    padding: 0.5rem;
+  }
+  
+  .container {
+    padding: 0.5rem;
+  }
+}
+  
+.title {
+  font-family: 'LibertinusSans', sans-serif;
+  font-weight: 500;
+  color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-2));
+}
+  
+.control {
+  margin-bottom: 0.5rem;
+}
+  
+.inputContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+  
+.fieldLabel {
+  width: 100px;
+  padding-right: 12px;
+  text-align: right;
+}
+  
+.fieldInput {
+  flex: 1;
+}
+  
+/* Segment control styling */
+.indicator {
+  box-shadow: none;
+  border: 1px solid light-dark(var(--mantine-color-gray-4), var(--mantine-color-gray-6));
+  filter: none;
+  -webkit-box-shadow: none;
+}
+  
+.root {
+  background-color: light-dark(var(--mantine-color-lightscale-2), var(--mantine-color-dark-6));
+  margin-bottom: 0.75rem;
+}
+
+.resultsContainer {
+  width: 100%;
+  margin-top: 1.5rem;
+  overflow-y: auto;
+}
+
+.loaderContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem 0;
+}
+
+.errorContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 0;
+}
+
+.resultItem {
+  margin-bottom: 0.5rem;
+  transition: all 0.2s ease;
+}
+
+.resultItem:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.segmentDetail {
+  border-radius: var(--mantine-radius-sm);
+  background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-dark-7));
+}
+
+.sanskritText {
+  font-family: 'Gentium Plus', 'Noto Serif', serif;
+  line-height: 1.6;
+  white-space: pre-wrap;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .inputContainer {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .fieldLabel {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 0.25rem;
+  }
+
+  .fieldInput {
+    width: 100%;
+  }
+}
+
+
+.searchButton {
+  color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-dark-1));
+  background-color: light-dark(var(--mantine-color-lightscale-2), var(--mantine-color-dark-5));
+  border: 1px solid light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-5)); /* Fixed syntax */
+  width: 50%;
+  align-self: center;
+  transform: all 0.2s ease;
+  font-size: 13px; /* Set the desired font size */
+
+
+}
+
+.searchButton:hover {
+  color: light-dark(var(--mantine-color-orange-4), var(--mantine-color-orange-3)); /* Adjust the colors as needed */
+  background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-dark-4));
+  border-color: light-dark(var(--mantine-color-orange-4), var(--mantine-color-orange-3));
+  resize: 1.1;
+}
+
+.errorText {
+  align-items: center;
+  color: light-dark(var(--mantine-color-red-7), var(--mantine-color-red-6));
+}
+
+.settingsAccordionPanel {
+  background-color: light-dark(var(--mantine-color-lightscale-2), var(--mantine-color-dark-6));
+  
+
+}
+.settingsAccordionControl {
+  background-color: light-dark(var(--mantine-color-lightscale-2), var(--mantine-color-dark-6));
+  font-weight: 400;
+
+}
+
+.mainSearchInput {
+  background-color: light-dark(var(--mantine-color-lightscale-0), var(--mantine-color-dark-5));
+  border-color: light-dark(var(--mantine-color-lightscale-6), var(--mantine-color-dark-3));
+}
+
+.accordionItem[data-active="true"] .accordionHeader {
+  background-color: light-dark(var(--mantine-color-lightscale-1), var(--mantine-color-dark-5));
+}
+
+/* In your CSS module file */
+
+.sanskritText mark {
+  color: light-dark(var(--mantine-color-orange-6), var(--mantine-color-grape-3)); /* Fixed typo here */
+  background-color: transparent;
+  border-radius: 2px;
+  padding: 0 2px;
+  margin: 0 -2px;
+  font-weight: 500;
+}
+
+/* Optional: Add hover effect */
+.sanskritText mark:hover {
+  color: light-dark(var(--mantine-color-grape-5), var(--mantine-color-grape-2)); /* Fixed typo here */
+  text-decoration: underline;
+  text-underline-offset: 6px;
+  background-color: transparent;
+}

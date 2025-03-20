@@ -1,0 +1,85 @@
+import { BookText, TextElement } from '../types/bookTypes';
+
+/**
+ * Interface for flattened text elements
+ */
+export interface FlatTextElement {
+  id: string;
+  element: TextElement;
+  parentClasses: string;
+  level: number;
+  estimatedHeight?: number;
+}
+
+/**
+ * Utility class for flattening hierarchical BookText structures
+ */
+export class BookTextFlattener {
+  /**
+   * Convert a hierarchical BookText structure into a flat array of elements
+   * 
+   * @param bookText The hierarchical book text structure
+   * @param classProvider Function to determine CSS classes for an element
+   * @returns Array of flattened text elements
+   */
+  public static flatten(
+    bookText: BookText,
+    classProvider: (element: TextElement, parentClasses?: string) => string
+  ): FlatTextElement[] {
+    const flattened: FlatTextElement[] = [];
+    
+    // Skip if there's no body
+    if (!bookText.body) {
+      return flattened;
+    }
+    
+    // Process each top-level element
+    bookText.body.forEach(element => {
+      this.flattenElement(element, flattened, 0, '', classProvider);
+    });
+    
+    return flattened;
+  }
+  
+  /**
+   * Recursively flatten a single TextElement and its children
+   */
+  private static flattenElement(
+    element: TextElement,
+    output: FlatTextElement[],
+    level: number,
+    parentClasses: string,
+    classProvider: (element: TextElement, parentClasses?: string) => string
+  ): void {
+    // Calculate element classes
+    const elementClasses = classProvider(element, parentClasses);
+    
+    // Add this element if it has text content
+    if (element.text || element.translated_text) {
+      output.push({
+        id: `element-${output.length}`,
+        element,
+        parentClasses: elementClasses,
+        level
+      });
+    }
+    
+    // Process children if any
+    if (element.children?.length) {
+      element.children.forEach(child => {
+        // Ensure type is propagated from parent to child if present
+        const childWithType = {
+          ...child,
+          attributes: {
+            ...child.attributes,
+            type: child.attributes?.type || element.attributes?.type
+          }
+        };
+        
+        this.flattenElement(childWithType, output, level + 1, elementClasses, classProvider);
+      });
+    }
+  }
+}
+
+export default BookTextFlattener;

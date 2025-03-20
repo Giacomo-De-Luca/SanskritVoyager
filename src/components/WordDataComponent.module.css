@@ -123,6 +123,7 @@
 }
 
 .grammarSection {
+    font-size: 1rem;
     padding-top: 1rem;
     border-top: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
     padding-bottom: 1rem;

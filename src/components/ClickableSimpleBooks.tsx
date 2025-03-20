@@ -1,33 +1,18 @@
-import React, {  useState, useEffect, useRef } from 'react';
-import { createPortal } from 'react-dom';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import WordInfoPortal from './WordInfoPortal';
-
 import {
   fetchWordData,
   fetchMultidictData,
   transliterateText,
   handleTranslate,
 } from '../pages/Api';
-import {
-  Select,
-  MultiSelect,
-  Grid,
-  Textarea,
-  Button,
-  Loader,
-  Text,
-  Accordion,
-  Title
-  
-} from '@mantine/core';
-import { useScrollIntoView } from '@mantine/hooks';
+import { Text } from '@mantine/core';
 import classes from './ClickableSimpleBooks.module.css';
-import { BookText, TextElement, Metadata }  from '../types/bookTypes';
+import { BookText, TextElement, Metadata } from '../types/bookTypes';
 import MetadataComponent from './Metadata';
-import {WordEntry, GroupedEntries} from '../types/wordTypes'
-import  WordInfo  from './WordInfo';
+import { WordEntry } from '../types/wordTypes';
 import { safeSplitText } from './textUtils';
-
+import HighlightText from './HighlightText';
 
 interface ClickableSimpleBooksProps {
   bookText: BookText;
@@ -43,8 +28,11 @@ interface ClickableSimpleBooksProps {
   setHoveredWord: React.Dispatch<React.SetStateAction<string | null>>;
   textType: string;
   isLoadingWordData: boolean;
+  targetSegmentNumber: number | null;
+  setTargetSegmentNumber: React.Dispatch<React.SetStateAction<number | null>>;
+  query: string;
+  matchedBookSegments: number[];
 }
-
 
 const ClickableSimpleBooks = ({
   bookText,
@@ -60,64 +48,255 @@ const ClickableSimpleBooks = ({
   hoveredWord,
   setHoveredWord,
   isLoadingWordData,
+  targetSegmentNumber,
+  setTargetSegmentNumber,
+  query,
+  matchedBookSegments,
 }: ClickableSimpleBooksProps) => {
   const clickedWordInfoRef = useRef<HTMLDivElement>(null);
   const [clickedElement, setClickedElement] = useState<HTMLElement | null>(null);
   const [previousElement, setPreviousElement] = useState<HTMLElement | null>(null);
+  
+  // Create a Map to store refs to segment elements
+  const segmentRefs = useRef<Map<number, HTMLDivElement>>(new Map());
+  
+  // Reference to the main container element
+  const containerRef = useRef<HTMLDivElement>(null);
+  
+  // State for processed marker positions
+  const [processedMatches, setProcessedMatches] = useState<Array<{ 
+    segmentNumber: number; 
+    positionPercent: number; 
+    isActive: boolean; 
+  }>>([]);
+  
+  const [initialRenderComplete, setInitialRenderComplete] = useState(false);
+
+  // Clear the ref map when the book changes
+  useEffect(() => {
+    segmentRefs.current = new Map();
+    setInitialRenderComplete(false);
+    setProcessedMatches([]);
+    console.log("Segment refs map reset due to book change");
+  }, [bookText]);
+
+  // Effect to track when initial render is complete
+  useEffect(() => {
+    if (bookText.body?.length > 0) {
+      const timer = setTimeout(() => {
+        setInitialRenderComplete(true);
+        console.log("Initial render completed, calculating markers...");
+        
+        // If we have matched segments, calculate their positions
+        if (matchedBookSegments.length > 0) {
+          calculateMarkerPositions();
+        }
+      }, 500); // Allow time for rendering to complete
+      
+      return () => clearTimeout(timer);
+    }
+  }, [bookText]);
+
+  // Function to calculate marker positions
+  const calculateMarkerPositions = useCallback(() => {
+    if (!containerRef.current) return;
+    
+    const container = containerRef.current;
+    const totalHeight = container.scrollHeight;
+    
+    // Only calculate vertical positions as percentages of total height
+    const segmentPositions = matchedBookSegments
+      .map(segmentNumber => {
+        const element = segmentRefs.current.get(segmentNumber);
+        if (!element) return null;
+        
+        // Simple percentage calculation
+        const positionPercent = (element.offsetTop / totalHeight) * 100;
+        
+        return {
+          segmentNumber,
+          positionPercent: Math.max(0, Math.min(100, positionPercent)),
+          isActive: segmentNumber === targetSegmentNumber
+        };
+      })
+      .filter(Boolean);
+    
+    console.log(`Calculated ${segmentPositions.length} marker positions`);
+    setProcessedMatches(segmentPositions);
+  }, [matchedBookSegments, targetSegmentNumber]);
+
+  // Calculate marker positions whenever matched segments change
+  useEffect(() => {
+    if (matchedBookSegments.length > 0 && initialRenderComplete) {
+      const timeoutId = setTimeout(() => {
+        calculateMarkerPositions();
+      }, 100);
+      
+      return () => clearTimeout(timeoutId);
+    }
+  }, [matchedBookSegments, initialRenderComplete, calculateMarkerPositions]);
+  
+  // When target segment changes, only update active state instead of full recalculation
+  useEffect(() => {
+    if (processedMatches.length > 0) {
+      setProcessedMatches(prev => 
+        prev.map(match => ({
+          ...match,
+          isActive: match.segmentNumber === targetSegmentNumber
+        }))
+      );
+    }
+  }, [targetSegmentNumber]);
+
+  // Scroll to target segment using refs
+  useEffect(() => {
+    if (targetSegmentNumber !== null && bookText.body) {
+      console.log(`Scrolling to segment ${targetSegmentNumber}`);
+      
+      // Wait for refs to be populated
+      const timeoutId = setTimeout(() => {
+        // Try to get the element from our refs map
+        const targetElement = segmentRefs.current.get(targetSegmentNumber);
+        
+        if (targetElement) {
+          // Scroll to the element
+          targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          
+          // Add highlight class for visual focus
+          targetElement.classList.add(classes.highlightedSegment);
+          
+          // Remove highlight after animation completes
+          setTimeout(() => {
+            targetElement.classList.remove(classes.highlightedSegment);
+          }, 3000);
+        } else {
+          console.warn(`No ref found for segment ${targetSegmentNumber}`);
+          
+          // Fallback to DOM query
+          const domElement = document.getElementById(`segment-${targetSegmentNumber}`) || 
+                            document.querySelector(`[data-segment-number="${targetSegmentNumber}"]`);
+          
+          if (domElement) {
+            domElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          }
+        }
+      }, 100);
+      
+      return () => clearTimeout(timeoutId);
+    }
+  }, [bookText, targetSegmentNumber]);
+
+  const [containerRightEdge, setContainerRightEdge] = useState(0);
+  
+  // Function to calculate and update the right edge position
+  const updateRightEdgePosition = useCallback(() => {
+    if (containerRef.current) {
+      const rect = containerRef.current.getBoundingClientRect();
+      // Calculate distance from right edge of viewport to right edge of container
+      const rightEdgePosition = window.innerWidth - rect.right - 16;
+      setContainerRightEdge(rightEdgePosition);
+    }
+  }, []);
+  
+  // Update position on mount, resize, and when dependencies change
+  useEffect(() => {
+    // Initial calculation
+    updateRightEdgePosition();
+    
+    // Create resize observer
+    const resizeObserver = new ResizeObserver(() => {
+      updateRightEdgePosition();
+    });
+    
+    // Observe the container
+    if (containerRef.current) {
+      resizeObserver.observe(containerRef.current);
+    }
+    
+    // Add window resize listener
+    window.addEventListener('resize', updateRightEdgePosition);
+    
+    // Cleanup
+    return () => {
+      resizeObserver.disconnect();
+      window.removeEventListener('resize', updateRightEdgePosition);
+    };
+  }, [updateRightEdgePosition]);
 
   const renderTextElement = (element: TextElement): React.ReactNode => {
+    // Determine element classes for styling
     const elementClasses = [
       classes[element.tag] || '',
       element.attributes?.rend === 'bold' ? classes.bold : '',
       element.attributes?.rend === 'it' ? classes.italic : '',
       element.attributes?.type ? classes[element.attributes.type] : '',
-
     ].filter(Boolean).join(' ');
-  
+    
+    // Extract segment number from different possible locations
+    const segmentNumber = element.segment_number !== undefined ? element.segment_number : 
+                        (element.attributes?.id ? 
+                          parseInt(element.attributes.id.replace('segment-', '')) : 
+                          null);
+    
+    // Add special classes for target or matched segments
+    const isTargetSegment = segmentNumber !== null && 
+                           segmentNumber !== undefined && 
+                           segmentNumber === targetSegmentNumber;
+    
+    const isMatchedSegment = segmentNumber !== null && 
+                             segmentNumber !== undefined && 
+                             matchedBookSegments.includes(segmentNumber);
+
+    // Ref callback function to store reference to this segment element
+    const setSegmentRef = (el: HTMLDivElement | null) => {
+      if (el && segmentNumber !== null && segmentNumber !== undefined) {
+        segmentRefs.current.set(segmentNumber, el);
+      }
+    };
+    
+    // Helper to determine if text is just separators
     const isSeparatorOnlyLine = (text: string) => {
       const trimmed = text.trim();
       return trimmed === '||' || trimmed === '//' || trimmed === '*||*' || trimmed === '*//*';
     };
 
     const renderWords = (text: string, isTranslation: boolean = false) => {
-      // Skip rendering if it's just a separator line // should be changed in the future
+      // Skip rendering if it's just a separator line
       if (isSeparatorOnlyLine(text)) {
         return null;
       }
 
-      // Only apply transformations to non-translated text
+      // Text transformations
       const transformedText = isTranslation 
-        ? text          // not sure if this is correct 
+        ? text 
         : text
-            .replace(/([A-Za-z]+)_(\d+\.\d+)\s/g, '$2 ') // Modified to use numbered groups
+            .replace(/([A-Za-z]+)_(\d+\.\d+)\s/g, '$2 ')
             .replace(/([A-Za-z]+)_(\d+)/g, '$2 ')
             .replace(/\//g, '|')
             .replace(/\.(?!\d)/g, '|')
-            .replace(/\*/g, '');    // if line stars with * it should be giving : commentary class 
+            .replace(/\*/g, '');
     
-      const segments = safeSplitText(transformedText);      // split text in segment using pipes | and double pipes as guideline 
+      const segments = safeSplitText(transformedText);
     
       return segments.map((segment, segmentIndex) => {
-        if (isTranslation) {                                     // make translation <s> words clickable
-          const parts = segment.split(/(<s>.*?<\/s>)/);         //makes the Sanskrit words clickable
+        if (isTranslation) {
+          const parts = segment.split(/(<s>.*?<\/s>)/);
     
           return ( 
             <span key={segmentIndex} className={classes.textSegment}>           
               <span className={classes.textContent}>
-                {parts.map((part, partIndex) => {             // map through the parts of the segment, match <s> tags and make them clickable
+                {parts.map((part, partIndex) => {
                   if (part.startsWith('<s>') && part.endsWith('</s>')) {
                     const sanskritWord = part.replace(/<\/?s>/g, '').trim();
                     return (
                       <span
                         key={`${segmentIndex}-${partIndex}`}
                         onClick={async (e) => {
-                          
                           setClickedElement(e.currentTarget);
                           setSelectedWord(sanskritWord.toLowerCase());
                           setClickedWord(sanskritWord);
-                         
                         }}
-                        onMouseEnter={() => setHoveredWord(sanskritWord)}    // should be replaced by css classes on hover
+                        onMouseEnter={() => setHoveredWord(sanskritWord)}
                         onMouseLeave={() => setHoveredWord(null)}
                         className={`
                           ${classes.word}
@@ -130,18 +309,17 @@ const ClickableSimpleBooks = ({
                       </span>
                     );
                   }
-                  return <span key={`${segmentIndex}-${partIndex}`}>{part}</span>; // when the part is not a Sanskrit word
+                  return <span key={`${segmentIndex}-${partIndex}`}>{part}</span>;
                 })}
-                {segmentIndex < segments.length - 1 && (   // add a pipe at the end of the segment to mark end of sentence
+                {segmentIndex < segments.length - 1 && (
                   <span className={classes.pipeMark}>|</span>
                 )}   
               </span> 
-              {segmentIndex < segments.length - 1 && <br />}   
-             
+              {segmentIndex < segments.length - 1 && <br />}
             </span>
           );
-        } else {            // if it's not a translation but a text node
-          const words = segment.split(/\s+|\+/);    // just split on spaces 
+        } else {
+          const words = segment.split(/\s+|\+/);
     
           return (
             <span key={segmentIndex} className={classes.textSegment}>
@@ -151,14 +329,12 @@ const ClickableSimpleBooks = ({
                   if (!trimmedWord) return null;
                   
                   return (
-                    <span   // this should be a separate component
+                    <span
                       key={`${segmentIndex}-${wordIndex}`}
                       onClick={async (e) => {
-
                         setClickedElement(e.currentTarget);
                         setSelectedWord(trimmedWord);
                         setClickedWord(trimmedWord);
-
                       }}
                       onMouseEnter={() => setHoveredWord(trimmedWord)}
                       onMouseLeave={() => setHoveredWord(null)}
@@ -177,62 +353,77 @@ const ClickableSimpleBooks = ({
                 )}
               </span>
               {segmentIndex < segments.length - 1 && <br />}
-            
-          </span>
+            </span>
           );
         }
       });
-    }; // here ends render words, which should be a separate component
+    };
   
-    return ( //the following line is broken, it renders 
-    <div className={`${classes.paragraphContainer} ${elementClasses}`}>
-      {element.text && (
-        <div className={`${classes.lineContainer} ${
-          textType === 'or' ? classes.originalOnly : 
-          textType === 'tran' ? classes.translationOnly : ''
-        }`}>
-          {/* Existing text rendering code stays the same */}
-          {(textType === 'both' || textType === 'or') && (
-            <div className={classes.originalText}>
-              {renderWords(element.text)}
-            </div>
-          )}
-          
-          {element.translated_text && (textType === 'both' || textType === 'tran') && (
-            <div className={`${classes.translatedText} ${
-              textType === 'tran' ? classes.translationOnly : ''
-            }`}>
-              {renderWords(element.translated_text, true)}
-            </div>
-          )}
-        </div>
-      )}
+    return (
+      <div 
+        className={`
+          ${classes.paragraphContainer} 
+          ${elementClasses} 
+          ${isTargetSegment ? classes.highlightedSegment : ''}
+          ${isMatchedSegment ? classes.matchedSegment : ''}
+          `
+        }
+        data-segment-number={segmentNumber}
+        ref={setSegmentRef}
+        id={segmentNumber !== null ? `segment-${segmentNumber}` : undefined}
+      >
+        {element.text && (
+          <div className={`${classes.lineContainer} ${
+            textType === 'or' ? classes.originalOnly : 
+            textType === 'tran' ? classes.translationOnly : ''
+          }`}>
+            {(textType === 'both' || textType === 'or') && (
+              <div className={classes.originalText}>
+                {isTargetSegment || isMatchedSegment ?  (
+                  <HighlightText text={element.text} query={query} />
+                ) : (
+                  renderWords(element.text)
+                )}
+              </div>
+            )}
+            
+            {element.translated_text && (textType === 'both' || textType === 'tran') && (
+              <div className={`${classes.translatedText} ${
+                textType === 'tran' ? classes.translationOnly : ''
+              }`}>
+                {isTargetSegment || isMatchedSegment ? (
+                  <HighlightText text={element.translated_text} query={query} />
+                ) : (
+                  renderWords(element.translated_text, true)
+                )}
+              </div>
+            )}
+          </div>
+        )}
 
-      {element.children?.map((child, index) => {
-        const childWithType = {
-          ...child,
-          attributes: {
-            ...child.attributes,
-            type: child.attributes?.type || element.attributes?.type
-          }
-        };
-        return (
-          <React.Fragment key={index}>
-            {renderTextElement(childWithType)}
-          </React.Fragment>
-        );
-      })}
-    </div>
-  );
-};
-
-
+        {element.children?.map((child, index) => {
+          const childWithType = {
+            ...child,
+            attributes: {
+              ...child.attributes,
+              type: child.attributes?.type || element.attributes?.type
+            }
+          };
+          return (
+            <React.Fragment key={index}>
+              {renderTextElement(childWithType)}
+            </React.Fragment>
+          );
+        })}
+      </div>
+    );
+  };
 
   return (
-    <div className={classes.bookContainer}>
+    <div className={classes.bookContainer} ref={containerRef} style={{ position: 'relative' }}>
       {bookText.metadata && (  
-      <MetadataComponent metadata={bookText.metadata} 
-      />)}
+        <MetadataComponent metadata={bookText.metadata} />
+      )}
       <div className={`${classes.textContent} ${
         textType === 'or' ? classes.originalOnly :
         textType === 'tran' ? classes.translationOnly : ''
@@ -243,6 +434,25 @@ const ClickableSimpleBooks = ({
           </React.Fragment>
         ))}
       </div>
+
+      {/* Simplified marker container directly in component */}
+      {processedMatches.length > 0 && (
+        <div className={classes.markerContainer}
+        style = {{ right: `${containerRightEdge}px` }}>
+          {processedMatches.map(segment => (
+            <div
+              key={segment.segmentNumber}
+              onClick={() => setTargetSegmentNumber(segment.segmentNumber)}
+              className={`${classes.marker} ${segment.isActive ? classes.activeMarker : ''}`}
+              style={{ top: `${segment.positionPercent}%`,
+               
+              }}
+              title={`Go to segment ${segment.segmentNumber}`}
+            />
+          ))}
+        </div>
+      )}
+      
       <WordInfoPortal
         clickedElement={clickedElement}
         previousElement={previousElement}
@@ -256,3 +466,4 @@ const ClickableSimpleBooks = ({
 };
 
 export default ClickableSimpleBooks;
+

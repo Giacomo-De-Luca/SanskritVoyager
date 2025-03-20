@@ -15,20 +15,25 @@
   gap: 10px; /* Adjust the gap as needed */
 }
 
+
+
+.search {
+  min-width: 250px;
+}
+
 @media (max-width: 600px) {
   .header-group {
     flex-direction: column;
     align-items: flex-start;
+  }
+  .search {
+    min-width: 180px;
   }
 
   .header-group img {
     width: 20px; /* Adjust the size for mobile */
     height: 20px; /* Adjust the size for mobile */
   }
-}
-
-.search {
-  min-width: 180px;
 }
 
 

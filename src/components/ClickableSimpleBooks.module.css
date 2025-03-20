@@ -138,3 +138,57 @@
 
 }
 
+
+mark {
+  color: light-dark(var(--mantine-color-lightscale-9), var(--mantine-color-grape-4)); 
+  text-underline-offset: 6px;
+  background-color: transparent; /* Ensure the background is transparent */
+}
+
+mark:hover {
+
+  color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-grape-2));
+}
+
+
+.bookContainer {
+  height: 100%;
+  padding: 0rem;
+  position: relative; /* Ensure relative positioning for the absolute overlay */
+}
+
+
+.markerContainer {
+  position: fixed;
+  top: 56px;
+  height: calc(100vh - 56px);
+  width: 16px; /* Width for the marker area */
+  pointer-events: none; /* Let scrollbar events pass through */
+  z-index: 999; /* High z-index as requested */
+
+}
+
+.marker {
+  position: absolute;
+  right: 4px;
+  width: 8px;
+  height: 12px;
+  border-radius: 2px;
+  background-color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-gray-4));
+  transform: translateY(-50%);
+  pointer-events: auto; /* Make markers clickable */
+  cursor: pointer;
+  opacity: 0.5;
+  transition: all 0.2s ease;
+}
+
+.marker:hover {
+  opacity: 0.8;
+  transform: translateY(-50%) scale(1.1);
+}
+
+.activeMarker {
+  height: 14px;
+  background-color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-gray-1));
+  opacity: 0.7;
+}

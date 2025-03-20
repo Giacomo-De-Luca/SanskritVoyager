@@ -1,5 +1,5 @@
 import { useState, ReactNode } from 'react';
-import { Group, Code, Select, Stack, Textarea, Button } from '@mantine/core';
+import { Group, Code, Select, Stack, Textarea, Button, } from '@mantine/core';
 import {
   IconBellRinging,
   IconFingerprint,
@@ -11,6 +11,7 @@ import {
   IconSwitchHorizontal,
   IconLogout,
   IconVocabularyOff,
+  IconSettingsSearch,
 } from '@tabler/icons-react';
 import classes from './NavbarSimple.module.css'; // You might need to adjust the CSS import
 
@@ -19,9 +20,7 @@ import DictionarySelectComponent from './DictionarySelect';
 import BookSelect from './BookSelect';
 import TranslationControl from './TranslationControl';
 
-const data = [
-  { link: '', label: 'Other Settings', icon: IconSettings },
-];
+
 
 interface NavbarProps { // Updated Props
   isMobile: boolean | undefined;
@@ -40,6 +39,11 @@ interface NavbarProps { // Updated Props
   setBookTitle: (value: string | null) => void;
   textType: string;
   setTextType: (value: string) => void;
+  handleAdvancedSearch: {
+    open: () => void;
+    close: () => void;
+    toggle: () => void;
+  }
 }
 
 export function NavbarSimple({
@@ -59,24 +63,11 @@ export function NavbarSimple({
   setBookTitle,
   textType,
   setTextType,
+  handleAdvancedSearch,
 }: NavbarProps) {
   const [active, setActive] = useState('Billing');
 
-  const links = data.map((item) => (
-    <a
-      className={classes.link}
-      data-active={item.label === active || undefined}
-      href={item.link}
-      key={item.label}
-      onClick={(event) => {
-        event.preventDefault();
-        setActive(item.label);
-      }}
-    >
-      <item.icon className={classes.linkIcon} stroke={1.5} />
-      <span>{item.label}</span>
-    </a>
-  ));
+ 
 
   return (
 
@@ -163,22 +154,37 @@ export function NavbarSimple({
 
         <Button
           className={classes.readingButton}
-          leftSection={<IconVocabularyOff size={14} />}
+          leftSection={<IconVocabularyOff   size={14} />}
           onClick={() => setIsNavbarVisible(false)}
           loaderProps={{ type: 'dots' }}
           style={{
             width: '100%',
           }}
         >
-          {'Start Reading'}
+          Start Reading
         </Button>
 
-        {links} {/* Links from the original NavbarSimple */}
+       
+
+        <Button 
+          className={classes.advancedSearchButton}
+          fullWidth 
+          mt="sm"
+          leftSection={<IconSettingsSearch className={classes.advancedSearchIcon} size={18} stroke={1.5}/>} 
+          onClick={() => handleAdvancedSearch.toggle()}
+          justify='left'
+          
+          >
+          Advanced Search
+        </Button>
+
+
       </div>
 
     </nav>
-    
   );
 }
 
 export default NavbarSimple; 
+
+
