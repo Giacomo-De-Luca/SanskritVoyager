@@ -171,7 +171,10 @@ export function NavbarSimple({
           fullWidth 
           mt="sm"
           leftSection={<IconSettingsSearch className={classes.advancedSearchIcon} size={18} stroke={1.5}/>} 
-          onClick={() => handleAdvancedSearch.toggle()}
+          onClick={() => {
+            handleAdvancedSearch.toggle();
+            setIsNavbarVisible(false);
+          }}
           justify='left'
           
           >

@@ -99,17 +99,24 @@
 .resultItem {
   margin-bottom: 0.5rem;
   transition: all 0.2s ease;
+  background-color: light-dark(var(--mantine-color-lightscale-2), var(--mantine-color-dark-6));
 }
 
 .resultItem:hover {
   transform: translateY(-1px);
-  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
 }
 
 .segmentDetail {
   border-radius: var(--mantine-radius-sm);
-  background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-dark-7));
+  background-color: light-dark(var(--mantine-color-lightscale-1), var(--mantine-color-dark-5));
+  border: none;
 }
+.segmentDetail:hover {
+  background-color: light-dark(var(--mantine-color-lightscale-0), var(--mantine-color-dark-4));
+  border: none;
+}
+
+
 
 .sanskritText {
   font-family: 'Gentium Plus', 'Noto Serif', serif;
@@ -144,14 +151,30 @@
   align-self: center;
   transform: all 0.2s ease;
   font-size: 13px; /* Set the desired font size */
-
-
 }
 
-.searchButton:hover {
-  color: light-dark(var(--mantine-color-orange-4), var(--mantine-color-orange-3)); /* Adjust the colors as needed */
+
+.littleSearchButton {
+  color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-dark-1));
+  background-color: light-dark(var(--mantine-color-lightscale-2), var(--mantine-color-dark-5));
+  border: 1px solid light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-5)); /* Fixed syntax */
+  align-self: center;
+  transform: all 0.2s ease;
+  font-size: 13px; /* Set the desired font size */
+}
+
+.littleSearchButton:hover {
+  color: light-dark(var(--mantine-color-orange-4), var(--mantine-color-gray-2)); /* Adjust the colors as needed */
   background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-dark-4));
-  border-color: light-dark(var(--mantine-color-orange-4), var(--mantine-color-orange-3));
+  border-color: light-dark(var(--mantine-color-orange-4), var(--mantine-color-dark-1));
+  resize: 1.1;
+}
+
+
+.searchButton:hover {
+  color: light-dark(var(--mantine-color-orange-4), var(--mantine-color-gray-2)); /* Adjust the colors as needed */
+  background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-dark-4));
+  border-color: light-dark(var(--mantine-color-orange-4), var(--mantine-color-dark-1));
   resize: 1.1;
 }
 
@@ -198,3 +221,75 @@
   text-underline-offset: 6px;
   background-color: transparent;
 }
+
+
+.segmentCard {
+
+  background-color: light-dark(var(--mantine-color-lightscale-2), var(--mantine-color-dark-6));
+}
+
+.segmentCard:hover {
+  background-color: light-dark(var(--mantine-color-lightscale-1), var(--mantine-color-dark-5));
+}
+
+.bookIcon {
+
+  color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-gray-3)); 
+
+  transition: all 0.2s ease;
+  margin-right: 1rem;
+
+
+}
+
+.bookIcon:hover {
+  background-color: light-dark(var(--mantine-color-lightscale-1), var(--mantine-color-dark-4));
+  color: light-dark(var(--mantine-color-orange-5), var(--mantine-color-gray-2));
+  scale: 1.1;
+}
+
+
+.bookIcon:active {
+  /* Briefly change the background color NOT Working*/
+  background-color: light-dark(
+    var(--mantine-color-orange-3),
+    var(--mantine-color-dark-2)
+  );
+  
+  /* Optional: add a subtle transform to make it feel more interactive */
+  transform: scale(0.95);
+}
+
+
+
+.resultAccordionItem {
+  background-color: light-dark(var(--mantine-color-lightscale-2), var(--mantine-color-dark-6));
+}
+
+
+.resultAccordionControl:hover {
+  background-color: light-dark(var(--mantine-color-lightscale-1), var(--mantine-color-dark-5));
+}
+
+.titleText {
+  font-weight: 500;
+  font-size: 1.1rem;
+  max-width: 70%; 
+  overflow: hidden; 
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-right: 16px;
+}
+
+.bookCollection { 
+
+  color: teal !important;
+}
+
+
+
+
+.segmentNumber {
+  color: light-dark(var(--mantine-color-palette-2), var(--mantine-color-teal-4)); /* Distinctive color for segment numbers */
+}
+

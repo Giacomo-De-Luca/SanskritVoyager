@@ -246,7 +246,7 @@
     margin: 0;
     padding: 0;
     right: 15px;
-    color: light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-5)); 
+    color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-gray-4)); 
 
 
   }
@@ -261,8 +261,8 @@
   .inflectionTableIcon:active {
     /* Briefly change the background color NOT Working*/
     background-color: light-dark(
-      var(--mantine-color-red-3),
-      var(--mantine-color-red-4)
+      var(--mantine-color-orange-3),
+      var(--mantine-color-orange-4)
     );
     
     /* Optional: add a subtle transform to make it feel more interactive */

@@ -75,6 +75,7 @@ export interface SegmentResult {
   highlighted_text: string;
   book_title?: string;
   title?: string;
+  author?: string;
   rank: number;
 }
 
