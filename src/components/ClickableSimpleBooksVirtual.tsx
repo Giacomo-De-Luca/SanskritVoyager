@@ -7,7 +7,7 @@ import {
   fetchMultidictData,
   transliterateText,
   handleTranslate,
-} from '../pages/Api';
+} from '../utils/Api';
 import {
   Select,
   MultiSelect,

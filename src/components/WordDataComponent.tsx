@@ -1,5 +1,5 @@
 import InflectionTable from './InflectionTable';
-import { fetchWordData } from '../pages/Api';
+import { fetchWordData } from '../utils/Api';
 import { useState, useEffect } from 'react';
 import DictionaryEntry from './DictionaryEntry';
 import { Text, Divider, Title, Tooltip, ActionIcon } from '@mantine/core';

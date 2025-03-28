@@ -5,7 +5,7 @@ import { FileInput } from '@mantine/core';
 import { ComboboxItem, Container, lighten, darken, ScrollArea } from '@mantine/core';
 import { useDisclosure, useDebouncedState, useMediaQuery } from '@mantine/hooks';
 import WordDataComponent from '@/components/WordDataComponent';
-import { fetchWordData, fetchMultidictData, transliterateText, handleTranslate } from './Api';
+import { fetchWordData, fetchMultidictData, transliterateText, handleTranslate } from '../utils/Api';
 import { HeaderSearch } from '@/components/HeaderSearch';
 import { NavbarSimple } from '@/components/NavbarSimple';
 import { IconVocabularyOff, IconChevronUp, IconChevronDown, IconChevronsRight, IconChevronRight } from '@tabler/icons-react';
