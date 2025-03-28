@@ -2,7 +2,7 @@
 import { BookText, TextElement } from '../types/bookTypes';
 
 // Base URL for the API
-const API_BASE_URL = 'http://localhost:3000/api';
+const API_BASE_URL = 'http://api.yogasutratrees.com/api';
 
 // Function to handle API errors
 const handleApiError = (response: Response) => {

@@ -293,3 +293,13 @@
   color: light-dark(var(--mantine-color-palette-2), var(--mantine-color-teal-4)); /* Distinctive color for segment numbers */
 }
 
+.bookSegment {
+
+  margin-right: 3px;
+
+
+}
+
+.result:first-child {
+  margin-top: 10px;
+}

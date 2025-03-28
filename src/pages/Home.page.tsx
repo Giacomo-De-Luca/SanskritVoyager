@@ -21,7 +21,7 @@ import { BookText, TextElement } from '../types/bookTypes';
 import TranslationControl from '@/components/TranslationControl';
 import LoadingSkeleton from '@/components/LoadingSkeleton';
 import AdvancedSearch from '@/components/AdvancedSearch';
-import { SearchResult } from '@/types/bookTypes';
+import { SearchResult } from '@/types/searchTypes';
 
 import { fetchBookText } from '../utils/apiService';
 
@@ -34,15 +34,7 @@ interface Translation {
 
 export function HomePage() {
 
-  
-  
-  // ----- Resize handle state and refs -----
-  const resizeHandleRef = useRef(null);
-  const [isDragging, setIsDragging] = useState(false);
-  const [startY, setStartY] = useState(0);
-  const [startHeight, setStartHeight] = useState(0);
-  const [customHeight, setCustomHeight] = useState<number | null>(null);
-  
+    
   // ----- General state -----
   const [text, setText] = useState('');
   const [scheme, setScheme] = useState<ComboboxItem>({ value: 'IAST', label: 'IAST' });
@@ -80,7 +72,6 @@ export function HomePage() {
   // ----- Constants -----
   const headerHeight = 56;
   const availableHeight = viewportHeight - headerHeight;
-  const snapPoints = [0.3, 0.5, 0.75];
 
   const [isLoadingBook, setIsLoadingBook] = useState(false);
 
@@ -90,114 +81,6 @@ export function HomePage() {
   const [query, setQuery] = useState<string>('');
   const [matchedBookSegments, setMatchedBookSegments] = useState<number[]>([]);
   
-
-  
-
-
-
-  // handler for resizable touch, should be a separate component 
-  // also it's not working properly. 
-  // there is also the possibility of making a simple resize on double tap
-  // it should only work on mobile. no need of it for tablet or desktop. 
-
-  const handleTouchStart = (e: React.TouchEvent<HTMLDivElement>) => {
-    if (!isMobile || !resizeHandleRef.current) return;
-    
-    const touchY = e.touches[0].clientY;
-    setStartY(touchY);
-    
-    // Find parent element with the wordInfo class
-    const resizableElement = resizeHandleRef.current.closest(`.${classes.wordInfoHalf}`);
-    if (resizableElement) {
-      setStartHeight(resizableElement.offsetHeight);
-      setIsDragging(true);
-      e.preventDefault();
-    }
-  };
-
-  const handleTouchMove = (e: React.TouchEvent<HTMLDivElement>) => {
-    if (!isDragging || !isMobile) return;
-    
-    const touchY = e.touches[0].clientY;
-    const deltaY = touchY - startY;
-    
-    // Calculate new height (invert deltaY since dragging down should reduce height)
-    const newHeight = Math.max(150, startHeight - deltaY);
-    
-    // Don't exceed available height
-    const boundedHeight = Math.min(availableHeight * 0.9, newHeight);
-    
-    // Update immediately for smooth dragging
-    setCustomHeight(boundedHeight);
-    
-    e.preventDefault();
-  };
-
-  const handleTouchEnd = (e: React.TouchEvent<HTMLDivElement>) => {
-    if (!isDragging || !isMobile) return;
-
-    if (!isMobile || !resizeHandleRef.current) return;
-
-    
-    // Get current height of parent
-    const resizableElement = resizeHandleRef.current.closest(`.${classes.wordInfoHalf}`);
-    if (resizableElement) {
-      const currentHeight = resizableElement.offsetHeight;
-      
-      // Calculate current percentage of available height
-      const currentPercent = currentHeight / availableHeight;
-      
-      // Find closest snap point
-      let closestSnapPoint = snapPoints[0];
-      let minDistance = Math.abs(currentPercent - snapPoints[0]);
-      
-      snapPoints.forEach(point => {
-        const distance = Math.abs(currentPercent - point);
-        if (distance < minDistance) {
-          minDistance = distance;
-          closestSnapPoint = point;
-        }
-      });
-      
-      // Apply the closest snap point
-      setCustomHeight(availableHeight * closestSnapPoint);
-    }
-    
-    setIsDragging(false);
-  };
-  
-  // ----- Effects -----
-  
-  // Effect for global touch handlers
-  useEffect(() => {
-    if (!isMobile) return;
-    
-    const handleMove = (e: any) => {
-      if (isDragging) {
-        handleTouchMove(e);
-      }
-    };
-
-    const handleEnd = () => {
-      if (isDragging) {
-        handleTouchEnd();
-      }
-    };
-
-    window.addEventListener('touchmove', handleMove, { passive: false });
-    window.addEventListener('touchend', handleEnd);
-
-    return () => {
-      window.removeEventListener('touchmove', handleMove);
-      window.removeEventListener('touchend', handleEnd);
-    };
-  }, [isDragging, startY, startHeight, isMobile]);
-  
-
-
-
-
-  // ends the broken resizable handle component here and start back the real homepage
 
   // Effect to track viewport size
   useEffect(() => {
@@ -373,7 +256,44 @@ export function HomePage() {
   const vhActual = `${availableHeight}px`;
   const vhActualHalf = `${availableHeight / 2}px`;
 
-  
+
+  // now the main page
+  // mainContainer wrapping everything
+      // header fixed on top
+      // contentBox with all the space under the header
+          // navbarBox with the navbar
+          // when it isn't mobile and the navbar isn't visible:
+          // wholeGrid for the whole grid
+              // when text or title isn't null:
+              // textDisplay grid column
+                  //scrollContainer
+                      //clickableWords for user-input
+                      //clickableSimpleBooks for books
+              // same condition as before, when text or title isn't null
+              // wordInfoHalfColumn
+                  //chevron container
+                  //scrollContainer
+                      //advancedSearch
+                      //wordContainer
+              // when text and title are null:
+              // wordInfoFull column
+                  //chevron container
+                  //scrollContainer
+                      //advancedSearch
+                      //wordContainer
+
+  // to do: simply make an object with the styles for half and full
+  // according to the condition: when text or title isn't null
+  // select class and style set
+  // and display the chevronContainer
+  // then add a good sliding transition from left to right when text appears
+  // and a good sliding transition from right to left when the column is closed
+
+
+      
+
+
+
   
   return (
     <div className={classes.mainContainer}>
@@ -455,7 +375,7 @@ export function HomePage() {
                   paddingTop: '0px',
                   height: isMobile ? 
                     (isWordInfoVisible ? 
-                      (customHeight ? `calc(${vhActual} - ${customHeight}px)` : vhActualHalf) 
+                      vhActualHalf 
                     : vhActual) :
                     isTablet && isNavbarVisible ? 
                       (isWordInfoVisible ? vhActualHalf : vhActual) : 
@@ -534,6 +454,8 @@ export function HomePage() {
               </Grid.Col>
             ) : null}
 
+            {/* Here starts the wordInfo column */}
+
             {(text !== '' || bookTitle !== null) ? (
               // First make sure wordInfoVisible is true, then check any of the other conditions
               isWordInfoVisible && (
@@ -557,7 +479,7 @@ export function HomePage() {
                     paddingTop: '0px',
                     height: isWordInfoVisible ? 
                       (isMobile ? 
-                        (customHeight || availableHeight * 0.5) : 
+                        vhActualHalf : 
                         (isTablet ? 
                           (isNavbarVisible ? vhActualHalf : vhActual) : 
                           vhActual)) : 0,
@@ -577,53 +499,7 @@ export function HomePage() {
                     paddingBottom: '0px'
                   }}
                 >
-                  {/* Resize Handle */}
-                  {isMobile && (
-                    <div 
-                      ref={resizeHandleRef}
-                      onTouchStart={handleTouchStart}
-                      style={{
-                        width: '100%',
-                        height: '24px',
-                        display: 'flex',
-                        justifyContent: 'center',
-                        alignItems: 'center',
-                        cursor: 'ns-resize',
-                        userSelect: 'none',
-                        touchAction: 'none',
-                        position: 'sticky',
-                        top: 0,
-                        zIndex: 10,
-                     
-                      }}
-                    >
-                      {/* Use dots instead of a line for better visibility */}
-                      <div style={{ 
-                        display: 'flex', 
-                        justifyContent: 'center', 
-                        gap: '4px' 
-                      }}>
-                        <span style={{
-                          width: '4px',
-                          height: '4px',
-                          borderRadius: '50%',
-                          
-                        }}></span>
-                        <span style={{
-                          width: '4px',
-                          height: '4px',
-                          borderRadius: '50%',
-              
-                        }}></span>
-                        <span style={{
-                          width: '4px',
-                          height: '4px',
-                          borderRadius: '50%',
-                          
-                        }}></span>
-                      </div>
-                    </div>
-                  )}
+  
 
                   <div className={classes.chevronContainer}>
                     <ActionIcon 

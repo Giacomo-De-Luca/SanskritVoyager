@@ -32,12 +32,11 @@ import {
   IconAdjustments,
 } from '@tabler/icons-react';
 import classes from './AdvancedSearch.module.css';
-import { BookResult, SearchResult, SegmentResult } from '../types/bookTypes';
+import { BookResult, SearchResult, SegmentResult } from '../types/searchTypes';
 import HighlightText from './HighlightText';
 import SearchInputComponent from './AdvancedSearchInput';
 import AdvancedSearchResults from './AdvancedSearchResults';
 import { use } from 'chai';
-
 import filterData from '../utils/filter_data.json';
 
 
@@ -106,27 +105,25 @@ function AdvancedSearch({ advancedSearchResults, setAdvancedSearchResults, onSea
     setAdvancedSearchResults(null);
 
     
-    // Create the search parameters
-    const searchParams = {
+    // Create the search parameters with type declaration
+    const searchParams: {
+      query: string;
+      query_type: string;
+      search_type: 'segments' | 'books';
+      limit: number;
+      authors?: string[];
+      collections?: string[];
+      text_ids?: string[];
+    } = {
       query: query,
       query_type: queryType,
       search_type: searchType,
+      authors: authors,
+      text_ids: titles,
+      collections: collections,
       limit: limit,
       // add references here to author, collection, and text id, change the API call as well
     };
-    
-    // Add filters based on the selected filter mode
-    if (authors.length > 0) {
-      searchParams.author = authors.join(',');
-    }
-    
-    if (collections.length > 0) {
-      searchParams.collection = collections.join(',');
-    }
-    
-    if (titles.length > 0) {
-      searchParams.text_id = titles.join(',');
-    }
     
     try {
       // Make the API request

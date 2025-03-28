@@ -1,6 +1,5 @@
 import { createTheme, rem, virtualColor } from '@mantine/core';
 
-import './Optima/Optima.css';
 import './LinuxBiolinum/LinuxBiolinum.css';
 import './LibertinusSans/LibertinusSans.css';
 import './IndUni-P/IndUni-P.css';
