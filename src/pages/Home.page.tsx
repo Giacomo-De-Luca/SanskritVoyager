@@ -197,7 +197,7 @@ export function HomePage() {
           } catch (apiError) {
             // If API fails, try the local resource
             console.log("API fetch failed, trying local resource");
-            const response = await fetch(`/public/resources/books/${bookTitle}.json`);
+            const response = await fetch(`/resources/books/${bookTitle}.json`);
             if (!response.ok) {
               throw new Error(`Failed to fetch: ${response.status}`);
             }
