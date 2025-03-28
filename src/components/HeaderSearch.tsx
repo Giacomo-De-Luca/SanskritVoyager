@@ -30,7 +30,7 @@ const optionsFilter: OptionsFilter = ({ options, search }) => {
 
 const links = [
   { link: '/documentation', label: 'Documentation' },
-  { link: '/about', label: 'About' },
+  { link: '/about', label: 'Soon' },
 ];
 
 export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobile  }: { onSearch: (query: string) => void, onToggleNavbar: () => void, isNavbarVisible: boolean, isMobile: boolean | undefined }) {
