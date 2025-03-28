@@ -28,6 +28,9 @@ const SearchInputComponent = React.memo(({
       label="Search Query"
       placeholder="Enter Sanskrit terms or phrase"
       value={inputValue}
+      autoCapitalize="off"
+      autoCorrect="off"
+      spellCheck={false} 
       onChange={(event) => {
         const value = event.currentTarget.value;
         setInputValue(value);
