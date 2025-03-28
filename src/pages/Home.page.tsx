@@ -22,6 +22,10 @@ import TranslationControl from '@/components/TranslationControl';
 import LoadingSkeleton from '@/components/LoadingSkeleton';
 import AdvancedSearch from '@/components/AdvancedSearch';
 import { SearchResult } from '@/types/searchTypes';
+import { Analytics } from "@vercel/analytics/react";
+
+
+
 
 import { fetchBookText } from '../utils/apiService';
 
@@ -627,6 +631,7 @@ export function HomePage() {
           </Grid>
         )}
       </div>
+      <Analytics />
     </div>
   );
 }

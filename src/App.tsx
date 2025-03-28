@@ -3,7 +3,6 @@ import { MantineProvider } from '@mantine/core';
 import { Router } from './Router';
 import { theme } from './theme';
 import { localStorageColorSchemeManager } from './localStorageColorSchemeManager';
-import { Analytics } from "@vercel/analytics/react";
 
 
 const colorSchemeManager = localStorageColorSchemeManager({
@@ -17,7 +16,6 @@ export default function App() {
       colorSchemeManager={colorSchemeManager}
     >
       <Router />
-      <Analytics />
 
     </MantineProvider>
   );
