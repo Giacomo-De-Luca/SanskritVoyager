@@ -82,7 +82,7 @@ const ClickableSimpleBooks = ({
 
   // Effect to track when initial render is complete
   useEffect(() => {
-    if (bookText.body?.length > 0) {
+    if (bookText.body && bookText.body?.length > 0) {
       const timer = setTimeout(() => {
         setInitialRenderComplete(true);
         console.log("Initial render completed, calculating markers...");
@@ -119,8 +119,8 @@ const ClickableSimpleBooks = ({
           isActive: segmentNumber === targetSegmentNumber
         };
       })
-      .filter(Boolean);
-    
+      .filter((pos): pos is {segmentNumber: number; positionPercent: number; isActive: boolean} => pos !== null);
+
     console.log(`Calculated ${segmentPositions.length} marker positions`);
     setProcessedMatches(segmentPositions);
   }, [matchedBookSegments, targetSegmentNumber]);
