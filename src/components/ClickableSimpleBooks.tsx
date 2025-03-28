@@ -1,12 +1,5 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import WordInfoPortal from './WordInfoPortal';
-import {
-  fetchWordData,
-  fetchMultidictData,
-  transliterateText,
-  handleTranslate,
-} from '../pages/Api';
-import { Text } from '@mantine/core';
 import classes from './ClickableSimpleBooks.module.css';
 import { BookText, TextElement, Metadata } from '../types/bookTypes';
 import MetadataComponent from './Metadata';
@@ -119,8 +112,9 @@ const ClickableSimpleBooks = ({
           isActive: segmentNumber === targetSegmentNumber
         };
       })
-      .filter((pos): pos is {segmentNumber: number; positionPercent: number; isActive: boolean} => pos !== null);
+          .filter((pos): pos is {segmentNumber: number; positionPercent: number; isActive: boolean} => pos !== null);
 
+    
     console.log(`Calculated ${segmentPositions.length} marker positions`);
     setProcessedMatches(segmentPositions);
   }, [matchedBookSegments, targetSegmentNumber]);
