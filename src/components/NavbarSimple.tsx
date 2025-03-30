@@ -178,7 +178,7 @@ export function NavbarSimple({
           justify='left'
           
           >
-          Advanced Search
+          Corpus Search (Beta - Desktop Only)
         </Button>
 
 

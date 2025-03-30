@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { ActionToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle';
-import { Select, MultiSelect, Grid, Textarea, Button, Loader, Text, Stack, ActionIcon, Skeleton, useMantineTheme } from '@mantine/core';
+import { Select, MultiSelect, Grid, Textarea, Button, Loader, Text, Stack, ActionIcon, Skeleton, useMantineTheme, Transition } from '@mantine/core';
 import { FileInput } from '@mantine/core';
 import { ComboboxItem, Container, lighten, darken, ScrollArea } from '@mantine/core';
 import { useDisclosure, useDebouncedState, useMediaQuery } from '@mantine/hooks';
@@ -84,6 +84,8 @@ export function HomePage() {
   const [targetSegmentNumber, setTargetSegmentNumber] = useState<number | null>(null);
   const [query, setQuery] = useState<string>('');
   const [matchedBookSegments, setMatchedBookSegments] = useState<number[]>([]);
+
+  const isWordInfoHalf = text !== '' || bookTitle !== null
   
 
   // Effect to track viewport size
@@ -294,6 +296,8 @@ export function HomePage() {
   // and a good sliding transition from right to left when the column is closed
 
 
+  
+
       
 
 
@@ -458,72 +462,96 @@ export function HomePage() {
               </Grid.Col>
             ) : null}
 
-            {/* Here starts the wordInfo column */}
 
-            {(text !== '' || bookTitle !== null) ? (
-              // First make sure wordInfoVisible is true, then check any of the other conditions
-              isWordInfoVisible && (
-                (Array.isArray(wordData) && wordData.length > 0) || 
-                isLoadingWordData || 
-                isAdvancedSearchVisible
-              ) ? (
-                <Grid.Col 
+
+
+
+          {/* Here starts the wordInfo column */}
+
+          
+        
+              <Grid.Col 
                   span={
-                    isWordInfoVisible ? 
-                      (isMobile ? 12 : isTablet ? 
-                        (isNavbarVisible ? 12 : 6) : 6) : 0
+
+                    isWordInfoHalf && !isMobile && !(isTablet && isNavbarVisible) ? 6 : 
+                    12
+
                   }
-                  className={`${classes.wordInfoHalf} ${classes.wordInfoTransition}`}
-                  style={{
-                    overflowY: 'auto',
-                    position: 'relative',
+
+                  className={`${classes.wordInfo} 
+                              ${classes.wordInfoTransition}
+                            
+                              ${isWordInfoHalf ? 
+                              classes.wordInfoHalf : 
+                              classes.wordInfoFull}`}
+                    
+                  style={
+                    
+                    isWordInfoHalf ? (
+                    {
                     opacity: !isWordInfoVisible ? 0 : 1,
                     visibility: !isWordInfoVisible ? 'hidden' : 'visible',
-                    transition: 'all 0.3s ease',
-                    paddingTop: '0px',
-                    height: isWordInfoVisible ? 
+                    height: 
                       (isMobile ? 
                         vhActualHalf : 
                         (isTablet ? 
                           (isNavbarVisible ? vhActualHalf : vhActual) : 
-                          vhActual)) : 0,
-                    width: isWordInfoVisible ? 
-                      (isMobile ? '100%' : isTablet ? 
-                        (isNavbarVisible ? '100%' : '50%') : '50%') : 0,
-                    paddingLeft: isWordInfoVisible ? 
-                      (isMobile ? '4%' : isTablet ? 
-                        (isNavbarVisible ? '10%' : '3%') : 
-                        (isNavbarVisible ? '3%' : '3%')) : 0,
-                    paddingRight: isWordInfoVisible ? 
-                      (isMobile ? '4%' : isTablet ? 
-                        (isNavbarVisible ? '10%' : '12%') : 
-                        (isNavbarVisible ? '10%' : '18%')) : 0,
-                    wordBreak: 'break-word',
-                    whiteSpace: 'normal',
-                    paddingBottom: '0px'
-                  }}
-                >
-  
+                          vhActual)),
+                    width: 
+                        isMobile ? '100%' : 
+                        isTablet ? 
+                                  (isNavbarVisible ? '100%' : '50%') 
+                                  : '50%',
+                    paddingLeft: 
+                        isMobile ? '4%' : 
+                        isTablet ? 
+                            (isNavbarVisible ? '10%' : '3%') : 
+                            (isNavbarVisible ? '3%' : '3%'),
+                    paddingRight: 
+                        isMobile ? '4%' : 
+                        isTablet ? 
+                            (isNavbarVisible ? '10%' : '12%') : 
+                            (isNavbarVisible ? '10%' : '18%'),
 
-                  <div className={classes.chevronContainer}>
-                    <ActionIcon 
-                      className={classes.chevronButton}
-                      onClick={() => setIsWordInfoVisible(!isWordInfoVisible)}
-                      data-rotated={!isWordInfoVisible}
-                      aria-label={isWordInfoVisible ? "Collapse word info" : "Expand word info"}
-                      variant="transparent"
-                      size="md"
-                      style={{
-                        right: isMobile ? '4px' : '-0px',
-                        top: isMobile ? 0 : '20px',
-                      }}
-                    >
-                      {isMobile ? 
-                        <IconChevronDown size={20} stroke={1.5} /> : 
-                        <IconChevronRight size={20} stroke={1.5} />
-                      }
-                    </ActionIcon>
-                  </div>
+                  }) : 
+                  
+                  ({
+                      maxHeight: vhActual,
+                      width: '100%',
+                      paddingLeft: isMobile ? '4%' : 
+                        (isTablet ? 
+                          (isNavbarVisible ? '12%' : '22%') :
+                          (isNavbarVisible ? '25%' : '28%')),
+                      paddingRight: isMobile ? '4%' : 
+                        (isTablet ? 
+                          (isNavbarVisible ? '12%' : '22%') :
+                          (isNavbarVisible ? '25%' : '28%')),
+                    })
+                    }
+                >
+
+                {/* Here starts the chevron container */}
+                {isWordInfoHalf && (
+                      <div className={classes.chevronContainer}>
+                        <ActionIcon 
+                          className={classes.chevronButton}
+                          onClick={() => setIsWordInfoVisible(!isWordInfoVisible)}
+                          data-rotated={!isWordInfoVisible}
+                          aria-label={isWordInfoVisible ? "Collapse word info" : "Expand word info"}
+                          variant="transparent"
+                          size="md"
+                          style={{
+                            right: isMobile ? '4px' : '-0px',
+                            top: isMobile ? 0 : '20px',
+                          }}
+                        >
+                          {isMobile ? 
+                            <IconChevronDown size={20} stroke={1.5} /> : 
+                            <IconChevronRight size={20} stroke={1.5} />
+                          }
+                        </ActionIcon>
+                      </div>
+                    )}
 
                   <div className={classes.scrollContainer}>
                     {isLoadingWordData ? (
@@ -542,7 +570,6 @@ export function HomePage() {
                           onOpenText={(textId, bookTitle) => {
                             // Store both the ID and title
                             setBookTitle(bookTitle);
-                            setIsWordInfoVisible(true);                                        
                                                 
                           }}
                           matchedBookSegments={matchedBookSegments}
@@ -562,72 +589,8 @@ export function HomePage() {
                       />
                     )}
                   </div>
-                </Grid.Col>
-              ) : null
-            ) : (
-              <Grid.Col 
-                span={12}
-                className={`${classes.wordInfoFull}`}
-                style={{
-                  paddingTop: '0px',
-                  maxHeight: vhActual,
-                  width: '100%',
-                  paddingLeft: isMobile ? '4%' : 
-                    (isTablet ? 
-                      (isNavbarVisible ? '12%' : '22%') :
-                      (isNavbarVisible ? '25%' : '28%')),
-                  paddingRight: isMobile ? '4%' : 
-                    (isTablet ? 
-                      (isNavbarVisible ? '12%' : '22%') :
-                      (isNavbarVisible ? '25%' : '28%')),
-                  transition: 'padding-right 0.3s ease',
-                  overflowY: 'auto',
-                  overflowX: 'auto',
-                  wordBreak: 'break-word',
-                  whiteSpace: 'normal',
-                  paddingBottom: '0px'
-                }}
-              >
-                <div className={classes.scrollContainer}>
-                  {wordData.length < 1 && isLoadingWordData ? (
-                    <LoadingSkeleton />
-                  ) : isAdvancedSearchVisible ? (
-                    <AdvancedSearch 
-                        setAdvancedSearchResults={setAdvancedSearchResults}
-                        advancedSearchResults={advancedSearchResults}
-                        isMobile={isMobile}
-                        setTargetSegmentNumber={setTargetSegmentNumber}
-                        query={query}
-                        setQuery={setQuery}
-                        onSearch={(params) => {
-                          console.log('Advanced search params:', params);
-                        }}
-                        onOpenText={(textId, bookTitle) => {
-                          // Store both the ID and title
-                          setBookTitle(bookTitle);
-                          setIsWordInfoVisible(true);
-                          
-                      
-                        }}
-                        matchedBookSegments={matchedBookSegments}
-                        setMatchedBookSegments={setMatchedBookSegments}
-                      />
-                  ) : (
-                    <WordDataComponent
-                      wordData={wordData}
-                      setWordData={setWordData}
-                      selectedDictionaries={selectedDictionaries}
-                      isMobile={isMobile}
-                      setClickedInfoWord={setClickedInfoWord}
-                      isTablet={isTablet}
-                      isNavabarVisible={isNavbarVisible}
-                      setDisplayInflectionTables={setDisplayInflectionTables}
-                      displayInflectionTables={displayInflectionTables}
-                    />
-                  )}
-                </div>
-              </Grid.Col>
-            )}
+                </Grid.Col>              
+    
           </Grid>
         )}
       </div>

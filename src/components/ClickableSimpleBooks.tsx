@@ -313,7 +313,7 @@ const ClickableSimpleBooks = ({
             </span>
           );
         } else {
-          const words = segment.split(/\s+|\+/);
+          const words = segment.match(/\|\||\||\+|[^\s+|]+/g) || [];
     
           return (
             <span key={segmentIndex} className={classes.textSegment}>
