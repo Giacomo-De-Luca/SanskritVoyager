@@ -6,6 +6,7 @@ import MetadataComponent from './Metadata';
 import { WordEntry } from '../types/wordTypes';
 import { safeSplitText } from './textUtils';
 import HighlightText from './HighlightText';
+import { Accordion } from '@mantine/core';
 
 interface ClickableSimpleBooksProps {
   bookText: BookText;
@@ -50,6 +51,12 @@ const ClickableSimpleBooks = ({
   const [clickedElement, setClickedElement] = useState<HTMLElement | null>(null);
   const [previousElement, setPreviousElement] = useState<HTMLElement | null>(null);
   
+  // Create a global note counter to ensure unique IDs
+  const noteCounterRef = useRef<number>(0);
+  
+  // Map to store stable note IDs
+  const noteIdMapRef = useRef<Map<string, number>>(new Map());
+  
   // Create a Map to store refs to segment elements
   const segmentRefs = useRef<Map<number, HTMLDivElement>>(new Map());
   
@@ -65,12 +72,14 @@ const ClickableSimpleBooks = ({
   
   const [initialRenderComplete, setInitialRenderComplete] = useState(false);
 
-  // Clear the ref map when the book changes
+  // Clear the ref map and reset the note counter when the book changes
   useEffect(() => {
     segmentRefs.current = new Map();
     setInitialRenderComplete(false);
     setProcessedMatches([]);
-    console.log("Segment refs map reset due to book change");
+    noteCounterRef.current = 0; // Reset note counter for each new book
+    noteIdMapRef.current = new Map(); // Reset the note ID map
+    console.log("Segment refs map and note counter reset due to book change");
   }, [bookText]);
 
   // Effect to track when initial render is complete
@@ -112,7 +121,7 @@ const ClickableSimpleBooks = ({
           isActive: segmentNumber === targetSegmentNumber
         };
       })
-          .filter((pos): pos is {segmentNumber: number; positionPercent: number; isActive: boolean} => pos !== null);
+      .filter((pos): pos is {segmentNumber: number; positionPercent: number; isActive: boolean} => pos !== null);
 
     
     console.log(`Calculated ${segmentPositions.length} marker positions`);
@@ -256,7 +265,7 @@ const ClickableSimpleBooks = ({
 
     const renderWords = (text: string, isTranslation: boolean = false) => {
       // Skip rendering if it's just a separator line
-      if (isSeparatorOnlyLine(text)) {
+      if (!text || isSeparatorOnlyLine(text)) {
         return null;
       }
 
@@ -352,6 +361,53 @@ const ClickableSimpleBooks = ({
         }
       });
     };
+
+    // Handle notes at the element level
+    if (element.tag === 'note') {
+      const noteContent = element.text || '';
+      
+      // Create a unique key for this note based on its position in the document
+      const noteKey = `note-${element.tag}-${element.segment_number || ''}-${element.text?.substring(0, 20) || ''}`;
+      
+      // Check if this note already has an ID
+      let noteNumber = noteIdMapRef.current.get(noteKey);
+      if (noteNumber === undefined) {
+        // Only assign a new number if this is the first time we've seen this note
+        noteNumber = ++noteCounterRef.current;
+        noteIdMapRef.current.set(noteKey, noteNumber);
+      }
+      
+      const noteId = `note-${noteNumber}`;
+
+      return (
+        <Accordion variant="default" 
+        radius="md" 
+        className={classes.noteAccordion}
+        classNames={{
+          root: classes.noteAccordionRoot,
+          panel: classes.noteAccordionPanel,
+          item: classes.noteAccordionItem,
+          control: classes.noteAccordionControl
+        }}>
+          <Accordion.Item value={noteId}>
+            <Accordion.Control className={classes.noteAccordionControl}>
+              <span className={classes.noteNumber}>{noteNumber}</span>
+            </Accordion.Control>
+            <Accordion.Panel className={classes.noteAccordionPanel}>
+              {/* First render the direct text content */}
+              {noteContent && renderWords(noteContent)}
+              
+              {/* Then recursively render any children */}
+              {element.children?.map((noteChild, noteChildIndex) => (
+                <React.Fragment key={`note-child-${noteChildIndex}`}>
+                  {renderTextElement(noteChild)}
+                </React.Fragment>
+              ))}
+            </Accordion.Panel>
+          </Accordion.Item>
+        </Accordion>
+      );
+    }
   
     return (
       <div 
@@ -403,6 +459,57 @@ const ClickableSimpleBooks = ({
               type: child.attributes?.type || element.attributes?.type
             }
           };
+
+          // Handle notes that are children of elements
+          if (child.tag === 'note') {
+            const noteContent = childWithType.text || '';
+            
+            // Create a unique key for this note based on its position in the document
+            const noteKey = `note-child-${segmentNumber || ''}-${index}-${child.text?.substring(0, 20) || ''}`;
+            
+            // Check if this note already has an ID
+            let noteNumber = noteIdMapRef.current.get(noteKey);
+            if (noteNumber === undefined) {
+              // Only assign a new number if this is the first time we've seen this note
+              noteNumber = ++noteCounterRef.current;
+              noteIdMapRef.current.set(noteKey, noteNumber);
+            }
+            
+            const noteId = `note-${noteNumber}`;
+            
+            return (
+              <Accordion 
+                variant="default" 
+                radius="md" 
+                className={classes.noteAccordion}
+                key={noteId}
+                classNames={{
+                  root: classes.noteAccordionRoot,
+                  panel: classes.noteAccordionPanel,
+                  item: classes.noteAccordionItem,
+                  control: classes.noteAccordionControl
+                }}
+              >
+                <Accordion.Item value={noteId}>
+                  <Accordion.Control className={classes.noteAccordionControl}>
+                    <span className={classes.noteNumber}>{noteNumber}</span>
+                  </Accordion.Control>
+                  <Accordion.Panel className={classes.noteAccordionPanel}>
+                    {/* First render the direct text content */}
+                    {noteContent && renderWords(noteContent)}
+                    
+                    {/* Then recursively render any children */}
+                    {childWithType.children?.map((noteChild, noteChildIndex) => (
+                      <React.Fragment key={`note-child-${noteChildIndex}`}>
+                        {renderTextElement(noteChild)}
+                      </React.Fragment>
+                    ))}
+                  </Accordion.Panel>
+                </Accordion.Item>
+              </Accordion>
+            );
+          }
+          
           return (
             <React.Fragment key={index}>
               {renderTextElement(childWithType)}
@@ -438,9 +545,7 @@ const ClickableSimpleBooks = ({
               key={segment.segmentNumber}
               onClick={() => setTargetSegmentNumber(segment.segmentNumber)}
               className={`${classes.marker} ${segment.isActive ? classes.activeMarker : ''}`}
-              style={{ top: `${segment.positionPercent}%`,
-               
-              }}
+              style={{ top: `${segment.positionPercent}%` }}
               title={`Go to segment ${segment.segmentNumber}`}
             />
           ))}
@@ -460,4 +565,3 @@ const ClickableSimpleBooks = ({
 };
 
 export default ClickableSimpleBooks;
-

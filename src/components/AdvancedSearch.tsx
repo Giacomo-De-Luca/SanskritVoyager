@@ -30,6 +30,7 @@ import {
   IconChevronUp,
   IconFilter,
   IconAdjustments,
+  IconX
 } from '@tabler/icons-react';
 import classes from './AdvancedSearch.module.css';
 import { BookResult, SearchResult, SegmentResult } from '../types/searchTypes';
@@ -274,7 +275,51 @@ function AdvancedSearch({ advancedSearchResults, setAdvancedSearchResults, onSea
             {/* Filters Section */}
             <Accordion.Item value="2" className={classes.accordionItem}>
               <Accordion.Control className={classes.accordionHeader}>
-                <Text size="sm">Filters</Text>
+              <Group justify="space-between" w="100%">
+                  <Text size="sm">Filters</Text>
+                  
+                  {/* Show different content based on whether filters exist */}
+                  <Group 
+                  gap="xs"
+                  >
+                    {authors.length > 0 || collections.length > 0 || titles.length > 0 ? (
+                      <>
+                      <Tooltip 
+                      label="Clear all filters"
+                      >
+                        <ActionIcon 
+                          size="sm" 
+                          variant="subtle" 
+                          color="gray"
+                          onClick={(e) => {
+                            e.stopPropagation(); // Prevent accordion from toggling
+                            setAuthors([]);
+                            setCollections([]);
+                            setTitles([]);
+                          }}
+                        >
+                          <IconX size={14} />
+                        </ActionIcon>
+                      </Tooltip>
+                        <Text size="xs"
+                         c="dimmed"
+                         pr="xl"
+                         pl="xl">
+                          {authors.length + collections.length + titles.length} active filters
+                        </Text>
+                        
+                      </>
+                    ) : (
+                      <Text 
+                      size="xs" 
+                      c="dimmed" 
+                      pr= "lg"
+                      style={{
+                        fontStyle: "italic"
+                      }}>No active filters</Text>
+                    )}
+                  </Group>
+                </Group>
               </Accordion.Control>
               
               <Accordion.Panel className={classes.accordionPanel}>
