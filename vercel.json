@@ -1,0 +1,5 @@
+{
+    "rewrites": [
+      { "source": "/docs/:path*", "destination": "https://sanskrit-voyager-documenta-git-f0c6be-giacomo-de-lucas-projects.vercel.app/:path*" }
+    ]
+}
