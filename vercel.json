@@ -12,4 +12,5 @@
       { "source": "/docs/:file(.*\\.(js|css|svg|png|jpg|jpeg|gif|ico))", 
         "destination": "https://sanskrit-voyager-documentation.vercel.app/:file" }
     ]
+    
   }
