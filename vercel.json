@@ -1,5 +1,6 @@
 {
     "rewrites": [
-      { "source": "/docs/:path*", "destination": "docusaurusdocumentation-nmd4etso9-giacomo-de-lucas-projects.vercel.app/:path*" }
+      { "source": "/docs/:path*", "destination": "sanskrit-voyager-documentation.vercel.app/:path*" }
     ]
 }
+
