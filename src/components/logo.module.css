@@ -1,0 +1,100 @@
+/* Logo.module.css */
+
+/* Define the drawing animation */
+@keyframes draw {
+    /* 
+       Start: Path is fully hidden (offset equals the dash array length)
+       Midpoint: Path is fully drawn (offset is 0)
+       End: Path is fully hidden again (offset back to dash array length for seamless loop)
+       We use a large offset value that should cover the length of all paths.
+       Adjust this '2500' value if any path seems to cut off early or animate too fast/slow.
+       You can find the exact length using pathElement.getTotalLength() in browser dev tools
+       for perfect precision, but a large enough value often works well.
+    */
+    0% {
+      stroke-dashoffset: 2500;
+    }
+    50% {
+      stroke-dashoffset: 0; /* Fully drawn */
+    }
+    100% {
+      stroke-dashoffset: -2500; /* Fully 'undrawn' by continuing the offset */
+      /* Alternative for a pause before restart:
+      50% { stroke-dashoffset: 0; }
+      80% { stroke-dashoffset: 0; } // Hold drawn state
+      100% { stroke-dashoffset: 2500; } // Reset for next loop
+      */
+    }
+  }
+  
+  /* Base styles for all paths involved in the animation */
+  .path1,
+  .path2,
+  .path3,
+  .path4,
+  .path5,
+  .path6 {
+    fill: none; /* Important: Don't fill the shape */
+    stroke: currentColor; /* Use the color defined by the SVG's context (can be styled via className) */
+    stroke-width: 8; /* Adjust thickness as needed */
+    stroke-linecap: round; /* Makes line ends smoother */
+    stroke-linejoin: round; /* Makes corners smoother */
+  
+    /* Set up the dash array */
+    stroke-dasharray: 2500; /* A large value likely longer than any path */
+    stroke-dashoffset: 2500; /* Start with the path fully hidden */
+  
+    /* Apply the animation - common duration and looping */
+    /* Duration: 6 seconds per cycle (draw + undraw) */
+    animation-name: draw;
+    animation-duration: 6s;
+    animation-timing-function: linear; /* Constant speed */
+    animation-iteration-count: infinite;
+  }
+  
+  /* Stagger the start of the animation for each path */
+  /* No delay for the first path */
+  .path1 {
+    animation-delay: 0s;
+  }
+  
+  /* Delay the second path */
+  .path2 {
+    animation-delay: 0.5s; /* Start 0.5s after path1 */
+  }
+  
+  /* Delay the third path */
+  .path3 {
+    animation-delay: 1s; /* Start 1s after path1 */
+  }
+  
+  /* Delay the fourth path (inner detail) */
+  .path4 {
+    animation-delay: 1.5s; /* Start 1.5s after path1 */
+    /* You might want this to animate faster or differently if it's a small detail */
+    /* Example: animation-duration: 3s; */
+    /* Example: stroke-width: 4; */
+  }
+  
+  /* Delay the fifth path */
+  .path5 {
+    animation-delay: 2s; /* Start 2s after path1 */
+  }
+  
+  /* Delay the sixth path */
+  .path6 {
+    animation-delay: 2.5s; /* Start 2.5s after path1 */
+  }
+  
+  /* Optional: Add hover effect to pause or change color if needed */
+  /*
+  svg:hover .path1,
+  svg:hover .path2,
+  svg:hover .path3,
+  svg:hover .path4,
+  svg:hover .path5,
+  svg:hover .path6 {
+    animation-play-state: paused; // Pause animation on hover
+    stroke: lightblue; // Change color on hover
+  }
+  */
