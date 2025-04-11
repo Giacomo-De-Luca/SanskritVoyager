@@ -1,8 +1,15 @@
+
 {
     "rewrites": [
-      { "source": "/docs", "destination": "https://sanskrit-voyager-documentation.vercel.app/docs/intro" },
-      { "source": "/docs/", "destination": "https://sanskrit-voyager-documentation.vercel.app/docs/intro" },
-      { "source": "/docs/:path*", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*" }
+      { "source": "/docs", "destination": "https://sanskrit-voyager-documentation.vercel.app" },
+      { "source": "/docs/", "destination": "https://sanskrit-voyager-documentation.vercel.app/" },
+      { "source": "/docs/:path*", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*" },
+      
+      { "source": "/docs/assets/:path*", "destination": "https://sanskrit-voyager-documentation.vercel.app/assets/:path*" },
+      { "source": "/docs/img/:path*", "destination": "https://sanskrit-voyager-documentation.vercel.app/img/:path*" },
+      { "source": "/docs/static/:path*", "destination": "https://sanskrit-voyager-documentation.vercel.app/static/:path*" },
+      
+      { "source": "/docs/:file(.*\\.(js|css|svg|png|jpg|jpeg|gif|ico))", 
+        "destination": "https://sanskrit-voyager-documentation.vercel.app/:file" }
     ]
-}
-
+  }
