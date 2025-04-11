@@ -203,6 +203,10 @@
   background-color: light-dark(var(--mantine-color-lightscale-1), var(--mantine-color-dark-5));
 }
 
+.accordionHeader:hover {
+  background-color: light-dark(var(--mantine-color-lightscale-1), var(--mantine-color-dark-5));
+}
+
 /* In your CSS module file */
 
 .sanskritText mark {
@@ -302,4 +306,15 @@
 
 .result:first-child {
   margin-top: 10px;
+}
+
+
+.activeFilters:hover {
+  filter: brightness(1.2) !important;
+}
+
+.filterNumber {
+  color: light-dark(var(--mantine-color-orange-5), var(--mantine-color-grape-2));
+  font-weight: 500;
+  margin-right: 0.5rem;
 }

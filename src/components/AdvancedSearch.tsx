@@ -276,7 +276,12 @@ function AdvancedSearch({ advancedSearchResults, setAdvancedSearchResults, onSea
             <Accordion.Item value="2" className={classes.accordionItem}>
               <Accordion.Control className={classes.accordionHeader}>
               <Group justify="space-between" w="100%">
-                  <Text size="sm">Filters</Text>
+                  <Text
+                    className= {classes.activeFilters}
+                    size="sm"
+                    >
+                    Filters
+                  </Text>
                   
                   {/* Show different content based on whether filters exist */}
                   <Group 
@@ -301,16 +306,21 @@ function AdvancedSearch({ advancedSearchResults, setAdvancedSearchResults, onSea
                           <IconX size={14} />
                         </ActionIcon>
                       </Tooltip>
-                        <Text size="xs"
+                        <Text 
+                        className= {classes.activeFilters}
+                        
+                         size="xs"
                          c="dimmed"
                          pr="xl"
-                         pl="xl">
-                          {authors.length + collections.length + titles.length} active filters
+                         pl="md">
+                          <span className={classes.filterNumber}>{authors.length + collections.length + titles.length}</span> 
+                          active filters
                         </Text>
                         
                       </>
                     ) : (
                       <Text 
+                      className= {classes.activeFilters}
                       size="xs" 
                       c="dimmed" 
                       pr= "lg"
