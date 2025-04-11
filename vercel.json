@@ -1,5 +1,8 @@
 {
     "rewrites": [
+      { "source": "/docs", "destination": "https://sanskrit-voyager-documentation.vercel.app" },
+
       { "source": "/docs/:path*", "destination": "https://sanskrit-voyager-documentation.vercel.app/docs/:path*" }
     ]
 }
+
