@@ -8,7 +8,7 @@ export { UiSwitch } from './UiSwitch';
 import React, { useState, useEffect, useRef } from 'react';
 import faviconlight from '../faviconlight.svg';
 import favicondark from '../favicondark.svg';
-
+import Logo from './logo'
 
 
 
@@ -29,7 +29,7 @@ const optionsFilter: OptionsFilter = ({ options, search }) => {
 
 
 const links = [
-  { link: '/documentation', label: 'Documentation' },
+  { link: '/docs', label: 'Documentation' },
   { link: '/about', label: 'Soon' },
 ];
 
@@ -68,7 +68,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
       key={link.label}
       href={link.link}
       className={classes.link}
-      onClick={(event) => event.preventDefault()}
+      // onClick={(event) => event.preventDefault()}
     >
       {link.label}
     </a>
@@ -109,25 +109,17 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
   return (
     <header className={classes.header}>
       <div className={classes.inner}>
+  
         <Group>
           
 
           <Burger opened={isNavbarVisible} onClick={() => { toggle(); onToggleNavbar(); }} 
           size={isMobile ? "sm" : "md" } />
           <ActionToggle />
-          <Image 
-            src={colorScheme === 'dark' ? favicondark : faviconlight}
-            alt="Logo" 
-            width={30} 
-            height={30} 
-            className={classes.logo}
+          <Logo 
+            className={classes.logoSanskrit} 
           />
-          
-          
-        
-          
-          
-          
+                  
           </Group>
 
         <Group grow preventGrowOverflow={false} wrap="nowrap" className={classes.groupContainer}>

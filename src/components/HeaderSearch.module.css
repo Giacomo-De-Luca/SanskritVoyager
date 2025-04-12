@@ -75,3 +75,20 @@
     height: 25px;
   }
 }
+
+.logo::hover {
+  color: light-dark(var(--mantine-color-purple-5), var(--mantine-color-dark-0));
+  stroke: 1.5;
+}
+
+.logoSanskrit {
+  width: 30px;
+  height: 30px;
+  color: light-dark(var(--mantine-color-dark-9), var(--mantine-color-dark-0));
+  stroke: 1.5;
+  transition: color 0.2s ease;
+}
+
+.logoSanskrit:hover {
+  color: light-dark(var(--mantine-color-lightscale-9), var(--mantine-color-grape-3));
+}

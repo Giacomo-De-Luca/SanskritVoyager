@@ -7,18 +7,75 @@
  * @param {number} props.size - Size of the logo in pixels (maintains aspect ratio)
  * @returns {JSX.Element} - Rendered logo component
  */
-const Logo = ({ className = "", size = 100 }) => {
-  return (
-    <svg
-      version="1.1"
-      xmlns="http://www.w3.org/2000/svg"
-      xmlnsXlink="http://www.w3.org/1999/xlink"
-      className={className}
-      width={size}
-      height={size}
-      viewBox="0 0 896 896"
-    >
-      <path fill="currentColor" opacity="1.000000" stroke="none" 
+const Logo = ({ className = "", size = 100, animate = true, duration = 4 }) => {
+    return (
+      <>
+        {animate && (
+          <style>
+            {`
+              @keyframes drawLogoWithFade {
+            /* Initial state: hidden */
+            0% { 
+                clip-path: inset(100% 0 0 0); 
+                opacity: 0;
+            }
+            
+            /* Animation to fully visible */
+            85% { 
+                clip-path: inset(0 0 0 0); 
+                opacity: 1;
+            }
+            
+            /* Final state: remain visible */
+            100% { 
+                clip-path: inset(0 0 0 0); 
+                opacity: 1;
+            }
+            }
+
+            @keyframes drawLogoLeftRight {
+            /* Initial state: hidden */
+            0% { 
+                clip-path: inset(0 100% 0 0); 
+                opacity: 0;
+            }
+            
+            /* Animation to fully visible */
+            85% { 
+                clip-path: inset(0 0 0 0); 
+                opacity: 1;
+            }
+            
+            /* Final state: remain visible */
+            100% { 
+                clip-path: inset(0 0 0 0); 
+                opacity: 1;
+            }
+            }
+
+            /* Base animation class for top-to-bottom animation */
+            .logo-animation {
+            animation: drawLogoWithFade ${duration}s ease-in-out forwards;
+            }
+
+            /* Left-to-right animation class */
+            .logo-animation-lr {
+            animation: drawLogoLeftRight ${duration}s ease-in-out forwards;
+            }
+            `}
+          </style>
+        )}
+        <svg
+          version="1.1"
+          xmlns="http://www.w3.org/2000/svg"
+          className={className}
+          width={size}
+          height={size}
+          viewBox="0 0 896 896"
+        >
+          <path
+            className={animate ? "logo-animation" : ""}
+            fill="currentColor"
         d="
         M69.735535,530.993958 
             C69.772247,515.664124 68.925316,500.758911 70.166969,486.029755 
@@ -73,7 +130,7 @@ const Logo = ({ className = "", size = 100 }) => {
             C73.818756,574.229675 71.918152,561.579163 71.302147,548.692139 
             C71.032196,543.044556 69.759102,537.287476 69.735535,530.993958 
         z"/>
-        <path fill="currentColor" opacity="1.000000" stroke="none" 
+        <path className={animate ? "logo-animation-lr" : ""} fill="currentColor" opacity="1.000000" stroke="none" 
             d="
         M311.350403,523.662476 
             C309.329773,517.085754 307.431641,510.876434 305.580109,504.653290 
@@ -114,7 +171,9 @@ const Logo = ({ className = "", size = 100 }) => {
             C329.409698,559.541321 321.435577,546.608459 314.718842,532.770386 
             C313.362244,529.975525 311.616730,527.288330 311.350403,523.662476 
         z"/>
-        <path fill="currentColor" opacity="1.000000" stroke="none" 
+        
+        <path className={animate ? "logo-animation" : ""} fill="currentColor" opacity="1.000000" stroke="none" 
+        // middle figure
             d="
         M531.841003,333.694489 
             C540.788208,335.197174 549.423889,335.174225 557.939697,336.030579 
@@ -166,7 +225,8 @@ const Logo = ({ className = "", size = 100 }) => {
             C527.593506,399.304779 527.798889,397.738373 528.240112,396.342407 
             C530.292603,389.848938 529.784302,382.930847 531.673706,375.552673 
         z"/>
-        <path fill="currentColor" opacity="1.000000" stroke="none" 
+        <path className={animate ? "logo-animation-lr" : ""} fill="currentColor" opacity="1.000000" stroke="none" 
+        // upper horizontal stroke
             d="
         M677.787598,263.215332 
             C668.217285,253.080505 658.230408,244.039001 647.127991,236.044327 
@@ -206,7 +266,7 @@ const Logo = ({ className = "", size = 100 }) => {
             C713.629944,311.264374 705.928040,298.392181 697.165222,286.142242 
             C691.399048,278.081573 685.274902,270.293060 677.787598,263.215332 
         z"/>
-        <path fill="currentColor" opacity="1.000000" stroke="none" 
+        <path className={animate ? "logo-animation" : ""} fill="currentColor" opacity="1.000000" stroke="none" 
             d="
         M384.375244,443.292389 
             C384.521057,450.570831 384.399200,457.330109 382.362030,463.951324 
@@ -234,6 +294,7 @@ const Logo = ({ className = "", size = 100 }) => {
             C386.987305,422.405090 386.728119,432.782440 384.375244,443.292389 
         z"/>
         </svg>
+        </>
   );
 };
 
