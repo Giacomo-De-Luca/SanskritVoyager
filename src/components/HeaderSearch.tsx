@@ -29,8 +29,8 @@ const optionsFilter: OptionsFilter = ({ options, search }) => {
 
 
 const links = [
-  { link: '/docs', label: 'Documentation' },
-  { link: '/about', label: 'Soon' },
+  { link: '/documentation/docs/intro', label: 'Documentation' },
+  { link: '/documentation/docs/about', label: 'About' },
 ];
 
 export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobile  }: { onSearch: (query: string) => void, onToggleNavbar: () => void, isNavbarVisible: boolean, isMobile: boolean | undefined }) {

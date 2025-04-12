@@ -1,20 +1,20 @@
 {
     "rewrites": [
-      { "source": "/documents", "destination": "https://sanskrit-voyager-documentation.vercel.app" },
-      { "source": "/documents/", "destination": "https://sanskrit-voyager-documentation.vercel.app/" },
-      { "source": "/documents/:path*", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*" },
+      { "source": "/documentation", "destination": "https://sanskrit-voyager-documentation.vercel.app" },
+      { "source": "/documentation/", "destination": "https://sanskrit-voyager-documentation.vercel.app/" },
+      { "source": "/documentation/:path*", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*" },
       
-      { "source": "/documents/assets/:path*", "destination": "https://sanskrit-voyager-documentation.vercel.app/assets/:path*" },
-      { "source": "/documents/img/:path*", "destination": "https://sanskrit-voyager-documentation.vercel.app/img/:path*" },
-      { "source": "/documents/static/:path*", "destination": "https://sanskrit-voyager-documentation.vercel.app/static/:path*" },
+      { "source": "/documentation/assets/:path*", "destination": "https://sanskrit-voyager-documentation.vercel.app/assets/:path*" },
+      { "source": "/documentation/img/:path*", "destination": "https://sanskrit-voyager-documentation.vercel.app/img/:path*" },
+      { "source": "/documentation/static/:path*", "destination": "https://sanskrit-voyager-documentation.vercel.app/static/:path*" },
 
-      { "source": "/documents/:path*.js", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.js" },
-      { "source": "/documents/:path*.css", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.css" },
-      { "source": "/documents/:path*.svg", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.svg" },
-      { "source": "/documents/:path*.png", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.png" },
-      { "source": "/documents/:path*.jpg", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.jpg" },
-      { "source": "/documents/:path*.jpeg", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.jpeg" },
-      { "source": "/documents/:path*.gif", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.gif" },
-      { "source": "/documents/:path*.ico", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.ico" }
+      { "source": "/documentation/:path*.js", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.js" },
+      { "source": "/documentation/:path*.css", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.css" },
+      { "source": "/documentation/:path*.svg", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.svg" },
+      { "source": "/documentation/:path*.png", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.png" },
+      { "source": "/documentation/:path*.jpg", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.jpg" },
+      { "source": "/documentation/:path*.jpeg", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.jpeg" },
+      { "source": "/documentation/:path*.gif", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.gif" },
+      { "source": "/documentation/:path*.ico", "destination": "https://sanskrit-voyager-documentation.vercel.app/:path*.ico" }
     ]
   }
