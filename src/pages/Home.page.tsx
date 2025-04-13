@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, createContext, useContext } from 'react';
 import { ActionToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle';
 import { Select, MultiSelect, Grid, Textarea, Button, Loader, Text, Stack, ActionIcon, Skeleton, useMantineTheme, Transition } from '@mantine/core';
 import { FileInput } from '@mantine/core';
@@ -389,7 +389,7 @@ export function HomePage() {
                       (isWordInfoVisible ? vhActualHalf : vhActual) : 
                       vhActual,
                   width: isMobile ? '100%' : (isWordInfoVisible ? '50%' : '100%'),
-                  paddingLeft: isMobile ? '8%' : 
+                  paddingLeft: isMobile ? '4%' : 
                     (isTablet ? 
                       (isNavbarVisible ? 
                         (isWordInfoVisible ? '10%' : '10%') : 
@@ -397,7 +397,7 @@ export function HomePage() {
                       (isNavbarVisible ? 
                         (isWordInfoVisible ? '10%' : '25%') : 
                         (isWordInfoVisible ? '18%' : '28%'))),
-                  paddingRight: isMobile ? '8%' : 
+                  paddingRight: isMobile ? '4%' : 
                     (isTablet ? 
                       (isNavbarVisible ? 
                         (isWordInfoVisible ? '10%' : '10%') : 
@@ -469,7 +469,13 @@ export function HomePage() {
           {/* Here starts the wordInfo column */}
 
           
-        
+          <Transition
+              mounted={isWordInfoVisible || !isWordInfoHalf}
+              transition={isWordInfoHalf ? "slide-left" : "slide-right"}
+              duration={300}
+              timingFunction="ease"
+            >
+            {(styles) => (
               <Grid.Col 
                   span={
 
@@ -480,7 +486,6 @@ export function HomePage() {
 
                   className={`${classes.wordInfo} 
                               ${classes.wordInfoTransition}
-                            
                               ${isWordInfoHalf ? 
                               classes.wordInfoHalf : 
                               classes.wordInfoFull}`}
@@ -589,8 +594,9 @@ export function HomePage() {
                       />
                     )}
                   </div>
-                </Grid.Col>              
-    
+                </Grid.Col>
+            )}              
+              </Transition>
           </Grid>
         )}
       </div>
