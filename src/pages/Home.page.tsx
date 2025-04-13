@@ -389,7 +389,7 @@ export function HomePage() {
                       (isWordInfoVisible ? vhActualHalf : vhActual) : 
                       vhActual,
                   width: isMobile ? '100%' : (isWordInfoVisible ? '50%' : '100%'),
-                  paddingLeft: isMobile ? '4%' : 
+                  paddingLeft: isMobile ? '6%' : 
                     (isTablet ? 
                       (isNavbarVisible ? 
                         (isWordInfoVisible ? '10%' : '10%') : 
@@ -397,7 +397,7 @@ export function HomePage() {
                       (isNavbarVisible ? 
                         (isWordInfoVisible ? '10%' : '25%') : 
                         (isWordInfoVisible ? '18%' : '28%'))),
-                  paddingRight: isMobile ? '4%' : 
+                  paddingRight: isMobile ? '6%' : 
                     (isTablet ? 
                       (isNavbarVisible ? 
                         (isWordInfoVisible ? '10%' : '10%') : 
@@ -508,12 +508,12 @@ export function HomePage() {
                                   (isNavbarVisible ? '100%' : '50%') 
                                   : '50%',
                     paddingLeft: 
-                        isMobile ? '4%' : 
+                        isMobile ? '6%' : 
                         isTablet ? 
                             (isNavbarVisible ? '10%' : '3%') : 
                             (isNavbarVisible ? '3%' : '3%'),
                     paddingRight: 
-                        isMobile ? '4%' : 
+                        isMobile ? '6%' : 
                         isTablet ? 
                             (isNavbarVisible ? '10%' : '12%') : 
                             (isNavbarVisible ? '10%' : '18%'),
@@ -523,11 +523,11 @@ export function HomePage() {
                   ({
                       maxHeight: vhActual,
                       width: '100%',
-                      paddingLeft: isMobile ? '4%' : 
+                      paddingLeft: isMobile ? '6%' : 
                         (isTablet ? 
                           (isNavbarVisible ? '12%' : '22%') :
                           (isNavbarVisible ? '25%' : '28%')),
-                      paddingRight: isMobile ? '4%' : 
+                      paddingRight: isMobile ? '6%' : 
                         (isTablet ? 
                           (isNavbarVisible ? '12%' : '22%') :
                           (isNavbarVisible ? '25%' : '28%')),
