@@ -44,17 +44,15 @@
 
 .dictName {
     font-family: 'LibertinusSans', sans-serif;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     font-weight: 500;
     letter-spacing: -0.02em;
     margin-bottom: 0rem;
     text-indent: 0%; /* Indent the first line by 10% of the containing block's width */
     padding-bottom: 1rem;
     border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6)); 
-
     padding-top: 1rem;
     border-top: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
-
     color:light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-4)); /* Use var() to reference a CSS variable */
 
 
@@ -62,7 +60,7 @@
   
 .wordName {
     font-family: 'LibertinusSans', sans-serif;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     font-weight: 500;
     letter-spacing: -0.02em;
     margin-bottom: 1rem;
@@ -86,7 +84,7 @@
 
 .pronunciation {
     font-family: 'JetBrains Mono', monospace;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     color: var(--mantine-color-gray-6);
     margin-bottom: 1rem;
     margin-top: 0; /* Ensure no margin at the top */
@@ -118,12 +116,12 @@
 
 .etymologyTerm {
     font-family: 'LibertinusSans', sans-serif;
-    font-size: 1.125rem;
+    font-size: 1.2rem;
     font-style: italic;
 }
 
 .grammarSection {
-    font-size: 1rem;
+    font-size: 1.1rem;
     padding-top: 1rem;
     border-top: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
     padding-bottom: 1rem;
@@ -161,7 +159,6 @@
 
 .vocabularySection {
     padding-top: 1rem;
-    font-size: 1rem;
     font-weight: 500;
     color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-5));
 
@@ -203,7 +200,6 @@
 
 
   .grammarMain {
-    font-size: 1rem;
     color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-4));
     margin-bottom: 0.75rem;
     margin-top: 0rem;
@@ -219,7 +215,6 @@
 }
 
 .grammarMainIndeclinable {
-    font-size: 1rem;
     color: light-dark(var(--mantine-color-red-4), var(--mantine-color-red-4));
     margin-bottom: 0rem;
     margin-top: 0;
