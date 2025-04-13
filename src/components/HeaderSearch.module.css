@@ -90,5 +90,5 @@
 }
 
 .logoSanskrit:hover {
-  color: light-dark(var(--mantine-color-lightscale-9), var(--mantine-color-grape-3));
+  color: light-dark(var(--mantine-color-lightscale-9), var(--mantine-color-orange-4));
 }
