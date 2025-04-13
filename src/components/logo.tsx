@@ -7,7 +7,7 @@
  * @param {number} props.size - Size of the logo in pixels (maintains aspect ratio)
  * @returns {JSX.Element} - Rendered logo component
  */
-const Logo = ({ className = "", size = 100, animate = true, duration = 4 }) => {
+const Logo = ({ className = "", size = 100, animate = true, duration = 2.5 }) => {
     return (
       <>
         {animate && (
@@ -62,6 +62,7 @@ const Logo = ({ className = "", size = 100, animate = true, duration = 4 }) => {
             .logo-animation-lr {
             animation: drawLogoLeftRight ${duration}s ease-in-out forwards;
             }
+            
             `}
           </style>
         )}
