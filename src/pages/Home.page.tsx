@@ -324,13 +324,13 @@ export function HomePage() {
         }}
       >  
         <div
-          className={classes.navbarBox}
+          className={`${classes.navbarBox} ${!isNavbarVisible ? classes.navbarHidden : ''}`}
           style={{ 
             width: isNavbarVisible ? 
               (isMobile ? '100vw' : (isTablet ? '350px' : '350px')) : 0,
           }}
         >
-          {isNavbarVisible && (
+          
             <NavbarSimple
               isNavbarVisible={isNavbarVisible}
               isMobile={isMobile}
@@ -350,7 +350,7 @@ export function HomePage() {
               setIsNavbarVisible={setIsNavbarVisible}
               handleAdvancedSearch={handleAdvancedSearch}
             />
-          )}
+          
         </div>
 
         {!(isMobile && isNavbarVisible) && (
