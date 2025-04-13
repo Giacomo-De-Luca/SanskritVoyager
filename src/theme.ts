@@ -14,7 +14,7 @@ export const theme = createTheme({
     xs: rem(11),
     sm: rem(12),
     //default is 14
-    md: rem(16),
+    md: rem(18),
     lg: rem(18),
     xl: rem(20),
   },

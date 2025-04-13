@@ -98,6 +98,12 @@
     margin-bottom: 0.5rem;
     font-style: italic;
   }
+
+@media (max-width: 1000px) {
+    .translatedText {
+      margin-left: 1rem;
+    }
+  }
   
   .sanskritWord {
     color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-palette-2));
@@ -117,6 +123,7 @@
 .translationOnly .translatedText {
   margin-left: 0; /* Remove the indent when showing only translations */
   font-style: normal; /* Remove italic style when showing only translations */
+  color: light-dark(var(--mantine-color-dark-3), var(--mantine-color-gray-6)); /* Reset color */
 }
 
 /* Adjust spacing for single text display */
@@ -220,7 +227,7 @@ mark:hover {
 
 /* Nested divisions (if applicable) */
 .div > .div {
-  margin-left: 1.5em; /* Indent sub-divisions */
+  margin-left: 0.5rem; /* Indent sub-divisions */
   margin-top: 1rem;
   border-top: none; /* Remove potential double borders */
 }
@@ -266,7 +273,7 @@ mark:hover {
 .lg { /* Line group (stanza/verse) */
   display: block;
   margin: 1.5rem 0;
-  padding-left: 1em; /* Indent stanzas slightly */
+  padding-left: 0.5rem; /* Indent stanzas slightly */
   /* Optional: Add a subtle border or background for distinction */
   /* border-left: 2px solid light-dark(var(--mantine-color-gray-2), var(--mantine-color-dark-6)); */
 }
@@ -274,7 +281,7 @@ mark:hover {
 .l { /* Line (of verse typically) */
   display: block;
   margin-bottom: 0.3rem; /* Slightly more space than default lineContainer */
-  padding-left: 1em; /* Indent lines further within stanza */
+  padding-left: 0.5rem; /* Indent lines further within stanza */
   min-height: 1.2em; /* Ensure lines aren't too cramped */
 }
 
@@ -412,14 +419,14 @@ mark:hover {
 
 /* --- Other Inline Elements --- */
 
-.lb { /* Line break marker (mostly for debugging/visualisation) */
+/*.lb { /* Line break marker (mostly for debugging/visualisation) */
   /* display: inline-block; */
   /* width: 0.8em; */
   /* height: 0.8em; */
   /* content: "\21B5"; */ /* Symbol for line break */
   /* color: light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-4)); */
-  /* margin: 0 0.2em; */
-}
+  /* margin: 0 0.2em; 
+}*/
 
 .pb, .milestone { /* Page breaks, milestones */
   display: block;
@@ -456,6 +463,12 @@ mark:hover {
   border-left: 3px solid light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-4));
   font-style: italic;
   color: light-dark(var(--mantine-color-dark-1), var(--mantine-color-gray-4)); /* Slightly different color */
+}
+
+@media (max-width: 1000px) {
+  .quote{
+    padding-left: 0.5rem;
+  }
 }
 
 
