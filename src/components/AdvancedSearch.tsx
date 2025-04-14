@@ -59,7 +59,7 @@ interface AdvancedSearchProps {
 function AdvancedSearch({ advancedSearchResults, setAdvancedSearchResults, onSearch, onOpenText, isMobile, setTargetSegmentNumber, query, setQuery, setMatchedBookSegments, matchedBookSegments }: AdvancedSearchProps) {
   const [queryType, setQueryType] = useState('stemmed');
   const [filterMode, setFilterMode] = useState('include');
-  const [searchType, setSearchType] = useState<'segments' | 'books'>('segments');
+  const [searchType, setSearchType] = useState<'segments' | 'books'>('books');
   const [authors, setAuthors] = useState<string[]>([]);
   const [collections, setCollections] = useState<string[]>([]);
   const [titles, setTitles] = useState<string[]>([]);
@@ -214,7 +214,15 @@ function AdvancedSearch({ advancedSearchResults, setAdvancedSearchResults, onSea
         <Stack gap="xs">
           {/* Search type segment control */}
           <div>
-            <Text size="sm" fw={500} mb={5}>Result Type</Text>
+            <Group gap="lg" justify='flex-start'>
+              <Text size="sm" fw={500} mb={5}>Result Type</Text>
+              <Tooltip label="Show search result grouped by books or as individual segments." position="top-end" withArrow>
+                <IconInfoCircle size={14} style={{ 
+                  color: 'var(--mantine-color-dimmed)',
+                  transform: 'translateY(-4px)'
+                }} />
+              </Tooltip>
+            </Group>
             <SegmentedControl
               value={searchType}
               onChange={(value) => setSearchType(value as 'segments' | 'books')}
@@ -234,7 +242,7 @@ function AdvancedSearch({ advancedSearchResults, setAdvancedSearchResults, onSea
           <div>
             <Group gap="lg" justify='flex-start'>
               <Text size="sm" fw={500} mb={5}>Search Mode</Text>
-              <Tooltip label="Select how terms are matched in the text" position="top-end" withArrow>
+              <Tooltip label="Select how terms are matched in the text." position="top-end" withArrow>
                 <IconInfoCircle size={14} style={{ 
                   color: 'var(--mantine-color-dimmed)',
                   transform: 'translateY(-4px)'
