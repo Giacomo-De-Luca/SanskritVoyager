@@ -29,7 +29,7 @@ const optionsFilter: OptionsFilter = ({ options, search }) => {
 
 
 const links = [
-  { link: '/docs/intro', label: 'Documentation' },
+  { link: '/docs/', label: 'Documentation' },
   { link: '/docs/about', label: 'About' },
 ];
 
