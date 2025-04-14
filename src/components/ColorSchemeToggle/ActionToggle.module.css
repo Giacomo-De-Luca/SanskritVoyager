@@ -62,3 +62,8 @@
   animation: expand-contract 0.5s ease-in-out;
 
 }
+
+.actionIcon:hover {
+  border-color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
+
+}

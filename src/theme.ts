@@ -6,6 +6,7 @@ import './IndUni-P/IndUni-P.css';
 
 export const theme = createTheme({
 
+  primaryColor: 'primary',
 
   fontFamily: 'Palatino, serif',
 
@@ -28,9 +29,24 @@ export const theme = createTheme({
   colors: {
     primary: virtualColor({
       name: 'primary',
-      dark: 'pink',
-      light: 'cyan',
+      dark: 'coolOrange',
+      light: 'coolOrange',
     }),
+
+   coolOrange: [
+      '#dd8c71', // 0: lightest
+      '#dd8c71',
+      '#dd8c71',
+      '#dd8c71', // 4: your main color
+      '#dd8c71',
+      '#dd8c71',
+      '#dd8c71',
+      '#dd8c71',
+      '#dd8c71', // 9: darkest
+      '#dd8c71', // 10: even darker
+    ],
+
+  
 
   lightscale: [
 
