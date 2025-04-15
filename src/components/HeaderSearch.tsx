@@ -1,4 +1,4 @@
-import { Autocomplete, Group, Burger, rem, OptionsFilter, ComboboxItem, Image, useMantineColorScheme } from '@mantine/core';
+import { Autocomplete, Group, Burger, rem, OptionsFilter, ComboboxItem, Image, useMantineColorScheme, Tooltip } from '@mantine/core';
 import { useDisclosure, useDebouncedState } from '@mantine/hooks';
 import { IconSearch } from '@tabler/icons-react';
 import classes from './HeaderSearch.module.css';
@@ -116,9 +116,23 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
           <Burger opened={isNavbarVisible} onClick={() => { toggle(); onToggleNavbar(); }} 
           size={isMobile ? "sm" : "md" } />
           <ActionToggle />
-          <Logo 
-            className={classes.logoSanskrit} 
-          />
+          <Tooltip label="Open documentation" position="bottom">
+            <a 
+              href="/docs" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              style={{ 
+                textDecoration: 'none',
+                display: 'flex',         // Add this
+                alignItems: 'center',    // Add this
+                height: '100%',          // Add this for consistent height 
+                lineHeight: 0,           // Remove any line-height issues
+                padding: 0               // Remove any default padding
+              }}
+            >
+              <Logo className={classes.logoSanskrit} />
+            </a>
+          </Tooltip>
                   
           </Group>
 
