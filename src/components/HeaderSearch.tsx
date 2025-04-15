@@ -115,7 +115,6 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
 
           <Burger opened={isNavbarVisible} onClick={() => { toggle(); onToggleNavbar(); }} 
           size={isMobile ? "sm" : "md" } />
-          <ActionToggle />
           <Tooltip label="Open documentation" position="bottom">
             <a 
               href="/docs" 
@@ -133,6 +132,9 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
               <Logo className={classes.logoSanskrit} />
             </a>
           </Tooltip>
+
+          <ActionToggle />
+
                   
           </Group>
 

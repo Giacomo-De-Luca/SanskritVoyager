@@ -39,9 +39,12 @@
 
 }
 
+
 .dark:hover {
   transform: rotate(12deg);
-  color: darkblue;
+  filter: brightness(1.2);
+  color: var(--mantine-color-indigo-6);
+
 }
 
 @keyframes expand-contract {
@@ -57,8 +60,13 @@
 }
 
 
+.light {
+  color: var(--mantine-color-coolOrange-5);
+
+}
+
 .light:hover {
-  color: var(--mantine-color-yellow-5);
+  filter: brightness(1.2);
   animation: expand-contract 0.5s ease-in-out;
 
 }
@@ -66,4 +74,8 @@
 .actionIcon:hover {
   border-color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
 
+}
+
+.dark {
+  color: var(--mantine-color-grape-6) !important;
 }
