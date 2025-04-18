@@ -123,7 +123,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
           <Burger 
             opened={isNavbarVisible} 
             onClick={() => { toggle(); onToggleNavbar(); }} 
-            size={isMobile ? "sm" : "md" } 
+            size={isMobile ? "sm" : "sm" } 
             classNames={{ 
                           root: classes.burgerRoot,
                           burger: classes.burgerBurger,

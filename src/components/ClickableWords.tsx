@@ -11,8 +11,6 @@ interface ClickableWordsProps {
   selectedWord: string;
   textTranslit: string;
   setSelectedWord: (word: string) => void;
-  hoveredWord: string | null;
-  setHoveredWord: (word: string | null) => void;
   selectedDictionaries: string[];
   wordData: WordEntry[];
   isLoadingWordData: boolean;
@@ -29,8 +27,6 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
   lines,
   selectedWord,
   setSelectedWord,
-  hoveredWord,
-  setHoveredWord,
   wordData,
   isLoadingWordData,
   setIsLoadingWordData,
@@ -84,15 +80,12 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
                   const trimmedWord = word.trim();
                   return (
                     <span
+                     className={`
+                          ${classes.word}
+                          ${selectedWord === trimmedWord ? classes.selectedWord : ''}
+                          `}
                       key={wordIndex}
                       onClick={(e) => handleWordClick(trimmedWord, e)}
-                      onMouseEnter={() => setHoveredWord(trimmedWord)}
-                      onMouseLeave={() => setHoveredWord(null)}
-                      style={{ 
-                        color: selectedWord === trimmedWord ? 'orange' : 'inherit',
-                        ...(hoveredWord === trimmedWord ? { color: 'gray' } : {}),
-                        cursor: 'pointer',
-                      }}
                     >
                       {word + ' '}
                     </span>

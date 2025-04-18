@@ -55,7 +55,7 @@
     color: orange;
   }
   
-  .hoveredWord {
+  .word:hover {
     color: gray;
   }
   

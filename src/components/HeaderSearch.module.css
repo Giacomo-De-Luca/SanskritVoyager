@@ -104,3 +104,10 @@
   --burger-color:  light-dark(var(--mantine-color-lightscale-9), var(--mantine-color-coolOrange-4));
 
 }
+
+/* Animation only for the closed burger */
+.burgerBurger:not([data-opened="false"]):hover {
+transform: rotate(20deg);
+  transition: transform 0.3s ease;
+}
+

@@ -18,8 +18,6 @@ interface ClickableSimpleBooksProps {
   wordData: WordEntry[];
   setClickedAdditionalWord: (word: string) => void;
   selectedDictionaries: string[];
-  hoveredWord: string | null;
-  setHoveredWord: React.Dispatch<React.SetStateAction<string | null>>;
   textType: string;
   isLoadingWordData: boolean;
   targetSegmentNumber: number | null;
@@ -39,8 +37,6 @@ const ClickableSimpleBooks = ({
   setClickedAdditionalWord,
   selectedDictionaries,
   textType,
-  hoveredWord,
-  setHoveredWord,
   isLoadingWordData,
   targetSegmentNumber,
   setTargetSegmentNumber,
@@ -299,13 +295,10 @@ const ClickableSimpleBooks = ({
                           setSelectedWord(sanskritWord.toLowerCase());
                           setClickedWord(sanskritWord);
                         }}
-                        onMouseEnter={() => setHoveredWord(sanskritWord)}
-                        onMouseLeave={() => setHoveredWord(null)}
                         className={`
                           ${classes.word}
                           ${classes.sanskritWord}
                           ${selectedWord === sanskritWord ? classes.selectedWord : ''}   
-                          ${hoveredWord === sanskritWord ? classes.hoveredWord : ''}
                         `}
                       >
                         {sanskritWord + ' '}
@@ -339,12 +332,9 @@ const ClickableSimpleBooks = ({
                         setSelectedWord(trimmedWord);
                         setClickedWord(trimmedWord);
                       }}
-                      onMouseEnter={() => setHoveredWord(trimmedWord)}
-                      onMouseLeave={() => setHoveredWord(null)}
                       className={`
                         ${classes.word}
                         ${selectedWord === trimmedWord ? classes.selectedWord : ''}
-                        ${hoveredWord === trimmedWord ? classes.hoveredWord : ''}
                       `}
                     >
                       {word + ' '}
