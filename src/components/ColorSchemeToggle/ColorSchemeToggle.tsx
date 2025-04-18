@@ -1,7 +1,7 @@
 import cx from 'clsx';
 import { ActionIcon, useMantineColorScheme, useComputedColorScheme, Group, Button } from '@mantine/core';
 import { IconSun, IconMoon } from '@tabler/icons-react';
-import classes from './ActionToggle.module.css';
+import classes from './ColorSchemeToggle.module.css';
 import { useMediaQuery } from '@mantine/hooks';
 
 export function ActionToggle() {

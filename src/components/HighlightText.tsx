@@ -5,9 +5,10 @@ import classes from './AdvancedSearch.module.css';
 interface HighlightTextProps {
   text: string;
   query: string;
+  isSearchResult?: boolean;
 }
 
-const HighlightText: React.FC<HighlightTextProps> = ({ text, query }) => {
+const HighlightText: React.FC<HighlightTextProps> = ({ text, query, isSearchResult}) => {
   const containerRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -25,8 +26,9 @@ const HighlightText: React.FC<HighlightTextProps> = ({ text, query }) => {
     }
   }, [text, query]);
 
+
   return (
-    <div ref={containerRef} className={classes.highlightedBox}>
+    <div ref={containerRef} className={isSearchResult ? classes.highlightedBox : classes.highlightedText}>
       {text}
     </div>
   );

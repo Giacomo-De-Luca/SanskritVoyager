@@ -18,7 +18,6 @@
   display: flex;
   flex-direction: column;
   padding: 0.75rem;
-  margin-top: 50px;
   background-color: light-dark(var(--mantine-color-lightscale-2), var(--mantine-color-dark-6));
 }
 
@@ -291,8 +290,6 @@
 }
 
 
-
-
 .segmentNumber {
   color: light-dark(var(--mantine-color-palette-2), var(--mantine-color-teal-4)); /* Distinctive color for segment numbers */
 }
@@ -317,4 +314,10 @@
   color: light-dark(var(--mantine-color-orange-5), var(--mantine-color-grape-2));
   font-weight: 500;
   margin-right: 0.5rem;
+}
+
+.highlightedBox {
+
+  font-size: 16px;
+  color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-4));
 }

@@ -1,9 +1,9 @@
 import React, { useState, useEffect, useRef, createContext, useContext } from 'react';
 import { ActionToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle';
-import { Select, MultiSelect, Grid, Textarea, Button, Loader, Text, Stack, ActionIcon, Skeleton, useMantineTheme, Transition } from '@mantine/core';
+import { Select, MultiSelect, Grid, Textarea, Button, Loader, Text, Stack, ActionIcon, Skeleton, useMantineTheme, Transition, Modal } from '@mantine/core';
 import { FileInput } from '@mantine/core';
 import { ComboboxItem, Container, lighten, darken, ScrollArea } from '@mantine/core';
-import { useDisclosure, useDebouncedState, useMediaQuery } from '@mantine/hooks';
+import { useDisclosure, useDebouncedState, useMediaQuery, useHotkeys } from '@mantine/hooks';
 import WordDataComponent from '@/components/WordDataComponent';
 import { fetchWordData, fetchMultidictData, transliterateText, handleTranslate } from '../utils/Api';
 import { HeaderSearch } from '@/components/HeaderSearch';
@@ -53,7 +53,11 @@ export function HomePage() {
   const [isWordInfoVisible, setIsWordInfoVisible] = useState(false);
   const [displayInflectionTables, setDisplayInflectionTables] = useState(false);
   const [isLoadingWordData, setIsLoadingWordData] = useState(false);
+
+
   const [isAdvancedSearchVisible, handleAdvancedSearch] = useDisclosure(false);
+
+  
   const [hoveredWord, setHoveredWord] = useState<string | null>(null);
   const [isNavbarVisible, setIsNavbarVisible] = useState(true);
   const [viewportHeight, setViewportHeight] = useState(window.innerHeight);
@@ -86,6 +90,11 @@ export function HomePage() {
   const [matchedBookSegments, setMatchedBookSegments] = useState<number[]>([]);
 
   const isWordInfoHalf = text !== '' || bookTitle !== null
+
+
+
+  useHotkeys([
+    ['mod+s', () => handleAdvancedSearch.toggle()]])
   
 
   // Effect to track viewport size
@@ -105,12 +114,7 @@ export function HomePage() {
     };
   }, []);
   
-  // Effect to show word info when advanced search is visible
-  useEffect(() => {
-    if (isAdvancedSearchVisible) {
-      setIsWordInfoVisible(true);
-    }
-  }, [isAdvancedSearchVisible]);
+
   
   // Effect to scroll to clicked word
   useEffect(() => {
@@ -262,6 +266,9 @@ export function HomePage() {
   const vhActual = `${availableHeight}px`;
   const vhActualHalf = `${availableHeight / 2}px`;
 
+  const showEmptyMobileState = isMobile && text === null && bookTitle === null && wordData == null;
+
+
 
   // now the main page
   // mainContainer wrapping everything
@@ -310,6 +317,9 @@ export function HomePage() {
         onToggleNavbar={toggleNavbar}
         isMobile={isMobile}
         isNavbarVisible={isNavbarVisible}
+        handleAdvancedSearch={handleAdvancedSearch}
+
+
       />
 
       <div 
@@ -421,6 +431,7 @@ export function HomePage() {
                         '1px solid lightgray' : 'none',
                   }}
                 >
+
                   {textTranslit !== '' && (
                     <ClickableWords
                       lines={lines}
@@ -535,8 +546,16 @@ export function HomePage() {
                     }
                 >
 
+                {showEmptyMobileState && (
+                  <Text c="dimmed" ta="center" mt="xl">
+                    Select a book or enter text to begin
+                  </Text>
+                )}
+
+
                 {/* Here starts the chevron container */}
                 {isWordInfoHalf && (
+
                       <div className={classes.chevronContainer}>
                         <ActionIcon 
                           className={classes.chevronButton}
@@ -561,25 +580,6 @@ export function HomePage() {
                   <div className={classes.scrollContainer}>
                     {isLoadingWordData ? (
                       <LoadingSkeleton />
-                    ) : isAdvancedSearchVisible ? (
-                      <AdvancedSearch
-                          advancedSearchResults={advancedSearchResults}
-                          setAdvancedSearchResults={setAdvancedSearchResults}
-                          isMobile={isMobile} 
-                          query={query}
-                          setQuery={setQuery}
-                          onSearch={(params) => {
-                            console.log('Advanced search params:', params);
-                          }}
-                          setTargetSegmentNumber = {setTargetSegmentNumber}
-                          onOpenText={(textId, bookTitle) => {
-                            // Store both the ID and title
-                            setBookTitle(bookTitle);
-                                                
-                          }}
-                          matchedBookSegments={matchedBookSegments}
-                          setMatchedBookSegments={setMatchedBookSegments}
-                        />
                     ) : (
                       <WordDataComponent
                         wordData={wordData}
@@ -601,6 +601,42 @@ export function HomePage() {
         )}
       </div>
       <Analytics />
+      {/* Add the modal at the end of your component, before the Analytics tag */}
+      <Modal className={classes.advancedSearchModal} 
+              opened={isAdvancedSearchVisible} 
+              onClose={handleAdvancedSearch.close} 
+              size='xl' 
+              fullScreen={isMobile} // Add fullScreen prop for mobile
+              centered 
+              classNames={{
+                header: classes.modalHeader,
+                title: classes.modalTitle,
+              }}
+              >
+      <AdvancedSearch
+                          advancedSearchResults={advancedSearchResults}
+                          setAdvancedSearchResults={setAdvancedSearchResults}
+                          isMobile={isMobile} 
+                          query={query}
+                          setQuery={setQuery}
+                          onSearch={(params) => {
+                            console.log('Advanced search params:', params);
+                          }}
+                          setTargetSegmentNumber = {setTargetSegmentNumber}
+                          onOpenText={(textId, bookTitle) => {
+                            // Store both the ID and title
+                            setBookTitle(bookTitle);
+                                                
+                          }}
+                          matchedBookSegments={matchedBookSegments}
+                          setMatchedBookSegments={setMatchedBookSegments}
+                          handleAdvancedSearch={handleAdvancedSearch}
+                          setIsNavbarVisible={setIsNavbarVisible}
+                        />
+      </Modal>
+
+
+          <Analytics />
     </div>
   );
 }

@@ -1,0 +1,49 @@
+.icon {
+    width: rem(22px);
+    height: rem(22px);
+    transition: transform 0.3s ease;
+  
+  }
+  
+  
+  @media (max-width: 600px) {
+    .actionIcon {
+      size: 16px;
+    }
+    .icon {
+      width: 16px;
+      height: 16px;
+    }
+    .search {
+      width: 100%;
+    }
+  
+  }
+  
+  
+  @keyframes expand-contract {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  
+
+  .actionIcon:hover {
+    filter: brightness(1.2);
+  }
+  
+ 
+
+
+.actionIcon:hover {
+  border-color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
+  color: light-dark(var(--mantine-color-lightscale-9), var(--mantine-color-coolOrange-6));
+
+}

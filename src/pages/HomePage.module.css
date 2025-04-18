@@ -336,3 +336,23 @@
   
 }
 
+.modalTitle {
+  
+    font-family: 'LibertinusSans', sans-serif;
+    font-weight: 500;
+    color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-2));
+  
+}
+
+.modalHeader:hover {
+
+  filter: brightness(1.2);
+
+}
+
+.modalHeader {
+
+  position: sticky;
+  background-color: transparent;
+  right: 10px;
+}

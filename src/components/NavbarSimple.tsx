@@ -1,5 +1,6 @@
 import { useState, ReactNode } from 'react';
 import { Group, Code, Select, Stack, Textarea, Button, } from '@mantine/core';
+import { useDisclosure } from '@mantine/hooks';
 import {
   IconBellRinging,
   IconFingerprint,
@@ -39,6 +40,7 @@ interface NavbarProps { // Updated Props
   setBookTitle: (value: string | null) => void;
   textType: string;
   setTextType: (value: string) => void;
+
   handleAdvancedSearch: {
     open: () => void;
     close: () => void;
@@ -173,12 +175,11 @@ export function NavbarSimple({
           leftSection={<IconSettingsSearch className={classes.advancedSearchIcon} size={18} stroke={1.5}/>} 
           onClick={() => {
             handleAdvancedSearch.toggle();
-            setIsNavbarVisible(false);
           }}
           justify='left'
           
           >
-          Corpus Search (Beta - Desktop Only)
+          Corpus Search 
         </Button>
 
 

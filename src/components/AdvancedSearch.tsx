@@ -53,10 +53,17 @@ interface AdvancedSearchProps {
   setQuery: (query: string) => void;
   matchedBookSegments: number[];
   setMatchedBookSegments: (segments: number[]) => void;
+  handleAdvancedSearch: {
+    open: () => void;
+    close: () => void;
+    toggle: () => void;
+  };
+  setIsNavbarVisible: (value: boolean) => void;
+
   
 }
 
-function AdvancedSearch({ advancedSearchResults, setAdvancedSearchResults, onSearch, onOpenText, isMobile, setTargetSegmentNumber, query, setQuery, setMatchedBookSegments, matchedBookSegments }: AdvancedSearchProps) {
+function AdvancedSearch({ advancedSearchResults, setAdvancedSearchResults, onSearch, onOpenText, isMobile, setTargetSegmentNumber, query, setQuery, setMatchedBookSegments, matchedBookSegments, handleAdvancedSearch, setIsNavbarVisible }: AdvancedSearchProps) {
   const [queryType, setQueryType] = useState('stemmed');
   const [filterMode, setFilterMode] = useState('include');
   const [searchType, setSearchType] = useState<'segments' | 'books'>('books');
@@ -167,6 +174,9 @@ function AdvancedSearch({ advancedSearchResults, setAdvancedSearchResults, onSea
   }, [query, searchType]);
   
   // Handle clicking on a text to open it
+  // here add two things: close the modal and close the navbar as well if it's on mobile
+  // TODO
+
   const handleOpenText = (textId: string, title: string, segmentNumber?: number, matchedSegments?: number[]) => {
     if (onOpenText) {
 
@@ -189,7 +199,9 @@ function AdvancedSearch({ advancedSearchResults, setAdvancedSearchResults, onSea
       console.log("matched_segments", matchedBookSegments);
       setTargetSegmentNumber(segmentNumber || 0);
       onOpenText(textId, title);
+      handleAdvancedSearch.close();
       console.log(segmentNumber);
+      isMobile ? (setIsNavbarVisible(false)) : null;
     }
   };
 

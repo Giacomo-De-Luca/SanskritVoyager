@@ -153,7 +153,8 @@ function AdvancedSearchResults({
                 {/* Segment content with highlighted query - add visual separation */}
                 <div className={classes.segmentContent}>
                     <Divider my="xs" />
-                    <HighlightText 
+                    <HighlightText
+                    isSearchResult={true} 
                     text={segment.text} 
                     query={query}
                     />
@@ -282,6 +283,7 @@ function AdvancedSearchResults({
                             </Group>
                             
                             <HighlightText 
+                                isSearchResult={true}
                                 text={segment.text} 
                                 query={query}
                             />

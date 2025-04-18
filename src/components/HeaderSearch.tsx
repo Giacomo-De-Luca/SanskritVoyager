@@ -1,6 +1,6 @@
-import { Autocomplete, Group, Burger, rem, OptionsFilter, ComboboxItem, Image, useMantineColorScheme, Tooltip } from '@mantine/core';
+import { Autocomplete, ActionIcon, Group, Burger, rem, OptionsFilter, ComboboxItem, Image, useMantineColorScheme, Tooltip } from '@mantine/core';
 import { useDisclosure, useDebouncedState } from '@mantine/hooks';
-import { IconSearch } from '@tabler/icons-react';
+import { IconSearch, IconListSearch } from '@tabler/icons-react';
 import classes from './HeaderSearch.module.css';
 import { ActionToggle } from './ColorSchemeToggle/ColorSchemeToggle';
 import { UiSwitch } from './UiSwitch';
@@ -9,6 +9,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import faviconlight from '../faviconlight.svg';
 import favicondark from '../favicondark.svg';
 import Logo from './logo'
+import SearchToggle from './AdvancedSearchToggle';
 
 
 
@@ -33,7 +34,13 @@ const links = [
   { link: '/docs/about', label: 'About' },
 ];
 
-export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobile  }: { onSearch: (query: string) => void, onToggleNavbar: () => void, isNavbarVisible: boolean, isMobile: boolean | undefined }) {
+export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobile, handleAdvancedSearch  }: { onSearch: (query: string) => void, onToggleNavbar: () => void, isNavbarVisible: boolean, isMobile: boolean | undefined,
+  handleAdvancedSearch: {
+    open: () => void;
+    close: () => void;
+    toggle: () => void;
+  }
+ }) {
   const [opened, { toggle }] = useDisclosure(isNavbarVisible);
   const [entries, setEntries] = useState([]);
   const [filteredData, setFilteredData] = useState<string[]>([]);
@@ -134,6 +141,12 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
           </Tooltip>
 
           <ActionToggle />
+          <SearchToggle
+          handleAdvancedSearch={handleAdvancedSearch}
+          isMobile={isMobile}
+          />
+
+
 
                   
           </Group>
