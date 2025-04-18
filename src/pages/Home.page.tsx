@@ -58,7 +58,6 @@ export function HomePage() {
   const [isAdvancedSearchVisible, handleAdvancedSearch] = useDisclosure(false);
 
   
-  const [hoveredWord, setHoveredWord] = useState<string | null>(null);
   const [isNavbarVisible, setIsNavbarVisible] = useState(true);
   const [viewportHeight, setViewportHeight] = useState(window.innerHeight);
   
@@ -438,8 +437,6 @@ export function HomePage() {
                       textTranslit={textTranslit}
                       selectedWord={selectedWord}
                       setSelectedWord={setSelectedWord}
-                      hoveredWord={hoveredWord}
-                      setHoveredWord={setHoveredWord}
                       selectedDictionaries={selectedDictionaries}
                       wordData={wordData}
                       isLoadingWordData={isLoadingWordData}
@@ -460,8 +457,6 @@ export function HomePage() {
                     wordData={wordData}
                     setClickedAdditionalWord={setClickedAdditionalWord}
                     selectedDictionaries={selectedDictionaries}
-                    hoveredWord={hoveredWord}
-                    setHoveredWord={setHoveredWord}
                     textType={textType}
                     isLoadingWordData={isLoadingWordData}
                     targetSegmentNumber={targetSegmentNumber}
@@ -611,6 +606,7 @@ export function HomePage() {
               classNames={{
                 header: classes.modalHeader,
                 title: classes.modalTitle,
+                close: classes.modalClose,
               }}
               >
       <AdvancedSearch
