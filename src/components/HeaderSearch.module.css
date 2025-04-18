@@ -91,5 +91,16 @@
 }
 
 .logoSanskrit:hover {
-  color: light-dark(var(--mantine-color-lightscale-9), var(--mantine-color-orange-4));
+  color: light-dark(var(--mantine-color-lightscale-9), var(--mantine-color-coolOrange-4));
+}
+
+/* Style for the burger lines
+.burgerBurger {
+  --burger-color: var(--mantine-color-grape-6);
+}
+ */
+/* Hover state styling - target the ROOT element with hover */
+.burgerRoot:hover .burgerBurger {
+  --burger-color:  light-dark(var(--mantine-color-lightscale-9), var(--mantine-color-coolOrange-4));
+
 }

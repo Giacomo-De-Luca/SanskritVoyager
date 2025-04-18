@@ -120,8 +120,17 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
         <Group>
           
 
-          <Burger opened={isNavbarVisible} onClick={() => { toggle(); onToggleNavbar(); }} 
-          size={isMobile ? "sm" : "md" } />
+          <Burger 
+            opened={isNavbarVisible} 
+            onClick={() => { toggle(); onToggleNavbar(); }} 
+            size={isMobile ? "sm" : "md" } 
+            classNames={{ 
+                          root: classes.burgerRoot,
+                          burger: classes.burgerBurger,
+             }}
+            />
+
+
           <Tooltip label="Open documentation" position="bottom">
             <a 
               href="/docs" 
