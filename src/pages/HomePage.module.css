@@ -356,3 +356,24 @@
   background-color: transparent;
   right: 10px;
 }
+
+.modalClose {
+
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  background-color: var(--mantine-color-body) ; /* Uses Mantine's body background color */
+  border-radius: 50%;
+  box-shadow: 0 0 0px rgba(0, 0, 0, 0.1);
+  color: light-dark(var(--mantine-color-dark-3), var(--mantine-color-dark-1)); /* Adjust the colors as needed */
+  border: 1px solid light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-1)); /* Add border */
+  transition-duration: 200ms;
+
+
+}
+
+.modalClose:hover {
+  color: var(--mantine-color-coolOrange-0);
+  transform: rotate(20deg);
+  border-color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
+
+
+}
