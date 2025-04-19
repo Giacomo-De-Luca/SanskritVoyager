@@ -45,9 +45,10 @@
   @media (max-width: 600px) {
     margin-top: 0px;
 
-
   }
 }
+
+
 
 .readingButton {
   color: light-dark(var(--mantine-color-gray-9), var(--mantine-color-dark-1));
@@ -376,4 +377,9 @@
   border-color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
 
 
+}
+
+.modalBody {
+
+  padding-bottom: 3rem;
 }

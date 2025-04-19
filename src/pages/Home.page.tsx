@@ -588,6 +588,7 @@ export function HomePage() {
                 header: classes.modalHeader,
                 title: classes.modalTitle,
                 close: classes.modalClose,
+                body: classes.modalBody,
               }}
               >
       <AdvancedSearch

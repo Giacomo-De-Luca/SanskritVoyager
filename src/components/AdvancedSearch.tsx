@@ -227,7 +227,7 @@ function AdvancedSearch({ advancedSearchResults, setAdvancedSearchResults, onSea
           {/* Search type segment control */}
           <div>
             <Group gap="lg" justify='flex-start'>
-              <Text size="sm" fw={500} mb={5}>Result Type</Text>
+              <Text size="sm" fw={500} mb={5} pr='7px'>Result Type  </Text>
               <Tooltip label="Show search result grouped by books or as individual segments." position="top-end" withArrow>
                 <IconInfoCircle size={14} style={{ 
                   color: 'var(--mantine-color-dimmed)',
