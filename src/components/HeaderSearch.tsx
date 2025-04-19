@@ -127,8 +127,9 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
     <header className={classes.header}>
       <div className={classes.inner}>
   
-        <Group>
-          
+        <Group
+        gap={ isMobile ? 'xs' : 'md' }
+        >
 
           <Burger 
             opened={isNavbarVisible} 
@@ -173,7 +174,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
           </Group>
           <Autocomplete
             className={classes.search}
-            rightSection={
+            rightSection={ isMobile ? "" : (
                             <Badge
                               className={classes.searchShortcut}
                               variant="outline"
@@ -184,10 +185,10 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
                                                 }} // Add right padding
                               >
                               Ctrl+K
-                            </Badge>
+                            </Badge> )
                           }
             rightSectionWidth={60}
-            placeholder="Search Sanskrit words."
+            placeholder="Search Sanskrit Words."
             leftSection={<IconSearch style={{ width: rem(16), height: rem(16) }} stroke={1.5} />}
             data={entries}
             onChange={selectEntries}
