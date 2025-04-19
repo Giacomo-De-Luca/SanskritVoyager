@@ -14,10 +14,11 @@ interface ScrollMarkersProps {
   matchedBookSegments: number[];
   
   /** The currently active/highlighted segment number, or null if none */
-  targetSegmentNumber: number | null;
   
   /** Function to set the new target segment number */
-  setTargetSegmentNumber: (segmentNumber: number) => void;
+
+  activeSegment: number | null; // For styling only
+  onSegmentClick: (segmentNumber: number) => void; // Direct function call
 
   initialRenderComplete: boolean;
   
@@ -38,8 +39,8 @@ const ScrollMarkers: React.FC<ScrollMarkersProps> = ({
   containerRef,
   segmentRefs,
   matchedBookSegments,
-  targetSegmentNumber,
-  setTargetSegmentNumber,
+  activeSegment,
+  onSegmentClick,
   initialRenderComplete
 
 }) => {
@@ -150,9 +151,9 @@ useEffect(() => {
       {processedMatches.map(segment => (
         <div
           key={segment.segmentNumber}
-          onClick={() => setTargetSegmentNumber(segment.segmentNumber)}
+          onClick={() => onSegmentClick(segment.segmentNumber)} // Direct function call
           className={`${classes.marker} ${
-                      segment.segmentNumber === targetSegmentNumber ? classes.activeMarker : ''
+                      segment.segmentNumber === activeSegment ? classes.activeMarker : ''
                       }`}          style={{ top: `${segment.positionPercent}%` }}
           title={`Go to segment ${segment.segmentNumber}`}
         />

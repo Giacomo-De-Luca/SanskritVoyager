@@ -147,7 +147,7 @@
 
 
 mark {
-  color: light-dark(var(--mantine-color-lightscale-9), var(--mantine-color-grape-4)); 
+  color: light-dark(var(--mantine-color-lightscale-9), var(--mantine-color-coolOrange-4)); 
   text-underline-offset: 6px;
   background-color: transparent; /* Ensure the background is transparent */
   transition: all 0.2s ease;
@@ -156,7 +156,8 @@ mark {
 
 mark:hover {
 
-  color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-grape-2));
+  filter: brightness(1.2);
+
 }
 
 

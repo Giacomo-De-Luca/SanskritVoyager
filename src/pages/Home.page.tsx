@@ -29,7 +29,6 @@ import { useResponsive } from '@/context/ResponsiveContext';
 
 import { fetchBookText } from '../utils/apiService';
 
-
 // unused
 interface Translation {
   English: string;
@@ -65,11 +64,14 @@ export function HomePage() {
   const isTextEmpty = text === "" && Object.keys(bookText).length === 0;
   const words = textTranslit ? textTranslit.split(/\s+|\\+/) : [];
   const lines = textTranslit ? textTranslit.split('\n') : [];
-  const [clickedWord, setClickedWord] = useState<string | null>(null);
+
   const [wordData, setWordData] = useState<WordEntry[]>([]);
   const [clickedAdditionalWord, setClickedAdditionalWord] = useState<string | null>(null);
   const [clickedInfoWord, setClickedInfoWord] = useState<string | null>(null);
   
+
+
+
   // ----- Media queries -----
 
   const { isMobile, isTablet, isSmallMobile } = useResponsive();
@@ -425,8 +427,6 @@ export function HomePage() {
                       selectedDictionaries={selectedDictionaries}
                       wordData={wordData}
                       isLoadingWordData={isLoadingWordData}
-                      clickedWord={clickedWord}
-                      setClickedWord={setClickedWord}
                       setClickedAdditionalWord={setClickedAdditionalWord}
                       setIsLoadingWordData={setIsLoadingWordData}
                     />
@@ -434,14 +434,9 @@ export function HomePage() {
 
                   <ClickableSimpleBooks
                     bookText={bookText}
-                    selectedWord={selectedWord}
                     setSelectedWord={setSelectedWord}
-                    clickedWord={clickedWord}
-                    setClickedWord={setClickedWord}
-                    setWordData={setWordData}
                     wordData={wordData}
                     setClickedAdditionalWord={setClickedAdditionalWord}
-                    selectedDictionaries={selectedDictionaries}
                     textType={textType}
                     isLoadingWordData={isLoadingWordData}
                     targetSegmentNumber={targetSegmentNumber}

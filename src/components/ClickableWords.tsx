@@ -14,8 +14,6 @@ interface ClickableWordsProps {
   selectedDictionaries: string[];
   wordData: WordEntry[];
   isLoadingWordData: boolean;
-  clickedWord: string | null;
-  setClickedWord: (word: string | null) => void;
   onWordClick?: (word: string) => void;
   onAdditionalWordClick?: (word: string) => void;
   setClickedAdditionalWord: (word: string) => void;
@@ -30,21 +28,17 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
   wordData,
   isLoadingWordData,
   setIsLoadingWordData,
-  clickedWord,
-  setClickedWord,
   onWordClick,
   onAdditionalWordClick,
   textTranslit,
   setClickedAdditionalWord
 }) => {
   const [clickedElement, setClickedElement] = useState<HTMLElement | null>(null);
-  const [previousElement, setPreviousElement] = useState<HTMLElement | null>(null);
   const clipboard = useClipboard({ timeout: 500 });
 
   const handleWordClick = async (trimmedWord: string, event: React.MouseEvent<HTMLSpanElement>) => {
     setClickedElement(event.currentTarget);
     setSelectedWord(trimmedWord);
-    setClickedWord(trimmedWord);
     //setIsLoadingWordData(true);
     if (onWordClick) {
       onWordClick(trimmedWord);
@@ -99,11 +93,9 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
 
       <WordInfoPortal
         clickedElement={clickedElement}
-        previousElement={previousElement}
         wordData={wordData}
         isLoadingDebug={isLoadingWordData}
         onAdditionalWordClick={setClickedAdditionalWord}
-        setPreviousElement={setPreviousElement}
       />
     </>
   );

@@ -9,24 +9,28 @@ import HighlightText from './HighlightText';
 import { Accordion } from '@mantine/core';
 import { useThrottledCallback, useThrottledState } from '@mantine/hooks';
 import ScrollMarkers from './ClickableSimpleMarkers';
-
+import BookSpan from './ClickableSimpleBooksSpan';
 
 interface ClickableSimpleBooksProps {
   bookText: BookText;
-  selectedWord: string;
-  setSelectedWord: (word: string) => void;
-  clickedWord: string | null;
-  setClickedWord: React.Dispatch<React.SetStateAction<string | null>>;
-  setWordData: (data: any) => void;
+
+
   wordData: WordEntry[];
-  setClickedAdditionalWord: (word: string) => void;
-  selectedDictionaries: string[];
   textType: string;
   isLoadingWordData: boolean;
   targetSegmentNumber: number | null;
   setTargetSegmentNumber: React.Dispatch<React.SetStateAction<number | null>>;
   query: string;
   matchedBookSegments: number[];
+  setSelectedWord: (word: string) => void;
+  setClickedAdditionalWord: (word: string) => void;
+
+
+  //setWordData: (data: any) => void;
+  // selectedDictionaries: string[];
+
+
+
 }
 
 interface ProcessedMatch {
@@ -36,14 +40,9 @@ interface ProcessedMatch {
 
 const ClickableSimpleBooks = ({
   bookText,
-  selectedWord,
   setSelectedWord,
-  clickedWord,
-  setClickedWord,
-  setWordData,
   wordData,
   setClickedAdditionalWord,
-  selectedDictionaries,
   textType,
   isLoadingWordData,
   targetSegmentNumber,
@@ -51,11 +50,12 @@ const ClickableSimpleBooks = ({
   query,
   matchedBookSegments,
 }: ClickableSimpleBooksProps) => {
+  
   const clickedWordInfoRef = useRef<HTMLDivElement>(null);
 
   const [clickedElement, setClickedElement] = useState<HTMLElement | null>(null);
-  const [previousElement, setPreviousElement] = useState<HTMLElement | null>(null);
   
+  const highlightedSpanRef = useRef<HTMLElement | null>(null);
 
 
   // Create a global note counter to ensure unique IDs
@@ -92,26 +92,26 @@ const ClickableSimpleBooks = ({
   }, [bookText]);
 
   
-  // Scroll to target segment using refs
-  useEffect(() => {
-    if (targetSegmentNumber !== null && bookText.body) {
-      console.log(`Scrolling to segment ${targetSegmentNumber}`);
+    // Create a reusable scroll function that doesn't trigger re-renders
+    const scrollToSegment = useCallback((segmentNumber: number) => {
+      if (!bookText.body) return;
+      
+      console.log(`Scrolling to segment ${segmentNumber}`);
       
       // Wait for refs to be populated
       const timeoutId = setTimeout(() => {
         // Try to get the element from our refs map
-        const targetElement = segmentRefs.current.get(targetSegmentNumber);
+        const targetElement = segmentRefs.current.get(segmentNumber);
         
         if (targetElement) {
           // Scroll to the element
           targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
-          
         } else {
-          console.warn(`No ref found for segment ${targetSegmentNumber}`);
+          console.warn(`No ref found for segment ${segmentNumber}`);
           
           // Fallback to DOM query
-          const domElement = document.getElementById(`segment-${targetSegmentNumber}`) || 
-                            document.querySelector(`[data-segment-number="${targetSegmentNumber}"]`);
+          const domElement = document.getElementById(`segment-${segmentNumber}`) || 
+                            document.querySelector(`[data-segment-number="${segmentNumber}"]`);
           
           if (domElement) {
             domElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
@@ -119,9 +119,14 @@ const ClickableSimpleBooks = ({
         }
       }, 100);
       
-      return () => clearTimeout(timeoutId);
-    }
-  }, [bookText, targetSegmentNumber]);
+    }, [bookText.body]);
+
+    // Effect just calls the function when targetSegmentNumber changes
+    useEffect(() => {
+      if (targetSegmentNumber !== null) {
+        scrollToSegment(targetSegmentNumber);
+      }
+    }, [targetSegmentNumber, scrollToSegment]);
 
     // Effect 2: Set initial render complete flag after a delay
  useEffect(() => {
@@ -137,6 +142,30 @@ const ClickableSimpleBooks = ({
     // Depend on bookText to re-run this effect for new books,
     // and initialRenderComplete to prevent re-running after it's true.
   }, [bookText, initialRenderComplete]);
+
+    const handleWordClick = useCallback((e: React.MouseEvent<HTMLElement>, wordToSelect: string) => {
+            const currentElement = e.currentTarget;
+    
+            // --- Portal Positioning ---
+            setClickedElement(currentElement); // Still needed for the portal positioning
+    
+            // --- Highlighting Logic ---
+            // Remove highlight from the previously highlighted element, if any
+            if (highlightedSpanRef.current && highlightedSpanRef.current !== currentElement) {
+              highlightedSpanRef.current.classList.remove(classes.selectedWord);
+            }
+    
+            // Add highlight to the current element
+            currentElement.classList.add(classes.selectedWord);
+    
+            // Update the ref to the currently highlighted element
+            highlightedSpanRef.current = currentElement;
+    
+            // --- Call Parent Function ---
+            // This does NOT trigger a re-render of ClickableSimpleBooks
+            setSelectedWord(wordToSelect);
+    
+          }, [setSelectedWord]); // Include classes.selectedWord if it might change (unlikely)
 
 
   const renderTextElement = (element: TextElement): React.ReactNode => {
@@ -203,23 +232,23 @@ const ClickableSimpleBooks = ({
               <span className={classes.textContent}>
                 {parts.map((part, partIndex) => {
                   if (part.startsWith('<s>') && part.endsWith('</s>')) {
-                    const sanskritWord = part.replace(/<\/?s>/g, '').trim();
+                    const sanskritWordRaw = part.replace(/<\/?s>/g, '').trim();
+                    const sanskritWordProcessed = sanskritWordRaw.toLowerCase();
+
                     return (
-                      <span
+
+                      <BookSpan
                         key={`${segmentIndex}-${partIndex}`}
-                        onClick={async (e) => {
-                          setClickedElement(e.currentTarget);
-                          setSelectedWord(sanskritWord.toLowerCase());
-                          setClickedWord(sanskritWord);
-                        }}
-                        className={`
-                          ${classes.word}
-                          ${classes.sanskritWord}
-                          ${selectedWord === sanskritWord ? classes.selectedWord : ''}   
-                        `}
-                      >
-                        {sanskritWord + ' '}
-                      </span>
+                        wordText={sanskritWordRaw + ' '}
+                        wordKey={`${segmentIndex}-${partIndex}`}
+                        // Pass boolean directly based on current selectedWord
+                        isSanskrit={true}
+                        // Pass the memoized handler
+                        onClick={(e) => handleWordClick(e, sanskritWordProcessed)}
+                      />
+
+
+
                     );
                   }
                   return <span key={`${segmentIndex}-${partIndex}`}>{part}</span>;
@@ -242,20 +271,18 @@ const ClickableSimpleBooks = ({
                   if (!trimmedWord) return null;
                   
                   return (
-                    <span
-                      key={`${segmentIndex}-${wordIndex}`}
-                      onClick={async (e) => {
-                        setClickedElement(e.currentTarget);
-                        setSelectedWord(trimmedWord);
-                        setClickedWord(trimmedWord);
-                      }}
-                      className={`
-                        ${classes.word}
-                        ${selectedWord === trimmedWord ? classes.selectedWord : ''}
-                      `}
-                    >
-                      {word + ' '}
-                    </span>
+
+
+                    <BookSpan
+                                          wordText={word + ' '} // Display original word with space
+                                          wordKey={`${segmentIndex}-${wordIndex}`}
+                                          // Pass boolean directly
+                                          // Pass the memoized handler
+                                          onClick={(e) => handleWordClick(e, trimmedWord)}
+                    />
+
+
+
                   );
                 })}
                 {segmentIndex < segments.length - 1 && (
@@ -449,8 +476,8 @@ const ClickableSimpleBooks = ({
               containerRef={containerRef}
               segmentRefs={segmentRefs}
               matchedBookSegments={matchedBookSegments}
-              targetSegmentNumber={targetSegmentNumber}
-              setTargetSegmentNumber={setTargetSegmentNumber}
+              activeSegment={targetSegmentNumber} // For highlighting the active marker
+              onSegmentClick={scrollToSegment}
               initialRenderComplete={initialRenderComplete}
           />
         )}
@@ -458,11 +485,9 @@ const ClickableSimpleBooks = ({
       
       <WordInfoPortal
         clickedElement={clickedElement}
-        previousElement={previousElement}
         wordData={wordData}
         isLoadingDebug={isLoadingWordData}
         onAdditionalWordClick={setClickedAdditionalWord}
-        setPreviousElement={setPreviousElement}
       />
     </div>
   );

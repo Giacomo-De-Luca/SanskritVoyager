@@ -5,22 +5,19 @@ import classes from './ClickableSimpleBooks.module.css';
 
 interface WordInfoPortalProps {
   clickedElement: HTMLElement | null;
-  previousElement: HTMLElement | null;
   wordData: any[];
   isLoadingDebug: boolean;
   onAdditionalWordClick: (word: string) => void;
-  setPreviousElement: (element: HTMLElement | null) => void;
 }
 
 const WordInfoPortal: React.FC<WordInfoPortalProps> = ({
   clickedElement,
-  previousElement,
   wordData,
   isLoadingDebug,
   onAdditionalWordClick,
-  setPreviousElement
 }) => {
   const [portalContainer, setPortalContainer] = useState<HTMLDivElement | null>(null);
+  const [previousElement, setPreviousElement] = useState<HTMLElement | null>(null);
 
   useEffect(() => {
     if (!clickedElement) return;
