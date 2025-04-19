@@ -18,7 +18,7 @@ const SearchToggle = ({ isMobile, handleAdvancedSearch }: AdvancedSearchTogglePr
 
   return (
     <Group justify="center">
-      <Tooltip label="open Advanced Search (cmd + s)">
+      <Tooltip label="Open Advanced Search (Ctrl + S)">
       
       <ActionIcon
         className={classes.actionIcon}

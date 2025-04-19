@@ -3,7 +3,7 @@ import { ActionToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle'
 import { Select, MultiSelect, Grid, Textarea, Button, Loader, Text, Stack, ActionIcon, Skeleton, useMantineTheme, Transition, Modal } from '@mantine/core';
 import { FileInput } from '@mantine/core';
 import { ComboboxItem, Container, lighten, darken, ScrollArea } from '@mantine/core';
-import { useDisclosure, useDebouncedState, useMediaQuery, useHotkeys } from '@mantine/hooks';
+import { useDisclosure, useDebouncedState, useMediaQuery, useHotkeys, useViewportSize } from '@mantine/hooks';
 import WordDataComponent from '@/components/WordDataComponent';
 import { fetchWordData, fetchMultidictData, transliterateText, handleTranslate } from '../utils/Api';
 import { HeaderSearch } from '@/components/HeaderSearch';
@@ -59,7 +59,10 @@ export function HomePage() {
 
   
   const [isNavbarVisible, setIsNavbarVisible] = useState(true);
-  const [viewportHeight, setViewportHeight] = useState(window.innerHeight);
+
+
+
+
   
   // ----- Derived state -----
   const isTextEmpty = text === "" && Object.keys(bookText).length === 0;
@@ -77,6 +80,9 @@ export function HomePage() {
   const shouldUseColumn = isMobile || (isTablet && isNavbarVisible);
   
   // ----- Constants -----
+
+ 
+  const { height: viewportHeight } = useViewportSize();
   const headerHeight = 56;
   const availableHeight = viewportHeight - headerHeight;
 
@@ -96,23 +102,7 @@ export function HomePage() {
     ['mod+s', () => handleAdvancedSearch.toggle()]])
   
 
-  // Effect to track viewport size
-  useEffect(() => {
-    function handleResize() {
-      setViewportHeight(window.innerHeight);
-    }
-    
-    window.addEventListener('resize', handleResize);
-    window.addEventListener('orientationchange', handleResize);
-    
-    handleResize();
-    
-    return () => {
-      window.removeEventListener('resize', handleResize);
-      window.removeEventListener('orientationchange', handleResize);
-    };
-  }, []);
-  
+
 
   
   // Effect to scroll to clicked word
@@ -186,7 +176,6 @@ export function HomePage() {
         setWordData(data);
         setIsLoadingWordData(false);
         handleAdvancedSearch.close();
-
       }).catch(() => {
         setIsLoadingWordData(false);
       });
@@ -500,6 +489,7 @@ export function HomePage() {
                     
                     isWordInfoHalf ? (
                     {
+                    overflowY: 'hidden',
                     opacity: !isWordInfoVisible ? 0 : 1,
                     visibility: !isWordInfoVisible ? 'hidden' : 'visible',
                     height: 

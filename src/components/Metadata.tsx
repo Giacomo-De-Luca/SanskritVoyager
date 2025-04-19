@@ -10,7 +10,26 @@ interface MetadataProps {
 const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
   if (!metadata) return null;
 
-  // Calculate title size based on length
+  // Parse title to extract main title and subtitle (text in parentheses)
+  const parseTitle = (title: string) => {
+    if (!title) return { mainTitle: '', subtitle: '' };
+    
+    // Check for opening parenthesis
+    const openParenIndex = title.indexOf('(');
+    
+    if (openParenIndex === -1) {
+      // No parentheses, return the whole title as main title
+      return { mainTitle: title, subtitle: '' };
+    }
+    
+    // Extract main title and subtitle
+    const mainTitle = title.substring(0, openParenIndex).trim();
+    const subtitle = title.substring(openParenIndex).trim();
+    
+    return { mainTitle, subtitle };
+  };
+
+  // Calculate title size based on length of main title
   const getTitleSize = (title: string) => {
     const length = title.length;
     if (length < 30) return 'text-4xl'; // Long titles
@@ -19,8 +38,11 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
     return 'text-xl'; // Extremely long titles
   };
 
-  // Get title class based on length
-  const titleSize = getTitleSize(metadata.original_title);
+  // Parse title and subtitle
+  const { mainTitle, subtitle } = parseTitle(metadata.original_title);
+
+  // Get title class based on length of main title
+  const titleSize = getTitleSize(mainTitle);
 
   return (
     <div className={classes.metadataContainer}>
@@ -29,13 +51,30 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
         className={`${classes.bookTitle} ${classes[titleSize]}`}
         style={{
           lineHeight: 1.2,
-          marginBottom: '1rem',
+          marginBottom: subtitle ? '0.5rem' : '1rem', // Reduce margin if there's a subtitle
           wordBreak: 'break-word',
           hyphens: 'auto'
         }}
       >
-        {metadata.original_title}
+        {mainTitle}
       </Title>
+      
+      {subtitle && (
+        <Text 
+          size="lg" 
+          className={classes.bookSubtitle}
+          style={{
+            marginBottom: '1rem',
+            marginTop: '1.5rem',
+            marginLeft: '1rem',
+            fontStyle: 'italic',
+            color: 'var(--mantine-color-dimmed)',
+            lineHeight: 1.2
+          }}
+        >
+          {subtitle}
+        </Text>
+      )}
       
       {metadata.author && (
         <Text 

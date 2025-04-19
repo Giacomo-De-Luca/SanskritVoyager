@@ -1,5 +1,5 @@
-import { Autocomplete, ActionIcon, Group, Burger, rem, OptionsFilter, ComboboxItem, Image, useMantineColorScheme, Tooltip } from '@mantine/core';
-import { useDisclosure, useDebouncedState } from '@mantine/hooks';
+import { Autocomplete, Badge, ActionIcon, Group, Burger, rem, OptionsFilter, ComboboxItem, Image, useMantineColorScheme, Tooltip } from '@mantine/core';
+import { useDisclosure, useDebouncedState, useHotkeys } from '@mantine/hooks';
 import { IconSearch, IconListSearch } from '@tabler/icons-react';
 import classes from './HeaderSearch.module.css';
 import { ActionToggle } from './ColorSchemeToggle/ColorSchemeToggle';
@@ -49,7 +49,17 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
   const [decomposedWordList, setDecomposedWordList] = useState<{ value: string, label: string }[]>([]);
 
   
-
+  const searchInputRef = useRef<HTMLInputElement>(null);
+  
+  // Set up the hotkey for focusing the search
+  useHotkeys([
+    ['mod+k', (event) => {
+      event.preventDefault();
+      if (searchInputRef.current) {
+        searchInputRef.current.focus();
+      }
+    }]
+  ]);
 
 
   useEffect(() => {
@@ -154,10 +164,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
           handleAdvancedSearch={handleAdvancedSearch}
           isMobile={isMobile}
           />
-
-
-
-                  
+         
           </Group>
 
         <Group grow preventGrowOverflow={false} wrap="nowrap" className={classes.groupContainer}>
@@ -166,6 +173,20 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
           </Group>
           <Autocomplete
             className={classes.search}
+            rightSection={
+                            <Badge
+                              className={classes.searchShortcut}
+                              variant="outline"
+                              size="xs"
+                              style={{
+                                marginLeft: '8px',     // space outside the badge
+                                textTransform: 'none', // disable uppercase
+                                                }} // Add right padding
+                              >
+                              Ctrl+K
+                            </Badge>
+                          }
+            rightSectionWidth={60}
             placeholder="Search Sanskrit words."
             leftSection={<IconSearch style={{ width: rem(16), height: rem(16) }} stroke={1.5} />}
             data={entries}
@@ -177,6 +198,7 @@ export function HeaderSearch({ onToggleNavbar, onSearch, isNavbarVisible, isMobi
             withScrollArea={true}
             styles={{ dropdown: { maxHeight: 200, overflowY: 'auto' } }}
             onKeyDown={handleKeyDown} // Add the onKeyDown event handler
+            ref={searchInputRef} 
 
 
           />

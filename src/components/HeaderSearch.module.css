@@ -106,8 +106,34 @@
 }
 
 /* Animation only for the closed burger */
-.burgerBurger:not([data-opened="false"]):hover {
+.burgerBurger[data-opened]:hover {
 transform: rotate(20deg);
   transition: transform 0.3s ease;
 }
 
+
+@keyframes expand-contract {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* Animation only for the closed burger */
+.burgerBurger:not([data-opened]):hover {
+
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+
+  }
+  
+
+.searchShortcut {
+  color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
+  border-color: light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-7));
+}
