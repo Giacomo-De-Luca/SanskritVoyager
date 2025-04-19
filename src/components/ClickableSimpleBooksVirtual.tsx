@@ -258,11 +258,9 @@ const ClickableSimpleBooks = ({
       
       <WordInfoPortal
         clickedElement={clickedElement}
-        previousElement={previousElement}
         wordData={wordData}
         isLoadingDebug={isLoadingWordData}
         onAdditionalWordClick={setClickedAdditionalWord}
-        setPreviousElement={setPreviousElement}
       />
     </div>
   );
