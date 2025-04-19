@@ -23,7 +23,7 @@ import LoadingSkeleton from '@/components/LoadingSkeleton';
 import AdvancedSearch from '@/components/AdvancedSearch';
 import { SearchResult } from '@/types/searchTypes';
 import { Analytics } from "@vercel/analytics/react";
-
+import { useResponsive } from '@/context/ResponsiveContext';
 
 
 
@@ -61,9 +61,6 @@ export function HomePage() {
   const [isNavbarVisible, setIsNavbarVisible] = useState(true);
 
 
-
-
-  
   // ----- Derived state -----
   const isTextEmpty = text === "" && Object.keys(bookText).length === 0;
   const words = textTranslit ? textTranslit.split(/\s+|\\+/) : [];
@@ -74,9 +71,10 @@ export function HomePage() {
   const [clickedInfoWord, setClickedInfoWord] = useState<string | null>(null);
   
   // ----- Media queries -----
-  const isSmallMobile = useMediaQuery('(max-height: 724px)');
-  const isMobile = useMediaQuery('(max-width: 600px)');
-  const isTablet = useMediaQuery('(max-width: 1100px)');
+
+  const { isMobile, isTablet, isSmallMobile } = useResponsive();
+
+
   const shouldUseColumn = isMobile || (isTablet && isNavbarVisible);
   
   // ----- Constants -----
@@ -103,8 +101,6 @@ export function HomePage() {
   
 
 
-
-  
   // Effect to scroll to clicked word
   useEffect(() => {
     if (clickedAdditionalWord) {

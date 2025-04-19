@@ -3,6 +3,7 @@ import { MantineProvider } from '@mantine/core';
 import { Router } from './Router';
 import { theme } from './theme';
 import { localStorageColorSchemeManager } from './localStorageColorSchemeManager';
+import { ResponsiveProvider } from './context/ResponsiveContext';
 
 
 const colorSchemeManager = localStorageColorSchemeManager({
@@ -15,8 +16,9 @@ export default function App() {
       theme={theme}
       colorSchemeManager={colorSchemeManager}
     >
+    <ResponsiveProvider>
       <Router />
-
+    </ResponsiveProvider>
     </MantineProvider>
   );
 }

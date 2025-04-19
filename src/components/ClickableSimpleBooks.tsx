@@ -7,6 +7,9 @@ import { WordEntry } from '../types/wordTypes';
 import { safeSplitText } from './textUtils';
 import HighlightText from './HighlightText';
 import { Accordion } from '@mantine/core';
+import { useThrottledCallback, useThrottledState } from '@mantine/hooks';
+import ScrollMarkers from './ClickableSimpleMarkers';
+
 
 interface ClickableSimpleBooksProps {
   bookText: BookText;
@@ -24,6 +27,11 @@ interface ClickableSimpleBooksProps {
   setTargetSegmentNumber: React.Dispatch<React.SetStateAction<number | null>>;
   query: string;
   matchedBookSegments: number[];
+}
+
+interface ProcessedMatch {
+    segmentNumber: number;
+    positionPercent: number;
 }
 
 const ClickableSimpleBooks = ({
@@ -44,109 +52,46 @@ const ClickableSimpleBooks = ({
   matchedBookSegments,
 }: ClickableSimpleBooksProps) => {
   const clickedWordInfoRef = useRef<HTMLDivElement>(null);
+
   const [clickedElement, setClickedElement] = useState<HTMLElement | null>(null);
   const [previousElement, setPreviousElement] = useState<HTMLElement | null>(null);
   
+
+
   // Create a global note counter to ensure unique IDs
-  const noteCounterRef = useRef<number>(0);
-  
+  const noteCounterRef = useRef<number>(0);  
   // Map to store stable note IDs
   const noteIdMapRef = useRef<Map<string, number>>(new Map());
+
+
+
   
   // Create a Map to store refs to segment elements
-  const segmentRefs = useRef<Map<number, HTMLDivElement>>(new Map());
-  
+  const segmentRefs = useRef<Map<number, HTMLDivElement>>(new Map());  
   // Reference to the main container element
   const containerRef = useRef<HTMLDivElement>(null);
-  
   // State for processed marker positions
-  const [processedMatches, setProcessedMatches] = useState<Array<{ 
-    segmentNumber: number; 
-    positionPercent: number; 
-    isActive: boolean; 
-  }>>([]);
-  
+
+  // this should be a ref
   const [initialRenderComplete, setInitialRenderComplete] = useState(false);
 
+
+   const renderCount = useRef(0);
+   renderCount.current++;
+   console.log(`ClickableSimpleBooks render #${renderCount.current}`);
+
+
+  // effect 1: RESET  
   // Clear the ref map and reset the note counter when the book changes
   useEffect(() => {
     segmentRefs.current = new Map();
-    setInitialRenderComplete(false);
-    setProcessedMatches([]);
+    setInitialRenderComplete(false); // Reset initial render flag
     noteCounterRef.current = 0; // Reset note counter for each new book
     noteIdMapRef.current = new Map(); // Reset the note ID map
     console.log("Segment refs map and note counter reset due to book change");
   }, [bookText]);
 
-  // Effect to track when initial render is complete
-  useEffect(() => {
-    if (bookText.body && bookText.body?.length > 0) {
-      const timer = setTimeout(() => {
-        setInitialRenderComplete(true);
-        console.log("Initial render completed, calculating markers...");
-        
-        // If we have matched segments, calculate their positions
-        if (matchedBookSegments.length > 0) {
-          calculateMarkerPositions();
-        }
-      }, 500); // Allow time for rendering to complete
-      
-      return () => clearTimeout(timer);
-    }
-  }, [bookText]);
-
-  // Function to calculate marker positions
-  const calculateMarkerPositions = useCallback(() => {
-    if (!containerRef.current) return;
-    
-    const container = containerRef.current;
-    const totalHeight = container.scrollHeight;
-    
-    // Only calculate vertical positions as percentages of total height
-    const segmentPositions = matchedBookSegments
-      .map(segmentNumber => {
-        const element = segmentRefs.current.get(segmentNumber);
-        if (!element) return null;
-        
-        // Simple percentage calculation
-        const positionPercent = (element.offsetTop / totalHeight) * 100;
-        
-        return {
-          segmentNumber,
-          positionPercent: Math.max(0, Math.min(100, positionPercent)),
-          isActive: segmentNumber === targetSegmentNumber
-        };
-      })
-      .filter((pos): pos is {segmentNumber: number; positionPercent: number; isActive: boolean} => pos !== null);
-
-    
-    console.log(`Calculated ${segmentPositions.length} marker positions`);
-    setProcessedMatches(segmentPositions);
-  }, [matchedBookSegments, targetSegmentNumber]);
-
-  // Calculate marker positions whenever matched segments change
-  useEffect(() => {
-    if (matchedBookSegments.length > 0 && initialRenderComplete) {
-      const timeoutId = setTimeout(() => {
-        calculateMarkerPositions();
-      }, 100);
-      
-      return () => clearTimeout(timeoutId);
-    }
-  }, [matchedBookSegments, initialRenderComplete, calculateMarkerPositions]);
   
-  // When target segment changes, only update active state instead of full recalculation
-  useEffect(() => {
-    if (processedMatches.length > 0) {
-      setProcessedMatches(prev => 
-        prev.map(match => ({
-          ...match,
-          isActive: match.segmentNumber === targetSegmentNumber
-        }))
-      );
-    }
-  }, [targetSegmentNumber]);
-
   // Scroll to target segment using refs
   useEffect(() => {
     if (targetSegmentNumber !== null && bookText.body) {
@@ -161,13 +106,6 @@ const ClickableSimpleBooks = ({
           // Scroll to the element
           targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
           
-          // Add highlight class for visual focus
-          targetElement.classList.add(classes.highlightedSegment);
-          
-          // Remove highlight after animation completes
-          setTimeout(() => {
-            targetElement.classList.remove(classes.highlightedSegment);
-          }, 3000);
         } else {
           console.warn(`No ref found for segment ${targetSegmentNumber}`);
           
@@ -185,42 +123,21 @@ const ClickableSimpleBooks = ({
     }
   }, [bookText, targetSegmentNumber]);
 
-  const [containerRightEdge, setContainerRightEdge] = useState(0);
-  
-  // Function to calculate and update the right edge position
-  const updateRightEdgePosition = useCallback(() => {
-    if (containerRef.current) {
-      const rect = containerRef.current.getBoundingClientRect();
-      // Calculate distance from right edge of viewport to right edge of container
-      const rightEdgePosition = window.innerWidth - rect.right - 16;
-      setContainerRightEdge(rightEdgePosition);
+    // Effect 2: Set initial render complete flag after a delay
+ useEffect(() => {
+    // Only run if not already complete and book has content
+    if (!initialRenderComplete && bookText.body && bookText.body.length > 0) {
+      const timer = setTimeout(() => {
+        console.log("Setting initial render complete flag to true.");
+        setInitialRenderComplete(true); // Use state setter
+      }, 500); // Delay to allow refs to populate
+
+      return () => clearTimeout(timer);
     }
-  }, []);
-  
-  // Update position on mount, resize, and when dependencies change
-  useEffect(() => {
-    // Initial calculation
-    updateRightEdgePosition();
-    
-    // Create resize observer
-    const resizeObserver = new ResizeObserver(() => {
-      updateRightEdgePosition();
-    });
-    
-    // Observe the container
-    if (containerRef.current) {
-      resizeObserver.observe(containerRef.current);
-    }
-    
-    // Add window resize listener
-    window.addEventListener('resize', updateRightEdgePosition);
-    
-    // Cleanup
-    return () => {
-      resizeObserver.disconnect();
-      window.removeEventListener('resize', updateRightEdgePosition);
-    };
-  }, [updateRightEdgePosition]);
+    // Depend on bookText to re-run this effect for new books,
+    // and initialRenderComplete to prevent re-running after it's true.
+  }, [bookText, initialRenderComplete]);
+
 
   const renderTextElement = (element: TextElement): React.ReactNode => {
     // Determine element classes for styling
@@ -526,21 +443,18 @@ const ClickableSimpleBooks = ({
         ))}
       </div>
 
-      {/* Simplified marker container directly in component */}
-      {processedMatches.length > 0 && (
-        <div className={classes.markerContainer}
-        style = {{ right: `${containerRightEdge}px` }}>
-          {processedMatches.map(segment => (
-            <div
-              key={segment.segmentNumber}
-              onClick={() => setTargetSegmentNumber(segment.segmentNumber)}
-              className={`${classes.marker} ${segment.isActive ? classes.activeMarker : ''}`}
-              style={{ top: `${segment.positionPercent}%` }}
-              title={`Go to segment ${segment.segmentNumber}`}
-            />
-          ))}
-        </div>
-      )}
+      {matchedBookSegments.length > 0 && (
+
+          <ScrollMarkers
+              containerRef={containerRef}
+              segmentRefs={segmentRefs}
+              matchedBookSegments={matchedBookSegments}
+              targetSegmentNumber={targetSegmentNumber}
+              setTargetSegmentNumber={setTargetSegmentNumber}
+              initialRenderComplete={initialRenderComplete}
+          />
+        )}
+      
       
       <WordInfoPortal
         clickedElement={clickedElement}
@@ -554,4 +468,4 @@ const ClickableSimpleBooks = ({
   );
 };
 
-export default ClickableSimpleBooks;
+export default React.memo(ClickableSimpleBooks);

@@ -18,7 +18,8 @@
 
 
 .search {
-  min-width: 250px;
+  min-width: 240px;
+  width: 240px;
 }
 
 @media (max-width: 600px) {
@@ -135,6 +136,6 @@ transform: rotate(20deg);
   
 
 .searchShortcut {
-  color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
-  border-color: light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-7));
+  color: light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
+  border-color: light-dark(var(--mantine-color-gray-4), var(--mantine-color-gray-7));
 }
