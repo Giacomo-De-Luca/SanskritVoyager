@@ -142,31 +142,30 @@ const ClickableSimpleBooks = ({
     // Depend on bookText to re-run this effect for new books,
     // and initialRenderComplete to prevent re-running after it's true.
   }, [bookText, initialRenderComplete]);
+  // reuse your highlight logic in a helper
+  const highlightSpan = useCallback((el: HTMLElement) => {
+    if (highlightedSpanRef.current && highlightedSpanRef.current !== el) {
+      highlightedSpanRef.current.classList.remove(classes.selectedWord);
+    }
+    el.classList.add(classes.selectedWord);
+    highlightedSpanRef.current = el;
+  }, []);
 
-    const handleWordClick = useCallback((e: React.MouseEvent<HTMLElement>, wordToSelect: string) => {
-            const currentElement = e.currentTarget;
-    
-            // --- Portal Positioning ---
-            setClickedElement(currentElement); // Still needed for the portal positioning
-    
-            // --- Highlighting Logic ---
-            // Remove highlight from the previously highlighted element, if any
-            if (highlightedSpanRef.current && highlightedSpanRef.current !== currentElement) {
-              highlightedSpanRef.current.classList.remove(classes.selectedWord);
-            }
-    
-            // Add highlight to the current element
-            currentElement.classList.add(classes.selectedWord);
-    
-            // Update the ref to the currently highlighted element
-            highlightedSpanRef.current = currentElement;
-    
-            // --- Call Parent Function ---
-            // This does NOT trigger a re-render of ClickableSimpleBooks
-            setSelectedWord(wordToSelect);
-    
-          }, [setSelectedWord]); // Include classes.selectedWord if it might change (unlikely)
+  // delegate clicks from container
+  const handleContainerClick = useCallback((e: React.MouseEvent<HTMLDivElement>) => {
+    const targetSpan = (e.target as HTMLElement).closest('span[data-word-key]') as HTMLElement|null;
+    if (!targetSpan) return;
 
+    // portal positioning
+    setClickedElement(targetSpan);
+
+    // highlight
+    highlightSpan(targetSpan);
+
+    // dictionary lookup
+    const word = targetSpan.dataset.wordText!;
+    setSelectedWord(word);
+  }, [highlightSpan, setSelectedWord]);
 
   const renderTextElement = (element: TextElement): React.ReactNode => {
     // Determine element classes for styling
@@ -244,7 +243,6 @@ const ClickableSimpleBooks = ({
                         // Pass boolean directly based on current selectedWord
                         isSanskrit={true}
                         // Pass the memoized handler
-                        onClick={(e) => handleWordClick(e, sanskritWordProcessed)}
                       />
 
 
@@ -278,7 +276,6 @@ const ClickableSimpleBooks = ({
                                           wordKey={`${segmentIndex}-${wordIndex}`}
                                           // Pass boolean directly
                                           // Pass the memoized handler
-                                          onClick={(e) => handleWordClick(e, trimmedWord)}
                     />
 
 
@@ -462,7 +459,9 @@ const ClickableSimpleBooks = ({
       <div className={`${classes.textContent} ${
         textType === 'or' ? classes.originalOnly :
         textType === 'tran' ? classes.translationOnly : ''
-      }`}>
+      }`}
+      onClick={handleContainerClick}           // <-- single handler here
+>
         {bookText.body?.map((element, index) => (
           <React.Fragment key={index}>
             {renderTextElement(element)}
