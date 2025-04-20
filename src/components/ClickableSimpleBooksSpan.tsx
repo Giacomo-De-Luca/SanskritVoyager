@@ -5,12 +5,14 @@ interface BookSpanProps {
   wordText: string; // The text to display (e.g., "word ")
   wordKey: string; // Unique key for React
   isSanskrit?: boolean; // Optional flag for specific styling
+  onClick: (event: React.MouseEvent<HTMLElement>) => void; // Pass the click handler
 }
 
 const BookSpan: React.FC<BookSpanProps> = ({
     wordText,
     wordKey,
     isSanskrit = false,
+    onClick,
   }) => {
   // Calculate className based only on props relevant to this specific word
   const className = `
@@ -21,10 +23,7 @@ const BookSpan: React.FC<BookSpanProps> = ({
   // console.log(`Rendering WordSpan: ${wordText.trim()}, isSelected: ${isSelected}`); // Optional: for debugging
 
   return (
-    <span key={wordKey} 
-    data-word-text={wordText.trim()}
-    data-word-key={wordKey}
-    className={className}>
+    <span key={wordKey} onClick={onClick} className={className}>
       {wordText}
     </span>
   );
