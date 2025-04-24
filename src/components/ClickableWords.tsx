@@ -52,14 +52,13 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
         <ActionIcon
           className={classes.copyButton}
           onClick={() => clipboard.copy(lines.join('\n'))}
-          variant="subtle"
           size="md"
           aria-label="Copy text"
         >
           {clipboard.copied ? (
-            <IconClipboardCheck size={20} stroke={1.5} />
+            <IconClipboardCheck className={classes.iconClip} size={20} stroke={1.5} />
           ) : (
-            < IconClipboard size={20} stroke={1.5} />
+            < IconClipboard className={classes.iconClip} size={20} stroke={1.5} />
           )}
         </ActionIcon>
       )}
