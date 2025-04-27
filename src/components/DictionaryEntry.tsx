@@ -7,6 +7,13 @@ interface DictionaryEntryProps {
 
 function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
   const processContent = (content: string) => {
+
+      // Add this check: If content is null or undefined, return empty result
+      if (!content) {
+          return []; // Or return null, or an empty string span, depending on desired output
+      }
+
+
     content = content.replace(/&amp;c\./g, '&c.');
 
     // remove the <srs/> tag

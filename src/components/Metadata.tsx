@@ -16,16 +16,23 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
     
     // Check for opening parenthesis
     const openParenIndex = title.indexOf('(');
+    const openBracketIndex = title.indexOf('[');
+
     
-    if (openParenIndex === -1) {
+    if (openParenIndex === -1 && openBracketIndex === -1) {
       // No parentheses, return the whole title as main title
       return { mainTitle: title, subtitle: '' };
     }
     
+    if (openParenIndex != -1) {
     // Extract main title and subtitle
     const mainTitle = title.substring(0, openParenIndex).trim();
     const subtitle = title.substring(openParenIndex).trim();
-    
+    return { mainTitle, subtitle };
+    }
+
+    const mainTitle = title.substring(0, openBracketIndex).trim();
+    const subtitle = title.substring(openBracketIndex).trim();
     return { mainTitle, subtitle };
   };
 

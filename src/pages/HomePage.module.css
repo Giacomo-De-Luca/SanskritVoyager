@@ -50,20 +50,6 @@
 
 
 
-.readingButton {
-  color: light-dark(var(--mantine-color-gray-9), var(--mantine-color-dark-1));
-  background-color: transparent;
-
-}
-
-
-.readingButton:hover {
-  color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-dark-3)); /* Adjust the colors as needed */
-  background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-dark-6));
-
-}
-
-
 
 .navbarBox {
   flex: 0 0 auto; /* Prevent navbar from shrinking */
