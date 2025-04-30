@@ -151,14 +151,14 @@ const WordDataComponent = ({
                 
                 <div 
                 className={
-                  longEntry[1] === "indeclineable"
+                  longEntry[1] === "indeclinable (avyaya)"
                     ? classes.grammarMainIndeclinable
                     : classes.grammarMain
                 }
                 >
                   <span>{longEntry[1]}</span>
 
-                  {longEntry[1] !== "indeclineable" && (
+                  {longEntry[1] !== "indeclinable (avyaya)" && (
                     <Tooltip label={displayInflectionTables ? "Hide table" : "Show table"}>
                       <ActionIcon
                         variant="subtle"

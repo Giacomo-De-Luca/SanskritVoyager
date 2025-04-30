@@ -40,7 +40,7 @@ function WordInfo({
       if (grammar.includes('verb')) {
         return classes.verbWord;
       }
-      if (grammar.includes('indeclineable') || grammar.includes('particle')) {
+      if (grammar.includes('indeclinable')) {
         return classes.indeclinableWord;
       }
       if (grammar.includes('pronoun')) {
