@@ -206,3 +206,9 @@ color: rgb(118, 38, 231);
     color: teal;
     cursor: pointer;
   }
+
+  .dictHomonym {
+    color: light-dark(var(--mantine-color-lightscale-9), var(--mantine-color-lightscale-9));
+    font-style: italic;
+    font-weight: 500;
+  }

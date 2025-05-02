@@ -41,6 +41,7 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
         case 'i': return 'dictItalic';
         case 'b': return 'dictBold';
         case 'div': return 'dictDivision';
+        case 'hom': return 'dictHomonym';
         default: return '';
       }
     };

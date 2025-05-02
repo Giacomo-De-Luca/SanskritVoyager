@@ -267,7 +267,7 @@ function AdvancedSearch({ advancedSearchResults, setAdvancedSearchResults, onSea
               data={[
                 { label: 'Exact', value: 'exact' },
                 { label: 'Stemmed', value: 'stemmed' },
-                { label: 'Neural', value: 'neural' },
+                // { label: 'Neural', value: 'neural' },
               ]}
               fullWidth
               classNames={{
@@ -353,7 +353,7 @@ function AdvancedSearch({ advancedSearchResults, setAdvancedSearchResults, onSea
               </Accordion.Control>
               
               <Accordion.Panel className={classes.accordionPanel}>
-                <SegmentedControl
+                 {/* <SegmentedControl
                   value={filterMode}
                   onChange={setFilterMode}
                   data={[
@@ -367,7 +367,7 @@ function AdvancedSearch({ advancedSearchResults, setAdvancedSearchResults, onSea
                   }}
                   mb={16}
                   mt={16}
-                />
+                /> */}
                 
                 <div className={classes.inputContainer}>
                   {!isMobile && (
