@@ -48,6 +48,15 @@ const DictionarySelectComponent = ({
           ]
         },
         {
+          group: 'Sanskrit to Sanskrit',
+          items: [
+            { value: 'armh', label: 'Abhidhānaratnamālā of Halāyudha' },
+            { value: 'abch', label: 'Abhidhānacintāmaṇi of Hemacandrācārya' },
+          ]
+
+
+        },
+        {
           group: 'Pali Dictionaries',
           items: [
             { value: 'cped', label: 'Concise Pali English Dictionary' },

@@ -55,6 +55,8 @@ const dictionaryLabels: DictionaryLabels = {
   gra: 'Grassmann Wörterbuch zum Rig Veda',
   bhs: 'Edgerton Buddhist Hybrid Sanskrit',
   cae: 'Cappeller Sanskrit-English',
+  armh: 'Abhidhānaratnamālā of Halāyudha' ,
+  abch: 'Abhidhānacintāmaṇi of Hemacandrācārya',
 };
 
 
