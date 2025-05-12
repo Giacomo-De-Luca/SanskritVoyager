@@ -47,15 +47,15 @@ const DictionarySelectComponent = ({
             { value: 'bhs', label: 'Edgerton Buddhist Hybrid Sanskrit Dictionary' },
           ]
         },
-        {
-          group: 'Sanskrit to Sanskrit',
-          items: [
-            { value: 'armh', label: 'Abhidhānaratnamālā of Halāyudha' },
-            { value: 'abch', label: 'Abhidhānacintāmaṇi of Hemacandrācārya' },
-          ]
+        //{
+        //  group: 'Sanskrit to Sanskrit',
+        //  items: [
+        //    { value: 'armh', label: 'Abhidhānaratnamālā of Halāyudha' },
+        //    { value: 'abch', label: 'Abhidhānacintāmaṇi of Hemacandrācārya' },
+        //  ]
+      //  },
 
 
-        },
         {
           group: 'Pali Dictionaries',
           items: [
