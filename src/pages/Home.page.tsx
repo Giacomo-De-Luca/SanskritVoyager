@@ -385,7 +385,8 @@ export function HomePage() {
                   paddingTop: '0px',
                   height: isMobile ? 
                     (isWordInfoVisible ? 
-                      `${availableHeight - currentHeight}px` 
+                      vhActual
+                      //`${availableHeight - currentHeight}px` 
                     : vhActual) :
                     isTablet && isNavbarVisible ? 
                       (isWordInfoVisible ? vhActualHalf : vhActual) : 
