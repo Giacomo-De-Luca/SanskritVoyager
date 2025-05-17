@@ -29,6 +29,8 @@ import { useResponsive } from '@/context/ResponsiveContext';
 
 import { fetchBookText } from '../utils/apiService';
 
+import ResizablePanel from '../components/ResizeHandler';
+
 // unused
 interface Translation {
   English: string;
@@ -95,6 +97,7 @@ export function HomePage() {
   const [matchedBookSegments, setMatchedBookSegments] = useState<number[]>([]);
 
   const isWordInfoHalf = text !== '' || bookTitle !== null
+  
 
 
 
@@ -289,6 +292,9 @@ export function HomePage() {
   // and a good sliding transition from right to left when the column is closed
 
 
+  const breakpoints = [100, 250, 400, 600, 800];
+  const [currentHeight, setCurrentHeight] = useState(breakpoints[1]);
+
   
 
       
@@ -379,7 +385,7 @@ export function HomePage() {
                   paddingTop: '0px',
                   height: isMobile ? 
                     (isWordInfoVisible ? 
-                      vhActualHalf 
+                      `${availableHeight - currentHeight}px` 
                     : vhActual) :
                     isTablet && isNavbarVisible ? 
                       (isWordInfoVisible ? vhActualHalf : vhActual) : 
@@ -412,7 +418,7 @@ export function HomePage() {
                 <div className={classes.scrollContainer}
                   style={{
                     borderBottom: 
-                      (isMobile && isWordInfoVisible) || 
+                      // (isMobile && isWordInfoVisible) || 
                       (isTablet && isNavbarVisible && isWordInfoVisible) ? 
                         '1px solid lightgray' : 'none',
                   }}
@@ -462,6 +468,38 @@ export function HomePage() {
               timingFunction="ease"
             >
             {(styles) => (
+
+                  <>
+                  {/* For mobile when in WordInfoHalf mode, use ResizablePanel */}
+                  {isMobile && isWordInfoHalf ? (
+                    <ResizablePanel 
+                      breakpoints={breakpoints}
+                      initialBreakpointIndex={1}
+                      onResize={(newHeight) => {
+                        if (typeof newHeight === 'number') {
+                          setCurrentHeight(newHeight);
+                        }
+                      }}
+                    >
+                      <div className={classes.scrollContainer}>
+                        {isLoadingWordData ? (
+                          <LoadingSkeleton />
+                        ) : (
+                          <WordDataComponent
+                            wordData={wordData}
+                            setWordData={setWordData}
+                            selectedDictionaries={selectedDictionaries}
+                            isMobile={isMobile}
+                            setClickedInfoWord={setClickedInfoWord}
+                            isTablet={isTablet}
+                            isNavabarVisible={isNavbarVisible}
+                            setDisplayInflectionTables={setDisplayInflectionTables}
+                            displayInflectionTables={displayInflectionTables}
+                          />
+                        )}
+                      </div>
+                    </ResizablePanel>
+                  ) : (
               <Grid.Col 
                   span={
 
@@ -571,7 +609,11 @@ export function HomePage() {
                     )}
                   </div>
                 </Grid.Col>
-            )}              
+ 
+            )}             
+            </>
+    
+          )}
               </Transition>
           </Grid>
         )}
