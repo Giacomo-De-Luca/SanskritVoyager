@@ -292,7 +292,7 @@ export function HomePage() {
   // and a good sliding transition from right to left when the column is closed
 
 
-  const breakpoints = [100, 250, 400, 600, 800];
+  const breakpoints = [50, 600, 800, 1000];
   const [currentHeight, setCurrentHeight] = useState(breakpoints[1]);
 
   

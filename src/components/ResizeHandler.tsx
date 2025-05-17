@@ -19,7 +19,7 @@ export interface ResizablePanelProps {
 
 /**
  * A resizable panel component that appears from the bottom of the screen
- * with fluid touch/mouse interactions for resizing.
+ * with CSS-based animations and fluid touch/mouse interactions.
  */
 const ResizablePanel: React.FC<ResizablePanelProps> = ({
   title = "", 
@@ -29,69 +29,59 @@ const ResizablePanel: React.FC<ResizablePanelProps> = ({
   onResize = () => {},
   className = '',
 }) => {
-  // Initialize height with the selected breakpoint
+  // State for panel height
   const [height, setHeight] = useState<number>(breakpoints[initialBreakpointIndex]);
+  
+  // State for managing transitions
+  const [hasTransition, setHasTransition] = useState<boolean>(true);
+  const [transitionDuration, setTransitionDuration] = useState<number>(250); // Fixed transition duration
+  
+  // Dragging state and refs
   const [isDragging, setIsDragging] = useState<boolean>(false);
   const startYRef = useRef<number>(0);
   const startHeightRef = useRef<number>(0);
   const lastTapTimeRef = useRef<number>(0);
+  
+  // Velocity tracking for inertial scrolling
   const velocityRef = useRef<number>(0);
   const lastClientYRef = useRef<number>(0);
   const lastTimestampRef = useRef<number>(0);
   
-  // Find the closest breakpoint to snap to
+  // Container ref for direct DOM manipulation when needed
+  const containerRef = useRef<HTMLDivElement>(null);
+  
+  // Find the next breakpoint in a direction
+  const findNextBreakpoint = (currentValue: number, direction: 'up' | 'down'): number => {
+    // Sort breakpoints from smallest to largest
+    const sortedBreakpoints = [...breakpoints].sort((a, b) => a - b);
+    
+    if (direction === 'up') {
+      // Find the next larger breakpoint
+      const nextLarger = sortedBreakpoints.find(bp => bp > currentValue);
+      return nextLarger || sortedBreakpoints[sortedBreakpoints.length - 1];
+    } else {
+      // Find the next smaller breakpoint
+      const reversedBreakpoints = [...sortedBreakpoints].reverse();
+      const nextSmaller = reversedBreakpoints.find(bp => bp < currentValue);
+      return nextSmaller || sortedBreakpoints[0];
+    }
+  };
+  
+  // Find the closest breakpoint for snapping
   const findClosestBreakpoint = (value: number): number => {
     return breakpoints.reduce((prev, curr) => 
       Math.abs(curr - value) < Math.abs(prev - value) ? curr : prev
     );
   };
   
-  // Animation utility function with improved responsiveness
-  const animateToHeight = (targetHeight: number, duration = 200): void => {
-    // Immediately set a small step in the right direction to eliminate perceived lag
-    const initialStep = (targetHeight > height) ? Math.min(targetHeight - height, 5) : Math.max(targetHeight - height, -5);
-    setHeight(height + initialStep);
-    
-    // Then continue with the smooth animation
-    const startValue = height + initialStep;
-    const startTime = performance.now();
-    
-    const animate = (currentTime: number): void => {
-      const elapsedTime = currentTime - startTime;
-      
-      // If we've just started (first few ms), accelerate more quickly
-      if (elapsedTime < 50) {
-        const fastStartProgress = Math.min(elapsedTime / 50, 1);
-        // Accelerate faster at the beginning (quadratic instead of linear)
-        const adjustedProgress = fastStartProgress * fastStartProgress * 0.2;
-        const currentHeight = startValue + (targetHeight - startValue) * adjustedProgress;
-        setHeight(currentHeight);
-        requestAnimationFrame(animate);
-        return;
-      }
-      
-      // After fast start, continue with normal ease animation
-      const progress = Math.min((elapsedTime - 50) / (duration - 50), 1);
-      
-      // Custom ease function with better initial response
-      const easeProgress = progress < 0.5 ? 
-        2 * progress * progress : 
-        -1 + (4 - 2 * progress) * progress;
-      
-      const currentHeight = startValue + (targetHeight - startValue) * (0.2 + easeProgress * 0.8);
-      
-      setHeight(currentHeight);
-      onResize(currentHeight);
-      
-      if (progress < 1) {
-        requestAnimationFrame(animate);
-      }
-    };
-    
-    requestAnimationFrame(animate);
+  // Set height with transition
+  const setHeightWithTransition = (newHeight: number) => {
+    setHasTransition(true);
+    setHeight(newHeight);
+    onResize(newHeight);
   };
   
-  // Toggle between min and max heights (for double-tap)
+  // Toggle between collapsed and expanded states (for double-tap)
   const toggleExpandCollapse = (): void => {
     const minHeight = Math.min(...breakpoints);
     const viewportHeight = window.innerHeight;
@@ -100,19 +90,22 @@ const ResizablePanel: React.FC<ResizablePanelProps> = ({
     // If we're closer to the max height, collapse to min, otherwise expand to max
     const targetHeight = (height > (minHeight + maxHeight) / 2) ? minHeight : maxHeight;
     
-    // Apply a faster animation for toggle to feel responsive
-    animateToHeight(targetHeight, 280);
+    // Use the standard transition duration
+    setHeightWithTransition(targetHeight);
   };
 
   // Handle start of drag operation
   const handleDragStart = (e: React.MouseEvent | React.TouchEvent): void => {
-    e.preventDefault();
+    // We don't call preventDefault() here to fix the passive listener issue
     const clientY = 'touches' in e ? e.touches[0].clientY : (e as React.MouseEvent).clientY;
     
-    // Drag operation now only handles dragging, not double-tap
+    // Start dragging
     setIsDragging(true);
     startYRef.current = clientY;
     startHeightRef.current = height;
+    
+    // Disable transition during dragging
+    setHasTransition(false);
     
     // Initialize velocity tracking
     const now = Date.now();
@@ -124,7 +117,9 @@ const ResizablePanel: React.FC<ResizablePanelProps> = ({
   // Handle drag movement
   const handleDrag = (e: MouseEvent | TouchEvent): void => {
     if (!isDragging) return;
-    e.preventDefault();
+    
+    // We use stopPropagation instead of preventDefault to avoid passive listener issues
+    e.stopPropagation();
     
     const clientY = 'touches' in e ? e.touches[0].clientY : (e as MouseEvent).clientY;
     const now = Date.now();
@@ -143,30 +138,18 @@ const ResizablePanel: React.FC<ResizablePanelProps> = ({
       lastClientYRef.current = clientY;
     }
     
-    // For natural feeling: dragging up (decreasing clientY) increases panel height
-    // dragging down (increasing clientY) decreases panel height
+    // Calculate new height based on drag position
     const deltaY = startYRef.current - clientY;
     
-    // Calculate new height within bounds - including viewport constraint
+    // Apply constraints: min/max breakpoints and viewport limits
     const minHeight = Math.min(...breakpoints);
     const viewportHeight = window.innerHeight;
     const maxViewportHeight = viewportHeight * 0.8; // 80% of viewport height
     const maxHeight = Math.min(Math.max(...breakpoints), maxViewportHeight);
     
-    let newHeight = Math.max(minHeight, Math.min(maxHeight, startHeightRef.current + deltaY));
+    const newHeight = Math.max(minHeight, Math.min(maxHeight, startHeightRef.current + deltaY));
     
-    // Gradually approach breakpoints rather than sudden snapping
-    // Only apply gentle nudging during dragging for a more natural feel
-    const snapThreshold = 20;
-    const closestBreakpoint = findClosestBreakpoint(newHeight);
-    const distance = closestBreakpoint - newHeight;
-    
-    if (Math.abs(distance) < snapThreshold) {
-      // Apply gentle attraction force - stronger as you get closer
-      const attractionStrength = 0.3 * (1 - Math.abs(distance) / snapThreshold);
-      newHeight = newHeight + (distance * attractionStrength);
-    }
-    
+    // Update height without transition during drag
     setHeight(newHeight);
     onResize(newHeight);
   };
@@ -176,44 +159,33 @@ const ResizablePanel: React.FC<ResizablePanelProps> = ({
     if (!isDragging) return;
     setIsDragging(false);
     
-    // Determine if we have enough velocity for inertial scrolling
+    // Get velocity and determine direction
     const velocity = velocityRef.current;
-    const isFlick = Math.abs(velocity) > 0.5; // Threshold to detect a flick gesture
+    const direction = velocity < 0 ? 'up' : 'down';
     
-    // Calculate bounds for animation
+    // Calculate bounds
     const minHeight = Math.min(...breakpoints);
     const viewportHeight = window.innerHeight;
     const maxViewportHeight = viewportHeight * 0.8;
     const maxHeight = Math.min(Math.max(...breakpoints), maxViewportHeight);
     
+    // Determine if we have a flick gesture (any movement with intent)
+    const isFlick = Math.abs(velocity) > 0.1; // Lower threshold to detect lighter flicks
+    
     if (isFlick) {
-      // Convert velocity to distance (pixels) with some multiplier for better feel
-      // Negative velocity (upward flick) increases height
-      // Positive velocity (downward flick) decreases height
-      const velocityMultiplier = 80; // Adjust this for how much "throw" you want
-      let projectedHeight = height - (velocity * velocityMultiplier);
+      // Find the next breakpoint in the flick direction
+      const targetHeight = findNextBreakpoint(height, direction);
       
-      // Constrain to bounds
-      projectedHeight = Math.max(minHeight, Math.min(maxHeight, projectedHeight));
-      
-      // Find the closest breakpoint to our projected destination
-      const targetBreakpoint = findClosestBreakpoint(projectedHeight);
-      
-      // Animate to that breakpoint with duration based on distance
-      const distance = Math.abs(targetBreakpoint - height);
-      const baseDuration = 200;
-      const velocityFactor = Math.min(Math.abs(velocity) * 100, 300);
-      const duration = baseDuration + velocityFactor;
-      
-      animateToHeight(targetBreakpoint, duration);
+      // Apply the transition with fixed duration
+      setHeightWithTransition(targetHeight);
     } else {
-      // No significant velocity, just snap to closest breakpoint
+      // No significant movement, just snap to closest breakpoint
       const closestBreakpoint = findClosestBreakpoint(height);
-      animateToHeight(closestBreakpoint, 150);
+      setHeightWithTransition(closestBreakpoint);
     }
   };
   
-  // Monitor window size changes to adjust maximum height
+  // Window resize handler to adjust maximum height
   useEffect(() => {
     const handleResize = (): void => {
       const viewportHeight = window.innerHeight;
@@ -233,11 +205,13 @@ const ResizablePanel: React.FC<ResizablePanelProps> = ({
 
   // Set up and clean up event listeners for dragging
   useEffect(() => {
+    // We manually add event listeners with { passive: false } to allow preventDefault()
     const handleMouseMove = (e: MouseEvent): void => handleDrag(e);
     const handleTouchMove = (e: TouchEvent): void => handleDrag(e);
     
     if (isDragging) {
       window.addEventListener('mousemove', handleMouseMove);
+      // Use passive: false for touchmove to prevent scrolling while dragging
       window.addEventListener('touchmove', handleTouchMove, { passive: false });
       window.addEventListener('mouseup', handleDragEnd);
       window.addEventListener('touchend', handleDragEnd);
@@ -251,21 +225,9 @@ const ResizablePanel: React.FC<ResizablePanelProps> = ({
     };
   }, [isDragging, height]);
   
-  // Ensure initial height doesn't exceed viewport constraint
-  useEffect(() => {
-    const viewportHeight = window.innerHeight;
-    const maxViewportHeight = viewportHeight * 0.8;
-    
-    if (breakpoints[initialBreakpointIndex] > maxViewportHeight) {
-      const suitableHeight = Math.min(breakpoints[initialBreakpointIndex], maxViewportHeight);
-      setHeight(suitableHeight);
-      onResize(suitableHeight);
-    }
-  }, [breakpoints, initialBreakpointIndex, onResize]);
-  
-  // Double-tap handler for entire panel (not just the handle)
+  // Double-tap handler for panel expansion/collapse
   const handlePanelTap = (e: React.MouseEvent | React.TouchEvent): void => {
-    // Don't activate when dragging or when it's a drag operation
+    // Don't process when dragging or on right-click
     if (isDragging || (e.type === 'mousedown' && (e as React.MouseEvent).button !== 0)) return;
     
     // Handle double-tap detection
@@ -275,20 +237,22 @@ const ResizablePanel: React.FC<ResizablePanelProps> = ({
     
     if (timeSinceLastTap < 300) { // 300ms threshold for double-tap
       toggleExpandCollapse();
-      // Prevent default to avoid triggering other events
-      e.preventDefault();
-      e.stopPropagation();
+      e.stopPropagation(); // Use stopPropagation instead of preventDefault
     }
   };
   
   return (
     <div 
-      className={`${styles.panelContainer} ${className}`}
-      style={{ height: `${height}px` }}
+      ref={containerRef}
+      className={`${styles.panelContainer} ${!hasTransition ? styles.noTransition : ''} ${className}`}
+      style={{ 
+        height: `${height}px`,
+        transitionDuration: `${transitionDuration}ms`
+      }}
       onMouseDown={handlePanelTap}
       onTouchStart={handlePanelTap}
     >
-      {/* Drag handle - still needed for dragging */}
+      {/* Drag handle */}
       <div 
         className={`${styles.dragHandle} ${isDragging ? styles.dragHandleGrabbing : ''}`}
         onMouseDown={handleDragStart}
@@ -297,7 +261,7 @@ const ResizablePanel: React.FC<ResizablePanelProps> = ({
         <div className={styles.dragIndicator} />
       </div>
       
-      {/* Title */}
+      {/* Title (if provided) */}
       {title && title.trim() !== "" && (
         <div className={styles.panelTitle}>
           {title}

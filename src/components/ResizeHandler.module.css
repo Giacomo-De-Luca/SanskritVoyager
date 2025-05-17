@@ -1,4 +1,3 @@
-
 /* ResizablePanel.module.css */
 .panelContainer {
     position: fixed;
@@ -11,6 +10,14 @@
     box-shadow: 0 -2px 3px -1px rgba(0, 0, 0, 0.1), 0 -1px 2px -1px rgba(0, 0, 0, 0.06);
     z-index: 50;
     will-change: height;
+    /* We'll control the transition duration via inline style */
+    transition-property: height;
+    transition-timing-function: cubic-bezier(0.2, 0, 0.2, 1);
+  }
+  
+  /* Class for immediate changes with no transition (during dragging) */
+  .noTransition {
+    transition: none !important;
   }
   
   .dragHandle {
@@ -23,6 +30,8 @@
     justify-content: center;
     align-items: center;
     cursor: grab;
+    touch-action: none;
+    z-index: 1; /* Ensure handle stays above content */
   }
   
   .dragHandleGrabbing {
@@ -32,8 +41,15 @@
   .dragIndicator {
     width: 48px;
     height: 4px;
-    background-color: light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6)); /* gray-300 */
+    background-color: light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
     border-radius: 9999px;
+    transition: width 150ms ease, opacity 150ms ease;
+  }
+  
+  /* Make the handle indicator slightly wider when active */
+  .dragHandleGrabbing .dragIndicator {
+    width: 56px;
+    opacity: 0.8;
   }
   
   .panelTitle {
@@ -42,7 +58,7 @@
     padding-bottom: 12px;
     font-weight: 500;
     font-size: 20px;
-    color: #1f2937; /* gray-800 */
+    color: light-dark(var(--mantine-color-dark-9), var(--mantine-color-gray-1));
   }
   
   .contentArea {
@@ -54,5 +70,5 @@
     top: 60px;
     overflow: auto;
     padding: 0px 24px;
+    -webkit-overflow-scrolling: touch; /* Better scrolling on iOS */
   }
-  
