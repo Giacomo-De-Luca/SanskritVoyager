@@ -175,12 +175,12 @@ export function HomePage() {
   }, [textTranslit, words]);
   
   useEffect(() => {
-    if (selectedWord !== '' && panelRef.current) {
+    if (selectedWord !== '') {
       // Always make word info visible
       setIsWordInfoVisible(true);
       
       // If the panel is collapsed, expand it
-      if (isMobile && isWordInfoHalf && panelRef.current.isAtBreakpoint(0, 20)) {
+      if (isMobile && isWordInfoHalf && panelRef.current && panelRef.current.isAtBreakpoint(0, 20)) {
         panelRef.current.setBreakpoint(1);
       }
     }
