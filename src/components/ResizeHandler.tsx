@@ -1,5 +1,5 @@
 // ResizablePanel.tsx
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef, useEffect, useImperativeHandle, forwardRef } from 'react';
 import styles from './ResizeHandler.module.css';
 
 export interface ResizablePanelProps {
@@ -17,18 +17,29 @@ export interface ResizablePanelProps {
   className?: string;
 }
 
+export interface ResizablePanelHandle {
+  /** Set the panel height to a specific breakpoint */
+  setBreakpoint: (breakpointIndex: number) => void;
+  /** Get the current panel height */
+  getCurrentHeight: () => number;
+  /** Check if the panel is at or near a specific breakpoint */
+  isAtBreakpoint: (breakpointIndex: number, tolerance?: number) => boolean;
+}
+
 /**
  * A resizable panel component that appears from the bottom of the screen
  * with CSS-based animations and fluid touch/mouse interactions.
  */
-const ResizablePanel: React.FC<ResizablePanelProps> = ({
-  title = "", 
-  children,
-  initialBreakpointIndex = 1,
-  breakpoints = [150, 300, 500, 700, 850],
-  onResize = () => {},
-  className = '',
-}) => {
+const ResizablePanel = forwardRef<ResizablePanelHandle, ResizablePanelProps>((props, ref) => {
+  const {
+    title = "", 
+    children,
+    initialBreakpointIndex = 1,
+    breakpoints = [150, 300, 500, 700, 850],
+    onResize = () => {},
+    className = '',
+  } = props;
+
   // State for panel height
   const [height, setHeight] = useState<number>(breakpoints[initialBreakpointIndex]);
   
@@ -49,6 +60,22 @@ const ResizablePanel: React.FC<ResizablePanelProps> = ({
   
   // Container ref for direct DOM manipulation when needed
   const containerRef = useRef<HTMLDivElement>(null);
+  
+  // Expose imperative methods to parent component
+  useImperativeHandle(ref, () => ({
+    // Set the panel to a specific breakpoint
+    setBreakpoint: (breakpointIndex: number) => {
+      const index = Math.max(0, Math.min(breakpointIndex, breakpoints.length - 1));
+      setHeightWithTransition(breakpoints[index]);
+    },
+    // Get the current height
+    getCurrentHeight: () => height,
+    // Check if the panel is at or near a specific breakpoint
+    isAtBreakpoint: (breakpointIndex: number, tolerance = 10) => {
+      const targetHeight = breakpoints[breakpointIndex];
+      return Math.abs(height - targetHeight) <= tolerance;
+    }
+  }));
   
   // Find the next breakpoint in a direction
   const findNextBreakpoint = (currentValue: number, direction: 'up' | 'down'): number => {
@@ -274,6 +301,6 @@ const ResizablePanel: React.FC<ResizablePanelProps> = ({
       </div>
     </div>
   );
-};
+});
 
 export default ResizablePanel;

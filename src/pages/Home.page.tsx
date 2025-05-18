@@ -37,6 +37,13 @@ interface Translation {
   Sanskrit: string;
 }
 
+
+interface ResizablePanelHandle {
+  setBreakpoint: (breakpointIndex: number) => void;
+  getCurrentHeight: () => number;
+  isAtBreakpoint: (breakpointIndex: number, tolerance?: number) => boolean;
+}
+
 export function HomePage() {
 
     
@@ -99,12 +106,17 @@ export function HomePage() {
   const isWordInfoHalf = text !== '' || bookTitle !== null
   
 
+  const breakpoints = [50, 450, 600, 800];
+  const [currentHeight, setCurrentHeight] = useState(breakpoints[1]);
+
+  const panelRef = useRef<ResizablePanelHandle>(null);
+
+
 
 
   useHotkeys([
     ['mod+s', () => handleAdvancedSearch.toggle()]])
   
-
 
   // Effect to scroll to clicked word
   useEffect(() => {
@@ -162,12 +174,17 @@ export function HomePage() {
     }
   }, [textTranslit, words]);
   
-  // Effect to show word info when a word is selected
   useEffect(() => {
-    if (selectedWord !== '') {
+    if (selectedWord !== '' && panelRef.current) {
+      // Always make word info visible
       setIsWordInfoVisible(true);
+      
+      // If the panel is collapsed, expand it
+      if (isMobile && isWordInfoHalf && panelRef.current.isAtBreakpoint(0, 20)) {
+        panelRef.current.setBreakpoint(1);
+      }
     }
-  }, [selectedWord]);
+  }, [selectedWord, isMobile, isWordInfoHalf]);
   
   // Effect to fetch word data when a word is selected
   useEffect(() => {
@@ -291,9 +308,6 @@ export function HomePage() {
   // then add a good sliding transition from left to right when text appears
   // and a good sliding transition from right to left when the column is closed
 
-
-  const breakpoints = [50, 600, 800, 1000];
-  const [currentHeight, setCurrentHeight] = useState(breakpoints[1]);
 
   
 
@@ -474,6 +488,7 @@ export function HomePage() {
                   {/* For mobile when in WordInfoHalf mode, use ResizablePanel */}
                   {isMobile && isWordInfoHalf ? (
                     <ResizablePanel 
+                      ref={panelRef}
                       breakpoints={breakpoints}
                       initialBreakpointIndex={1}
                       onResize={(newHeight) => {
