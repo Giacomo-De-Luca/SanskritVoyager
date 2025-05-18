@@ -76,7 +76,6 @@ export function HomePage() {
 
   const [wordData, setWordData] = useState<WordEntry[]>([]);
   const [clickedAdditionalWord, setClickedAdditionalWord] = useState<string | null>(null);
-  const [clickedInfoWord, setClickedInfoWord] = useState<string | null>(null);
   
 
 
@@ -143,29 +142,6 @@ export function HomePage() {
     }
   }, [clickedAdditionalWord]);
   
-  // Effect to scroll to word data
-  useEffect(() => {
-    if (wordData.length > 0) {
-      setTimeout(() => {
-        const targetWord = clickedInfoWord || wordData[0][0];
-        let element = document.querySelector(`h1[data-word="${targetWord}"]`);
-        
-        if (!element) {
-          const allH1s = document.querySelectorAll('h1');
-          for (const h1 of allH1s) {
-            if (h1.textContent?.trim() === targetWord) {
-              element = h1;
-              break;
-            }
-          }
-        }
-  
-        if (element) {
-          element.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        }
-      }, 100);
-    }
-  }, [wordData, clickedInfoWord]);
   
   // Effect to select single word
   useEffect(() => {
@@ -506,7 +482,6 @@ export function HomePage() {
                             setWordData={setWordData}
                             selectedDictionaries={selectedDictionaries}
                             isMobile={isMobile}
-                            setClickedInfoWord={setClickedInfoWord}
                             isTablet={isTablet}
                             isNavabarVisible={isNavbarVisible}
                             setDisplayInflectionTables={setDisplayInflectionTables}
@@ -616,7 +591,6 @@ export function HomePage() {
                         setWordData={setWordData}
                         selectedDictionaries={selectedDictionaries}
                         isMobile={isMobile}
-                        setClickedInfoWord={setClickedInfoWord}
                         isTablet={isTablet}
                         isNavabarVisible={isNavbarVisible}
                         setDisplayInflectionTables={setDisplayInflectionTables}

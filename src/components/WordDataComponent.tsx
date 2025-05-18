@@ -1,3 +1,4 @@
+import React, { memo } from 'react';
 import InflectionTable from './InflectionTable';
 import { fetchWordData } from '../utils/Api';
 import { useState, useEffect } from 'react';
@@ -34,7 +35,6 @@ interface WordDataComponentProps {
   wordData: WordEntry[];
   setWordData: React.Dispatch<React.SetStateAction<WordEntry[]>>;
   isMobile: boolean | undefined;
-  setClickedInfoWord: React.Dispatch<React.SetStateAction<string|null>>;
   isTablet:  boolean | undefined;
   isNavabarVisible: boolean;
   displayInflectionTables: boolean;
@@ -65,27 +65,48 @@ const WordDataComponent = ({
   setWordData, 
   isMobile, 
   selectedDictionaries, 
-  setClickedInfoWord, 
   isTablet, 
   isNavabarVisible,
   setDisplayInflectionTables,
   displayInflectionTables }: WordDataComponentProps) => {
+
+
+  
+  
   const handleWordClick = async (word: string, index: number) => {
-    setClickedInfoWord(word)
-    console.log(`Clicked word: ${word}`);
-    console.log(`Index: ${index}`);
     fetchWordData(word).then(data => {
-      if (!Array.isArray(data)) {
-        console.error('Fetched data is not an array:', data);
-        return; // Prevent further processing
+      if (data && data.length > 0) {
+        setWordData(prevWordData => {
+          // Calculate insertion position (right after the clicked word)
+          const insertPosition = index + 1;
+          
+          // Store the new word to scroll to
+          const newWordToScrollTo = data[0][0]; // First word of first entry
+          
+          // Create new data array with inserted entries
+          const newData = [...prevWordData];
+          newData.splice(insertPosition, 0, ...data);
+          
+          // Use setTimeout to allow React to render the DOM updates
+          setTimeout(() => {
+            // Find the element by attribute instead of class
+            const newWordElement = document.querySelector(`[data-word="${newWordToScrollTo}"]`);
+            
+            if (newWordElement) {
+              newWordElement.scrollIntoView({ 
+                behavior: 'smooth', 
+                block: 'start' 
+              });
+            } else {
+              console.log("Could not find new word element:", newWordToScrollTo);
+            }
+          }, 150); // Increase timeout to ensure rendering completes
+          
+          return newData;
+        });
       }
-      console.log(data);  
-      setWordData(prevWordData => {
-        const newData = [...prevWordData];
-        newData.splice(index + 1, 0, ...data);
-        console.log(newData);
-        return newData;
-      });
+    }).catch(err => {
+      console.error("Error fetching word data:", err);
     });
   }
 
@@ -388,4 +409,4 @@ const WordDataComponent = ({
   );
 };
 
-export default WordDataComponent;
+export default React.memo(WordDataComponent);
