@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { createPortal } from 'react-dom';
 import WordInfo from './WordInfo';
 import classes from './ClickableSimpleBooks.module.css';
+import { useResponsive } from '@/context/ResponsiveContext';
 
 interface WordInfoPortalProps {
   clickedElement: HTMLElement | null;
@@ -18,6 +19,7 @@ const WordInfoPortal: React.FC<WordInfoPortalProps> = ({
 }) => {
   const [portalContainer, setPortalContainer] = useState<HTMLDivElement | null>(null);
   const [previousElement, setPreviousElement] = useState<HTMLElement | null>(null);
+  const { isMobile } = useResponsive();
 
   useEffect(() => {
     if (!clickedElement) return;
@@ -51,8 +53,9 @@ const WordInfoPortal: React.FC<WordInfoPortalProps> = ({
   useEffect(() => {
     if (!isLoadingDebug && wordData.length > 0 && portalContainer) {
       portalContainer.scrollIntoView({ 
+        
         behavior: 'smooth',
-        block: 'center'
+        block: isMobile ? 'start' : 'center'
       });
     }
   }, [isLoadingDebug, wordData, portalContainer]);
