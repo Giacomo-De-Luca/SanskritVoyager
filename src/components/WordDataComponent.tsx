@@ -7,6 +7,8 @@ import { Text, Divider, Title, Tooltip, ActionIcon } from '@mantine/core';
 import { IconTable, IconTableOff, IconBorderAll, IconTablePlus } from "@tabler/icons-react"
 
 
+
+
 import classes from './WordDataComponent.module.css';
 
 
@@ -392,10 +394,10 @@ const WordDataComponent = ({
                             ))
                             : null
                           }
-        </div>
-      ))}
-    </div>
-  ))}
+                      </div>
+                    ))}
+                  </div>
+                ))}
                 </div>
               )}
             </div>    

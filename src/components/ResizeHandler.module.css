@@ -67,7 +67,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    top: 48px;
+    top: 40px;
     overflow: auto;
     padding: 0px 24px;
     -webkit-overflow-scrolling: touch; /* Better scrolling on iOS */

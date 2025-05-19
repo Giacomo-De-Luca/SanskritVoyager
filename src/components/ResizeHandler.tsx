@@ -45,7 +45,7 @@ const ResizablePanel = forwardRef<ResizablePanelHandle, ResizablePanelProps>((pr
   
   // State for managing transitions
   const [hasTransition, setHasTransition] = useState<boolean>(true);
-  const [transitionDuration, setTransitionDuration] = useState<number>(250); // Fixed transition duration
+  const transitionDuration = 200; // Fixed transition duration
   
   // Dragging state and refs
   const [isDragging, setIsDragging] = useState<boolean>(false);

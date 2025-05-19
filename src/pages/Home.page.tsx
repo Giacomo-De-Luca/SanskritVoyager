@@ -105,12 +105,12 @@ export function HomePage() {
   const isWordInfoHalf = text !== '' || bookTitle !== null
   
 
-  const breakpoints = [50, 450, 600, 800];
-  const [currentHeight, setCurrentHeight] = useState(breakpoints[1]);
+  // OLD const breakpoints = [50, 450, 600, 800];
+
+
+  const breakpoints = [40, 400, 800];
 
   const panelRef = useRef<ResizablePanelHandle>(null);
-
-
 
 
   useHotkeys([
@@ -467,11 +467,6 @@ export function HomePage() {
                       ref={panelRef}
                       breakpoints={breakpoints}
                       initialBreakpointIndex={1}
-                      onResize={(newHeight) => {
-                        if (typeof newHeight === 'number') {
-                          setCurrentHeight(newHeight);
-                        }
-                      }}
                     >
                       <div className={classes.scrollContainer}>
                         {isLoadingWordData ? (
