@@ -25,9 +25,6 @@ import { SearchResult } from '@/types/searchTypes';
 import { Analytics } from "@vercel/analytics/react";
 import { useResponsive } from '@/context/ResponsiveContext';
 
-import { useContainerHeadroom } from '../hooks/useHeadroom'; // Add this import
-
-
 
 
 import { fetchBookText } from '../utils/apiService';
@@ -94,7 +91,7 @@ export function HomePage() {
 
  
   const { height: viewportHeight } = useViewportSize();
-  const headerHeight = isMobile ? 0 : 56;
+  const headerHeight = 56;
   const availableHeight = viewportHeight - headerHeight;
 
   const [isLoadingBook, setIsLoadingBook] = useState(false);
@@ -192,7 +189,6 @@ export function HomePage() {
           } catch (apiError) {
             // If API fails, try the local resource
             console.log("API fetch failed, trying local resource");
-            // for offline add /public/ for online remove it or it won't load the books
             const response = await fetch(`/resources/books/${bookTitle}.json`);
             if (!response.ok) {
               throw new Error(`Failed to fetch: ${response.status}`);
@@ -255,17 +251,6 @@ export function HomePage() {
   const showEmptyMobileState = isMobile && text === null && bookTitle === null && wordData == null;
 
 
-  const textScrollRef = useRef<HTMLDivElement>(null);
-    
-  // Add the container headroom hook
-  const headerIsPinned = useContainerHeadroom({
-    containerRef: textScrollRef,
-    fixedAt: 40, // Hide header after scrolling 20px
-  });
-
-  const shouldShowHeader = isNavbarVisible || headerIsPinned || !isMobile;
-
-
 
   // now the main page
   // mainContainer wrapping everything
@@ -301,24 +286,26 @@ export function HomePage() {
 
 
   
-  return (
-    <div className={classes.mainContainer}>
 
       
 
-      <div className={`${classes.headerContainer} ${!shouldShowHeader? classes.headerHidden : ''}`}>
-        <HeaderSearch
-          onSearch={setSelectedWord}
-          onToggleNavbar={toggleNavbar}
-          isMobile={isMobile}
-          isNavbarVisible={isNavbarVisible}
-          handleAdvancedSearch={handleAdvancedSearch}
-        />
-      </div>
+
+
+  
+  return (
+    <div className={classes.mainContainer}>
+      <HeaderSearch
+        onSearch={setSelectedWord}
+        onToggleNavbar={toggleNavbar}
+        isMobile={isMobile}
+        isNavbarVisible={isNavbarVisible}
+        handleAdvancedSearch={handleAdvancedSearch}
+
+
+      />
 
       <div 
-        className={`${classes.contentBox}`} // Also update here if you use contentBoxHeaderHidden
-
+        className={classes.contentBox}
         style={{ 
           display: 'flex',
           overflow: 'hidden',
@@ -358,7 +345,7 @@ export function HomePage() {
           
         </div>
 
-
+        {!(isMobile && isNavbarVisible) && (
           <Grid 
             className={classes.wholeGrid}
             justify="space-around"
@@ -418,7 +405,6 @@ export function HomePage() {
                   whiteSpace: 'normal',
                   paddingBottom: '0px'
                 }}
-                
               >
                 <div className={classes.scrollContainer}
                   style={{
@@ -427,7 +413,6 @@ export function HomePage() {
                       (isTablet && isNavbarVisible && isWordInfoVisible) ? 
                         '1px solid lightgray' : 'none',
                   }}
-                  ref={textScrollRef}
                 >
 
                   {textTranslit !== '' && (
@@ -616,8 +601,9 @@ export function HomePage() {
           )}
               </Transition>
           </Grid>
-
+        )}
       </div>
+      <Analytics />
       {/* Add the modal at the end of your component, before the Analytics tag */}
       <Modal className={classes.advancedSearchModal} 
               opened={isAdvancedSearchVisible} 
@@ -632,8 +618,7 @@ export function HomePage() {
                 body: classes.modalBody,
               }}
               >
-
-                  <AdvancedSearch
+      <AdvancedSearch
                           advancedSearchResults={advancedSearchResults}
                           setAdvancedSearchResults={setAdvancedSearchResults}
                           isMobile={isMobile} 
@@ -653,7 +638,7 @@ export function HomePage() {
                           handleAdvancedSearch={handleAdvancedSearch}
                           setIsNavbarVisible={setIsNavbarVisible}
                         />
-          </Modal>
+      </Modal>
 
 
           <Analytics />
