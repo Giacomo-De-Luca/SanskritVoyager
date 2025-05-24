@@ -1,8 +1,8 @@
 import { createTheme, rem, virtualColor } from '@mantine/core';
 
-import './LinuxBiolinum/LinuxBiolinum.css';
-import './LibertinusSans/LibertinusSans.css';
-import './IndUni-P/IndUni-P.css';
+import './fonts/LinuxBiolinum/LinuxBiolinum.css';
+import './fonts/LibertinusSans/LibertinusSans.css';
+import './fonts/IndUni-P/IndUni-P.css';
 
 export const theme = createTheme({
 

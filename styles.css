@@ -24,13 +24,13 @@
 /* Default favicon */
 @media (prefers-color-scheme: light) {
   :root {
-    --favicon: url('/src/faviconlight.svg');
+    --favicon: url('/src/svg/faviconlight.svg');
   }
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --favicon: url('/src/favicondark.svg');
+    --favicon: url('/src/svg/favicondark.svg');
   }
 }
 

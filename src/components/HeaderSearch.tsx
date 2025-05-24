@@ -3,11 +3,8 @@ import { useDisclosure, useDebouncedState, useHotkeys } from '@mantine/hooks';
 import { IconSearch, IconListSearch } from '@tabler/icons-react';
 import classes from './HeaderSearch.module.css';
 import { ActionToggle } from './ColorSchemeToggle/ColorSchemeToggle';
-import { UiSwitch } from './UiSwitch';
 export { UiSwitch } from './UiSwitch';
 import React, { useState, useEffect, useRef } from 'react';
-import faviconlight from '../faviconlight.svg';
-import favicondark from '../favicondark.svg';
 import Logo from './logo'
 import SearchToggle from './AdvancedSearchToggle';
 
