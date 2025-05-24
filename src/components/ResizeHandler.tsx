@@ -252,23 +252,29 @@ const ResizablePanel = forwardRef<ResizablePanelHandle, ResizablePanelProps>((pr
     };
   }, [isDragging, height]);
   
-  // Double-tap handler for panel expansion/collapse
-  const handlePanelTap = (e: React.MouseEvent | React.TouchEvent): void => {
+  const singleClickTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const handlePanelClick = (e: React.MouseEvent): void => {
     // Don't process when dragging or on right-click
-    if (isDragging || (e.type === 'mousedown' && (e as React.MouseEvent).button !== 0)) return;
+    if (isDragging || e.button !== 0) return;
     
-    const now = Date.now();
-    const timeSinceLastTap = now - lastTapTimeRef.current;
+    // Clear any pending single click
+    if (singleClickTimerRef.current) {
+      clearTimeout(singleClickTimerRef.current);
+      singleClickTimerRef.current = null;
+    }
     
-    // Only trigger on double-tap: previous tap must be within 300ms AND not be the very first tap
-    if (timeSinceLastTap < 300 && lastTapTimeRef.current > 0) {
+    if (e.detail === 1) {
+      // Single click - wait to see if double click is coming
+      singleClickTimerRef.current = setTimeout(() => {
+        // Single click confirmed - add single click behavior here if needed
+        // For now, do nothing on single click
+        singleClickTimerRef.current = null;
+      }, 200);
+    } else if (e.detail === 2) {
+      // Double click - execute immediately
       toggleExpandCollapse();
       e.stopPropagation();
-      // Reset the timer to prevent triple-tap issues
-      lastTapTimeRef.current = 0;
-    } else {
-      // This is either the first tap or too much time has passed
-      lastTapTimeRef.current = now;
     }
   };
   
@@ -280,8 +286,7 @@ const ResizablePanel = forwardRef<ResizablePanelHandle, ResizablePanelProps>((pr
         height: `${height}px`,
         transitionDuration: `${transitionDuration}ms`
       }}
-      onMouseDown={handlePanelTap}
-      onTouchStart={handlePanelTap}
+      onClick={handlePanelClick}
     >
       {/* Drag handle */}
       <div 
