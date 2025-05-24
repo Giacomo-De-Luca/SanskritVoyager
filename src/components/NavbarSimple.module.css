@@ -8,6 +8,7 @@
   right: 0px;
   bottom: 0px;
   left: 0px;
+  z-index: 55;
 
   @media (max-width: 1000px) {
     @media (orientation: landscape) {
