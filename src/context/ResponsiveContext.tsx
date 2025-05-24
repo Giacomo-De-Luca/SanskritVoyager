@@ -19,7 +19,7 @@ const ResponsiveContext = createContext<ResponsiveContextType>({
 // Create a provider component
 export function ResponsiveProvider({ children }: { children: React.ReactNode }) {
   // Define your media queries (same values as in HomePage)
-  const isMobile = useMediaQuery('(max-width: 600px)') ?? false;
+  const isMobile = useMediaQuery('(max-width: 660px)') ?? false;
   const isTablet = useMediaQuery('(max-width: 1100px)') ?? false;
   const isSmallMobile = useMediaQuery('(max-height: 724px)') ?? false;
   
