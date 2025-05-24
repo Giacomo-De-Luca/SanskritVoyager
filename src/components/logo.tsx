@@ -7,7 +7,7 @@
  * @param {number} props.size - Size of the logo in pixels (maintains aspect ratio)
  * @returns {JSX.Element} - Rendered logo component
  */
-const Logo = ({ className = "", size = 100, animate = true, duration = 2.5 }) => {
+const Logo = ({ className = "", size = 100, animate = false, duration = 2 }) => {
     return (
       <>
         {animate && (
