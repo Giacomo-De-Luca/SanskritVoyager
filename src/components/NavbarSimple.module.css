@@ -4,20 +4,22 @@
   width: 100%;
   position: fixed;
   overflow-y: auto;
-
   top: 0px;
   right: 0px;
   bottom: 0px;
   left: 0px;
 
-
- 
   @media (max-width: 1000px) {
     @media (orientation: landscape) {
       /* Ensure the navbar still fits in landscape mode */
       overflow-y: auto; /* Allow scrolling if content doesn't fit */
     }
   }
+  @media (max-width: 660px) {
+    top: 56px;
+  }
+
+
 
   padding: var(--mantine-spacing-md);
   display: flex;

@@ -10,6 +10,10 @@
     padding-top: 2.5rem;
     scroll-margin-top: 1rem;
     line-height: 1.2;
+
+    @media (max-width: 660px) {
+      padding-top: 112px;
+    }
     
   }
 

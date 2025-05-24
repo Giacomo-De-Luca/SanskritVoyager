@@ -260,12 +260,14 @@ export function HomePage() {
   // Add the container headroom hook
   const headerIsPinned = useContainerHeadroom({
     containerRef: textScrollRef,
-    fixedAt: 40, // Hide header after scrolling 20px
+    fixedAt: 40, 
   });
 
   const shouldShowHeader = isNavbarVisible || headerIsPinned || !isMobile;
 
 
+
+  
 
   // now the main page
   // mainContainer wrapping everything
