@@ -25,7 +25,7 @@ import { SearchResult } from '@/types/searchTypes';
 import { Analytics } from "@vercel/analytics/react";
 import { useResponsive } from '@/context/ResponsiveContext';
 
-import { useContainerHeadroom } from '../hooks/useHeadroom'; // Add this import
+import { useContainerHeadroom } from '../hooks/useHeadroom'; 
 
 
 
@@ -227,8 +227,6 @@ export function HomePage() {
   };
   
   // ----- Functions -----
-
-  //reset
   
   // Toggle navbar visibility
   const toggleNavbar = () => {
@@ -480,7 +478,9 @@ export function HomePage() {
             {(styles) => (
 
                   <>
-                  {/* For mobile when in WordInfoHalf mode, use ResizablePanel */}
+                  {/* For mobile when in WordInfoHalf mode, use ResizablePanel 
+                      it doesn't make sense to have the isLoadingState in the parent - it should be in the child
+                      so many more things should be memoised*/}
                   {isMobile && isWordInfoHalf ? (
                     <ResizablePanel 
                       ref={panelRef}
