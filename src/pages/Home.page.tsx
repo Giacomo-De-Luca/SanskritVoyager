@@ -111,7 +111,7 @@ export function HomePage() {
   // OLD const breakpoints = [50, 450, 600, 800];
 
 
-  const breakpoints = [0, 380, 600];
+  const breakpoints = [40, 380, 600];
 
   const panelRef = useRef<ResizablePanelHandle>(null);
 
