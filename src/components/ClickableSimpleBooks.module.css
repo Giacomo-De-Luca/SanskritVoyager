@@ -231,6 +231,10 @@ mark:hover {
   margin-left: 0.5rem; /* Indent sub-divisions */
   margin-top: 1rem;
   border-top: none; /* Remove potential double borders */
+  @media (max-width: 1000px) 
+  {
+    margin-left: 0rem; 
+  }
 }
 
 /* Specific division types (adjust 'type' values as needed) */
@@ -277,12 +281,16 @@ mark:hover {
   padding-left: 0.5rem; /* Indent stanzas slightly */
   /* Optional: Add a subtle border or background for distinction */
   /* border-left: 2px solid light-dark(var(--mantine-color-gray-2), var(--mantine-color-dark-6)); */
+
+  @media (max-width: 1000px) {
+    padding-left: 0rem; /* Less indentation on smaller screens */
+  }
 }
 
 .l { /* Line (of verse typically) */
   display: block;
-  margin-bottom: 0.3rem; /* Slightly more space than default lineContainer */
-  padding-left: 0.5rem; /* Indent lines further within stanza */
+  margin-bottom: 0.2.5rem; /* Slightly more space than default lineContainer */
+  padding-left: 0rem; /* Indent lines further within stanza */
   min-height: 1.2em; /* Ensure lines aren't too cramped */
 }
 

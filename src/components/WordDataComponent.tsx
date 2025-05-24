@@ -190,6 +190,7 @@ const WordDataComponent = ({
                         size="sm"
                         onClick={() => setDisplayInflectionTables(!displayInflectionTables)}
                         className={classes.inflectionTableIcon}
+                        
                       >
                         {displayInflectionTables ? (
                           <IconTableOff size={16} stroke={1.5} />

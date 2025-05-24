@@ -111,7 +111,7 @@ export function HomePage() {
   // OLD const breakpoints = [50, 450, 600, 800];
 
 
-  const breakpoints = [40, 380, 600];
+  const breakpoints = [0, 380, 600];
 
   const panelRef = useRef<ResizablePanelHandle>(null);
 
@@ -143,6 +143,10 @@ export function HomePage() {
       }
       setClickedAdditionalWord(null);
     }
+    // If the panel is collapsed, expand it
+      if (isMobile && isWordInfoHalf && panelRef.current && panelRef.current.isAtBreakpoint(0, 20)) {
+        panelRef.current.setBreakpoint(1);
+      }
   }, [clickedAdditionalWord]);
   
   

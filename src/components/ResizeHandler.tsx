@@ -257,14 +257,18 @@ const ResizablePanel = forwardRef<ResizablePanelHandle, ResizablePanelProps>((pr
     // Don't process when dragging or on right-click
     if (isDragging || (e.type === 'mousedown' && (e as React.MouseEvent).button !== 0)) return;
     
-    // Handle double-tap detection
     const now = Date.now();
     const timeSinceLastTap = now - lastTapTimeRef.current;
-    lastTapTimeRef.current = now;
     
-    if (timeSinceLastTap < 300) { // 300ms threshold for double-tap
+    // Only trigger on double-tap: previous tap must be within 300ms AND not be the very first tap
+    if (timeSinceLastTap < 300 && lastTapTimeRef.current > 0) {
       toggleExpandCollapse();
-      e.stopPropagation(); // Use stopPropagation instead of preventDefault
+      e.stopPropagation();
+      // Reset the timer to prevent triple-tap issues
+      lastTapTimeRef.current = 0;
+    } else {
+      // This is either the first tap or too much time has passed
+      lastTapTimeRef.current = now;
     }
   };
   
