@@ -227,6 +227,8 @@ export function HomePage() {
   };
   
   // ----- Functions -----
+
+  //reset
   
   // Toggle navbar visibility
   const toggleNavbar = () => {
