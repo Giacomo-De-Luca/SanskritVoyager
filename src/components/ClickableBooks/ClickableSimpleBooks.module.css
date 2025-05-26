@@ -63,7 +63,7 @@
     padding: 0.5rem 0 0.5rem 2rem;
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
-    border-left: 2px solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-gray-6));
+    border-left: 1px solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-gray-6));
     color: light-dark(var(--mantine-color-dark-3), var(--mantine-color-gray-5));
     display: flex;
     flex-wrap: wrap; /* Allow wrapping when needed */
@@ -403,7 +403,7 @@ mark:hover {
   font-size: 0.9em;
   margin: 0.5rem 0 0.5rem 2rem;
   padding: 0.5rem;
-  border-left: 2px solid light-dark(var(--mantine-color-blue-2), var(--mantine-color-blue-8));
+  border-left: 1px solid light-dark(var(--mantine-color-blue-2), var(--mantine-color-blue-8));
   background-color: light-dark(var(--mantine-color-blue-0), var(--mantine-color-dark-7));
   color: light-dark(var(--mantine-color-dark-2), var(--mantine-color-gray-5)); /* Adjust text color inside note */
 }
@@ -500,9 +500,9 @@ mark:hover {
   display: block;
   margin: 1rem 2rem;
   padding-left: 1rem;
-  border-left: 3px solid light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-4));
+  border-left: 1px solid light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-4));
   font-style: italic;
-  color: light-dark(var(--mantine-color-dark-1), var(--mantine-color-gray-4)); /* Slightly different color */
+  color: light-dark(var(--mantine-color-dark-3), var(--mantine-color-gray-4)); /* Slightly different color */
 }
 
 @media (max-width: 1000px) {

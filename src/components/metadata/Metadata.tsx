@@ -74,7 +74,7 @@ const StructuredContent: React.FC<{ content: any[] }> = ({ content }) => {
         
         if (item.type === 'persName' || item.type === 'placeName') {
           return (
-            <Text key={index} span fw={600} c="blue.7">
+            <Text key={index} span className={classes.textName}>
               <StructuredContent content={item.content} />
             </Text>
           );
@@ -155,7 +155,7 @@ const SourcesList: React.FC<{ sources: any[] }> = ({ sources }) => {
       {sources.map((source, index) => (
         <Paper key={index} p="sm" className={classes.sourceItem}>
           {source.titles && source.titles.map((title: any, tIndex: number) => (
-            <Text key={tIndex} fw={title.type === 'main' ? 600 : 400} size="sm">
+            <Text key={tIndex} fw={title.type === 'main' ? 600 : 400} >
               {title.text}
             </Text>
           ))}
@@ -239,7 +239,7 @@ const RevisionHistory: React.FC<{ revisions: any[] }> = ({ revisions }) => {
                     size="sm" 
                     variant="light"
                     classNames={{root: classes.badgeRoot}}>{revision.when}</Badge>}
-              {revision.who && <Text fw={500}>{revision.who}</Text>}
+              {revision.who && <Text className={classes.revisionAuthor}>{revision.who}</Text>}
             </Group>
             
             {revision.description_text && !hasFullContent && (
@@ -341,7 +341,9 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
           root: classes.metadataAccordionRoot,
           panel: classes.metadataAccordionPanel,
           item: classes.metadataAccordionItem,
-          control: classes.metadataAccordionControl
+          control: classes.metadataAccordionControl,
+          content: classes.metadataAccordionContent,
+          label: classes.metadataAccordionLabel,
         }}
       >
         <Accordion.Item value="metadata" className={classes.accordionItem}>
@@ -455,7 +457,7 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
                   </Text>
                   <Stack gap="sm">
                     {metadata.notes_statement.map((note: any, index: number) => (
-                      <Text key={index} size="sm">
+                      <Text key={index}>
                         {extractTextFromContent(note.content)}
                       </Text>
                     ))}
@@ -472,7 +474,7 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
                   </Text>
                   <Stack gap="sm">
                     {metadata.encoding_description.description_paragraphs?.map((para: any, index: number) => (
-                      <Text key={index} size="sm">
+                      <Text key={index} >
                         {extractTextFromContent(para.content)}
                       </Text>
                     ))}
@@ -482,7 +484,7 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
                         {Object.entries(metadata.encoding_description.editorial_declaration).map(([key, value]: [string, any]) => {
                           if (isEmpty(value)) return null;
                           return (
-                            <Text key={key} size="sm" pl="md">
+                            <Text key={key} pl="md">
                               <strong>{key}:</strong> {
                                 value.text || 
                                 (value.paragraphs_content && extractTextFromContent(value.paragraphs_content[0].content))
