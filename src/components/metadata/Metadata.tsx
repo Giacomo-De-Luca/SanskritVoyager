@@ -336,7 +336,6 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
 
       <Accordion 
         className={classes.metadataAccordion} 
-        defaultValue="metadata"
         // variant="contained"
         classNames={{
           root: classes.metadataAccordionRoot,
@@ -355,7 +354,7 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
 
               {/* Principal investigator (new field) */}
               {metadata.principal && !isEmpty(metadata.principal) && (
-                <Text size="md" c="dimmed" mb="md">
+                <Text size="md" c="dimmed" mb="md" mt="md">
                   Principal: {metadata.principal.person_name}
                   {metadata.principal.organization_name && ` (${metadata.principal.organization_name})`}
                 </Text>

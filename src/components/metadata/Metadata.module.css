@@ -21,7 +21,7 @@
 
 .bookSubtitle {
   font-family: 'LibertinusSans', -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 1rem;
+  font-size: 1.25rem;
   font-weight: 400;
   color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-4));
   font-style: italic;
@@ -32,7 +32,7 @@
 
 .authorLine {
   font-family: 'LibertinusSans', -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 1rem;
+  font-size: 1.25rem;
   font-weight: 500;
   letter-spacing: -0.02em;
   margin-bottom: 1rem;
