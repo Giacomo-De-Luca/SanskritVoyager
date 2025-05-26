@@ -1,0 +1,4260 @@
+{
+  "file_title": "yogapradipa",
+  "file_title_normal": "yogapradipa",
+  "metadata": {
+    "document_id": "sarit__Yogapradīpa",
+    "header_language": "en",
+    "titles": [
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "Yogapradīpa"
+          }
+        ],
+        "text": "Yogapradīpa",
+        "type": "main"
+      },
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "A SARIT edition"
+          }
+        ],
+        "text": "A SARIT edition",
+        "type": "sub"
+      }
+    ],
+    "original_title": "Yogapradīpa",
+    "authors": [
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "Anonymous"
+          }
+        ],
+        "name": "Anonymous"
+      }
+    ],
+    "author": "Anonymous",
+    "contributors": [
+      {
+        "responsibility": "Creation of machine-readable version.",
+        "responsibility_attributes": {
+          "when": "2017-02-23"
+        },
+        "name": "Jason Birch"
+      }
+    ],
+    "publication": {
+      "authority": {
+        "type": "authority",
+        "content": [
+          {
+            "type": "text",
+            "value": "SARIT: Search and Retrieval of Indic Texts"
+          }
+        ]
+      },
+      "date": {
+        "text": "2017"
+      },
+      "availability": {
+        "status": "restricted",
+        "license_declaration": {
+          "content": [
+            {
+              "type": "text",
+              "value": "Distributed by"
+            },
+            {
+              "type": "ref",
+              "attributes": {
+                "target": "http://sarit.indology.info",
+                "type": "url"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "value": "SARIT"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "under a Creative Commons Attribution-ShareAlike 4.0\n                            International License."
+            }
+          ],
+          "text": "Distributed by SARIT under a Creative Commons Attribution-ShareAlike 4.0\n                            International License.",
+          "target": "http://creativecommons.org/licenses/by-sa/4.0/",
+          "type": "licence"
+        },
+        "full_description": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Copyright Notice"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Copyright 2017-2018 Jason Birch and SARIT"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "ref",
+                "attributes": {
+                  "target": "http://creativecommons.org/licenses/by-sa/4.0/",
+                  "type": "licence"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Distributed by"
+                  },
+                  {
+                    "type": "ref",
+                    "attributes": {
+                      "target": "http://sarit.indology.info",
+                      "type": "url"
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "SARIT"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "under a Creative Commons Attribution-ShareAlike 4.0\n                            International License."
+                  }
+                ],
+                "text": "Distributed by SARIT under a Creative Commons Attribution-ShareAlike 4.0\n                            International License."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Under this licence, you are free"
+              },
+              {
+                "type": "list",
+                "items": [
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "to Share — to copy, distribute and transmit the work"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "to Remix — to adapt the work"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Under the following conditions:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "list",
+                "items": [
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "Attribution — You must attribute the work in the manner specified\n                                by the author or licensor (but not in any way that suggests that\n                                they endorse you or your use of the work)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "Share Alike — If you alter, transform, or build upon this work,\n                                you may distribute the resulting work only under the same or similar\n                                license to this one."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "More information and fuller details of this license are given on the Creative\n                        Commons website."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "SARIT assumes no responsibility for unauthorised use that infringes the\n                        rights of any copyright owners, known or unknown."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "sources": [
+      {
+        "type": "bibl",
+        "full_text_concat": "India\n                        MS Chinmaya International Foundation (CIF)\n                        EAP729/1/2/660\n                        Yogapradīpa\n                    23 tiff images representing 23 folios\n                    Harilalya\n                    Digital copy at the British Library"
+      }
+    ],
+    "notes_statement": [
+      {
+        "type": "note",
+        "content": [
+          {
+            "type": "text",
+            "value": "Transcription of MS EAP729/1/2/660 in the Chinmaya International Foundation's\n                    collection"
+          }
+        ]
+      },
+      {
+        "type": "note",
+        "content": [
+          {
+            "type": "text",
+            "value": "This eText is transcribed from digital scans of an Original manuscript written\n                    in Devanāgarī script."
+          }
+        ]
+      },
+      {
+        "type": "note",
+        "content": [
+          {
+            "type": "text",
+            "value": "A transcription from a scan of MS Chinmaya International Foundation (CIF)\n                    EAP729/1/2/660."
+          }
+        ]
+      },
+      {
+        "type": "note",
+        "content": [
+          {
+            "type": "text",
+            "value": "A text on the Yoga philosophy. A Jain text\n                    because it mentions śukladhyāna, the three jewels (jñānadarśanacaritra),\n                    aṣṭakarma and pārśvaprabhu (= pārśvanātha). It teaches a system of aṣṭāṅgayoga\n                    (saṃyama, niyama, karaṇa, prāṇāyāma, pratyahārā samādhir dhāraṇā and dhyāna.\n                    Dhyāna seems higher than samādhi. However, there are references to the no-mind\n                    state and laya (absorption) in Brahma."
+          }
+        ]
+      },
+      {
+        "type": "note",
+        "content": [
+          {
+            "type": "text",
+            "value": "The text may be any of the several works of this title mentioned in NCC 22,\n                    pp. 80-81. It is not"
+          },
+          {
+            "type": "persName",
+            "content": [
+              {
+                "type": "text",
+                "value": "Śubhacandra"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "'s"
+          },
+          {
+            "type": "title",
+            "content": [
+              {
+                "type": "text",
+                "value": "Jñānārṇava"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "encoding_description": {
+      "editorial_declaration": {
+        "description_paragraphs": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "The manuscript from which this e-text was transcribed is written in the\n                    Devanāgarī script. The electronic text below is in a lossless transliteration\n                    using the Latin alphabet. The transliteration scheme used is the IAST ("
+              },
+              {
+                "type": "ref",
+                "attributes": {
+                  "target": "http://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "The International Alphabet of Sanskrit Transliteration"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "). IAST differs\n                    in small ways from ISO 15919, but is preferred by most working Sanskrit\n                    scholars. Conversion of this file to ISO 15919 can be achieved by performing the\n                    following replacements throughout the file:"
+              },
+              {
+                "type": "code",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "ṛ -> r̥ and ṃ -> ṁ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Text division is etymological (\"ity evam\" not \"ityevam\".)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Notes and queries by the CIF transcriber are marked as"
+              },
+              {
+                "type": "tag",
+                "text": "note",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "note"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "s."
+              }
+            ]
+          }
+        ],
+        "segmentation": {
+          "paragraphs_content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Verse passages are grouped\n                        within the line-group tag,"
+                },
+                {
+                  "type": "tag",
+                  "text": "lg",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "lg"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": ", and individually tagged as verse\n                        lines,"
+                },
+                {
+                  "type": "tag",
+                  "text": "l",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "l"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "revisions": [
+      {
+        "when": "2017-05-25",
+        "who": "Dominik Wujastyk",
+        "description_content": [
+          {
+            "type": "text",
+            "value": "Added TEI encoding."
+          }
+        ]
+      },
+      {
+        "when": "2017-05-27",
+        "who": "Dominik Wujastyk",
+        "description_content": [
+          {
+            "type": "text",
+            "value": "Small updates to the TEI encoding of"
+          },
+          {
+            "type": "tag",
+            "text": "label",
+            "content": [
+              {
+                "type": "text",
+                "value": "label"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "and"
+          },
+          {
+            "type": "tag",
+            "text": "lb",
+            "content": [
+              {
+                "type": "text",
+                "value": "lb"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "tags."
+          }
+        ],
+        "description_text_summary": "Small updates to the TEI encoding of\n                    label and lb tags."
+      }
+    ]
+  },
+  "body": [
+    {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "pb",
+          "attributes": {
+            "ed": "msEAP729/1/2/660",
+            "type": "folio",
+            "n": "1v"
+          }
+        },
+        {
+          "tag": "l",
+          "text": "atha yogapradīpaprārambhaḥ"
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "yāvan na grasyate rogair yāvan nābhyeti te jarā |"
+            },
+            {
+              "tag": "l",
+              "text": "yāvan na kṣīyate vāyus tāvat kalyāṇam ācara",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||1||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "kuto 'smi kva gamiṣyāmi kutrāyāto 'smi sāṃprataṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "ko bandhur mama kasyāham ity ātmānaṃ vicintayet",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||2||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "puruṣās tīrtham icchanti kiṃ tirthaiḥ kleśakāraṇaiḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "dharmatīrthaṃ śarīrasthaṃ sarvatīrthādhikaṃ mataṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||3||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "idaṃ tīrtham idaṃ tīrtham iti jñātvā bhramante ye |"
+            },
+            {
+              "tag": "l",
+              "text": "jñānadhyānavihīnās te sati tīrthaṃ svam eva hi",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||4||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "ājanmopārjitaṃ sarvaṃ bhakṣayet kāyasaṃsthitaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "kenāpi dṛśyate naiva svātmāyaṃ paśyato haraḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||5||"
+                },
+                {
+                  "tag": "note",
+                  "text": "[svātmānaṃ?]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "lokair vilokyate cauro gate svalpe 'pi vastuni |"
+            },
+            {
+              "tag": "l",
+              "text": "sarvasvaharam ātmānaṃ manāk paśyanti no jaḍāḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||6||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "taśyāmāpi kadā yena kāyadurgasamāśritaḥ |",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[tan nāmāpi?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "ajñānachāditaḥ svātmā nirīkṣyo yogibhiḥ sadā",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||7||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "ātmaiva suprasa",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "2r"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "nno"
+                },
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "tra sugatiḥ parikīrtatā |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "aprasannaḥ punar ayaṃ durgatiḥ syād asaṃśayam",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||8||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "tīrthaṃ tīrthaṃ kurvatīha yasya darśanavāñchayā |"
+            },
+            {
+              "tag": "l",
+              "text": "vasann atraiva dehe",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "sau devo draṣṭuṃ na śakyate"
+                },
+                {
+                  "tag": "label",
+                  "text": "||9||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sthāne sthāne bhramantīha devadarśanahetave |"
+            },
+            {
+              "tag": "l",
+              "text": "śarīrasthaṃ na paśyanti devam ajñānabuddhayaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||10||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sarvadhātuvinirmukto jñānarūpo nirañjanaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "ātmaiva karmanirmukto dhyātavyo mokṣakāṅkṣibhiḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||11||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "santoṣāmṛtanirmagnaḥ śatrumitrasamaḥ sadā |"
+            },
+            {
+              "tag": "l",
+              "text": "sukhaduḥkhāparijñātā rāgadveṣaparāṅmukhaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||12||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "prabhārāśir iva śrīmān sarvaviśvopakārakaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "sadānandasukho pūrṇaḥ svātmā dhātavya īśaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||13||"
+                },
+                {
+                  "tag": "note",
+                  "text": "[dhyātavya]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "śuddhasphaṭikasaṃkāśaḥ sarvajñaguṇabhūṣitaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "paramātmākalāyukto dhyeyaḥ svātmā manīṣibhiḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||14||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "ṣaṭcakravat tu pīṭhādi sarvaṃ tyaktā mumukṣubhiḥ | [tyaktvā?]"
+            },
+            {
+              "tag": "l",
+              "text": "ātmā dhyātavya",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "2v"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "evāyaṃ dhyāne\n                            rūpavivarjite"
+                },
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||15||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "evam abhyāsayogena dhyānenānena yogibhiḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "śarīrāntaḥsthitaḥ svātmā yathāvastho",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "valokyate"
+                },
+                {
+                  "tag": "label",
+                  "text": "||16||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "na jñātaḥ puruṣo yena guṇaprakṛtivarjitaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "tenaiva tīrthayajñādi sevanīyaṃ na yogibhiḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||17||"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "ātmajñānaṃ paraṃ tīrthaṃ na jalaṃ tīrtham ucyate |"
+            },
+            {
+              "tag": "l",
+              "text": "svātmajñānena yac chaucaṃ tac chaucaṃ paramaṃ smṛtam",
+              "children": [
+                {
+                  "tag": "label",
+                  "text": "||18||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "ātmajñānaṃ paro dharmaḥ sarve dharmakarmaṇāṃ |",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[sarvadharmakarmaṇāṃ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "pradhānaṃ sarvavidvānāṃ prāpyate hy amṛtaṃ tataḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||18||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "tapobhir dustapais taptair vratais tais taiś ca puṣkaraiḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "ātmajñānaṃ vinā mokṣo na bhaved yogīnām api",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||20||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sarvadharmamayaḥ śrīmān sarvasvarṇavivarjitaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "ātmāyaṃ jñāyate tena tasya janma vidyate",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||21||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "evaṃ dhyātvā svamātmānaṃ svakāye kāyavarjitaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "dhyeyaḥ parapadāruḍhaṃ deveśaṃ muktihetave",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||22||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "śaṅkaro vā jineśo vā yo yasyābhimataḥ sa",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "3r"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "dā |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "eka eva prabhuḥ śānto nirvāṇastho vilokyate",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||23||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "surāsuranarādhīśaṃ pūjito jagatāṃ hitaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "savvadoṣavinirmukto deveśaḥ parikīrtitaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||24||"
+                },
+                {
+                  "tag": "note",
+                  "text": "[sarvadoṣa-?]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "puṇyāpuṇyapathātīto bhavavallīvināśanaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "avyakto vyaktarūpaś ca sarvajñaḥ saradarśanaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||25||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "nirākāro nirābhāso niḥprapañco nirañjanaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "sadānandamayo devaḥ siddho buddho nirāmayaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||26||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "anantakevalo nityo vyomarūpaḥ sanātanaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "devādhidevo viśvātmā viśvavyāpī purātanaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||27||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "kṛtsnakarmakalātītaḥ sakalo niṣkalo 'pi ca |"
+            },
+            {
+              "tag": "l",
+              "text": "paramātmā paraṃ jyotiḥ paraṃ brahma parāt paraḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||28||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "guṇatrayavinirmukto gandhasparśavivarjitaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "achedyaś cāpy abhedyaś ca nirlepo nirmalaprabhuḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||29||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "saguṇo nirguṇaḥ śāntaḥ saṃsārārṇavatārakaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "durlakṣo lakṣyaṃ āpannaḥ suvarṇo varṇavarjitaḥ",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "3v"
+                  }
+                },
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||30||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "eko 'py anekarūpaś ca sthūlasūkṣmo laghur guruḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "nirvāṇapadamārūḍho deveśo",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "yam ihocyate"
+                },
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||31||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "brāhmaṇair lakṣyate brahmā viṣṇuḥ pītāṃ varais tathā |"
+            },
+            {
+              "tag": "l",
+              "text": "rudras tapasvibhir dṛṣṭa eṣa eva nirañjanaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||32||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "jinendro jalpyate jainair buddhaḥ kṛtvā sa saugataiḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "kaulikaiḥ kola ākhyātaḥ sa evāyaṃ sanātanaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||33||"
+                },
+                {
+                  "tag": "note",
+                  "text": "[kaula?]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sphaṭiko bahurūpaḥ syād yathaivopādhivarjitaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "sa tathā darśanaiḥ ṣaḍbhiḥ khyāta eko",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "py anekadhā"
+                },
+                {
+                  "tag": "label",
+                  "text": "||34||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "yathāpy anekarūpaṃ syāj jalaṃ bhūvarṇabhedataḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "tathā bhāvavibhedena nānārūpaḥ sa gīyate",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||35||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "bhāvabhedān na ma sthanti darśanāny ekavartmanā |",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[na\n                            tiṣṭhanti?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "ekatrāpi sthitāḥ kārye pañcaite viṣayā yathā",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||36||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "niṣakalo nirmamaḥ śāntaḥ sarvajñaḥ sukhadaḥ prabhuḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "sa eva bhagavān eko devo jñeyo nirañjanaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||37||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "vyomarūpo jagannāthaḥ kriyākālaguṇottaraḥ",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "4r"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "|"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "saṃsārasṛṣṭibhir muktaḥ sarvatejo vilakṣaṇaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||38||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "kevalajñānasaṃpūrṇaḥ kevalānandasaṃśritaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "kevaladhyānagamyaś ca deveśo",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "yam ihocyate"
+                },
+                {
+                  "tag": "label",
+                  "text": "||39||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "ityanantaguṇākīrṇam anantaṃ sukhaśālinaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "dhyāyen muktipadārūḍhaṃ deveśam apunarbhavaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||40||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "śamaraktasvasthagaṅgājalena snāpayet prabhuṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "pūjayet taṃ tato yogī bhāvaṃ puṣpaiḥ sugandhibhiḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||41||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "bhaktisthale viśāle ca vaśyaṃ kṛtvā sthiraṃ manaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "nikṣipya paramānandasnehapūraṃ sudhādikaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||42||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "dīpaśreṇīṃ sudīptāṃ ca prabodhyajñānatejasā |"
+            },
+            {
+              "tag": "l",
+              "text": "uttārayet prabhoḥ puṇyam ārārtrikam iti kramāt",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||43||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sadaiva vidhinānena deveśasya prabhor ahaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "bhaveyaṃ bhāvataḥ pūjākārakaś ceti cintayet",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||44||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "svahaṃsam atarātmānaṃ cidrūpaṃ paramātmani",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "4v"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "|"
+                },
+                {
+                  "tag": "note",
+                  "text": "[antarātmānaṃ ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "yojayet parame haṃse nirvāṇapadam aśnute",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||45||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "dvābhyām ekaṃ vidhāyātha śubhadhyānena yogavit |"
+            },
+            {
+              "tag": "l",
+              "text": "paramātmasvarūpaṃ taṃ svam ātmā cainaṃ vicintayet",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||43||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sulabdhānandasāmrājyaṃ kevalajñānabhāskaraḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "paramātmā svarūpo",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "haṃ jātas tyaktabhavārṇavaḥ"
+                },
+                {
+                  "tag": "label",
+                  "text": "||47||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "ahaṃ nirañjano devaḥ sarvalokāgram āśritaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "iti dhyānaṃ sadā dhyāyed akṣayasthānakāraṇaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||48||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "ātmano dhyānalīnasya dṛṣṭo deve nirañjane |"
+            },
+            {
+              "tag": "l",
+              "text": "ānandāśruprayātaḥ syād romāndaś ceti lakṣaṇaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||49||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "saṃyamo niyamaś caiva karaṇaṃ ca tṛtīyakaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "prāṇāyāmapratyahārā samādhir dhāraṇā tathā",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||50||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "dhyānaṃ cetīha yogasya jñeyam aṣṭāṅgakaṃ budhaiḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "pūrṇāṅgakriyamāṇas tu muktaye syād asau satām",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||51||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "taddharma",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "5r"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "taddharmas tadvrataṃ\n                        dhyānaṃ tat ta yo yoga eva saḥ | [tat tat ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "sa eva hi padāroho na yatra kliśyate manaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||52||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "saṅkalpena vikalpena hīne hetuvivarjite |"
+            },
+            {
+              "tag": "l",
+              "text": "dhāraṇādhyeyaniryukto nirmalasthānake dhruve",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||53||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "niyuñjita sadā cittaṃ sabhāve bhāvanāṃ kuru |",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[niyuñjīta ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "pade tatra gato yogī na punar janmatāṃ vrajet",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||54||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "jñeyaṃ sarvapadātītaṃ jñānaṃ ca mana ucyate |"
+            },
+            {
+              "tag": "l",
+              "text": "jñānaṃ jñeyaṃ samaṃ kuryān nānyo mokṣapathaḥ punaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||55||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "bhruvopari mano nītvā tat paraṃ cāvalokyate |"
+            },
+            {
+              "tag": "l",
+              "text": "parāt parataraṃ tac ca ta chukṣmaṃ tan nirañjanaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||56||"
+                },
+                {
+                  "t": "text",
+                  "text": "[tac chūkṣmaṃ ?]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "pūrvamārgena mokṣo",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "sti paścime"
+                },
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "pi na vidyate |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "unmārga unmanībhāve muktiḥ syān mārgavarjitā",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||57||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "bhavabhrāntiparityāgād ānandaikarasātmikā |"
+            },
+            {
+              "tag": "l",
+              "text": "sahajāvasthitaḥ sādhor ayaṃ mokṣapathaḥ smṛtaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||58||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "mano yat kāyarahitaṃ śvāsocchāsavivarjitaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "gamāga",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "5v"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "mapathātītaṃ\n                            sarvavyāpāravarjitaṃ"
+                },
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||59||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "nirāśrayaṃ nirādhāraṃ sarvādhāraṃ mahodayaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "parācinaṃ padaṃ jñeyaṃ yogibhis tan nirañjanaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||60||"
+                },
+                {
+                  "tag": "note",
+                  "text": "[parācīnaṃ ?]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "pavano mriyate yatra mano yatra vilīyate |"
+            },
+            {
+              "tag": "l",
+              "text": "vijñeyaṃ sahajaṃ sthānaṃ tatsūkṣmam ajarāmaraṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||61||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "mano vyāpāranirmuktaṃ sadaivabhyāsayogataḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "unmanībhāvam āyātaṃ labhate tat padaṃ kramāt",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||62||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "vimuktaviṣayāsaṅgaṃ sannirūddhaṃ mano hṛdi |"
+            },
+            {
+              "tag": "l",
+              "text": "yadā yāty unmatibhāvaṃ tadā tat paramaṃ padaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||63||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "dhyātṛ dhyāno bhayābhāvo dhyeyanaikyaṃ padā vrajet |"
+            },
+            {
+              "tag": "l",
+              "text": "so",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "yaṃ samarasībhāvas tad ekīkaraṇaṃ mataṃ"
+                },
+                {
+                  "tag": "label",
+                  "text": "||64||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "śubhadhyānasya sūkṣmasya nirākārasya kiṃ cana |"
+            },
+            {
+              "tag": "l",
+              "text": "athātaḥ procyate tattvaṃ durjñeyaṃ mahatām api",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||65||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "rātrau suptena mūkena labdhaḥ svapno",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "tra kena cit |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "na brūte sno pi mūkas tu tena svapno na budhyate",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "6r"
+                  }
+                },
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||66||"
+                },
+                {
+                  "tag": "note",
+                  "text": "[brūte bho 'pi ?]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "yo mūko yādṛśī rātri svapno",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "pi prājñayā dṛśaḥ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "phalaṃ ca yādṛśaṃ tasya śṛṇu saumya tadā darāt",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||67||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "avidyā rātri supte na citta mūkena yoginā |"
+            },
+            {
+              "tag": "l",
+              "text": "svapno bhāvamayo labdhas tasyaivānandadāyakaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||68||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "kṛtas tena sthiro bhāva parabrahmaṇi yoginā |"
+            },
+            {
+              "tag": "l",
+              "text": "parabrahmagato bhāvas tasya muktiphalo bhavet",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||69||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "somasūryadvayātītaṃ vāyusaṃcāravarjitaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "saṅkalpavarjitaṃ cittaṃ parabrahmani gadyate",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||70||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "parabrahmaiva tad jñeyaṃ siddhyarthaṃ vibudhaiḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "sadā svapnārthaḥ kathitaḥ prājñaḥ yogayuktyā tavāgrataḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "text": "||71||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "na kiṃ cic cintayec cittam unmanībhāvasaṅgataṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "nirākāraṃ mahāsūkṣmaṃ mahādhyānaṃ tad ucyate",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||72||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "piṇḍarūpapadair bhedāḥ śukladhyānāsya ye purā |"
+            },
+            {
+              "tag": "l",
+              "text": "uktās tasyaiva rohārthaṃ prāsāde padi",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "6v"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "kaṃ yathā"
+                },
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||72||"
+                },
+                {
+                  "tag": "note",
+                  "text": "[duplication of numbering in ms.]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "kādṛśo",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "smi kva gantāsmi kiṃ karomi smarāmi kiṃ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "iti yogī na jānāti laye līno nirañjane",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||73||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "ācchādite jñānanetre viṣayaiḥ paṭalopamaiḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "dhyānaṃ siddhipurīdvāraṃ naiva paśyanti jantavaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||74||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "pañcabhiś cañcalair iṣṭaiḥ pṛthak viṣayanāmabhiḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "aniruddhair indriyād vai dhyānād avyāvartate manaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||74||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "śamaṃ nīteṣu teṣv atra kaṣāyeṣv indriyeṣv api |"
+            },
+            {
+              "tag": "l",
+              "text": "dhyānasvairyakṛte cittaṃ kāryaṃ saṅkalpavarjitaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||76||"
+                },
+                {
+                  "tag": "note",
+                  "text": "[dhyānasthairyakṛte ?]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "dhyānaṃ manaḥsamāyuktaṃ manas tatra calācalaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "vaśyaṃ yena kṛtaṃ tasya bhaved vaśyaṃ jagatrayaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||77||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "yac chubhaṃ karmakatṛtvaṃ tat kuryān manasā saha |",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[-kartṛtvaṃ\n                            ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "manas tulyaṃ phalaṃ yasmāt śūnye śūnyaṃ bhavet punaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "text": "||78||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "kṛtvābhyāso yathā dhanvī lakṣyaṃ vidhyati tanmanā |",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[kṛtābhyāso\n                            ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "ekacittas tathā yo",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "7r"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "gī vāñchitaṃ\n                        karma sādhayet"
+                },
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||79||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "tasmād apy uttamaṃ sāraṃ pavitraṃ karmanāśanaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "sarvadharmottaraṃ cittaṃ kāryaṃ śamarasātmakaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||80||"
+                },
+                {
+                  "tag": "note",
+                  "text": "[samarasātmakaṃ ?]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "janma lakṣyair vratair ugrair yatraiva kṣīyate kva cit |"
+            },
+            {
+              "tag": "l",
+              "text": "manaḥ śamarase magnaṃ tat karma kṣayayet kṣaṇāt",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||81||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sarvārambhaparityāgāt citte śamarasaṃ gate |"
+            },
+            {
+              "tag": "l",
+              "text": "sā siddhiḥ syāt satāṃ yāno sarvatīrthāvagāhane",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||82||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "vidyamāne pare mūḍhā yoge samarasātmake |"
+            },
+            {
+              "tag": "l",
+              "text": "yogaṃ yogaṃ prakurvāṇā saṃbhrāmanti diśo diśo",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||83||"
+                },
+                {
+                  "tag": "note",
+                  "text": "[sambhrāmyati ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "tāvad varṇaviśeṣo",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "sti yāvad brahmāna vindati |"
+                },
+                {
+                  "tag": "note",
+                  "text": "[brahmāṇo\n                            vidanti ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "saṃprāptā paramaṃ brahma sarve varṇā dvijātayaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||84||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "dharmamārgā ghanās santi darśanānāṃ vibhedantaḥ |",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[vibhedataḥ\n                        ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "mokṣārthaṃ samatāṃ yāti samudraṃ sarito yathā",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||85||"
+                },
+                {
+                  "t": "text",
+                  "text": "[yānti ?]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "gavām anekavarṇānām ekavarṇaṃ yathā payaḥ",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "7v"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "|"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "ṣaḍdarśanamārgāṇāṃ mokṣamārgas tathā samaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||86||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "saṅkalpakalpanāmuktaṃ rāgadveṣavivarjitaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "sadānandalaye līnaṃ manaḥ samarasaṃ smṛtaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||87||"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "atītaṃ ca bhaviṣyac ca yan na śocati mānasaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "tān sāmāyikam ity āhur nivātasthānadīpavat",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||88||"
+                },
+                {
+                  "tag": "note",
+                  "text": "[tat ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "niḥsaṅgaṃ yan nirābhāsaṃ nirākaraṃ nirāśrayaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "puṇyapāpavinirmuktaṃ manaṃ sāmāyikaṃ smṛtaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||89||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "gate śoko na yasyāstī na ca harṣaḥ samāgate |"
+            },
+            {
+              "tag": "l",
+              "text": "śatrumitrasamaṃ cittaṃ sāmāyikam ihocyate",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||90||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "yat prasarpati loke",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "smin śāstraṃ kukavibhi kṛtaṃ |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "avidyā sā vinirdiṣṭā samatā bhramakāraṇaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||91||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "yathā rātrau tame mūḍhā naiva paśyanti jantavaḥ ||",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[tamre ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "naivaikṣante tathā tattvam avidyātamasā vṛtāḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||92||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "mohamāyāmayī duṣṭā sādhūnāṃ mokṣakāṅkṣiṇāṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "mukti",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "8r"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "mārgārgalā nityam avidyā\n                        nirmitā bhuvi"
+                },
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||93||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "iti jñātvā budhair nityaṃ svātmane hitavāñchayā |"
+            },
+            {
+              "tag": "l",
+              "text": "avidyā nirmitā bhuvi",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||94||"
+                },
+                {
+                  "tag": "note",
+                  "text": "??"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "iti jñātvā budhair nityaṃ dūratas tyājyā na śrotavyā kadā cana",
+              "children": [
+                {
+                  "tag": "label",
+                  "text": "||94||"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[avidyā nirmitā tyājyā na śrotavyā kadā cana ?]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sarvajñoktā tu sadvidyā bhavavicchedakāraṇaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "saiva sevyā sadā sadbhir mokṣamārgapradāyikā",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||95||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sattvaṃ rajas tamaś ceti śarīrāntarguṇatrayaṃ ||"
+            },
+            {
+              "tag": "l",
+              "text": "rajas tamaś ca santyajya sattvam ekaṃ samāśrayet",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||96||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sattvaṃ sarvaguṇādhāraṃ sattvaṃ dharmakaraṃ dharaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "saṃsāranāsanaṃ sattvaṃ sattvaṃ svargāpavargadaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||97||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "nirālambe nirākāre sadānandāspande śubhe |"
+            },
+            {
+              "tag": "l",
+              "text": "santāṃ dhyānamaye saudhe sattvastambho dṛdho mataḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||98||"
+                },
+                {
+                  "tag": "note",
+                  "text": "[satāṃ ?]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "yathā vahnilavenāpi dahyante dārusañcayāḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "śukladhyānena karmāṇi kṣīyante",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "8v"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "yogināṃ tathā"
+                },
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||100||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "yaḥ sadā snāti yogīndro dhyānasvacchamahājale |"
+            },
+            {
+              "tag": "l",
+              "text": "lakṣam ekaṃ kathaṃ tiṣṭhet tasmin karma rajo malaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||101||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "na laget padmini patre yathā toyaṃ svabhāvataḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "pāṣāṇo bhidyate naiva jalamadhyasthito yathā",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||102||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sphaṭiko malino na syāt rajasā chādito yathā |"
+            },
+            {
+              "tag": "l",
+              "text": "na lipyate tathā pāpair ātmā saddhyānam āśritaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||103||"
+                },
+                {
+                  "tag": "note",
+                  "text": "[saddhyāna-m-āśritaḥ?]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "śukladhyānasamā yogā brahmavit brahmaṇi sthitaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "bhūmistho",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "pi bhajed yogī śākhāgraphalam uttamaṃ"
+                },
+                {
+                  "tag": "label",
+                  "text": "||104||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "muktiśrīparamānandadhyānenānena yoginaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "rūpātītaṃ nirākāraṃ dhyānaṃ dhyeyaṃ tato niśaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||105||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "granthānn abhyasya tattvārthaṃ tattvajñāne punaḥ sudhīḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "palālam iva dhyānārthaṃ tyajed granthān śeṣataḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||106||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "kṣīyante yāni kālena kiṃ taiḥ kartavyam akṣaraiḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "yāvan no nakṣaraprāptaṃ tāvan mokṣasukhaṃ kutaḥ",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "9r"
+                  }
+                },
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||107||"
+                },
+                {
+                  "tag": "note",
+                  "children": [
+                    {
+                      "tag": "note",
+                      "text": "[yāvan na-n-akṣaraprāptaṃ ?]"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "dhyānaṃ kalpatarur loke jñānapuṣpaiḥ sapuṣpito |",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[supuṣpito\n                        ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "mokṣāmṛtaphalair nityaṃ phalito",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "yaṃ sukhapradaiḥ"
+                },
+                {
+                  "tag": "label",
+                  "text": "||108||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "tathā kuru yathā śukladhyānavṛkṣasamāśritaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "cinvāno jñānapuṣpāṇi labhen mokṣaphalaṃ budhaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||109||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "asminn eva bhave saumya vyomarūpaḥ sanātanaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "śukladhyānāt sadānando yogī muktipadaṃ vrajet",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||110||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "jñānadarśanacāritrarūparatnatrayātmakaṃ |",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[-ātmakaḥ ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "yogo muktipadaprāptāv upāyaḥ parikīrtitaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||111||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "vyāpārachinnasaṃsāraḥ sa yogo muktiyojakaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "vibhaktaḥ saṃyamādyaṅgaiḥ so",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "pi syād aṣṭadhā punaḥ"
+                },
+                {
+                  "tag": "label",
+                  "text": "||112||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "maṇihutavahatārāsomasūryādayo",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "pi ca |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "kṣiti viṣayam ihālpaṃ bāhyam udyojayanti",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||113||"
+                },
+                {
+                  "tag": "note",
+                  "text": "(metre 15 syllables?)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sahajalayasamuthaṃ dyotayej jyotir anta |",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[-samutthaṃ]"
+                },
+                {
+                  "tag": "note",
+                  "text": "(metre?)"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "stribhuvanam api sūkṣmasthūlabhedaṃ sadaiva",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||114||"
+                },
+                {
+                  "tag": "note",
+                  "text": "(metre?)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "paramānandāspandaṃ sūkṣmaṃ lakṣyaṃ svānubhavā",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "9v"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "t paraṃ |"
+                },
+                {
+                  "tag": "note",
+                  "text": "(17 syllables?)"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "adhastād dvādaśāntasya dhyāyen nādam anāhataṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||115||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "tailadhārām ivāchannaṃ dīrghaghaṇṭā ninādavat |"
+            },
+            {
+              "tag": "l",
+              "text": "layaṃ praṇavanādasya yas taṃ vetti sa yogavit",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||116||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "ghaṇṭānāde yathā prāpte praśāmyan madhuro bhavet |"
+            },
+            {
+              "tag": "l",
+              "text": "anāhato",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "pi nādo"
+                },
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "rtha tathā śānto vibhāvyatāṃ"
+                },
+                {
+                  "tag": "label",
+                  "text": "||117||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "nadaty avyaktarūpeṇa sarvabhūtahṛdi sthitaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "sa nādo",
+              "children": [
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "nāhatas tena na nādo vyaktisaṃbhavaḥ"
+                },
+                {
+                  "tag": "label",
+                  "text": "||118||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sa nādasarvadehastho nāśāgre tu vyavasthitaḥ |",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[nādaḥ sarva-\n                        ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "pratyakṣasarvabhūtānāṃ dṛśyate naiva lakṣyate",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||119||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "akṣaradhvaninirmuktaṃ nistaraṅgaṃ same sthitaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "yac cittaṃ sahajāvasthaṃ sa nādas tena bhidyate",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||120||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "tāvad eveṅdriyāṇi syuḥ kaṣāyās tāvad eva hi |"
+            },
+            {
+              "tag": "l",
+              "text": "anāhate mano nāde yāval līnaṃ na yoginaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||121||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "saukhyaṃ viṣayikaṃ tāvat suramyaṃ pratibhāsate |"
+            },
+            {
+              "tag": "l",
+              "text": "anāhatalayotpannaṃ sukhaṃ yāva",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "10r"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "n na labhyate |"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "janmakālārjitaṃ karma dhyānenānena yoginaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "tamaḥ sūryodayeneva tat sarvaṃ naśyati kṣaṇāt",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||123||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sthūlaṃ sūkṣmaṃ ca sākāraṃ śubhadhyānam iti sphutaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "rūpātītaṃ samākhyātaṃ nirākāram athocyate",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||124||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "nirākāram api dhyānaṃ rūpātītaṃ samujvalaṃ |",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[samujjvalaṃ ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "sthūlasūkṣmavibhedena dvividhaṃ parikīrtitaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||125||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "śarīraṃ sakalaṃ tyaktvā brahmadvāre sthiraṃ manaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "kriyate yadi tat sukṣmaṃ nirākāram ihocyate",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||126||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "dhyāne tv anāhate śuddhe nityābhyāsaprayogataḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "dvādaśānte nirākāre mano yogaṃ niveśayet",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||127||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "brāhmamābhyantaraṃ yogī tyaktvātmānaṃ vidhāyi ca |",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[bāhyam ābhyantaraṃ\n                            ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "brahmadvāraṃ nirākāraṃ paramātmapadaṃ śrayet",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||128||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "ekāṅguliparimāṇaṃ suvṛttaṃ vyomasannibhaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "yogīndraḥ prathamaṃ yāvat dvādaśāntaṃ vicintayet",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||129||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "netramaṅgalaṃ saṃsthā",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "10v"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "yī\n                        dvādaśātmā nigadyate |"
+                },
+                {
+                  "tag": "note",
+                  "text": "[dvādaśānto ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "tasmād apy ūrdhvagaṃ brahma dvādaśānte tathā smṛtaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "text": "||130||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "nādabindukalātītaṃ paramātmakalāyutaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "dvādaśāntaṃ sadā dhyāyet sadānandaikamandiraṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||131||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "ruddhā yogi kaṣāyaprasaram",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[ruddhvā yogī ?]"
+                },
+                {
+                  "t": "text",
+                  "text": "aticalān indriyān\n                        svān niyamya"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "tyaktvā vā saṅgam anyaṃ paramapadasukhaprāptaye baddhabuddhiḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "kṛtvā cittaṃ sthiraṃ svaṃ śamarasakalitaṃ sattvaṃ ālambya bāḍhaṃ"
+            },
+            {
+              "tag": "l",
+              "text": "dhyānaṃ dhyātuṃ yateta pratidinam amalaṃ śuddhadharmāvitaṇḍaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "text": "||132||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "chitvā saṃsṛtipāśam antarabalaṃ jitvātha mohādikaṃ dīkṣāṃ"
+            },
+            {
+              "tag": "l",
+              "text": "mokṣakarīṃ prapadya sa budhaḥ pārśvaprabhor udyataḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "brahmajñānalayena kevalamayaṃ jñānaṃ samutpādya ca prāyan"
+            },
+            {
+              "tag": "l",
+              "text": "muktipadaṃ sadā sukhamayaṃ kṣīṇāṣṭakarmākrāmāt",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||133||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "ahiṃsā satyam asteyaṃ brahmacaryam asaṅgataḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "ity etāni vratāny atra saṁya",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "11r"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "maḥ pañcadhā smṛtaḥ"
+                },
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||134||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "śaucaṃ tapaś ca santoṣaḥ svādhyāyo devatāsmṛtiḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "niyamaḥ pañcadhā jñeyaḥ karaṇaṃ punar āsanaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||135||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "svāsapraśvāsayoḥ sthairyaṃ prāṇāyāmo bhavet punaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "pratyāhāro viṣayadhvaṃsa indriyāṇāṃ samāhitaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||136||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "samādhir bhavahaṃ tṛṇaṃ vākyānām arthacintanaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "sthairyahetor bhaved dhyeyo dhāraṇāvittayo janā",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||137||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sthūle vā yadi vā sūkṣme sākāre ca nirākṛtau |"
+            },
+            {
+              "tag": "l",
+              "text": "dhyānaṃ dhyāyet sthiraṃ cittaṃ ekapratyayasaṅgate",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||138||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "evaṃ yogo bhaved yogair aṣṭadhā saṃyamādibhiḥ |",
+              "children": [
+                {
+                  "tag": "note",
+                  "text": "[bhaved aṅgair\n                            ?]"
+                }
+              ]
+            },
+            {
+              "tag": "l",
+              "text": "sarvātisayasampannaṃ dhyānaṃ kalyāṇakāraṇaṃ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||139||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "divi bhūmau tathā kāśe bahir antaś ca yo vibhūḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "yo vibhāty eva bhāsātmā tasmai sarvātmane namaḥ",
+              "children": [
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||140||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "nāhaṃ baddho vimuktaś ca iti yasyāsti niścayaḥ |"
+            },
+            {
+              "tag": "l",
+              "text": "nānyaṃ tato jñāno mūrkhaḥ so",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msEAP729/1/2/660",
+                    "type": "folio",
+                    "n": "11v"
+                  }
+                },
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "smin śāstre"
+                },
+                {
+                  "tag": "add",
+                  "text": "'"
+                },
+                {
+                  "t": "text",
+                  "text": "dhikāravān"
+                },
+                {
+                  "tag": "label",
+                  "attributes": {
+                    "type": "verse"
+                  },
+                  "text": "||141||"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "sarvasaṅkalpasanyastam ekāntadhanavāsanaṃ |"
+            },
+            {
+              "tag": "l",
+              "text": "nakiṃcitbhāvanākāraṃ tat brahma paramaṃ padaṃ ||"
+            }
+          ]
+        },
+        {
+          "tag": "trailer",
+          "children": [
+            {
+              "tag": "lg",
+              "children": [
+                {
+                  "tag": "l",
+                  "text": "iti śrī",
+                  "children": [
+                    {
+                      "tag": "title",
+                      "attributes": {
+                        "type": "main"
+                      },
+                      "text": "yogapradīpa"
+                    },
+                    {
+                      "t": "text",
+                      "text": "samāptam ||"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "lg",
+              "children": [
+                {
+                  "tag": "l",
+                  "text": "pustakaṃ",
+                  "children": [
+                    {
+                      "tag": "persName",
+                      "attributes": {
+                        "type": "owner"
+                      },
+                      "text": "harilalyasya"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

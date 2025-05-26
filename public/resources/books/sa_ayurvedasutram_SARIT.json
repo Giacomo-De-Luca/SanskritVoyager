@@ -1,0 +1,5749 @@
+{
+  "file_title": "ayurvedasutram",
+  "file_title_normal": "ayurvedasutram",
+  "metadata": {
+    "document_id": "sarit__āyurvedasūtra",
+    "header_language": "en",
+    "titles": [
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "Āyurvedasūtram"
+          }
+        ],
+        "text": "Āyurvedasūtram",
+        "type": "main"
+      },
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "A SARIT edition of chapters 1–5"
+          }
+        ],
+        "text": "A SARIT edition of chapters 1–5",
+        "type": "sub"
+      }
+    ],
+    "original_title": "Āyurvedasūtram",
+    "authors": [
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "Anonymous"
+          }
+        ],
+        "name": "Anonymous"
+      }
+    ],
+    "author": "Anonymous",
+    "contributors": [
+      {
+        "id": "z.slatoff",
+        "responsibility": "Creation of machine-readable version.",
+        "name": "Zoe Slatoff"
+      },
+      {
+        "id": "d.wujastyk",
+        "responsibility": "Editing and conversion to TEI-conformant markup.",
+        "name": "Dominik Wujastyk"
+      }
+    ],
+    "publication": {
+      "authority": {
+        "type": "authority",
+        "content": [
+          {
+            "type": "text",
+            "value": "SARIT: Search and Retrieval of Indic Texts"
+          }
+        ]
+      },
+      "date": {
+        "text": "6th of December, 2010"
+      },
+      "availability": {
+        "status": "restricted",
+        "license_declaration": {
+          "content": [
+            {
+              "type": "text",
+              "value": "Creative Commons\n                            Attribution-ShareAlike 3.0 Unported License."
+            }
+          ],
+          "text": "Creative Commons\n                            Attribution-ShareAlike 3.0 Unported License.",
+          "type": "licence",
+          "target": "http://creativecommons.org/licenses/by-sa/3.0/"
+        },
+        "full_description": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Copyright Notice"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Machine-readable version copyright (C) Zoe Slatoff, 2010."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Distributed by"
+              },
+              {
+                "type": "ref",
+                "attributes": {
+                  "type": "url",
+                  "target": "http://sarit.indology.info"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "SARIT"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "under a"
+              },
+              {
+                "type": "ref",
+                "attributes": {
+                  "type": "licence",
+                  "target": "http://creativecommons.org/licenses/by-sa/3.0/"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Creative Commons\n                            Attribution-ShareAlike 3.0 Unported License."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Under this licence, you are free"
+              },
+              {
+                "type": "list",
+                "items": [
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "to Share — to copy, distribute and transmit the work"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "to Remix — to adapt the work"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Under the following conditions:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "list",
+                "items": [
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "Attribution — You must attribute the work in the manner specified\n                                by the author or licensor (but not in any way that suggests that\n                                they endorse you or your use of the work)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "Share Alike — If you alter, transform, or build upon this work,\n                                you may distribute the resulting work only under the same or similar\n                                license to this one."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "More information and fuller details of this license are given on the Creative\n                        Commons website."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "SARIT assumes no responsibility for unauthorised use that infringes the\n                        rights of any copyright owners, known or unknown."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "sources": [
+      {
+        "type": "bibl",
+        "full_text_concat": "Āyurvedasūtram Yogānandanāthakṛtabhāṣyasametam = The\n                        Ayurvedasutram ; with the commentary of Yoganandanatha\n                    Rudrapatnam Shamasastry (1868–1944)\n                    Mysore\n                    University of Mysore\n                    1922\n                    Copyright (C) 1922-2004 Rudrapatnam Shamasastry\n                            (1868–1944. (See URL:\n                            http://copyright.gov.in/Documents/handbook.html)\n                    Scanned copies available at Archive.org, including at ark:/13960/t5t78vk6x.\n                    According to the introduction, p. iv, the edition was based on three\n                        manuscripts. A palm leaf manuscript with a Jaina physician in Mysore who later\n                                donated the MS to the Mysore Oriental Institute Library. It\n                                contained the work in five praśnas together with a commentary on\n                                them by Yogānandanātha.\n                            A copy of the above item, that was used initially.\n                            Oriental Manuscripts Library, Tanjore: a copy of the sūtra text in\n                                sixteen praśnas, without the commentary\n                            A copy of the above.\n                            Oriental Manuscripts Library, Madras: a copy of the sūtra text in\n                                sixteen praśnas, without the commentary\n                            A copy of the above.\n                            A copy of the Suutra text from the library of the late native\n                                physician D. V. Gopalachar in Madras.",
+        "titles": [
+          {
+            "content": [
+              {
+                "type": "text",
+                "value": "Āyurvedasūtram Yogānandanāthakṛtabhāṣyasametam = The\n                        Ayurvedasutram ; with the commentary of Yoganandanatha"
+              }
+            ],
+            "text": "Āyurvedasūtram Yogānandanāthakṛtabhāṣyasametam = The\n                        Ayurvedasutram ; with the commentary of Yoganandanatha"
+          }
+        ],
+        "editors": [
+          {
+            "content": [
+              {
+                "type": "text",
+                "value": "Rudrapatnam Shamasastry (1868–1944)"
+              }
+            ],
+            "name": "Rudrapatnam Shamasastry (1868–1944)"
+          }
+        ],
+        "publisher": {
+          "type": "publisher",
+          "content": [
+            {
+              "type": "text",
+              "value": "University of Mysore"
+            }
+          ]
+        },
+        "pubPlace": {
+          "type": "pubPlace",
+          "content": [
+            {
+              "type": "text",
+              "value": "Mysore"
+            }
+          ]
+        },
+        "date": {
+          "text": "1922"
+        },
+        "notes": [
+          {
+            "type": "note",
+            "content": [
+              {
+                "type": "text",
+                "value": "Copyright (C) 1922-2004"
+              },
+              {
+                "type": "persName",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Rudrapatnam Shamasastry"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "("
+              },
+              {
+                "type": "date",
+                "attributes": {
+                  "type": "lifespan",
+                  "from": "1868",
+                  "to": "1944"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "1868–1944"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ". (See URL:"
+              },
+              {
+                "type": "ref",
+                "attributes": {
+                  "target": "http://copyright.gov.in/Documents/handbook.html"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "http://copyright.gov.in/Documents/handbook.html"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ")"
+              }
+            ]
+          },
+          {
+            "type": "note",
+            "content": [
+              {
+                "type": "text",
+                "value": "Scanned copies available at"
+              },
+              {
+                "type": "ref",
+                "attributes": {
+                  "target": "http://archive.org"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Archive.org"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ", including at"
+              },
+              {
+                "type": "ref",
+                "attributes": {
+                  "target": "http://n2t.net/ark:/13960/t5t78vk6x"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "ark:/13960/t5t78vk6x"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "."
+              }
+            ]
+          },
+          {
+            "type": "note",
+            "content": [
+              {
+                "type": "text",
+                "value": "According to the introduction, p. iv, the edition was based on three\n                        manuscripts."
+              },
+              {
+                "type": "list",
+                "items": [
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "A palm leaf manuscript with a Jaina physician in Mysore who later\n                                donated the MS to the Mysore Oriental Institute Library. It\n                                contained the work in five praśnas together with a commentary on\n                                them by Yogānandanātha."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "A copy of the above item, that was used initially."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "Oriental Manuscripts Library, Tanjore: a copy of the sūtra text in\n                                sixteen praśnas, without the commentary"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "A copy of the above."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "Oriental Manuscripts Library, Madras: a copy of the sūtra text in\n                                sixteen praśnas, without the commentary"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "A copy of the above."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "A copy of the Suutra text from the library of the late native\n                                physician D. V. Gopalachar in Madras."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "notes_statement": [
+      {
+        "type": "note",
+        "content": [
+          {
+            "type": "text",
+            "value": "E-text prepared by Zoe Slatoff from Shamasastry 1922. TEI encoding by D.\n                    Wujastyk and Patrick McAllister."
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "description": [
+          {
+            "type": "text",
+            "value": "Sanskrit"
+          }
+        ],
+        "name": "Sanskrit",
+        "ident": "sa",
+        "usage": "95"
+      },
+      {
+        "description": [
+          {
+            "type": "text",
+            "value": "British English"
+          }
+        ],
+        "name": "British English",
+        "ident": "en-GB",
+        "usage": "5"
+      }
+    ],
+    "revisions": [
+      {
+        "n": "1",
+        "when": "2010-11",
+        "description_content": [
+          {
+            "type": "text",
+            "value": "Conversion to TEI by"
+          },
+          {
+            "type": "persName",
+            "content": [
+              {
+                "type": "text",
+                "value": "Dominik Wujastyk"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "."
+          }
+        ],
+        "description_text_summary": "Conversion to TEI by Dominik Wujastyk."
+      },
+      {
+        "n": "2",
+        "when": "2011-01",
+        "description_content": [
+          {
+            "type": "text",
+            "value": "Addition of revisionDesc element by"
+          },
+          {
+            "type": "persName",
+            "content": [
+              {
+                "type": "text",
+                "value": "Patrick McAllister"
+              }
+            ]
+          }
+        ],
+        "description_text_summary": "Addition of revisionDesc element by Patrick McAllister"
+      },
+      {
+        "n": "3",
+        "when": "2013-03-15",
+        "description_content": [
+          {
+            "type": "text",
+            "value": "Updated and simplified the TEI header, to bring it in\n                line with current SARIT practice, by"
+          },
+          {
+            "type": "persName",
+            "content": [
+              {
+                "type": "text",
+                "value": "Dominik Wujastyk"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "."
+          }
+        ],
+        "description_text_summary": "Updated and simplified the TEI header, to bring it in\n                line with current SARIT practice, by Dominik Wujastyk."
+      },
+      {
+        "n": "4",
+        "when": "2018-10-06",
+        "who": "#d.wujastyk",
+        "description_content": [
+          {
+            "type": "text",
+            "value": "Minor typo correction."
+          }
+        ]
+      }
+    ]
+  },
+  "body": [
+    {
+      "tag": "head",
+      "attributes": {
+        "lang": "en"
+      },
+      "children": [
+        {
+          "tag": "title",
+          "text": "The Ayurvedasūtram, chapters 1-5 [a machine-readable\n                    transcription by Zoe Slatoff]"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "1",
+        "type": "chapter"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "attributes": {
+            "lang": "en"
+          },
+          "text": "Chapter 1"
+        },
+        {
+          "tag": "list",
+          "children": [
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.1"
+            },
+            {
+              "tag": "item",
+              "text": "athāto dhātusthadoṣagatyavikārahetubhūtārthavārdhakadravyāṇyadyāt"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.2"
+            },
+            {
+              "tag": "item",
+              "text": "cirāyuricchāpravṛttirāyurvedārthapuruṣārthopapādikā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.3"
+            },
+            {
+              "tag": "item",
+              "text": "taddhetubhūtārthaṃ rakṣet"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.4"
+            },
+            {
+              "tag": "item",
+              "text": "nendriyātilālanātipīḍanau"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.5"
+            },
+            {
+              "tag": "item",
+              "text": "doṣavṛddhikṣayopapādakau"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.6"
+            },
+            {
+              "tag": "item",
+              "text": "lakṣaṇānyapi tathā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.7"
+            },
+            {
+              "tag": "item",
+              "text": "yogyaistacca nivartayet"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.8"
+            },
+            {
+              "tag": "item",
+              "text": "anāmapālanaṃ kuryāt"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.9"
+            },
+            {
+              "tag": "item",
+              "text": "āmaṃ hi sarvarogāṇām"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.10"
+            },
+            {
+              "tag": "item",
+              "text": "ādibhūtamāha brahmā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.11"
+            },
+            {
+              "tag": "item",
+              "text": "tannivṛttiranāmayam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.12"
+            },
+            {
+              "tag": "item",
+              "text": "anāmayī ātmānaṃ sammanyate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.13"
+            },
+            {
+              "tag": "item",
+              "text": "ahampratyayaḥ karmakartā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.14"
+            },
+            {
+              "tag": "item",
+              "text": "sthānavānahaṃkārī"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.15"
+            },
+            {
+              "tag": "item",
+              "text": "yāvadarogī abhimanyate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.16"
+            },
+            {
+              "tag": "item",
+              "text": "sa eva bhuṅkte"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.17"
+            },
+            {
+              "tag": "item",
+              "text": "ajo hyadhiṣṭhātā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.18"
+            },
+            {
+              "tag": "item",
+              "text": "bhuṅkte viṣayabhogān"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.19"
+            },
+            {
+              "tag": "item",
+              "text": "anyaḥ karma bhuṅkta"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.20"
+            },
+            {
+              "tag": "item",
+              "text": "yaḥ kartā karmabhogī"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.21"
+            },
+            {
+              "tag": "item",
+              "text": "kartā śarīrī"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.22"
+            },
+            {
+              "tag": "item",
+              "text": "aśarīrī nānnamatti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.23"
+            },
+            {
+              "tag": "item",
+              "text": "na kevalaṃ śarīraṃ bhogayogyamātmano yogāt"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.24"
+            },
+            {
+              "tag": "item",
+              "text": "ajau hyadhiṣṭhitau"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.25"
+            },
+            {
+              "tag": "item",
+              "text": "anyo ‘nnamatti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.26"
+            },
+            {
+              "tag": "item",
+              "text": "anattyevamanyaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.27"
+            },
+            {
+              "tag": "item",
+              "text": "sati śarīre bhogāya"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.28"
+            },
+            {
+              "tag": "item",
+              "text": "aṣṭāṅgī śarīrī"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.29"
+            },
+            {
+              "tag": "item",
+              "text": "yāvatkṛtividhdheḥ kāyaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.30"
+            },
+            {
+              "tag": "item",
+              "text": "āmajāmayakāryahetukacittakṣobhabhayanigrahavigraho grahaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.31"
+            },
+            {
+              "tag": "item",
+              "text": "āmajāmayakāryahetukānyahetukāmayanivartakā apūrvāṅgahetukāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.32"
+            },
+            {
+              "tag": "item",
+              "text": "doṣasañcārābhāvajāsthikarṇanāsādisandhijarujaśśastreṇaike\n                        nivartakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.33"
+            },
+            {
+              "tag": "item",
+              "text": "prakāśamānaprathamaprayāṇādhigatanissṛtāmṛtapratiprayāṇāhṛtayogavibhāgadhātupoṣakasurasādanādarogavānajaraḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.35"
+            },
+            {
+              "tag": "item",
+              "text": "ya evaṃ veda"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.36"
+            },
+            {
+              "tag": "item",
+              "text": "sa cirāyurbhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.37"
+            },
+            {
+              "tag": "item",
+              "text": "tadeva bheṣajam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.38"
+            },
+            {
+              "tag": "item",
+              "text": "saiva cikitsā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.39"
+            },
+            {
+              "tag": "item",
+              "text": "tāvad dravyāvalokanaṃ kuryāt"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.40"
+            },
+            {
+              "tag": "item",
+              "text": "rasāḥ svādvamlalavaṇatiktoṣaṇakaṣāyakāḥ tatparitrāṇakāh"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.41"
+            },
+            {
+              "tag": "item",
+              "text": "svādvamlakaṭukāḥ pāyā rasāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.42"
+            },
+            {
+              "tag": "item",
+              "text": "yathā samadoṣā yathāgnipravartakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.43"
+            },
+            {
+              "tag": "item",
+              "text": "siddhāṣṣaṭapāke trayaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.44"
+            },
+            {
+              "tag": "item",
+              "text": "tiktassvādu pāke"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.45"
+            },
+            {
+              "tag": "item",
+              "text": "kaṣāyo ‘mlarasaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.46"
+            },
+            {
+              "tag": "item",
+              "text": "ūṣaṇaṃ lavaṇaḥ pāke"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.47"
+            },
+            {
+              "tag": "item",
+              "text": "vyutkramarasā vikārakārakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.48"
+            },
+            {
+              "tag": "item",
+              "text": "pācakapittaṃ pacatyāhāram"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.49"
+            },
+            {
+              "tag": "item",
+              "text": "doṣadhātumaloṣmajaṃ tathā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.50"
+            },
+            {
+              "tag": "item",
+              "text": "grahaṇīkalāyustejāṃsi dadhāti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.51"
+            },
+            {
+              "tag": "item",
+              "text": "bhaktādanenāmāśayātirodhanāt kalābalā bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.52"
+            },
+            {
+              "tag": "item",
+              "text": "āmāśayātipūrṇāt kalābalādāmāśayasthitapavanagatitirodhānādanilaprakopo hi\n                        bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.53"
+            },
+            {
+              "tag": "item",
+              "text": "yādṛśā doṣāstādṛśānilaprakopajātānalāstādṛśā jvarāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.54"
+            },
+            {
+              "tag": "item",
+              "text": "akṣikarṇanāsāśirorugvidāhajihvāsyaśoṣakukṣyo jvalayan jvalati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.55"
+            },
+            {
+              "tag": "item",
+              "text": "aṅgapīḍanamalamārgātirodhanātipīḍanadhātumārgavigamanānilādanalasthalacalanādinānilajvaraḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.56"
+            },
+            {
+              "tag": "item",
+              "text": "pavanapittahetukarasavirasajātājīrṇajanyāmarasāsṛgdhātucarādyadoṣa\n                        ubhayalakṣaṇayuktarogaḥ pavanapittaprakopajvaraḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.57"
+            },
+            {
+              "tag": "item",
+              "text": "pavanakaphavikārahetukarasavirasajātājīrṇajanyāmayamāṃsamedodhātucara\n                        ubhayalakṣaṇasahitaḥ pavanakaphavikārajātajvaraḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.58"
+            },
+            {
+              "tag": "item",
+              "text": "kaphapittavikārahetukarasavirasajātājīrṇajanyāmayāsthimajjādhātucarādyadoṣaś\n                        cobhayalakṣaṇayukto rogaḥ kaphapittavikārajātajvaraḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.59"
+            },
+            {
+              "tag": "item",
+              "text": "manaḥkāmabhayabhūtābhighātakālahetūtpannajvarasyāntarvidāhaśvāsakhāsamadabhramamūrcchacchardyatisāraśokakrodhabhayaguṇāstannivartakanivartakā\n                        āgantukajvarāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.60"
+            },
+            {
+              "tag": "item",
+              "text": "pavanādyaprakopādagnibalaṃ poṣayankriyākramaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.61"
+            },
+            {
+              "tag": "item",
+              "text": "pathyāddoṣe kṣīṇe ‘gnibale jāte kṣuttṛṅruciśśaktiḥ balakālavibhāgajño\n                        vamanavirekācchvāsakhāsahṛdrogaviṣamajvarātisārebhyo\n                        ‘bhayātsukhībhavet"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.62"
+            },
+            {
+              "tag": "item",
+              "text": "āmāśayasthitaṃ sarvadhātubalakārakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.63"
+            },
+            {
+              "tag": "item",
+              "text": "samānānilena tatsthān kalā jvalayan pacati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.64"
+            },
+            {
+              "tag": "item",
+              "text": "duṣṭagrahaṇī rogasya kārikā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.65"
+            },
+            {
+              "tag": "item",
+              "text": "dravadravyairvibhajankālādannaṃ prāṇānilena koṣṭhaṃ gataṃ samānānilena\n                        tatsthā kalā jvalayantī pacati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.66"
+            },
+            {
+              "tag": "item",
+              "text": "rikte vāyūḥ prakupyate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.67"
+            },
+            {
+              "tag": "item",
+              "text": "analo ‘lpo bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.68"
+            },
+            {
+              "tag": "item",
+              "text": "madhurībhūtābhyavahṛtānnaṃ pavanaprakopahārakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.69"
+            },
+            {
+              "tag": "item",
+              "text": "hṛdgatakaphaplutānnamamlībhūtaṃ pittaprakopanāśakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.71"
+            },
+            {
+              "tag": "item",
+              "text": "hṛccyutāhāramanalaśoṣitamāmāśayasthaṃ kaphaṃ harati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.72"
+            },
+            {
+              "tag": "item",
+              "text": "svādvamlakaṭukāḥ pākyā rasā yathā samadoṣā yathāyathaṃ\n                        yogaphaladāyakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.73"
+            },
+            {
+              "tag": "item",
+              "text": "ye rasāstaddhetubhūtāstadudbhūtajātānalāstadudbhūtadhātupoṣakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.74"
+            },
+            {
+              "tag": "item",
+              "text": "rasādraktam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.75"
+            },
+            {
+              "tag": "item",
+              "text": "pañcabhūtātmakaṃ śarīram"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.76"
+            },
+            {
+              "tag": "item",
+              "text": "śrotrāntassthitaśabdaguṇakabodhakasirābhyāṃ śrūyate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.77"
+            },
+            {
+              "tag": "item",
+              "text": "śabdaguṇaka ākāśaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.78"
+            },
+            {
+              "tag": "item",
+              "text": "rasāsṛgdhātujanyā tvak śvāsocchvāsāvahā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.79"
+            },
+            {
+              "tag": "item",
+              "text": "saptadhātutvagāvṛtānilo viyajjātaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.80"
+            },
+            {
+              "tag": "item",
+              "text": "ṣaṭpañcāśatsirāvṛtākṣigatānalaḥ pañcarūpopapannamāhāraṃ pacan\n                        anilajātānalassvagatārthaṃ paśyati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.81"
+            },
+            {
+              "tag": "item",
+              "text": "lālārūpo rasādibhedānvibhajan jihvayā rasaṃ gṛhṇāti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.82"
+            },
+            {
+              "tag": "item",
+              "text": "jihvāsaṃsthitadvisirādhārasarvarasābhijñā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.83"
+            },
+            {
+              "tag": "item",
+              "text": "caturviṃśatisirā nāsikāgragatodbhavā pṛthivī\n                        caturviṃśatitatvabodhikā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.84"
+            },
+            {
+              "tag": "item",
+              "text": "yatsirāvṛtaṃ śarīram | annādbhūtāni jāyante, jātānyannena vardhante,\n                        adyate ‘tti ca bhūtāni, tasmādannaṃ taducyate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.85"
+            },
+            {
+              "tag": "item",
+              "text": "nāsikādhikyavikārabhūtāḥ nāsāgre pratīyante"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.86"
+            },
+            {
+              "tag": "item",
+              "text": "mātṛjaṃ raktamāṃsamedaḥ, pitṛjaṃ majjāsthiretaḥ, satvarajastamoguṇātmakaṃ\n                        śarīram"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.87"
+            },
+            {
+              "tag": "item",
+              "text": "āyurārogyatejobalaśuddhādi vapussatvaguṇotpādakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.88"
+            },
+            {
+              "tag": "item",
+              "text": "yatrasthā rasāstattadbhūtajātāste dhātupoṣakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "1.89"
+            },
+            {
+              "tag": "item",
+              "text": "athāta ādibhūtaṃ yaḥ kartā yāvatkṛtestathā tadeva bheṣajaṃ\n                        manaḥkāmahṛdgatakaphaśuklādibhirāvṛtaṃ śarīraṃ daśa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "2",
+        "type": "chapter"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "attributes": {
+            "lang": "en"
+          },
+          "text": "Chapter 2"
+        },
+        {
+          "tag": "list",
+          "children": [
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.1"
+            },
+            {
+              "tag": "item",
+              "text": "dvirasārtharasahīnārthahīnarasavānanilanivārakaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.2"
+            },
+            {
+              "tag": "item",
+              "text": "ṣaṭsahasratriṃśatsirāstriṃśacchalyāśśatadvayadaśottarasandhayo\n                        navāśītisnāyupeśidharā bhavanti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.3"
+            },
+            {
+              "tag": "item",
+              "text": "saptadhātudharāssaptāśayāstanmadhyagagrahaṇīkalājātaḥ svāduraso\n                        ‘nilaprakopaṃ harati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.4"
+            },
+            {
+              "tag": "item",
+              "text": "aṣṭamo garbhāśayaḥ strīṇām"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.5"
+            },
+            {
+              "tag": "item",
+              "text": "svaṃ svaṃ svoṣmaṇā sravadrasātmaṃ caujaḥ | svaṃ svaṃ svasya svayameva\n                        heturbhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.6"
+            },
+            {
+              "tag": "item",
+              "text": "śiraḥpāṇipādapārśvapṛṣṭhorūdarajaṅghaśiśnopasthapāyvaṅgāni bhavanti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.7"
+            },
+            {
+              "tag": "item",
+              "text": "śrotratvakcakṣurjihvāghrāṇāstathā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.8"
+            },
+            {
+              "tag": "item",
+              "text": "sarandhrakābhyantaradharāstrayastrayassirāḥ |\n                        pādayoścatutriṃśatsarandhrakābhyantaradharāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.9"
+            },
+            {
+              "tag": "item",
+              "text": "pādasthitapadmamavarṇajanakaṁ catustriṃśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.10"
+            },
+            {
+              "tag": "item",
+              "text": "jānupadmagatamivarṇajanakaṃ catustriṃśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.11"
+            },
+            {
+              "tag": "item",
+              "text": "uvarṇātmakamūrupradeśapadmaṃ viṃśatisirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.12"
+            },
+            {
+              "tag": "item",
+              "text": "ṛvarṇajanakaṃ śroṇipradeśapadmaṃ viṃśatisirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.13"
+            },
+            {
+              "tag": "item",
+              "text": "lṛvarṇajanakaṃ śroṇipradeśapadmaṃ catustriṃśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.14"
+            },
+            {
+              "tag": "item",
+              "text": "evarṇajanakaṃ kaṭipradeśagatapadmaṃ catustriṃśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.15"
+            },
+            {
+              "tag": "item",
+              "text": "aivarṇajanakaṃ bījagatapārśvagatapadmaṃ catustriṃśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.16"
+            },
+            {
+              "tag": "item",
+              "text": "ovarnājanakaṃ vaṅkṣaṇapradeśagataṃ padmaṃ dvādaśasirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.17"
+            },
+            {
+              "tag": "item",
+              "text": "auvarṇajanakaṃ bījapradeśagataṃ padmaṃ dvisirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.19"
+            },
+            {
+              "tag": "item",
+              "text": "gaghavarṇajanakameḍhrapradeśastriṣaṣṭisirāvṛtaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.20"
+            },
+            {
+              "tag": "item",
+              "text": "ṅoccāraṇahetukaṃ pṛṣṭhadeśagataṃ padmaṃ catustriṃśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.21"
+            },
+            {
+              "tag": "item",
+              "text": "ṅoccāraṇahetukaṃ pṛṣṭhadeśagataṃ padmaṃ catustriṃśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.22"
+            },
+            {
+              "tag": "item",
+              "text": "cachavarṇotpādakaṃ tatpārśvapadmaṃ caturdaśasirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.23"
+            },
+            {
+              "tag": "item",
+              "text": "jajhavarṇoccāraṇahetukaṃ jaṭharānalapadmaṃ caturdaśasirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.24"
+            },
+            {
+              "tag": "item",
+              "text": "ñavarṇotpādakaṃ nābhipradeśapadmaṃ viṃśatisirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.25"
+            },
+            {
+              "tag": "item",
+              "text": "ṭaṭhavarṇotpādakaṃ nābhipradeśapadmaṃ triṃśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.26"
+            },
+            {
+              "tag": "item",
+              "text": "ḍaḍhavarṇahetukaṃ romarājipārśvagataṃ dvāviṃśatisirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.27"
+            },
+            {
+              "tag": "item",
+              "text": "ṇavarṇādhārabhūtaṃ hṛtkamalaṃ triṃśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.28"
+            },
+            {
+              "tag": "item",
+              "text": "tathavarṇotpādakaṃ stanadvayapadmaṃ pañcāśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.29"
+            },
+            {
+              "tag": "item",
+              "text": "dadhavarṇotpādakaṃ kaṇṭhadeśapadmaṃ pañcāśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.30"
+            },
+            {
+              "tag": "item",
+              "text": "navarṇotpādakaṃ grīvāpadmaṃ ṣoḍaśasirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.31"
+            },
+            {
+              "tag": "item",
+              "text": "paphavarṇotpādakaṃ bāhupadmaṃ ṣoḍaśasirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.32"
+            },
+            {
+              "tag": "item",
+              "text": "babhavarṇajanakaṃ prakoṣṭhapradeśapadmaṃ pañcāśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.33"
+            },
+            {
+              "tag": "item",
+              "text": "mavarṇoccāraṇahetukaṃ sakalaśabdārthajñāpakaṃ hastagatapadmaṃ\n                        pañcāśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.34"
+            },
+            {
+              "tag": "item",
+              "text": "yavarṇajñāpakaṃ rasabandhanapadmaṃ dvisirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.35"
+            },
+            {
+              "tag": "item",
+              "text": "rephavarṇotpādakamoṣṭhapadmaṃ ṣoḍaśasirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.36"
+            },
+            {
+              "tag": "item",
+              "text": "lavarṇajanakaṃ vācaspatipradeśasthaṃ dvisirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.37"
+            },
+            {
+              "tag": "item",
+              "text": "vavarṇotpādakaṃ nāsikāgragatapadmaṃ catustriṃśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.38"
+            },
+            {
+              "tag": "item",
+              "text": "śavarṇajñāpakaṃ gandhavahapadmaṃ dvisirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.39"
+            },
+            {
+              "tag": "item",
+              "text": "ṣavarṇotpādakatāludvayapadmamekaikasiravṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.40"
+            },
+            {
+              "tag": "item",
+              "text": "savarṇajñāpakamakṣipradeśagatapadmaṃ catuḥpañcāśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.41"
+            },
+            {
+              "tag": "item",
+              "text": "havarṇotpādakaṃ pakṣapradeśapadmaṃ dvisirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.42"
+            },
+            {
+              "tag": "item",
+              "text": "ḷavarṇotpādakamapāṅgadeśapadmaṃ dvisirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.43"
+            },
+            {
+              "tag": "item",
+              "text": "kṣavarṇajñāpakaṃ dantapaṅktipradeśapadmaṃ triṃśatsirāvṛtam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.44"
+            },
+            {
+              "tag": "item",
+              "text": "rephotpādakaṃ kapolapadmaṃ ravarṇadevatātmakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.45"
+            },
+            {
+              "tag": "item",
+              "text": "sirāsyadoṣagatijātaśabdaḥ karṇayoḥ prapadyate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.46"
+            },
+            {
+              "tag": "item",
+              "text": "riktātiriktātipūrṇāssirā na vedhyāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.47"
+            },
+            {
+              "tag": "item",
+              "text": "tāssirā marmāśayagā riktāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.48"
+            },
+            {
+              "tag": "item",
+              "text": "sirāsṛgvibhāgavidhiṃ jñātvā vimocayet"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.49"
+            },
+            {
+              "tag": "item",
+              "text": "nīrujāvayavādīdṛśau pitarau"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.50"
+            },
+            {
+              "tag": "item",
+              "text": "śuddhāśayaśuddhadoṣaśuddhānalaśuddhendriyaguṇahetukapārthivadravyaiḥ\n                        prajāḥ prajāyante"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.51"
+            },
+            {
+              "tag": "item",
+              "text": "śukraśoṇitasannipāto yoniḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.52"
+            },
+            {
+              "tag": "item",
+              "text": "yonyāmāvirabhūdajo vidhicoditaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.53"
+            },
+            {
+              "tag": "item",
+              "text": "yāvadāhārānuguṇarūpavān bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.54"
+            },
+            {
+              "tag": "item",
+              "text": "yāvadārogyadā rasā nivartakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.55"
+            },
+            {
+              "tag": "item",
+              "text": "yāvadabhyavahṛtarasebhyo mātṛjaṃ pālayet"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.56"
+            },
+            {
+              "tag": "item",
+              "text": "reto ‘dhikātpituḥ putro bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.57"
+            },
+            {
+              "tag": "item",
+              "text": "raktādhikānmātuḥ putrikā bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.58"
+            },
+            {
+              "tag": "item",
+              "text": "dvisamo yatra ṣanḍo bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.59"
+            },
+            {
+              "tag": "item",
+              "text": "ajo nānā jāyate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.61"
+            },
+            {
+              "tag": "item",
+              "text": "caturthe ‘hni snāyāt"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.62"
+            },
+            {
+              "tag": "item",
+              "text": "śuddhā patiṃ vrajet"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.63"
+            },
+            {
+              "tag": "item",
+              "text": "prajākāmāstāvatprayatnaṃ mithunaṃ tāvaddhetukam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.64"
+            },
+            {
+              "tag": "item",
+              "text": "dvicatuḥṣaṣṭhāṣṭadaśadvādaśe ‘hani jātāh putrāḥ taditare ‘hani jātāḥ\n                        putrikāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.65"
+            },
+            {
+              "tag": "item",
+              "text": "prathamartau poṣakaṃ nivartakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.66"
+            },
+            {
+              "tag": "item",
+              "text": "tadūrdhve ṛtau śoṣakaṃ tadanantaramapi śoṣakarasāḥ garbhābhivardhakā\n                        yāvatkālopayogyāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.67"
+            },
+            {
+              "tag": "item",
+              "text": "prathamadvitrimāseṣu madhurarasāḥ pavanaharā nivartakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.68"
+            },
+            {
+              "tag": "item",
+              "text": "catuḥpañcaṣaṭsu māseṣu amlarasāḥ pittaharā nivartakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.69"
+            },
+            {
+              "tag": "item",
+              "text": "ṣaṣṭhāṣṭanavamāseṣūṣṇarasāḥ kaphaśoṣakāh pravartakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.70"
+            },
+            {
+              "tag": "item",
+              "text": "nivartyo vikāraḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.71"
+            },
+            {
+              "tag": "item",
+              "text": "āmavṛddhivikārassarvarogahetubhūtaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.72"
+            },
+            {
+              "tag": "item",
+              "text": "tattaddravyaṃ tattatkāle tattadviṣaye tattannivartyeṣu nivartakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.73"
+            },
+            {
+              "tag": "item",
+              "text": "nivartakaṃ bheṣajam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.74"
+            },
+            {
+              "tag": "item",
+              "text": "doṣatrayahetukaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.75"
+            },
+            {
+              "tag": "item",
+              "text": "sarvajantūnāmanāmapālanaṃ nivartakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.76"
+            },
+            {
+              "tag": "item",
+              "text": "vahnipravardhakadravyaṃ\n                        yāvaccharīropavṛṃhaṇajaṭharānalapravardhakadravyam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.77"
+            },
+            {
+              "tag": "item",
+              "text": "tattadarthāssnehayogyāḥ pravardhakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.78"
+            },
+            {
+              "tag": "item",
+              "text": "viśuddhasnehamayaṃ nivartakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.79"
+            },
+            {
+              "tag": "item",
+              "text": "aṅgāṅgasaṅgo ‘ṅgavilepanādaṅgāṅgavibhajanaṃ vibhāti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.80"
+            },
+            {
+              "tag": "item",
+              "text": "antarvatnījanyajātavedā antarvatnīghṛtādanajanyaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.81"
+            },
+            {
+              "tag": "item",
+              "text": "khecarāṇāṃ janayatassaha sārpiṣā pakṣiśarīre"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.82"
+            },
+            {
+              "tag": "item",
+              "text": "ārohaṇaṃ gaganavartmasu vrajatām"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.83"
+            },
+            {
+              "tag": "item",
+              "text": "ghṛtaplutānnādanādvāyustejoretāṃsi dadhāti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.84"
+            },
+            {
+              "tag": "item",
+              "text": "yogyadravyopayogairabhivardhate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.85"
+            },
+            {
+              "tag": "item",
+              "text": "edhante ‘smā ṛtavaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.86"
+            },
+            {
+              "tag": "item",
+              "text": "annādbhūtāni jāyante"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.87"
+            },
+            {
+              "tag": "item",
+              "text": "jātānyannena vardhante"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.88"
+            },
+            {
+              "tag": "item",
+              "text": "adyate ‘tti ca bhūtāni"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.89"
+            },
+            {
+              "tag": "item",
+              "text": "tasmādannaṃ taducyata iti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.90"
+            },
+            {
+              "tag": "item",
+              "text": "ghṛtaplutānnamantarvatnyāḥ pradāpayet"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.91"
+            },
+            {
+              "tag": "item",
+              "text": "tasmātsvāvayavavibhavaṃ dhātuvardhanaṃ kurvatyaḥ prajāḥ prajāyante"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.92"
+            },
+            {
+              "tag": "item",
+              "text": "tacchoṣakapoṣakadravyaṃ tatra bheṣajam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.93"
+            },
+            {
+              "tag": "item",
+              "text": "evamuttarottarābhivṛddhirmāse māse"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.94"
+            },
+            {
+              "tag": "item",
+              "text": "yāvadvārdhikāstatra bheṣajāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.95"
+            },
+            {
+              "tag": "item",
+              "text": "sarpiṣā poṣyapoṣakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.96"
+            },
+            {
+              "tag": "item",
+              "text": "na poṣakakāle śoṣakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.97"
+            },
+            {
+              "tag": "item",
+              "text": "ṣaḍrasāssaptadhātupoṣakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.98"
+            },
+            {
+              "tag": "item",
+              "text": "raso hyasṛk"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "2.99"
+            },
+            {
+              "tag": "item",
+              "text": "raso vai saḥ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "3",
+        "type": "chapter"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "attributes": {
+            "lang": "en"
+          },
+          "text": "Chapter 3"
+        },
+        {
+          "tag": "list",
+          "children": [
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.1"
+            },
+            {
+              "tag": "item",
+              "text": "atha yogānuśāsanam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.3"
+            },
+            {
+              "tag": "item",
+              "text": "prakṛtipuruṣāntarmukhajñānagocarapratyayaprakṛtipariṇāmo yogaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.4"
+            },
+            {
+              "tag": "item",
+              "text": "raja udrekaādasthiraṃ bahirmukhātsukhaduḥkhahetuḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.5"
+            },
+            {
+              "tag": "item",
+              "text": "tama udrekātkṛtyākṛtyājñānātkrodhādhibhirniyamito mūḍhaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.6"
+            },
+            {
+              "tag": "item",
+              "text": "sātvikodayātsukham"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.7"
+            },
+            {
+              "tag": "item",
+              "text": "madhurarasānnādanādanusātvikaguṇahetukam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.8"
+            },
+            {
+              "tag": "item",
+              "text": "amlībhūtānnādanaṃ rājasaguṇakārakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.9"
+            },
+            {
+              "tag": "item",
+              "text": "kaṭukāstamoguṇahetukāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.10"
+            },
+            {
+              "tag": "item",
+              "text": "mumukṣormādhuryam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.11"
+            },
+            {
+              "tag": "item",
+              "text": "āmlarasādanātsukhamekamanubhūyate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.12"
+            },
+            {
+              "tag": "item",
+              "text": "uṣṇaraso duḥkhānuṣaṅgātsukhaṃ janayati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.13"
+            },
+            {
+              "tag": "item",
+              "text": "tadā draṣṭussvarūpāvasthānam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.14"
+            },
+            {
+              "tag": "item",
+              "text": "sukhaduḥkhamohātmikādhyāstrayaḥprādurbhavanti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.15"
+            },
+            {
+              "tag": "item",
+              "text": "tadrajastaddhetuguṇabhūtajātam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.16"
+            },
+            {
+              "tag": "item",
+              "text": "yathāroganivartakāḥ śoṣakapoṣakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.17"
+            },
+            {
+              "tag": "item",
+              "text": "yogyayogo yogaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.18"
+            },
+            {
+              "tag": "item",
+              "text": "cittavibhramo viparyayaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.19"
+            },
+            {
+              "tag": "item",
+              "text": "atasmiṁstaditi pratyayaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.20"
+            },
+            {
+              "tag": "item",
+              "text": "pittādhikaikajātātpītaśśaṅkhaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.21"
+            },
+            {
+              "tag": "item",
+              "text": "sā pratītiḥ pittaviruddhāhārajanyā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.22"
+            },
+            {
+              "tag": "item",
+              "text": "atinirīkṣaṇe doṣapramāyāṃ saṃśayo bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.23"
+            },
+            {
+              "tag": "item",
+              "text": "atyantānimiṣadṛṣṭyā cakṣurindriyadoṣassambhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.24"
+            },
+            {
+              "tag": "item",
+              "text": "rajastamoguṇahetukadravyapariṇāmakāt pittādvibhramo bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.25"
+            },
+            {
+              "tag": "item",
+              "text": "tadviṣaye cākṣuṣāṇyanubhūtārtheṣu"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.26"
+            },
+            {
+              "tag": "item",
+              "text": "yāvadgarbhāśayasthaṃ piṇḍaṃ tāvaddravyaparipālanam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.27"
+            },
+            {
+              "tag": "item",
+              "text": "adoṣajātapiṇḍaṃ kvacinnivartayet"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.28"
+            },
+            {
+              "tag": "item",
+              "text": "nimitte hi pathyaṃ bheṣajam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.29"
+            },
+            {
+              "tag": "item",
+              "text": "yāvadāhārapariṇāmajātāḥ kliṣṭāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.30"
+            },
+            {
+              "tag": "item",
+              "text": "kliṣṭāḥ kleśāḥ, akliṣṭā akleśāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.31"
+            },
+            {
+              "tag": "item",
+              "text": "yāvatprastutamaharaharbheṣajam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.32"
+            },
+            {
+              "tag": "item",
+              "text": "yāvadudbhūtaśoṣakaguṇajātā rujaḥ tattadudbhūtapoṣakadravyaṃ tatra\n                        bheṣajam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.33"
+            },
+            {
+              "tag": "item",
+              "text": "āmanissaraṇakāryaṃ kartavyam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.34"
+            },
+            {
+              "tag": "item",
+              "text": "yāvaddhātvaṅkurābhivardhakadravyābhāvajātarogāḥ\n                        tatpoṣakasaṃskārayukta-snehādayo nivartakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.35"
+            },
+            {
+              "tag": "item",
+              "text": "māturāhārarasāhārajanitāvayavasthitarasāḥ pravartakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.36"
+            },
+            {
+              "tag": "item",
+              "text": "avikāraṃ nirīkṣyaināṃ mātṛjaṃ pāyayet"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.37"
+            },
+            {
+              "tag": "item",
+              "text": "yogyadravyeṇa ca tānpoṣayet"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.38"
+            },
+            {
+              "tag": "item",
+              "text": "yāvatstanyapāḥ tāvadbālakāḥ stanyapānam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.39"
+            },
+            {
+              "tag": "item",
+              "text": "bālayogyanivartakaṃ kuryāt"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.40"
+            },
+            {
+              "tag": "item",
+              "text": "śrotrendriyācchabdajñānam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.41"
+            },
+            {
+              "tag": "item",
+              "text": "rasanendriyajanyabhramādāmavirasadoṣādikaikarasātsaṃśayavibhramau\n                        bhavataḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.42"
+            },
+            {
+              "tag": "item",
+              "text": "ghrāṇendriyādgandhapratītistathā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.43"
+            },
+            {
+              "tag": "item",
+              "text": "śrotrendriyācchabdajñānaṃ tathā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.44"
+            },
+            {
+              "tag": "item",
+              "text": "śoṣakadravyādhikyajātāsṛkpratibandhakapavanānalagatijātadoṣaviṣayakaviparyayajñānaṃ\n                        pramāpratibandhakahetukam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.45"
+            },
+            {
+              "tag": "item",
+              "text": "sārdradravyaṃ tatra bheṣajam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.46"
+            },
+            {
+              "tag": "item",
+              "text": "sasnehamārdraṃ kāryam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.47"
+            },
+            {
+              "tag": "item",
+              "text": "cākṣuṣapratītītarajanyabhinnaviṣayakajñānapramā pramāṇam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.48"
+            },
+            {
+              "tag": "item",
+              "text": "nirdoṣacakṣustatra janakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.49"
+            },
+            {
+              "tag": "item",
+              "text": "cakṣurgṛhītalaiṅgikajñānaṃ pramāṇam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.50"
+            },
+            {
+              "tag": "item",
+              "text": "bhramābhāvajanakamāptavacanamāgamaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.51"
+            },
+            {
+              "tag": "item",
+              "text": "doṣajanyajñānaviṣayako viparyayaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.52"
+            },
+            {
+              "tag": "item",
+              "text": "śabdaprayogajanitajñānapratītiviṣayo vikalpaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.53"
+            },
+            {
+              "tag": "item",
+              "text": "sadasatsambandhavivekavidhirahitajñānaviṣayakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.54"
+            },
+            {
+              "tag": "item",
+              "text": "abhāvapratyayāvalambanā vṛttiḥ nidrā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.55"
+            },
+            {
+              "tag": "item",
+              "text": "sā pratītiḥ tiktakaṭurasavaddravyādanādbhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.56"
+            },
+            {
+              "tag": "item",
+              "text": "pramāṇenānubhūtārthāsaṃpramoṣaḥ smṛtiḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.57"
+            },
+            {
+              "tag": "item",
+              "text": "madhurarasapariṇāmājjātasātvikodayāt so ‘yamiti vyapadeśaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.58"
+            },
+            {
+              "tag": "item",
+              "text": "itarendriyayogavirāmo ‘ntarniyamito ‘bhyāsaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.59"
+            },
+            {
+              "tag": "item",
+              "text": "viṣayavirāgataḥ pravāhotsāhāt punaḥpunarabhiniveśanaṃ vairāgyam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.60"
+            },
+            {
+              "tag": "item",
+              "text": "dṛṣṭānuśrāvikaviṣayatṛṣṇāvaśīkaraṇasaṃjñāstathā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.61"
+            },
+            {
+              "tag": "item",
+              "text": "tābhyāṃ cittavṛttinirodhaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.62"
+            },
+            {
+              "tag": "item",
+              "text": "yāvaddhātusirādisañcaratprāṇāpānavyānodānasamānānilanirodhanaṃ\n                        bhramahetukam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.63"
+            },
+            {
+              "tag": "item",
+              "text": "āsannaviṣayakajñānahetukāntarātmāntaḥkaraṇayogābhyāsavaśāt\n                        pavananirodhanādarogī sa cirāyurbhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.64"
+            },
+            {
+              "tag": "item",
+              "text": "tasmātprāṇādipañcakaphalībhūtaṃ kāryam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.65"
+            },
+            {
+              "tag": "item",
+              "text": "adṛṣṭenendriyeṇātmā manasā saṃyujyate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.66"
+            },
+            {
+              "tag": "item",
+              "text": "sarvadhātavaḥ satvavaśaṃ gatāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.67"
+            },
+            {
+              "tag": "item",
+              "text": "yatkāle yadyoge yathāvidhi phalapradāḥ prajāḥ prajāyante"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.68"
+            },
+            {
+              "tag": "item",
+              "text": "tatsaṃyogajātadhātavaḥ pravartakāh (yāṃ kāmayeta duhitaraṃ priyā syaditi |\n                        tāṃ niṣṭhāya dadyāt | priyaiva bhavati | sa na tu punarāgacchati)"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.69"
+            },
+            {
+              "tag": "item",
+              "text": "strīpuṃsāvātmabhāgau bhinnamūrtessisṛkṣayā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.70"
+            },
+            {
+              "tag": "item",
+              "text": "prakṛtipuruṣau pitarāviti smṛtau"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.71"
+            },
+            {
+              "tag": "item",
+              "text": "vṛttivyavahitasvarūpaniṣṭhamana utsāhātpunaḥpunarabhiniveśanaṃ\n                        yogābhyāsaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.72"
+            },
+            {
+              "tag": "item",
+              "text": "ādarātiśayodbhūtabhūyobhūyonirīkṣāyogādiṣu bhūmiḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.73"
+            },
+            {
+              "tag": "item",
+              "text": "tāṃ niṣṭhāya dadyāt"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.74"
+            },
+            {
+              "tag": "item",
+              "text": "priyaiva bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.75"
+            },
+            {
+              "tag": "item",
+              "text": "neha punarāgacchati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.76"
+            },
+            {
+              "tag": "item",
+              "text": "aihikāmuṣmikaviṣayānubhāvyabhogaikanāśyamiti jñānaṃ vairāgyam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.77"
+            },
+            {
+              "tag": "item",
+              "text": "aviṣayānandātmakanairantaryajñānānandahetukaṃ vairāgyam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.78"
+            },
+            {
+              "tag": "item",
+              "text": "tasmāddhātavastadrogabhūmyāvaṣṭambhāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.79"
+            },
+            {
+              "tag": "item",
+              "text": "bhogāyatanaṃ śarīram"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.80"
+            },
+            {
+              "tag": "item",
+              "text": "tatparamapuruṣakhyāterguṇavaitṛṣṇyam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.81"
+            },
+            {
+              "tag": "item",
+              "text": "yāvadindriyaviṣayajñānānāṃ yadārthollekhibhāvanā kriyate savitarkaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.83"
+            },
+            {
+              "tag": "item",
+              "text": "antaḥkaraṇadharmāvacchinnaviṣayāvalambitadeśakālabhāvanāyogaḥ\n                        savicāraḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.84"
+            },
+            {
+              "tag": "item",
+              "text": "asmindeśakāladharmāvacchinnadharmamātrāvabhāsanaṃ nirvicāraḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.85"
+            },
+            {
+              "tag": "item",
+              "text": "sukhaprakāśodrekāccicchaktiviṣayakassa ānandaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.86"
+            },
+            {
+              "tag": "item",
+              "text": "asmingrāhyasatyasattāmātraviṣayakatvena samādhiḥ sā smṛta"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.87"
+            },
+            {
+              "tag": "item",
+              "text": "madhuraraso rasāsṛggatapavanāvikṛtamadhupravāhotsāhodayaḥ pūrayan\n                        aṅguṣṭhaṃ ca samāśritaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.88"
+            },
+            {
+              "tag": "item",
+              "text": "tatra sthitakalā daśadalakamalaṃ vikāsayantī pracalati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.89"
+            },
+            {
+              "tag": "item",
+              "text": "aṅguṣṭhamātraḥ puruṣo ‘ṅguṣṭhaṃ ca samāśritaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.90"
+            },
+            {
+              "tag": "item",
+              "text": "īśvarassarvasya jagataśśarīraṃ vahati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.91"
+            },
+            {
+              "tag": "item",
+              "text": "mūlādhāramādibhūtaṃ sakaladhātupoṣakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.92"
+            },
+            {
+              "tag": "item",
+              "text": "sirāpathagatapavanaśśiraḥkamalasthāmṛtamāharansiñcati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.93"
+            },
+            {
+              "tag": "item",
+              "text": "śarīrāṅkuraśākhānāmādibhūtaṃ tathā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.94"
+            },
+            {
+              "tag": "item",
+              "text": "tattadadhiṣṭhānavarṇadevatānāṃ sirāmārgagatāmṛtaṃ poṣakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.95"
+            },
+            {
+              "tag": "item",
+              "text": "tatpādapadmādhāre saritpravahati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.96"
+            },
+            {
+              "tag": "item",
+              "text": "māṃsānusṛtasirāmārgagatapavanena kalāḥ pūrayan amṛtaṃ secayet"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.97"
+            },
+            {
+              "tag": "item",
+              "text": "māṃsānusṛtasirābhāvāssanti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.98"
+            },
+            {
+              "tag": "item",
+              "text": "dvisahasrasirāśākhāvat pādapadmamūlakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "3.99"
+            },
+            {
+              "tag": "item",
+              "text": "saptadhātumayaṃ śarīram"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "4",
+        "type": "chapter"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "attributes": {
+            "lang": "en"
+          },
+          "text": "Chapter 4"
+        },
+        {
+          "tag": "list",
+          "children": [
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.1"
+            },
+            {
+              "tag": "item",
+              "text": "gatāgatāmṛtavaśādāgatasamādhikriyayā yogasānnidhyam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.2"
+            },
+            {
+              "tag": "item",
+              "text": "tīvrasaṃyogākhyāmāsannaḥ samādhiḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.3"
+            },
+            {
+              "tag": "item",
+              "text": "saṃvegaḥ kriyāheturdṛḍhatarasaṃskāraḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.4"
+            },
+            {
+              "tag": "item",
+              "text": "gatāgatopāyabhedavatāṃ samādhiphalaṃ cāsannam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.5"
+            },
+            {
+              "tag": "item",
+              "text": "mṛdumadhyātimātratvāttato viśeṣaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.6"
+            },
+            {
+              "tag": "item",
+              "text": "mṛdumadhyātimātrā ityupāyabhedāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.7"
+            },
+            {
+              "tag": "item",
+              "text": "mṛdusaṃyogo madhyamasaṃyogastīvrasaṃyogaśca"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.8"
+            },
+            {
+              "tag": "item",
+              "text": "tridhā bhedanena vāyornavayogino bhavanti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.9"
+            },
+            {
+              "tag": "item",
+              "text": "pañcadaśakamalaṃ jaṅghādeśagataṃ sahasrasirādhārakaṃ\n                        pañcāśanmarmagatam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.10"
+            },
+            {
+              "tag": "item",
+              "text": "gatāgatasaṃskāropakārakapavanayogassamādhiḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.11"
+            },
+            {
+              "tag": "item",
+              "text": "īśvarapreritaceṣṭāśrayaṃ hitāhitakāryoddeśyaviṣayapravartakaceṣṭāśrayaṃ\n                        śarīram"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.12"
+            },
+            {
+              "tag": "item",
+              "text": "śuddharasāhārajanyadhātupreritasirāgatapavanavaśaccalanātmakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.13"
+            },
+            {
+              "tag": "item",
+              "text": "jaṅghāpadmapoṣakāmṛtapravāhapariṇāmayogavaśaccalati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.14"
+            },
+            {
+              "tag": "item",
+              "text": "lavaṇarasajanyapavanayogarasapravartaka kleśakarmavipākāśayāparāmṛṣṭaḥ\n                        puruṣaviśeṣa īśvaraḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.15"
+            },
+            {
+              "tag": "item",
+              "text": "srotomārgasirātriśatadharāṣṭādaśadaḷapadmaṃ pratītigamanāgamana\n                        ceṣṭāśrayaṃ bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.16"
+            },
+            {
+              "tag": "item",
+              "text": "svādvamlalavaṇarasajanyānilasirayā pūrayan jaghanapadmaviṣayaṃ\n                        pracalati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.17"
+            },
+            {
+              "tag": "item",
+              "text": "svādurasavirasadravyādanādajīrṇādāmāmbuvṛddhirudaraṃ jāyate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.18"
+            },
+            {
+              "tag": "item",
+              "text": "svādurasavadvirecanadravyaṃ tatra bheṣajam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.19"
+            },
+            {
+              "tag": "item",
+              "text": "śanaiśśanaireva recayet"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.20"
+            },
+            {
+              "tag": "item",
+              "text": "pavanādyaprakopādagnerbalaṃ poṣayankriyākramaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.21"
+            },
+            {
+              "tag": "item",
+              "text": "virasadravyādanājīrṇajanyasirāmārgasthitapavanavigatyā\n                        sirārasātiprasravaṇād ajīrṇādāmāmbuvṛddherudaraṃ jāyate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.23"
+            },
+            {
+              "tag": "item",
+              "text": "pavanaprakopahetukarūkṣātiśītalalaghvativedanārucivivarṇavirasāsyatandrāmūrchādāhabhramatṛṣṇājvarātisārāṅgapītatvaṃ\n                        pittaprakopodarāmayahetukam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.24"
+            },
+            {
+              "tag": "item",
+              "text": "śvāsakhāsabhramavidāhatimiratvakpalitatanuretodhātusirājātarasaḥ kaphaḥ\n                        kaphaṃ karoti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.25"
+            },
+            {
+              "tag": "item",
+              "text": "pavanapittaprakopajanakadvitrirasajātānusarita\n                        uktobhayalakṣaṇagrasta-vātapittodarāmayo jñeyaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.26"
+            },
+            {
+              "tag": "item",
+              "text": "kaphapittaprakopajanakadvitrirasajātānusaritatattallakṣaṇalakṣitakapha-pittodarāmayo\n                        jñeyaḥ | kaphavātodarāmayaṃ\n                        dvitrirasajātānusaritobhayalakṣaṇa-jñānajanyakaphavātāmayaṃ vidyāt |\n                        rasāsṛṅmāṃsamedovikārajanakadvitrirasānusaritatattallakṣaṇajñānagocarapavanapittakaphodarāmayo\n                        dussādhyaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.27"
+            },
+            {
+              "tag": "item",
+              "text": "krimijanakaplīhodarāmayastathā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.28"
+            },
+            {
+              "tag": "item",
+              "text": "kaṭvamlalavaṇarasavaddravyādanajātamalamārgāvarodhanāt\n                        tatsirārandhramārgagatordhvahṛtparipūraṇapavanaprakopanāt\n                        pāṇḍuśophavisarparukprado bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.29"
+            },
+            {
+              "tag": "item",
+              "text": "bhramavamipipāsācharditṛṣṇāmūrchāntarvidāhāṅgaspandanārucipāṇḍutā\n                        pittapānḍuśobhalakṣaṇam | pādajānujaṅghrorukaṭipṛṣṭhabījapārśvāti\n                        vyathātisāra-rūkṣatātiśītasarvāṅgaspandanaṃ pavanaśobhapāṇḍulakṣaṇam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.30"
+            },
+            {
+              "tag": "item",
+              "text": "śvāsakhāsanāsākṣipakṣmakarṇakapoladantārtipīnasaśirastodanaṃ\n                        pāṇḍuśobhavisarpāmayalakṣaṇam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.31"
+            },
+            {
+              "tag": "item",
+              "text": "bāhyaviṣagrastavaddhātudūṣakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.32"
+            },
+            {
+              "tag": "item",
+              "text": "vātapittarasavirasadravyasaṃsargajātavātagatirodhanādrasāsṛgdhātuvidūṣaṇat-tvakpālityaṃ\n                        pāṇḍurogahetukam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.33"
+            },
+            {
+              "tag": "item",
+              "text": "hṛdi sthitāmapittaviṣasāraṃ pādapadmaśoṣakam\n                        avarṇabodhakacatustriṃśatsirāsaṃsargavaśādamṛtapravāharodhanātpavanajanyāmayāḥ\n                        pravardhante"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.34"
+            },
+            {
+              "tag": "item",
+              "text": "amṛtapravāhālavālopajīvyāvarṇodbodhaka\n                        sarandhrakābhyantaradharaṣaṭsirāmapittaviṣasāragrasanaṃ\n                        pavanaprakopahetukam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.35"
+            },
+            {
+              "tag": "item",
+              "text": "sirāmārgagatapavanamāṃsadhātvanusṛtajānujaṅghorubījapārśvapadmagata i, u,\n                        ṛ, e, o, ai\n                        varṇodbodhakasarandhrakābhyantaradharasirāmārgagatapavanagati-nirodhānādanilaprkopo\n                        bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.36"
+            },
+            {
+              "tag": "item",
+              "text": "tatsirāmārgagatapavanaprakopabhedādhiṣṭhānopādhibhedātpavanavikāra-bhedāḥ\n                        | āmapittaviṣarasavirodhiddravyaṃ bheṣajam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.37"
+            },
+            {
+              "tag": "item",
+              "text": "pūrvasmāddviguṇaṃ pṛthutayā bhāti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.38"
+            },
+            {
+              "tag": "item",
+              "text": "trisahasrasirāhetukaṃ madhurībhūtaṃ jvalayati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.39"
+            },
+            {
+              "tag": "item",
+              "text": "prajotpādakahetubhūtaṃ bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.40"
+            },
+            {
+              "tag": "item",
+              "text": "madhurarasādanādasṛgdhāturbhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.41"
+            },
+            {
+              "tag": "item",
+              "text": "āmlarasādanaṃ māṃsadhātupradaṃ bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.42"
+            },
+            {
+              "tag": "item",
+              "text": "lavaṇaraso medodhātupradaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.43"
+            },
+            {
+              "tag": "item",
+              "text": "ādyadvidhātusāraṃ jaṅghāpadmahetukam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.44"
+            },
+            {
+              "tag": "item",
+              "text": "tiktarasābhivardhitaṃ medodhātusthitadaśadalapadmaṃ kaṭipradeśagatam |\n                        sahasrasirādāgatāmṛtaṃ tasya tatpoṣakam | tiktarasādhikakaphapradeśāmṛtaṃ\n                        tatra doṣajanyam | piṅgalāmārgādāgatapavananirodhanaṃ subheṣajaṃ\n                        supoṣakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.45"
+            },
+            {
+              "tag": "item",
+              "text": "bahiḥ pavanaṃ recayet tameva pūrayet"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.46"
+            },
+            {
+              "tag": "item",
+              "text": "tasmāccirāyurbhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.47"
+            },
+            {
+              "tag": "item",
+              "text": "candrakalāyatamarutpracoditapadmaṃ mukulībhavati | sūryakalāgatapavanād\n                        vikasati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.49"
+            },
+            {
+              "tag": "item",
+              "text": "ṣaṭkamalānāmādibhūtaṃ mūlādhārakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.50"
+            },
+            {
+              "tag": "item",
+              "text": "tiktoṣaṇarasapradānajanyamedomajjādhārakadaśadalapadmaṃ sahasrasirād\n                        āgatāmṛtaṃ tatra siñcati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.51"
+            },
+            {
+              "tag": "item",
+              "text": "iḍāpiṅgalāgatāmṛtaṃ siñcati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.52"
+            },
+            {
+              "tag": "item",
+              "text": "sarvārthānāṃ hetubhūtānāṃ sarvasukhasādhakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.53"
+            },
+            {
+              "tag": "item",
+              "text": "prakṛtipuruṣayoraikyaṃ bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.54"
+            },
+            {
+              "tag": "item",
+              "text": "pārthivāvayavādhikyopalabdhiryatra tatsārakaṃ pārthivaguṇam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.55"
+            },
+            {
+              "tag": "item",
+              "text": "ekadoṣanivartakaṃ yāvattadekasārakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.56"
+            },
+            {
+              "tag": "item",
+              "text": "abdravyāvayavādhikyajanyasvādurasopalabdhiryadyattattatsārakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.57"
+            },
+            {
+              "tag": "item",
+              "text": "ye ye śarīrāssamadravyātmakāḥ tatra tatra kiṃciducitasvādurasaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.58"
+            },
+            {
+              "tag": "item",
+              "text": "tatpavananivartakaṃ subheṣajam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.59"
+            },
+            {
+              "tag": "item",
+              "text": "analadravyāvayavādhikyajātādhikarūpopalambhakayāvadrasavaddravyaṃ\n                        tatsārakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.60"
+            },
+            {
+              "tag": "item",
+              "text": "gaganadravyādhikaśabdaguṇopalambhakatvaṃ pramāṇam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.61"
+            },
+            {
+              "tag": "item",
+              "text": "tiktoṣaṇakaṣāyarasāḥ rasāsṛṅmāṃsamedobalapradāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.62"
+            },
+            {
+              "tag": "item",
+              "text": "recakapūrakadhārakebhyo vikasati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.63"
+            },
+            {
+              "tag": "item",
+              "text": "liṅgayonisaṃyogācca prajayā paśubhiḥ prajananaṃ prajāyate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.64"
+            },
+            {
+              "tag": "item",
+              "text": "pṛṣṭhajaṅghrāśiśnopasthadeśabhedātsvarādayaḥ prabhavanti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.65"
+            },
+            {
+              "tag": "item",
+              "text": "kaṭipradeśagataṃ kāyādhārakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "4.66"
+            },
+            {
+              "tag": "item",
+              "text": "nābheradhassthitaṃ kuṇḍalyādibhūtaṃ pañcasahasrasirāvṛtaṃ śatadaḷapadmaṃ\n                        prajāyate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "5",
+        "type": "chapter"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "attributes": {
+            "lang": "en"
+          },
+          "text": "Chapter 5"
+        },
+        {
+          "tag": "list",
+          "children": [
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.1"
+            },
+            {
+              "tag": "item",
+              "text": "nābheradhastādūrdhvaṃ hṛdi sthitavātapittakaphadoṣāssamastā asamastā\n                        asamagrā anyonyaṃ te āmayotpādakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.2"
+            },
+            {
+              "tag": "item",
+              "text": "yatrasthā ye rasāstattadudbhūtajātāste dhātupoṣakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.3"
+            },
+            {
+              "tag": "item",
+              "text": "dvirasārtharasahīnārthahīnarasavānanilanivārakaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.4"
+            },
+            {
+              "tag": "item",
+              "text": "madhurātimadhuraṃ kramādvātapittaghnau kaphaṃ kurutaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.5"
+            },
+            {
+              "tag": "item",
+              "text": "āmlātyāmlau ca tathā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.6"
+            },
+            {
+              "tag": "item",
+              "text": "lavaṇaṃ pavanaṃ hanti | kaphapittakaraṇam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.7"
+            },
+            {
+              "tag": "item",
+              "text": "hīnādhikalavaṇarasaḥ kaphapavanaṃ hanti pittaṃ kurute"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.8"
+            },
+            {
+              "tag": "item",
+              "text": "tiktaḥ kaphapittaṃ hanti mārutaṃ kurute"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.9"
+            },
+            {
+              "tag": "item",
+              "text": "kaṭu kaphaṃ hanti | vātapittahetukam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.10"
+            },
+            {
+              "tag": "item",
+              "text": "kaṭukātikaṭukaḥ kaphānilaṃ hanti | pittaṃ kurute"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.11"
+            },
+            {
+              "tag": "item",
+              "text": "kaṣāyaḥ kaphapittaṃ hanti | mārutaṃ kurute | hīnādhikakaṣāyaḥ kaphamārutaṃ\n                        hanti | pittaṃ kurute"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.12"
+            },
+            {
+              "tag": "item",
+              "text": "doṣe tridoṣahetvanyahetukavikāraviruddhayāvadrasaikabhāvātmakaikarasādiḥ\n                        nivartakaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.13"
+            },
+            {
+              "tag": "item",
+              "text": "rasādidravyasārajāssakalāmayanivartakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.14"
+            },
+            {
+              "tag": "item",
+              "text": "adoṣadhātupoṣakasārakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.15"
+            },
+            {
+              "tag": "item",
+              "text": "pakvāmāśayagāḥ pavanādyāḥ svādukaṣāyakaṭukaistiktāmlalavaṇaiḥ\n                        kālapākajayogyaiḥ dhāraṇarecakātmakadravyairvividhaiḥ dvividhāmayāḥ\n                        pravardhante"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.16"
+            },
+            {
+              "tag": "item",
+              "text": "bhūguṇau gurumandau | snigdhahimāvāpaḥ | ślakṣṇasāndratarāgneḥ |\n                        mṛdusthitā gurumārutaḥ | sukṣmaviśadā viyataḥ | viruddhaviṣayakāḥ\n                        pratikārakāḥ | deśadehakāladravyakarmaṇāṃ yathāyogo yāvadrogapātakaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.17"
+            },
+            {
+              "tag": "item",
+              "text": "svasthāsvasthāssāmajāmayāssadoṣagā vidoṣagāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.19"
+            },
+            {
+              "tag": "item",
+              "text": "dehadeśakāladravyakarmaṇāṃ yathāyogakaraṇaṃ yāvadrogaghātakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.20"
+            },
+            {
+              "tag": "item",
+              "text": "virasaviṣamapacanajātadvidoṣaikavidhadhātumārgagā dvidoṣagāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.21"
+            },
+            {
+              "tag": "item",
+              "text": "caramarasapacatarogastridoṣagaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.22"
+            },
+            {
+              "tag": "item",
+              "text": "yāvadādoṣapacanaṃ nirvitarkaṃ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.23"
+            },
+            {
+              "tag": "item",
+              "text": "yāvaddhātuprasādādhīno doṣapacanakālaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.24"
+            },
+            {
+              "tag": "item",
+              "text": "viruddharasajātayāvaddhātvadhirohaṇādekadhātukaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.25"
+            },
+            {
+              "tag": "item",
+              "text": "rasājīrṇavirasādhikaviruddharasajadoṣādhikaikavaśābhibhūtassvasthānacyuto\n                        bahirujjvalayan jvarassāmajātaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.26"
+            },
+            {
+              "tag": "item",
+              "text": "viṣamarasapacanarasavirasādiyāvaddhātuprasādādhīno doṣapacanakālaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.27"
+            },
+            {
+              "tag": "item",
+              "text": "ekamekaadhātugatāssusādhyāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.28"
+            },
+            {
+              "tag": "item",
+              "text": "dvirasadvidoṣapracāramāṃsamedonugatarasapradhānaikadoṣapacanadvidoṣajā\n                        dussādhyāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.29"
+            },
+            {
+              "tag": "item",
+              "text": "evamanyonyadoṣajātāśca"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.30"
+            },
+            {
+              "tag": "item",
+              "text": "dvirasādhikaikajātatridoṣarasarūpānuguṇarogā asādhyāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.31"
+            },
+            {
+              "tag": "item",
+              "text": "evamekadhātugatāścāsādhyāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.32"
+            },
+            {
+              "tag": "item",
+              "text": "adoṣāssadoṣāssamadoṣāssarujā rujaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.33"
+            },
+            {
+              "tag": "item",
+              "text": "te trayo doṣahetubhūtāssaptadhātava iti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.34"
+            },
+            {
+              "tag": "item",
+              "text": "sānilānanilādhikānilarūkṣalaghubhāvito rasāsṛggataḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.35"
+            },
+            {
+              "tag": "item",
+              "text": "pittāśrayāttadadhīnapittamāṃsamedonusarannasthimṛdukārakaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.36"
+            },
+            {
+              "tag": "item",
+              "text": "mandoṣṇādisamadoṣādhikākṣīṇavṛddhiguṇakāsthimajjāmedo ‘dhiṣṭhitāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.37"
+            },
+            {
+              "tag": "item",
+              "text": "adoṣadhāturasānusārānusarāsthirasapacanacaramadhātupracārakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.38"
+            },
+            {
+              "tag": "item",
+              "text": "bhūtapūrvapadārthajātadhātuhetubhūtānalasamarasapacanaviruddhārtharasapākayogād-viparyaya"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.39"
+            },
+            {
+              "tag": "item",
+              "text": "ṣaṭkamalānāmādibhūtaṃ mūlādhārakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.40"
+            },
+            {
+              "tag": "item",
+              "text": "iḍāpiṅgalāpūritānilatatsarāgatāmṛtaṃ siñcati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.41"
+            },
+            {
+              "tag": "item",
+              "text": "pṛṣṭhorūdarajaṅghāśiśnopasthadeśādyairabhivardhate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.42"
+            },
+            {
+              "tag": "item",
+              "text": "nābheradhassthitaṃ kuṇḍalyādhibhūtaṃ śatadalapadmaṃ pañcasahasrasirāvṛtaṃ\n                        saroruhamajāyate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.43"
+            },
+            {
+              "tag": "item",
+              "text": "jaṭarāgnerālavālakatayā bhāti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.44"
+            },
+            {
+              "tag": "item",
+              "text": "madhurarasaṃ pracālayan śukladhātusthāne svatejasā bhāti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.45"
+            },
+            {
+              "tag": "item",
+              "text": "āmlarasaṃ vipācayan mahhādhātusthāne svatejasā bhāti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.46"
+            },
+            {
+              "tag": "item",
+              "text": "lavaṇarasaṃ vipācayan asthidhātusthāne svatejasā bhāti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.47"
+            },
+            {
+              "tag": "item",
+              "text": "tiktarasaṃ vipācayan medodhātusthāne svatejasā bhāti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.48"
+            },
+            {
+              "tag": "item",
+              "text": "ūṣaṇarasaṃ vipācayan māṃsadhātusthāne svatejasā bhāti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.49"
+            },
+            {
+              "tag": "item",
+              "text": "kaṣāyarasaṃ vipācayan rasāsṛgdhātusthāne svatejasā bhāti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.50"
+            },
+            {
+              "tag": "item",
+              "text": "sakalarasādhārādibhūtamaṅguṣṭhadalaṃ nābhipadmādhiṣṭhitaṃ trikoṇaṃ nāma\n                        saroruhamajāyata"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.51"
+            },
+            {
+              "tag": "item",
+              "text": "tasmāttanurajāyata | tasmācchākhāśśarīre bhānti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.52"
+            },
+            {
+              "tag": "item",
+              "text": "tajjanyāmṛtaṃ tapoṣakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.53"
+            },
+            {
+              "tag": "item",
+              "text": "acalo ‘jo manoviṣayakaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.54"
+            },
+            {
+              "tag": "item",
+              "text": "tadjñānaṃ tatpuruṣārthakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.55"
+            },
+            {
+              "tag": "item",
+              "text": "sātvikadravyādanaṃ tadbodhakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.56"
+            },
+            {
+              "tag": "item",
+              "text": "itarārthādanāttanna bhāti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.57"
+            },
+            {
+              "tag": "item",
+              "text": "rajastamoguṇau ātmajñānapratibandhakau"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.58"
+            },
+            {
+              "tag": "item",
+              "text": "sarvārthānāṃ hetubhūtaṃ śarīram"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.59"
+            },
+            {
+              "tag": "item",
+              "text": "so ‘jassamaṃ paśyati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.60"
+            },
+            {
+              "tag": "item",
+              "text": "sa sarvānnamatti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.61"
+            },
+            {
+              "tag": "item",
+              "text": "tatpoṣakocitarasāstacchākhāphalakāṇḍatatpoṣakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.62"
+            },
+            {
+              "tag": "item",
+              "text": "prātaḥpūrvāhṇādanai rasavikāraṃ nirīkṣayet"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.63"
+            },
+            {
+              "tag": "item",
+              "text": "visṛṣṭaviṇmūtrādvimalāśayaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.64"
+            },
+            {
+              "tag": "item",
+              "text": "arogasyāśayāssarvaśarīrasādhakāh"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.65"
+            },
+            {
+              "tag": "item",
+              "text": "rasāśayassāśayassarvāśayo vā śarīrī"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.66"
+            },
+            {
+              "tag": "item",
+              "text": "ṣaṭpañcāśadvasumatīkalā hṛddeśā bhānti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.67"
+            },
+            {
+              "tag": "item",
+              "text": "nābhyāmudbhūtajātāḥ pañcāśatprabhāḥ pravibhānti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.68"
+            },
+            {
+              "tag": "item",
+              "text": "tadūrdhvānale dvāṣaṣṭimayūkhāḥ pratibhānti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.69"
+            },
+            {
+              "tag": "item",
+              "text": "catuḥpañcāśatkukṣau pavananiṣṭhāḥ prabhāḥ prapadyante"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.70"
+            },
+            {
+              "tag": "item",
+              "text": "tadūrdhvaṃ viyadgatā dvāṣaṣṭiprabhāḥ prakāśante"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.71"
+            },
+            {
+              "tag": "item",
+              "text": "śrotranetranāsikāmadhyagatamanassu mayūkhā vikasanti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.72"
+            },
+            {
+              "tag": "item",
+              "text": "tadūrdhvakāyāntassthitasahasrāre padme śuklarūpadvayaṃ yatra\n                        pratibhāti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.73"
+            },
+            {
+              "tag": "item",
+              "text": "kṣityādimano ‘ntāḥ ṣaḍṛtava iti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.74"
+            },
+            {
+              "tag": "item",
+              "text": "ṣaḍrasāssamarasāstāḥ kalārūpāḥ kalākhyāḥ pratyahaṃ pradṛśyante"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.75"
+            },
+            {
+              "tag": "item",
+              "text": "kṣitimabbhaktakalāḥ puṣṇanti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.76"
+            },
+            {
+              "tag": "item",
+              "text": "āpo ‘nalapoṣitāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.77"
+            },
+            {
+              "tag": "item",
+              "text": "anilādanalaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.78"
+            },
+            {
+              "tag": "item",
+              "text": "analādākāśaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.79"
+            },
+            {
+              "tag": "item",
+              "text": "anantaraṃ manaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.80"
+            },
+            {
+              "tag": "item",
+              "text": "mano yugātmetyabhidhīyate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.81"
+            },
+            {
+              "tag": "item",
+              "text": "ebhirāvṛttaṃ śarīram"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.82"
+            },
+            {
+              "tag": "item",
+              "text": "ṣaṭpadārthajātāṣṣaḍrasātmakāstattaddravyādeśā ityupadeśaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.83"
+            },
+            {
+              "tag": "item",
+              "text": "tattadrasānāsvādya viraktamanojaḥ anyonyamanyonyamanubhūyate"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.84"
+            },
+            {
+              "tag": "item",
+              "text": "svatassvayamevaṃvit"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.85"
+            },
+            {
+              "tag": "item",
+              "text": "tattallokātpretya etamānandamayamātmānamupasaṅkrāmati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.86"
+            },
+            {
+              "tag": "item",
+              "text": "etaṃ vijñānamayamātmānamuppasaṅkrāmati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.87"
+            },
+            {
+              "tag": "item",
+              "text": "etaṃ manomayamātmānamupasaṅkrāmati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.88"
+            },
+            {
+              "tag": "item",
+              "text": "imānlokānkāmarūpyanusaṃcarannetatsāma gāyannāste"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.89"
+            },
+            {
+              "tag": "item",
+              "text": "ūrdhvādhastiryaṅmayūkhānalo bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.90"
+            },
+            {
+              "tag": "item",
+              "text": "tacchākhāgravirāṭpuruṣassarvamaśnute"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.91"
+            },
+            {
+              "tag": "item",
+              "text": "anāmapālanamanāmayahetukam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.92"
+            },
+            {
+              "tag": "item",
+              "text": "dhātupoṣakamānandahetukam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.93"
+            },
+            {
+              "tag": "item",
+              "text": "rasadravyavijñānamānandahetukam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.94"
+            },
+            {
+              "tag": "item",
+              "text": "tadanyonyasaṃyogajñānapūrvakamātmasvarūpavijñānamānandahetukam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.95"
+            },
+            {
+              "tag": "item",
+              "text": "vijñānasāmagrī ātmamanoviṣayapūrvakaṃ tattadviṣayavijñānasyāśrayavān\n                        bhavati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.96"
+            },
+            {
+              "tag": "item",
+              "text": "rogapāpavisarjanaṃ sāśrayasthitasthāpakam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.97"
+            },
+            {
+              "tag": "item",
+              "text": "tābhyāmadhibhūtaṃ abhayadaṃ sarvaśarīradhārakaṃ dhātulakṣaṇam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.98"
+            },
+            {
+              "tag": "item",
+              "text": "ivartyanivartakaviṣayavidhiṃ jñātvā viṣaye napramattaṃ\n                        sādhyāsādhyavidhiniṣedhajñānapūrvikā kāryā cikitsā"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.99"
+            },
+            {
+              "tag": "item",
+              "text": "ekaikaśarīradravyabhedamekaikabheṣajam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.100"
+            },
+            {
+              "tag": "item",
+              "text": "pṛthivyudbhavaguṇo ‘mlarasavannirasadravyayośśoṣakapoṣakaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.101"
+            },
+            {
+              "tag": "item",
+              "text": "abbhūtaguṇo gatarasavannirasadravyayośśoṣakapoṣakaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.102"
+            },
+            {
+              "tag": "item",
+              "text": "tejobhūtodbhavāvūṣaṇarasāntarhitalavaṇoṣaṇarasau\n                        ambupavanayośśoṣakapoṣakau"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.103"
+            },
+            {
+              "tag": "item",
+              "text": "pavanabhūtodbhavaḥ\n                        sakalarasāvagatasparśayogyadravyarasāpahṛtarasādikīrṇarakta-rasassakaladoṣanivartakaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.104"
+            },
+            {
+              "tag": "item",
+              "text": "gaganabhūtodbhavatacchāyātmabhūniṣṭhatiktarasādhīnānilānaloṣmaruja\n                        ākāśādhīnakaṣāyarasā yāvatsarvadoṣasthāmayāpahāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.105"
+            },
+            {
+              "tag": "item",
+              "text": "yāvaddhātupoṣakadravyādanāttattadroganivartakāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.106"
+            },
+            {
+              "tag": "item",
+              "text": "viṣayaviṣayāṇāmātmābhidhātānmārutodrekahetukam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.107"
+            },
+            {
+              "tag": "item",
+              "text": "adanābhidhātajarujo ‘danābhidhātahetoradanajāmanivartakanivṛttiḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.108"
+            },
+            {
+              "tag": "item",
+              "text": "dussādhyā abhidhātajāḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.109"
+            },
+            {
+              "tag": "item",
+              "text": "sirānivartakāśśarīranāśakāh"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.110"
+            },
+            {
+              "tag": "item",
+              "text": "antyakālavyasanādabhidhātaja iti"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.111"
+            },
+            {
+              "tag": "item",
+              "text": "kṣayārśogulmanetrarukpravacanahetukam"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.112"
+            },
+            {
+              "tag": "item",
+              "text": "dehaśoṣāddehapākāddehasāro ‘tisarati"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.113"
+            },
+            {
+              "tag": "item",
+              "text": "svādurasaśśuklapoṣakaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.114"
+            },
+            {
+              "tag": "item",
+              "text": "svādurasavirasaśśuklaśoṣakaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.115"
+            },
+            {
+              "tag": "item",
+              "text": "amlaraso majjāpravardhakaḥ"
+            },
+            {
+              "tag": "label",
+              "attributes": {
+                "lang": "en"
+              },
+              "text": "5.116"
+            },
+            {
+              "tag": "item",
+              "text": "amlarasaviraso majjāhīnatāpradaḥ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

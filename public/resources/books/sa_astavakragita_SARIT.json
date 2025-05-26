@@ -1,0 +1,5800 @@
+{
+  "file_title": "astavakragita",
+  "file_title_normal": "astavakragita",
+  "metadata": {
+    "document_id": "sarit__aṣṭāvakragītā",
+    "header_language": "en",
+    "titles": [
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "Aṣṭāvakragītā"
+          }
+        ],
+        "text": "Aṣṭāvakragītā",
+        "type": "main"
+      },
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "A SARIT edition"
+          }
+        ],
+        "text": "A SARIT edition",
+        "type": "sub"
+      }
+    ],
+    "original_title": "Aṣṭāvakragītā",
+    "contributors": [
+      {
+        "responsibility": "Creation of machine-readable version.",
+        "name": "Suryansu Ray"
+      }
+    ],
+    "publication": {
+      "authority": {
+        "type": "authority",
+        "content": [
+          {
+            "type": "text",
+            "value": "SARIT: Search and Retrieval of Indic Texts"
+          }
+        ]
+      },
+      "date": {
+        "text": "2013-2016"
+      },
+      "availability": {
+        "status": "restricted",
+        "license_declaration": {
+          "content": [
+            {
+              "type": "text",
+              "value": "Distributed by"
+            },
+            {
+              "type": "ref",
+              "attributes": {
+                "target": "http://sarit.indology.info",
+                "type": "url"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "value": "SARIT"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "under a Creative Commons Attribution-ShareAlike 3.0\n                            Unported License."
+            }
+          ],
+          "text": "Distributed by SARIT under a Creative Commons Attribution-ShareAlike 3.0\n                            Unported License.",
+          "target": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "type": "licence"
+        },
+        "full_description": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Copyright Notice"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Copyright"
+              },
+              {
+                "type": "persName",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Suryansu Ray"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "2012"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "ref",
+                "attributes": {
+                  "target": "http://creativecommons.org/licenses/by-sa/3.0/",
+                  "type": "licence"
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Distributed by"
+                  },
+                  {
+                    "type": "ref",
+                    "attributes": {
+                      "target": "http://sarit.indology.info",
+                      "type": "url"
+                    },
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "SARIT"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "under a Creative Commons Attribution-ShareAlike 3.0\n                            Unported License."
+                  }
+                ],
+                "text": "Distributed by SARIT under a Creative Commons Attribution-ShareAlike 3.0\n                            Unported License."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Under this licence, you are free"
+              },
+              {
+                "type": "list",
+                "items": [
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "to Share — to copy, distribute and transmit the work"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "to Remix — to adapt the work"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Under the following conditions:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "list",
+                "items": [
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "Attribution — You must attribute the work in the manner specified\n                                by the author or licensor (but not in any way that suggests that\n                                they endorse you or your use of the work)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "item",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "Share Alike — If you alter, transform, or build upon this work,\n                                you may distribute the resulting work only under the same or similar\n                                license to this one."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "More information and fuller details of this license are given on the Creative\n                        Commons website."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "SARIT assumes no responsibility for unauthorised use that infringes the\n                        rights of any copyright owners, known or unknown."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "sources": [
+      {
+        "type": "bibl",
+        "full_text_concat": "Aṣṭāvakra-Gītā bhāṣā-ṭīkā sahita. Ṭīkākāra\n                            Rāyabahādura\n                        Bābū Jālimasimha\n                    Tejakumāra-Pres, Bukaḍipo\n                    Lakhnaū\n                    1971 Digitized at",
+        "titles": [
+          {
+            "content": [
+              {
+                "type": "text",
+                "value": "Aṣṭāvakra-Gītā bhāṣā-ṭīkā sahita. Ṭīkākāra"
+              },
+              {
+                "type": "addName",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Rāyabahādura"
+                  }
+                ]
+              },
+              {
+                "type": "persName",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Bābū Jālimasimha"
+                  }
+                ]
+              }
+            ],
+            "text": "Aṣṭāvakra-Gītā bhāṣā-ṭīkā sahita. Ṭīkākāra\n                            Rāyabahādura\n                        Bābū Jālimasimha"
+          }
+        ],
+        "publisher": {
+          "type": "publisher",
+          "content": [
+            {
+              "type": "text",
+              "value": "Tejakumāra-Pres, Bukaḍipo"
+            }
+          ]
+        },
+        "date": {
+          "text": "1971"
+        }
+      }
+    ],
+    "notes_statement": [
+      {
+        "type": "note",
+        "content": [
+          {
+            "type": "text",
+            "value": "Aṣṭāvakragītā, transcribed by Suryansu Ray from the Lucknow 1971 edition, with\n                    corrections."
+          }
+        ]
+      }
+    ],
+    "encoding_description": {
+      "description_paragraphs": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "value": "The printed edition from which this e-text was transcribed was written in the\n                Devanāgarī script. The electronic text below is in a lossless transliteration using\n                the Latin alphabet. The transliteration scheme used is the IAST ("
+            },
+            {
+              "type": "ref",
+              "attributes": {
+                "target": "http://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "value": "The International Alphabet of Sanskrit Transliteration"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "value": "). IAST differs in\n                small ways from ISO 15919, but is preferred by most working Sanskrit scholars.\n                Conversion of this file to ISO 15919 can be achieved by performing the following\n                replacements throughout the file:"
+            },
+            {
+              "type": "code",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "ṛ -> r̥ and ṁ -> ṃ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "value": "Text division is as Devanāgarī (\"ityevam\" not \"ity evam\".)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "value": "Initial vowel elision for avagraha is reversed and marked with a + sign: e.g.,\n                \"prathamo+adhyāyaḥ\""
+            }
+          ]
+        }
+      ],
+      "editorial_declaration": {
+        "description_paragraphs": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "The e-text was typed by Suryamsu Ray personally from a reprint of the Lucknow\n                    1971 edition. He notes:"
+              },
+              {
+                "type": "quote",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Only one edition I could buy myself from\n                        Munshiram Manoharlal Publisher Private Ltd., which is in Hindi with Hindi\n                        commentary as follows: \""
+                  },
+                  {
+                    "type": "bibl",
+                    "content": [
+                      {
+                        "type": "text",
+                        "value": "Ashtavakragita\", with Hindi commentary by\n                            Raibahadur Babu Zalim Singh, edited by Dr. Brijesh Kumar Shukla,\n                            published by Tejkumar Bookdepot P. Ltd., Lucknow, UP, India."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "I\n                        wanted to have at least one more version of the text for comparison wherever\n                        doubts arose. Many Ashrams publish ancient texts for their own need. From a\n                        religious mela I procured one, whose printing and exposition is less that\n                        desirable. However, it served me the purpose of pinpointing the errors, for\n                        which I apply mainly chhandas and usual philosophical word combinations and\n                        phrases."
+                  }
+                ],
+                "text": "Only one edition I could buy myself from\n                        Munshiram Manoharlal Publisher Private Ltd., which is in Hindi with Hindi\n                        commentary as follows: \"Ashtavakragita\", with Hindi commentary by\n                            Raibahadur Babu Zalim Singh, edited by Dr. Brijesh Kumar Shukla,\n                            published by Tejkumar Bookdepot P. Ltd., Lucknow, UP, India. I\n                        wanted to have at least one more version of the text for comparison wherever\n                        doubts arose. Many Ashrams publish ancient texts for their own need. From a\n                        religious mela I procured one, whose printing and exposition is less that\n                        desirable. However, it served me the purpose of pinpointing the errors, for\n                        which I apply mainly chhandas and usual philosophical word combinations and\n                        phrases."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "revisions": [
+      {
+        "description_content": [
+          {
+            "type": "text",
+            "value": "Initial e-text created by"
+          },
+          {
+            "type": "persName",
+            "content": [
+              {
+                "type": "text",
+                "value": "Suryamsu Ray"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "in"
+          },
+          {
+            "type": "date",
+            "content": [
+              {
+                "type": "text",
+                "value": "2012"
+              }
+            ]
+          }
+        ],
+        "description_text_summary": "Initial e-text created by Suryamsu Ray in\n                2012"
+      },
+      {
+        "description_content": [
+          {
+            "type": "text",
+            "value": "Conversion by OxGarage from .doc to TEI P5, and initial TEI header."
+          },
+          {
+            "type": "persName",
+            "content": [
+              {
+                "type": "text",
+                "value": "Dominik Wujastyk"
+              }
+            ]
+          },
+          {
+            "type": "date",
+            "content": [
+              {
+                "type": "text",
+                "value": "8 July 1013"
+              }
+            ]
+          }
+        ],
+        "description_text_summary": "Conversion by OxGarage from .doc to TEI P5, and initial TEI header.\n                    Dominik Wujastyk\n                8 July 1013"
+      },
+      {
+        "description_content": [
+          {
+            "type": "text",
+            "value": "Added div divisions for the chapters; moved the verse xml:id numbers to the\n                beginning of the ślokas instead of the beginning of the second line of the ślokas"
+          },
+          {
+            "type": "persName",
+            "content": [
+              {
+                "type": "text",
+                "value": "Dominik Wujastyk"
+              }
+            ]
+          },
+          {
+            "type": "date",
+            "content": [
+              {
+                "type": "text",
+                "value": "13 July 1013"
+              }
+            ]
+          }
+        ],
+        "description_text_summary": "Added div divisions for the chapters; moved the verse xml:id numbers to the\n                beginning of the ślokas instead of the beginning of the second line of the ślokas\n                    Dominik Wujastyk\n                13 July 1013"
+      },
+      {
+        "description_content": [
+          {
+            "type": "text",
+            "value": "Corrected the note in notesStmt since we now know the edition on which this\n                e-text is based. Corrected the encodingDesc to match the known\n                    source-edition."
+          },
+          {
+            "type": "persName",
+            "content": [
+              {
+                "type": "text",
+                "value": "Dominik Wujastyk"
+              }
+            ]
+          },
+          {
+            "type": "date",
+            "content": [
+              {
+                "type": "text",
+                "value": "13 July 1013"
+              }
+            ]
+          }
+        ],
+        "description_text_summary": "Corrected the note in notesStmt since we now know the edition on which this\n                e-text is based. Corrected the encodingDesc to match the known\n                    source-edition.Dominik Wujastyk\n                13 July 1013"
+      },
+      {
+        "who": "https://viaf.org/viaf/308710472/",
+        "when": "2016-05-03",
+        "description_content": [
+          {
+            "type": "text",
+            "value": "Replaced p's with lg's and l's."
+          }
+        ]
+      },
+      {
+        "who": "https://viaf.org/viaf/308710472/",
+        "when": "2016-05-03",
+        "description_content": [
+          {
+            "type": "text",
+            "value": "Wrapped colophon in a trailer-element."
+          }
+        ]
+      }
+    ]
+  },
+  "body": [
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "1"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 1"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "|| atha śrīmadaṣṭāvakragītā||"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "janaka uvāca||1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {
+                "id": "verse_1.1"
+              },
+              "text": "kathaṃ jñānamavāpnoti kathaṃ muktirbhaviṣyati|"
+            },
+            {
+              "tag": "l",
+              "text": "vairāgyaṃ ca kathaṃ prāptametadbrūhi mama prabho||1|1||"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "aṣṭāvakra uvāca||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "muktimicchasi cettāta viṣayānviṣavattyaja|"
+            },
+            {
+              "tag": "l",
+              "text": "kṣamārjavadayātoṣasatyaṃ pīyūṣavadbhaja||1|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na pṛthvī na jalaṃ nāgnirna vāyurdyaurna vā bhavān|"
+            },
+            {
+              "tag": "l",
+              "text": "eṣāṃ sākṣiṇamātmānaṃ cidrūpaṃ viddhi muktaye||1|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yadi dehaṃ pṛthakkṛtya citi viśrāmya tiṣṭhasi|"
+            },
+            {
+              "tag": "l",
+              "text": "adhunaiva sukhī śānto bandhamukto bhaviṣyasi||1|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na tvaṃ viprādiko varṇo nāśramī nākṣagocaraḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "asaṅgo+asi nirākāro viśvasākṣī sukhī bhava||1|5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "dharmādharmau sukhaṃ duḥkhaṃ mānasāni na te bibho|"
+            },
+            {
+              "tag": "l",
+              "text": "na kartā+asi na bhoktā+asi mukta evā+asi sarvadā||1|6||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "eko draṣṭā+asi sarvasya muktaprāyo+asi sarvadā|"
+            },
+            {
+              "tag": "l",
+              "text": "ayameva hi te bandho draṣṭāraṃ paśyasītaram||1|7||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ahaṃ kartetyahammānamahākṛṣṇāhidaṃśitaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "nāhaṃ karteti viśvāsāmṛtaṃ pītvā sukhī bhava||1|8||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "eko viśuddhabodho+ahamiti niścayavahninā|"
+            },
+            {
+              "tag": "l",
+              "text": "prajvālyājñānagahanaṃ vītaśokaḥ sukhī bhava||1|9||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yatra viśvamidaṃ bhāti kalpitaṃ rajjusarpavat|"
+            },
+            {
+              "tag": "l",
+              "text": "ānandaparamānandaḥ sa bodhastvaṃ sukhaṃ cara||1|10||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "muktābhimānī mukto hi baddho baddhābhimānyapi|"
+            },
+            {
+              "tag": "l",
+              "text": "kiṃvadantīha satyeyaṃ yā matiḥ sā gatirbhavet||1|11||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.13"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ātmā sākṣī vibhuḥ pūrṇa eko muktaścidakriyaḥ|"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.12"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "asaṅgo niḥspṛhaḥ śānto bhramātsaṃsāravāniva||1|12||"
+            },
+            {
+              "tag": "l",
+              "text": "kūṭasthaṃ bodhamadvaitamātmānaṃ paribhāvaya|"
+            },
+            {
+              "tag": "l",
+              "text": "ābhāso+ahaṃ bhramaṃ muktvā bhāvaṃ bāhyamathāntaram||1|13||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.14"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "dehābhimānapāśena ciraṃ baddho+asi putraka|"
+            },
+            {
+              "tag": "l",
+              "text": "bodho+ahaṃ jñānakhaḍgena tanniṣkṛtya sukhī bhava||1|14||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.15"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "niḥsaṅgo niṣkriyo+asi tvaṃ svaprakāśo nirañjanaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "ayameva hi te bandhaḥ samādhimanutiṣṭhasi||1|15||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.16"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tvayā vyāptamidaṃ viśvaṃ tvayi protaṃ yathārthataḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "śuddhabuddhasvarūpastvaṃ mā gamaḥ kṣudracittatām||1|16||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.17"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nirapekṣo nirvikāro nirbharaḥ śītalāśayaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "agādhabuddhirakṣubdho bhava cinmātravāsanaḥ||1|17||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.18"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "sākāramanṛtaṃ viddhi nirākāraṃ tu niścalam|"
+            },
+            {
+              "tag": "l",
+              "text": "etattattvopadeśena na punarbhavasaṃbhavaḥ||1|18||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.19"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yathaivādarśamadhyasthe rūpe+antaḥ paritastu saḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "tathaivā+asmiñcharīre+antaḥ paritaḥ parameśvaraḥ||1|19||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_1.20"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ekaṃ sarvagataṃ vyoma bahirantaryathā ghaṭe|"
+            },
+            {
+              "tag": "l",
+              "text": "nityaṃ nirantaraṃ brahma sarvabhūtagaṇe tathā||1|20||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "2"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 2"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "janaka uvāca||2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "aho nirañjanaḥ śānto bodho+ahaṃ prakṛteḥ paraḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "etāvantamahaṃ kālaṃ mohenaiva viḍambitaḥ||2|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yathā prakāśayāmyeko dehamenaṃ tathā jagat|"
+            },
+            {
+              "tag": "l",
+              "text": "ato mama jagatsarvamathavā na ca kiñcana||2|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "saśarīramaho viśvaṃ parityajya mayā+adhunā|"
+            },
+            {
+              "tag": "l",
+              "text": "kutaścitkauśalādeva paramātmā vilokyate||2|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yathā na toyato bhinnāstaraṅgāḥ phenabudbudāḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "ātmano na tathā bhinnaṃ viśvamātmavinirgatam||2|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tantumātro bhavedeva paṭo yadvadvicārataḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "ātmatanmātramevedaṃ tadvadviśvaṃ vicāritam||2|5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yathaivekṣurase kḷptā tena vyāptaiva śarkarā|"
+            },
+            {
+              "tag": "l",
+              "text": "tathā viśvaṃ mayi kḷptaṃ mayā vyāptaṃ nirantaram||2|6||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ātmājñānājjagadbhāti hātmajñānānna bhāsate|"
+            },
+            {
+              "tag": "l",
+              "text": "rajjvajñānādahirbhāti tajjñānādbhāsate na hi||2|7||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "prakāśo me nijaṃ rūpaṃ nātirikto+asmyahaṃ tataḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "yadā prakāśate viśvaṃ tadā+ahambhāsa eva hi||2|8||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "aho vikalpitaṃ viśvamajñānānmayi bhāsate|"
+            },
+            {
+              "tag": "l",
+              "text": "rūpyaṃ śuktau phaṇī rajjau vāri sūryakare yathā||2|9||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "matto vinirgataṃ viśvaṃ mayyeva layameṣyati|"
+            },
+            {
+              "tag": "l",
+              "text": "mṛdi kumbho jale vīciḥ kanake kaṭakaṃ yathā||2|10||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "aho ahaṃ namo mahyaṃ vināśo yasya nāsti me|"
+            },
+            {
+              "tag": "l",
+              "text": "brahmādistambaparyantaṃ jagannāśe+api tiṣṭhataḥ||2|11||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.12"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "aho ahaṃ namo mahyameko+ahaṃ dehavānapi|"
+            },
+            {
+              "tag": "l",
+              "text": "kvacinna gantā nāgantā vyāpya viśvamavasthitaḥ||2|12||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.13"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "aho ahaṃ namo mahyaṃ dakṣo nāstīha matsamaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "asaṃspṛśya śarīreṇa yena viśvaṃ ciraṃ dhṛtam||2|13||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.14"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "aho ahaṃ namo mahyaṃ yasya me nāsti kiñcana|"
+            },
+            {
+              "tag": "l",
+              "text": "athavā yasya me sarvaṃ yadvāṅmanasagocaram||2|14||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.15"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "jñānaṃ jñeyaṃ tathā jñātā tritayaṃ nāsti vāstavam|"
+            },
+            {
+              "tag": "l",
+              "text": "ajñānādbhāti yatredaṃ so+ahamasmi nirañjanaḥ||2|15||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.16"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "dvaitamūlamaho duḥkhaṃ nānyattasyā+asti bheṣajam|"
+            },
+            {
+              "tag": "l",
+              "text": "dṛśyametanmṛṣā sarvameko+ahaṃ cidraso+amalaḥ||2|16||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.17"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "bodhamātro+ahamajñānādupādhiḥ kalpito mayā|"
+            },
+            {
+              "tag": "l",
+              "text": "evaṃ vimṛśato nityaṃ nirvikalpe sthitirmama||2|17||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.18"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "aho mayi sthitaṃ viśvaṃ vastuto na mayi sthitam|"
+            },
+            {
+              "tag": "l",
+              "text": "na me bandho+asti mokṣo vā bhrāntiḥ śāntā nirāśrayā||2|18||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.19"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "saśarīramidaṃ viśvaṃ na kiñciditi niścitam|"
+            },
+            {
+              "tag": "l",
+              "text": "śuddhacinmātra ātmā ca tatkasminkalpanādhunā||2|19||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.20"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "śarīraṃ svarganarakau bandhamokṣau bhayaṃ tathā|"
+            },
+            {
+              "tag": "l",
+              "text": "kalpanāmātramevaitatkiṃ me kāryaṃ cidātmanaḥ||2|20||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.21"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "aho janasamūhe+api na dvaitaṃ paśyato mama|"
+            },
+            {
+              "tag": "l",
+              "text": "araṇyamiva saṃvṛttaṃ kva ratiṃ karavāṇyaham||2|21||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.22"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nāhaṃ deho na me deho jīvo nāhamahaṃ hi cit|"
+            },
+            {
+              "tag": "l",
+              "text": "ayameva hi me bandha āsīdyā jīvite spṛhā||2|22||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.23"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "aho bhuvanakallolairvicitrairdrāksamutthitam|"
+            },
+            {
+              "tag": "l",
+              "text": "mayyanantamahāmbhodhau cittavāte samudyate||2|23||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.24"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "mayyanantamahāmbhodhau cittavāte praśāmyati|"
+            },
+            {
+              "tag": "l",
+              "text": "abhāgyājjīvavaṇijo jagatpoto vinaśvaraḥ||2|24||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_2.25"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "mayyanantamahāmbhodhāvāścaryaṃ jīvavīcayaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "udyanti ghnanti khelanti praviśanti svabhāvataḥ||2|25||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "3"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 3"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "aṣṭāvakra uvāca||3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_3.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "avināśinamātmānamekaṃ vijñāya tattvataḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "tavātmajñānadhīrasya kathamarthārjane ratiḥ||3|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_3.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ātmā+ajñānādaho prītirviṣayabhramagocare|"
+            },
+            {
+              "tag": "l",
+              "text": "śukterajñānato lobho yathā rajatavibhrame||3|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_3.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "viśvaṃ sphurati yatredaṃ taraṅgā iva sāgare|"
+            },
+            {
+              "tag": "l",
+              "text": "so+ahamasmīti vijñāya kiṃ dīna iva dhāvasi||3|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_3.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "śrutvāpi śuddhacaitanyamātmānamatisundaram|"
+            },
+            {
+              "tag": "l",
+              "text": "upasthe+atyantasaṃsakto mālinyamadhigacchati||3|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_3.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "sarvabhūteṣu cātmānaṃ sarvabhūtāni cātmani|"
+            },
+            {
+              "tag": "l",
+              "text": "munerjānata āścaryaṃ mamatvamanuvartate||3|5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_3.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "āsthitaḥ paramādvaitaṃ mokṣārthe+api vyavasthitaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "āścaryaṃ kāmavaśago vikalaḥ keliśikṣayā||3|6||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_3.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "udbhūtaṃ jñānadurmitramavadhāryātidurbalaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "āścaryaṃ kāmamākāṅkṣetkālamantamanuśritaḥ||3|7||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_3.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ihāmutra viraktasya nityānityavivekinaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "āścaryaṃ mokṣakāmasya mokṣādeva vibhīṣikā||3|8||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_3.9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "dhīrastu bhojyamāno+api pīḍyamāno+api sarvadā|"
+            },
+            {
+              "tag": "l",
+              "text": "ātmānaṃ kevalaṃ paśyanna tuṣyati na kupyati||3|9||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_3.10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ceṣṭamānaṃ śarīraṃ svaṃ paśyatyanyaśarīravat|"
+            },
+            {
+              "tag": "l",
+              "text": "saṃstave cāpi nindāyāṃ kathaṃ kṣubhyenmahāśayaḥ||3|10||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_3.11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "māyāmātramidaṃ viśvaṃ paśyanvigatakautukaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "api sannihite mṛtyau kathaṃ trasyati dhīradhīḥ||3|11||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_3.12"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "niḥspṛhaṃ mānasaṃ yasya nairāśye+api mahātmanaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "tasyātmajñānatṛptasya tulanā kena jāyate||3|12||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_3.13"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "svabhāvādeva jānāno dṛśyametanna kiñcana|"
+            },
+            {
+              "tag": "l",
+              "text": "idaṃ grāhyamidaṃ tyājyaṃ sa kiṃ paśyati dhīradhīḥ||3|13||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_3.14"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "antastyaktakaṣāyasya nirdvandvasya nirāśiṣaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "yadṛcchayā+a+agato bhogo na duḥkhāya na tuṣṭaye||3|14||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "4"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 4"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "janaka uvāca||4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_4.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "hantātmajñasya dhīrasya khelato bhogalīlayā|"
+            },
+            {
+              "tag": "l",
+              "text": "na hi saṃsāravāhīkairmūḍhaiḥ saha samānatā||4|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_4.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yatpadaṃ prepsavo dīnāḥ śakrādyāḥ sarvadevatāḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "aho tatra sthito yogī na harṣamupagacchati||4|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_4.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tajjñasya puṇyapāpābhyāṃ sparśo hyantarna jāyate|"
+            },
+            {
+              "tag": "l",
+              "text": "na hyākāśasya dhūmena dṛśyamānā+api saṃgatiḥ||4|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_4.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ātmaivedaṃ jagatsarvaṃ jñātaṃ yena mahātmanā|"
+            },
+            {
+              "tag": "l",
+              "text": "yadṛcchayā vartamānaṃ taṃ niṣeddhuṃ kṣameta kaḥ||4|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_4.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ābrahmastambaparyante bhūtagrāme caturvidhe|"
+            },
+            {
+              "tag": "l",
+              "text": "vijñasyaiva hi sāmarthyamicchā+anicchāvivarjane||4|5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_4.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ātmānamadvayaṃ kaścijjānāti jagadīśvaram|"
+            },
+            {
+              "tag": "l",
+              "text": "yadvetti tatsa kurute na bhayaṃ tasya kutracit||4|6||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "5"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 5"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "aṣṭāvakra uvāca||5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_5.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na te saṅgo+asti kenāpi kiṃ śuddhastyaktumicchasi|"
+            },
+            {
+              "tag": "l",
+              "text": "saṅghātavilayaṃ kurvannevameva layaṃ vraja||5|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_5.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "udeti bhavato viśvaṃ vāridheriva budbudaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "iti jñātvaikamātmānamevameva layaṃ vraja||5|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_5.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "pratyakṣamapyavastutvādviśvaṃ nāstyamale tvayi|"
+            },
+            {
+              "tag": "l",
+              "text": "rajjusarpa iva vyaktamevameva layaṃ vraja||5|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_5.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "samaduḥkhasukhaḥ pūrṇa āśānairāśyayoḥ samaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "samajīvitamṛtyuḥ sannevameva layaṃ vraja||5|4||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "6"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 6"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "janaka uvāca||6||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_6.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ākāśavadananto+ahaṃ ghaṭavatprākṛtaṃ jagat|"
+            },
+            {
+              "tag": "l",
+              "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_6.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "mahodadhirivāhaṃ sa prapañco vīcisannibhaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_6.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ahaṃ sa śuktisaṃkāśo rūpyavadviśvakalpanā|"
+            },
+            {
+              "tag": "l",
+              "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_6.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ahaṃ vā sarvabhūteṣu sarvabhūtānyatho mayi|"
+            },
+            {
+              "tag": "l",
+              "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|4||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "7"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 7"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "janaka uvāca||7||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_7.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "mayyanantamahāmbhodhau viśvapota itastataḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "bhramati svāntavātena na mamāstyasahiṣṇutā||7|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_7.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "mayyanantamahāmbhodhau jagadvīciḥ svabhāvataḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "udetu vāstamāyātu na me vṛddhirna ca kṣatiḥ||7|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_7.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "mayyanantamahāmbhodhau viśvaṃ nāma vikalpanā|"
+            },
+            {
+              "tag": "l",
+              "text": "atiśānto nirākāra etadevāhamāsthitaḥ||7|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_7.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nātmā bhāveṣu no bhāvastatrānante nirañjane|"
+            },
+            {
+              "tag": "l",
+              "text": "ityasakto+aspṛhaḥ śānta etadevāhamāsthitaḥ||7|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_7.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "aho cinmātramevāhamindrajālopamaṃ jagat|"
+            },
+            {
+              "tag": "l",
+              "text": "ato mama kathaṃ kutra heyopādeyakalpanā||7|5||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "8"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 8"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "aṣṭāvakra uvāca||8||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_8.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tadā bandho yadā cittaṃ kiñcidvāñchati śocati|"
+            },
+            {
+              "tag": "l",
+              "text": "kiñcinmuñcati gṛhṇāti kiñciddhṛṣyati kupyati||8|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_8.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tadā muktiryadā cittaṃ na vāñchati na śocati|"
+            },
+            {
+              "tag": "l",
+              "text": "na muñcati na gṛhṇāti na hṛṣyati na kupyati||8|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_8.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tadā bandho yadā cittaṃ saktaṃ kāsvapi dṛṣṭiṣu|"
+            },
+            {
+              "tag": "l",
+              "text": "tadā mokṣo yadā cittamasaktaṃ sarvadṛṣṭiṣu||8|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_8.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yadā nāhaṃ tadā mokṣo yadāhaṃ bandhanaṃ tadā|"
+            },
+            {
+              "tag": "l",
+              "text": "matveti helayā kiñcinmā gṛhāṇa vimuñca mā||8|4||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "9"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 9"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "aṣṭāvakra uvāca||9||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_9.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kṛtākṛte ca dvandvāni kadā śāntāni kasya vā|"
+            },
+            {
+              "tag": "l",
+              "text": "evaṃ jñātveha nirvedādbhava tyāgaparo+avratī||9|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_9.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kasyāpi tāta dhanyasya lokaceṣṭāvalokanāt|"
+            },
+            {
+              "tag": "l",
+              "text": "jīvitecchā bubhukṣā ca bubhutsopaśamaṃ gatāḥ||9|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_9.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "anityaṃ sarvamevedaṃ tāpatritayadūṣitam|"
+            },
+            {
+              "tag": "l",
+              "text": "asāraṃ ninditaṃ heyamiti niścitya śāmyati||9|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_9.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ko+asau kālo vayaḥ kiṃ vā yatra dvandvāni no nṛṇām|"
+            },
+            {
+              "tag": "l",
+              "text": "tānyupekṣya yathāprāptavartī siddhimavāpnuyāt||9|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_9.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nānā mataṃ maharṣīṇāṃ sādhūnāṃ yogināṃ tathā|"
+            },
+            {
+              "tag": "l",
+              "text": "dṛṣṭvā nirvedamāpannaḥ ko na śāmyati mānavaḥ||9|5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_9.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kṛtvā mūrtiparijñānaṃ caitanyasya na kiṃ guruḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "nirvedasamatāyuktyā yastārayati saṃsṛteḥ||9|6||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_9.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "paśya bhūtavikārāṃstvaṃ bhūtamātrānyathārthataḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "tatkṣaṇādbandhanirmuktaḥ svarūpastho bhaviṣyasi||9|7||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_9.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "vāsanā eva saṃsāra iti sarvā vimuñca tāḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "tattyāgo vāsanātyāgātsthitiradya yathā tathā||9|8||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "10"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 10"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "aṣṭāvakra uvāca||10||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_10.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "vihāya vairiṇaṃ kāmamarthaṃ cānarthasaṃkulam|"
+            },
+            {
+              "tag": "l",
+              "text": "dharmamapyetayorhetuṃ sarvatrānādaraṃ kuru||10|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_10.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "svapnendrajālavatpaśya dināni trīṇi pañca vā|"
+            },
+            {
+              "tag": "l",
+              "text": "mitrakṣetradhanāgāradāradāyādisaṃpadaḥ||10|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_10.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yatra yatra bhavettṛṣṇā saṃsāraṃ viddhi tatra vai|"
+            },
+            {
+              "tag": "l",
+              "text": "prauḍhavairāgyamāśritya vītatṛṣṇaḥ sukhī bhava||10|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_10.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tṛṣṇāmātrātmako bandhastannāśo mokṣa ucyate|"
+            },
+            {
+              "tag": "l",
+              "text": "bhavāsaṃsaktimātreṇa prāptituṣṭirmuhurmuhuḥ||10|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_10.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tvamekaścetanaḥ śuddho jaḍaṃ viśvamasattathā|"
+            },
+            {
+              "tag": "l",
+              "text": "avidyāpi na kiñcitsā kā bubhutsā tathāpi te||10|5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_10.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "rājyaṃ sutāḥ kalatrāṇi śarīrāṇi sukhāni ca|"
+            },
+            {
+              "tag": "l",
+              "text": "saṃsaktasyāpi naṣṭāni tava janmani janmani||10|6||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_10.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "alamarthena kāmena sukṛtenāpi karmaṇā|"
+            },
+            {
+              "tag": "l",
+              "text": "ebhyaḥ saṃsārakāntāre na viśrāntamabhūnmanaḥ||10|7||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_10.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kṛtaṃ na kati janmāni kāyena manasā girā|"
+            },
+            {
+              "tag": "l",
+              "text": "duḥkhamāyāsadaṃ karma tadadyāpyuparamyatām||10|8||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "11"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 11"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "aṣṭāvakra uvāca||11||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_11.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "bhāvābhāvavikāraśca svabhāvāditi niścayī|"
+            },
+            {
+              "tag": "l",
+              "text": "nirvikāro gatakleśaḥ sukhenaivopaśāmyati||11|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_11.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "īśvaraḥ sarvanirmātā nehānya iti niścayī|"
+            },
+            {
+              "tag": "l",
+              "text": "antargalitasarvāśaḥ śāntaḥ kvāpi na sajjate||11|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_11.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "āpadaḥ saṃpadaḥ kāle daivādeveti niścayī|"
+            },
+            {
+              "tag": "l",
+              "text": "tṛptaḥ svasthendriyo nityaṃ na vāñchati na śocati||11|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_11.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "sukhaduḥkhe janmamṛtyū daivādeveti niścayī|"
+            },
+            {
+              "tag": "l",
+              "text": "sādhyādarśī nirāyāsaḥ kurvannapi na lipyate||11|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_11.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "cintayā jāyate duḥkhaṃ nānyatheheti niścayī|"
+            },
+            {
+              "tag": "l",
+              "text": "tayā hīnaḥ sukhī śāntaḥ sarvatra galitaspṛhaḥ||11|5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_11.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nāhaṃ deho na me deho bodho+ahamiti niścayī|"
+            },
+            {
+              "tag": "l",
+              "text": "kaivalyamiva saṃprāpto na smaratyakṛtaṃ kṛtam||11|6||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_11.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ābrahmastambaparyantamahameveti niścayī|"
+            },
+            {
+              "tag": "l",
+              "text": "nirvikalpaḥ śuciḥ śāntaḥ prāptāprāptavinirvṛtaḥ||11|7||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_11.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nānāścaryamidaṃ viśvaṃ na kiñciditi niścayī|"
+            },
+            {
+              "tag": "l",
+              "text": "nirvāsanaḥ sphūrtimātro na kiñcidiva śāmyati||11|8||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "12"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 12"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "janaka uvāca||12||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_12.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kāyakṛtyāsahaḥ pūrvaṃ tato vāgvistarāsahaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "atha cintāsahastasmādevamevāhamāsthitaḥ||12|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_12.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "prītyabhāvena śabdāderadṛśyatvena cātmanaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "vikṣepaikāgryahṛdaya evamevāhamāsthitaḥ||12|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_12.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "samādhyāsādivikṣiptau vyavahāraḥ samādhaye|"
+            },
+            {
+              "tag": "l",
+              "text": "evaṃ vilokya niyamamevamevāhamāsthitaḥ||12|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_12.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "heyopādeyavirahādevaṃ harṣaviṣādayoḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "abhāvādadya he brahmannevamevāhamāsthitaḥ||12|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_12.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "āśramānāśramaṃ dhyānaṃ cittasvīkṛtavarjanam|"
+            },
+            {
+              "tag": "l",
+              "text": "vikalpaṃ mama vīkṣyaitairevamevāhamāsthitaḥ||12|5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_12.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "karmānuṣṭhānamajñānādyathaivoparamastathā|"
+            },
+            {
+              "tag": "l",
+              "text": "budhvā samyagidaṃ tattvamevamevāhamāsthitaḥ||12|6||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_12.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "acintyaṃ cintyamāno+api cintārūpaṃ bhajatyasau|"
+            },
+            {
+              "tag": "l",
+              "text": "tyaktvā tadbhāvanaṃ tasmādevamevāhamāsthitaḥ||12|7||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_12.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "evameva kṛtaṃ yena sa kṛtārtho bhavedasau|"
+            },
+            {
+              "tag": "l",
+              "text": "evameva svabhāvo yaḥ sa kṛtārtho bhavedasau||12|8||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "13"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 13"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "janaka uvāca||13||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_13.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "akiñcanabhavaṃ svāsthyaṃ kaupīnatve+api durlabham|"
+            },
+            {
+              "tag": "l",
+              "text": "tyāgādāne vihāyāsmādahamāse yathāsukham||13|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_13.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kutrāpi khedaḥ kāyasya jihvā kutrāpi khidyate|"
+            },
+            {
+              "tag": "l",
+              "text": "manaḥ kutrāpi tattyaktvā puruṣārthe sthitaḥ sukham||13|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_13.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kṛtaṃ kimapi naiva syāditi saṃcintya tattvataḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "yadā yatkartumāyāti tatkṛtvā+a+ase yathāsukham||13|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_13.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "karmanaiṣkarmyanirbandhabhāvā dehasthayoginaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "saṃyogāyogavirahādahamāse yathāsukham||13|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_13.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "arthānarthau na me sthityā gatyā na śayanena vā|"
+            },
+            {
+              "tag": "l",
+              "text": "tiṣṭhangacchansvapantasmādahamāse yathāsukham||13|5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_13.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "svapato nāsti me hāniḥ siddhiryatnavato na vā|"
+            },
+            {
+              "tag": "l",
+              "text": "nāśollāsau vihāyāsmādahamāse yathāsukham||13|6||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_13.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "sukhādirūpā+aniyamaṃ bhāveṣvālokya bhūriśaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "śubhāśubhe vihāyāsmādahamāse yathāsukham||13|7||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "14"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 14"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "janaka uvāca||14||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_14.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "prakṛtyā śūnyacitto yaḥ pramādādbhāvabhāvanaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "nidrito bodhita iva kṣīṇasaṃsaraṇo hi saḥ||14|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_14.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva dhanāni kva mitrāṇi kva me viṣayadasyavaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "kva śāstraṃ kva ca vijñānaṃ yadā me galitā spṛhā||14|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_14.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "vijñāte sākṣipuruṣe paramātmani ceśvare|"
+            },
+            {
+              "tag": "l",
+              "text": "nairāśye bandhamokṣe ca na cintā muktaye mama||14|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_14.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "antarvikalpaśūnyasya bahiḥ svacchandacāriṇaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "bhrāntasyeva daśāstāstāstādṛśā eva jānate||14|4||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "15"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 15"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "aṣṭāvakra uvāca||15||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yathātathopadeśena kṛtārthaḥ sattvabuddhimān|"
+            },
+            {
+              "tag": "l",
+              "text": "ājīvamapi jijñāsuḥ parastatra vimuhyati||15|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "mokṣo viṣayavairasyaṃ bandho vaiṣayiko rasaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "etāvadeva vijñānaṃ yathecchasi tathā kuru||15|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "vāgmiprājñamahodyogaṃ janaṃ mūkajaḍālasam|"
+            },
+            {
+              "tag": "l",
+              "text": "karoti tattvabodho+ayamatastyakto bubhukṣubhiḥ||15|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na tvaṃ deho na te deho bhoktā kartā na vā bhavān|"
+            },
+            {
+              "tag": "l",
+              "text": "cidrūpo+asi sadā sākṣī nirapekṣaḥ sukhaṃ cara||15|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "rāgadveṣau manodharmau na manaste kadācana|"
+            },
+            {
+              "tag": "l",
+              "text": "nirvikalpo+asi bodhātmā nirvikāraḥ sukhaṃ cara||15|5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "sarvabhūteṣu cātmānaṃ sarvabhūtāni cātmani|"
+            },
+            {
+              "tag": "l",
+              "text": "vijñāya nirahaṃkāro nirmamastvaṃ sukhī bhava||15|6||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "viśvaṃ sphurati yatredaṃ taraṅgā iva sāgare|"
+            },
+            {
+              "tag": "l",
+              "text": "tattvameva na sandehaścinmūrte vijvaro bhava||15|7||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "śraddhatsva tāta śraddhatsva nātra mohaṃ kuruṣva bhoḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "jñānasvarūpo bhagavānātmā tvaṃ prakṛteḥ paraḥ||15|8||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "guṇaiḥ saṃveṣṭito dehastiṣṭhatyāyāti yāti ca|"
+            },
+            {
+              "tag": "l",
+              "text": "ātmā na gantā nāgantā kimenamanuśocasi||15|9||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "dehastiṣṭhatu kalpāntaṃ gacchatvadyaiva vā punaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "kva vṛddhiḥ kva ca vā hānistava cinmātrarūpiṇaḥ||15|10||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tvayyanantamahāmbhodhau viśvavīciḥ svabhāvataḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "udetu vā+astamāyātu na te vṛddhirna vā kṣatiḥ||15|11||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.12"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tāta cinmātrarūpo+asi na te bhinnamidaṃ jagat|"
+            },
+            {
+              "tag": "l",
+              "text": "ataḥ kasya kathaṃ kutra heyopādeyakalpanā||15|12||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.13"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ekasminnavyaye śānte cidākāśe+amale tvayi|"
+            },
+            {
+              "tag": "l",
+              "text": "kuto janma kuto karma kuto+ahaṃkāra eva ca||15|13||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.14"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yattvaṃ paśyasi tatraikastvameva pratibhāsase|"
+            },
+            {
+              "tag": "l",
+              "text": "kiṃ pṛthagbhāsate svarṇātkaṭakāṅgadanūpuram||15|14||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.15"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ayaṃ so+ahamayaṃ nāhaṃ vibhāgamiti saṃtyaja|"
+            },
+            {
+              "tag": "l",
+              "text": "sarvamātmeti niścitya niḥsaṃkalpaḥ sukhī bhava||15|15||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.16"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tavaivājñānato viśvaṃ tvamekaḥ paramārthataḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "tvatto+anyo nāsti saṃsārī nāsaṃsārī ca kaścana||15|16||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.17"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "bhrāntimātramidaṃ viśvaṃ na kiñciditi niścayī|"
+            },
+            {
+              "tag": "l",
+              "text": "nirvāsanaḥ sphūrtimātro na kiñcidiva śāmyati||15|17||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.18"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "eka eva bhavāmbhodhāvāsīdasti bhaviṣyati|"
+            },
+            {
+              "tag": "l",
+              "text": "na te bandho+asti mokṣo vā kṛtakṛtyaḥ sukhaṃ cara||15|18||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.19"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "mā saṃkalpavikalpābhyāṃ cittaṃ kṣobhaya cinmaya|"
+            },
+            {
+              "tag": "l",
+              "text": "upaśāmya sukhaṃ tiṣṭha svātmanyānandavigrahe||15|19||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_15.20"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tyajaiva dhyānaṃ sarvatra mā kiñciddhṛdi dhāraya|"
+            },
+            {
+              "tag": "l",
+              "text": "ātmā tvaṃ mukta evāsi kiṃ vimṛśya kariṣyasi||15|20||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "16"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 16"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "aṣṭāvakra uvāca||16||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_16.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ācakṣva śṛṇu vā tāta nānāśāstrāṇyanekaśaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "tathāpi na tava svāsthyaṃ sarvavismaraṇādṛte||16|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_16.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "bhogaṃ karma samādhiṃ vā kuru vijña tathāpi te|"
+            },
+            {
+              "tag": "l",
+              "text": "cittaṃ nirastasarvāśamatyarthaṃ rocayiṣyati||16|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_16.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "āyāsātsakalo duḥkhī nainaṃ jānāti kaścana|"
+            },
+            {
+              "tag": "l",
+              "text": "anenaivopadeśena dhanyaḥ prāpnoti nirvṛtim||16|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_16.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "vyāpāre khidyate yastu nimeṣonmeṣayorapi|"
+            },
+            {
+              "tag": "l",
+              "text": "tasyālasyadhurīṇasya sukhaṃ nā+anyasya kasyacit||16|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_16.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "idaṃ kṛtamidaṃ neti dvandvairmuktaṃ yadā manaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "dharmārthakāmamokṣeṣu nirapekṣaṃ tadā bhavet||16|5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_16.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "virakto viṣayadveṣṭā rāgī viṣayalolupaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "grahamokṣavihīnastu na virakto na rāgavān||16|6||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_16.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "heyopādeyatā tāvatsaṃsāraviṭapāṅkuraḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "spṛhā jīvati yāvadvai nirvicāradaśāspadam||16|7||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_16.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "pravṛttau jāyate rāgo nivṛttau dveṣa eva hi|"
+            },
+            {
+              "tag": "l",
+              "text": "nirdvandvo bālavaddhīmānevameva vyavasthitaḥ||16|8||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_16.9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "hātumicchati saṃsāraṃ rāgī duḥkhajihāsayā|"
+            },
+            {
+              "tag": "l",
+              "text": "vītarāgo hi nirduḥkhastasminnapi na khidyati||16|9||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_16.10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yasyābhimāno mokṣe+api dehe+api mamatā tathā|"
+            },
+            {
+              "tag": "l",
+              "text": "na ca jñānī na vā yogī kevalaṃ duḥkhabhāgasau||16|10||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_16.11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "haro yadyupadeṣṭā te hariḥ kamalajo+api vā|"
+            },
+            {
+              "tag": "l",
+              "text": "tathāpi na tava svāsthyaṃ sarvavismaraṇādṛte||16|11||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "17"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 17"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "aṣṭāvakra uvāca||17||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tena jñānaphalaṃ prāptaṃ yogābhyāsaphalaṃ tathā|"
+            },
+            {
+              "tag": "l",
+              "text": "tṛptaḥ svacchendriyo nityamekākī ramate tu yaḥ||17|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na kadācijjagatyasmiṃstattvajño hanta khidyati|"
+            },
+            {
+              "tag": "l",
+              "text": "yata ekena tenedaṃ pūrṇaṃ brahmāṇḍamaṇḍalam||17|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na jātu viṣayāḥ ke+api svārāmaṃ harṣayantyamī|"
+            },
+            {
+              "tag": "l",
+              "text": "sallakīpallavaprītamivebhaṃ nimbapallavāḥ||17|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yastu bhogeṣu bhukteṣu na bhavatyadhivāsitaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "abhukteṣu nirākāṅkṣī tādṛśo bhavadurlabhaḥ||17|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "bubhukṣuriha saṃsāre mumukṣurapi dṛśyate|"
+            },
+            {
+              "tag": "l",
+              "text": "bhogamokṣanirākāṅkṣī viralo hi mahāśayaḥ||17|5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "dharmārthakāmamokṣeṣu jīvite maraṇe tathā|"
+            },
+            {
+              "tag": "l",
+              "text": "kasyāpyudāracittasya heyopādeyatā na hi||17|6||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "vāñchā na viśvavilaye na dveṣastasya ca sthitau|"
+            },
+            {
+              "tag": "l",
+              "text": "yathājīvikayā tasmāddhanya āste yathāsukham||17|7||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kṛtārtho+anena jñānenetyevaṃ galitadhīḥ kṛtī|"
+            },
+            {
+              "tag": "l",
+              "text": "paśyañchṛṇvanspṛśañjighrannaśnannāste yathāsukham||17|8||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "śūnyā dṛṣṭirvṛthā ceṣṭā vikalānīndriyāṇi ca|"
+            },
+            {
+              "tag": "l",
+              "text": "na spṛhā na viraktirvā kṣīṇasaṃsārasāgare||17|9||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na jāgarti na nidrāti nonmīlati na mīlati|"
+            },
+            {
+              "tag": "l",
+              "text": "aho paradaśā kā+api vartate muktacetasaḥ||17|10||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "sarvatra dṛśyate svasthaḥ sarvatra vimalāśayaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "samastavāsanāmukto muktaḥ sarvatra rājate||17|11||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.12"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "paśyañchṛṇvanspṛśañjighrannaśnangṛhṇanvadanvrajan|"
+            },
+            {
+              "tag": "l",
+              "text": "īhitā+anīhitairmukto mukta eva mahāśayaḥ||17|12||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.13"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na nindati na ca stauti na hṛṣyati na kupyati|"
+            },
+            {
+              "tag": "l",
+              "text": "na dadāti na gṛhṇāti muktaḥ sarvatra nīrasaḥ||17|13||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.14"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "sānurāgāṃ striyaṃ dṛṣṭvā mṛtyuṃ vā samupasthitam|"
+            },
+            {
+              "tag": "l",
+              "text": "avihvalamanāḥ svastho mukta eva mahāśayaḥ||17|14||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.15"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "sukhe duḥkhe nare nāryāṃ saṃpatsu vipatsu ca|"
+            },
+            {
+              "tag": "l",
+              "text": "viśeṣo naiva dhīrasya sarvatra samadarśinaḥ||17|15||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.16"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na hiṃsā naiva kāruṇyaṃ nauddhatyaṃ na ca dīnatā|"
+            },
+            {
+              "tag": "l",
+              "text": "nāścaryaṃ naiva ca kṣobhaḥ kṣīṇasaṃsaraṇe nare||17|16||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.17"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na mukto viṣayadveṣṭā na vā viṣayalolupaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "asaṃsaktamanā nityaṃ prāptāprāptamupāśnute||17|17||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.18"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "samādhānāsamādhānahitāhitavikalpanāḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "śūnyacitto na jānāti kaivalyamiva saṃsthitaḥ||17|18||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.19"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nirmamo nirahaṃkāro na kiñciditi niścitaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "antargalitasarvāśaḥ kurvannapi na lipyate [ karoti na ]||17|19||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_17.20"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "manaḥprakāśasaṃmohasvapnajāḍyavivarjitaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "daśāṃ kāmapi saṃprāpto bhavedgalitamānasaḥ||17|20||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "18"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 18"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "aṣṭāvakra uvāca||18||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yasya bodhodaye tāvatsvapnavadbhavati bhramaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "tasmai sukhaikarūpāya namaḥ śāntāya tejase||18|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "arjayitvākhilānarthānbhogānāpnoti puṣkalān|"
+            },
+            {
+              "tag": "l",
+              "text": "na hi sarvaparityāgamantareṇa sukhī bhavet||18|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kartavyaduḥkhamārtaṇḍajvālādagdhāntarātmanaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "kutaḥ praśamapīyūṣadhārāsāramṛte sukham||18|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "bhavo+ayaṃ bhāvanāmātro na kiñcitparamārthataḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "nāstyabhāvaḥ svabhāvānāṃ bhāvābhāvavibhāvinām||18|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na dūraṃ na ca saṃkocāllabdhamevātmanaḥ padam|"
+            },
+            {
+              "tag": "l",
+              "text": "nirvikalpaṃ nirāyāsaṃ nirvikāraṃ nirañjanam||18|5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "vyāmohamātraviratau svarūpādānamātrataḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "vītaśokā virājante nirāvaraṇadṛṣṭayaḥ||18|6||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "samastaṃ kalpanāmātramātmā muktaḥ sanātanaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "iti vijñāya dhīro hi kimabhyasyati bālavat||18|7||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ātmā brahmeti niścitya bhāvābhāvau ca kalpitau|"
+            },
+            {
+              "tag": "l",
+              "text": "niṣkāmaḥ kiṃ vijānāti kiṃ brūte ca karoti kim||18|8||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ayaṃ so+ahamayaṃ nāhamiti kṣīṇā vikalpanā|"
+            },
+            {
+              "tag": "l",
+              "text": "sarvamātmeti niścitya tūṣṇīṃbhūtasya yoginaḥ||18|9||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na vikṣepo na caikāgryaṃ nātibodho na mūḍhatā|"
+            },
+            {
+              "tag": "l",
+              "text": "na sukhaṃ na ca vā duḥkhamupaśāntasya yoginaḥ||18|10||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "svārājye bhaikṣyavṛttau ca lābhālābhe jane vane|"
+            },
+            {
+              "tag": "l",
+              "text": "nirvikalpasvabhāvasya na viśeṣo+asti yoginaḥ||18|11||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.12"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva dharmaḥ kva ca vā kāmaḥ kva cārthaḥ kva vivekatā|"
+            },
+            {
+              "tag": "l",
+              "text": "idaṃ kṛtamidaṃ neti dvandvairmuktasya yoginaḥ||18|12||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.13"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kṛtyaṃ kimapi naivāsti na kā+api hṛdi rañjanā|"
+            },
+            {
+              "tag": "l",
+              "text": "yathā jīvanameveha jīvanmuktasya yoginaḥ||18|13||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.14"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva mohaḥ kva ca vā viśvaṃ kva taddhyānaṃ kva muktatā|"
+            },
+            {
+              "tag": "l",
+              "text": "sarvasaṃkalpasīmāyāṃ viśrāntasya mahātmanaḥ||18|14||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.15"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yena viśvamidaṃ dṛṣṭaṃ sa nāstīti karotu vai|"
+            },
+            {
+              "tag": "l",
+              "text": "nirvāsanaḥ kiṃ kurute paśyannapi na paśyati||18|15||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.16"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yena dṛṣṭaṃ paraṃ brahma so+ahaṃ brahmeti cintayet|"
+            },
+            {
+              "tag": "l",
+              "text": "kiṃ cintayati niścinto dvitīyaṃ yo na paśyati||18|16||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.17"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "dṛṣṭo yenātmavikṣepo nirodhaṃ kurute tvasau|"
+            },
+            {
+              "tag": "l",
+              "text": "udārastu na vikṣiptaḥ sādhyā+abhāvātkaroti kim||18|17||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.18"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "dhīro lokaviparyasto vartamāno+api lokavat|"
+            },
+            {
+              "tag": "l",
+              "text": "na samādhiṃ na vikṣepaṃ na lepaṃ svasya paśyati||18|18||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.19"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "bhāvābhāvavihīno yastṛpto nirvāsano budhaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "naiva kiñcitkṛtaṃ tena lokadṛṣṭyā vikurvatā||18|19||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.20"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "pravṛttau vā nivṛttau vā naiva dhīrasya durgrahaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "yadā yatkartumāyāti tatkṛtvā tiṣṭhataḥ sukham||18|20||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.21"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nirvāsano nirālambaḥ svacchando muktabandhanaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "kṣiptaḥ saṃskāravātena ceṣṭate śuṣkaparṇavat||18|21||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.22"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "asaṃsārasya tu kvāpi na harṣo na viṣādatā|"
+            },
+            {
+              "tag": "l",
+              "text": "sa śītalamanā nityaṃ videha iva rājate||18|22||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.23"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kutrāpi na jihāsāsti hāśā vāpi na kutracit|"
+            },
+            {
+              "tag": "l",
+              "text": "ātmārāmasya dhīrasya śītalācchatarātmanaḥ||18|23||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.24"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "prakṛtyā śūnyacittasya kurvato+asya yadṛcchayā|"
+            },
+            {
+              "tag": "l",
+              "text": "prākṛtasyeva dhīrasya na māno nāvamānatā||18|24||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.25"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kṛtaṃ dehena karmedaṃ na mayā śuddharūpiṇā|"
+            },
+            {
+              "tag": "l",
+              "text": "iti cintānurodhī yaḥ kurvannapi karoti na||18|25||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.26"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "atadvādīva kurute na bhavedapi bāliśaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "jīvanmuktaḥ sukhī śrīmānsaṃsarannapi śobhate||18|26||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.27"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nānāvicārasuśrānto dhīro viśrāntimāgataḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "na kalpate na jānāti na śṛṇoti na paśyati||18|27||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.28"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "asamādheravikṣepānna mumukṣurna cetaraḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "niścitya kalpitaṃ paśyanbrahmaivāste mahāśayaḥ||18|28||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.29"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yasyāntaḥ syādahaṃkāro na karoti karoti saḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "nirahaṃkāradhīreṇa na kiñcidakṛtaṃ kṛtam||18|29||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.30"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nodvignaṃ na ca santuṣṭamakartṛ spandavarjitam|"
+            },
+            {
+              "tag": "l",
+              "text": "nirāśaṃ gatasandehaṃ cittaṃ muktasya rājate||18|30||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.31"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nirdhyātuṃ ceṣṭituṃ vāpi yaccittaṃ na pravartate|"
+            },
+            {
+              "tag": "l",
+              "text": "nirnimittamidaṃ kintu nirdhyāyati viceṣṭate||18|31||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.32"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tattvaṃ yathārthamākarṇya mandaḥ prāpnoti mūḍhatām|"
+            },
+            {
+              "tag": "l",
+              "text": "athavā+a+ayāti saṃkocamamūḍhaḥ ko+api mūḍhavat||18|32||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.33"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ekāgratā nirodho vā mūḍhairabhyasyate bhṛśam|"
+            },
+            {
+              "tag": "l",
+              "text": "dhīrāḥ kṛtyaṃ na paśyanti suptavatsvapade sthitāḥ||18|33||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.34"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "aprayatnātprayatnādvā mūḍho nāpnoti nirvṛtim|"
+            },
+            {
+              "tag": "l",
+              "text": "tattvaniścayamātreṇa prājño bhavati nirvṛtaḥ||18|34||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.35"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "śuddhaṃ buddhaṃ priyaṃ pūrṇaṃ niṣprapañcaṃ nirāmayam|"
+            },
+            {
+              "tag": "l",
+              "text": "ātmānaṃ taṃ na jānanti tatrābhyāsaparā janāḥ||18|35||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.36"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nāpnoti karmaṇā mokṣaṃ vimūḍho+abhyāsarūpiṇā|"
+            },
+            {
+              "tag": "l",
+              "text": "dhanyo vijñānamātreṇa muktastiṣṭhatyavikriyaḥ||18|36||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.37"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "mūḍho nāpnoti tadbrahma yato bhavitumicchati|"
+            },
+            {
+              "tag": "l",
+              "text": "anicchannapi dhīro hi parabrahmasvarūpabhāk||18|37||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.38"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nirādhārā grahavyagrā mūḍhāḥ saṃsārapoṣakāḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "etasyānarthamūlasya mūlacchedaḥ kṛto budhaiḥ||18|38||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.39"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na śāntiṃ labhate mūḍho yataḥ śamitumicchati|"
+            },
+            {
+              "tag": "l",
+              "text": "dhīrastattvaṃ viniścitya sarvadā śāntamānasaḥ||18|39||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.40"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kvātmano darśanaṃ tasya yo dṛṣṭamavalambate|"
+            },
+            {
+              "tag": "l",
+              "text": "dhīrāstaṃ taṃ na paśyanti paśyantyātmānamavyayam||18|40||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.41"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva nirodho vimūḍhasya yo nirbandhaṃ karoti vai|"
+            },
+            {
+              "tag": "l",
+              "text": "svārāmasyaiva dhīrasya sarvadā+asāvakṛtrimaḥ||18|41||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.42"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "bhāvasya bhāvakaḥ kaścinna kiñcidbhāvako+aparaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "ubhayā+abhāvakaḥ kaścidevameva nirākulaḥ||18|42||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.43"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "śuddhamadvayamātmānaṃ bhāvayanti kubuddhayaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "na tu jānanti saṃmohādyāvajjīvamanirvṛtāḥ||18|43||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.44"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "mumukṣorbuddhirālambamantareṇa na vidyate|"
+            },
+            {
+              "tag": "l",
+              "text": "nirālambaiva niṣkāmā buddhirmuktasya sarvadā||18|44||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.45"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "viṣayadvīpino vīkṣya cakitāḥ śaraṇārthinaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "viśanti jhaṭiti kroḍaṃ nirodhaikāgryasiddhaye||18|45||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.46"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nirvāsanaṃ hariṃ dṛṣṭvā tūṣṇīṃ viṣayadantinaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "palāyante na śaktāste sevante kṛtacāṭavaḥ||18|46||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.47"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na muktikārikāṃ dhatte niḥśaṅko yuktamānasaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "paśyañchṛṇvanspṛśañjighrannaśnannāste yathāsukham||18|47||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.48"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "vastuśravaṇamātreṇa śuddhabuddhirnirākulaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "naivācāramanācāramaudāsyaṃ vā prapaśyati||18|48||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.49"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "yadā yatkartumāyāti tadā tatkurute hyṛju|"
+            },
+            {
+              "tag": "l",
+              "text": "śubhaṃ vāpyaśubhaṃ vāpi tasya ceṣṭā hi bālavat||18|49||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.50"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "svātantryātsukhamāpnoti svātantryāllabhate param|"
+            },
+            {
+              "tag": "l",
+              "text": "svātantryānnirvṛtiṃ gacchetsvātantryātparamaṃ padam||18|50||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.51"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "akartṛtvamabhoktṛtvaṃ svātmano manyate yadā|"
+            },
+            {
+              "tag": "l",
+              "text": "tadā kṣīṇā bhavantyeva samastāścittavṛttayaḥ||18|51||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.52"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ucchṛṅkhalāpyākṛtikā sthitirdhīrasya rājate|"
+            },
+            {
+              "tag": "l",
+              "text": "na tu saṃspṛhacittasya śāntirmūḍhasya kṛtrimā||18|52||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.53"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "vilasanti mahābhogairviśanti girigahvarān|"
+            },
+            {
+              "tag": "l",
+              "text": "nirastakalpanā dhīrā abaddhā muktabuddhayaḥ||18|53||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.54"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "śrotriyaṃ devatāṃ tīrthamaṅganāṃ bhūpatiṃ priyam|"
+            },
+            {
+              "tag": "l",
+              "text": "dṛṣṭvā saṃpūjya dhīrasya na kāpi hṛdi vāsanā||18|54||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.55"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "bhṛtyaiḥ putraiḥ kalatraiśca dauhitraiścāpi gotrajaiḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "vihasya dhikkṛto yogī na yāti vikṛtiṃ manāk||18|55||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.56"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "santuṣṭo+api na santuṣṭaḥ khinno+api na ca khidyate|"
+            },
+            {
+              "tag": "l",
+              "text": "tasyāścaryadaśāṃ tāṃ tāṃ tādṛśā eva jānate||18|56||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.57"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kartavyataiva saṃsāro na tāṃ paśyanti sūrayaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "śūnyākārā nirākārā nirvikārā nirāmayāḥ||18|57||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.58"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "akurvannapi saṃkṣobhādvyagraḥ sarvatra mūḍhadhīḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "kurvannapi tu kṛtyāni kuśalo hi nirākulaḥ||18|58||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.59"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "sukhamāste sukhaṃ śete sukhamāyāti yāti ca|"
+            },
+            {
+              "tag": "l",
+              "text": "sukhaṃ vakti sukhaṃ bhuṅkte vyavahāre+api śāntadhīḥ||18|59||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.60"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "svabhāvādyasya naivārtirlokavadvyavahāriṇaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "mahāhrada ivākṣobhyo gatakleśaḥ sa śobhate||18|60||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.61"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nivṛtterapi mūḍhasya pravṛttirupajāyate|"
+            },
+            {
+              "tag": "l",
+              "text": "pravṛttirapi dhīrasya nivṛttiphaladāyinī||18|61||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.62"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "parigraheṣu vairāgyaṃ prāyo mūḍhasya dṛśyate|"
+            },
+            {
+              "tag": "l",
+              "text": "dehe vigalitāśasya kva rāgaḥ kva virāgatā||18|62||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.63"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "bhāvanā+abhāvanāsaktā dṛṣṭirmūḍhasya sarvadā|"
+            },
+            {
+              "tag": "l",
+              "text": "bhāvyabhāvanayā sā tu svasthasyādṛṣṭirūpiṇī||18|63||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.64"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "sarvārambheṣu niṣkāmo yaścaredbālavanmuniḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "na lepastasya śuddhasya kriyamāṇe+api karmaṇi||18|64||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.65"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "sa eva dhanya ātmajñaḥ sarvabhāveṣu yaḥ samaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "paśyañchṛṇvanspṛśañjighrannaśnannistarṣamānasaḥ||18|65||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.66"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva saṃsāraḥ kva cābhāsaḥ kva sādhyaṃ kva ca sādhanam|"
+            },
+            {
+              "tag": "l",
+              "text": "ākāśasyeva dhīrasya nirvikalpasya sarvadā||18|66||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.67"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "sa jayatyarthasaṃnyāsī pūrṇasvarasavigrahaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "akṛtrimo+anavacchinne samādhiryasya vartate||18|67||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.68"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "bahunātra kimuktena jñātatattvo mahāśayaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "bhogamokṣanirākāṅkṣī sadā sarvatra nīrasaḥ||18|68||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.69"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "mahadādi jagaddvaitaṃ nāmamātravijṛmbhitam|"
+            },
+            {
+              "tag": "l",
+              "text": "vihāya śuddhabodhasya kiṃ kṛtyamavaśiṣyate||18|69||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.70"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "bhramabhūtamidaṃ sarvaṃ kiñcinnāstīti niścayī|"
+            },
+            {
+              "tag": "l",
+              "text": "alakṣyasphuraṇaḥ śuddhaḥ svabhāvenaiva śāmyati||18|70||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.71"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "śuddhasphuraṇarūpasya dṛśyabhāvamapaśyataḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "kva vidhiḥ kva ca vairāgyaṃ kva tyāgaḥ kva śamo+api vā||18|71||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.72"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "sphurato+anantarūpeṇa prakṛtiṃ ca na paśyataḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "kva bandhaḥ kva ca vā mokṣaḥ kva harṣaḥ kva viṣādatā||18|72||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.73"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "buddhiparyantasaṃsāre māyāmātraṃ vivartate|"
+            },
+            {
+              "tag": "l",
+              "text": "nirmamo nirahaṃkāro niṣkāmaḥ śobhate budhaḥ||18|73||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.74"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "akṣayaṃ gatasantāpamātmānaṃ paśyato muneḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "kva vidyā kva ca vā viśvaṃ kva deho+ahaṃ mameti vā||18|74||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.75"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nirodhādīni karmāṇi jahāti jaḍadhīryadi|"
+            },
+            {
+              "tag": "l",
+              "text": "manorathānpralāpāṃśca kartumāpnoti tatkṣaṇāt||18|75||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.76"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "mandaḥ śrutvāpi tadvastu na jahāti vimūḍhatām|"
+            },
+            {
+              "tag": "l",
+              "text": "nirvikalpo bahiryatnādantarviṣayalālasaḥ||18|76||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.77"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "jñānādgalitakarmā yo lokadṛṣṭyāpi karmakṛt|"
+            },
+            {
+              "tag": "l",
+              "text": "nāpnotyavasaraṃ kartuṃ vaktumeva na kiñcana||18|77||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.78"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva tamaḥ kva prakāśo vā hānaṃ kva ca na kiñcana|"
+            },
+            {
+              "tag": "l",
+              "text": "nirvikārasya dhīrasya nirātaṅkasya sarvadā||18|78||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.79"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva dhairyaṃ kva vivekitvaṃ kva nirātaṅkatā+api vā|"
+            },
+            {
+              "tag": "l",
+              "text": "anirvācyasvabhāvasya niḥsvabhāvasya yoginaḥ||18|79||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.80"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na svargo naiva narako jīvanmuktirna caiva hi|"
+            },
+            {
+              "tag": "l",
+              "text": "bahunātra kimuktena yogadṛṣṭyā na kiñcana||18|80||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.81"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "naiva prārthayate lābhaṃ nā+alābhamanuśocati|"
+            },
+            {
+              "tag": "l",
+              "text": "dhīrasya śītalaṃ cittamamṛtenaiva pūritam||18|81||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.82"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na śāntaṃ stauti niṣkāmo na duṣṭamapi nindati|"
+            },
+            {
+              "tag": "l",
+              "text": "samaduḥkhasukhastṛptaḥ kiñcitkṛtyaṃ na paśyati||18|82||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.83"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "dhīro na dveṣṭi saṃsāramātmānaṃ na didṛkṣati|"
+            },
+            {
+              "tag": "l",
+              "text": "harṣāmarṣavinirmukto na mṛto na ca jīvati||18|83||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.84"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "niḥsnehaḥ putradārādau niṣkāmo viṣayeṣu ca|"
+            },
+            {
+              "tag": "l",
+              "text": "niścintaḥ svaśarīre+api nirāśaḥ śobhate budhaḥ||18|84||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.85"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tuṣṭiḥ sarvatra dhīrasya yathāpatitavartinaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "svacchandaṃ carato deśānyatrā+astamitaśāyinaḥ||18|85||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.86"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "patatūdetu vā deho nāsya cintā mahātmanaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "svabhāvabhūmiviśrāntivismṛtāśeṣasaṃsṛteḥ||18|86||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.87"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "akiñcanaḥ kāmacāro nirdvandvaśchinnasaṃśayaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "asaktaḥ sarvabhāveṣu kevalo ramate budhaḥ||18|87||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.88"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "nirmamaḥ śobhate dhīraḥ samaloṣṭāśmakāñcanaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "subhinnahṛdayagranthirvinirdhūtarajastamāḥ||18|88||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.89"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "sarvatrānavadhānasya na kiñcidvāsanā hṛdi|"
+            },
+            {
+              "tag": "l",
+              "text": "muktātmano vitṛptasya tulanā kena jāyate||18|89||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.90"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "jānannapi na jānāti paśyannapi na paśyati|"
+            },
+            {
+              "tag": "l",
+              "text": "bruvannapi na ca brūte ko+anyo nirvāsanādṛte||18|90||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.91"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "bhikṣurvā bhūpatirvāpi yo niṣkāmaḥ sa śobhate|"
+            },
+            {
+              "tag": "l",
+              "text": "bhāveṣu galitā yasya śobhanā+aśobhanā matiḥ||18|91||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.92"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva svācchandyaṃ kva saṃkocaḥ kva vā tattvaviniścayaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "nirvyājārjavabhūtasya caritārthasya yoginaḥ||18|92||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.93"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "ātmaviśrāntitṛptena nirāśena gatārtinā|"
+            },
+            {
+              "tag": "l",
+              "text": "antaryadanubhūyeta tatkathaṃ kasya kathyate||18|93||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.94"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "supto+api na suṣuptau ca svapne+api śayito na ca|"
+            },
+            {
+              "tag": "l",
+              "text": "jāgare+api na jāgarti dhīrastṛptaḥ pade pade||18|94||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.96"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "jñaḥ sacinto+api niścintaḥ sendriyo+api nirindriyaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "sabuddhirapi nirbuddhiḥ sāhaṃkāro+anahaṃkṛtiḥ||18|95|||"
+            },
+            {
+              "tag": "l",
+              "text": "na sukhī na ca vā duḥkhī na virakto na saṅgavān|"
+            },
+            {
+              "tag": "l",
+              "text": "na mumukṣurna vā mukto na kiñcinna ca kiñcana||18|96||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.97"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "vikṣepe+api na vikṣiptaḥ samādhau na samādhimān|"
+            },
+            {
+              "tag": "l",
+              "text": "jāḍye+api na jaḍo dhanyaḥ pāṇḍitye+api na paṇḍitaḥ||18|97||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.98"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "mukto yathāsthitisvasthaḥ kṛtakartavyanirvṛtaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "samaḥ sarvatra vaitṛṣṇyānna smaratyakṛtaṃ kṛtam||18|98||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.99"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na prīyate vandyamāno nindyamāno na kupyati|"
+            },
+            {
+              "tag": "l",
+              "text": "naivodvijati maraṇe jīvane nābhinandati||18|99||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_18.100"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "na dhāvati janākīrṇaṃ nāraṇyamupaśāntadhīḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "yathātathā yatratatra sama evāvatiṣṭhate||18|100||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "19"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 19"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "janaka uvāca||19||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_19.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "tattvavijñānasandaṃśamādāya hṛdayodarāt|"
+            },
+            {
+              "tag": "l",
+              "text": "nānāvidhaparāmarśaśalyoddhāraḥ kṛto mayā||19|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_19.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva dharmaḥ kva ca vā kāmaḥ kva cārthaḥ kva vivekatā|"
+            },
+            {
+              "tag": "l",
+              "text": "kva dvaitaṃ kva ca vā+advaitaṃ svamahimni sthitasya me||19|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_19.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva bhūtaṃ kva bhaviṣyadvā vartamānamapi kva vā|"
+            },
+            {
+              "tag": "l",
+              "text": "kva deśaḥ kva ca vā nityaṃ svamahimni sthitasya me||19|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_19.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva cātmā kva ca vā+anātmā kva śubhaṃ kvāśubhaṃ tathā|"
+            },
+            {
+              "tag": "l",
+              "text": "kva cintā kva ca vā+acintā svamahimni sthitasya me||19|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_19.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva svapnaḥ kva suṣuptirvā kva ca jāgaraṇaṃ tathā|"
+            },
+            {
+              "tag": "l",
+              "text": "kva turīyaṃ bhayaṃ vā+api svamahimni sthitasya me||19|5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_19.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva dūraṃ kva samīpaṃ vā bāhyaṃ kvābhyantaraṃ kva vā|"
+            },
+            {
+              "tag": "l",
+              "text": "kva sthūlaṃ kva ca vā sūkṣmaṃ svamahimni sthitasya me||19|6||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_19.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva mṛtyurjīvitaṃ vā kva lokāḥ kvāsya kva laukikam|"
+            },
+            {
+              "tag": "l",
+              "text": "kva layaḥ kva samādhirvā svamahimni sthitasya me||19|7||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_19.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "alaṃ trivargakathayā yogasya kathayā+apyalam|"
+            },
+            {
+              "tag": "l",
+              "text": "alaṃ vijñānakathayā viśrāntasya mamātmani||19|8||"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "n": "20"
+      },
+      "children": [
+        {
+          "tag": "head",
+          "text": "Prakaraṇa 20"
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "janaka uvāca||20||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_20.1"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva bhūtāni kva deho vā kvendriyāṇi kva vā manaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "kva śūnyaṃ kva ca nairāśyaṃ matsvarūpe nirañjane||20|1||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_20.2"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva śāstraṃ kvātmavijñānaṃ kva vā nirviṣayaṃ manaḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "kva tṛptiḥ kva vitṛṣṇatvaṃ gatadvandvasya me sadā||20|2||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_20.3"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva vidyā kva ca vā+avidyā kvāhaṃ kvedaṃ mama kva vā|"
+            },
+            {
+              "tag": "l",
+              "text": "kva bandhaḥ kva ca vā mokṣaḥ svarūpasya kva rūpatā||20|3||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_20.4"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva prārabdhāni karmāṇi jīvanmuktirapi kva vā|"
+            },
+            {
+              "tag": "l",
+              "text": "kva tadvidehakaivalyaṃ nirviśeṣasya sarvadā||20|4||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_20.5"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva kartā kva ca vā bhoktā niṣkriyaṃ sphuraṇaṃ kva vā|"
+            },
+            {
+              "tag": "l",
+              "text": "kvāparokṣaṃ phalaṃ vā kva niḥsvabhāvasya me sadā||20|5||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_20.6"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva lokaṃ kva mumukṣurvā kva yogī jñānavānkva vā|"
+            },
+            {
+              "tag": "l",
+              "text": "kva baddhaḥ kva ca vā muktaḥ svasvarūpe+ahamadvaye||20|6||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_20.7"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva sṛṣṭiḥ kva ca saṃhāraḥ kva sādhyaṃ kva ca sādhanam|"
+            },
+            {
+              "tag": "l",
+              "text": "kva sādhakaḥ kva siddhirvā svasvarūpe+ahamadvaye||20|7||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_20.8"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva pramātā pramāṇaṃ vā kva prameyaṃ kva ca pramā|"
+            },
+            {
+              "tag": "l",
+              "text": "kva kiñcitkva na kiñcidvā sarvadā vimalasya me||20|8||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_20.9"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva vikṣepaḥ kva caikāgryaṃ kva nirbodhaḥ kva mūḍhatā|"
+            },
+            {
+              "tag": "l",
+              "text": "kva harṣaḥ kva viṣādo vā sarvadā niṣkriyasya me||20|9||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_20.10"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva caiṣa vyavahāro vā kva ca sā paramārthatā|"
+            },
+            {
+              "tag": "l",
+              "text": "kva sukhaṃ kva ca vā duḥkhaṃ nirvimarśasya me sadā||20|10||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_20.11"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva māyā kva ca saṃsāraḥ kva prītirviratiḥ kva vā|"
+            },
+            {
+              "tag": "l",
+              "text": "kva jīvaḥ kva ca tadbrahma sarvadā vimalasya me||20|11||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_20.12"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva pravṛttirnivṛttirvā kva muktiḥ kva ca bandhanam|"
+            },
+            {
+              "tag": "l",
+              "text": "kūṭasthanirvibhāgasya svasthasya mama sarvadā||20|12||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_20.13"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kvopadeśaḥ kva vā śāstraṃ kva śiṣyaḥ kva ca vā guruḥ|"
+            },
+            {
+              "tag": "l",
+              "text": "kva cāsti puruṣārtho vā nirupādheḥ śivasya me||20|13||"
+            }
+          ]
+        },
+        {
+          "tag": "lg",
+          "attributes": {
+            "id": "verse_20.14"
+          },
+          "children": [
+            {
+              "tag": "l",
+              "text": "kva cāsti kva ca vā nāsti kvāsti caikaṃ kva ca dvayam|"
+            },
+            {
+              "tag": "l",
+              "text": "bahunā+atra kimuktena kiñcinnottiṣṭhate mama||20|14||"
+            }
+          ]
+        },
+        {
+          "tag": "trailer",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "bold"
+              },
+              "text": "||iti śrīmadaṣṭāvakragītā||"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,978 @@
+{
+  "file_title": "jitari-nairatmyasiddhi",
+  "file_title_normal": "jitari-nairatmyasiddhi",
+  "metadata": {
+    "document_id": "jitāri-nairātmyasiddhi",
+    "header_language": "en",
+    "titles": [
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "Nairātmyasiddhi"
+          }
+        ],
+        "text": "Nairātmyasiddhi",
+        "type": "main"
+      }
+    ],
+    "original_title": "Nairātmyasiddhi",
+    "authors": [
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "Jitāri"
+          }
+        ],
+        "name": "Jitāri"
+      }
+    ],
+    "author": "Jitāri",
+    "principal": {
+      "person_name": "Birgit Kellner"
+    },
+    "contributors": [
+      {
+        "responsibility": "data entry by",
+        "name": "Aurorachana, Auroville",
+        "name_attributes": {
+          "key": "aurorachana"
+        }
+      },
+      {
+        "id": "sarit-encoder-nāsi",
+        "responsibility": "prepared for SARIT by",
+        "name": "Liudmila Olalde",
+        "name_attributes": {
+          "ref": "https://viaf.org/viaf/308710472/"
+        }
+      }
+    ],
+    "funder": {
+      "type": "funder",
+      "content": [
+        {
+          "type": "text",
+          "value": "German Research Foundation (DFG); Project \"SARIT: Enriching Digital Text Collections in Indology\" (Bilalteral Digital Humanities Programme DFG/NEH), 2013-2017"
+        }
+      ]
+    },
+    "publication": {
+      "publisher": {
+        "type": "publisher",
+        "content": [
+          {
+            "type": "text",
+            "value": "\"Project SARIT: Enriching Digital Text Collections in Indology\" (Bilalteral Digital Humanities Programme DFG/NEH), 2013-2017."
+          }
+        ]
+      },
+      "date": {
+        "text": "2016"
+      },
+      "availability": {
+        "status": "restricted",
+        "license_declaration": {
+          "content": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Distributed under a"
+                },
+                {
+                  "type": "ref",
+                  "attributes": {
+                    "target": "https://creativecommons.org/licenses/by-sa/4.0/"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Creative Commons Attribution-ShareAlike 4.0 International licence."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "Under this licence, you are free to:"
+                }
+              ],
+              "text": "Distributed under a Creative Commons Attribution-ShareAlike 4.0 International licence. Under this licence, you are free to:"
+            },
+            {
+              "type": "list",
+              "items": [
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Share — copy and redistribute the material in any medium or format."
+                    }
+                  ]
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Adapt — remix, transform, and build upon the material for any purpose, even commercially."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "The licensor cannot revoke these freedoms as long as you follow the license terms."
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Under the following terms:"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use."
+                    }
+                  ]
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "More information and fuller details of this license are given on the Creative Commons website."
+                }
+              ]
+            }
+          ],
+          "text": "Distributed under a Creative Commons Attribution-ShareAlike 4.0 International licence. Under this licence, you are free to:\n\t    Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.\n\t    The licensor cannot revoke these freedoms as long as you follow the license terms.\n\t    Under the following terms:\n\t    Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\n\t      ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n\t    More information and fuller details of this license are given on the Creative Commons website."
+        },
+        "full_description": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Copyright Notice:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Copyright 2016-2018 SARIT"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "SARIT assumes no responsibility for unauthorised use that infringes the\n\t  rights of any copyright owners, known or unknown."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "sources": [
+      {
+        "type": "biblStruct",
+        "id": "nāsi-buehnemann-1982",
+        "full_text_concat": "Nairātmyasiddhi\n\t    Jitāri\n\t  Jitāri: Kleine Texte\n\t    Jitāri\n\t    Gudrun Bühnemann\n\t    Arbeitskreis für tibetische und buddhisitsche Studien Universität Wien\n\t      Wien\n\t      1982\n\t      29\n\t  Wiener Studien zur Tibetologie und Buddhismskunde\n\t    8\n\t  Kleine Texte is an edition of: Vedāprāmāṇyasiddhi, Sarvajñasiddhi, Nairātmyasiddhi, Jātinirākṛti, and *Īśvaravādimataparīkṣa. Bühneman's edition is based on the manuscript described below.",
+        "notes": [
+          {
+            "type": "note",
+            "content": [
+              {
+                "type": "title",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Kleine Texte"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "is an edition of:"
+              },
+              {
+                "type": "title",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Vedāprāmāṇyasiddhi"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ","
+              },
+              {
+                "type": "title",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Sarvajñasiddhi"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ","
+              },
+              {
+                "type": "title",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Nairātmyasiddhi"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ","
+              },
+              {
+                "type": "title",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Jātinirākṛti"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ", and"
+              },
+              {
+                "type": "title",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "*Īśvaravādimataparīkṣa"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ". Bühneman's edition is based on the manuscript described below."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "encoding_description": {
+      "description_paragraphs": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Line breaks: In the source file, there were two types of line breaks: returns (and possible surrounding space) and hyphens+returns. These were replaced with lb-elements. The ed-attribute \"gb\" refers to Bühnemann's"
+                    },
+                    {
+                      "type": "ref",
+                      "attributes": {
+                        "target": "#nāsi-buehnemann-1982"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "1982 edition"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "."
+                    }
+                  ],
+                  "text": "Line breaks: In the source file, there were two types of line breaks: returns (and possible surrounding space) and hyphens+returns. These were replaced with lb-elements. The ed-attribute \"gb\" refers to Bühnemann's 1982 edition."
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "The glass plate numbers were encoded as pb-elements with the edRef-attribute \"#nāsi-ms\"."
+                    }
+                  ]
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "The variant readings in the footnotes were enclosed in a"
+                    },
+                    {
+                      "type": "egXML",
+                      "content": [
+                        {
+                          "type": "q",
+                          "attributes": {
+                            "type": "variant"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "."
+                    }
+                  ],
+                  "text": "The variant readings in the footnotes were enclosed in a ."
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "References were enclosed in a ref-element."
+                    }
+                  ]
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Square brackets were encoded as"
+                    },
+                    {
+                      "type": "gi",
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "surplus"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": ". This follows"
+                    },
+                    {
+                      "type": "ref",
+                      "attributes": {
+                        "target": "#nāsi-buehnemann-1982"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Bühnemann 1982"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "p. 48:"
+                    },
+                    {
+                      "type": "q",
+                      "attributes": {
+                        "lang": "de"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "[ ] auszulassen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "."
+                    }
+                  ],
+                  "text": "Square brackets were encoded as surplus. This follows Bühnemann 1982 p. 48: [ ] auszulassen."
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Angle brackets were encoded as"
+                    },
+                    {
+                      "type": "gi",
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "supplied"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": ". This \tfollows"
+                    },
+                    {
+                      "type": "ref",
+                      "attributes": {
+                        "target": "#nāsi-buehnemann-1982"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Bühnemann 1982"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "p. 48:"
+                    },
+                    {
+                      "type": "q",
+                      "attributes": {
+                        "lang": "de"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "< > zu ergänzen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "."
+                    }
+                  ],
+                  "text": "Angle brackets were encoded as supplied. This \tfollows Bühnemann 1982 p. 48: < > zu ergänzen."
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "The footnotes were encoded as note-elements with their corresponding n-attribute. The footnote references were replaced with the corresponding note. Line breaks in the notes have been removed"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "revisions": [
+      {
+        "who": "https://viaf.org/viaf/308710472/",
+        "when": "2017-03-25",
+        "description_content": [
+          {
+            "type": "text",
+            "value": "For a complete history of the changes in this file go to"
+          },
+          {
+            "type": "ref",
+            "attributes": {
+              "target": "https://github.com/sarit/SARIT-corpus/commits/master/jitari-nairatmyasiddhi.xml"
+            },
+            "content": [
+              {
+                "type": "text",
+                "value": "SARIT GitHub Repository"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "."
+          }
+        ],
+        "description_text_summary": "For a complete history of the changes in this file go to SARIT GitHub Repository."
+      }
+    ]
+  },
+  "body": [
+    {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "pb",
+          "attributes": {
+            "ed": "gb",
+            "n": "29"
+          }
+        },
+        {
+          "tag": "head",
+          "text": "Nairātmyasiddhi"
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "pb",
+          "attributes": {
+            "edRef": "nāsi-ms",
+            "n": "IB.2.7.5"
+          }
+        },
+        {
+          "tag": "epigraph",
+          "children": [
+            {
+              "tag": "p",
+              "text": "namo buddhāya |"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "yasya yena saha kaścit pratibandho nāsti",
+          "children": [
+            {
+              "tag": "surplus",
+              "attributes": {
+                "resp": "#nāsi-bue"
+              },
+              "text": "|"
+            },
+            {
+              "t": "text",
+              "text": "na sa tena ta"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "d"
+            },
+            {
+              "tag": "supplied",
+              "attributes": {
+                "resp": "#nāsi-bue"
+              },
+              "text": "v"
+            },
+            {
+              "t": "text",
+              "text": "ān | tad yathā himālayo malayena |"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "na sthirātmanā saha kaścit saṃbandho jīvaccharīrasya"
+            },
+            {
+              "tag": "supplied",
+              "attributes": {
+                "resp": "#nāsi-bue"
+              },
+              "text": "i"
+            },
+            {
+              "t": "text",
+              "text": "ti"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "vyāpakānupalabdhiḥ"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "nāyam asiddho hetuḥ | yataḥ saṃbandho bhavan tādātmyaṃ tadu"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "tpattir vā bhāvet | na ca tādātmyam ātmaśarīrayoḥ | śarīrasyā"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "nityādirūpa"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "edRef": "#nāsi-ms",
+                "n": "IA.2.7"
+              }
+            },
+            {
+              "t": "text",
+              "text": "tvāt | tadviparītasyātmano abhyupetatvāt |"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "nāpi tadutpattir nityasyātmanaḥ śarīra-utpattyayogāt"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "29-1",
+                "lang": "de"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "Lies",
+                  "children": [
+                    {
+                      "tag": "q",
+                      "attributes": {
+                        "type": "variant",
+                        "lang": "sa-Latn"
+                      },
+                      "text": "śarīrād ut°"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "| ni"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "tyātmano vā śarīrasya |"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "saṃyogalakṣaṇas tayoḥ saṃbandha iti cet |"
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "tenaiva saha tayoḥ",
+          "children": [
+            {
+              "tag": "surplus",
+              "attributes": {
+                "resp": "#nāsi-bue"
+              },
+              "text": "|"
+            },
+            {
+              "t": "text",
+              "text": "kaḥ saṃbandhaḥ |"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "samavāya iti cet |"
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "tenāpi saha teṣāṃ kaḥ saṃbandhaḥ",
+          "children": [
+            {
+              "tag": "supplied",
+              "attributes": {
+                "resp": "#nāsi-bue"
+              },
+              "text": "|"
+            },
+            {
+              "t": "text",
+              "text": "saṃbandhāntaropagame"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "anavasthā | anabhyupagame na teṣāṃ samavāyaḥ | tathā cātma"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "śarīrayoḥ saṃbandhāntaraparikalpane 'py a"
+            },
+            {
+              "tag": "supplied",
+              "attributes": {
+                "resp": "#nāsi-bue"
+              },
+              "text": "ya"
+            },
+            {
+              "t": "text",
+              "text": "m eva dṛṣṭānta"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "iti nāsya hetor asiddhiḥ |"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "viruddhatāpy asya nāsti | sapakṣe bhāvāt |"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "anaikāntikatāpi"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "29-2",
+                "lang": "de"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "children": [
+                    {
+                      "tag": "q",
+                      "attributes": {
+                        "type": "variant",
+                        "lang": "sa-Latn"
+                      },
+                      "text": "anaikantikātayāpi"
+                    },
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#nāsi-ms"
+                      },
+                      "text": "MS"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "nopadṛśyate | tadvattvavyavahārasya naimi"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "ttikasya"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "29-3",
+                "lang": "de"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "children": [
+                    {
+                      "tag": "q",
+                      "attributes": {
+                        "type": "variant",
+                        "lang": "sa-Latn"
+                      },
+                      "text": "naimitta°"
+                    },
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#nāsi-ms"
+                      },
+                      "text": "MS"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "saṃbandhanibandhanatvena vyāptatvāt | saṃbandhābhā"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "ve 'pi tadvattvavyavahāre niyataviṣayatvābhāvaprasaṅgād iti"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "sthitam |"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "trailer",
+          "text": "nairātmyasiddhiḥ samāpta ||"
+        }
+      ]
+    }
+  ]
+}

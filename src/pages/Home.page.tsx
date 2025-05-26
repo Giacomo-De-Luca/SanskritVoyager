@@ -14,7 +14,7 @@ import classes from './HomePage.module.css';
 import { UiSwitch } from '@/components/HeaderSearch';
 import DictionarySelectComponent from '@/components/DictionarySelect';
 import BookSelect from '@/components/BookSelect';
-import ClickableSimpleBooks from '@/components/ClickableSimpleBooks';
+import ClickableSimpleBooks from '@/components/ClickableBooks/ClickableSimpleBooks';
 import ClickableWords from '@/components/ClickableWords';
 import { WordEntry, GroupedEntries } from '../types/wordTypes';
 import { BookText, TextElement } from '../types/bookTypes';

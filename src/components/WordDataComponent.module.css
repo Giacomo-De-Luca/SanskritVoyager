@@ -1,265 +1,265 @@
 .wordComponents {
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    font-size: var(--mantine-font-size-sm);
-    color: light-dark(var(--mantine-color-pink-2), var(--mantine-color-pink-2));
-    padding: var(--mantine-spacing-xs) var(--mantine-spacing-sm);
-    border-radius: var(--mantine-radius-sm);
-    font-weight: 400;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-size: var(--mantine-font-size-sm);
+  color: light-dark(var(--mantine-color-pink-2), var(--mantine-color-pink-2));
+  padding: var(--mantine-spacing-xs) var(--mantine-spacing-sm);
+  border-radius: var(--mantine-radius-sm);
+  font-weight: 400;
 }
 
 
 .wordCostituentsContainer {
 
-    margin-top: 0;
-    margin-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 
-    padding-top: 0rem;
-    padding-bottom: 1rem;
+  padding-top: 0rem;
+  padding-bottom: 1rem;
 }
 
 .wordCostituentsContainerShort {
 
-    margin-top: 0;
-    margin-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 
-    padding-top: 0rem;
-    padding-bottom: 1rem;
-    border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
 
-    
+  
 }
 
 
 .word-display {
-    max-width: 32rem;
-    padding: 2rem;
-    font-family: 'Inter', sans-serif;
+  max-width: 32rem;
+  padding: 2rem;
+  font-family: 'Inter', sans-serif;
 }
 
-  .word-display > * + * {
-    margin-top: 1.5rem;
+.word-display > * + * {
+  margin-top: 1.5rem;
 }
 
 .dictName {
-    font-family: 'LibertinusSans', sans-serif;
-    font-size: 1.2rem;
-    font-weight: 500;
-    letter-spacing: -0.02em;
-    margin-bottom: 0rem;
-    text-indent: 0%; /* Indent the first line by 10% of the containing block's width */
-    padding-bottom: 1rem;
-    border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6)); 
-    padding-top: 1rem;
-    border-top: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
-    color:light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-4)); /* Use var() to reference a CSS variable */
+  font-family: 'LibertinusSans', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  margin-bottom: 0rem;
+  text-indent: 0%; /* Indent the first line by 10% of the containing block's width */
+  padding-bottom: 1rem;
+  border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6)); 
+  padding-top: 1rem;
+  border-top: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
+  color:light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-4)); /* Use var() to reference a CSS variable */
 
 
 }
-  
+
 .wordName {
-    font-family: 'LibertinusSans', sans-serif;
-    font-size: 1.2rem;
-    font-weight: 500;
-    letter-spacing: -0.02em;
-    margin-bottom: 1rem;
-    
+  font-family: 'LibertinusSans', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  margin-bottom: 1rem;
+  
 }
 .mainWord {
-    font-family: 'LibertinusSans', sans-serif;
-    font-size: 2.5rem;
-    font-weight: 400;
-    letter-spacing: -0.02em;
-    padding-bottom: 0rem;
-    padding-top: 2.5rem;
-    scroll-margin-top: 1rem;
-    margin-top: 0px !important;
-    margin-bottom: 1.3rem !important;
-    line-height: 1.2;
-    scroll-margin-top: 0px;
+  font-family: 'LibertinusSans', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  padding-bottom: 0rem;
+  padding-top: 2.5rem;
+  scroll-margin-top: 1rem;
+  margin-top: 0px !important;
+  margin-bottom: 1.3rem !important;
+  line-height: 1.2;
+  scroll-margin-top: 0px;
 
 
 }
 
 .pronunciation {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 1.2rem;
-    color: var(--mantine-color-gray-6);
-    margin-bottom: 1rem;
-    margin-top: 0; /* Ensure no margin at the top */
-    padding-top: 0; /* Ensure no padding at the top */
-    text-indent: 1%;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 1.2rem;
+  color: var(--mantine-color-gray-6);
+  margin-bottom: 1rem;
+  margin-top: 0; /* Ensure no margin at the top */
+  padding-top: 0; /* Ensure no padding at the top */
+  text-indent: 1%;
 
 
 }
 
 .pronunciation:hover {
-    text-decoration: underline;
-    color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-4));
+  text-decoration: underline;
+  color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-4));
 }
 
 .etymologySection {
-    display: flex;
-    align-items: baseline;
-    gap: 0.5rem;
-    padding-bottom: 0.5rem;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 .etymologyLabel {
-    font-size: 0.7rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--mantine-color-gray-5);
-    font-family: 'Inter', sans-serif;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--mantine-color-gray-5);
+  font-family: 'Inter', sans-serif;
 }
 
 .etymologyTerm {
-    font-family: 'LibertinusSans', sans-serif;
-    font-size: 1.2rem;
-    font-style: italic;
+  font-family: 'LibertinusSans', sans-serif;
+  font-size: 1.2rem;
+  font-style: italic;
 }
 
 .grammarSection {
-    font-size: 1.1rem;
-    padding-top: 1rem;
-    border-top: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
-    padding-bottom: 1rem;
-    margin-bottom: 0rem;
-    border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
-    }
-
-
-
-.grammarDetail {
-    font-style: italic;
-    color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-5));
-    /*font-family: 'LibertinusSans', sans-serif;*/
-    padding-bottom: 0rem;
-    margin-bottom: 0.0rem;
-    margin-top: 0rem;
-    padding-top: 0rem;
-    text-transform: lowercase;
-
-}
-
-.grammarDetailEmpty {
-    border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
-    display: inline-block; /* Ensure the border is as long as the content */
-    padding-bottom: 0.5rem; /* Less padding when empty */
-    margin-bottom: 0.6rem;
-    width: 100%; /* Make the border span the full width of the div */
-    margin-top: 0rem;
-    padding-top: 0rem;
-
-
+  font-size: 1.1rem;
+  padding-top: 1rem;
+  border-top: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
+  padding-bottom: 1rem;
+  margin-bottom: 0rem;
+  border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
   }
 
 
 
-.vocabularySection {
-    padding-top: 1rem;
-    font-weight: 500;
-    color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-5));
+.grammarDetail {
+  font-style: italic;
+  color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-5));
+  /*font-family: 'LibertinusSans', sans-serif;*/
+  padding-bottom: 0rem;
+  margin-bottom: 0.0rem;
+  margin-top: 0rem;
+  padding-top: 0rem;
+  text-transform: lowercase;
 
-    letter-spacing: 0.01em;
-    padding-bottom: 0rem;
-    /*border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6)); */
-    margin-top: 0;
-    margin-bottom: 0;
-    
-    
+}
+
+.grammarDetailEmpty {
+  border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
+  display: inline-block; /* Ensure the border is as long as the content */
+  padding-bottom: 0.5rem; /* Less padding when empty */
+  margin-bottom: 0.6rem;
+  width: 100%; /* Make the border span the full width of the div */
+  margin-top: 0rem;
+  padding-top: 0rem;
+
+
+}
+
+
+
+.vocabularySection {
+  padding-top: 1rem;
+  font-weight: 500;
+  color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-5));
+
+  letter-spacing: 0.01em;
+  padding-bottom: 0rem;
+  /*border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6)); */
+  margin-top: 0;
+  margin-bottom: 0;
+  
+  
 
 }
 
 .vocabularyWrapper {
 
-        border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6)); 
-        padding-bottom: 0rem;
+      border-bottom: 1px solid light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6)); 
+      padding-bottom: 0rem;
 
 }
- 
 
 
 
+
+
+
+/* Add this if you want to animate the table appearance */
+.inflectionTableWrapper {
+  opacity: 0;
+  transform: translateY(-10px);
+  animation: slideDown 0.2s ease forwards;
+}
+
+@keyframes slideDown {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+.grammarMain {
+  color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-4));
+  margin-bottom: 0.75rem;
+  margin-top: 0rem;
+  /* font-family: 'Optima', sans-serif; da qui in poi vedi sono dubbi*/
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  gap: 0.5rem; /* Ensures consistent spacing between text and icon */
 
   
-  /* Add this if you want to animate the table appearance */
-  .inflectionTableWrapper {
-    opacity: 0;
-    transform: translateY(-10px);
-    animation: slideDown 0.2s ease forwards;
-  }
-  
-  @keyframes slideDown {
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-
-  .grammarMain {
-    color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-4));
-    margin-bottom: 0.75rem;
-    margin-top: 0rem;
-    /* font-family: 'Optima', sans-serif; da qui in poi vedi sono dubbi*/
-    position: relative;
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    width: 100%;
-    gap: 0.5rem; /* Ensures consistent spacing between text and icon */
-
-    
 }
 
 .grammarMainIndeclinable {
-    color: light-dark(var(--mantine-color-red-4), var(--mantine-color-red-4));
-    margin-bottom: 0rem;
-    margin-top: 0;
-    padding-top: 0;
-    /* font-family: 'Optima', sans-serif; qui uguale è un po' un patchwork*/
-    position: relative;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    align-items: flex-start;
-    gap: 0.5rem; /* Ensures consistent spacing between text and icon */
+  color: light-dark(var(--mantine-color-red-4), var(--mantine-color-red-4));
+  margin-bottom: 0rem;
+  margin-top: 0;
+  padding-top: 0;
+  /* font-family: 'Optima', sans-serif; qui uguale è un po' un patchwork*/
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-items: flex-start;
+  gap: 0.5rem; /* Ensures consistent spacing between text and icon */
 
-    width: 100%;
-    
+  width: 100%;
+  
 }
 
 
 
-  .inflectionTableIcon {
-    margin-left: auto; 
-    margin-right: 0;
-    transition: all 0.2s ease;
-        /* Remove any existing margins/padding if they interfere */
-    margin: 0;
-    padding: 0;
-    right: 15px;
-    color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-gray-4)); 
+.inflectionTableIcon {
+  margin-left: auto; 
+  margin-right: 0;
+  transition: all 0.2s ease;
+      /* Remove any existing margins/padding if they interfere */
+  margin: 0;
+  padding: 0;
+  right: 15px;
+  color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-gray-4)); 
 
 
-  }
+}
+
+.inflectionTableIcon:hover {
+  background-color: light-dark(var(--mantine-color-lightscale-3), var(--mantine-color-dark-4));
+  color: light-dark(var(--mantine-color-orange-5), var(--mantine-color-orange-3));
+  scale: 1.1;
+}
+
+
+.inflectionTableIcon:active {
+  /* Briefly change the background color NOT Working*/
+  background-color: light-dark(
+    var(--mantine-color-orange-3),
+    var(--mantine-color-orange-4)
+  );
   
-  .inflectionTableIcon:hover {
-    background-color: light-dark(var(--mantine-color-lightscale-3), var(--mantine-color-dark-4));
-    color: light-dark(var(--mantine-color-orange-5), var(--mantine-color-orange-3));
-    scale: 1.1;
-  }
-  
-
-  .inflectionTableIcon:active {
-    /* Briefly change the background color NOT Working*/
-    background-color: light-dark(
-      var(--mantine-color-orange-3),
-      var(--mantine-color-orange-4)
-    );
-    
-    /* Optional: add a subtle transform to make it feel more interactive */
-    transform: scale(0.95);
-  }
+  /* Optional: add a subtle transform to make it feel more interactive */
+  transform: scale(0.95);
+}

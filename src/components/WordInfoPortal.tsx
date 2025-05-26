@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { createPortal } from 'react-dom';
 import WordInfo from './WordInfo';
-import classes from './ClickableSimpleBooks.module.css';
+import classes from './ClickableBooks/ClickableSimpleBooks.module.css';
 import { useResponsive } from '@/context/ResponsiveContext';
 
 interface WordInfoPortalProps {

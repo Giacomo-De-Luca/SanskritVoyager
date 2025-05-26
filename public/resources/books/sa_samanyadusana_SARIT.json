@@ -1,0 +1,2760 @@
+{
+  "file_title": "samanyadusana",
+  "file_title_normal": "samanyadusana",
+  "metadata": {
+    "document_id": "sāmānyadūṣaṇa",
+    "header_language": "en",
+    "titles": [
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "Sāmānyadūṣaṇa"
+          }
+        ],
+        "text": "Sāmānyadūṣaṇa",
+        "type": "main"
+      }
+    ],
+    "original_title": "Sāmānyadūṣaṇa",
+    "authors": [
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "Aśoka"
+          }
+        ],
+        "name": "Aśoka"
+      }
+    ],
+    "author": "Aśoka",
+    "principal": {
+      "person_name": "Birgit Kellner"
+    },
+    "contributors": [
+      {
+        "responsibility": "data entry by",
+        "name": "Aurorachana, Auroville",
+        "name_attributes": {
+          "key": "aurorachana"
+        }
+      },
+      {
+        "responsibility": "prepared for SARIT by",
+        "name": "Liudmila Olalde",
+        "name_attributes": {
+          "id": "sarit-encoder-sādū"
+        }
+      }
+    ],
+    "funder": {
+      "type": "funder",
+      "content": [
+        {
+          "type": "text",
+          "value": "German Research Foundation (DFG); Project \"SARIT: Enriching Digital Text Collections in Indology\" (Bilalteral Digital Humanities Programme DFG/NEH), 2013-2017"
+        }
+      ]
+    },
+    "publication": {
+      "publisher": {
+        "type": "publisher",
+        "content": [
+          {
+            "type": "text",
+            "value": "\"Project SARIT: Enriching Digital Text Collections in Indology\" (Bilalteral Digital Humanities Programme DFG/NEH), 2013-2017."
+          }
+        ]
+      },
+      "date": {
+        "text": "2016"
+      },
+      "availability": {
+        "status": "restricted",
+        "license_declaration": {
+          "content": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Distributed under a"
+                },
+                {
+                  "type": "ref",
+                  "attributes": {
+                    "target": "https://creativecommons.org/licenses/by-sa/4.0/"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Creative Commons Attribution-ShareAlike 4.0 International licence."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "Under this licence, you are free to:"
+                }
+              ],
+              "text": "Distributed under a Creative Commons Attribution-ShareAlike 4.0 International licence. Under this licence, you are free to:"
+            },
+            {
+              "type": "list",
+              "items": [
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Share — copy and redistribute the material in any medium or format."
+                    }
+                  ]
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Adapt — remix, transform, and build upon the material for any purpose, even commercially."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "The licensor cannot revoke these freedoms as long as you follow the license terms."
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Under the following terms:"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use."
+                    }
+                  ]
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "More information and fuller details of this license are given on the Creative Commons website."
+                }
+              ]
+            }
+          ],
+          "text": "Distributed under a Creative Commons Attribution-ShareAlike 4.0 International licence. Under this licence, you are free to:\n\t    Share — copy and redistribute the material in any medium or format.\n\t      Adapt — remix, transform, and build upon the material for any purpose, even commercially.\n\t    The licensor cannot revoke these freedoms as long as you follow the license terms.\n\t    Under the following terms:\n\t    Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\n\t      ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n\t    More information and fuller details of this license are given on the Creative Commons website."
+        },
+        "full_description": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Copyright Notice:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Copyright 2016-2018 SARIT"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "SARIT assumes no responsibility for unauthorised use that infringes the rights of any copyright owners, known or unknown."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "sources": [
+      {
+        "type": "bibl",
+        "id": "sādū-thakur-book",
+        "full_text_concat": "Aśokanibandhau Avayavinirākaraṇaṃ Samānyadūṣaṇaṃ ca\n\t  Aśoka\n\t  Anantalal Thakur\n\t  Kashi Prasad Jayaswal Research Institute\n\t  Patna\n\t  1974\n\t  The manuscript consulted by Thakur is described below.",
+        "titles": [
+          {
+            "content": [
+              {
+                "type": "text",
+                "value": "Aśokanibandhau Avayavinirākaraṇaṃ Samānyadūṣaṇaṃ ca"
+              }
+            ],
+            "text": "Aśokanibandhau Avayavinirākaraṇaṃ Samānyadūṣaṇaṃ ca",
+            "type": "main"
+          }
+        ],
+        "authors": [
+          {
+            "content": [
+              {
+                "type": "text",
+                "value": "Aśoka"
+              }
+            ],
+            "name": "Aśoka"
+          }
+        ],
+        "editors": [
+          {
+            "content": [
+              {
+                "type": "text",
+                "value": "Anantalal Thakur"
+              }
+            ],
+            "name": "Anantalal Thakur",
+            "id": "sādū-ed"
+          }
+        ],
+        "publisher": {
+          "type": "publisher",
+          "content": [
+            {
+              "type": "text",
+              "value": "Kashi Prasad Jayaswal Research Institute"
+            }
+          ]
+        },
+        "pubPlace": {
+          "type": "pubPlace",
+          "content": [
+            {
+              "type": "text",
+              "value": "Patna"
+            }
+          ]
+        },
+        "date": {
+          "text": "1974"
+        },
+        "notes": [
+          {
+            "type": "note",
+            "content": [
+              {
+                "type": "text",
+                "value": "The manuscript consulted by Thakur is described below."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "encoding_description": {
+      "description_paragraphs": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "In the source file, there were two types of line breaks: returns (and possible surrounding space) and hyphens+returns. These were replaced with lb-elements. The ed-attribute \"tha\" refers to"
+                    },
+                    {
+                      "type": "ref",
+                      "attributes": {
+                        "target": "#sādū-thakur-book"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Thakur's 1974 edition"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "."
+                    }
+                  ],
+                  "text": "In the source file, there were two types of line breaks: returns (and possible surrounding space) and hyphens+returns. These were replaced with lb-elements. The ed-attribute \"tha\" refers to Thakur's 1974 edition."
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "The folio numbers were encoded as pb-elements with the ed-attribute \"msR\", which refers to the"
+                    },
+                    {
+                      "type": "ref",
+                      "attributes": {
+                        "target": "#sādū-msR"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "manuscript used by Thakur"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "."
+                    }
+                  ],
+                  "text": "The folio numbers were encoded as pb-elements with the ed-attribute \"msR\", which refers to the manuscript used by Thakur."
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Round brackets (1 occurrence) were encoded as"
+                    },
+                    {
+                      "type": "egXML",
+                      "content": [
+                        {
+                          "type": "hi",
+                          "attributes": {
+                            "rend": "brackets"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "."
+                    }
+                  ],
+                  "text": "Round brackets (1 occurrence) were encoded as ."
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Additions in square brackets were enclosed in a supplied-element."
+                    }
+                  ]
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Underlined items were enclosed in a"
+                    },
+                    {
+                      "type": "egXML",
+                      "content": [
+                        {
+                          "type": "hi",
+                          "attributes": {
+                            "rend": "underline"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "."
+                    }
+                  ],
+                  "text": "Underlined items were enclosed in a ."
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "In the note-elements the"
+                    },
+                    {
+                      "type": "gi",
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "lb"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "s were removed."
+                    }
+                  ],
+                  "text": "In the note-elements the lbs were removed."
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "The footnotes were encoded as note-elements with their corresponding n-attribute. The footnote references were replaced by the note-elements."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "revisions": [
+      {
+        "who": "https://viaf.org/viaf/308710472/",
+        "when": "2016-05-26",
+        "description_content": [
+          {
+            "type": "text",
+            "value": "Corrected the second reference to footnote 13-3 to 13-4."
+          }
+        ]
+      },
+      {
+        "who": "https://viaf.org/viaf/308710472/",
+        "when": "2016-05-31",
+        "description_content": [
+          {
+            "type": "text",
+            "value": "Replaced <add> with <supplied> and updated the encoding description."
+          }
+        ]
+      },
+      {
+        "who": "https://viaf.org/viaf/308710472/",
+        "when": "2017-03-25",
+        "description_content": [
+          {
+            "type": "text",
+            "value": "For a complete history of the changes in this file go to"
+          },
+          {
+            "type": "ref",
+            "attributes": {
+              "target": "https://github.com/sarit/SARIT-corpus/commits/master/samanyadusana.xml"
+            },
+            "content": [
+              {
+                "type": "text",
+                "value": "SARIT GitHub Repository"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "."
+          }
+        ],
+        "description_text_summary": "For a complete history of the changes in this file go to SARIT GitHub Repository."
+      }
+    ]
+  },
+  "body": [
+    {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "pb",
+          "attributes": {
+            "ed": "tha",
+            "n": "11"
+          }
+        },
+        {
+          "tag": "head",
+          "text": "॥ सामान्यदूषणम् ॥"
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "pb",
+          "attributes": {
+            "ed": "msR",
+            "n": "82a"
+          }
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "व्यापकं नित्यमेकं च सामान्यं यैः प्रकल्पितम् ।"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "l",
+              "text": "मोहग्रन्थिच्छिदे तेषां तदभावः प्रसाध्यते ॥"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "कथमिदमवगम्यते परस्परविलक्षणक्षणेषु",
+          "children": [
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "11-1"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "°क्षणलक्षणेषु",
+                  "children": [
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-msR",
+                        "lang": "en"
+                      },
+                      "text": "R"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "प्रत्यक्षसमीक्ष्यमाणेष्वभिन्न"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "धीध्वनिप्रसवनिबन्धनमनुयायिरूपं सामान्यं न मान्यं मनीषिणामिति ?"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "साधकप्रमाणविरहाद् बाधकप्रमाणसंभवाच्चेति ब्रूमः ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "तथा हि यदिदं सामान्यसाधनमनुमानमभिधीयते परैः,"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "l",
+              "text": "यदनुगताकारं ज्न्ँआनं तदनुगतवस्तुनिबन्धनम् ।"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "l",
+              "text": "यथा बहुषु पुष्पेषु स्रक् स्रगिति ज्न्ँआनम् ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "pb",
+              "attributes": {
+                "ed": "msR",
+                "n": "82b"
+              }
+            },
+            {
+              "t": "text",
+              "text": "अस्ति च परस्परसंपर्कविकलकलासु कार्यादिव्यक्तिष्वनुगता"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "कारं विज्न्ँआनं तदनैकान्तिकतादोषाक्रान्तशरीरत्वान्न तद्भावसाधनायालम् ।"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "यतो भवति बहुषु पाचकेषु पाचकः पाचक इति एकाकारपरामर्शप्रत्ययः ।"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "न च तेष्वनुगतमेकं वस्तु समस्ति । तद्भावे हि प्रागेव तथाविधप्रत्ययोत्पाद"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "प्रसङ्गो दुर्वारप्रचारः ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "क्रियोपकारापेक्षाणां स्वलक्षणानां सामान्यव्यन्ँजकत्वादयमदोष इति",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "चेत् ? नैतदस्ति । नित्यानामनाधेयातिशयतयानुपकारिणि सहकारिण्यपेक्षा"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "योगात् । सातिशयत्वे वा प्रतिक्षणं विशरारुशरीरत्वात् क्रिया कुत इति"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "दोषो दुष्परिहरः । क्रियानिबन्धनत्वात् पाचकेष्वनुगताकारप्रत्ययस्य नानै"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "कान्तिकतादोष इत्यपि वार्तम् । प्रतिभेदं भिद्यमानानां कर्मणां तन्निबन्धनत्वा"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "योगात् । भिन्नानामप्यभिन्नाकारज्न्ँआननिबन्धनत्वे व्यक्तीनामपि तथाभावो"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "न राजदण्डनिवारितः । ततश्च सामान्यमेव नोपेयं स्यादिति मूलहरं"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "पक्षमाश्रयता देवानांप्रियेण सुष्ठु अनुकूलमाचरितम् । अनेनैव न्यायेन क्रिया"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "कारकसंबन्धमभिन्नज्न्ँआननिबन्धनमुपकल्पयन् प्रतिक्षिप्तः ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "pb",
+          "attributes": {
+            "ed": "tha",
+            "n": "12"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "पाकक्रियात्वनिबन्धनः पाचकेष्वनुगताकारः प्रत्ययः । तता नानै",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "कान्तिकतादोष इत्यपि न मन्तव्यम् । न ह्यर्थान्तरसंबन्धिनी जातिरर्था"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "न्तरप्रत्ययोत्पत्तिहेतुः, अतिप्रसङ्गात् ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "स्यादेतत् । समवेतसमवायसंबन्धबलात् पाकक्रियासामान्यं पाचकेष्व",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "भिन्नाकारं परामर्शप्रत्ययमुपजनयति । ततो न यथोक्तो दोषः ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "तदिदमप्यसारम् । यत उदयानन्तरापवर्गितया",
+          "children": [
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "12-1"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "यत् °वर्जितया",
+                  "children": [
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-S",
+                        "lang": "en"
+                      },
+                      "text": "S"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "कर्मणामेवासंभवात्,"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "विनष्टे कर्मणि तत्सामान्यं न कर्मणि तदभावादेव, नापि कर्तरीति संबद्ध"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "संबन्धोऽप्यस्य नास्तीति नाभिन्नप्रत्ययहेतुः । तस्मात् स्थितमेतत्"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "तदनैकान्तिकतादोषदुष्टत्वात् नेदमनुमानं सामान्यसत्तासाधनाय पर्याप्त"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "मिति ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "इतश्चापि न सामान्यसत्तासाधनमिदमनुमानम् । यथैव हि परस्परा",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "सङ्कीर्णस्वभावा अपि शाबलेयादयो भावाः कयाचिदेव तदेककार्यप्रति"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "नियमलक्षणया स्वहेतुबलायातया प्रकृत्या तदेकमभिमतमनुगतरूपमुप"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "कुर्वते, तदपरसामान्यान्तरमन्तरेणान्यथानवस्थाप्रसङ्गात्, तथा"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "12-2"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "तमेकं",
+                  "children": [
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-S",
+                        "lang": "en"
+                      },
+                      "text": "S"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "तवैकं"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "परामर्शप्रत्ययमुपजनयन्तु किमन्तरालगडुना व्यतिरेकवता सामान्येनो"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "पगतेन ?"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "अथोच्यते । प्रतिनियतशक्तयः सर्व",
+          "children": [
+            {
+              "tag": "pb",
+              "attributes": {
+                "ed": "msR",
+                "n": "83a"
+              }
+            },
+            {
+              "t": "text",
+              "text": "भावाः । एतच्च सामान्याप"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "लापिभिरपि नियतमभ्युपगमनीयम् । अन्यथा कुतः शालिबीजं शाल्यङ्कुर"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "मेव जनयति न कोद्रवाङ्कुरमिति परपर्यनुयोगे भावप्रकृतिं मुक्त्वा किमपर"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "मिह वचनीयमस्ति ?"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "एतच्चोत्तरमस्माकमपि न वनौकःकुलकवलितम् । तथा हि वय",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "मप्येवं शक्ता एव वक्तुम् । सामान्यमेवोपकर्तुं शक्तिर्व्यक्तीनां भेदाविशेषेऽपि"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "न तदेकं विज्न्ँआनमुपजनयितुमिति ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "अनुत्तरं बत दोषसङ्कटमत्रभवान् दृष्टिदोषेण",
+          "children": [
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "12-3"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "प्रविश्य",
+                  "children": [
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-S",
+                        "lang": "en"
+                      },
+                      "text": "S"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "प्रवेश्यमानोऽपि नात्मान"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "मात्मना संवेदयते । तथा हि शालिबीजतदङ्कुरयोरध्यक्षानुपलम्भनिबन्धने"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "कार्यकारणभावेऽवगते शालिबीजं शाल्यङ्कुरं जनयितुं शक्तं न कोद्रवाङ्कुर"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "मिति शक्यमभिधातुम् । नैवं सामान्यतद्वतोरुपकार्योपकारकभावः कुतश्चन"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "ed": "tha",
+                "n": "13"
+              }
+            },
+            {
+              "t": "text",
+              "text": "प्रमाणात् निश्चितः । तत् कथमिदमुत्तरमभिधीयमानमादधीत साधिमान"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "मित्यलमलीकनिर्बन्धनेन ? न साधकप्रमाणविरहमात्रेण प्रेक्षावताम्"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "असद्व्यवहारः । ततस्तदभावसाधकमनुमानमभिधीयमानमस्माभिराकल्प्य"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "ताम्"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "13-1"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "°राकल्य°",
+                  "children": [
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-S",
+                        "lang": "en"
+                      },
+                      "text": "S"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "यद् यदुपलब्धिलक्षणप्राप्तं सन्नोपलभ्यते, तत्तदसदिति प्रेक्षावद्भिः",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "व्यवहर्तव्यम् ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "यथाम्बराम्बुरुहम् ।"
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "नोपलभ्यते चोपलब्धिलक्षणप्राप्तं सामान्यं क्वचिदपीति स्वभावानु",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "पलब्धिः ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "न चात्रासिद्धिदोषोद्भावनया प्रत्यवस्थातव्यम् । तथा हि अत्रासिद्धिः",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "भवन्ती स्वरूपतो विशेषणतो वा भवेत् ? तत्र न तावदाद्या"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "13-2"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "°दाद्यं",
+                  "children": [
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-S",
+                        "lang": "en"
+                      },
+                      "text": "S"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "संभवति,"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "अन्योपलम्भरूपस्यानुपलम्भस्याभ्युपगमात् । तस्य च स्वसंवेदनप्रत्यक्ष"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "साक्षात्कृतस्वरूपत्वात् कुतः स्वरूपासिद्धिदोषावकाशः ?"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "अथोच्यते स्वसंवेदनमेव न संभवति, स्वात्मनि क्रियाविरोधात् । न हि",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "तयैवासिधारया सैवासिधारा च्छिद्यते; तदेवाङ्गुल्यग्रं तेनैवाङ्गुल्यग्रेण स्पृश्यत"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "इति । अतोऽसिद्ध एवायं हेतुः ।"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "13-3"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "तदेदं",
+                  "children": [
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-msR",
+                        "lang": "en"
+                      },
+                      "text": "R"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "तदिदं स्वसंवेदनशब्दार्थापरिज्न्ँआन"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "विजृम्भितमेव प्रकटयति वाचः ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "तथा हि कलसकलधौतकुवलयादिभ्यो व्यावृत्तं विज्न्ँआनमुपजायते । तेन",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "बोधरूपतयोत्पत्तिरेवास्य स्वसंवित्तिरुच्यते, प्रकाशवत् । न कर्मकर्तृक्रिया"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "भावात् । एकस्यानंशरूपस्य त्रैरूप्यानुपपत्तितः । यथैव हि प्रकाशकान्तर"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "निरपेक्षः प्रकाशः प्रकाशमान आत्मनः प्रकाशक उच्यते, तथा ज्न्ँआनमपि"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "ज्न्ँआनान्तरनिरपेक्षं प्रकाशमानमात्मनः प्रकाशकमुच्यते ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "ततोऽयं पर",
+          "children": [
+            {
+              "tag": "pb",
+              "attributes": {
+                "ed": "msR",
+                "n": "83b"
+              }
+            },
+            {
+              "t": "text",
+              "text": "मार्थः । न ज्न्ँआनं ज्न्ँआनान्तरसंवेद्यमुपपद्यते, नाप्य"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "संविदितमुच्यते । यथा प्रकारे च स्वसंवेदनशब्दार्थे विवक्षिते न किन्ँचिद्"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "13-4"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "वचनीयकमस्ति",
+                  "children": [
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-S",
+                        "lang": "en"
+                      },
+                      "text": "S"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "वचनीयमस्ति कुतो यथोक्तदोषावसरः ?"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "pb",
+          "attributes": {
+            "ed": "tha",
+            "n": "14"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "नापि विशेषणासिद्ध्यासिद्धिरुद्भावनीया । उपलब्धिलक्षणप्राप्ततया",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "सामान्यस्य स्वयमेव परैरुपगमात् । तथानभ्युपगमे वा न सामान्यबलेन"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "14-1"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "वा कुलेया°",
+                  "children": [
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-S",
+                        "lang": "en"
+                      },
+                      "text": "S"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "बाहुलेयादिष्वनुगताकारौ धीध्वनी स्याताम् । न हि यतो यत्र ज्न्ँआनाभिधान"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "प्रवृत्तिः,"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "14-2"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "°लम्भने ?"
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "तदनुपलक्षणे तस्य प्रतीतिर्भवति, दण्डिवत् ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "यत् पुनरिदमुद्द्योतितम्",
+          "children": [
+            {
+              "tag": "hi",
+              "attributes": {
+                "rend": "underline"
+              },
+              "text": "उदद्योतकरेण"
+            },
+            {
+              "t": "text",
+              "text": ", किं सामान्यं प्रतिपद्यसे न वा ?"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "यदि प्रतिपद्यसे, कथमपह्नुषे ? अथ न प्रतिपद्यसे, तदा तस्यासिद्धत्वादा"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "श्रयासिद्धो हेतुः ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "तदिदं तस्य",
+          "children": [
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "14-3"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "°पिता°",
+                  "children": [
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-S",
+                        "lang": "en"
+                      },
+                      "text": "S"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "धर्मिस्वरूपतानभिज्न्ँअताविजृम्भितमाभाति, यतो न वयं"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "बहीरूपतया सामान्यं धर्मितयाङ्गीकुर्महे, अन्तर्मात्रानिवेशिनो भावाभावो"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "भयानुभयाहितवासनापरिपाकप्रभवस्याध्यस्तबहिर्वस्तुनो ज्न्ँआनाकारस्य धर्मि"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "तयोपयोगात्"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "14-4"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "°नुभवाहित°",
+                  "children": [
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-S",
+                        "lang": "en"
+                      },
+                      "text": "S"
+                    },
+                    {
+                      "t": "text",
+                      "text": "°पगमात्"
+                    },
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-msR",
+                        "lang": "en"
+                      },
+                      "text": "R"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "। स च स्वसंवेदनप्रत्यक्षसिद्धतया न शक्यः प्रतिक्षेप्तुम् ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "तदत्र धर्मिणि व्यवस्थिताः सदसत्त्वे चिन्तयन्ति । किमयं सामान्यशब्द",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "विकल्पप्रतिभासार्थो धर्मी परपरिकल्पितबहिःसामान्यनिबन्धनो वेति ? तस्य"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "बाह्यानुपादानत्वे"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "14-5"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "साध्ये तथानु° ?"
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "साध्यतयानुपलम्भो हेतुः । न पुनस्तस्यैवाभावः प्रसाध्यते,"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "तद्विषयशब्दाप्रयोगप्रसङ्गात् । एवंविधे च धर्मिणि विवक्षिते कुत आश्रया"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "सिद्धिदोषः ?"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "यत् तूच्यते, प्रत्यक्षप्रमाणसिद्धस्वभावतया सामान्यस्यासिद्ध एवायं",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "हेतुरिति तदयुक्तम्, तस्य स्वरूपेणाप्रतिभासनात् ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "इदमेव हि प्रत्यक्षस्य प्रत्यक्षत्वम्, यत् स्वरूपस्य स्वबुद्धौ समर्पणम् ।",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "इदं पुनर्मूल्यादानक्रयि सामान्यं स्वरूपं च नादर्शयति, प्रत्यक्षतां च स्वी"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "कर्तुमिच्छति । तथा हि न वयं परस्परासङ्कीर्णशाबलेयादिव्यक्तिभेदप्रति"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "भासनवेलायां तद्विलक्षणमपरमनुगतमध्यक्षेणेक्षामहे,"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "14-6"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "कण्ठेशन°",
+                  "children": [
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-S",
+                        "lang": "en"
+                      },
+                      "text": "S"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "कण्ठेगुणमिव भूतेषु,"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "शाबलेयसामान्यबुद्धेरसिद्धेः । तत् कथमदृष्टकल्पनयात्मानमात्मना विप्रल"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "भेमहि ? इति नासिद्धो हेतुः ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "नाप्यनैकान्तिकता शङ्काविषयमतिपतति, विपक्षवृत्त्यदर्शनात् । असपक्षे",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "संभवानुपलम्भात् साधारणानैकान्तिकता मा भूत्, सन्दिग्धविपक्षव्यावृत्ति"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "कता तु प्रतिबन्धादर्शनादनिवारितप्रसरैव ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "pb",
+          "attributes": {
+            "ed": "tha",
+            "n": "15"
+          }
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "15-1"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "तदेतन्न समा°",
+                  "children": [
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-S",
+                        "lang": "en"
+                      },
+                      "text": "S"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "तदेतदनालोचिततर्ककर्कशधियामभिधानम्, विपर्यये बाधकप्रमाण"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "सामर्थ्यादप"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "ed": "msR",
+                "n": "84a"
+              }
+            },
+            {
+              "t": "text",
+              "text": "सारितसद्भावत्वात् तदाशङ्कायाः । तथा हि असत्त्वे साध्ये"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "सत्त्वं विपक्षः । तत्र प्रत्यक्षवृत्त्या भवितव्यम्, यतो यद् यदाविकलाप्रतिहत"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "सामर्थ्यम्, तत् तदा भवत्येव । तद् यथा अविकलबलसकलकारणकलापो"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "ऽङ्कुरः । सति च चक्षुरादिसाकल्ये दृश्ये वस्तुन्यविकलाप्रतिबद्धशक्तिकारणं"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "प्रत्यक्षं ज्न्ँआनमिति स्वभावहेतुः । ततो विरुद्धोपलम्भाद् विपक्षाद् व्यावर्त"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "मानो हेतुरसद्व्यवहारयोग्यत्वेन व्याप्यत इति व्याप्तिसिद्धेर्नानैकान्तिकः ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "अभिमतसाध्यप्रतिबन्धसिद्धेस्तु विरुद्धता दूरतरसमुत्सारितरभस",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "प्रसरैव ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "ततोऽसिद्धतादिदूषणशङ्काकलङ्कानङ्किताद्धेतोः",
+          "children": [
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "15-2"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "अतः...",
+                  "children": [
+                    {
+                      "tag": "supplied",
+                      "attributes": {
+                        "resp": "#sādū-ed"
+                      },
+                      "text": "क ?"
+                    },
+                    {
+                      "t": "text",
+                      "text": "लङ्कि"
+                    },
+                    {
+                      "tag": "supplied",
+                      "attributes": {
+                        "resp": "#sādū-ed"
+                      },
+                      "text": "कृ"
+                    },
+                    {
+                      "t": "text",
+                      "text": "ता°"
+                    },
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-S",
+                        "lang": "en"
+                      },
+                      "text": "S"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "प्रस्तुतवस्तुसिद्धौ सिद्धम्"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "असत्त्वं सामान्यस्येत्यलमतिबहुविस्तरविसारिण्या कथयेति विरम्यते ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "न च वस्तुसंस्थानवत् सामान्यं",
+          "children": [
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "15-3"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "सामान्यं न",
+                  "children": [
+                    {
+                      "tag": "hi",
+                      "attributes": {
+                        "rend": "brackets"
+                      },
+                      "text": "?"
+                    },
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-msR",
+                        "lang": "en"
+                      },
+                      "text": "R"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "व्यक्तेर्लक्षणम् । न चानुवृत्तव्यावृत्त"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "वर्णाद्यात्मके जातिव्यक्ती वर्णादिनियतप्रतिभासप्रतीतिप्रसङ्गात्, व्यक्तेरे"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "वासौ प्रतिभास इति चेत् ? कोऽपरस्तर्हि सामान्यस्यानुगताकार इति चेत् ?"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "ननु वर्णसंस्थाने विरहय्य किमपरमनुगामि विद्यते ? जातिव्यक्त्योः समवाय"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "बलादविभावितविभागयोः क्षीरोदकयोरिव परस्परमिश्रणेन प्रतिपत्तिरिति"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "चेत् ? न तर्हि सामान्यविशेषयोरेकतरस्यापि रूपं गृहीतम् । स्वरूपाग्रहणे"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "अनयोरप्यग्रहणमिति निरालम्बनैव सा तादृशी प्रतिपत्तिरिति परमार्थ आवे"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "दितस्तावत् । निरालम्बनया च प्रतीत्या व्यवस्थाप्यमानं सामान्यं सुव्यव"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "स्थापितम् ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "तस्माद् विशेष्यासिद्ध्यापि नायमसिद्धो हेतुः ।"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "l",
+              "text": "सपक्षे वर्तमानो विरुद्ध इत्यपि न मन्तव्यः ।"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "l",
+              "text": "अनैकान्तिकताप्यस्य न संभावनामर्हति ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "असद्व्यवहारानपेक्षत्वेन हि दृश्यानुपलम्भो व्याप्तः । यदि हि सन्नपि",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "तत्र न प्रवर्तयेत्, इह सापेक्षः स्यात् । ततो विपक्षाद् व्यापकविरुद्धावरुद्धाद्"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "ed": "tha",
+                "n": "16"
+              }
+            },
+            {
+              "t": "text",
+              "text": "व्यावर्तमानोऽसद्व्यवहारे विश्राम्यतीति । अतस्तेनासद्व्यवहारेणानुपलम्भो"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "16-1"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "व्याप्यत इति",
+                  "children": [
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sādū-S",
+                        "lang": "en"
+                      },
+                      "text": "S"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "व्याप्त इति कुतोऽनेकान्तः ? ततश्च स एवार्थः समायातः ।"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "lg",
+              "children": [
+                {
+                  "tag": "l",
+                  "text": "एतासु पन्ँचस्ववभासनीषु"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {
+                    "ed": "tha"
+                  }
+                },
+                {
+                  "tag": "l",
+                  "text": "प्रत्यक्षबोधे स्फुटमङ्गुलीषु ।"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {
+                    "ed": "tha"
+                  }
+                },
+                {
+                  "tag": "l",
+                  "text": "साधारणं षष्ठमिहेक्षते यः"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {
+                    "ed": "tha"
+                  }
+                },
+                {
+                  "tag": "l",
+                  "text": "शृङ्गं शिरस्यात्मन ईक्षते",
+                  "children": [
+                    {
+                      "tag": "note",
+                      "attributes": {
+                        "n": "16-2"
+                      },
+                      "children": [
+                        {
+                          "tag": "p",
+                          "text": "ईष्यते",
+                          "children": [
+                            {
+                              "tag": "ref",
+                              "attributes": {
+                                "target": "#sādū-msR",
+                                "lang": "en"
+                              },
+                              "text": "R"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "text": "सः ॥"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "t": "text",
+              "text": "इति ।"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "सर्वस्य च पूर्वोक्तस्यायं परमार्थः ।"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "l",
+              "text": "प्रत्यक्षप्रतिभासिवर्ष्मसु न पन्ँचस्वङ्गुलीषु स्थितं",
+              "children": [
+                {
+                  "tag": "note",
+                  "attributes": {
+                    "n": "16-3"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "text": "°वर्त्म न पन्ँच…लीषु स्थितम्",
+                      "children": [
+                        {
+                          "tag": "ref",
+                          "attributes": {
+                            "target": "#sādū-S",
+                            "lang": "en"
+                          },
+                          "text": "S"
+                        },
+                        {
+                          "t": "text",
+                          "text": ", °भासि धर्मसु"
+                        },
+                        {
+                          "tag": "ref",
+                          "attributes": {
+                            "target": "#sādū-S",
+                            "lang": "en"
+                          },
+                          "text": "S"
+                        },
+                        {
+                          "t": "text",
+                          "text": "."
+                        },
+                        {
+                          "tag": "ref",
+                          "attributes": {
+                            "lang": "en"
+                          },
+                          "text": "Intro. p. V"
+                        },
+                        {
+                          "t": "text",
+                          "text": ", °ष्ववस्थितम्"
+                        },
+                        {
+                          "tag": "ref",
+                          "attributes": {
+                            "target": "#sādū-msR",
+                            "lang": "en"
+                          },
+                          "text": "R"
+                        },
+                        {
+                          "t": "text",
+                          "text": "."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "l",
+              "text": "सामान्यं प्रतिभासते न च विकल्पाकारबुद्धौ तथा ।"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "l",
+              "text": "ता एवास्फुटमूर्तयोऽत्र हि विभासन्ते",
+              "children": [
+                {
+                  "tag": "pb",
+                  "attributes": {
+                    "ed": "msR",
+                    "n": "84b"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "न जातिस्ततः"
+                }
+              ]
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "l",
+              "text": "सादृश्यभ्रमकारणौ पुनरिमावेकोपलब्धिध्वनी ॥"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "tha"
+              }
+            },
+            {
+              "tag": "l",
+              "text": "इति सामान्यसिद्धिदूषणा दिक् प्रसाधिता",
+              "children": [
+                {
+                  "tag": "note",
+                  "attributes": {
+                    "n": "16-4"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "text": "प्रसारिता",
+                      "children": [
+                        {
+                          "tag": "ref",
+                          "attributes": {
+                            "target": "#sādū-S",
+                            "lang": "en"
+                          },
+                          "text": "S"
+                        },
+                        {
+                          "t": "text",
+                          "text": "."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "t": "text",
+                  "text": "॥"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "tha"
+          }
+        },
+        {
+          "tag": "trailer",
+          "text": "॥ कृतिरियं पण्डिताशोकस्य ॥"
+        }
+      ]
+    }
+  ]
+}

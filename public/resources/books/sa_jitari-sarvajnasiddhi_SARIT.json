@@ -1,0 +1,1770 @@
+{
+  "file_title": "jitari-sarvajnasiddhi",
+  "file_title_normal": "jitari-sarvajnasiddhi",
+  "metadata": {
+    "document_id": "jitāri-sarvajñasiddhi",
+    "header_language": "en",
+    "titles": [
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "Sarvajñasiddhi"
+          }
+        ],
+        "text": "Sarvajñasiddhi",
+        "type": "main"
+      }
+    ],
+    "original_title": "Sarvajñasiddhi",
+    "authors": [
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "Jitāri"
+          }
+        ],
+        "name": "Jitāri"
+      }
+    ],
+    "author": "Jitāri",
+    "principal": {
+      "person_name": "Birgit Kellner"
+    },
+    "contributors": [
+      {
+        "responsibility": "data entry by",
+        "name": "Aurorachana, Auroville",
+        "name_attributes": {
+          "key": "aurorachana"
+        }
+      },
+      {
+        "id": "sarit-encoder-sajña",
+        "responsibility": "prepared for SARIT by",
+        "name": "Liudmila Olalde",
+        "name_attributes": {
+          "ref": "https://viaf.org/viaf/308710472/"
+        }
+      }
+    ],
+    "funder": {
+      "type": "funder",
+      "content": [
+        {
+          "type": "text",
+          "value": "German Research Foundation (DFG); Project \"SARIT: Enriching Digital Text Collections in Indology\" (Bilalteral Digital Humanities Programme DFG/NEH), 2013-2017"
+        }
+      ]
+    },
+    "publication": {
+      "publisher": {
+        "type": "publisher",
+        "content": [
+          {
+            "type": "text",
+            "value": "\"Project SARIT: Enriching Digital Text Collections in Indology\" (Bilalteral Digital Humanities Programme DFG/NEH), 2013-2017."
+          }
+        ]
+      },
+      "date": {
+        "text": "2016"
+      },
+      "availability": {
+        "status": "restricted",
+        "license_declaration": {
+          "content": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Distributed under a"
+                },
+                {
+                  "type": "ref",
+                  "attributes": {
+                    "target": "https://creativecommons.org/licenses/by-sa/4.0/"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Creative Commons Attribution-ShareAlike 4.0 International licence."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "Under this licence, you are free to:"
+                }
+              ],
+              "text": "Distributed under a Creative Commons Attribution-ShareAlike 4.0 International licence. Under this licence, you are free to:"
+            },
+            {
+              "type": "list",
+              "items": [
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Share — copy and redistribute the material in any medium or format."
+                    }
+                  ]
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Adapt — remix, transform, and build upon the material for any purpose, even commercially."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "The licensor cannot revoke these freedoms as long as you follow the license terms."
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Under the following terms:"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use."
+                    }
+                  ]
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "More information and fuller details of this license are given on the Creative Commons website."
+                }
+              ]
+            }
+          ],
+          "text": "Distributed under a Creative Commons Attribution-ShareAlike 4.0 International licence. Under this licence, you are free to:\n\t    Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.\n\t    The licensor cannot revoke these freedoms as long as you follow the license terms.\n\t    Under the following terms:\n\t    Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\n\t      ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n\t    More information and fuller details of this license are given on the Creative Commons website."
+        },
+        "full_description": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Copyright Notice:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "Copyright 2016-2018 SARIT"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "SARIT assumes no responsibility for unauthorised use that infringes the\n\t  rights of any copyright owners, known or unknown."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "sources": [
+      {
+        "type": "biblStruct",
+        "id": "sajña-buehnemann-1982",
+        "full_text_concat": "Sarvajñasiddhi\n\t    Jitāri\n\t  Jitāri: Kleine Texte\n\t    Jitāri\n\t    Gudrun Bühnemann\n\t    Arbeitskreis für tibetische und buddhisitsche Studien Universität Wien\n\t      Wien\n\t      1982\n\t      27-28\n\t  Wiener Studien zur Tibetologie und Buddhismskunde\n\t    8\n\tKleine Texte is an edition of: Vedāprāmāṇyasiddhi, Sarvajñasiddhi, Nairātmyasiddhi, Jātinirākṛti, and *Īśvaravādimataparīkṣa. Bühneman's edition is based on the manuscript described below.",
+        "notes": [
+          {
+            "type": "note",
+            "content": [
+              {
+                "type": "title",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Kleine Texte"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "is an edition of:"
+              },
+              {
+                "type": "title",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Vedāprāmāṇyasiddhi"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ","
+              },
+              {
+                "type": "title",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Sarvajñasiddhi"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ","
+              },
+              {
+                "type": "title",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Nairātmyasiddhi"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ","
+              },
+              {
+                "type": "title",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "Jātinirākṛti"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ", and"
+              },
+              {
+                "type": "title",
+                "content": [
+                  {
+                    "type": "text",
+                    "value": "*Īśvaravādimataparīkṣa"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": ". Bühneman's edition is based on the manuscript described below."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "encoding_description": {
+      "description_paragraphs": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Line breaks: In the source file, there were two types of line breaks: returns (and possible surrounding space) and hyphens+returns. These were replaced with lb-elements. The ed-attribute \"gb\" refers to Bühnemann's"
+                    },
+                    {
+                      "type": "ref",
+                      "attributes": {
+                        "target": "#sajña-buehnemann-1982"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "1982 edition"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "."
+                    }
+                  ],
+                  "text": "Line breaks: In the source file, there were two types of line breaks: returns (and possible surrounding space) and hyphens+returns. These were replaced with lb-elements. The ed-attribute \"gb\" refers to Bühnemann's 1982 edition."
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "The glass plate numbers were encoded as pb-elements with the edRef-attribute \"#sajña-ms\"."
+                    }
+                  ]
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "The variant readings in the footnotes were enclosed in a"
+                    },
+                    {
+                      "type": "egXML",
+                      "content": [
+                        {
+                          "type": "q",
+                          "attributes": {
+                            "type": "variant"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "."
+                    }
+                  ],
+                  "text": "The variant readings in the footnotes were enclosed in a ."
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "References were enclosed in a ref-element."
+                    }
+                  ]
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Square brackets were encoded as"
+                    },
+                    {
+                      "type": "gi",
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "surplus"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": ". This follows"
+                    },
+                    {
+                      "type": "ref",
+                      "attributes": {
+                        "target": "#sajña-buehnemann-1982"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Bühnemann 1982"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "p. 48:"
+                    },
+                    {
+                      "type": "q",
+                      "attributes": {
+                        "lang": "de"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "[ ] auszulassen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "."
+                    }
+                  ],
+                  "text": "Square brackets were encoded as surplus. This follows Bühnemann 1982 p. 48: [ ] auszulassen."
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Angle brackets were encoded as"
+                    },
+                    {
+                      "type": "gi",
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "supplied"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": ". This \tfollows"
+                    },
+                    {
+                      "type": "ref",
+                      "attributes": {
+                        "target": "#sajña-buehnemann-1982"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "Bühnemann 1982"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "p. 48:"
+                    },
+                    {
+                      "type": "q",
+                      "attributes": {
+                        "lang": "de"
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "value": "< > zu ergänzen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "."
+                    }
+                  ],
+                  "text": "Angle brackets were encoded as supplied. This \tfollows Bühnemann 1982 p. 48: < > zu ergänzen."
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Suspension points have been wrapped in"
+                    },
+                    {
+                      "type": "egXML",
+                      "content": [
+                        {
+                          "type": "supplied",
+                          "attributes": {
+                            "reason": "gap"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "value": "."
+                    }
+                  ],
+                  "text": "Suspension points have been wrapped in ."
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "The footnotes were encoded as note-elements with their corresponding n-attribute. The footnote references were replaced with the corresponding note. Line breaks in the notes have been removed"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "revisions": [
+      {
+        "who": "https://viaf.org/viaf/308710472/",
+        "when": "2017-03-25",
+        "description_content": [
+          {
+            "type": "text",
+            "value": "For a complete history of the changes in this file go to"
+          },
+          {
+            "type": "ref",
+            "attributes": {
+              "target": "https://github.com/sarit/SARIT-corpus/commits/master/jitari-sarvajnasiddhi.xml"
+            },
+            "content": [
+              {
+                "type": "text",
+                "value": "SARIT GitHub Repository"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "."
+          }
+        ],
+        "description_text_summary": "For a complete history of the changes in this file go to SARIT GitHub Repository."
+      }
+    ]
+  },
+  "body": [
+    {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "pb",
+          "attributes": {
+            "ed": "gb",
+            "n": "27"
+          }
+        },
+        {
+          "tag": "head",
+          "text": "Sarvajñasiddhi"
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "pb",
+              "attributes": {
+                "edRef": "#sajñā-ms",
+                "n": "IA.2.13.7-23a"
+              }
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "sarvajñacaraṇāmbhojapraṇipātapuraḥsaram |"
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "sarvajñasiddhaye 'smābhiḥ",
+          "children": [
+            {
+              "tag": "supplied",
+              "attributes": {
+                "reason": "gap",
+                "resp": "#sajña-bue"
+              },
+              "text": "...",
+              "children": [
+                {
+                  "tag": "note",
+                  "attributes": {
+                    "n": "27-1",
+                    "lang": "de"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "text": "Dem",
+                      "children": [
+                        {
+                          "tag": "ref",
+                          "attributes": {
+                            "target": "#sajña-ms"
+                          },
+                          "text": "MS"
+                        },
+                        {
+                          "t": "text",
+                          "text": "fehlt ein Folio; Fehler beim Fotografieren des Manuskripts."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "children": [
+            {
+              "tag": "supplied",
+              "attributes": {
+                "resp": "#sajña-bue"
+              },
+              "children": [
+                {
+                  "tag": "note",
+                  "attributes": {
+                    "n": "27-2",
+                    "lang": "de"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "text": "Dieser Beweis ist nach",
+                      "children": [
+                        {
+                          "tag": "ref",
+                          "attributes": {
+                            "target": "#sajña-R"
+                          },
+                          "text": "R"
+                        },
+                        {
+                          "t": "text",
+                          "text": "31.13-21 ergänzt."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "t": "text",
+                  "text": "yat pramāṇasaṃvādi niścitārthavacanaṃ tat sākṣāt parampa"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {
+                    "break": "no",
+                    "ed": "gb"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "rayā"
+                },
+                {
+                  "tag": "supplied",
+                  "attributes": {
+                    "resp": "#sajña-bue"
+                  },
+                  "text": "vā"
+                },
+                {
+                  "t": "text",
+                  "text": "tadarthasākṣātkārijñānapūrvakam |"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {
+                    "ed": "gb"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "yathā dahano dāhaka iti vacanam |"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {
+                    "ed": "gb"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "pramāṇaniścitārthavacanaṃ cedam |"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {
+                    "ed": "gb"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "kṣaṇikāḥ sarvasaṃskārā ity arthataḥ kāryahetuḥ |"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {
+                    "ed": "gb"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "nāsyāsiddhiḥ sarvabhāvakṣaṇabhaṅgaprasādhanād asya vacanasya"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {
+                    "ed": "gb"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "satyārthatvāt |"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {
+                    "ed": "gb"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "nāpi virodhaḥ sapakṣe bhāvāt |"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {
+                    "ed": "gb"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "na cānaikāntikaḥ vacanamātrasya saṃśayaviparyāsapūrvakatve 'pi"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {
+                    "ed": "gb"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "pramāṇaniścitārthavacanasya sākṣāt pāramparyeṇa"
+                },
+                {
+                  "tag": "supplied",
+                  "attributes": {
+                    "resp": "#sajña-bue"
+                  },
+                  "text": "vā"
+                },
+                {
+                  "t": "text",
+                  "text": "tadartha"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {
+                    "break": "no",
+                    "ed": "gb"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "sākṣātkārijñānapūrvakatvāt | anyathā niyamena pramāṇasaṃvā"
+                },
+                {
+                  "tag": "lb",
+                  "attributes": {
+                    "break": "no",
+                    "ed": "gb"
+                  }
+                },
+                {
+                  "t": "text",
+                  "text": "dā"
+                }
+              ]
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "edRef": "#sajñā-ms",
+                "n": "IB.2.14-24b"
+              }
+            },
+            {
+              "t": "text",
+              "text": "yogāt"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "27-3",
+                "lang": "de"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "Das",
+                  "children": [
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sajña-ms"
+                      },
+                      "text": "MS"
+                    },
+                    {
+                      "t": "text",
+                      "text": "beginnt nach der Lücke mit"
+                    },
+                    {
+                      "tag": "q",
+                      "attributes": {
+                        "type": "variant",
+                        "lang": "sa-Latn"
+                      },
+                      "text": "yogāt,"
+                    },
+                    {
+                      "t": "text",
+                      "text": "was auch das letzte von Ratnakīrti zitierte Wort ist. Da der"
+                    },
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sajña-ms"
+                      },
+                      "text": "MS"
+                    },
+                    {
+                      "t": "text",
+                      "text": "-Text inhaltlich diesen Beweis voraussetzt und logisch fortfährt, liegt die Annahme nahe, daß das fehlende Folio den obigen bei Ratnakīrti zitierten Beweis enthalten hat."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "|"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "na tv asmadādīnāṃ kṣaṇabhaṅgasādhanam anumānam utpadyate | na"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "ca tadviṣayam adhyakṣaṃ vidyate | tad api pratyakṣadarśipu"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "ruṣopadeśadvāreṇotpadyata"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "27-4",
+                "lang": "de"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "children": [
+                    {
+                      "tag": "q",
+                      "attributes": {
+                        "type": "variant",
+                        "lang": "sa-Latn"
+                      },
+                      "text": "°dvareṇait°"
+                    },
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sajña-ms"
+                      },
+                      "text": "MS"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "iti paramparayā pratyakṣapūrvakam"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "eva |"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "bādhakapramāṇasiddhavyāptikasya",
+          "children": [
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "27-5",
+                "lang": "de"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "text": "Lies",
+                  "children": [
+                    {
+                      "tag": "q",
+                      "attributes": {
+                        "type": "variant",
+                        "lang": "sa-Latn"
+                      },
+                      "text": "°ṇābhāvasi°"
+                    },
+                    {
+                      "t": "text",
+                      "text": "!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "sādhanādhīnajanmano 'sya"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "kathaṃ paropadeśapūrvakatvam iti cet |"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "yadi paropadeśo na syād kiṃ siddhaṃ kṣaṇabhaṅgi āhosvid",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "akṣaṇikam iti saṃśaya eva na syāt | asati cāsmin na sādhanaṃ"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "pravarteta |"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "pb",
+          "attributes": {
+            "ed": "gb",
+            "n": "28"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "nanu paropadeśam antareṇāpi saṃśayo bhavan kena vāryeta",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "viparyayanimittena"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "28-1",
+                "lang": "de"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "children": [
+                    {
+                      "tag": "q",
+                      "attributes": {
+                        "type": "variant",
+                        "lang": "sa-Latn"
+                      },
+                      "text": "°nimitena"
+                    },
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sajña-ms"
+                      },
+                      "text": "MS"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "|"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "anumāno",
+          "children": [
+            {
+              "tag": "supplied",
+              "attributes": {
+                "resp": "#sajña-bue"
+              },
+              "text": "t"
+            },
+            {
+              "t": "text",
+              "text": "thāne saty api hi sadṛśāparāparokṣād"
+            },
+            {
+              "tag": "surplus",
+              "attributes": {
+                "resp": "#sajña-bue"
+              },
+              "text": "a"
+            },
+            {
+              "t": "text",
+              "text": "vipra"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "labdhasya mandabuddheḥ sa evāyam iti pūrvāparikatvādhyavasāyo"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "naiva"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "28-2",
+                "lang": "de"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "children": [
+                    {
+                      "tag": "q",
+                      "attributes": {
+                        "type": "variant",
+                        "lang": "sa-Latn"
+                      },
+                      "text": "neva"
+                    },
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sajña-ms"
+                      },
+                      "text": "MS"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "vivartate | tadatattvasaṃśayaḥ paropadeśaṃ vinā kathaṃ"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "bhavi"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "edRef": "#sajñā-ms",
+                "n": "IA.2.14-25a"
+              }
+            },
+            {
+              "t": "text",
+              "text": "tum utpadyate"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "28-3",
+                "lang": "de"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "children": [
+                    {
+                      "tag": "q",
+                      "attributes": {
+                        "type": "variant",
+                        "lang": "sa-Latn"
+                      },
+                      "text": "upapadyate"
+                    },
+                    {
+                      "t": "text",
+                      "text": "wäre vorzuziehen."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "|"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "bhavatu parasyopadeśāt saṃśayaḥ",
+          "children": [
+            {
+              "tag": "supplied",
+              "attributes": {
+                "resp": "#sajña-bue"
+              },
+              "text": "|"
+            },
+            {
+              "t": "text",
+              "text": "pratyakṣadarśina eveti"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "tu kutaḥ | anumātur apy upadeśād asau bhavann upapanna eva |"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "nanu tasyāpy anumātur anumānodayahetuḥ saṃśayaḥ kuta iti",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "vaktavyam |"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "anumātrantaropadeśād iti cet |"
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "na",
+          "children": [
+            {
+              "tag": "supplied",
+              "attributes": {
+                "resp": "#sajña-bue"
+              },
+              "text": "|"
+            },
+            {
+              "t": "text",
+              "text": "tatrāpy asya paryanuyogasya samānatvāt |"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "anādipūrvapakṣānumātrupadeśapūrvakatvād uttarottarānumā",
+          "children": [
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "tṛsaṃśayān na doṣa iti cet |"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "p",
+          "text": "na",
+          "children": [
+            {
+              "tag": "supplied",
+              "attributes": {
+                "resp": "#sajña-bue"
+              },
+              "text": "|"
+            },
+            {
+              "t": "text",
+              "text": "sarveṣām evāvidyānubandhasya sadṛśāparāparokṣād"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "asya ca vimatakāraṇasya"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "28-4",
+                "lang": "de"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "children": [
+                    {
+                      "tag": "q",
+                      "attributes": {
+                        "type": "variant",
+                        "lang": "sa-Latn"
+                      },
+                      "text": "vi",
+                      "children": [
+                        {
+                          "tag": "lb",
+                          "attributes": {
+                            "break": "no",
+                            "ed": "gb"
+                          }
+                        },
+                        {
+                          "t": "text",
+                          "text": "tama°"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sajña-ms"
+                      },
+                      "text": "MS"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "sādhāraṇatvenānumānahetoḥ"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "28-5",
+                "lang": "de"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "children": [
+                    {
+                      "tag": "q",
+                      "attributes": {
+                        "type": "variant",
+                        "lang": "sa-Latn"
+                      },
+                      "text": "°nanumāna°"
+                    },
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sajña-ms"
+                      },
+                      "text": "MS"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "saṃśayasya"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "svaviruddhaviparyāsāviruddhe manasi niravakāśatvād anumātṛ"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "tvāyogāt | yadi hi sākṣāddraṣṭā kaścid upadeṣṭā bhavet"
+            },
+            {
+              "tag": "surplus",
+              "attributes": {
+                "resp": "#sajña-bue"
+              },
+              "text": "|"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "bhavet"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "28-6",
+                "lang": "de"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "children": [
+                    {
+                      "tag": "q",
+                      "attributes": {
+                        "type": "variant",
+                        "lang": "sa-Latn"
+                      },
+                      "text": "bhavat"
+                    },
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sajña-ms"
+                      },
+                      "text": "MS"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "surplus",
+              "attributes": {
+                "resp": "#sajña-bue"
+              },
+              "text": "tadupadeśoktena saṃśayaḥ kaścid anumātā"
+            },
+            {
+              "t": "text",
+              "text": "tadupadeśo"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "ktena"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "28-7",
+                "lang": "de"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "children": [
+                    {
+                      "tag": "q",
+                      "attributes": {
+                        "type": "variant",
+                        "lang": "sa-Latn"
+                      },
+                      "text": "°kta°"
+                    },
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sajña-ms"
+                      },
+                      "text": "MS"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "saṃśayaḥ"
+            },
+            {
+              "tag": "supplied",
+              "attributes": {
+                "resp": "#sajña-bue"
+              },
+              "text": "|"
+            },
+            {
+              "t": "text",
+              "text": "pare 'pi puruṣā bhave"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "edRef": "#sajñā-ms",
+                "n": "IB.2.15-25b"
+              }
+            },
+            {
+              "t": "text",
+              "text": "yur"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "anumātāraḥ | sākṣād"
+            },
+            {
+              "tag": "supplied",
+              "attributes": {
+                "resp": "#sajña-bue"
+              },
+              "text": "d"
+            },
+            {
+              "t": "text",
+              "text": "raṣṭari"
+            },
+            {
+              "tag": "note",
+              "attributes": {
+                "n": "28-8",
+                "lang": "de"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "children": [
+                    {
+                      "tag": "q",
+                      "attributes": {
+                        "type": "variant",
+                        "lang": "sa-Latn"
+                      },
+                      "text": "°ra"
+                    },
+                    {
+                      "tag": "ref",
+                      "attributes": {
+                        "target": "#sajña-ms"
+                      },
+                      "text": "MS"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "text",
+              "text": "punar asati puruṣe jñātur avi"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "paryāsavāsanānām udbhedābhāvena samayābhāvād ajāyamāne anumāne"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "katham anumātṛtvaṃ nama | tasmāt sākṣāddraṣṭopadeṣṭā kaścid"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "eṣṭavyaḥ | yaś ca sarvadharmakṣaṇikatvādisākṣātkāry upadeṣṭā"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "sa bhagavān"
+            },
+            {
+              "tag": "surplus",
+              "attributes": {
+                "resp": "#sajña-bue"
+              },
+              "text": "|"
+            },
+            {
+              "t": "text",
+              "text": "surāsuraśiromaṇiḥ sarvajña iti |"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "lg",
+          "children": [
+            {
+              "tag": "l",
+              "text": "kṛtvā sarvavidaḥ siddhiṃ puṇyam āsāditaṃ mayā |"
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "ed": "gb"
+              }
+            },
+            {
+              "tag": "l",
+              "text": "etena sakalo lokaḥ sārvajñaṃ padam āpnuyāt ||"
+            }
+          ]
+        },
+        {
+          "tag": "lb",
+          "attributes": {
+            "ed": "gb"
+          }
+        },
+        {
+          "tag": "trailer",
+          "text": "paṇḍitajitāreḥ sarvajñasiddhiḥ ||"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4350 @@
+{
+  "file_title": "diksita-jivanacaritra",
+  "file_title_normal": "diksita-jivanacaritra",
+  "metadata": {
+    "document_id": "navalkishore-jivanacaritra1895",
+    "header_language": "en",
+    "titles": [
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "Jīvanacaritra"
+          }
+        ],
+        "text": "Jīvanacaritra",
+        "type": "main"
+      }
+    ],
+    "original_title": "Jīvanacaritra",
+    "authors": [
+      {
+        "content": [
+          {
+            "type": "text",
+            "value": "Bandīdīna Dīkṣita"
+          }
+        ],
+        "name": "Bandīdīna Dīkṣita"
+      }
+    ],
+    "author": "Bandīdīna Dīkṣita",
+    "contributors": [
+      {
+        "responsibility": "The text were scanned and OCRed at Heidelberg University with the software \n            SanskritOCR Version 1.0.1.0 [+S] by",
+        "name": "Fachinformationsdienst Asien at Heidelberg University"
+      },
+      {
+        "responsibility": "Rough corrections of the OCRed texts by",
+        "name": "Fachinformationsdienst Asien at Heidelberg University"
+      },
+      {
+        "responsibility": "prepared for SARIT by",
+        "name": "Liudmila Olalde",
+        "name_attributes": {
+          "ref": "https://viaf.org/viaf/308710472/"
+        }
+      }
+    ],
+    "funder": {
+      "type": "funder",
+      "content": [
+        {
+          "type": "text",
+          "value": "German Research Foundation (Deutsche Forschungsgemeinschaft, DFG); Project \"CrossAsia - Fachinformationsdienst Asien\" 2016-2018"
+        }
+      ]
+    },
+    "edition": {
+      "description_paragraphs": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "value": "The text was OCRed and has to be proofread. Only evident OCR errors were corrected."
+            }
+          ]
+        }
+      ]
+    },
+    "publication": {
+      "publisher": {
+        "type": "publisher",
+        "content": [
+          {
+            "type": "text",
+            "value": "Project \"CrossAsia - Fachinformationsdienst Asien\", 2016-2018."
+          }
+        ]
+      },
+      "date": {
+        "text": "2018"
+      },
+      "availability": {
+        "status": "restricted",
+        "license_declaration": {
+          "content": [
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Distributed under a"
+                },
+                {
+                  "type": "ref",
+                  "attributes": {
+                    "target": "https://creativecommons.org/licenses/by-sa/4.0/"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Creative Commons Attribution-ShareAlike 4.0 International licence."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "value": "Under this licence, you are free to:"
+                }
+              ],
+              "text": "Distributed under a \n              Creative Commons Attribution-ShareAlike 4.0 International licence. Under this licence, you are free to:"
+            },
+            {
+              "type": "list",
+              "items": [
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Share — copy and redistribute the material in any medium or format."
+                    }
+                  ]
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Adapt — remix, transform, and build upon the material for any purpose, even commercially."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "The licensor cannot revoke these freedoms as long as you follow the license terms."
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "Under the following terms:"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "items": [
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use."
+                    }
+                  ]
+                },
+                {
+                  "type": "item",
+                  "content": [
+                    {
+                      "type": "text",
+                      "value": "ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "p",
+              "content": [
+                {
+                  "type": "text",
+                  "value": "More information and fuller details of this license are given on the Creative Commons website."
+                }
+              ]
+            }
+          ],
+          "text": "Distributed under a \n              Creative Commons Attribution-ShareAlike 4.0 International licence. Under this licence, you are free to:  \n            Share — copy and redistribute the material in any medium or format.  \n              Adapt — remix, transform, and build upon the material for any purpose, even commercially.  \n            The licensor cannot revoke these freedoms as long as you follow the license terms.  \n            Under the following terms:  \n            Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  \n              ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  \n            More information and fuller details of this license are given on the Creative Commons website."
+        },
+        "full_description": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "value": "SARIT assumes no responsibility for unauthorised use that infringes the rights of any copyright owners, known or unknown."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "body": [
+    {
+      "tag": "div",
+      "children": [
+        {
+          "tag": "pb",
+          "attributes": {
+            "n": "01"
+          }
+        },
+        {
+          "tag": "head",
+          "text": "श्रीमान् मुंशी नवलकिशोरजीको",
+          "children": [
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जीवनचरित्र प्रारम्भ: ॥"
+            }
+          ]
+        },
+        {
+          "tag": "lb"
+        },
+        {
+          "tag": "head",
+          "text": "षट् पदछंद ॥"
+        },
+        {
+          "tag": "lb"
+        },
+        {
+          "tag": "ab",
+          "text": "लंबोदर गजबदन कदन घन विघन पगा",
+          "children": [
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "(...)न । अशरन शरन कृपाल विकट संकट हठि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "(...)रन ॥ सुर सरदार उदार दार चारहु फल"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "(...)को । यश अपार शुचिसार वेद विस्तारत"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "(...) को ॥ ध्याय ताहि लवलाय पग चाहि दया"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "(...)कोरको । बरणहुं जीवन चरित कछु श्रीम"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "(...)लकिशोरको ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सोरठा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "(...)ऋषिते उत्पत्ति ज्यहिकुलकीभइजगतमहँ ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "02"
+              }
+            },
+            {
+              "t": "text",
+              "text": "भार्गवकुलस्वइसत्ति विदित भयोअतिबृद्धिलहि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दाहा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जनमें त्यहिकुल धवलमहँ श्रीयमुनापरसाद ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जिनको यशवर्णनकरत भरत हृदय अहलाद ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सरसीछंद ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पश्चिम देश प्रदेश बेश शुभ जासु अली-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "गढ़ नाम । त्यहि अन्तर्ग्गत बसत लसत इक-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुभग सासनी ग्राम ॥ बृन्द भार्ग्गव बहुनि ब-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सत तहँ अति अनन्द दरशाय । औरहु इतर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "वर्ण राजत तहँ धनिक बनिक बरभाय ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दोहा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "श्री यमुना परसाद के पितृ पितामह आदि ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बसेप्रथमत्यहि ग्राममहँ सुखसह रहित उपाधि ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ककुभाछन्द ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "करी बहुत एकत्र रियासत महि ग्राम(...)दि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "इलाका । धाम ललाम रचे विरचे बाँ(...)ध्यो"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुयश पताका ॥ करि बहुकाल विशाल भोग"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुख अन्त गये सुर धामहिं । उज्ज्वल कीर(...)ति"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ते प्रगट्यो बहु जगत माहिं निज नामहिं ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "03"
+              }
+            },
+            {
+              "t": "text",
+              "text": "दोहा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "श्री यमुना परसाद के बुद्धिमान गुण खानि ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पांच पुत्र संभव भये वर्णहुँ तिन्हैं बखानि ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "फूलचन्द दीरघ तनय तिनते नवलकिशोर ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जिनको उज्ज्वल सुयशजग फैलोचारिहुओर ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तोमरछन्द ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुत तृतिय तुलसीराम । अरु रामसेवक नाम ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तिन ते दमोदर दास । ये पांच सुत सुखरास ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कवित्त ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "देवन में सत्त्वगुणी विष्णु ज्यों बखाने जात"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ग्रहन में ग्रहपति गतितमतोरको । मुनिन में"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नारद विशारद गुणिन माहिं बानरन माहिं ह"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नूमान बरजोरको ॥ पक्षिन के मध्य जैसे हंसकी"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "प्रशंसा होत राम अवतारिन में सुयश अथोर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "को । सरन में मानस औ बरन में द्विज बन्दि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नरन में जानिये त्यों नवलकिशोरको ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दोहा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तिन श्री नवलकिशोरको वरणत चरितउदार ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "04"
+              }
+            },
+            {
+              "t": "text",
+              "text": "जाविधितेलहि जन्मजग कीन्ह्यों सुयशपसार ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कुण्डलिया ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पुर मथुरा ब्रजभूमि महँ अति पावन शुभ"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "देश । लिखित पुराणन महँ विमल जहँ यदु"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भये नरेश ॥ जहँ यदु भये नरेश वेश करणी"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जिन कीन्हीं । करि २ अमित सुकर्म धर्मसों"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "महि भरिदीन्हीं ॥ कृष्णचंद आनन्द कन्द जहँ"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कंसहि भथुरा । तीरथ परम पवित्र विदित जग"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "में पुर मथुरा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ककुभाछन्द ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "रीढ़ाग्राम तासु अन्तर्ग्गत बहु अन धन"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सम्पन्ना । श्री मन्नवलकिशोर जन्म लहि तहां"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भये उत्पन्ना ॥ युग्म नन्द वसु चन्द सुसंबत वि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "क्रम केर बतायो । पूस मास सुखरासतासुमधि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जन्म समय शुभ गायो । जस कौशलकिशोर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कौशल्या नवलकिशोर यशोदा । तद्वत् नवल"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "किशोरहि जायो माय पाय बहुमोदा ॥ कछुक"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "काल रहि वहि रीढ़ा महँ फेरिसासनी आयो ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "05"
+              }
+            },
+            {
+              "t": "text",
+              "text": "मात पिता तिनको पढ़िबे हित पण्डित पास"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बिठायो ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "झूलाछन्द ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बरस दश तक पढ़े पण्डित पास सहित हु"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "लास । गये इतने दिवस सुखमहँ भये अति"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मतिरास ॥ पुनि तहां ते आगरे महँ आय कीन"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "निवास । पढ़न कालिजमाहिं लागे करि अतिव"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "अभ्यास ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दोहा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पांच बर्ष पुनि तहँ पढ़्यो बीते पन्द्रह साल ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "वुधिविद्या अतिशयलह्यो गह्योविवेकविशाल"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तोटकछन्द ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "लहि कै शिक्षा सब भांति भली । अतिशय"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मतिबेलि सुबेलि फली ॥ अखबार निहारक पं"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "थगहा । ज्यहिको प्रथमैं बहु शौकरहा ॥ मज़"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मून पठै अखबारनको । ख़बरैं बहुदेत प्रचारन"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "को ॥ यहि भांति कछू दिन बीति गये । सिखि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पत्र प्रचारक रीतिगये ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "06"
+              }
+            },
+            {
+              "t": "text",
+              "text": "गोपालछन्द ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तब उत्साह हृदयधरि आम । पत्र सफीर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "आगरा नाम ॥ स्वयं प्रचार कीन मतिधाम ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जानि देश उन्नति परिणाम ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दोहा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "अति उदार सर्कार लखि बुधि विद्या परवीन ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "श्रीमन्नवलकिशोर को नियत वजीफा कीन ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "रोलाछन्द ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "आवत षोड़श वर्ष हर्ष हिय में शुभ साजे ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुष्ठु मुहूरत पाय जाय लाहौर विराजे ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मुंशी हरसुखराय केर तहँ रह यंत्रालय ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "करिबो तहँ उद्योग कीन मनमें असख्यालय ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सोरठा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "धरि उर सुखद विचार यंत्रालय महँ रहबभल ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुलाज़िमी स्वीकार कीन्ह्यों हरसुखराय की ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दोधक ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कार गह्यो अखबार नवीसी । शुद्ध विचार"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "07"
+              }
+            },
+            {
+              "t": "text",
+              "text": "पस्यो यह दीसी ॥ लाग लिखै मज़मून त्यहीकी ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बेलि चली बढ़ि बुद्धि सहीकी ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दोहा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सीग़ा सब अखबार को लियो आपने हाथ ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "वर प्रबंध लागे करन उत्तमता के साथ ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सोरठा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नाम तासु अभिराम कोहनूर अखबार बर ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "विदितदेशमहँ आम जानत सज्जन वज्ञजन ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "चौपाई ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "यावत काम रीति जस चाही । नीति प्रती-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ति सहित निर्वाही ॥ भई प्रबंध करन महँ उ-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "न्नति । सम्मत शुद्ध सदै बुधि गुन्नति ॥ करिबर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "इन्तिज़ाम दिखरायो । भयो प्रसन्न स्वामि सुख"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पायो ॥ सब अधिकार सौंपि तबदीन्ह्यों । रीति"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "प्रतीति जानि भलिलीन्ह्यों ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सोरठा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बीते किंचित काल भयोहाल तहँ आनि अस ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "08"
+              }
+            },
+            {
+              "t": "text",
+              "text": "मुंशी हरसुखलाल अकस्मात भे विपति वस ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "निश्चय क्यहू प्रकार होनहार होवो चहै ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भोतहँ कारागार मुंशी हरसुखराय को ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दोहा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "स्वामि दुःखलखि दुखितह्वै मुंशी नवलकिशोर ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "लागे करन उपायबर रह्यो जहांलग जोर ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "त्रिभंगी ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "करि यतन अनेका सहित विवेका तन मन"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तामहँ दीन्ह्यों । शुभशील स्वभावन बुद्धिप्रभा"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "वन हुक्कामन खुशकीन्ह्यों ॥ बहु समयन आयो"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "विपति हटायो मालिक को सुख दैकै । अतिल"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ह्यो प्रशंसा गतसबशंसा सुयश बीज बरबैकै ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मधुभार ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "त्रय चारि वर्ष । तहँ रहि सहर्ष ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पुनि असबिचार । उरलीन धार ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दोहा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "आवत साल इकीसवों करिउर गणपतिध्यान ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "09"
+              }
+            },
+            {
+              "t": "text",
+              "text": "छाँड़िनौकरी हर्षसह तहँते कियो पयान ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "आयआगरेमहँ कियो कछुककालपुनिबास ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पुनि उरमंत्र दृढ़ाय अस करी औरही आस ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "हरिलीला ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सौमित्रनग्रमहँ आय उमंग छाय ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ठहराय मंत्र शुचि लागकरै उपाय ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सरसायबुद्धि दरशाय बिचार चारु ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुरराय शंभुपगध्याय धस्यो सुकारु ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ककुभा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बलबाको गड़बड़ त्यहि अवसर अति अ-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ड़बड़ रहबेरा । भयन तासु आन्यो मनकिंचित्"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नेक बिलंबनहेरा ॥ वरविचार ठहराय हृदयमहँ"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "लै निदेश सर्कारी । सबसुख आलय यंत्रालय"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "की नीवँ मनोहर डारी ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सोरठा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सब सामान मँगाय करि उपाय उत्तम तबहिं ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "गणपति चरण मनाय यंत्रालय प्रारंभ किय ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "10"
+              }
+            },
+            {
+              "t": "text",
+              "text": "चौपाई ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "वहि अवसरलक्ष्मणपुरमाहीं । रह्योद्वितिय यंत्रा"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "लय नाहीं ॥ दयादृष्टि रघुनायक हेरी । बढ़यो"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "काम लागी नहिं देरी ॥ चलन लग्यो सुख सों"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "यंत्रालय । होन प्रबंध लग्यो अति आलय ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मिलिकै हुक्कामन खुशकीन्ह्यों । सकलकाम"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सर्कारी लीन्ह्यों ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दोहा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "यद्यपि धन संकेतता रही सही वहि काल ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तदपि हर्ज कछुनहिं भयो दाहिन रामकृपाल ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तोटक ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "अति उत्तम काम बिलोकि तबै । परसन्न"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भये हुक्कामसबै ॥ धनलागमिलै बहुताइतसों ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पड़िगै जड़ सुंदरसाइतसों ॥ प्रतिद्योसवढ़ै बर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कारलगो । मदतिउमहँ त्यों सर्कारलगो ॥ नर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नौकर आय अनेक भये । करिकाम भले अ-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "धिकार लये ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "11"
+              }
+            },
+            {
+              "t": "text",
+              "text": "कवित्त ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कछु दिन बीते मनचीते अभिलाष सब"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "लाख लाख भांतिते सुफूलिफलिबेलगे । जितो"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कारबार व्यवपार व्यवहार आदि प्रति दिन"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बड़ि २ धनझलिबेलगे ॥ शील सुघराई चतु"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "राई औ बड़ाई बहु छाई घन विघन गणेश"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दलिबेलगे । आपहीते आप परतापको प्रका"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "शभयो शत्रुउरताप करि कर मलिबेलगे ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नाम अभिराम ठाम ठाम में विदित भयो"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ग्राम ग्राम धाम धाम जानि सत्रलोगगे । चहुँ"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ओर छोरलगि नवल किशोर यश उज्ज्वल दु"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नीमें दिपो भागिसब शोगगे ॥ गिनती रईसन"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "में थाप अवनीशनमें भिरि बीस हीसनमें भूरि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सब भोगगे । प्रतिदिन विभव बरधिबेके बंदी"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कवि अनायास हाथमध्य आय सब योगगे ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भुजंगप्रयात ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बढ़्यो कारखाना तबै बेप्रमाना । रमाकलै ठि-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "काना कियो धाम थाना ॥ लये मोल मक्कान कै"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "एकभारी । कई एक कोठी सवाँरी नियारी ॥ कई"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "12"
+              }
+            },
+            {
+              "t": "text",
+              "text": "एक सीगा किये कारहू में । लगायो चितै खूब"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "व्यापारहू में ॥ शिला यंत्र टाईपके प्रेस न्यारे ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सवाँरेरे मिशीनौं के भारे क़तारे ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सोरठा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "अतिशय कियो प्रचार प्रेरि देश महँ पत्रको ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नाम अवध अख़बार उर्दू बर मज़मून युत ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "चामर ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "छापि २ पुस्तकैं अनेक भांति २ की ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "देशमें प्रचार कीन भिन्न २ जातिकी ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "काब्यऔपुराणकोश धर्मशास्त्रआदिजे ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "गुप्त क्वै गये ते ह्वै गये ते ग्रन्थ बादिजे ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मलिना ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "धन व्यय बहु कै कै ग्रन्थ खोजे मँगाये ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बुधजन मतलैकै शुद्ध उल्था कराये ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सब बिधि निज मुद्रा यंत्र में त्यों छपाई ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जग प्रकट करी सो भूरि पाई बड़ाई ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "13"
+              }
+            },
+            {
+              "t": "text",
+              "text": "शोभना ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "और वैद्यक ज्योतिषहुके ग्रन्थ अमित मँगाय ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "देश भाषा माहिं उल्था बुधनते करवाय ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "छापि सुंदर टैपमें परचार जग महँ कीन ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "उपकार हित जनु देशके अवतारही धरिलीन ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "यवन मतकी बहु किताबैं लुगत आदि कुरान ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "छापिसहित विधान कीन्ह्यों सर्बबिधिसन्मान ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कितक इँगलण्डीयमत की पुस्तकें अप्रमान ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कीन मुद्रित मुदित दै दै द्रव्य अरु बहु मान ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कावत्त ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "देश उपकारक प्रचारक सुदेश मत शुद्ध"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पथ धारक न दूसर निहास्यो अस । धरम स्व"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "रूप मतियूप दया कूप बर सुकरम करि २ ज"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "गत पसास्यो यस ॥ बन्दी कवि कवि बुध बृन्द"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "न अनन्द दानि सबगुण खानि जानि हिरदै बि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "चास्योअस । नवलकिशोर धरि नवलकिशोर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तन जगत भलाई हित रूप नर धास्योअस ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुयश सुवेश देश देशन में पूरि गयो जैसे"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बंदि चंद्रिका प्रकाशै महताबकै । धरम कि बे"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "14"
+              }
+            },
+            {
+              "t": "text",
+              "text": "ली चहुँ ओर बरबेली घनी अरि उर कांपै सु"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नि गालिबी रुआबकै ॥ अंग अंग शीलताकि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बिलसै तरंग चारू विभव अकत्थ समरत्थता"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुदाबकै । याही तेज ताब देखि हरष बढ़ाय"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "उर दीन्ह्यों इँगलण्डिनी (सी, आई, ई)"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "खिताबकै ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "चौपाई ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जग उपकार सर्व बिधि चाह्यो । यथा श"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "क्ति कीन्ह्यों निर्वाह्यो ॥ दुखी अनाथ वृद्ध"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "लाचारन । कीन्हें अन धनादि उपचारन ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बृद्ध नौकरन पिंशन दीन्ह्यों । सह कुटुम्ब प्रति"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पालन कीन्ह्यों ॥ डाक्टर वैद्य हकीम घनेरे ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नौकर किये देश हित हेरे ॥ दुखि मरीजन की"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बिन पैसा । औषधि होत चाहिये जैसा ॥ अं-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ध अपाहिज जो लखिपाये । शीत काल महँ"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बस्त्र बँटाये ॥ तालिबइल्म दीन जो रहे । कछु"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सहायता उनसों चहे ॥ फीस किताब आदि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तिनको दै । पढ़न माहिं दीन्ह्यों बहु मोदै ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दोहा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "वरणी करणी कहँलगे धरणी महँ चहुँ ओर ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "15"
+              }
+            },
+            {
+              "t": "text",
+              "text": "खोजेनहिंअसमिलहिनर जसश्री नवलकिशोर ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ककुभा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भार्गव बोर्डिगंहौस अपूरब रच्यो आगरे"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "माहीं । मुद्रावीस सहस व्यय कीन्ह्यों बालक"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पढ़त तहांहीं ॥ नियत रहन हित सदा सर्बदा"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "चलिबो व्यय साधारन । गावँ खरीदि लगाये"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तामहँ दृढ़प्रबन्धके कारन ॥ एकसहस्र पांचशत"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मुद्रा लाभ बार्षिकजामें । सो संपूरण धनगावँन"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "को खर्च होतहैतामें ॥ पन्द्रहसोलहसहस रूपैया"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "लगो इमारत माहीं । लखतै बनत तासुशोभा"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "शुभ कहनयोगहै नाहीं ॥ जगत लाभहित और"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "अनेकन करीधरी शुभबतैं । सो सब अकथधर्म"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कोगाथा लह्यो सुयश बहुजातैं ॥ अस्पताल वि-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "द्यालयकेते होत शिकस्त निहारे । चंदामाहिं स"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "हस्रनमुद्रा दैदै तिन्हैंसम्हारे ॥ उत्तरओर लक्ष्म"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ण पुरके गोमतिनदी किनारे । बनवाई उत्तम"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कागज़ कल अचरज होतनिहारे ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "चौपई ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मेवर सन्टूल कालिज जौन । विदितप्रयाग"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "16"
+              }
+            },
+            {
+              "t": "text",
+              "text": "मध्य अति तौन ॥ तहां कुतुबखाना इकदीन ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "विद्यालाभ सुलभ जगकीन ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भुजंगप्रयात ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तहांहीं सुकायस्थ को पाठशाला । लसैखूब"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "आला जहाँसे निराला ॥ दियो पुस्तकालै तहां"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "एकभारी । कहांलौ कहैं कीर्ति ताकी पियारी ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दोहा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "एक सहस मुद्रादियो वही किताबन साथ ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जगजीवनके फलसकल लियेआपनेहाथ ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "शोभना ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "केनिंग कालिज लखनऊमहँ पुस्तकालयदीन ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सरजार्जकोपर नामकी करियादगार नवीन ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "अरुबरेली माहिं दीन्ह्यों पुस्तकालय एक ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "स्वई फैजाबादहू मह दीन्ह करि शुभटेक ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ककुभा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "श्री भार्गवनेशनल एसोसीएशन मथुरामाहीं ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दीनकुतुबखानाजगजाना कहेनगुणगणजाहीं ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "17"
+              }
+            },
+            {
+              "t": "text",
+              "text": "जम्बूअरुकश्मीरप्रगटजेचहुँदिशिबररजधानी ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तहँउँकुतुबखाना शुभदीन्हेनृपहितनामनिशानी"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "शोभना ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "श्री सवाई रामसिंह भुवाल जयपुरपाल ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कीयादगार बिचारहित तहँदीन पुस्तकआल ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भांतियहिकरिचरितबहुभरिसुयशजगमहँआम ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "देशोपकारक कामकिय अरु प्रकटआपननाम ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कवित्त ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "महाराज राज अधिराज श्री महेन्द्रसिंह"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "आली पटियाल भूमि पाल जे बखाने अति ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तिनकी उदार यादगार निर्धारहित उचित"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बिचार मनमानि जानि ठाने अति ॥ सहित"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "उछाह पुस्तकालै तहँ दीन्ह्योंइक कीन्ह्यों सब"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भांति यशख्याति सन्माने अति । याही लगि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नवलकिशोरके अथोरगुण पगपग मगमगअग"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जग जानेअति ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ककुभा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सरचार्लस एचीशनकेरी यादगार हितभारी ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "18"
+              }
+            },
+            {
+              "t": "text",
+              "text": "दियो पुस्तकाले सुबिशालै बरकीरति बि-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "स्तारी ॥ औरहु सहायता हितताकी नक़दपांच"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "शतमुद्रा । सहउत्साहसमर्प्यो सुंदरबाढ़्यो सुयश"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "समुद्रा ॥ रीडिंइन्स्टीट्यूट आक्स फोरड महँ यह"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बिधि कीन्ह्यो । यूनि वर्सिटी मध्य हर्षसह लाय"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बरेरी दीन्ह्यों ॥ क़ायम जौन अलीगढ़ में बर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "लायल लायबरेरी । तहां कुतुबखाना मनमाना"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दीन्ह्यों शुभपथहेरी ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "शोभना ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नक़द मुद्रा दश हज़ार उदार तामहँ दीन ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कीन जगउपकार अरुबहुभारयश शिरलीन ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "लखनऊ तहज़ीब जल्सा माहिं लायबरेरि ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दैघनेरि सुहेरि शुभपथलइ प्रशंसा ढेरि ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ककुभा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जुबलीहाईस्कूल लखनऊ महँ सहाय असि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कीन्ह्यों । मुद्रा पन्द्रह सहस देय कै धर्म अर्थ"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "फल लीन्ह्यों ॥ पन्द्रह सहस रुपैया लेडीडफ"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "रनफंडम दीन्ह्यों । पांच हज़ार मकान कि खा"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तिर औरहु अर्पण कीन्ह्यों ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "19"
+              }
+            },
+            {
+              "t": "text",
+              "text": "शोभना ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "विदित नैनीताल रेम्ज़ी अस्पताल अगार ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तहां मुद्रा पांच शत दै कीन जगउपकार ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "चरित अमित अपारयहिबिधिकहेहोत न पार ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "है सुरसना माहिं बशना करहि जो निर्धार ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सवैया ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "और सुनौ तिनकी कछु कीरति जीरति चा-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "हत भाषैं अगारी । प्यारी लगै उपकारी लगें"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुखभारी जगै औ भगै दुख भारी ॥ भूली न"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "काहुहि झूली सबै मन फूली फली फल फूल"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सवाँरी । सो फुलवारी कि न्यारी छटा कवि बंदि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "निहारी भई मतिवारी ॥ एक समय सर्कार बि-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "चारिकै चाहत आगरा कालिज तोरहि । एक"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "शिकस्त दुजे असहायक तीजे चल्यो न कछू"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "क्यहु जोरहि ॥ सो सब कारन ध्यान कस्यो"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "औ पयान कस्यो तुरतै त्यहि ओरहि । दै रूपया"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "अरु रक्षक ह्वै त्यहि राखि लियो श्री नवल"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "किशोरहि ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "20"
+              }
+            },
+            {
+              "t": "text",
+              "text": "हरिगीता ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "श्रीअलवर्टविक्टर के स्कूल में चन्दा दियो ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "अरु भारताकरशीशलै सबभांतितेरक्षाकियो ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "विधवाअनाथ तियानके प्रतिपालिवे हितआम"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "को । दीन मुद्रातीनसहसरुकीनजगमहँनामको ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "षटपद ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कलकत्तामहँ लेंसडौन लाव्रेरीमाहीं । पुस्तक"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "आलयदीन गिने गुण कहँ लगजाहीं ॥ जो जो"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कारज कीन कह काहूनहिं अबलौं । रैहै सु"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "यश प्रसिद्ध सृष्टि शाशि सूरज जबलौं ॥ बंदि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "अनंदित ह्वै कहत तासुविशदगुण यथामति ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "गतिमति कीरति नति उनति है विस्तृत ज्यहि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जगतअति ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "हरिगीतिका ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मेरुढोसी अमल तपथल जगह भलि सुख"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मूरकी । हैरियासत मध्य जो पटियाल औजय"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पूरकी ॥ तहँमहर्षी च्यवन जी को रह्यो वर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "एएए - -"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "21"
+              }
+            },
+            {
+              "t": "text",
+              "text": "अस्थानसो । क्यहुकाल को विरचो रचो पुनि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भयो जरिण आनसो ॥ नारनौल समीप में"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "छवि दीप है मशहूरसो । भे तासु सुंदर थान के"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सोपान आदिकचूरसो ॥ त्यहि माहिं चंदा"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दीन कीन प्रबंध अति उत्तम तहां । यशलीन"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नितहि नवीन ताते चरित गावत सब जहां ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सोरठा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बारह सौ पच्चास संख्या मुद्रा तासु की ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "फहरत ध्वजा अकास यही धर्म शुभ कर्म ते ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ककुभा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पब्लिकलायबरेरी मेरठ महँ इक पुस्तक"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "आलय । दीन्ह्यों सुभग भलाई लीन्ह्यों करि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "उर उत्तम ख्यालय ॥ बारहबंकीमें अर्प्यो पुनि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "वही भांति सुखमानी । एककुतुबखाना परधाना"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ऐसे उत्तम दानी ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तोमर ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "राजा जय किशुन दास । को हेत कै सहुलास ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "22"
+              }
+            },
+            {
+              "t": "text",
+              "text": "इक कुतुबखाना दीन । अति कर्म उत्तमकीन ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सोरठा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "चौबे बोर्डिंगहौस माहिं तौन अर्पोगयो ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "यही भांति यशरौस बांधी दृढ़करि जगतमहँ ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जिनके गुणगणहार देखिलेखि व्यवहारबर ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दिये विविध अधिकार श्रीसर्कार उदारने ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "हरिगीतिका ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सन सतत्तर माहिं देहलीक़ैसरे दरबार में ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मेहमानगवरनमेंटकेह्वै बिदितभे दिशिचारमें ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "अवध के दरबार पब्लिक माहिं बहुसन्मानते ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "प्रथम पदकी मिलतकुर्सी हाकिमौसबजानते ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सर्कार के दरबारमें अस कोइजल्साज्ञातना ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ज्यहिमाहिंनवलकिशोरआदरसेबुलायेजातना ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ककुभाछन्द ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "यूनिवर्सिटी श्री प्रयाग के फैलोपदको पायो ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "म्यूनिसिपल्टीबोर्ड लखनऊके मेंबर कहलायो ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "देहिं रायफुरमाय जहांजो सोसब हाकिम मानै ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "23"
+              }
+            },
+            {
+              "t": "text",
+              "text": "टरैन फेरि करैकोड केतौ नीकीबिधि सबजानै ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "हरिगीतिका ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "आनरेरी इंसपेक्टर नियत भे पुनि जेलके ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "स्वईपदसे युक्त अवधरुहेलखण्ड कि रेलके ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कहांतक कबि कहै कीरति बरणि अगम अपा"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "रजू । सबको पियार उदार नवलकिशोर सुयश"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भँडारजू ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दोहा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बुलवावत हुक्कामयहि हेत कमेटिन माहिं ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "इन्हैं बहुत धनदेतलखि और लोग शर्माहिं ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "यथाशक्ति तबदेहिं सब कामतुरत ह्वै जाय ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तामहँ नवलकिशोर को जायसुयश जगछाय ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "शोभना ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जौन आवत लषणपुर महँ भूमि ईश रईस ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "करत ताको हर्षसह सन्मान विस्वाबीस ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "यथावत महिमानदारी देत ताहि टिकाय ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "देततौन प्रशंसि नवलकिशोर हेतबड़ाय ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "24"
+              }
+            },
+            {
+              "t": "text",
+              "text": "सोरठा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कहँलगि करहुँबखान बरणतबनतनविशदयश ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "धर्मध्वजा फहरान जासु अपूरब जगतमहँ ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ककुभा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "उनसठ बर्ष हर्षसह तनधरि कीन्हीं जगत"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भलाई । गाईजात सकल सो मुखनहिं महि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "महँ चहुंदिशिछाई ॥ सो नरवीर धीर धर्मध्वज"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कल्प वृक्ष नरपुरको । अकस्मात तन त्यागि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "रागिसुख अन्तगयोसुरपुरको ॥ शशि शर नन्द"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "चन्द संबतशुभ फागुन कृष्णसुहायो । दशमी"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भौमबार पर भातहि ब्रह्ममहूरत छायो ॥ सन"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "शर नव वसु चन्द अंकगहि माहफरवरी गायो ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ऊनविंश तारीखमाहिं सो स्वर्गबास शुभपायी ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "श्लोक ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "विद्वज्जालप्रवालमालमिलितामल्लीकतांत"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "र्गता यल्लावण्यमयोमणि: प्रकटितोरामानुजा"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ख्येपुरे ॥ श्रीमन्नवलकिशोरनामककथं कर्तुंपुन"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "25"
+              }
+            },
+            {
+              "t": "text",
+              "text": "इशक्यसे कातेव्यक्तिविचारणावदविधे विज्ञप्ति"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "गत्याजया ॥ प्रख्याताकरकारकैस्सुकविता क"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ल्लोलकान्तालता व्यक्ताकल्पद्रुमस्यभूमिबि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "वरादाविर्विभूतागता ॥ जातायाजनिताजयान"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "रहरे: श्रीमत्कृपातोधरा देवानांहितकाम्यया"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नवलयुक्‌कैशोरकाख्यामहा ॥ धात्रादीनकदम्ब"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कंबलवता ताताम्बहीनाहितं नश्यंतेतिकपाल"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जालजनिता क्लिप्तामदीयालिपि: ॥ संचिन्त्याम"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "लबुद्धिशुद्धममृत पानैकदेशाधिप माहूयार्द्धसना"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "धिकारमददच्छीनौलकैशोरके ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पद ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "यशको जहाज डूब्यो रसको समुद्र सूख्यो"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दया को खजानो मानो लूटि कोईलैगयो । दी"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नन अधीनन को मान अरमान टूट्यो विद्याको"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दिवान सो जहान से रितैगयो ॥ १ ॥ बाग अ-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नुराग को तड़ाग गुणी हंसनको सहजे सुखाय"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "हाय दाग दिल दैगयो ॥ २ ॥ पुण्य को पराग"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "औ अभागनको भाग वह शीलको सुहागता-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ग हितको बितैगयो ॥ ३ ॥ शूरन मयूरन को"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "26"
+              }
+            },
+            {
+              "t": "text",
+              "text": "पूरन पिरी तो मेघ चतुर चकोरनको चन्द सो"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "अथैगयो ॥ ४ ॥ ज्ञानको निधान सन्मान को"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "महान मेरु अप्रमान दानको वितान जनु नै"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "गयो ॥ ५ ॥ हिंदको निशान गुणवाननको प्रान"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बंदि नवलकिशोर चितचोरसो कितैगयो ॥ ६ ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कवित्त ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भारत को भाकर सो क्षितिको क्षपाकर सो"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "क्षमाकर क्षेमको सुछत्रही सो टूटिगो । कविवुध"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बंशन सुहंसन को क्षीरसिंधु अनायास सूखि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दया पयहूसों ऊटिगो ॥ पारस प्रवीनन को देव"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तरु दीननको द्विज गण मीननको बारिधि सो"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बूटिगो । नवल किशोर सुरपुरको पयानकीन्ह्यों"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मानो सनमानको खजानो महिलूटिगो ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "गाहँक गुणज्ञान के गुणको गरीबन को ग-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "रुता गिराको गुरु गायन को धायधाय । बा-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "हक सविधि सुख शीलको बितैको हितै सुलभ"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुभावको प्रभावको सुभायभाय ॥ बंदीकवि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कविकोविदनको कलपतरु कीरतिकुवेर करुणा"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "को उमरायराय । नरपुर पूरण पुरन्दर प्रसिद्ध"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "27"
+              }
+            },
+            {
+              "t": "text",
+              "text": "स्वई नवलकिशोर क्यहि ओरगो हिराय हाय ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जासु यश विशद विशेश वेश कढ़िकढ़ि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बढ़ि बढ़ि पुहमि दिगंतनलौ भरिगो । अतल"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "वितल तलातललौ लहरि सोई छहरि पताल"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "फणी फणपै फहरिगो ॥ फेरि फहरान आस-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मान के विमाननमें जाय मघवानपुर घीथिन"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "विथरिगो । हरिगो हेरायगो सो नवलकिशोर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "हाय पृथिवी को पूत पुण्यपादप उखरिगो ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुकृत समूलजाकी प्रविशि पतालगई अति"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दृढ़ दृढ़ताको नालहू दृढ़ायगो । सुयशको पात"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "छहरात रह्यो कालसब ढाकि अविवेक बारि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "स्वच्छ छवि छायगो ॥ बंदीकवि विकसि विशेश"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "वेश विभव के विमल दलन सों दिपति दरशा"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "यगो । हजरतगंज सरमानसको हाय सोई न"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "वलकिशोर कंज मंजुल झुरायगो ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बोय खुशबोय सनो विभव विवेकबीज सुकृत"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सलिल सींचि क्षितिषै क्षितैगयो । मोटकै कुअं-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कनको घने जनरंकनको भूरिवर्ताय सुख सपति"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "वितैगयो ॥ मण्डिकै मही में मान खण्डिक"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "28"
+              }
+            },
+            {
+              "t": "text",
+              "text": "गुमानअरि दानसन्मान प्रीति मतिन हितै"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "गयो । गुणिजन गुणगण रतन परखिबे को"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नवलकिशोर बर पारखी कितैगयो ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "परउपकारही पियारज्यहि कारहतो चातुरी"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "चमत्कार चित्तधरिबो हतो । अमित उपायकरि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "धायधाय चहूं ओर जीवन असीवन को मोदभ"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "रिबोहतो ॥ देखि गुणवानन को गुणमानदै विशे"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "षि सबविधि दीनन को दुख दरिबो हतो । बिधि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नविचास्यो त्यहि नवलकिशोर गुण ऐसे नरबर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "को अमरकरिबो हतो ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ग़जल"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कलिकालके तरुकल्पवे श्रीनवलकिशोरकहां"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "गये । हरठाम जो खुशनामको यश बीज बोय"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "जहांगये१मशहूर जिनकि उदारता उपकारता"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "शुभवार्ता । दरियादिलीकि दयाकि जो दरदर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पै दरिया बहागये २ गुणज्ञान की सन्मान की"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "समतानउनकीआनकी । दुनियांमेजोनिजटेकसे"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "अविवेक ढेरढहागये ३ क्याइल्मदानाआलिमों"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "की हरतरह सेकद्रकी हरएकके दिलमें इलम"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "29"
+              }
+            },
+            {
+              "t": "text",
+              "text": "कि अथाह थाह थहागये ४ क्योंनऐसे पुरुष"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कोकविवन्दि विधिने अमर किया । जातेहीइंद्र"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पदैलिया हुइहानि क्या जो वहांगये ५ ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "कवित्त ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "स्वरग पयानजान नवलकिशोर जीको भर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भर परिगो जहान थरथर में । दानमान सुकृत"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सयान गुणज्ञान आदि थरथर कंपिउठे सेयदर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दरमें ॥ कहां करैंबास और काकी अब आस"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "गहैं हेरिहेरि हारे नरनर घरघर में । देखिशुभ"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "लक्षण विचक्षण विशेषि तब आयबसे बाबू"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "प्रागनारायण करमें ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "ककुभाछन्द ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "श्रीमन्नवलकिशोर जौनदिन स्वर्गबासशुभ"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "लीन्ह्यों । अमरपुरी अमरेशबिना तिमिशून ल-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "षणपुरकीन्हयीं ॥ चाहिय यथायोग जो जसजब"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सोसब तैसहि भयऊ । स्वच्छ विमान बनाय ता"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुमधिमृतक देहधरिलयऊ ॥ हज़रतगंजरंजसों"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पूरो यावत नर अरुनारी । दुखीसकल परिवार"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "30"
+              }
+            },
+            {
+              "t": "text",
+              "text": "कुटुम्बी रोवत सुयश सवाँरा ॥ द्रव्य लुटावत"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "शुभयश गावत इस्टेशन परआये । संगहजा-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "रन पुरुष पयादेहि आयेशोक सताये ॥ पूरीट्रेन"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "इस्पिशल तुरतहि तहँतेगई छुड़ाई । सुर वि-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मानसी चली तहांते गंग घाटपर आई ॥ पुनि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तहँ ते उठाय शवदेही नेही साथ सिधारे । देर"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "न लगी आय गंगातट सुन्दर सरा सवाँरे ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "चंदन अगर दारु गंधादिक धरि घृतसों शुभ"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "साना । रच्यो बनाय जाय बरण्यों नहिं जनु"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुरपुर सोपाना ॥ मृतक कर्म उनको विधिवत"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुत प्राग नरायण कीन्हयों । करि शवदाह सु-"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भग सुरसरि तट दान द्विजन कहँदीन्ह्यों ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पुनि लक्ष्मणपुर आय यथोचित काज सकल"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "शुभ कीन्ह्यों । दश दिन दशौगात्र शुभदैकै दान"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "द्विजन कहँ दीन्ह्यों ॥ शांति करी फिरि दिवस"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तेरहें अगणित बिप्र जेवाये । इक २ मुद्रादियो"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दक्षिणा आदर सहित पठाये ॥ जस क्रिय करी"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भरथ दशरथकी दानप्रान सब दैदै । तस सुत"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "प्राग नरायण कीन्हीं पिता सुयश जगबैबै ॥ परि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "यर ग्राम जौन गंगातट ज़िला जासु उन्नामा ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "31"
+              }
+            },
+            {
+              "t": "text",
+              "text": "जो पचपनसहस्र को लीन्हयों श्रीमुंशी मतिधा"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मा ॥ सो अभिराम ग्राम सङ्कल्प्यो पुत्र प्रयाग"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नरायन । सम्मत पाय मायको सुन्दर जो अति"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "धर्म परायन ॥ सतीशिरोमणि तियमुशीकी युत"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "बहु शील भलाई । देवीरूप जानिये तिनको महि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मा जात न गाई ॥ मुंशीजीके लघुबंधव जो बाबू"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "राम सु सेवक । तिनके पुत्र प्रयाग नरायण शील"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "वान शुभ भेवक ॥ बाल अवस्था महँ मुंशी जी"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "तिनको राशि बिठायो । ह्वै प्रख्यात पुत्र मुंशीके"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुयश जगतमहँ पायो ॥ सुष्टुमहूरत शोधिबोधि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पुनि गुनियन मंत्र दृढ़ायो । पितु आसनपर अ"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "भिशासन हित हितसों तिन्हैं बिठायो ॥ लगे"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "प्रयाग नरायण देखन कारबार सब वैसै ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "छोंड़ि गयो पितु विभव अपरिमित हरो भरो"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सब जैसै ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "दोहा ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पाय सार्टीफिकट शुभ साधि रहयो सब कार ।"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "करहिं ताहि अधिकार युत चिरंजीवि कर्तार ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "tag": "pb",
+              "attributes": {
+                "n": "32"
+              }
+            },
+            {
+              "t": "text",
+              "text": "सवैया ॥"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "शारद सिद्धि सहाय सदागणनायक देहिं सु"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "मंगल भायन । रक्षक वेशमहेश हमेशहि होहि"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "सुबुद्धि सुधर्म परायन ॥ दाहिनिश्रीजगदम्बरहै"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "द्विजदेव कबींद्र करैं यशगायन । राज समाजके"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "साज सजे चिरजीवहु बाबू प्रयाग नरायन ॥"
+            },
+            {
+              "tag": "lb"
+            }
+          ]
+        },
+        {
+          "tag": "trailer",
+          "text": "इतिश्री उन्नामप्रदेशान्तर्गत मसवासीग्राम निवासी",
+          "children": [
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "पण्डित बंदीदीन दीक्षित निर्मित श्रीमानमुंशी"
+            },
+            {
+              "tag": "lb"
+            },
+            {
+              "t": "text",
+              "text": "नवलकिशोर जीको जीवनचरित्रसम्पूर्णम् ॥"
+            }
+          ]
+        },
+        {
+          "tag": "lb"
+        },
+        {
+          "tag": "trailer",
+          "text": "हक़तसनीफ़ महफूज़है बहक़ इसछापेखाने के ॥"
+        },
+        {
+          "tag": "lb"
+        }
+      ]
+    }
+  ]
+}
