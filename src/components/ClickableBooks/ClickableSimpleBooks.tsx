@@ -165,11 +165,7 @@ const ClickableSimpleBooks = ({
       element.attributes?.type ? classes[element.attributes.type] : '',
     ].filter(Boolean).join(' ');
 
-    if (element.tag === 'label') {
-      // Don't render label as visible text, but store it for parent element
-      return null; // Label content will be used by parent
-    }
-    
+
     // Extract segment number from different possible locations
     const segmentNumber = element.segment_number !== undefined ? element.segment_number : 
                         (element.attributes?.id ? 

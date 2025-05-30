@@ -80,11 +80,6 @@
   }
 
   
-  /* Existing metadata styles remain the same */
-  .bookContainer {
-    height: 100%;
-    padding: 0rem;
-  }
 
   .originalText {
     margin-bottom: 0.5rem;
@@ -197,11 +192,6 @@ mark:hover {
 
 
 
-.bookContainer {
-  height: 100%;
-  padding: 0rem;
-  position: relative; /* Ensure relative positioning for the absolute overlay */
-}
 
 
 .markerContainer {
@@ -539,9 +529,10 @@ mark:hover {
   transition: all 0.2s ease;
   font-size: 0.8rem;
   position: absolute;
-  left: -1.5rem; /* Move it to the left */
+  left: -3.5rem; /* Move it to the left */
   transform: translateY(-50%);
   top: 50%;
+  padding-right: 1rem;
   
 
 }
@@ -552,7 +543,7 @@ mark:hover {
 
 .noteAccordion {
   position: relative;
-  margin-left: 1.5rem; /* Add space for the number */
+  padding-left: 0rem;
 }
 
 
@@ -604,4 +595,39 @@ mark:hover {
   font-family: 'DevanagariOnly';
   src: local('Palatino'), local('Times New Roman');
   unicode-range: U+0900-097F; /* Devanagari Unicode block */
+}
+
+.label {
+
+  font-family: 'LinuxBiolinum', sans-serif; /* Use the Devanagari font for labels */
+  font-size: 0.9rem;
+  color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-4));
+  display: inline-block;
+  vertical-align: baseline; /* Align with text baseline */
+  line-height: inherit; /* Match parent line-height */
+}
+
+@media (min-width: 1000px) {
+  .label {
+    position: absolute;
+    left: 0rem;
+    transform: translateY(0.5em); /* Adjust this value to perfectly align */
+    /* Optional improvements: */
+    width: 5.5rem; /* Prevent text overflow into content */
+    text-align: right; /* Right-align labels */
+    padding-right: 1rem; /* Space between label and content */
+  }  
+}
+
+
+
+
+.bookContainer {
+  height: 100%;
+  padding: 0rem;
+  position: relative; /* Ensure relative positioning for the absolute overlay */
+
+  @media (min-width: 1000px) {
+    padding-left: 6rem; /* padding for labels */
+  }
 }

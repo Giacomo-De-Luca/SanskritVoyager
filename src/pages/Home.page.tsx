@@ -406,9 +406,10 @@ export function HomePage() {
                       (isNavbarVisible ? 
                         (isWordInfoVisible ? '10%' : '10%') : 
                         (isWordInfoVisible ? '12%' : '22%')) :
-                      (isNavbarVisible ? 
-                        (isWordInfoVisible ? '10%' : '25%') : 
-                        (isWordInfoVisible ? '18%' : '28%'))),
+
+                      (isNavbarVisible ?                        
+                        (isWordInfoVisible ? '7%' : '20%') : 
+                        (isWordInfoVisible ? '15%' : '24%'))),
                   paddingRight: isMobile ? '6%' : 
                     (isTablet ? 
                       (isNavbarVisible ? 
