@@ -36,7 +36,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_1",
+            "id": "ANS_1",
             "corresp": "RT_1.2"
           },
           "children": [
@@ -80,7 +80,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_2"
+            "id": "ANS_2"
           },
           "children": [
             {
@@ -118,7 +118,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_3",
+            "id": "ANS_3",
             "corresp": "RT_3.1"
           },
           "children": [
@@ -157,7 +157,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_4",
+            "id": "ANS_4",
             "corresp": "RT_2.1"
           },
           "children": [
@@ -196,7 +196,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_5",
+            "id": "ANS_5",
             "corresp": "RT_6.1"
           },
           "children": [
@@ -235,7 +235,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_6",
+            "id": "ANS_6",
             "corresp": "RT_5.1"
           },
           "children": [
@@ -274,7 +274,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_7"
+            "id": "ANS_7"
           },
           "children": [
             {
@@ -312,7 +312,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_8"
+            "id": "ANS_8"
           },
           "children": [
             {
@@ -350,7 +350,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_9"
+            "id": "ANS_9"
           },
           "children": [
             {
@@ -393,7 +393,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_10",
+            "id": "ANS_10",
             "corresp": "RT_4.1"
           },
           "children": [
@@ -432,7 +432,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_11",
+            "id": "ANS_11",
             "corresp": "RT_8.1"
           },
           "children": [
@@ -471,7 +471,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_12"
+            "id": "ANS_12"
           },
           "children": [
             {
@@ -509,7 +509,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_13"
+            "id": "ANS_13"
           },
           "children": [
             {
@@ -547,7 +547,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_14"
+            "id": "ANS_14"
           },
           "children": [
             {
@@ -585,7 +585,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_15"
+            "id": "ANS_15"
           },
           "children": [
             {
@@ -623,7 +623,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_16"
+            "id": "ANS_16"
           },
           "children": [
             {
@@ -661,7 +661,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_17",
+            "id": "ANS_17",
             "corresp": "SKA_15.37"
           },
           "children": [
@@ -700,7 +700,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "ANS_18",
+            "id": "ANS_18",
             "corresp": "ŚRT_1.1.2"
           },
           "children": [

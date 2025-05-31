@@ -41,7 +41,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_1"
+            "id": "RaKa_1"
           },
           "children": [
             {
@@ -192,7 +192,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_1"
+                "id": "RaKaT_1"
               },
               "text": "śrīgaṇeśāya nāmaḥ | kaś cid iti |",
               "children": [
@@ -403,7 +403,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_2"
+            "id": "RaKa_2"
           },
           "children": [
             {
@@ -490,7 +490,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_2"
+                "id": "RaKaT_2"
               },
               "text": "paśyābjadṛg iti | he",
               "children": [
@@ -852,7 +852,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_3"
+            "id": "RaKa_3"
           },
           "children": [
             {
@@ -990,7 +990,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_3"
+                "id": "RaKaT_3"
               },
               "text": "paśyādrīti |",
               "children": [
@@ -1230,7 +1230,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_4"
+            "id": "RaKa_4"
           },
           "children": [
             {
@@ -1534,7 +1534,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_4"
+                "id": "RaKaT_4"
               },
               "text": "goṣṭhaṃ ghṛtam iti | gavi tiṣṭhatīti",
               "children": [
@@ -1734,7 +1734,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_5"
+            "id": "RaKa_5"
           },
           "children": [
             {
@@ -2060,7 +2060,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_5"
+                "id": "RaKaT_5"
               },
               "text": "abruṭpalāśeti |",
               "children": [
@@ -2300,7 +2300,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_6"
+            "id": "RaKa_6"
           },
           "children": [
             {
@@ -2558,7 +2558,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_6"
+                "id": "RaKaT_6"
               },
               "text": "sūryāṃśur iti | sūryāṃśavo raśmayaḥ | tan nāma vidyate yāsāṃ tāḥ",
               "children": [
@@ -2710,7 +2710,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_7"
+            "id": "RaKa_7"
           },
           "children": [
             {
@@ -3013,7 +3013,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_7"
+                "id": "RaKaT_7"
               },
               "text": "enam iti | he",
               "children": [
@@ -3179,7 +3179,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_8"
+            "id": "RaKa_8"
           },
           "children": [
             {
@@ -3555,7 +3555,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_8"
+                "id": "RaKaT_8"
               },
               "text": "srotojavikṣateti | he",
               "children": [
@@ -3726,7 +3726,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_9"
+            "id": "RaKa_9"
           },
           "children": [
             {
@@ -3862,7 +3862,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_9"
+                "id": "RaKaT_9"
               },
               "text": "svayonibhakṣeti |",
               "children": [
@@ -4088,7 +4088,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_10"
+            "id": "RaKa_10"
           },
           "children": [
             {
@@ -4275,7 +4275,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_10"
+                "id": "RaKaT_10"
               },
               "text": "goṣṭhaś ceti | gavi bhūmau tiṣṭhatīti",
               "children": [
@@ -4508,7 +4508,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_11"
+            "id": "RaKa_11"
           },
           "children": [
             {
@@ -4717,7 +4717,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_11"
+                "id": "RaKaT_11"
               },
               "text": "kṛṣṇo 'bdhara iti |",
               "children": [
@@ -4997,7 +4997,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_12"
+            "id": "RaKa_12"
           },
           "children": [
             {
@@ -5080,7 +5080,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_12"
+                "id": "RaKaT_12"
               },
               "text": "vārdā iti | vār dadatīti",
               "children": [
@@ -5262,7 +5262,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_13"
+            "id": "RaKa_13"
           },
           "children": [
             {
@@ -5409,7 +5409,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_13"
+                "id": "RaKaT_13"
               },
               "text": "eṣo 'ṅghripeti |",
               "children": [
@@ -5688,7 +5688,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_14"
+            "id": "RaKa_14"
           },
           "children": [
             {
@@ -6064,7 +6064,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_14"
+                "id": "RaKaT_14"
               },
               "children": [
                 {
@@ -6553,7 +6553,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_15"
+            "id": "RaKa_15"
           },
           "children": [
             {
@@ -6884,7 +6884,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_15"
+                "id": "RaKaT_15"
               },
               "children": [
                 {
@@ -7043,7 +7043,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_16"
+            "id": "RaKa_16"
           },
           "children": [
             {
@@ -7243,7 +7243,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_16"
+                "id": "RaKaT_16"
               },
               "text": "nā viṣkirāvanam iti |",
               "children": [
@@ -7644,7 +7644,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_17"
+            "id": "RaKa_17"
           },
           "children": [
             {
@@ -8050,7 +8050,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_17"
+                "id": "RaKaT_17"
               },
               "text": "syūtam iti |",
               "children": [
@@ -8383,7 +8383,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_18"
+            "id": "RaKa_18"
           },
           "children": [
             {
@@ -8715,7 +8715,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_18"
+                "id": "RaKaT_18"
               },
               "text": "paṅke nimagnam iti |",
               "children": [
@@ -8936,7 +8936,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_19"
+            "id": "RaKa_19"
           },
           "children": [
             {
@@ -9432,7 +9432,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_19"
+                "id": "RaKaT_19"
               },
               "text": "visphoṭiteti |",
               "children": [
@@ -9622,7 +9622,7 @@
         {
           "tag": "lg",
           "attributes": {
-            "{http://www.w3.org/XML/1998/namespace}id": "RaKa_20"
+            "id": "RaKa_20"
           },
           "children": [
             {
@@ -9953,7 +9953,7 @@
             {
               "tag": "p",
               "attributes": {
-                "{http://www.w3.org/XML/1998/namespace}id": "RaKaT_20"
+                "id": "RaKaT_20"
               },
               "text": "etāvad iti |",
               "children": [

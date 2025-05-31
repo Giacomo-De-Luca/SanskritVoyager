@@ -611,7 +611,7 @@ mark:hover {
   .label {
     position: absolute;
     left: 0rem;
-    transform: translateY(0.5em); /* Adjust this value to perfectly align */
+    transform: translateY(0.5rem); /* Adjust this value to perfectly align */
     /* Optional improvements: */
     width: 5.5rem; /* Prevent text overflow into content */
     text-align: right; /* Right-align labels */

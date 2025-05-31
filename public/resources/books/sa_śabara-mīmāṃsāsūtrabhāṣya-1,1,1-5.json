@@ -38,7 +38,7 @@
     {
       "tag": "p",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "Jaim_1.1.1"
+        "id": "Jaim_1.1.1"
       },
       "text": "athāto dharmajijñāsā //"
     },
@@ -90,7 +90,7 @@
     {
       "tag": "p",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "Jaim_1.1.2"
+        "id": "Jaim_1.1.2"
       },
       "text": "codanālakṣaṇo 'rtho dharmaḥ //"
     },
@@ -142,7 +142,7 @@
     {
       "tag": "p",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "Jaim_1.1.3"
+        "id": "Jaim_1.1.3"
       },
       "text": "tasya nimittaparīṣṭiḥ //"
     },
@@ -159,7 +159,7 @@
     {
       "tag": "p",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "Jaim_1.1.4"
+        "id": "Jaim_1.1.4"
       },
       "text": "satsaṃprayoge puruṣasyendriyāṇāṃ buddhijanma tat pratyakṣam animittam, vidyamnānopalambhanatvāt //"
     },
@@ -176,7 +176,7 @@
     {
       "tag": "p",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "Jaim_1.1.5"
+        "id": "Jaim_1.1.5"
       },
       "text": "autpattikas tu śabdasyārthena saṃbandhas tasya jñānam upadeśo 'vyatirekaś ca arthe 'nupalabdhe, tat pramāṇaṃ bādarāyaṇasya, anapekṣatvāt //"
     },
@@ -208,7 +208,7 @@
     {
       "tag": "p",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "Jaim_1.1.4a"
+        "id": "Jaim_1.1.4a"
       },
       "text": "tatsaṃprayoge puruṣasyendriyāṇāṃ buddhijanma sat pratyakṣam /"
     },
@@ -280,7 +280,7 @@
     {
       "tag": "p",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "Jaim_1.1.4b"
+        "id": "Jaim_1.1.4b"
       },
       "text": "animittaṃ vidyamānopalambhanatvāt //"
     },
@@ -297,7 +297,7 @@
     {
       "tag": "p",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "Jaim_1.1.5a"
+        "id": "Jaim_1.1.5a"
       },
       "text": "autpattikas tu śabdasyārthena saṃbandhas tasya jñānam //"
     },
@@ -394,7 +394,7 @@
     {
       "tag": "p",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "Jaim_1.1.5b"
+        "id": "Jaim_1.1.5b"
       },
       "text": "siddhavad, upadeśāt / //"
     },
@@ -406,7 +406,7 @@
     {
       "tag": "p",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "Jaim_1.1.5c"
+        "id": "Jaim_1.1.5c"
       },
       "text": "avyatirekaś ca //"
     },
@@ -423,7 +423,7 @@
     {
       "tag": "p",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "Jaim_1.1.5c"
+        "id": "Jaim_1.1.5c"
       },
       "text": "avyatirekaś ca //"
     },
@@ -435,7 +435,7 @@
     {
       "tag": "p",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "Jaim_1.1.5d"
+        "id": "Jaim_1.1.5d"
       },
       "text": "arthe 'nupalabdhe //"
     },
@@ -452,7 +452,7 @@
     {
       "tag": "p",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "Jaim_1.1.5d"
+        "id": "Jaim_1.1.5d"
       },
       "text": "tat pramāṇam, anapekṣatvāt //"
     },

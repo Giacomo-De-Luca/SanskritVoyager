@@ -286,6 +286,37 @@ const ClickableSimpleBooks = ({
       });
     };
 
+    if (element.tag === 'lg' && element.attributes?.id) {
+      const labelText = element.attributes.id; // Use the id as label text
+      
+      return (
+        <>
+          {/* Render the label separately */}
+          <div 
+            className={`
+              ${classes.label} 
+              ${isTargetSegment ? classes.highlightedSegment : ''}
+              ${isMatchedSegment ? classes.matchedSegment : ''}
+            `}
+            data-segment-number={segmentNumber}
+            ref={setSegmentRef}
+            id={segmentNumber !== null ? `segment-${segmentNumber}` : undefined}
+          >
+            {labelText}
+          </div>
+          
+          {/* Render the children with normal styling */}
+          {element.children?.map((child, childIndex) => (
+            <React.Fragment key={`lg-label-child-${childIndex}`}>
+              {renderTextElement(child)}
+            </React.Fragment>
+          ))}
+        </>
+      );
+    }
+
+    
+
     // Handle notes at the element level
     if (element.tag === 'note') {
       const noteContent = element.text || '';
