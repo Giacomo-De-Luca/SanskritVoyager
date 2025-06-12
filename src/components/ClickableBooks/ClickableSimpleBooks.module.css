@@ -82,8 +82,8 @@
   
 
   .originalText {
-    margin-bottom: 0.5rem;
-    margin-top: 0.5rem;
+    display: inline;
+
   }
   
   .translatedText {
@@ -630,4 +630,13 @@ mark:hover {
   @media (min-width: 1000px) {
     padding-left: 6rem; /* padding for labels */
   }
+}
+
+.paragraphContainer {
+  display: inline;
+}
+
+.l {
+  display: block;
+  margin-top: 1rem;
 }

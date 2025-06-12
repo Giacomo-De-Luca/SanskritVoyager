@@ -408,8 +408,8 @@ export function HomePage() {
                         (isWordInfoVisible ? '12%' : '22%')) :
 
                       (isNavbarVisible ?                        
-                        (isWordInfoVisible ? '7%' : '20%') : 
-                        (isWordInfoVisible ? '15%' : '24%'))),
+                        (isWordInfoVisible ? '6%' : '18%') :   // navbar
+                        (isWordInfoVisible ? '12%' : '24%'))), // no navbar
                   paddingRight: isMobile ? '6%' : 
                     (isTablet ? 
                       (isNavbarVisible ? 

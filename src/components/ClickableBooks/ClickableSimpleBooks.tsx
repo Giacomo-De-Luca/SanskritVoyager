@@ -264,7 +264,8 @@ const ClickableSimpleBooks = ({
                   return (
 
                     <BookSpan
-                                          wordText={word + ' '} // Display original word with space
+                                          wordText={word + (wordIndex < words.length - 1 ? ' ' : '')}
+                                          // Display original word with space
                                           wordKey={`${segmentIndex}-${wordIndex}`}
                                           // Pass boolean directly
                                           // Pass the memoized handler
@@ -365,6 +366,7 @@ const ClickableSimpleBooks = ({
     }
 
 
+
     if (element.tag === 'pb' || element.tag === 'milestone') {
       let pageText = '';
       // 'attributes' is already defined above, using element.attributes (plural)
@@ -423,7 +425,7 @@ const ClickableSimpleBooks = ({
     }
   
     return (
-      <div 
+      <span 
         className={`
           ${classes.paragraphContainer} 
           ${elementClasses} 
@@ -528,7 +530,7 @@ const ClickableSimpleBooks = ({
             </React.Fragment>
           );
         })}
-      </div>
+      </span>
     );
   };
 
@@ -544,6 +546,7 @@ const ClickableSimpleBooks = ({
         {bookText.body?.map((element, index) => (
           <React.Fragment key={index}>
             {renderTextElement(element)}
+            {['p', 'lb', 'l', 'lg'].includes(element.tag) && <br />}
           </React.Fragment>
         ))}
       </div>
