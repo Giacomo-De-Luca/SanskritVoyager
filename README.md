@@ -1,6 +1,6 @@
 # SanskritVoyager
 
-This repository contains the frontend of the www.sanskritvoyager.com web application. 
+This repository contains the frontend of the Sanskrit Voyager web application, accessible at:  www.sanskritvoyager.com
 
 The React application is built with TypeScript, Vite, and Mantine UI. The codebase is organized with configuration files at the root level, static assets in `public/`, and all source code contained within the `src/` directory. 
 
